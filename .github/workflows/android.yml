@@ -30,9 +30,8 @@ jobs:
 
       # 4️⃣ Build the signed APK
       - name: Build APK
-        run: |
-          cd MyApplication
-          ./gradlew clean assembleRelease \
+        run: ./gradlew clean assembleRelease 
+        working-directory: MY_APPLICATION
             -Pandroid.injected.signing.store.file=../my-release-key.jks \
             -Pandroid.injected.signing.store.password=${{ secrets.KEYSTORE_PASSWORD }} \
             -Pandroid.injected.signing.key.alias=${{ secrets.KEY_ALIAS }} \
