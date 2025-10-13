@@ -40,7 +40,7 @@ jobs:
 
       # 5️⃣ Upload signed APK as artifact
       - name: Upload signed APK
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: MyApplication-signed-APK
           path: MyApplication/app/build/outputs/apk/release/*.apk
