@@ -27,7 +27,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      # 3️⃣ Debug Gradle and AGP versions
+      # 3️⃣ Debug Gradle and AGP versions safely
       - name: Debug Gradle and AGP versions
         run: |
           echo "Gradle version:"
@@ -40,6 +40,7 @@ jobs:
             grep -F com.android.tools.build:gradle build.gradle || echo "AGP line not found"
           else
             echo "No Gradle build file found!"
+          fi
 
       # 4️⃣ Set up JDK 17
       - name: Set up JDK 17
@@ -62,13 +63,13 @@ jobs:
 
       # 6️⃣ Decode release keystore from base64
       - name: Decode release keystore
-        run: echo "$KEYSTORE_BASE64" | base64 --decode > $KEYSTORE_FILE
+        run: echo "$KEYSTORE_BASE64" | base64 --decode > "$KEYSTORE_FILE"
 
       # 7️⃣ Clean project outputs
       - name: Clean Gradle
         run: ./gradlew clean --no-daemon
 
-      # 8️⃣ Verify keystore and key alias
+      # 8️⃣ Verify keystore and list aliases
       - name: Verify Keystore and Key Alias
         run: |
           echo "Listing key aliases in keystore:"
@@ -76,15 +77,26 @@ jobs:
             -keystore "$KEYSTORE_FILE" \
             -storepass "$KEYSTORE_PASSWORD"
 
-      # 9️⃣ Build release APK
-      - name: Build Signed Release APK
+      # 9️⃣ Build release APK with retry logic
+      - name: Build Release APK
         run: |
+          echo "Attempting to build release APK..."
           ./gradlew assembleRelease \
             -Pandroid.injected.signing.store.file="$KEYSTORE_FILE" \
             -Pandroid.injected.signing.store.password="$KEYSTORE_PASSWORD" \
             -Pandroid.injected.signing.key.alias="$KEY_ALIAS" \
             -Pandroid.injected.signing.key.password="$KEY_PASSWORD" \
-            --no-daemon
+            --no-daemon || {
+              echo "Build failed, cleaning Gradle cache and retrying..."
+              rm -rf ~/.gradle/caches ~/.gradle/wrapper
+              ./gradlew clean --no-daemon
+              ./gradlew assembleRelease \
+                -Pandroid.injected.signing.store.file="$KEYSTORE_FILE" \
+                -Pandroid.injected.signing.store.password="$KEYSTORE_PASSWORD" \
+                -Pandroid.injected.signing.key.alias="$KEY_ALIAS" \
+                -Pandroid.injected.signing.key.password="$KEY_PASSWORD" \
+                --no-daemon
+            }
 
       # 🔟 Verify APK exists
       - name: Verify APK exists
