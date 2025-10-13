@@ -30,15 +30,15 @@ jobs:
       # 3️⃣ Debug Gradle and AGP versions safely
       - name: Debug Gradle and AGP versions
         run: |
-          echo "Gradle version:"
+          echo Gradle version:
           ./gradlew --version
 
-          echo "Android Gradle Plugin version:"
+          echo Android Gradle Plugin version:
           if [ -f "build.gradle.kts" ]; then
-            echo "Contents of build.gradle.kts with AGP line:"
+            echo "AGP lines from build.gradle.kts:"
             cat build.gradle.kts | grep -F com.android.tools.build:gradle || echo "AGP line not found"
           elif [ -f "build.gradle" ]; then
-            echo "Contents of build.gradle with AGP line:"
+            echo "AGP lines from build.gradle:"
             cat build.gradle | grep -F com.android.tools.build:gradle || echo "AGP line not found"
           else
             echo "No Gradle build file found!"
