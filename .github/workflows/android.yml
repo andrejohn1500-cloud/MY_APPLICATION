@@ -18,24 +18,46 @@ jobs:
       KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
 
     steps:
+      # 1️⃣ Checkout the repository
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # 2️⃣ Set up JDK 17
       - name: Set up JDK 17
         uses: actions/setup-java@v3
         with:
           distribution: temurin
           java-version: 17
 
+      # 3️⃣ Decode the release keystore from base64 secret
       - name: Decode release keystore
         run: echo "$KEYSTORE_BASE64" | base64 --decode > my-release-key.jks
 
+      # 4️⃣ Make gradlew executable
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      - name: Build Release APK
-        run: ./gradlew assembleRelease
+      # 5️⃣ Clean Gradle build
+      - name: Clean Gradle
+        run: ./gradlew clean --no-daemon
 
+      # 6️⃣ Remove Gradle cache (optional, ensures fresh build)
+      - name: Remove Gradle cache
+        run: rm -rf ~/.gradle/caches/
+
+      # 7️⃣ Verify keystore and list all aliases
+      - name: Verify Keystore and Key Alias
+        run: |
+          echo "Listing key aliases in keystore:"
+          keytool -list -v \
+            -keystore "$KEYSTORE_FILE" \
+            -storepass "$KEYSTORE_PASSWORD"
+
+      # 8️⃣ Build the release APK
+      - name: Build Release APK
+        run: ./gradlew assembleRelease --refresh-dependencies -Dfile.encoding=UTF-8
+
+      # 9️⃣ Verify the APK exists
       - name: Verify APK exists
         run: |
           if [ -f "app/build/outputs/apk/release/app-release.apk" ]; then
@@ -45,6 +67,7 @@ jobs:
             exit 1
           fi
 
+      # 🔟 Upload the APK as an artifact
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
