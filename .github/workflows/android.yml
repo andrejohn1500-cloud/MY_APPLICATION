@@ -28,83 +28,15 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      # 3️⃣ Debug: Gradle and AGP versions safely
+      # 3️⃣ Debug Gradle and AGP versions safely
       - name: Debug Gradle and AGP versions
         run: |
-          echo "Gradle version:"
+          echo Gradle version:
           ./gradlew --version
 
-          echo "Android Gradle Plugin version:"
+          echo Android Gradle Plugin version:
           if [ -f "build.gradle.kts" ]; then
-            echo "Printing build.gradle.kts lines containing AGP:"
-            grep -F "com.android.tools.build:gradle" build.gradle.kts || echo "AGP line not found in build.gradle.kts"
+            echo Printing build.gradle.kts lines containing AGP:
+            grep -F com.android.tools.build:gradle build.gradle.kts || echo AGP line not found in build.gradle.kts
           elif [ -f "build.gradle" ]; then
-            echo "Printing build.gradle lines containing AGP:"
-            grep -F "com.android.tools.build:gradle" build.gradle || echo "AGP line not found in build.gradle"
-          else
-            echo "No Gradle build file found!"
-
-      # 4️⃣ Set up JDK 17
-      - name: Set up JDK 17
-        uses: actions/setup-java@v3
-        with:
-          distribution: temurin
-          java-version: 17
-
-      # 5️⃣ Cache Gradle dependencies and wrapper
-      - name: Cache Gradle
-        id: cache-gradle
-        uses: actions/cache@v3
-        with:
-          path: |
-            ~/.gradle/caches
-            ~/.gradle/wrapper
-          key: gradle-cache-${{ runner.os }}-${{ hashFiles('**/build.gradle*', '**/gradle-wrapper.properties') }}
-          restore-keys: |
-            gradle-cache-${{ runner.os }}-
-
-      # 6️⃣ Decode release keystore from base64
-      - name: Decode release keystore
-        run: echo "$KEYSTORE_BASE64" | base64 --decode > my-release-key.jks
-
-      # 7️⃣ Clean project outputs
-      - name: Clean Gradle
-        run: ./gradlew clean --no-daemon
-
-      # 8️⃣ Verify keystore and list aliases
-      - name: Verify Keystore and Key Alias
-        run: |
-          echo "Listing key aliases in keystore:"
-          keytool -list -v \
-            -keystore "$KEYSTORE_FILE" \
-            -storepass "$KEYSTORE_PASSWORD"
-
-      # 9️⃣ Build release APK with cache safeguard
-      - name: Build Release APK with cache safeguard
-        run: |
-          echo "Attempting to build release APK..."
-          if ./gradlew assembleRelease --no-daemon; then
-            echo "Build succeeded."
-          else
-            echo "Build failed — clearing Gradle cache and retrying..."
-            rm -rf ~/.gradle/caches ~/.gradle/wrapper
-            ./gradlew clean --no-daemon
-            ./gradlew assembleRelease --no-daemon
-          fi
-
-      # 🔟 Verify APK exists
-      - name: Verify APK exists
-        run: |
-          if [ -f "app/build/outputs/apk/release/app-release.apk" ]; then
-            echo "APK built successfully."
-          else
-            echo "APK not found! Build failed."
-            exit 1
-          fi
-
-      # 1️⃣1️⃣ Upload APK as artifact
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: MyApp-Release-APK
-          path: app/build/outputs/apk/release/app-release.apk
+            echo Printing build.gradle lines containing AGP
