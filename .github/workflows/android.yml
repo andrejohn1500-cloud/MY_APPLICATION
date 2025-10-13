@@ -10,10 +10,6 @@ jobs:
   build-release:
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: MY_APPLICATION  # <-- your project folder
-
     env:
       KEYSTORE_FILE: my-release-key.jks
       KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
@@ -45,7 +41,6 @@ jobs:
           else
             echo "No Gradle build file found!"
           fi
-          fi
 
       # 4️⃣ Set up JDK 17
       - name: Set up JDK 17
@@ -69,21 +64,38 @@ jobs:
       - name: Decode release keystore
         run: echo "$KEYSTORE_BASE64" | base64 --decode > "$KEYSTORE_FILE"
 
-      # 7️⃣ Build release APK
-      - name: Build Release APK
-        run: ./gradlew assembleRelease --no-daemon
+      # 7️⃣ Clean project outputs
+      - name: Clean Gradle
+        run: ./gradlew clean --no-daemon
 
-      # 8️⃣ Verify APK exists
+      # 8️⃣ Verify keystore and list aliases
+      - name: Verify Keystore and Key Alias
+        run: |
+          echo "Listing key aliases in keystore:"
+          keytool -list -v \
+            -keystore "$KEYSTORE_FILE" \
+            -storepass "$KEYSTORE_PASSWORD"
+
+      # 9️⃣ Build signed release APK
+      - name: Build Signed Release APK
+        run: ./gradlew assembleRelease \
+              -Pandroid.injected.signing.store.file="$KEYSTORE_FILE" \
+              -Pandroid.injected.signing.store.password="$KEYSTORE_PASSWORD" \
+              -Pandroid.injected.signing.key.alias="$KEY_ALIAS" \
+              -Pandroid.injected.signing.key.password="$KEY_PASSWORD" \
+              --no-daemon
+
+      # 🔟 Verify APK exists
       - name: Verify APK exists
         run: |
           if [ -f "app/build/outputs/apk/release/app-release.apk" ]; then
-            echo "APK built successfully."
+            echo "APK built and signed successfully."
           else
             echo "APK not found! Build failed."
             exit 1
           fi
 
-      # 9️⃣ Upload APK as artifact
+      # 1️⃣1️⃣ Upload APK as artifact
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
