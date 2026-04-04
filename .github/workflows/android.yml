@@ -10,7 +10,7 @@ jobs:
   build-release:
     runs-on: ubuntu-latest
     env:
-      KEYSTORE_FILE: app/my-release-key.jks
+      KEYSTORE_FILE: my-release-key.jks
       KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
       KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
       KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
@@ -50,7 +50,7 @@ jobs:
       # 5️⃣ Decode and write the keystore file (FIXED)
       - name: Decode release keystore from base64
         # This command decodes the base64 secret into the specified filename
-        run: echo $KEYSTORE_BASE64 | base64 --decode > $KEYSTORE_FILE
+        run: echo $KEYSTORE_BASE64 | base64 --decode > app/my-release-key.jks
 
       # 6️⃣ Build Release APK and AAB
       - name: Build Release APK and AAB
