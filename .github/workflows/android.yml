@@ -3,14 +3,14 @@ name: Build Signed APK and AAB
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
   build-release:
     runs-on: ubuntu-latest
     env:
-      KEYSTORE_FILE: my-release-key.jks
+      KEYSTORE_FILE: app/my-release-key.jks
       KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
       KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
       KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
