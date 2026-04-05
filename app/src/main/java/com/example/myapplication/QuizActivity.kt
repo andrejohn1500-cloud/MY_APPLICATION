@@ -51,7 +51,7 @@ class QuizActivity : AppCompatActivity() {
         if (currentIndex >= questions.size) { goToResult(); return }
         answered = false
         val q = questions[currentIndex]
-        binding.tvProgress.text = "Question \${currentIndex + 1} of \${questions.size}"
+        binding.tvProgress.text = "Question ${currentIndex + 1} of ${questions.size}"
         binding.tvQuestion.text  = q.text
         binding.tvScore.text     = "Score: $score"
         options.forEachIndexed { i, btn ->
