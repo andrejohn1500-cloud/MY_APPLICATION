@@ -59,6 +59,7 @@
         android:lineSpacingMultiplier="1.3"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnOption0"
         android:backgroundTint="@null"
         android:layout_width="match_parent"
@@ -71,6 +72,7 @@
         android:paddingStart="16dp"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnOption1"
         android:backgroundTint="@null"
         android:layout_width="match_parent"
@@ -83,6 +85,7 @@
         android:paddingStart="16dp"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnOption2"
         android:backgroundTint="@null"
         android:layout_width="match_parent"
@@ -95,6 +98,7 @@
         android:paddingStart="16dp"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnOption3"
         android:backgroundTint="@null"
         android:layout_width="match_parent"

@@ -42,6 +42,7 @@
         android:textStyle="bold"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnLeaderboard"
         android:backgroundTint="@null"
         android:layout_width="240dp"
@@ -54,6 +55,7 @@
         android:textStyle="bold"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnDonate"
         android:backgroundTint="@null"
         android:layout_width="240dp"
@@ -66,6 +68,7 @@
         android:textStyle="bold"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnMyStory"
         android:backgroundTint="@null"
         android:layout_width="240dp"
