@@ -43,6 +43,13 @@ class QuizActivity : AppCompatActivity() {
 
         val options = listOf(binding.btnOption0, binding.btnOption1,
                              binding.btnOption2, binding.btnOption3)
+        val goldColor = android.graphics.Color.parseColor("#FFD700")
+        listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
+            btn.strokeColor = android.content.res.ColorStateList.valueOf(goldColor)
+            btn.strokeWidth = 4
+            btn.setBackgroundColor(android.graphics.Color.parseColor("#0D2347"))
+            btn.cornerRadius = 40
+        }
         options.forEachIndexed { i, btn -> btn.setOnClickListener { handleAnswer(i, options) } }
         loadQuestion(options)
     }
