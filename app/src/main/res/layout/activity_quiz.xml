@@ -61,8 +61,6 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnOption0"
-        app:strokeColor="#FFD700"
-        app:strokeWidth="3dp"
         app:cornerRadius="14dp"
         android:layout_width="match_parent"
         android:layout_height="54dp"
@@ -74,8 +72,6 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnOption1"
-        app:strokeColor="#FFD700"
-        app:strokeWidth="3dp"
         app:cornerRadius="14dp"
         android:layout_width="match_parent"
         android:layout_height="54dp"
@@ -87,8 +83,6 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnOption2"
-        app:strokeColor="#FFD700"
-        app:strokeWidth="3dp"
         app:cornerRadius="14dp"
         android:layout_width="match_parent"
         android:layout_height="54dp"
@@ -100,8 +94,6 @@
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnOption3"
-        app:strokeColor="#FFD700"
-        app:strokeWidth="3dp"
         app:cornerRadius="14dp"
         android:layout_width="match_parent"
         android:layout_height="54dp"
