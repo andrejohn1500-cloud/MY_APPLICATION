@@ -57,20 +57,31 @@ class ResultActivity : AppCompatActivity() {
     }
 
     private fun submitScore(name: String, score: Int, total: Int, category: String) {
-        db.collection("leaderboard").add(
-            hashMapOf(
-                "name"      to name,
-                "score"     to score,
-                "total"     to total,
-                "category"  to category,
-                "timestamp" to System.currentTimeMillis()
-            )
-        ).addOnSuccessListener {
-            Toast.makeText(this, "Score submitted! 🏆", Toast.LENGTH_SHORT).show()
-            binding.btnSubmitScore.isEnabled = false
-            binding.btnSubmitScore.alpha = 0.5f
-        }.addOnFailureListener {
-            Toast.makeText(this, "Submission failed. Check connection.", Toast.LENGTH_SHORT).show()
-        }
+        db.collection("leaderboard")
+            .whereEqualTo("name", name)
+            .get()
+            .addOnSuccessListener { docs ->
+                val existing = docs.firstOrNull()
+                val prevBest = existing?.getLong("score")?.toInt() ?: -1
+                if (existing != null && prevBest >= score) {
+                    Toast.makeText(this, "Your best score is already $prevBest/$total", Toast.LENGTH_SHORT).show()
+                    binding.btnSubmitScore.isEnabled = false
+                    binding.btnSubmitScore.alpha = 0.5f
+                    return@addOnSuccessListener
+                }
+                val data = hashMapOf<String, Any>(
+                    "name" to name, "score" to score,
+                    "total" to total, "category" to category,
+                    "timestamp" to System.currentTimeMillis()
+                )
+                if (existing != null) existing.reference.set(data)
+                else db.collection("leaderboard").add(data)
+                Toast.makeText(this, "New best score saved!", Toast.LENGTH_SHORT).show()
+                binding.btnSubmitScore.isEnabled = false
+                binding.btnSubmitScore.alpha = 0.5f
+            }
+            .addOnFailureListener {
+                Toast.makeText(this, "Submission failed. Check connection.", Toast.LENGTH_SHORT).show()
+            }
     }
 }

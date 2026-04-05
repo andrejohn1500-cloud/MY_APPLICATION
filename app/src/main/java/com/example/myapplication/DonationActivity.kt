@@ -17,7 +17,7 @@ class DonationActivity : AppCompatActivity() {
 
         binding.btnPayPal.setOnClickListener {
             val intent = Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://www.paypal.com/paypalme/andrejohn1500"))
+                Uri.parse("https://www.paypal.com/donate/?business=andrejohn1500%40gmail.com&currency_code=USD"))
             startActivity(intent)
         }
         binding.btnBackDonate.setOnClickListener { finish() }

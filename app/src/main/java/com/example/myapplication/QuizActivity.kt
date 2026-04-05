@@ -2,6 +2,8 @@ package com.example.myapplication
 
 import android.content.Intent
 import android.media.AudioAttributes
+import android.media.AudioManager
+import android.media.ToneGenerator
 import android.media.SoundPool
 import android.os.Bundle
 import android.os.CountDownTimer
@@ -92,10 +94,10 @@ class QuizActivity : AppCompatActivity() {
         if (selected == q.correctIndex) {
             score++
             options[selected].setBackgroundResource(R.drawable.bg_option_correct)
-            soundPool.play(sndCorrect, 1f, 1f, 0, 0, 1f)
+            ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_BEEP, 250)
         } else {
             options[selected].setBackgroundResource(R.drawable.bg_option_wrong)
-            soundPool.play(sndWrong, 1f, 1f, 0, 0, 1f)
+            ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_NACK, 400)
             showCorrect(options)
         }
         disableAll(options)
