@@ -44,11 +44,6 @@ class QuizActivity : AppCompatActivity() {
         val options = listOf(binding.btnOption0, binding.btnOption1,
                              binding.btnOption2, binding.btnOption3)
         listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
-            val gd = android.graphics.drawable.GradientDrawable()
-            gd.setColor(android.graphics.Color.parseColor("#0D2347"))
-            gd.setStroke(6, android.graphics.Color.parseColor("#FFD700"))
-            gd.cornerRadius = 28f
-            btn.background = gd
         }
         options.forEachIndexed { i, btn -> btn.setOnClickListener { handleAnswer(i, options) } }
         loadQuestion(options)
