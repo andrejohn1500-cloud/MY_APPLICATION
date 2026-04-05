@@ -46,6 +46,11 @@ class QuizActivity : AppCompatActivity() {
         listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
         }
         options.forEachIndexed { i, btn -> btn.setOnClickListener { handleAnswer(i, options) } }
+        val goldStroke = android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#FFD700"))
+        listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
+            btn.strokeColor = goldStroke
+            btn.strokeWidth = 6
+        }
         loadQuestion(options)
     }
 
