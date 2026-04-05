@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795963309675",
+    "project_id": "dres-quiz",
+    "storage_bucket": "dres-quiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795963309675:android:0724fc00bfd53c35c9bb2e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9V00_37WsLLfvouSJPFCZdq8BA8xC70A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
