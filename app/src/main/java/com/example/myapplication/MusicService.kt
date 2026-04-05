@@ -9,11 +9,24 @@ class MusicService : Service() {
     private var mediaPlayer: MediaPlayer? = null
 
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
-        if (mediaPlayer == null) {
-            mediaPlayer = MediaPlayer.create(this, R.raw.classical_bg)
-            mediaPlayer?.isLooping = true
-            mediaPlayer?.setVolume(0.35f, 0.35f)
-            mediaPlayer?.start()
+        when (intent?.action) {
+            "PAUSE" -> mediaPlayer?.pause()
+            "RESUME" -> {
+                if (mediaPlayer == null) {
+                    mediaPlayer = MediaPlayer.create(this, R.raw.classical_bg)
+                    mediaPlayer?.isLooping = true
+                    mediaPlayer?.setVolume(0.35f, 0.35f)
+                }
+                mediaPlayer?.start()
+            }
+            else -> {
+                if (mediaPlayer == null) {
+                    mediaPlayer = MediaPlayer.create(this, R.raw.classical_bg)
+                    mediaPlayer?.isLooping = true
+                    mediaPlayer?.setVolume(0.35f, 0.35f)
+                    mediaPlayer?.start()
+                }
+            }
         }
         return START_STICKY
     }
