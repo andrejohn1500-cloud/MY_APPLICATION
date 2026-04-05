@@ -43,6 +43,7 @@
 
     <Button
         android:id="@+id/btnLeaderboard"
+        android:backgroundTint="@null"
         android:layout_width="240dp"
         android:layout_height="56dp"
         android:layout_marginBottom="14dp"
@@ -54,6 +55,7 @@
 
     <Button
         android:id="@+id/btnDonate"
+        android:backgroundTint="@null"
         android:layout_width="240dp"
         android:layout_height="56dp"
         android:layout_marginBottom="14dp"
@@ -65,6 +67,7 @@
 
     <Button
         android:id="@+id/btnMyStory"
+        android:backgroundTint="@null"
         android:layout_width="240dp"
         android:layout_height="56dp"
         android:background="@drawable/bg_option_default"
