@@ -23,5 +23,7 @@
         <activity android:name=".LeaderboardActivity" android:exported="false"/>
         <activity android:name=".DonationActivity"   android:exported="false"/>
         <activity android:name=".MyStoryActivity"    android:exported="false"/>
+            <service android:name=".MusicService" android:exported="false"/>
+        <service android:name=".MusicService" android:exported="false"/>
     </application>
 </manifest>

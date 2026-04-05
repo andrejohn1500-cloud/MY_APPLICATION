@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        startService(Intent(this, MusicService::class.java))
 
         binding.btnStart.setOnClickListener {
             startActivity(Intent(this, CategoryActivity::class.java))
