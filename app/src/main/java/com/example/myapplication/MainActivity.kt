@@ -17,6 +17,21 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         startService(Intent(this, MusicService::class.java))
 
+        // Vibrate helper
+        val vib = getSystemService(android.content.Context.VIBRATOR_SERVICE) as android.os.Vibrator
+        fun buzz() {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                vib.vibrate(android.os.VibrationEffect.createOneShot(25, android.os.VibrationEffect.DEFAULT_AMPLITUDE))
+            } else { vib.vibrate(25) }
+        }
+
+        listOf(binding.btnStart, binding.btnLeaderboard, binding.btnDonate, binding.btnMyStory).forEach { btn ->
+            btn.setOnTouchListener { v, event ->
+                if (event.action == android.view.MotionEvent.ACTION_DOWN) { buzz(); v.performClick() }
+                false
+            }
+        }
+
         // Set button backgrounds programmatically
         val goldColor = android.graphics.Color.parseColor("#FFD700")
         val navyAccent = android.graphics.Color.parseColor("#2A2F52")
