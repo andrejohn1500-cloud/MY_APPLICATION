@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+layout = '''<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -101,4 +101,8 @@
         android:textStyle="bold"
         android:letterSpacing="0.08"/>
 
-</LinearLayout>
+</LinearLayout>'''
+
+with open("./app/src/main/res/layout/activity_category.xml", "w") as f:
+    f.write(layout)
+print("Done")
