@@ -63,6 +63,13 @@ class QuizActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        val vib = getSystemService(android.content.Context.VIBRATOR_SERVICE) as android.os.Vibrator
+        fun buzz() {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                vib.vibrate(android.os.VibrationEffect.createOneShot(25, android.os.VibrationEffect.DEFAULT_AMPLITUDE))
+            } else { vib.vibrate(25) }
+        }
+
         binding = ActivityQuizBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -82,7 +89,7 @@ class QuizActivity : AppCompatActivity() {
         )
 
         options.forEachIndexed { i, btn ->
-            btn.setOnClickListener { handleAnswer(i, options) }
+            btn.setOnClickListener { buzz(); handleAnswer(i, options) }
         }
 
         loadQuestion(options)

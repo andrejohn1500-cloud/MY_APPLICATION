@@ -15,6 +15,13 @@ class CategoryActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        val vib = getSystemService(android.content.Context.VIBRATOR_SERVICE) as android.os.Vibrator
+        fun buzz() {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                vib.vibrate(android.os.VibrationEffect.createOneShot(25, android.os.VibrationEffect.DEFAULT_AMPLITUDE))
+            } else { vib.vibrate(25) }
+        }
+
         binding = ActivityCategoryBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
