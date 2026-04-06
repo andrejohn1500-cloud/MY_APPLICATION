@@ -100,10 +100,10 @@ class QuizActivity : AppCompatActivity() {
         val q = questions[currentIndex]
         if (selected == q.correctIndex) {
             score++
-            options[selected].setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954")))
+            (options[selected] as? com.google.android.material.button.MaterialButton)?.let { (it as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954"))) }
             ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_BEEP, 250)
         } else {
-            options[selected].setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#E74C3C")))
+            (options[selected] as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#E74C3C")))
             ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_NACK, 400)
             showCorrect(options)
         }
@@ -113,7 +113,7 @@ class QuizActivity : AppCompatActivity() {
 
     private fun showCorrect(options: List<Button>) {
         options[questions[currentIndex].correctIndex]
-            .setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954")))
+            .let { (it as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954"))) }
     }
 
     private fun disableAll(options: List<Button>) = options.forEach { it.isEnabled = false }
