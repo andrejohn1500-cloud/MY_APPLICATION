@@ -5,7 +5,7 @@ import android.graphics.Color
 import android.os.Bundle
 import android.view.Gravity
 import android.widget.Button
-import android.widget.GridLayout
+import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.databinding.ActivityCategoryBinding
 
@@ -25,31 +25,38 @@ class CategoryActivity : AppCompatActivity() {
         binding = ActivityCategoryBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val grid = binding.gridCategories
+                val container = binding.categoryContainer
+        val dpToPx = { dp: Int -> (dp * resources.displayMetrics.density).toInt() }
 
-        QuestionBank.categories.forEachIndexed { index, category ->
-            val btn = Button(this).apply {
-                text = category
-                textSize = 14f
-                setTextColor(Color.WHITE)
-                gravity = Gravity.CENTER
-                setBackgroundResource(R.drawable.bg_category)
-                setPadding(16, 28, 16, 28)
-                val params = GridLayout.LayoutParams().apply {
-                    width  = 0
-                    height = GridLayout.LayoutParams.WRAP_CONTENT
-                    columnSpec = GridLayout.spec(index % 2, 1, 1f)
-                    rowSpec    = GridLayout.spec(index / 2, 1, 1f)
-                    setMargins(12, 12, 12, 12)
+        // ── Category button builder — add new categories in QuestionBank only ──
+        QuestionBank.categories.forEach { category ->
+            val btn = android.widget.Button(this).apply {
+                text          = category
+                textSize      = 15f
+                letterSpacing = 0.08f
+                isAllCaps     = true
+                gravity       = android.view.Gravity.CENTER
+                setTextColor(android.graphics.Color.parseColor("#FFD700"))
+                backgroundTintList = android.content.res.ColorStateList.valueOf(
+                    android.graphics.Color.parseColor("#2A2F52"))
+                stateListAnimator = null
+
+                val params = LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT,
+                    dpToPx(68)
+                ).apply {
+                    bottomMargin = dpToPx(14)
                 }
                 layoutParams = params
+
                 setOnClickListener {
-                    val intent = Intent(this@CategoryActivity, QuizActivity::class.java)
+                    buzz()
+                    val intent = android.content.Intent(
+                        this@CategoryActivity, QuizActivity::class.java)
                     intent.putExtra("category", category)
                     startActivity(intent)
                 }
             }
-            grid.addView(btn)
+            container.addView(btn)
         }
-    }
 }
