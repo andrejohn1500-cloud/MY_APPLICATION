@@ -38,6 +38,8 @@
 
     <Button
         android:id="@+id/btnStart"
+        android:backgroundTint="@null"
+        android:stateListAnimator="@null"
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
@@ -50,6 +52,8 @@
 
     <Button
         android:id="@+id/btnLeaderboard"
+        android:backgroundTint="@null"
+        android:stateListAnimator="@null"
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
@@ -62,6 +66,8 @@
 
     <Button
         android:id="@+id/btnDonate"
+        android:backgroundTint="@null"
+        android:stateListAnimator="@null"
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
@@ -74,6 +80,8 @@
 
     <Button
         android:id="@+id/btnMyStory"
+        android:backgroundTint="@null"
+        android:stateListAnimator="@null"
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:background="@drawable/bg_button_accent"
