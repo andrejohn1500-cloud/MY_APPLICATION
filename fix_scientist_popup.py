@@ -1,4 +1,68 @@
-package com.example.myapplication
+import re
+
+# ── STEP 1: Add popup layout to activity_quiz.xml ──
+xml_path = "./app/src/main/res/layout/activity_quiz.xml"
+with open(xml_path, "r") as f:
+    xml = f.read()
+
+popup_xml = '''
+    <!-- Scientist Popup -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/scientistCard"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_gravity="top|end"
+        android:visibility="gone"
+        app:cardCornerRadius="16dp"
+        app:cardBackgroundColor="#1A1E3A"
+        app:cardElevation="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tvScientistFace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🧑‍🔬"
+                android:textSize="28sp"
+                android:paddingEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/tvScientistRemark"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#FFD700"
+                android:textSize="11sp"
+                android:textStyle="italic"
+                android:text="Remark here"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>'''
+
+# Insert before closing root tag
+if 'scientistCard' not in xml:
+    xml = xml.replace('</FrameLayout>', popup_xml + '\n</FrameLayout>')
+    if 'scientistCard' not in xml:
+        xml = xml.replace('</LinearLayout>', popup_xml + '\n</LinearLayout>', 1)
+
+with open(xml_path, "w") as f:
+    f.write(xml)
+print("✅ Scientist popup card added to XML")
+
+# ── STEP 2: Update QuizActivity.kt ──
+kt_path = "./app/src/main/java/com/example/myapplication/QuizActivity.kt"
+with open(kt_path, "r") as f:
+    kt = f.read()
+
+new_kt = '''package com.example.myapplication
 
 import android.content.Intent
 import android.media.AudioAttributes
@@ -217,3 +281,8 @@ class QuizActivity : AppCompatActivity() {
         soundPool.release()
     }
 }
+'''
+
+with open(kt_path, "w") as f:
+    f.write(new_kt)
+print("✅ QuizActivity.kt updated with scientist popup system")
