@@ -22,14 +22,16 @@ class MainActivity : AppCompatActivity() {
         val navyAccent = android.graphics.Color.parseColor("#2A2F52")
         val darkText = android.graphics.Color.parseColor("#1A1D2E")
 
-        binding.btnStart.setBackgroundColor(goldColor)
+        val goldList   = android.content.res.ColorStateList.valueOf(goldColor)
+        val navyList   = android.content.res.ColorStateList.valueOf(navyAccent)
+        val darkList   = android.content.res.ColorStateList.valueOf(darkText)
+
+        binding.btnStart.backgroundTintList = goldList
         binding.btnStart.setTextColor(darkText)
-        binding.btnStart.stateListAnimator = null
 
         listOf(binding.btnLeaderboard, binding.btnDonate, binding.btnMyStory).forEach { btn ->
-            btn.setBackgroundColor(navyAccent)
+            btn.backgroundTintList = navyList
             btn.setTextColor(goldColor)
-            btn.stateListAnimator = null
         }
 
         binding.btnStart.setOnClickListener {
