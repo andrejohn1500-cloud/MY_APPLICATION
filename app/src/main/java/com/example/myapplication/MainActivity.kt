@@ -17,6 +17,21 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         startService(Intent(this, MusicService::class.java))
 
+        // Set button backgrounds programmatically
+        val goldColor = android.graphics.Color.parseColor("#FFD700")
+        val navyAccent = android.graphics.Color.parseColor("#2A2F52")
+        val darkText = android.graphics.Color.parseColor("#1A1D2E")
+
+        binding.btnStart.setBackgroundColor(goldColor)
+        binding.btnStart.setTextColor(darkText)
+        binding.btnStart.stateListAnimator = null
+
+        listOf(binding.btnLeaderboard, binding.btnDonate, binding.btnMyStory).forEach { btn ->
+            btn.setBackgroundColor(navyAccent)
+            btn.setTextColor(goldColor)
+            btn.stateListAnimator = null
+        }
+
         binding.btnStart.setOnClickListener {
             startActivity(Intent(this, CategoryActivity::class.java))
         }
