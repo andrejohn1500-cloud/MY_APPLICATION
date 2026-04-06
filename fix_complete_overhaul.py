@@ -1,4 +1,6 @@
-package com.example.myapplication
+path = "./app/src/main/java/com/example/myapplication/QuizActivity.kt"
+
+new_content = '''package com.example.myapplication
 
 import android.content.Intent
 import android.media.AudioAttributes
@@ -158,3 +160,8 @@ class QuizActivity : AppCompatActivity() {
         soundPool.release()
     }
 }
+'''
+
+with open(path, "w") as f:
+    f.write(new_content)
+print("✅ QuizActivity.kt fully rewritten — clean answer feedback system")

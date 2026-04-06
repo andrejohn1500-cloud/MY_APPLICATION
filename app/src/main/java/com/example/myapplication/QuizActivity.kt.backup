@@ -10,7 +10,6 @@ import android.os.CountDownTimer
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.databinding.ActivityQuizBinding
-import com.google.android.material.button.MaterialButton
 
 class QuizActivity : AppCompatActivity() {
 
@@ -22,7 +21,7 @@ class QuizActivity : AppCompatActivity() {
     private var timer: CountDownTimer? = null
     private lateinit var soundPool: SoundPool
     private var sndCorrect = 0
-    private var sndWrong  = 0
+    private var sndWrong   = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -38,16 +37,20 @@ class QuizActivity : AppCompatActivity() {
             .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
             .build()
         soundPool = SoundPool.Builder().setMaxStreams(2).setAudioAttributes(attrs).build()
+        // Add res/raw/correct.mp3 and res/raw/wrong.mp3 then uncomment:
+        // sndCorrect = soundPool.load(this, R.raw.correct, 1)
+        // sndWrong   = soundPool.load(this, R.raw.wrong,   1)
 
-        val options = listOf(
-            binding.btnOption0, binding.btnOption1,
-            binding.btnOption2, binding.btnOption3
-        )
-
-        options.forEachIndexed { i, btn ->
-            btn.setOnClickListener { handleAnswer(i, options) }
+        val options = listOf(binding.btnOption0, binding.btnOption1,
+                             binding.btnOption2, binding.btnOption3)
+        listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
         }
-
+        options.forEachIndexed { i, btn -> btn.setOnClickListener { handleAnswer(i, options) } }
+        val goldStroke = android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#FFD700"))
+        listOf(binding.btnOption0, binding.btnOption1, binding.btnOption2, binding.btnOption3).forEach { btn ->
+            btn.strokeColor = goldStroke
+            btn.strokeWidth = 6
+        }
         loadQuestion(options)
     }
 
@@ -58,16 +61,11 @@ class QuizActivity : AppCompatActivity() {
         binding.tvProgress.text = "Question ${currentIndex + 1} of ${questions.size}"
         binding.tvQuestion.text  = q.text
         binding.tvScore.text     = "Score: $score"
-
         options.forEachIndexed { i, btn ->
             btn.text = q.options[i]
-            btn.isEnabled = true
+            /* stroke preserved */
             btn.setTextColor(getColor(R.color.white))
-            // Gold border stays via XML — only reset the fill to transparent
-            (btn as? MaterialButton)?.backgroundTintList =
-                android.content.res.ColorStateList.valueOf(
-                    android.graphics.Color.TRANSPARENT
-                )
+            btn.isEnabled = true
         }
         startTimer(options)
     }
@@ -100,39 +98,25 @@ class QuizActivity : AppCompatActivity() {
         answered = true
         timer?.cancel()
         val q = questions[currentIndex]
-
         if (selected == q.correctIndex) {
             score++
-            // Green fill — gold border stays
-            setButtonFill(options[selected], "#1DB954")
-            ToneGenerator(AudioManager.STREAM_MUSIC, 90)
-                .startTone(ToneGenerator.TONE_PROP_BEEP, 250)
+            (options[selected] as? com.google.android.material.button.MaterialButton)?.let { (it as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954"))) }
+            ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_BEEP, 250)
         } else {
-            // Red fill on wrong button
-            setButtonFill(options[selected], "#E74C3C")
-            // Green fill on correct button
-            setButtonFill(options[q.correctIndex], "#1DB954")
-            ToneGenerator(AudioManager.STREAM_MUSIC, 90)
-                .startTone(ToneGenerator.TONE_PROP_NACK, 400)
+            (options[selected] as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#E74C3C")))
+            ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_NACK, 400)
+            showCorrect(options)
         }
-
         disableAll(options)
         nextDelayed(options)
     }
 
-    private fun setButtonFill(btn: Button, hexColor: String) {
-        (btn as? MaterialButton)?.backgroundTintList =
-            android.content.res.ColorStateList.valueOf(
-                android.graphics.Color.parseColor(hexColor)
-            )
-    }
-
     private fun showCorrect(options: List<Button>) {
-        setButtonFill(options[questions[currentIndex].correctIndex], "#1DB954")
+        options[questions[currentIndex].correctIndex]
+            .let { (it as? com.google.android.material.button.MaterialButton)?.setStrokeColor(android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#1DB954"))) }
     }
 
-    private fun disableAll(options: List<Button>) =
-        options.forEach { it.isEnabled = false }
+    private fun disableAll(options: List<Button>) = options.forEach { it.isEnabled = false }
 
     private fun nextDelayed(options: List<Button>) {
         binding.root.postDelayed({
