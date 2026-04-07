@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+xml = '''<?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -138,4 +138,7 @@
             android:stateListAnimator="@null"/>
 
     </LinearLayout>
-</ScrollView>
+</ScrollView>'''
+
+open("./app/src/main/res/layout/activity_result.xml", "w").write(xml)
+print("Done")
