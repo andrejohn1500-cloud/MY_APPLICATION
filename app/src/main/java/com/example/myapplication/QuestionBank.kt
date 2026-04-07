@@ -257,14 +257,14 @@ object QuestionBank {
             1, "🇻🇨 SVG & Vincy Life")
     )
 
-    fun getQuestions(category: String): List<Question> = when (category) {
-        "🌍 Caribbean History" -> caribbeanHistory
-        "🧪 Science & Tech"   -> scienceTech
-        "🏅 Sports"            -> sports
-        "🗺️ World Geography"  -> worldGeo
-        "🎭 Arts & Culture"   -> artsCulture
-        "🇻🇨 SVG & Vincy Life" -> svgVincy
-        else -> caribbeanHistory
+    fun getQuestions(category: String): List<Question> = when {
+        category.contains("Caribbean History") -> caribbeanHistory
+        category.contains("Science")           -> scienceTech
+        category.contains("Sports")            -> sports
+        category.contains("Geography")         -> worldGeo
+        category.contains("Arts")              -> artsCulture
+        category.contains("Vincy")             -> svgVincy
+        else                                   -> caribbeanHistory
     }
 
     fun getAllQuestions(): List<Question> =

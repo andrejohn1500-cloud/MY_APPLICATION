@@ -22,7 +22,7 @@ class CategoryActivity : AppCompatActivity() {
         "⚽  Sports",
         "🗺️  World Geography",
         "🎭  Arts & Culture",
-        "🇻🇨  SVG & Vincy Life"
+        "🇻🇨 SVG & Vincy Life"
         // Add new categories below this line, e.g.:
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
