@@ -12,7 +12,7 @@ object QuestionBank {
     val categories = listOf(
         "🌍 Caribbean History",
         "🧪 Science & Tech",
-        "⚽ Sports",
+        "🏅 Sports",
         "🗺️ World Geography",
         "🎭 Arts & Culture",
         "🇻🇨 SVG & Vincy Life"
@@ -107,39 +107,39 @@ object QuestionBank {
 
     private val sports = listOf(
         q("Which country won the FIFA World Cup in 2022?",
-            "France|Brazil|Argentina|Germany", 2, "⚽ Sports"),
+            "France|Brazil|Argentina|Germany", 2, "🏅 Sports"),
         q("How many players from each team are on the court in basketball?",
-            "4|5|6|7", 1, "⚽ Sports"),
+            "4|5|6|7", 1, "🏅 Sports"),
         q("Usain Bolt, the world's fastest man, is from which Caribbean country?",
-            "Trinidad|Barbados|Jamaica|Bahamas", 2, "⚽ Sports"),
+            "Trinidad|Barbados|Jamaica|Bahamas", 2, "🏅 Sports"),
         q("Which country has won the most Cricket World Cups?",
-            "Australia|West Indies|India|England", 0, "⚽ Sports"),
+            "Australia|West Indies|India|England", 0, "🏅 Sports"),
         q("In tennis, what is the term for a score of 40-40?",
-            "Tie|Deuce|Set Point|Match Point", 1, "⚽ Sports"),
+            "Tie|Deuce|Set Point|Match Point", 1, "🏅 Sports"),
         q("The Summer Olympic Games are held every how many years?",
-            "2|3|4|5", 2, "⚽ Sports"),
+            "2|3|4|5", 2, "🏅 Sports"),
         q("Chris Gayle is associated with which Caribbean cricket team?",
-            "Trinidad|Barbados|Jamaica|Guyana", 2, "⚽ Sports"),
+            "Trinidad|Barbados|Jamaica|Guyana", 2, "🏅 Sports"),
         q("Which sport uses a shuttlecock?",
-            "Squash|Badminton|Volleyball|Polo", 1, "⚽ Sports"),
+            "Squash|Badminton|Volleyball|Polo", 1, "🏅 Sports"),
         q("How many holes are played in a standard round of golf?",
-            "9|12|18|21", 2, "⚽ Sports"),
+            "9|12|18|21", 2, "🏅 Sports"),
         q("The Shot Put is a discipline in which sport?",
-            "Swimming|Athletics|Gymnastics|Weightlifting", 1, "⚽ Sports"),
+            "Swimming|Athletics|Gymnastics|Weightlifting", 1, "🏅 Sports"),
         q("Serena Williams is celebrated for which sport?",
-            "Golf|Tennis|Basketball|Volleyball", 1, "⚽ Sports"),
+            "Golf|Tennis|Basketball|Volleyball", 1, "🏅 Sports"),
         q("Which Caribbean nation is famous for its Winter Olympics bobsled team?",
-            "Trinidad|Jamaica|Barbados|Cuba", 1, "⚽ Sports"),
+            "Trinidad|Jamaica|Barbados|Cuba", 1, "🏅 Sports"),
         q("In which country was the sport of cricket invented?",
-            "Australia|West Indies|England|India", 2, "⚽ Sports"),
+            "Australia|West Indies|England|India", 2, "🏅 Sports"),
         q("What colour jersey does the leader wear in the Tour de France?",
-            "Red|Green|Yellow|Blue", 2, "⚽ Sports"),
+            "Red|Green|Yellow|Blue", 2, "🏅 Sports"),
         q("How many individual events make up a Decathlon?",
-            "8|10|12|15", 1, "⚽ Sports"),
+            "8|10|12|15", 1, "🏅 Sports"),
         q("The FIFA World Cup is held every how many years?",
-            "2|3|4|6", 2, "⚽ Sports"),
+            "2|3|4|6", 2, "🏅 Sports"),
         q("Which Caribbean nation won gold in the men's 4x100m relay at the 2008 Beijing Olympics?",
-            "Trinidad|Jamaica|Bahamas|Cuba", 1, "⚽ Sports")
+            "Trinidad|Jamaica|Bahamas|Cuba", 1, "🏅 Sports")
     )
 
     // ── 4. WORLD GEOGRAPHY (16 questions) ─────────────────────
@@ -260,7 +260,7 @@ object QuestionBank {
     fun getQuestions(category: String): List<Question> = when (category) {
         "🌍 Caribbean History" -> caribbeanHistory
         "🧪 Science & Tech"   -> scienceTech
-        "⚽ Sports"            -> sports
+        "🏅 Sports"            -> sports
         "🗺️ World Geography"  -> worldGeo
         "🎭 Arts & Culture"   -> artsCulture
         "🇻🇨 SVG & Vincy Life" -> svgVincy
