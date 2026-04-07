@@ -1,4 +1,4 @@
-package com.example.myapplication
+kt = '''package com.example.myapplication
 
 import android.content.Intent
 import android.os.Bundle
@@ -56,3 +56,7 @@ class CategoryActivity : AppCompatActivity() {
         }
     }
 }
+'''
+
+open("./app/src/main/java/com/example/myapplication/CategoryActivity.kt", "w").write(kt)
+print("Done")
