@@ -79,7 +79,7 @@
                     android:layout_width="220dp"
                     android:layout_height="wrap_content"
                     android:hint="Enter your name"
-                    android:hintTextColor="#9099B7"
+                    android:textColorHint="#9099B7"
                     android:textColor="#FFFFFF"
                     android:textSize="15sp"
                     android:gravity="center"
