@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+import shutil
+
+xml_path = "./app/src/main/res/layout/activity_result.xml"
+shutil.copy(xml_path, "./activity_result_backup.xml")
+
+xml = '''<?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -267,4 +272,8 @@
             android:layout_marginTop="4dp"/>
 
     </LinearLayout>
-</ScrollView>
+</ScrollView>'''
+
+with open(xml_path, "w") as f:
+    f.write(xml)
+print("Done.")
