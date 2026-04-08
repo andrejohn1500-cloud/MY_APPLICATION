@@ -1,4 +1,17 @@
-package com.example.myapplication
+import shutil
+
+kt_path = "./app/src/main/java/com/example/myapplication/ResultActivity.kt"
+shutil.copy(kt_path, "./ResultActivity_backup2.kt")
+
+trophy_100 = u"\U0001F3C6"
+trophy_80  = u"\U0001F947"
+trophy_50  = u"\U0001F948"
+trophy_low = u"\U0001F4DA"
+rocket     = u"\U0001F680"
+lock       = u"\U0001F512"
+teacher    = u"\U0001F9D1\U0001F3FD\u200D\U0001F3EB"
+
+kt = u'''package com.example.myapplication
 
 import android.content.Intent
 import android.graphics.Color
@@ -60,22 +73,22 @@ class ResultActivity : AppCompatActivity() {
 
         when {
             pct == 100 -> {
-                binding.tvTrophy.text = "🏆"
+                binding.tvTrophy.text = "''' + trophy_100 + u'''"
                 binding.tvGrade.text = "Outstanding!"
                 binding.tvGrade.setTextColor(Color.parseColor("#4CAF50"))
             }
             pct >= 80 -> {
-                binding.tvTrophy.text = "🥇"
+                binding.tvTrophy.text = "''' + trophy_80 + u'''"
                 binding.tvGrade.text = "Great Work!"
                 binding.tvGrade.setTextColor(Color.parseColor("#FFD700"))
             }
             pct >= 50 -> {
-                binding.tvTrophy.text = "🥈"
+                binding.tvTrophy.text = "''' + trophy_50 + u'''"
                 binding.tvGrade.text = "Good Effort!"
                 binding.tvGrade.setTextColor(Color.parseColor("#FF9800"))
             }
             else -> {
-                binding.tvTrophy.text = "📚"
+                binding.tvTrophy.text = "''' + trophy_low + u'''"
                 binding.tvGrade.text = "Keep Studying!"
                 binding.tvGrade.setTextColor(Color.parseColor("#F44336"))
             }
@@ -92,11 +105,11 @@ class ResultActivity : AppCompatActivity() {
         if (pct >= 80) {
             binding.btnNextLevel.isEnabled = true
             binding.btnNextLevel.alpha = 1.0f
-            binding.btnNextLevel.text = "🚀  NEXT LEVEL"
+            binding.btnNextLevel.text = "''' + rocket + u'''  NEXT LEVEL"
         } else {
             binding.btnNextLevel.isEnabled = false
             binding.btnNextLevel.alpha = 0.35f
-            binding.btnNextLevel.text = "🔒  NEXT LEVEL  (80% required)"
+            binding.btnNextLevel.text = "''' + lock + u'''  NEXT LEVEL  (80% required)"
         }
 
         binding.btnNextLevel.setOnClickListener {
@@ -165,3 +178,8 @@ class ResultActivity : AppCompatActivity() {
             }
     }
 }
+'''
+
+with open(kt_path, "w", encoding="utf-8") as f:
+    f.write(kt)
+print("Done.")
