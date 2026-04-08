@@ -1,25 +1,157 @@
+import shutil
+
 path = "./app/src/main/res/layout/activity_quiz.xml"
+shutil.copy(path, "./activity_quiz_backup.xml")
 
-with open(path, "r", encoding="utf-8") as f:
-    content = f.read()
+xml = '''<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
 
-# Fix 1: Remove weight from question text - use wrap_content + margin instead
-content = content.replace(
-    'android:id="@+id/tvQuestion"\n        android:layout_width="match_parent"\n        android:layout_height="0dp"\n        android:layout_weight="1"',
-    'android:id="@+id/tvQuestion"\n        android:layout_width="match_parent"\n        android:layout_height="wrap_content"\n        android:layout_marginBottom="24dp"'
-)
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="16dp">
 
-# Fix 2: Add top margin to first button so it doesn't crowd question
-content = content.replace(
-    'android:id="@+id/btnOption0"',
-    'android:id="@+id/btnOption0"\n        android:layout_marginTop="8dp"'
-)
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:paddingTop="20dp"
+            android:paddingBottom="10dp">
+            <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="0.15"/>
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="10dp"
+                android:layout_weight="0.7"
+                android:progressBackgroundTint="@color/navy_light"
+                android:progressTint="@color/gold_dark"
+                android:max="30"/>
+            <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="0.15"/>
+        </LinearLayout>
 
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
+        <TextView
+            android:id="@+id/tvCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/gold_dark"
+            android:textSize="16sp"
+            android:textAllCaps="true"
+            android:letterSpacing="0.15"
+            android:gravity="center"
+            android:layout_marginBottom="12dp"/>
 
-print("Done! Verifying tvQuestion block:")
-import re
-match = re.search(r'id="@\+id/tvQuestion"[^<]*', content)
-if match:
-    print(match.group())
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:lineSpacingMultiplier="1.3"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnOption0"
+            app:strokeColor="#FFA500"
+            app:strokeWidth="2dp"
+            app:cornerRadius="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:gravity="start|center_vertical"
+            android:paddingStart="16dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnOption1"
+            app:strokeColor="#FFA500"
+            app:strokeWidth="2dp"
+            app:cornerRadius="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:gravity="start|center_vertical"
+            android:paddingStart="16dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnOption2"
+            app:strokeColor="#FFA500"
+            app:strokeWidth="2dp"
+            app:cornerRadius="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:gravity="start|center_vertical"
+            android:paddingStart="16dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnOption3"
+            app:strokeColor="#FFA500"
+            app:strokeWidth="2dp"
+            app:cornerRadius="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:layout_marginBottom="12dp"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:gravity="start|center_vertical"
+            android:paddingStart="16dp"/>
+
+        <TextView
+            android:id="@+id/tvScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white_alpha"
+            android:textSize="13sp"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/scientistCard"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="295dp"
+        android:translationX="700dp"
+        app:cardCornerRadius="12dp"
+        app:cardBackgroundColor="#1A1E3A"
+        app:cardElevation="8dp">
+
+        <TextView
+            android:id="@+id/tvScientistRemark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:padding="12dp"
+            android:lineSpacingMultiplier="1.3"/>
+
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>'''
+
+with open(path, "w") as f:
+    f.write(xml)
+
+print("Done. Backup saved as activity_quiz_backup.xml")
