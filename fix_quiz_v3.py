@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+import shutil, re
+
+# --- XML ---
+xml_path = "./app/src/main/res/layout/activity_quiz.xml"
+shutil.copy(xml_path, "./activity_quiz_backup3.xml")
+
+xml = '''<?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -184,4 +190,22 @@
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
-</FrameLayout>
+</FrameLayout>'''
+
+with open(xml_path, "w") as f:
+    f.write(xml)
+print("XML written.")
+
+# --- KOTLIN: update timer icon ---
+kt_path = "./app/src/main/java/com/example/myapplication/QuizActivity.kt"
+with open(kt_path, "r") as f:
+    kt = f.read()
+
+kt = kt.replace('binding.tvTimer.text = "\\u29210 $secs"', 'binding.tvTimer.text = "\\uD83D\\uDD50 $secs"')
+kt = kt.replace('binding.tvTimer.text = "⊙ $secs"', 'binding.tvTimer.text = "🕐 $secs"')
+kt = kt.replace('binding.tvTimer.text = "\\u2299 $secs"', 'binding.tvTimer.text = "🕐 $secs"')
+
+with open(kt_path, "w") as f:
+    f.write(kt)
+print("Kotlin timer icon updated.")
+print("Done. Backup: activity_quiz_backup3.xml")
