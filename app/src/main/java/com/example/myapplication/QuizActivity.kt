@@ -178,10 +178,10 @@ class QuizActivity : AppCompatActivity() {
                     card.animate()
                         .alpha(0f)
                         .translationX(300f)
-                        .setDuration(300)
+                        .setDuration(180)
                         .withEndAction { card.visibility = View.GONE }
                         .start()
-                }, 2000)
+                }, 1200)
             }
             .start()
     }
