@@ -266,6 +266,7 @@ object QuestionBank {
         category.contains("Vincy")             -> svgVincy
         category.contains("English A")      -> cxcEnglishAQuestions
         category.contains("English B")      -> cxcEnglishBQuestions
+        category.contains("Maths")          -> cxcMathsQuestions
         else                                   -> caribbeanHistory
     }
 
@@ -482,6 +483,100 @@ object QuestionBank {
             options = listOf("Trinidad", "Barbados", "London", "New York"),
             correctIndex = 2,
             category = "CXC English B"
+        )
+    )
+
+
+    val cxcMathsQuestions = listOf(
+        Question(
+            text = "What is the value of 2³ × 3²?",
+            options = listOf("36", "72", "48", "54"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "Solve for x: 3x + 7 = 22",
+            options = listOf("3", "4", "5", "6"),
+            correctIndex = 2,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "What is 15% of 200?",
+            options = listOf("25", "30", "35", "40"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "The area of a circle with radius 7 cm is approximately:",
+            options = listOf("44 cm²", "154 cm²", "49 cm²", "22 cm²"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "Simplify: 4x² + 3x - 2x² + x",
+            options = listOf("2x² + 4x", "6x² + 4x", "2x² - 4x", "6x² - 4x"),
+            correctIndex = 0,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "What is the HCF of 24 and 36?",
+            options = listOf("6", "8", "12", "18"),
+            correctIndex = 2,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "Express 0.35 as a fraction in its simplest form:",
+            options = listOf("35/100", "7/20", "7/25", "3/5"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "A rectangle has length 12 cm and width 5 cm. What is its perimeter?",
+            options = listOf("34 cm", "60 cm", "30 cm", "17 cm"),
+            correctIndex = 0,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "What is the gradient of a line passing through (0,2) and (4,10)?",
+            options = listOf("2", "3", "4", "8"),
+            correctIndex = 0,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "Factorise: x² - 9",
+            options = listOf("(x-3)(x-3)", "(x+9)(x-1)", "(x+3)(x-3)", "(x-9)(x+1)"),
+            correctIndex = 2,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "If a = 3 and b = -2, what is the value of 2a - 3b?",
+            options = listOf("0", "12", "6", "9"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "What is the LCM of 4, 6 and 8?",
+            options = listOf("12", "16", "24", "48"),
+            correctIndex = 2,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "A triangle has angles 90° and 35°. What is the third angle?",
+            options = listOf("45°", "55°", "65°", "75°"),
+            correctIndex = 1,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "What is the probability of rolling an even number on a standard die?",
+            options = listOf("1/6", "1/3", "1/2", "2/3"),
+            correctIndex = 2,
+            category = "CXC Maths"
+        ),
+        Question(
+            text = "Convert 3/4 to a percentage:",
+            options = listOf("34%", "57%", "70%", "75%"),
+            correctIndex = 3,
+            category = "CXC Maths"
         )
     )
 
