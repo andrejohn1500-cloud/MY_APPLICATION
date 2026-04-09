@@ -43,8 +43,6 @@
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
         android:backgroundTint="#FFD700"
-        app:rippleColor="#80000000"
-        app:cornerRadius="12dp"
         android:foreground="?android:attr/selectableItemBackground"
         android:text="▶  PLAY"
         android:textColor="#1A1D2E"
