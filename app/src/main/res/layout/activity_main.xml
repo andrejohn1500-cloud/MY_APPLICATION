@@ -44,6 +44,7 @@
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
         android:background="@drawable/bg_button_play"
+        android:foreground="?android:attr/selectableItemBackground"
         android:text="▶  PLAY"
         android:textColor="#1A1D2E"
         android:textSize="18sp"
