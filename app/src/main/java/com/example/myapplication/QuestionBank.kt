@@ -262,6 +262,7 @@ object QuestionBank {
         category.contains("Integrated Science") -> cxcIntScienceQuestions
         category.contains("Social Studies")   -> cxcSocialStudiesQuestions
         category.contains("POB")              -> cxcPOBQuestions
+        category.contains("CXC IT")           -> cxcITQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("CXC Geography")       -> cxcGeographyQuestions
@@ -957,6 +958,100 @@ object QuestionBank {
             options = listOf("More capital than sole trader", "Shared decision making", "Unlimited liability for partners", "Shared workload"),
             correctIndex = 2,
             category = "CXC POB"
+        )
+    )
+
+
+    val cxcITQuestions = listOf(
+        Question(
+            text = "What does CPU stand for?",
+            options = listOf("Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Unit"),
+            correctIndex = 0,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following is an example of an input device?",
+            options = listOf("Monitor", "Printer", "Keyboard", "Speaker"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "What does RAM stand for?",
+            options = listOf("Read Access Memory", "Random Access Memory", "Rapid Application Memory", "Read Application Module"),
+            correctIndex = 1,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following is an operating system?",
+            options = listOf("Microsoft Word", "Google Chrome", "Windows 11", "Adobe Photoshop"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "What does HTTP stand for?",
+            options = listOf("HyperText Transfer Protocol", "High Transfer Text Program", "HyperText Transmission Process", "High Text Transfer Protocol"),
+            correctIndex = 0,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which storage device has no moving parts and is fastest?",
+            options = listOf("Hard Disk Drive", "CD-ROM", "Floppy Disk", "Solid State Drive"),
+            correctIndex = 3,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "A collection of related records in a database is called a:",
+            options = listOf("Field", "Table", "Query", "Form"),
+            correctIndex = 1,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following is malicious software designed to damage a computer?",
+            options = listOf("Firewall", "Antivirus", "Virus", "Browser"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "What is the binary equivalent of the decimal number 10?",
+            options = listOf("0101", "1010", "1100", "0110"),
+            correctIndex = 1,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which network covers the largest geographic area?",
+            options = listOf("LAN", "MAN", "PAN", "WAN"),
+            correctIndex = 3,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following is an example of application software?",
+            options = listOf("Windows 10", "Device drivers", "Microsoft Excel", "BIOS"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "What does URL stand for?",
+            options = listOf("Uniform Resource Locator", "Universal Remote Link", "Unified Record Location", "Uniform Routing Link"),
+            correctIndex = 0,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following is an output device?",
+            options = listOf("Scanner", "Microphone", "Projector", "Webcam"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "What is the main function of a firewall?",
+            options = listOf("Speed up internet connection", "Store backup files", "Block unauthorised network access", "Manage email accounts"),
+            correctIndex = 2,
+            category = "CXC IT"
+        ),
+        Question(
+            text = "Which of the following file extensions is associated with a spreadsheet?",
+            options = listOf(".docx", ".pptx", ".xlsx", ".pdf"),
+            correctIndex = 2,
+            category = "CXC IT"
         )
     )
 
