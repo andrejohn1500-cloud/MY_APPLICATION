@@ -264,6 +264,7 @@ object QuestionBank {
         category.contains("POB")              -> cxcPOBQuestions
         category.contains("CXC IT")           -> cxcITQuestions
         category.contains("Office Admin")     -> cxcOfficeAdminQuestions
+        category.contains("Physical Education") -> cxcPEQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("CXC Geography")       -> cxcGeographyQuestions
@@ -1147,6 +1148,100 @@ object QuestionBank {
             options = listOf("To send faxes", "To record messages when someone is unavailable", "To list office supplies", "To track employee hours"),
             correctIndex = 1,
             category = "CXC Office Admin"
+        )
+    )
+
+
+    val cxcPEQuestions = listOf(
+        Question(
+            text = "Which of the following is a component of physical fitness?",
+            options = listOf("Intelligence", "Cardiovascular endurance", "Memory", "Creativity"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "The heart rate measured when the body is at complete rest is called:",
+            options = listOf("Maximum heart rate", "Working heart rate", "Resting heart rate", "Recovery heart rate"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which body system is responsible for transporting oxygen to muscles?",
+            options = listOf("Digestive system", "Nervous system", "Circulatory system", "Skeletal system"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "What is the term for the range of motion available at a joint?",
+            options = listOf("Strength", "Flexibility", "Agility", "Power"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which vitamin is produced by the body when exposed to sunlight?",
+            options = listOf("Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"),
+            correctIndex = 3,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "A sprain is an injury to a:",
+            options = listOf("Muscle", "Bone", "Ligament", "Tendon"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which of the following best describes aerobic exercise?",
+            options = listOf("Short bursts of high intensity activity", "Exercise that requires oxygen over a sustained period", "Lifting heavy weights", "Stretching and flexibility work"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "How many players are on a standard basketball team on the court?",
+            options = listOf("4", "5", "6", "7"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "The FITT principle stands for Frequency, Intensity, Time and:",
+            options = listOf("Technique", "Training", "Type", "Timing"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which of the following is a bone in the human leg?",
+            options = listOf("Humerus", "Radius", "Femur", "Ulna"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "What does BMI stand for?",
+            options = listOf("Body Mass Index", "Basic Muscle Intensity", "Body Movement Index", "Basic Mass Indicator"),
+            correctIndex = 0,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which nutrient is the body's preferred source of energy during exercise?",
+            options = listOf("Protein", "Fat", "Carbohydrates", "Vitamins"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "In volleyball, how many touches is each team allowed before returning the ball?",
+            options = listOf("2", "3", "4", "5"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "Which of the following is a principle of training?",
+            options = listOf("Confusion", "Overload", "Underperformance", "Isolation"),
+            correctIndex = 1,
+            category = "CXC Physical Education"
+        ),
+        Question(
+            text = "First aid treatment for a minor burn is to:",
+            options = listOf("Apply butter or oil", "Cover with a dry cloth", "Run cool water over it for 10 minutes", "Pop any blisters immediately"),
+            correctIndex = 2,
+            category = "CXC Physical Education"
         )
     )
 

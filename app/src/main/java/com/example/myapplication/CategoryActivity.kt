@@ -33,6 +33,7 @@ class CategoryActivity : AppCompatActivity() {
         "CXC POB",
         "CXC IT",
         "CXC Office Admin",
+        "CXC Physical Education",
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )
