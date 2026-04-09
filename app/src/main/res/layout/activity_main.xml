@@ -39,7 +39,6 @@
     <Button
         android:id="@+id/btnStart"
         android:backgroundTint="@null"
-        android:stateListAnimator="@null"
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
