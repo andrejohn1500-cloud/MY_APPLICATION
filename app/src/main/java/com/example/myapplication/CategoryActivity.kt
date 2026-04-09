@@ -25,7 +25,7 @@ class CategoryActivity : AppCompatActivity() {
         "🇻🇨 SVG & Vincy Life"
         // Add new categories below this
         "CXC English A",
-        "CXC English B", line, e.g.:
+        "CXC English B",
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )
