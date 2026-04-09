@@ -267,6 +267,7 @@ object QuestionBank {
         category.contains("English A")      -> cxcEnglishAQuestions
         category.contains("English B")      -> cxcEnglishBQuestions
         category.contains("Maths")          -> cxcMathsQuestions
+        category.contains("Integrated Science") -> cxcIntScienceQuestions
         else                                   -> caribbeanHistory
     }
 
@@ -577,6 +578,100 @@ object QuestionBank {
             options = listOf("34%", "57%", "70%", "75%"),
             correctIndex = 3,
             category = "CXC Maths"
+        )
+    )
+
+
+    val cxcIntScienceQuestions = listOf(
+        Question(
+            text = "What is the chemical symbol for water?",
+            options = listOf("WO", "H2O", "HO2", "W2O"),
+            correctIndex = 1,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which organ pumps blood around the human body?",
+            options = listOf("Lungs", "Kidney", "Heart", "Liver"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "What type of energy does the sun produce that plants use in photosynthesis?",
+            options = listOf("Chemical energy", "Light energy", "Thermal energy", "Kinetic energy"),
+            correctIndex = 1,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which of the following is a conductor of electricity?",
+            options = listOf("Rubber", "Plastic", "Copper", "Wood"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "What gas do plants absorb from the atmosphere during photosynthesis?",
+            options = listOf("Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "The unit of electric current is the:",
+            options = listOf("Volt", "Watt", "Ohm", "Ampere"),
+            correctIndex = 3,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which of the following is NOT a renewable energy source?",
+            options = listOf("Solar", "Wind", "Natural gas", "Hydroelectric"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "What is the process by which water turns into vapour called?",
+            options = listOf("Condensation", "Evaporation", "Precipitation", "Transpiration"),
+            correctIndex = 1,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "The pH of a neutral solution is:",
+            options = listOf("0", "5", "7", "14"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which part of the cell controls its activities?",
+            options = listOf("Cell membrane", "Cytoplasm", "Nucleus", "Vacuole"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "What is the force that pulls objects towards the centre of the Earth?",
+            options = listOf("Friction", "Magnetism", "Gravity", "Tension"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which blood vessels carry blood away from the heart?",
+            options = listOf("Veins", "Capillaries", "Arteries", "Lymph nodes"),
+            correctIndex = 2,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "What is the chemical formula for table salt?",
+            options = listOf("KCl", "NaCl", "CaCl", "MgCl"),
+            correctIndex = 1,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Sound travels fastest through:",
+            options = listOf("Vacuum", "Air", "Water", "Steel"),
+            correctIndex = 3,
+            category = "CXC Integrated Science"
+        ),
+        Question(
+            text = "Which nutrient provides the body with the most energy per gram?",
+            options = listOf("Carbohydrates", "Protein", "Vitamins", "Fats"),
+            correctIndex = 3,
+            category = "CXC Integrated Science"
         )
     )
 
