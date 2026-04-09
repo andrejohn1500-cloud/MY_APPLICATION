@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             } else { vib.vibrate(25) }
         }
 
-        listOf(binding.btnStart, binding.btnLeaderboard, binding.btnDonate, binding.btnMyStory).forEach { btn ->
+        listOf(binding.btnStart, binding.btnLeaderboard, binding.btnDonate, binding.btnMyStory, binding.btnSettings).forEach { btn ->
             btn.setOnTouchListener { v, event ->
                 if (event.action == android.view.MotionEvent.ACTION_DOWN) { buzz(); v.performClick() }
                 false
@@ -60,6 +60,9 @@ class MainActivity : AppCompatActivity() {
         }
         binding.btnMyStory.setOnClickListener {
             startActivity(Intent(this, MyStoryActivity::class.java))
+        }
+        binding.btnSettings.setOnClickListener {
+            startActivity(Intent(this, SettingsActivity::class.java))
         }
 
         // Background music — add res/raw/bg_music.mp3 then uncomment:
