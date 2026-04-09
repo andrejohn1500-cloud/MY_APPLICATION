@@ -263,6 +263,7 @@ object QuestionBank {
         category.contains("Social Studies")   -> cxcSocialStudiesQuestions
         category.contains("POB")              -> cxcPOBQuestions
         category.contains("CXC IT")           -> cxcITQuestions
+        category.contains("Office Admin")     -> cxcOfficeAdminQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("CXC Geography")       -> cxcGeographyQuestions
@@ -1052,6 +1053,100 @@ object QuestionBank {
             options = listOf(".docx", ".pptx", ".xlsx", ".pdf"),
             correctIndex = 2,
             category = "CXC IT"
+        )
+    )
+
+
+    val cxcOfficeAdminQuestions = listOf(
+        Question(
+            text = "Which of the following is a function of a receptionist?",
+            options = listOf("Managing company accounts", "Greeting and directing visitors", "Repairing office equipment", "Writing company policy"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which filing system arranges records in order from A to Z?",
+            options = listOf("Numerical", "Geographical", "Alphabetical", "Chronological"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "A memorandum is used for communication:",
+            options = listOf("Between two companies", "Within an organisation", "To customers only", "To government offices"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which of the following is an example of reprographic equipment?",
+            options = listOf("Stapler", "Photocopier", "Filing cabinet", "Telephone"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "The petty cash book is used to record:",
+            options = listOf("Large business transactions", "Employee salaries", "Small day-to-day expenses", "Bank deposits"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which of the following is the correct layout for a formal business letter?",
+            options = listOf("Date, salutation, heading, body, closing", "Heading, date, inside address, salutation, body, closing", "Salutation, body, date, closing, heading", "Body, date, inside address, closing"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "What is the purpose of an agenda in a meeting?",
+            options = listOf("To record what was discussed", "To outline the topics to be discussed", "To list attendees only", "To confirm the meeting venue"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Minutes of a meeting are:",
+            options = listOf("A plan for the next meeting", "An official record of what was discussed and decided", "A list of people invited", "A financial summary"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which of the following is a primary storage method for physical documents?",
+            options = listOf("Cloud storage", "USB drive", "Filing cabinet", "Email"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which type of communication uses body language and facial expressions?",
+            options = listOf("Written communication", "Oral communication", "Non-verbal communication", "Electronic communication"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "An office that has all departments in one large open space is called a:",
+            options = listOf("Private office", "Closed office", "Open-plan office", "Virtual office"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which of the following is an electronic method of communication?",
+            options = listOf("Memorandum", "Notice board", "Email", "Letter"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "The person who chairs a meeting is called the:",
+            options = listOf("Secretary", "Treasurer", "Chairperson", "Recorder"),
+            correctIndex = 2,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "Which filing system organises records by date?",
+            options = listOf("Alphabetical", "Numerical", "Geographical", "Chronological"),
+            correctIndex = 3,
+            category = "CXC Office Admin"
+        ),
+        Question(
+            text = "What is the main purpose of a telephone message pad?",
+            options = listOf("To send faxes", "To record messages when someone is unavailable", "To list office supplies", "To track employee hours"),
+            correctIndex = 1,
+            category = "CXC Office Admin"
         )
     )
 
