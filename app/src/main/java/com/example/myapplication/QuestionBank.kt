@@ -264,6 +264,8 @@ object QuestionBank {
         category.contains("Geography")         -> worldGeo
         category.contains("Arts")              -> artsCulture
         category.contains("Vincy")             -> svgVincy
+        category.contains("English A")      -> cxcEnglishAQuestions
+        category.contains("English B")      -> cxcEnglishBQuestions
         else                                   -> caribbeanHistory
     }
 
