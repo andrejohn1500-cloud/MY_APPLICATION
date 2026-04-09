@@ -42,8 +42,6 @@
         android:layout_width="260dp"
         android:layout_height="60dp"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="#FFD700"
-        android:foreground="?android:attr/selectableItemBackground"
         android:text="▶  PLAY"
         android:textColor="#1A1D2E"
         android:textSize="18sp"
