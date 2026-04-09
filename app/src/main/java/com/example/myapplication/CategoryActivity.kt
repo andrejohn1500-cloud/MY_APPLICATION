@@ -29,6 +29,7 @@ class CategoryActivity : AppCompatActivity() {
         "CXC Maths",
         "CXC Integrated Science",
         "CXC Social Studies",
+        "CXC Geography",
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )

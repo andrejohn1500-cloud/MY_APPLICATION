@@ -263,6 +263,7 @@ object QuestionBank {
         category.contains("Social Studies")   -> cxcSocialStudiesQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
+        category.contains("CXC Geography")       -> cxcGeographyQuestions
         category.contains("Geography")         -> worldGeo
         category.contains("Arts")              -> artsCulture
         category.contains("Vincy")             -> svgVincy
@@ -767,6 +768,100 @@ object QuestionBank {
             options = listOf("1962", "1966", "1974", "1979"),
             correctIndex = 3,
             category = "CXC Social Studies"
+        )
+    )
+
+
+    val cxcGeographyQuestions = listOf(
+        Question(
+            text = "Which of the following is the largest island in the Caribbean?",
+            options = listOf("Jamaica", "Trinidad", "Cuba", "Hispaniola"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "What type of climate does most of the Caribbean experience?",
+            options = listOf("Temperate", "Arid", "Tropical", "Polar"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which of the following is a fold mountain?",
+            options = listOf("The Himalayas", "The Hawaiian Islands", "The Appalachians", "The Rockies"),
+            correctIndex = 0,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "The imaginary line at 0° latitude is called the:",
+            options = listOf("Prime Meridian", "Tropic of Cancer", "Equator", "Arctic Circle"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which Caribbean island is the most densely populated?",
+            options = listOf("Cuba", "Barbados", "Jamaica", "Trinidad"),
+            correctIndex = 1,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "What is the name of the process where rock is broken down in place without being moved?",
+            options = listOf("Erosion", "Transportation", "Weathering", "Deposition"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "The Atlantic hurricane season officially runs from:",
+            options = listOf("January to June", "April to October", "June to November", "July to December"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which of the following is an example of a renewable resource?",
+            options = listOf("Coal", "Natural gas", "Timber", "Petroleum"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "The movement of people from rural to urban areas is called:",
+            options = listOf("Emigration", "Immigration", "Rural-urban migration", "Urbanisation"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which of the following best describes a delta?",
+            options = listOf("A deep valley carved by a river", "A flat landform at the mouth of a river", "A mountain formed by volcanic activity", "A coastal cliff formed by wave erosion"),
+            correctIndex = 1,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "The Northern Range is a mountain range located in:",
+            options = listOf("Jamaica", "Barbados", "Trinidad", "Saint Vincent"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which of the following is a greenhouse gas?",
+            options = listOf("Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Contour lines on a map that are close together indicate:",
+            options = listOf("Flat land", "Gentle slopes", "Steep slopes", "River valleys"),
+            correctIndex = 2,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "La Soufrière is an active volcano located in:",
+            options = listOf("Dominica", "Martinique", "Saint Lucia", "Saint Vincent"),
+            correctIndex = 3,
+            category = "CXC Geography"
+        ),
+        Question(
+            text = "Which type of rainfall is caused by air rising over mountains?",
+            options = listOf("Convectional rainfall", "Frontal rainfall", "Relief rainfall", "Cyclonic rainfall"),
+            correctIndex = 2,
+            category = "CXC Geography"
         )
     )
 
