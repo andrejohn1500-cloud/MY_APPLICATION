@@ -267,8 +267,6 @@ object QuestionBank {
         else                                   -> caribbeanHistory
     }
 
-    )
-    )
 
 
     val cxcEnglishA = listOf(
