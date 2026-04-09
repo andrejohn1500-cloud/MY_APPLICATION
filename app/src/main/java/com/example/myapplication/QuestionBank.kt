@@ -295,6 +295,194 @@ object QuestionBank {
         Question("The mood of a poem refers to:", listOf("The poet's biography", "The rhyme scheme of the poem", "The emotional atmosphere created for the reader", "The length of the poem"), 2, "CXC English B")
     )
 
+
+    val cxcEnglishAQuestions = listOf(
+        Question(
+            text = "Which sentence is punctuated correctly?",
+            options = listOf("Its a lovely day, isn't it.", "It's a lovely day, isn't it?", "Its a lovely day isn't it?", "It's a lovely day isn't it."),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "The word 'benevolent' most nearly means:",
+            options = listOf("Strict", "Clever", "Kind and generous", "Angry"),
+            correctIndex = 2,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which of the following is a compound sentence?",
+            options = listOf("She ran quickly.", "She ran quickly because she was late.", "She ran quickly, and she arrived on time.", "Running quickly, she arrived."),
+            correctIndex = 2,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which punctuation mark introduces a list?",
+            options = listOf("Semicolon", "Colon", "Comma", "Dash"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "'The students were advised to study.' This sentence is in:",
+            options = listOf("Active voice", "Passive voice", "Direct speech", "Reported question"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which word correctly completes: 'Neither the teacher nor the students ___ ready'?",
+            options = listOf("was", "were", "is", "has been"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "A formal letter to a principal should begin:",
+            options = listOf("Hey there,", "Dear Sir/Madam,", "Yo Principal,", "Hi,"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which is an example of a metaphor?",
+            options = listOf("She runs like the wind.", "The wind howled angrily.", "Life is a journey.", "He almost fell."),
+            correctIndex = 2,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "The purpose of a topic sentence is to:",
+            options = listOf("Conclude the paragraph", "Introduce the main idea of the paragraph", "Give supporting details", "Transition to the next paragraph"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "'Affect' and 'effect' are examples of:",
+            options = listOf("Synonyms", "Antonyms", "Homophones", "Commonly confused words"),
+            correctIndex = 3,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which sentence contains a dangling modifier?",
+            options = listOf("Running fast, John caught the bus.", "Running fast, the bus was caught by John.", "John, running fast, caught the bus.", "John ran fast to catch the bus."),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "A summary should be:",
+            options = listOf("Longer than the original text", "Written in the author's exact words", "In your own words and shorter than the original", "Full of the writer's opinions"),
+            correctIndex = 2,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which word is spelled correctly?",
+            options = listOf("Recieve", "Receive", "Receve", "Reciev"),
+            correctIndex = 1,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "'The principal called the students.' The object of this sentence is:",
+            options = listOf("Called", "The principal", "The students", "Principal"),
+            correctIndex = 2,
+            category = "CXC English A"
+        ),
+        Question(
+            text = "Which type of writing aims to convince the reader?",
+            options = listOf("Narrative", "Descriptive", "Persuasive", "Expository"),
+            correctIndex = 2,
+            category = "CXC English A"
+        )
+    )
+
+
+    val cxcEnglishBQuestions = listOf(
+        Question(
+            text = "'The trees whispered secrets to the wind.' This is an example of:",
+            options = listOf("Simile", "Metaphor", "Personification", "Hyperbole"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "The atmosphere or feeling created by a piece of writing is called its:",
+            options = listOf("Theme", "Tone", "Mood", "Plot"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "In a story, the central conflict is usually introduced during the:",
+            options = listOf("Resolution", "Climax", "Falling action", "Rising action"),
+            correctIndex = 3,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "Which Caribbean author wrote 'A House for Mr. Biswas'?",
+            options = listOf("Derek Walcott", "V.S. Naipaul", "Samuel Selvon", "Earl Lovelace"),
+            correctIndex = 1,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "A sonnet traditionally has how many lines?",
+            options = listOf("12", "14", "16", "18"),
+            correctIndex = 1,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "'She's as brave as a lion.' This sentence uses:",
+            options = listOf("Metaphor", "Personification", "Simile", "Alliteration"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "The narrator who uses 'I' and is a character in the story has which point of view?",
+            options = listOf("Second person", "Third person omniscient", "Third person limited", "First person"),
+            correctIndex = 3,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "The main message or central idea of a literary work is its:",
+            options = listOf("Plot", "Setting", "Theme", "Characterisation"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "Derek Walcott was awarded the Nobel Prize in:",
+            options = listOf("Literature", "Peace", "Economics", "Medicine"),
+            correctIndex = 0,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "'Season of mists and mellow fruitfulness' uses which device?",
+            options = listOf("Onomatopoeia", "Alliteration", "Hyperbole", "Irony"),
+            correctIndex = 1,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "A story's climax is:",
+            options = listOf("The introduction of characters", "The background setting", "The turning point of greatest tension", "The final resolution"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "When a character's words mean the opposite of what is literally said, this is:",
+            options = listOf("Verbal irony", "Hyperbole", "Allusion", "Paradox"),
+            correctIndex = 0,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "The repetition of initial consonant sounds is called:",
+            options = listOf("Assonance", "Rhyme", "Alliteration", "Onomatopoeia"),
+            correctIndex = 2,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "In drama, a soliloquy is when:",
+            options = listOf("Two characters speak privately", "A character speaks their thoughts aloud alone", "The audience speaks to the cast", "The narrator describes the scene"),
+            correctIndex = 1,
+            category = "CXC English B"
+        ),
+        Question(
+            text = "Samuel Selvon's 'The Lonely Londoners' is set in:",
+            options = listOf("Trinidad", "Barbados", "London", "New York"),
+            correctIndex = 2,
+            category = "CXC English B"
+        )
+    )
+
     fun getAllQuestions(): List<Question> =
         caribbeanHistory + scienceTech + sports + worldGeo + artsCulture + svgVincy + cxcEnglishA + cxcEnglishB
 }
