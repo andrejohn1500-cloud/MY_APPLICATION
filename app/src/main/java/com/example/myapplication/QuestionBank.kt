@@ -260,6 +260,7 @@ object QuestionBank {
     fun getQuestions(category: String): List<Question> = when {
         category.contains("Caribbean History") -> caribbeanHistory
         category.contains("Integrated Science") -> cxcIntScienceQuestions
+        category.contains("Social Studies")   -> cxcSocialStudiesQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("Geography")         -> worldGeo
@@ -672,6 +673,100 @@ object QuestionBank {
             options = listOf("Carbohydrates", "Protein", "Vitamins", "Fats"),
             correctIndex = 3,
             category = "CXC Integrated Science"
+        )
+    )
+
+
+    val cxcSocialStudiesQuestions = listOf(
+        Question(
+            text = "CARICOM was established in which year?",
+            options = listOf("1958", "1973", "1981", "1962"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following is a function of the family?",
+            options = listOf("Collecting taxes", "Socialisation of children", "Enforcing laws", "Managing the economy"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "The head of government in a Westminster system is the:",
+            options = listOf("President", "Governor General", "Prime Minister", "Chief Justice"),
+            correctIndex = 2,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following best defines 'culture'?",
+            options = listOf("The government of a country", "The way of life of a group of people", "The economic system of a nation", "The laws of a society"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "What is the main purpose of a constitution?",
+            options = listOf("To collect taxes", "To declare war", "To outline the fundamental laws and rights of a nation", "To manage trade"),
+            correctIndex = 2,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which institution is responsible for making laws in most Caribbean countries?",
+            options = listOf("The Cabinet", "The Parliament", "The Judiciary", "The Police"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "A person who enters a country to live permanently is called an:",
+            options = listOf("Tourist", "Emigrant", "Immigrant", "Refugee"),
+            correctIndex = 2,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following is a non-governmental organisation (NGO)?",
+            options = listOf("The Cabinet", "The Red Cross", "The Parliament", "The Police Force"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "The process by which a person learns the norms of their society is called:",
+            options = listOf("Industrialisation", "Socialisation", "Urbanisation", "Globalisation"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following is a cause of unemployment?",
+            options = listOf("High literacy rates", "Lack of skills matching job market needs", "Strong GDP growth", "Low inflation"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "The Universal Declaration of Human Rights was adopted in which year?",
+            options = listOf("1945", "1948", "1952", "1960"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following is an example of social mobility?",
+            options = listOf("Moving from one city to another", "A farmer's child becoming a doctor", "Changing religion", "Joining a new club"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "The main export of most Caribbean economies has traditionally been:",
+            options = listOf("Oil", "Sugar", "Bauxite", "Tourism"),
+            correctIndex = 1,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Which of the following rights is a civil right?",
+            options = listOf("Right to work", "Right to education", "Right to vote", "Right to healthcare"),
+            correctIndex = 2,
+            category = "CXC Social Studies"
+        ),
+        Question(
+            text = "Saint Vincent and the Grenadines gained independence in which year?",
+            options = listOf("1962", "1966", "1974", "1979"),
+            correctIndex = 3,
+            category = "CXC Social Studies"
         )
     )
 
