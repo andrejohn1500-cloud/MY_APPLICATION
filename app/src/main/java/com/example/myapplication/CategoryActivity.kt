@@ -23,7 +23,9 @@ class CategoryActivity : AppCompatActivity() {
         "🗺️  World Geography",
         "🎭  Arts & Culture",
         "🇻🇨 SVG & Vincy Life"
-        // Add new categories below this line, e.g.:
+        // Add new categories below this
+        "CXC English A",
+        "CXC English B", line, e.g.:
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )
