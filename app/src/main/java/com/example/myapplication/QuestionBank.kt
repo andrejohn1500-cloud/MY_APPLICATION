@@ -259,6 +259,7 @@ object QuestionBank {
 
     fun getQuestions(category: String): List<Question> = when {
         category.contains("Caribbean History") -> caribbeanHistory
+        category.contains("Integrated Science") -> cxcIntScienceQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("Geography")         -> worldGeo
@@ -267,7 +268,6 @@ object QuestionBank {
         category.contains("English A")      -> cxcEnglishAQuestions
         category.contains("English B")      -> cxcEnglishBQuestions
         category.contains("Maths")          -> cxcMathsQuestions
-        category.contains("Integrated Science") -> cxcIntScienceQuestions
         else                                   -> caribbeanHistory
     }
 
