@@ -261,6 +261,7 @@ object QuestionBank {
         category.contains("Caribbean History") -> caribbeanHistory
         category.contains("Integrated Science") -> cxcIntScienceQuestions
         category.contains("Social Studies")   -> cxcSocialStudiesQuestions
+        category.contains("POB")              -> cxcPOBQuestions
         category.contains("Science")           -> scienceTech
         category.contains("Sports")            -> sports
         category.contains("CXC Geography")       -> cxcGeographyQuestions
@@ -862,6 +863,100 @@ object QuestionBank {
             options = listOf("Convectional rainfall", "Frontal rainfall", "Relief rainfall", "Cyclonic rainfall"),
             correctIndex = 2,
             category = "CXC Geography"
+        )
+    )
+
+
+    val cxcPOBQuestions = listOf(
+        Question(
+            text = "Which type of business is owned and operated by one person?",
+            options = listOf("Partnership", "Sole trader", "Public limited company", "Cooperative"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "What does GDP stand for?",
+            options = listOf("Gross Domestic Product", "General Development Plan", "Gross Development Price", "General Domestic Production"),
+            correctIndex = 0,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which of the following is a feature of a limited liability company?",
+            options = listOf("Owners are personally responsible for all debts", "The business has unlimited life", "Shareholders can lose only what they invested", "Only one person can own shares"),
+            correctIndex = 2,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "The four Ps of marketing are Product, Price, Place and:",
+            options = listOf("Profit", "Promotion", "Production", "Purchase"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which document outlines a company's objectives and its relationship with the outside world?",
+            options = listOf("Articles of Association", "Memorandum of Association", "Prospectus", "Balance Sheet"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "When demand for a product increases but supply stays the same, the price will:",
+            options = listOf("Fall", "Stay the same", "Rise", "Become zero"),
+            correctIndex = 2,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which of the following is an example of a variable cost?",
+            options = listOf("Rent", "Insurance", "Raw materials", "Manager salary"),
+            correctIndex = 2,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "A cheque that cannot be cashed over the counter but must be paid into a bank account is called a:",
+            options = listOf("Bearer cheque", "Crossed cheque", "Post-dated cheque", "Stale cheque"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which of the following best describes entrepreneurship?",
+            options = listOf("Working for a large corporation", "The process of starting and running a new business", "Investing in the stock market", "Managing government funds"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "A balance sheet shows a business's:",
+            options = listOf("Sales revenue over a period", "Assets, liabilities and capital at a point in time", "Cash flowing in and out", "Production targets for the year"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which type of production involves extracting raw materials from the earth?",
+            options = listOf("Secondary", "Tertiary", "Primary", "Quaternary"),
+            correctIndex = 2,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "The central bank of Trinidad and Tobago is responsible for:",
+            options = listOf("Selling goods overseas", "Controlling monetary policy", "Building infrastructure", "Collecting income tax"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which of the following is NOT a function of money?",
+            options = listOf("Medium of exchange", "Store of value", "Unit of account", "Source of production"),
+            correctIndex = 3,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "An invoice is sent by the seller to the buyer to:",
+            options = listOf("Confirm delivery of goods", "Request payment for goods supplied", "Acknowledge receipt of payment", "List available products"),
+            correctIndex = 1,
+            category = "CXC POB"
+        ),
+        Question(
+            text = "Which of the following is a disadvantage of a partnership?",
+            options = listOf("More capital than sole trader", "Shared decision making", "Unlimited liability for partners", "Shared workload"),
+            correctIndex = 2,
+            category = "CXC POB"
         )
     )
 

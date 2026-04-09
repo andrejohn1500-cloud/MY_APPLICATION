@@ -30,6 +30,7 @@ class CategoryActivity : AppCompatActivity() {
         "CXC Integrated Science",
         "CXC Social Studies",
         "CXC Geography",
+        "CXC POB",
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )
