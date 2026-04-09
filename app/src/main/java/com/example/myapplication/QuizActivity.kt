@@ -26,6 +26,9 @@ class QuizActivity : AppCompatActivity() {
     private lateinit var soundPool: SoundPool
     private var sndCorrect = 0
     private var sndWrong  = 0
+    private var cheatsUsed  = 0
+    private var timerPaused = false
+    private var timeLeftMs  = 30_000L
 
     private val correctRemarks = listOf(
         "Hypothesis confirmed!",
@@ -93,11 +96,27 @@ class QuizActivity : AppCompatActivity() {
         }
 
         loadQuestion(options)
+
+        binding.btnCheat.setOnClickListener {
+            if (answered) return@setOnClickListener
+            if (!timerPaused) {
+                timer?.cancel()
+                timerPaused = true
+                cheatsUsed++
+                binding.btnCheat.text = "Resume"
+            } else {
+                timerPaused = false
+                binding.btnCheat.text = "Cheat"
+                startTimerFrom(timeLeftMs, options)
+            }
+        }
     }
 
     private fun loadQuestion(options: List<Button>) {
         if (currentIndex >= questions.size) { goToResult(); return }
         answered = false
+        timerPaused = false
+        binding.btnCheat.text = "Cheat"
         val q = questions[currentIndex]
         binding.tvProgress.text = "Question ${currentIndex + 1} of ${questions.size}"
         binding.tvQuestion.text  = q.text
@@ -120,6 +139,7 @@ class QuizActivity : AppCompatActivity() {
         binding.progressTimer.max = 30
         timer = object : CountDownTimer(30_000L, 1_000L) {
             override fun onTick(ms: Long) {
+                timeLeftMs = ms
                 val secs = (ms / 1000).toInt()
                 binding.tvTimer.text = "⏱ $secs"
                 binding.progressTimer.progress = secs
@@ -213,9 +233,34 @@ class QuizActivity : AppCompatActivity() {
                 putExtra("score",    score)
                 putExtra("total",    questions.size)
                 putExtra("category", binding.tvCategory.text.toString())
+                putExtra("cheats",   cheatsUsed)
             }
         )
         finish()
+    }
+
+    private fun startTimerFrom(fromMs: Long, options: List<Button>) {
+        timer?.cancel()
+        timer = object : CountDownTimer(fromMs, 1_000L) {
+            override fun onTick(ms: Long) {
+                timeLeftMs = ms
+                val secs = (ms / 1000).toInt()
+                binding.tvTimer.text = "⏱ ${secs}s"
+                binding.progressTimer.progress = secs
+                binding.tvTimer.setTextColor(
+                    if (secs <= 5) getColor(R.color.wrong) else getColor(R.color.gold)
+                )
+            }
+            override fun onFinish() {
+                if (!answered) {
+                    binding.tvTimer.text = "⏱ 0s"
+                    showCorrect(options)
+                    disableAll(options)
+                    showScientist(timerRemarks.random())
+                    nextDelayed(options)
+                }
+            }
+        }.start()
     }
 
     override fun onDestroy() {
