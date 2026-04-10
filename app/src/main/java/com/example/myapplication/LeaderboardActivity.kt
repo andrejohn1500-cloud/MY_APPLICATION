@@ -7,6 +7,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplication.databinding.ActivityLeaderboardBinding
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
+import java.text.SimpleDateFormat
+import java.util.*
 
 class LeaderboardActivity : AppCompatActivity() {
 
@@ -24,16 +26,23 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun loadLeaderboard() {
         db.collection("leaderboard")
+            .orderBy("pct", Query.Direction.DESCENDING)
             .orderBy("score", Query.Direction.DESCENDING)
-            .limit(20)
+            .limit(100)
             .get()
             .addOnSuccessListener { docs ->
+                val fmt = SimpleDateFormat("MMM d, yyyy", Locale.getDefault())
                 val entries = docs.map { doc ->
+                    val ts = doc.getTimestamp("date")
+                    val dateStr = if (ts != null) fmt.format(ts.toDate()) else ""
                     LeaderEntry(
-                        doc.getString("name") ?: "Anonymous",
-                        doc.getLong("score")?.toInt() ?: 0,
-                        doc.getLong("total")?.toInt() ?: 17,
-                            doc.getLong("cheats")?.toInt() ?: 0
+                        name     = doc.getString("name") ?: "Anonymous",
+                        score    = doc.getLong("score")?.toInt() ?: 0,
+                        total    = doc.getLong("total")?.toInt() ?: 0,
+                        cheats   = doc.getLong("cheats")?.toInt() ?: 0,
+                        category = doc.getString("category") ?: "",
+                        date     = dateStr,
+                        level    = doc.getLong("level")?.toInt() ?: 1
                     )
                 }
                 binding.rvLeaderboard.adapter = LeaderboardAdapter(entries)

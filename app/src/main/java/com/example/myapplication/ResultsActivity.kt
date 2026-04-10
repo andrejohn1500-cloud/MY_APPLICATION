@@ -70,7 +70,10 @@ class ResultsActivity : AppCompatActivity() {
                 db.collection("leaderboard").add(mapOf(
                     "name" to name, "score" to score,
                     "total" to total, "cheats" to cheats,
-                    "category" to category
+                    "category" to category,
+                    "pct" to pct,
+                    "level" to currentLevel,
+                    "date" to com.google.firebase.Timestamp.now()
                 )).addOnSuccessListener {
                 }
             }
