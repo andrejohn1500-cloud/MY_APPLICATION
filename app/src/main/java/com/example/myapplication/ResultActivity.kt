@@ -50,12 +50,14 @@ class ResultActivity : AppCompatActivity() {
         val score    = intent.getIntExtra("score", 0)
         val total    = intent.getIntExtra("total", 17)
         val category = intent.getStringExtra("category") ?: ""
-        val level    = intent.getIntExtra("level", 1)
+        val level      = intent.getIntExtra("level", 1)
+        val cheatsUsed = intent.getIntExtra("cheats", 0)
         val pct      = if (total > 0) (score.toFloat() / total * 100).toInt() else 0
 
         binding.tvResultCategory.text = category
         binding.tvFinalScore.text = score.toString()
         binding.tvScoreLabel.text = " / $total"
+        binding.tvCheatsUsed.text = if (cheatsUsed > 0) "Cheats used: $cheatsUsed" else "No cheats used"
         binding.tvPercent.text = "$pct%"
         binding.progressResult.progress = pct
 
@@ -114,7 +116,7 @@ class ResultActivity : AppCompatActivity() {
                 Toast.makeText(this, "Please enter your name", Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
             }
-            submitScore(name, score, total, category)
+            submitScore(name, score, total, category, cheatsUsed)
         }
 
         binding.btnPlayAgain.setOnClickListener {
@@ -139,7 +141,7 @@ class ResultActivity : AppCompatActivity() {
         }
     }
 
-    private fun submitScore(name: String, score: Int, total: Int, category: String) {
+    private fun submitScore(name: String, score: Int, total: Int, category: String, cheats: Int = 0) {
         db.collection("leaderboard")
             .whereEqualTo("name", name)
             .get()
@@ -155,6 +157,7 @@ class ResultActivity : AppCompatActivity() {
                 val data = hashMapOf<String, Any>(
                     "name" to name,
                     "score" to score,
+                    "cheats" to cheats,
                     "total" to total,
                     "category" to category,
                     "timestamp" to System.currentTimeMillis()
