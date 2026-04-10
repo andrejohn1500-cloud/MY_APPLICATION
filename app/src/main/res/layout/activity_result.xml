@@ -88,6 +88,16 @@
                     android:textStyle="bold"
                     android:textColor="#FFA500"
                     android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/tvCheatsUsed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#FFA500"
+            android:textSize="13sp"
+            android:fontFamily="sans-serif-medium"
+            android:text="No cheats used" />
                 <ProgressBar
                     android:id="@+id/progressResult"
                     style="?android:attr/progressBarStyleHorizontal"
