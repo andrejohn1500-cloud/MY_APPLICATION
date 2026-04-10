@@ -16,7 +16,6 @@ class SettingsActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
 
-        val switchSound   = findViewById<SwitchMaterial>(R.id.switchSound)
         val switchMusic   = findViewById<SwitchMaterial>(R.id.switchMusic)
         val switchHaptics = findViewById<SwitchMaterial>(R.id.switchHaptics)
         val btnBack       = findViewById<ImageButton>(R.id.btnBack)
@@ -63,9 +62,6 @@ class SettingsActivity : AppCompatActivity() {
             startService(i)
         }
 
-        switchSound.setOnCheckedChangeListener { _, isChecked ->
-            AppPreferences.setSound(this, isChecked)
-        }
 
         switchHaptics.setOnCheckedChangeListener { _, isChecked ->
             AppPreferences.setHaptics(this, isChecked)
