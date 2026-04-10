@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplication.databinding.ActivityLeaderboardBinding
 import com.google.firebase.firestore.FirebaseFirestore
+import com.google.firebase.firestore.ListenerRegistration
 import com.google.firebase.firestore.Query
 import java.text.SimpleDateFormat
 import java.util.*
@@ -14,6 +15,9 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityLeaderboardBinding
     private val db = FirebaseFirestore.getInstance()
+    private var listener: ListenerRegistration? = null
+    private var allEntries: List<LeaderEntry> = emptyList()
+    private var selectedCategory = "All"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -25,13 +29,16 @@ class LeaderboardActivity : AppCompatActivity() {
     }
 
     private fun loadLeaderboard() {
-        db.collection("leaderboard")
+        listener = db.collection("leaderboard")
             .orderBy("score", Query.Direction.DESCENDING)
             .limit(100)
-            .get()
-            .addOnSuccessListener { docs ->
+            .addSnapshotListener { docs, error ->
+                if (error != null) {
+                    Toast.makeText(this, "Could not load leaderboard.", Toast.LENGTH_SHORT).show()
+                    return@addSnapshotListener
+                }
                 val fmt = SimpleDateFormat("MMM d, yyyy", Locale.getDefault())
-                val entries = docs.map { doc ->
+                allEntries = docs?.map { doc ->
                     val ts = doc.getTimestamp("date")
                     val dateStr = if (ts != null) fmt.format(ts.toDate()) else ""
                     LeaderEntry(
@@ -43,11 +50,23 @@ class LeaderboardActivity : AppCompatActivity() {
                         date     = dateStr,
                         level    = doc.getLong("level")?.toInt() ?: 1
                     )
-                }
-                binding.rvLeaderboard.adapter = LeaderboardAdapter(entries)
+                } ?: emptyList()
+                applyFilter()
             }
-            .addOnFailureListener {
-                Toast.makeText(this, "Could not load leaderboard.", Toast.LENGTH_SHORT).show()
-            }
+    }
+
+    private fun applyFilter() {
+        val filtered = if (selectedCategory == "All") allEntries
+                       else allEntries.filter { it.category == selectedCategory }
+        if (binding.rvLeaderboard.adapter == null) {
+            binding.rvLeaderboard.adapter = LeaderboardAdapter(filtered)
+        } else {
+            (binding.rvLeaderboard.adapter as LeaderboardAdapter).updateEntries(filtered)
+        }
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        listener?.remove()
     }
 }
