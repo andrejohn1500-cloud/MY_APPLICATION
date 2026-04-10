@@ -32,7 +32,8 @@ class LeaderboardActivity : AppCompatActivity() {
                     LeaderEntry(
                         doc.getString("name") ?: "Anonymous",
                         doc.getLong("score")?.toInt() ?: 0,
-                        doc.getLong("total")?.toInt() ?: 17
+                        doc.getLong("total")?.toInt() ?: 17,
+                            doc.getLong("cheats")?.toInt() ?: 0
                     )
                 }
                 binding.rvLeaderboard.adapter = LeaderboardAdapter(entries)

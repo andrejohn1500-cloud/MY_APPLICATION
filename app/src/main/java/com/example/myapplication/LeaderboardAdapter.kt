@@ -24,7 +24,7 @@ class LeaderboardAdapter(private val entries: List<LeaderEntry>) :
         val e = entries[position]
         holder.tvRank.text  = when (position) { 0 -> "🥇"; 1 -> "🥈"; 2 -> "🥉"; else -> "${position + 1}." }
         holder.tvName.text  = e.name
-        holder.tvScore.text = "${e.score}/${e.total}"
+        holder.tvScore.text = "${e.score}/${e.total}" + if (e.cheats > 0) "  🎯${e.cheats}" else ""
     }
 
     override fun getItemCount() = entries.size

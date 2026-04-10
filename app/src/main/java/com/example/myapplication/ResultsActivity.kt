@@ -7,6 +7,9 @@ import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.button.MaterialButton
+import com.google.firebase.firestore.FirebaseFirestore
+import android.widget.EditText
+import android.widget.Toast
 
 class ResultsActivity : AppCompatActivity() {
 
@@ -57,6 +60,20 @@ class ResultsActivity : AppCompatActivity() {
             tvMsg.text = "Score 80% or above to reach the next level"
             tvMsg.setTextColor(Color.parseColor("#E74C3C"))
             btnNext.visibility = View.GONE
+        }
+
+        val db = FirebaseFirestore.getInstance()
+        val etName = findViewById<EditText>(R.id.etPlayerName)
+        findViewById<MaterialButton>(R.id.btnSaveScore).setOnClickListener {
+            val name = etName?.text?.toString()?.trim() ?: "Anonymous"
+            if (name.isNotEmpty()) {
+                db.collection("leaderboard").add(mapOf(
+                    "name" to name, "score" to score,
+                    "total" to total, "cheats" to cheats,
+                    "category" to category
+                )).addOnSuccessListener {
+                }
+            }
         }
 
         findViewById<MaterialButton>(R.id.btnPlayAgain).setOnClickListener {

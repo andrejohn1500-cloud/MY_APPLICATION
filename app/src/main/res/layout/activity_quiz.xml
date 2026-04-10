@@ -43,15 +43,15 @@
             android:layout_marginBottom="4dp">
             <Button
                 android:id="@+id/btnCheat"
-                android:layout_width="64dp"
-                android:layout_height="64dp"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
                 android:layout_marginEnd="8dp"
                 android:text="CHEAT"
-                android:textColor="#FF2222"
-                android:textSize="10sp"
+                android:textColor="#FF3333"
+                android:textSize="11sp"
                 android:textStyle="bold|italic"
-                android:singleLine="true"
-                android:backgroundTint="#9B1040"
+                android:lines="1"
+                android:backgroundTint="#8B1A3A"
                 android:stateListAnimator="@null"
                 android:background="@drawable/circle_cheat_bg"
                 android:gravity="center"/>
