@@ -50,6 +50,7 @@ class ResultActivity : AppCompatActivity() {
         val score    = intent.getIntExtra("score", 0)
         val total    = intent.getIntExtra("total", 17)
         val category = intent.getStringExtra("category") ?: ""
+        val level    = intent.getIntExtra("level", 1)
         val pct      = if (total > 0) (score.toFloat() / total * 100).toInt() else 0
 
         binding.tvResultCategory.text = category
@@ -100,7 +101,11 @@ class ResultActivity : AppCompatActivity() {
         }
 
         binding.btnNextLevel.setOnClickListener {
-            Toast.makeText(this, "Next level coming in the next update!", Toast.LENGTH_SHORT).show()
+            val nextIntent = Intent(this, QuizActivity::class.java)
+            nextIntent.putExtra("category", category)
+            nextIntent.putExtra("level", level + 1)
+            startActivity(nextIntent)
+            finish()
         }
 
         binding.btnSubmitScore.setOnClickListener {
