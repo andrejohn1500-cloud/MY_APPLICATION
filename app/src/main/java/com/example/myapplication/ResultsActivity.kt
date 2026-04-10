@@ -28,7 +28,7 @@ class ResultsActivity : AppCompatActivity() {
         val pct          = if (total > 0) (score * 100 / total) else 0
         val passed       = pct >= 80
 
-        val bestKey  = "best_$category"
+        val bestKey    = "best15_\$category"
         val prevBest = prefs.getInt(bestKey, 0)
         if (score > prevBest) prefs.edit().putInt(bestKey, score).apply()
 
