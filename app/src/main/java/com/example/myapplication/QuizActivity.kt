@@ -233,6 +233,7 @@ class QuizActivity : AppCompatActivity() {
     }
 
     private fun goToResult() {
+        android.widget.Toast.makeText(this, "DEBUG cheatsUsed = $cheatsUsed", android.widget.Toast.LENGTH_LONG).show()
         startActivity(
             Intent(this, ResultActivity::class.java).apply {
                 putExtra("score",    score)

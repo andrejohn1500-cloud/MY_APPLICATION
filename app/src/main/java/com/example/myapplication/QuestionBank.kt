@@ -23,8 +23,7 @@ object QuestionBank {
 
     // ── 1. CARIBBEAN HISTORY (17 questions) ──────────────────
 
-    private val caribbeanHistory = listOf(
-        q("Which country was the FIRST Caribbean nation to gain independence?",
+    private val caribbeanHistory = listOf(        q("Which country was the FIRST Caribbean nation to gain independence?",
             "Haiti|Cuba|Jamaica|Trinidad and Tobago", 0, "🌍 Caribbean History"),
         q("In what year did Haiti declare independence from France?",
             "1791|1804|1838|1962", 1, "🌍 Caribbean History"),
@@ -55,16 +54,11 @@ object QuestionBank {
             "Barbados|Jamaica|Trinidad|Guyana", 1, "🌍 Caribbean History"),
         q("Toussaint Louverture led the revolution in which country?",
             "Cuba|Haiti|Dominican Republic|Martinique", 1, "🌍 Caribbean History"),
-        q("Which Caribbean nation was the last to gain independence from Britain (1983)?",
-            "St. Kitts and Nevis|Belize|St. Vincent|Antigua", 0, "🌍 Caribbean History"),
-        q("The Grenada Revolution of 1979 was led by which political movement?",
-            "GULP|New Jewel Movement|NDC|GNP", 1, "🌍 Caribbean History")
     )
 
     // ── 2. SCIENCE & TECH (17 questions) ─────────────────────
 
-    private val scienceTech = listOf(
-        q("What does DNA stand for?",
+    private val scienceTech = listOf(        q("What does DNA stand for?",
             "Deoxyribonucleic Acid|Dinitrogen Acid|Dynamic Nuclear Array|Dense Nucleic Arrangement",
             0, "🧪 Science & Tech"),
         q("Which planet is known as the Red Planet?",
@@ -97,16 +91,11 @@ object QuestionBank {
             "Meteorology|Seismology|Volcanology|Geology", 1, "🧪 Science & Tech"),
         q("How many chromosomes does a typical human cell have?",
             "23|36|46|48", 2, "🧪 Science & Tech"),
-        q("What is the boiling point of water in Celsius?",
-            "90|95|100|105", 2, "🧪 Science & Tech"),
-        q("Which organ produces insulin in the human body?",
-            "Liver|Kidney|Stomach|Pancreas", 3, "🧪 Science & Tech")
     )
 
     // ── 3. SPORTS (17 questions) ──────────────────────────────
 
-    private val sports = listOf(
-        q("Which country won the FIFA World Cup in 2022?",
+    private val sports = listOf(        q("Which country won the FIFA World Cup in 2022?",
             "France|Brazil|Argentina|Germany", 2, "🏅 Sports"),
         q("How many players from each team are on the court in basketball?",
             "4|5|6|7", 1, "🏅 Sports"),
@@ -136,16 +125,11 @@ object QuestionBank {
             "Red|Green|Yellow|Blue", 2, "🏅 Sports"),
         q("How many individual events make up a Decathlon?",
             "8|10|12|15", 1, "🏅 Sports"),
-        q("The FIFA World Cup is held every how many years?",
-            "2|3|4|6", 2, "🏅 Sports"),
-        q("Which Caribbean nation won gold in the men's 4x100m relay at the 2008 Beijing Olympics?",
-            "Trinidad|Jamaica|Bahamas|Cuba", 1, "🏅 Sports")
     )
 
     // ── 4. WORLD GEOGRAPHY (16 questions) ─────────────────────
 
-    private val worldGeo = listOf(
-        q("What is the largest continent by land area?",
+    private val worldGeo = listOf(        q("What is the largest continent by land area?",
             "Africa|Antarctica|Asia|South America", 2, "🗺️ World Geography"),
         q("Which river is the longest in the world?",
             "Amazon|Congo|Mississippi|Nile", 3, "🗺️ World Geography"),
@@ -176,14 +160,11 @@ object QuestionBank {
             "New Zealand|Philippines|Australia|Indonesia", 2, "🗺️ World Geography"),
         q("How many member states does the African Union have?",
             "45|54|63|72", 1, "🗺️ World Geography"),
-        q("The Strait of Hormuz connects the Persian Gulf to which body of water?",
-            "Red Sea|Gulf of Oman|Arabian Sea|Bay of Bengal", 1, "🗺️ World Geography")
     )
 
     // ── 5. ARTS & CULTURE (16 questions) ──────────────────────
 
-    private val artsCulture = listOf(
-        q("Who painted the world-famous Mona Lisa?",
+    private val artsCulture = listOf(        q("Who painted the world-famous Mona Lisa?",
             "Michelangelo|Raphael|Leonardo da Vinci|Caravaggio", 2, "🎭 Arts & Culture"),
         q("Which music genre was pioneered in Trinidad and Tobago?",
             "Reggae|Calypso|Soca|Zouk", 1, "🎭 Arts & Culture"),
@@ -213,14 +194,11 @@ object QuestionBank {
             "Trinidad|Jamaica|Barbados|Grenada", 2, "🎭 Arts & Culture"),
         q("Which famous artist is known for cutting off part of his own ear?",
             "Claude Monet|Pablo Picasso|Vincent van Gogh|Salvador Dali", 2, "🎭 Arts & Culture"),
-        q("The Notting Hill Carnival in London primarily celebrates which cultures?",
-            "Asian|Caribbean|African|Latin American", 1, "🎭 Arts & Culture")
     )
 
     // ── 6. SVG & VINCY LIFE (17 questions) ───────────────────
 
-    private val svgVincy = listOf(
-        q("What is the capital city of St. Vincent and the Grenadines?",
+    private val svgVincy = listOf(        q("What is the capital city of St. Vincent and the Grenadines?",
             "Georgetown|Layou|Kingstown|Calliaqua", 2, "🇻🇨 SVG & Vincy Life"),
         q("La Soufrière in SVG is a what?",
             "Mountain range|Active volcano|National park|Earthquake fault", 1, "🇻🇨 SVG & Vincy Life"),
@@ -250,11 +228,6 @@ object QuestionBank {
             "RSVGPF|SVGPF|CSVGP|VPF", 0, "🇻🇨 SVG & Vincy Life"),
         q("The Black Caribs (Garifuna people) were exiled from SVG to Central America in which year?",
             "1783|1797|1814|1838", 1, "🇻🇨 SVG & Vincy Life"),
-        q("Mustique island in the Grenadines is world-renowned for attracting which visitors?",
-            "Fishermen|Royalty and celebrities|Marine scientists|Backpackers", 1, "🇻🇨 SVG & Vincy Life"),
-        q("What is the name of the volcanic eruption in SVG that caused mass evacuations in 2021?",
-            "Hurricane Elsa|La Soufrière eruption|Mount Bequia blast|Kingstown earthquake",
-            1, "🇻🇨 SVG & Vincy Life")
     )
 
     fun getQuestions(category: String): List<Question> = when {
