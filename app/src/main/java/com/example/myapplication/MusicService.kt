@@ -14,7 +14,17 @@ class MusicService : Service() {
         // Add new tracks here. Drop the .mp3 into res/raw/ and add a
         // Pair(R.raw.your_file, "Display Name") to this list.
         val TRACKS = listOf(
-            Pair(R.raw.classical_bg, "Classical Vibes")
+            Pair(R.raw.music_01, "Warm Memories"),
+            Pair(R.raw.music_02, "Sweet Memories"),
+            Pair(R.raw.music_03, "Sleepless City"),
+            Pair(R.raw.music_04, "Rise"),
+            Pair(R.raw.music_05, "Adrift Among Infinite Stars"),
+            Pair(R.raw.music_06, "Coconut"),
+            Pair(R.raw.music_07, "Sweet Sun"),
+            Pair(R.raw.music_08, "Flying"),
+            Pair(R.raw.music_09, "Calypso Cruise"),
+            Pair(R.raw.music_10, "Coffee Cup Vibes"),
+            Pair(R.raw.music_11, "Live Your Dream")
             // e.g. Pair(R.raw.hiphop_bg, "Hip Hop Beats"),
         )
         // ─────────────────────────────────────────────────────────────
