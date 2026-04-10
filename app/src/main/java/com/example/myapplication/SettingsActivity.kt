@@ -22,7 +22,6 @@ class SettingsActivity : AppCompatActivity() {
         val cardTrack     = findViewById<CardView>(R.id.cardTrackSelector)
         val radioGroup    = findViewById<RadioGroup>(R.id.radioGroupTracks)
 
-        switchSound.isChecked   = AppPreferences.isSoundEnabled(this)
         switchMusic.isChecked   = AppPreferences.isMusicEnabled(this)
         switchHaptics.isChecked = AppPreferences.isHapticsEnabled(this)
 
