@@ -35,7 +35,7 @@ class ResultsActivity : AppCompatActivity() {
         findViewById<TextView>(R.id.tvResultCategory).text = category.uppercase()
         findViewById<TextView>(R.id.tvScore).text          = "$score / $total"
         findViewById<TextView>(R.id.tvPercentage).text     = "$pct%"
-        findViewById<TextView>(R.id.tvCheatsUsed).text     = if (cheats == 0) "None" else "$cheats"
+        findViewById<TextView>(R.id.tvCheatsUsed).text     = if (cheats == 0) "✅ No cheats used" else "⚠️ $cheats cheat(s) used"
 
         val tvLevel = findViewById<TextView>(R.id.tvLevel)
         val tvMsg   = findViewById<TextView>(R.id.tvLevelMessage)
