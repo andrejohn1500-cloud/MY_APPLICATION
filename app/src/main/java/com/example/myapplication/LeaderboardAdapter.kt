@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-data class LeaderEntry(val name: String, val score: Int, val total: Int)
+data class LeaderEntry(val name: String, val score: Int, val total: Int, val cheats: Int = 0)
 
 class LeaderboardAdapter(private val entries: List<LeaderEntry>) :
     RecyclerView.Adapter<LeaderboardAdapter.VH>() {
