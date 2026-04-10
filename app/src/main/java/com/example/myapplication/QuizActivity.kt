@@ -116,6 +116,8 @@ class QuizActivity : AppCompatActivity() {
         if (currentIndex >= questions.size) { goToResult(); return }
         answered = false
         timerPaused = false
+        binding.btnCheat.isEnabled = true
+        binding.btnCheat.alpha = 1.0f
         binding.btnCheat.text = "Cheat"
         val q = questions[currentIndex]
         binding.tvProgress.text = "Question ${currentIndex + 1} of ${questions.size}"
@@ -217,8 +219,11 @@ class QuizActivity : AppCompatActivity() {
         setButtonFill(options[questions[currentIndex].correctIndex], "#1DB954")
     }
 
-    private fun disableAll(options: List<Button>) =
+    private fun disableAll(options: List<Button>) {
         options.forEach { it.isEnabled = false }
+        binding.btnCheat.isEnabled = false
+        binding.btnCheat.alpha = 0.4f
+    }
 
     private fun nextDelayed(options: List<Button>) {
         binding.root.postDelayed({
