@@ -26,7 +26,6 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun loadLeaderboard() {
         db.collection("leaderboard")
-            .orderBy("pct", Query.Direction.DESCENDING)
             .orderBy("score", Query.Direction.DESCENDING)
             .limit(100)
             .get()
