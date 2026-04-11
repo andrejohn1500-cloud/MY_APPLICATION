@@ -1,10 +1,10 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.myapplication.databinding.ActivityLeaderboardBinding
+import com.dresapps.dresquiz.databinding.ActivityLeaderboardBinding
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration
 import com.google.firebase.firestore.Query

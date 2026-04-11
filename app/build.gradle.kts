@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.dresapps.dresquiz"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "com.dresapps.dresquiz"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

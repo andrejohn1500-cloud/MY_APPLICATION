@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.content.Intent
 import android.media.AudioAttributes
@@ -12,7 +12,7 @@ import android.view.animation.AnimationUtils
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
-import com.example.myapplication.databinding.ActivityQuizBinding
+import com.dresapps.dresquiz.databinding.ActivityQuizBinding
 import com.google.android.material.button.MaterialButton
 
 class QuizActivity : AppCompatActivity() {

@@ -1,8 +1,8 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.databinding.ActivityMyStoryBinding
+import com.dresapps.dresquiz.databinding.ActivityMyStoryBinding
 
 class MyStoryActivity : AppCompatActivity() {
 

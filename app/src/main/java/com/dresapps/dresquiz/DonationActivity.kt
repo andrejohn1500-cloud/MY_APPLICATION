@@ -1,10 +1,10 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.databinding.ActivityDonationBinding
+import com.dresapps.dresquiz.databinding.ActivityDonationBinding
 
 class DonationActivity : AppCompatActivity() {
 

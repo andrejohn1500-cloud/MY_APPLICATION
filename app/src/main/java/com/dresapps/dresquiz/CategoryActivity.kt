@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.content.Intent
 import android.content.res.ColorStateList
@@ -7,7 +7,7 @@ import android.view.Gravity
 import android.widget.LinearLayout
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapplication.databinding.ActivityCategoryBinding
+import com.dresapps.dresquiz.databinding.ActivityCategoryBinding
 
 class CategoryActivity : AppCompatActivity() {
 

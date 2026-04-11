@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.dresapps.dresquiz
 
 import android.app.Service
 import android.content.Intent
