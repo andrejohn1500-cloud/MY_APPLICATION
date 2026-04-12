@@ -1,0 +1,156 @@
+{
+  "category": "CXC IT",
+  "level": 1,
+  "questions": [
+    {
+      "q": "What does HTTP stand for?",
+      "options": [
+        "High Text Transfer Protocol",
+        "HyperText Transfer Protocol",
+        "Hybrid Transfer Text Protocol",
+        "Host Transfer Text Protocol"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Malicious software designed to damage a computer is called",
+      "options": [
+        "Firewall",
+        "Antivirus",
+        "Virus",
+        "Browser"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The main function of a firewall is to",
+      "options": [
+        "Speed up internet",
+        "Store files",
+        "Block unauthorised network access",
+        "Create passwords"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which network covers the largest geographic area?",
+      "options": [
+        "LAN",
+        "MAN",
+        "PAN",
+        "WAN"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which is an example of application software?",
+      "options": [
+        "Windows 11",
+        "Linux",
+        "Microsoft Excel",
+        "BIOS"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What does URL stand for?",
+      "options": [
+        "Universal Resource Link",
+        "Uniform Resource Locator",
+        "Universal Remote Login",
+        "Unique Resource Locator"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "A collection of related records in a database is called a",
+      "options": [
+        "Field",
+        "Record",
+        "Table",
+        "Query"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Central Program Unit",
+        "Core Processing Utility"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Which is an output device?",
+      "options": [
+        "Keyboard",
+        "Scanner",
+        "Mouse",
+        "Projector"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which is an input device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which storage device has no moving parts and is fastest?",
+      "options": [
+        "CD-ROM",
+        "Hard Disk Drive",
+        "USB Drive",
+        "Solid State Drive"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "What is the binary equivalent of decimal 10?",
+      "options": [
+        "1100",
+        "1010",
+        "1001",
+        "1110"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "What does RAM stand for?",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Rapid Access Memory",
+        "Read And Modify"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which is an example of an operating system?",
+      "options": [
+        "Microsoft Word",
+        "Google Chrome",
+        "Windows 11",
+        "Microsoft Excel"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "What file extension is associated with a spreadsheet?",
+      "options": [
+        ".DOCX",
+        ".PPTX",
+        ".XLSX",
+        ".PDF"
+      ],
+      "answer": 2
+    }
+  ]
+}
