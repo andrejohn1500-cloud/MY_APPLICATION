@@ -14,6 +14,12 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import com.dresapps.dresquiz.databinding.ActivityQuizBinding
 import com.google.android.material.button.MaterialButton
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.InterstitialAd
+import com.google.android.gms.ads.interstitial.InterstitialAd as InterstitialAdFull
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
+import com.google.android.gms.ads.LoadAdError
+import com.google.android.gms.ads.FullScreenContentCallback
 
 class QuizActivity : AppCompatActivity() {
 
@@ -28,6 +34,7 @@ class QuizActivity : AppCompatActivity() {
     private var sndWrong  = 0
     private var cheatsUsed  = 0
     private var timerPaused = false
+    private var interstitialAd: com.google.android.gms.ads.interstitial.InterstitialAd? = null
     private var timeLeftMs  = 30_000L
 
     private val correctRemarks = listOf(
@@ -63,6 +70,18 @@ class QuizActivity : AppCompatActivity() {
         "Thinking is not a crime.",
         "Speed is overrated anyway."
     )
+
+    private fun loadInterstitialAd() {
+        val adRequest = AdRequest.Builder().build()
+        com.google.android.gms.ads.interstitial.InterstitialAd.load(this, "ca-app-pub-3890705518764486/7970502313", adRequest, object : InterstitialAdLoadCallback() {
+            override fun onAdLoaded(ad: com.google.android.gms.ads.interstitial.InterstitialAd) {
+                interstitialAd = ad
+            }
+            override fun onAdFailedToLoad(error: LoadAdError) {
+                interstitialAd = null
+            }
+        })
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -235,7 +254,10 @@ class QuizActivity : AppCompatActivity() {
     }
 
     private fun goToResult() {
-        startActivity(
+        interstitialAd?.fullScreenContentCallback = object : FullScreenContentCallback() {
+            override fun onAdDismissedFullScreenContent() {
+                startActivity(
+                    Intent(this@QuizActivity, ResultActivity::class.java).apply {
             Intent(this, ResultActivity::class.java).apply {
                 putExtra("score",    score)
                 putExtra("total",    questions.size)

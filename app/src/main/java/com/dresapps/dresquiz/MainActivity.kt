@@ -5,6 +5,7 @@ import android.media.MediaPlayer
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.dresapps.dresquiz.databinding.ActivityMainBinding
+import com.google.android.gms.ads.MobileAds
 
 class MainActivity : AppCompatActivity() {
 
@@ -13,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        MobileAds.initialize(this) {}
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         startService(Intent(this, MusicService::class.java))
