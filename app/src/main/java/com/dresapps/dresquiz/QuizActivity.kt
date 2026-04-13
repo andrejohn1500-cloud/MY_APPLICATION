@@ -26,6 +26,7 @@ class QuizActivity : AppCompatActivity() {
     private lateinit var questions: List<Question>
     private var currentIndex = 0
     private var score = 0
+    private var level = 1
     private var answered = false
     private var timer: CountDownTimer? = null
     private lateinit var soundPool: SoundPool
@@ -96,8 +97,9 @@ class QuizActivity : AppCompatActivity() {
         binding = ActivityQuizBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val category = intent.getStringExtra("category") ?: QuestionBank.categories[0]
-        questions = QuestionBank.getQuestions(category).shuffled()
+        val category = intent.getStringExtra("category") ?: "CXC Maths"
+        level = intent.getIntExtra("level", 1)
+        questions = QuestionLoader.loadQuestions(this, category, level).shuffled()
         binding.tvCategory.text = category
 
         val attrs = AudioAttributes.Builder()
@@ -264,7 +266,8 @@ class QuizActivity : AppCompatActivity() {
                         putExtra("score",    score)
                         putExtra("total",    questions.size)
                         putExtra("category", binding.tvCategory.text.toString())
-                        putExtra("cheats",   cheatsUsed)
+                        putExtra("level", level)
+            putExtra("cheats",   cheatsUsed)
                     })
                     finish()
                 }
@@ -275,7 +278,8 @@ class QuizActivity : AppCompatActivity() {
                 putExtra("score",    score)
                 putExtra("total",    questions.size)
                 putExtra("category", binding.tvCategory.text.toString())
-                putExtra("cheats",   cheatsUsed)
+                putExtra("level", level)
+            putExtra("cheats",   cheatsUsed)
             })
             finish()
         }
