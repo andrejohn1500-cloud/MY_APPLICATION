@@ -74,8 +74,6 @@ class LevelSelectActivity : AppCompatActivity() {
 
             val btn = Button(this)
             btn.text = if (!unlocked) "[L$lvlFinal]" else if (beaten) "[V$lvlFinal]" else "$lvlFinal"
-$lvl" else if (beaten) "✅
-$lvl" else "$lvl"
             btn.textSize = 12f
 
             val lp = GridLayout.LayoutParams()
