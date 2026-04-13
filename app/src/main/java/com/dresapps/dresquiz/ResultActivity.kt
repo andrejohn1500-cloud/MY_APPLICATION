@@ -103,6 +103,13 @@ class ResultActivity : AppCompatActivity() {
         }
 
         binding.btnNextLevel.setOnClickListener {
+                val nextLvl = level + 1
+                if (nextLvl >= 3 && !AppPreferences.isPremium(this)) {
+                    val intent = Intent(this, LevelSelectActivity::class.java)
+                    intent.putExtra("category", category)
+                    startActivity(intent)
+                    return@setOnClickListener
+                }
             val nextIntent = Intent(this, QuizActivity::class.java)
             nextIntent.putExtra("category", category)
             nextIntent.putExtra("level", level + 1)
