@@ -17,23 +17,42 @@ object QuestionLoader {
     }
 
     private fun parseQuestions(json: String): List<Question> {
-        val result = mutableListOf<Question>()
-        val obj = JSONObject(json)
-        val category = obj.getString("category")
-        val arr = obj.getJSONArray("questions")
-        for (i in 0 until arr.length()) {
-            val q = arr.getJSONObject(i)
-            val options = mutableListOf<String>()
-            val opts = q.getJSONArray("options")
-            for (j in 0 until opts.length()) options.add(opts.getString(j))
-            result.add(Question(
-                text = q.getString("q"),
-                options = options,
-                correctIndex = q.getInt("answer"),
-                category = category
-            ))
+    val result = mutableListOf<Question>()
+    return try {
+        val trimmed = json.trim()
+        if (trimmed.startsWith("[")) {
+            val arr = org.json.JSONArray(trimmed)
+            for (i in 0 until arr.length()) {
+                val q = arr.getJSONObject(i)
+                val options = mutableListOf<String>()
+                val opts = q.getJSONArray("options")
+                for (j in 0 until opts.length()) options.add(opts.getString(j))
+                result.add(Question(
+                    text = q.getString("question"),
+                    options = options,
+                    correctIndex = q.getInt("correctIndex"),
+                    category = ""
+                ))
+            }
+        } else {
+            val obj = JSONObject(trimmed)
+            val category = obj.getString("category")
+            val arr = obj.getJSONArray("questions")
+            for (i in 0 until arr.length()) {
+                val q = arr.getJSONObject(i)
+                val options = mutableListOf<String>()
+                val opts = q.getJSONArray("options")
+                for (j in 0 until opts.length()) options.add(opts.getString(j))
+                result.add(Question(
+                    text = q.getString("q"),
+                    options = options,
+                    correctIndex = q.getInt("correctIndex"),
+                    category = category
+                ))
+            }
         }
-        return result
+        result
+    } catch (e: Exception) { result }
     }
 
     private fun getCategoryFileName(category: String, level: Int): String {
