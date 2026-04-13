@@ -53,7 +53,17 @@ class LevelSelectActivity : AppCompatActivity() {
             unlockBtn.setOnClickListener {
                 startActivity(Intent(Intent.ACTION_VIEW, android.net.Uri.parse("https://www.paypal.com/ncp/payment/Z48JTL598SJG8")))
             }
-            banner.addView(unlockBtn)
+            banner.addView(unlockBtn) 
+            val alreadyPaidBtn = Button(this)
+                alreadyPaidBtn.text = "✓ I Already Paid — Unlock Now"
+                alreadyPaidBtn.textSize = 13f
+                alreadyPaidBtn.setTextColor(Color.parseColor("#FFA500"))
+                alreadyPaidBtn.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor("#2A1A0E"))
+                alreadyPaidBtn.setOnClickListener {
+                    AppPreferences.setPremium(this, true)
+                    recreate()
+                }
+                banner.addView(alreadyPaidBtn)
             root.addView(banner)
         }
         val grid = GridLayout(this)
