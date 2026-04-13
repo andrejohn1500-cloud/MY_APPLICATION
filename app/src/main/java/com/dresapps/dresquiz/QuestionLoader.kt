@@ -30,7 +30,7 @@ object QuestionLoader {
                 result.add(Question(
                     text = q.getString("question"),
                     options = options,
-                    correctIndex = q.getInt("correctIndex"),
+                    correctIndex = q.getInt("answer"),
                     category = ""
                 ))
             }
@@ -46,7 +46,7 @@ object QuestionLoader {
                 result.add(Question(
                     text = q.getString("q"),
                     options = options,
-                    correctIndex = q.getInt("correctIndex"),
+                    correctIndex = q.getInt("answer"),
                     category = category
                 ))
             }
