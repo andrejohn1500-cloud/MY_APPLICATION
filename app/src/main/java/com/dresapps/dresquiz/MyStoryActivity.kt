@@ -27,7 +27,7 @@ With no formal training in app development, I taught myself — through failure,
 
 This app is my testimony. It is proof that resilience is not the absence of struggle — it is what you build in the middle of it.
 
-If this game has brought you joy, I give God the glory. And if you feel moved to support the journey behind it, a small donation through PayPal would mean the world to me.
+If this game has brought you joy, I give God the glory. Your support — whether through playing, sharing, or simply choosing to stay — keeps this mission alive.
 
 Thank you for playing. Thank you for reading. And above all — thank God for life.
 
