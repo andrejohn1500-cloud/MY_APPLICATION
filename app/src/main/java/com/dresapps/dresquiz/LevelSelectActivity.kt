@@ -44,7 +44,7 @@ class LevelSelectActivity : AppCompatActivity() {
             banner.addView(t1)
 
             val t2 = TextView(this)
-            t2.text = "Unlock ALL levels forever for just $2.99"
+            t2.text = "Unlock ALL levels forever for just USD2.99"
             t2.textSize = 13f
             t2.setTextColor(Color.parseColor("#FFA500"))
             t2.gravity = android.view.Gravity.CENTER
@@ -52,7 +52,7 @@ class LevelSelectActivity : AppCompatActivity() {
             banner.addView(t2)
 
             val unlockBtn = Button(this)
-            unlockBtn.text = "UNLOCK NOW - $2.99"
+            unlockBtn.text = "UNLOCK NOW - USD2.99"
             unlockBtn.textSize = 15f
             unlockBtn.setTextColor(Color.BLACK)
             unlockBtn.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor("#FFA500"))
