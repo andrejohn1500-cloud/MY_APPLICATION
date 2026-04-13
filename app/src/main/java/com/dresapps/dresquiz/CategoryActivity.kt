@@ -92,7 +92,7 @@ class CategoryActivity : AppCompatActivity() {
 
             btn.setOnClickListener {
                 buzz()
-                val intent = Intent(this@CategoryActivity, QuizActivity::class.java)
+                val intent = Intent(this@CategoryActivity, LevelSelectActivity::class.java)
                 intent.putExtra("category", category)
                 startActivity(intent)
             }
