@@ -16,7 +16,7 @@ jobs:
       KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
       KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
       # Configure GRADLE_OPTS for memory management
-      GRADLE_OPTS: "-Xmx512m -Dorg.gradle.jvmargs=-Xmx512m -Dfile.encoding=UTF-8"
+      GRADLE_OPTS: "-Xmx2g -Dorg.gradle.jvmargs=-Xmx2g -Dfile.encoding=UTF-8"
       # Specify the build type (release)
       BUILD_TYPE: release
 
@@ -55,7 +55,7 @@ jobs:
       # 6️⃣ Build Release APK and AAB
       - name: Build Release APK and AAB
         # Assumes standard Android project structure that reads signing config from local.properties
-        run: ./gradlew assembleRelease bundleRelease
+        run: ./gradlew assembleRelease bundleRelease --no-daemon -Dorg.gradle.jvmargs=-Xmx3g
 
       # 7️⃣ Upload artifacts (APK and AAB)
       - name: Upload Release Artifacts
