@@ -99,7 +99,10 @@ class QuizActivity : AppCompatActivity() {
 
         val category = intent.getStringExtra("category") ?: "CXC Maths"
         level = intent.getIntExtra("level", 1)
-        questions = QuestionLoader.loadQuestions(this, category, level).shuffled()
+        questions = QuestionLoader.loadQuestions(this, category, level).map { q ->
+    val shuffled = q.options.shuffled()
+    q.copy(options = shuffled, correctIndex = shuffled.indexOf(q.options[q.correctIndex]))
+}.shuffled()
         binding.tvCategory.text = category
 
         val attrs = AudioAttributes.Builder()
