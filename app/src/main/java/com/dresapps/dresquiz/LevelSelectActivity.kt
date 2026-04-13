@@ -6,7 +6,7 @@ import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 
 class LevelSelectActivity : AppCompatActivity() {
-    private val PAYPAL_URL = "https://www.paypal.com/ncp/payment/DRESNCP"
+    private val PAYPAL_URL = "https://www.paypal.com/ncp/payment/Z48JTL598SJG8"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
