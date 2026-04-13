@@ -3,150 +3,150 @@
     "question": "The concept of 'project management lifecycle'",
     "options": [
       "Hierarchically decomposes project work into manageable components",
-      "Project tasks, durations and their timeline in a bar chart format",
       "Initiation, planning, execution, monitoring and closing",
+      "All individuals and groups with an interest in or affected by the project",
       "Tasks that cannot begin until other tasks are completed"
     ],
-    "answer": "Initiation, planning, execution, monitoring and closing"
+    "correctIndex": 1
   },
   {
     "question": "A 'Gantt chart' shows",
     "options": [
-      "The amount of time a task can be delayed without affecting the project end date",
-      "Initiation, planning, execution, monitoring and closing",
-      "Planning, monitoring and controlling project costs",
-      "Project tasks, durations and their timeline in a bar chart format"
+      "Iterative approach delivering value in short cycles with continuous feedback",
+      "Recording what went well and what could improve for future projects",
+      "Project tasks, durations and their timeline in a bar chart format",
+      "Hierarchically decomposes project work into manageable components"
     ],
-    "answer": "Project tasks, durations and their timeline in a bar chart format"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'project scope'",
     "options": [
-      "Hierarchically decomposes project work into manageable components",
+      "The defined boundaries of what a project will and will not deliver",
+      "Assigning people, equipment and materials to project tasks",
       "The amount of time a task can be delayed without affecting the project end date",
-      "Planning, monitoring and controlling project costs",
-      "The defined boundaries of what a project will and will not deliver"
+      "Recording what went well and what could improve for future projects"
     ],
-    "answer": "The defined boundaries of what a project will and will not deliver"
+    "correctIndex": 0
   },
   {
     "question": "'Project stakeholders' include",
     "options": [
-      "Iterative approach delivering value in short cycles with continuous feedback",
-      "Completing all activities, delivering outputs and documenting lessons learned",
-      "All individuals and groups with an interest in or affected by the project",
-      "Initiation, planning, execution, monitoring and closing"
+      "Hierarchically decomposes project work into manageable components",
+      "Assigning people, equipment and materials to project tasks",
+      "Project tasks, durations and their timeline in a bar chart format",
+      "All individuals and groups with an interest in or affected by the project"
     ],
-    "answer": "All individuals and groups with an interest in or affected by the project"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'risk register'",
     "options": [
+      "Initiation, planning, execution, monitoring and closing",
       "A document identifying potential project risks and mitigation strategies",
-      "The defined boundaries of what a project will and will not deliver",
-      "All individuals and groups with an interest in or affected by the project",
-      "Iterative approach delivering value in short cycles with continuous feedback"
+      "Completing all activities, delivering outputs and documenting lessons learned",
+      "Planning, monitoring and controlling project costs"
     ],
-    "answer": "A document identifying potential project risks and mitigation strategies"
+    "correctIndex": 1
   },
   {
     "question": "'Work breakdown structure' (WBS)",
     "options": [
-      "Hierarchically decomposes project work into manageable components",
       "Iterative approach delivering value in short cycles with continuous feedback",
-      "The defined boundaries of what a project will and will not deliver",
-      "A document identifying potential project risks and mitigation strategies"
+      "A document identifying potential project risks and mitigation strategies",
+      "Initiation, planning, execution, monitoring and closing",
+      "Hierarchically decomposes project work into manageable components"
     ],
-    "answer": "Hierarchically decomposes project work into manageable components"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'project milestones'",
     "options": [
-      "Completing all activities, delivering outputs and documenting lessons learned",
-      "Tasks that cannot begin until other tasks are completed",
-      "All individuals and groups with an interest in or affected by the project",
-      "Significant checkpoints marking key achievements in the project"
+      "Formal processes for approving and documenting changes to project scope",
+      "Assigning people, equipment and materials to project tasks",
+      "Significant checkpoints marking key achievements in the project",
+      "The defined boundaries of what a project will and will not deliver"
     ],
-    "answer": "Significant checkpoints marking key achievements in the project"
+    "correctIndex": 2
   },
   {
     "question": "'Resource allocation' in project management",
     "options": [
       "Tasks that cannot begin until other tasks are completed",
-      "The defined boundaries of what a project will and will not deliver",
+      "Initiation, planning, execution, monitoring and closing",
       "Assigning people, equipment and materials to project tasks",
-      "Planning, monitoring and controlling project costs"
+      "Significant checkpoints marking key achievements in the project"
     ],
-    "answer": "Assigning people, equipment and materials to project tasks"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'project budget management'",
     "options": [
+      "Assigning people, equipment and materials to project tasks",
+      "Iterative approach delivering value in short cycles with continuous feedback",
       "Planning, monitoring and controlling project costs",
-      "Project tasks, durations and their timeline in a bar chart format",
-      "Significant checkpoints marking key achievements in the project",
-      "Assigning people, equipment and materials to project tasks"
+      "Hierarchically decomposes project work into manageable components"
     ],
-    "answer": "Planning, monitoring and controlling project costs"
+    "correctIndex": 2
   },
   {
     "question": "'Change control procedures'",
     "options": [
-      "Planning, monitoring and controlling project costs",
+      "Significant checkpoints marking key achievements in the project",
       "Formal processes for approving and documenting changes to project scope",
-      "The defined boundaries of what a project will and will not deliver",
-      "All individuals and groups with an interest in or affected by the project"
+      "All individuals and groups with an interest in or affected by the project",
+      "Planning, monitoring and controlling project costs"
     ],
-    "answer": "Formal processes for approving and documenting changes to project scope"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'project closure'",
     "options": [
-      "Hierarchically decomposes project work into manageable components",
-      "Recording what went well and what could improve for future projects",
-      "The amount of time a task can be delayed without affecting the project end date",
-      "Completing all activities, delivering outputs and documenting lessons learned"
+      "Completing all activities, delivering outputs and documenting lessons learned",
+      "Significant checkpoints marking key achievements in the project",
+      "Project tasks, durations and their timeline in a bar chart format",
+      "All individuals and groups with an interest in or affected by the project"
     ],
-    "answer": "Completing all activities, delivering outputs and documenting lessons learned"
+    "correctIndex": 0
   },
   {
     "question": "'Agile project management'",
     "options": [
-      "The amount of time a task can be delayed without affecting the project end date",
-      "Planning, monitoring and controlling project costs",
+      "Initiation, planning, execution, monitoring and closing",
       "Hierarchically decomposes project work into manageable components",
-      "Iterative approach delivering value in short cycles with continuous feedback"
+      "Iterative approach delivering value in short cycles with continuous feedback",
+      "Completing all activities, delivering outputs and documenting lessons learned"
     ],
-    "answer": "Iterative approach delivering value in short cycles with continuous feedback"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'project dependencies'",
     "options": [
-      "Formal processes for approving and documenting changes to project scope",
-      "Tasks that cannot begin until other tasks are completed",
+      "Iterative approach delivering value in short cycles with continuous feedback",
+      "Initiation, planning, execution, monitoring and closing",
       "Planning, monitoring and controlling project costs",
-      "The amount of time a task can be delayed without affecting the project end date"
+      "Tasks that cannot begin until other tasks are completed"
     ],
-    "answer": "Tasks that cannot begin until other tasks are completed"
+    "correctIndex": 3
   },
   {
     "question": "'Float (slack) in project management'",
     "options": [
-      "Assigning people, equipment and materials to project tasks",
-      "Planning, monitoring and controlling project costs",
       "The amount of time a task can be delayed without affecting the project end date",
-      "Project tasks, durations and their timeline in a bar chart format"
+      "Project tasks, durations and their timeline in a bar chart format",
+      "A document identifying potential project risks and mitigation strategies",
+      "Assigning people, equipment and materials to project tasks"
     ],
-    "answer": "The amount of time a task can be delayed without affecting the project end date"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'lessons learned' documentation",
     "options": [
-      "All individuals and groups with an interest in or affected by the project",
+      "Hierarchically decomposes project work into manageable components",
       "Tasks that cannot begin until other tasks are completed",
       "Recording what went well and what could improve for future projects",
-      "Completing all activities, delivering outputs and documenting lessons learned"
+      "The amount of time a task can be delayed without affecting the project end date"
     ],
-    "answer": "Recording what went well and what could improve for future projects"
+    "correctIndex": 2
   }
 ]

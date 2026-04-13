@@ -2,151 +2,151 @@
   {
     "question": "Solve 2x² − 7x + 3 = 0 using quadratic formula",
     "options": [
-      "x = 3",
       "x = 3 or x = 1/2",
-      "(2, 3)",
-      "2ⁿ"
+      "6.25%",
+      "2ⁿ",
+      "210"
     ],
-    "answer": "x = 3 or x = 1/2"
+    "correctIndex": 0
   },
   {
     "question": "Gradient of line perpendicular to y = 4x − 3",
     "options": [
+      "√39",
+      "(x+2)² + (y−3)² = 16",
       "−1/4",
-      "x = 3",
-      "(2, −4)",
-      "(2, 3)"
+      "x = 15"
     ],
-    "answer": "−1/4"
+    "correctIndex": 2
   },
   {
     "question": "Percentage error: estimated 4.5kg, actual 4.8kg",
     "options": [
-      "0.65",
+      "2km",
       "6.25%",
-      "−1/4",
-      "(2, 3)"
+      "x = 3",
+      "12cm"
     ],
-    "answer": "6.25%"
+    "correctIndex": 1
   },
   {
     "question": "Triangle: b = 5, c = 7, angle C = 60°; find side a using cosine rule",
     "options": [
+      "2km",
+      "(2, −4)",
       "√39",
-      "−1/4",
-      "x = 3 or x = 1/2",
-      "The median"
+      "x = 3"
     ],
-    "answer": "√39"
+    "correctIndex": 2
   },
   {
     "question": "Solve: 3^x = 27",
     "options": [
+      "(2, 3)",
       "−1/4",
-      "√39",
-      "x = 15",
-      "x = 3"
+      "x = 3",
+      "2ⁿ"
     ],
-    "answer": "x = 3"
+    "correctIndex": 2
   },
   {
     "question": "Coordinates of turning point of y = x² − 4x + 7",
     "options": [
-      "x = 3",
-      "0.65",
       "(2, 3)",
-      "√39"
+      "(x+2)² + (y−3)² = 16",
+      "0.65",
+      "2km"
     ],
-    "answer": "(2, 3)"
+    "correctIndex": 0
   },
   {
     "question": "Equation of circle with centre (−2, 3) and radius 4",
     "options": [
-      "12cm",
-      "−1/4",
+      "0.65",
+      "x = 15",
       "2ⁿ",
       "(x+2)² + (y−3)² = 16"
     ],
-    "answer": "(x+2)² + (y−3)² = 16"
+    "correctIndex": 3
   },
   {
     "question": "A set has n elements; number of subsets",
     "options": [
       "x = 3 or x = 1/2",
-      "2ⁿ",
-      "0.65",
-      "(2, 3)"
+      "210",
+      "√39",
+      "2ⁿ"
     ],
-    "answer": "2ⁿ"
+    "correctIndex": 3
   },
   {
     "question": "Cumulative frequency graph: value at 50th percentile",
     "options": [
-      "12cm",
-      "(2, 3)",
-      "x = 3",
-      "The median"
+      "6.25%",
+      "The median",
+      "−1/4",
+      "2ⁿ"
     ],
-    "answer": "The median"
+    "correctIndex": 1
   },
   {
     "question": "Solve: log₂(x + 1) = 4",
     "options": [
-      "x = 15",
+      "6.25%",
+      "2km",
       "(2, 3)",
-      "(2, −4)",
-      "x = 3"
+      "x = 15"
     ],
-    "answer": "x = 15"
+    "correctIndex": 3
   },
   {
     "question": "Scale 1:25,000; road 8cm on map; actual length",
     "options": [
-      "−1/4",
-      "12cm",
       "2km",
-      "x = 3 or x = 1/2"
+      "x = 15",
+      "−1/4",
+      "0.65"
     ],
-    "answer": "2km"
+    "correctIndex": 0
   },
   {
     "question": "Sum of first 10 terms of AP: first term 3, d = 4",
     "options": [
-      "2ⁿ",
-      "210",
+      "12cm",
       "(x+2)² + (y−3)² = 16",
-      "2km"
+      "√39",
+      "210"
     ],
-    "answer": "210"
+    "correctIndex": 3
   },
   {
     "question": "If P(A') = 0.35, then P(A)",
     "options": [
+      "x = 3 or x = 1/2",
       "0.65",
-      "12cm",
-      "2ⁿ",
-      "−1/4"
+      "x = 3",
+      "210"
     ],
-    "answer": "0.65"
+    "correctIndex": 1
   },
   {
     "question": "Image of (4,2) after 90° clockwise rotation about origin",
     "options": [
-      "6.25%",
-      "(2, −4)",
-      "0.65",
-      "2ⁿ"
+      "2km",
+      "(2, 3)",
+      "12cm",
+      "(2, −4)"
     ],
-    "answer": "(2, −4)"
+    "correctIndex": 3
   },
   {
     "question": "Right triangle: hypotenuse 13cm, one leg 5cm; other leg",
     "options": [
-      "(2, 3)",
       "12cm",
-      "x = 3",
+      "6.25%",
+      "−1/4",
       "√39"
     ],
-    "answer": "12cm"
+    "correctIndex": 0
   }
 ]

@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'concussion protocols in sport'",
     "options": [
-      "Acclimatisation, hydration, appropriate clothing and monitoring exertion",
-      "Breathing pure oxygen under pressure to accelerate tissue healing",
-      "Provides joint support and proprioceptive feedback to prevent re-injury",
-      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact"
+      "Deep tissue massage, myofascial release and trigger point therapy",
+      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
+      "Pre-exercise warm-up, medication and avoiding triggers",
+      "Neuromuscular training programmes reduce ACL injury risk significantly"
     ],
-    "answer": "Standardised assessment (SCAT) and graduated return-to-play before resuming contact"
+    "correctIndex": 1
   },
   {
     "question": "'Anterior cruciate ligament (ACL) injury prevention'",
     "options": [
-      "Pre-exercise warm-up, medication and avoiding triggers",
+      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
+      "Deep tissue massage, myofascial release and trigger point therapy",
       "Neuromuscular training programmes reduce ACL injury risk significantly",
-      "Identifies movement limitations and asymmetries that predispose athletes to injury",
-      "Ice baths and cold exposure reduce inflammation and perceived soreness"
+      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively"
     ],
-    "answer": "Neuromuscular training programmes reduce ACL injury risk significantly"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'overuse injuries'",
     "options": [
-      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures",
-      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
+      "Pre-exercise warm-up, medication and avoiding triggers",
       "Deep tissue massage, myofascial release and trigger point therapy",
-      "Provides joint support and proprioceptive feedback to prevent re-injury"
+      "Reduces muscle tension, improves circulation and aids psychological recovery",
+      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures"
     ],
-    "answer": "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures"
+    "correctIndex": 3
   },
   {
     "question": "'Tendinopathy management'",
     "options": [
       "Progressive loading exercise is more effective than rest for chronic tendon pain",
-      "Reduces muscle tension, improves circulation and aids psychological recovery",
-      "Identifies movement limitations and asymmetries that predispose athletes to injury",
-      "Full pain-free movement, strength symmetry and sport-specific testing"
+      "Neuromuscular training programmes reduce ACL injury risk significantly",
+      "Provides joint support and proprioceptive feedback to prevent re-injury",
+      "Deep tissue massage, myofascial release and trigger point therapy"
     ],
-    "answer": "Progressive loading exercise is more effective than rest for chronic tendon pain"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'sports massage' benefits",
     "options": [
-      "Reduces muscle tension, improves circulation and aids psychological recovery",
-      "Pre-exercise warm-up, medication and avoiding triggers",
-      "Acclimatisation, hydration, appropriate clothing and monitoring exertion",
-      "Breathing pure oxygen under pressure to accelerate tissue healing"
+      "Full pain-free movement, strength symmetry and sport-specific testing",
+      "Progressive loading exercise is more effective than rest for chronic tendon pain",
+      "Breathing pure oxygen under pressure to accelerate tissue healing",
+      "Reduces muscle tension, improves circulation and aids psychological recovery"
     ],
-    "answer": "Reduces muscle tension, improves circulation and aids psychological recovery"
+    "correctIndex": 3
   },
   {
     "question": "'Taping and bracing' in sport",
     "options": [
-      "Full pain-free movement, strength symmetry and sport-specific testing",
       "Neuromuscular training programmes reduce ACL injury risk significantly",
+      "Full pain-free movement, strength symmetry and sport-specific testing",
       "Provides joint support and proprioceptive feedback to prevent re-injury",
-      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively"
+      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures"
     ],
-    "answer": "Provides joint support and proprioceptive feedback to prevent re-injury"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'functional movement screening' (FMS)",
     "options": [
-      "Deep tissue massage, myofascial release and trigger point therapy",
-      "Identifies movement limitations and asymmetries that predispose athletes to injury",
-      "Reduces muscle tension, improves circulation and aids psychological recovery",
-      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively"
+      "Neuromuscular training programmes reduce ACL injury risk significantly",
+      "Provides joint support and proprioceptive feedback to prevent re-injury",
+      "Progressive loading exercise is more effective than rest for chronic tendon pain",
+      "Identifies movement limitations and asymmetries that predispose athletes to injury"
     ],
-    "answer": "Identifies movement limitations and asymmetries that predispose athletes to injury"
+    "correctIndex": 3
   },
   {
     "question": "'Return to play' decision-making requires",
     "options": [
+      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
       "Full pain-free movement, strength symmetry and sport-specific testing",
-      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
-      "Progressive loading exercise is more effective than rest for chronic tendon pain",
+      "Acclimatisation, hydration, appropriate clothing and monitoring exertion",
       "Provides joint support and proprioceptive feedback to prevent re-injury"
     ],
-    "answer": "Full pain-free movement, strength symmetry and sport-specific testing"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'heat illness prevention'",
     "options": [
-      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
-      "Full pain-free movement, strength symmetry and sport-specific testing",
       "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
-      "Acclimatisation, hydration, appropriate clothing and monitoring exertion"
+      "Acclimatisation, hydration, appropriate clothing and monitoring exertion",
+      "Full pain-free movement, strength symmetry and sport-specific testing",
+      "Neuromuscular training programmes reduce ACL injury risk significantly"
     ],
-    "answer": "Acclimatisation, hydration, appropriate clothing and monitoring exertion"
+    "correctIndex": 1
   },
   {
     "question": "'Exercise-induced asthma management'",
     "options": [
-      "Provides joint support and proprioceptive feedback to prevent re-injury",
-      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures",
+      "Ice baths and cold exposure reduce inflammation and perceived soreness",
+      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively",
       "Pre-exercise warm-up, medication and avoiding triggers",
-      "Ice baths and cold exposure reduce inflammation and perceived soreness"
+      "Reduces muscle tension, improves circulation and aids psychological recovery"
     ],
-    "answer": "Pre-exercise warm-up, medication and avoiding triggers"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'altitude sickness in athletes'",
     "options": [
-      "Breathing pure oxygen under pressure to accelerate tissue healing",
-      "Neuromuscular training programmes reduce ACL injury risk significantly",
-      "Ice baths and cold exposure reduce inflammation and perceived soreness",
-      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent"
+      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
+      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
+      "Pre-exercise warm-up, medication and avoiding triggers",
+      "Neuromuscular training programmes reduce ACL injury risk significantly"
     ],
-    "answer": "Occurs above 2500m due to reduced oxygen — managed by gradual ascent"
+    "correctIndex": 0
   },
   {
     "question": "'Soft tissue therapy techniques' include",
     "options": [
+      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
+      "Acclimatisation, hydration, appropriate clothing and monitoring exertion",
       "Deep tissue massage, myofascial release and trigger point therapy",
-      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures",
-      "Pre-exercise warm-up, medication and avoiding triggers",
-      "Reduces muscle tension, improves circulation and aids psychological recovery"
+      "Neuromuscular training programmes reduce ACL injury risk significantly"
     ],
-    "answer": "Deep tissue massage, myofascial release and trigger point therapy"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'cryotherapy in recovery'",
     "options": [
       "Progressive loading exercise is more effective than rest for chronic tendon pain",
-      "Ice baths and cold exposure reduce inflammation and perceived soreness",
-      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
-      "Provides joint support and proprioceptive feedback to prevent re-injury"
+      "Breathing pure oxygen under pressure to accelerate tissue healing",
+      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively",
+      "Ice baths and cold exposure reduce inflammation and perceived soreness"
     ],
-    "answer": "Ice baths and cold exposure reduce inflammation and perceived soreness"
+    "correctIndex": 3
   },
   {
     "question": "'Hyperbaric oxygen therapy'",
     "options": [
-      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
-      "Identifies movement limitations and asymmetries that predispose athletes to injury",
-      "Deep tissue massage, myofascial release and trigger point therapy",
-      "Breathing pure oxygen under pressure to accelerate tissue healing"
+      "Breathing pure oxygen under pressure to accelerate tissue healing",
+      "Neuromuscular training programmes reduce ACL injury risk significantly",
+      "Gradual accumulation of stress without adequate recovery — e.g. shin splints, stress fractures",
+      "Reduces muscle tension, improves circulation and aids psychological recovery"
     ],
-    "answer": "Breathing pure oxygen under pressure to accelerate tissue healing"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'the sports medicine team'",
     "options": [
-      "Deep tissue massage, myofascial release and trigger point therapy",
-      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively",
-      "Identifies movement limitations and asymmetries that predispose athletes to injury",
-      "Progressive loading exercise is more effective than rest for chronic tendon pain"
+      "Full pain-free movement, strength symmetry and sport-specific testing",
+      "Occurs above 2500m due to reduced oxygen — managed by gradual ascent",
+      "Standardised assessment (SCAT) and graduated return-to-play before resuming contact",
+      "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively"
     ],
-    "answer": "Physician, physiotherapist, nutritionist, psychologist and strength coach working collaboratively"
+    "correctIndex": 3
   }
 ]

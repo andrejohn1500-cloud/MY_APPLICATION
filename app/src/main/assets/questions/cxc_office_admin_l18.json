@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'digital transformation in administration'",
     "options": [
-      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
-      "Messages exchanged without requiring immediate response",
-      "Policies ensuring data quality, security and appropriate use",
-      "Integrating digital technology to fundamentally change how organisations operate"
+      "Integrating digital technology to fundamentally change how organisations operate",
+      "Software robots automate repetitive rule-based administrative tasks",
+      "Enable real-time communication and document sharing across locations",
+      "Policies managing how employees use social media in relation to their work"
     ],
-    "answer": "Integrating digital technology to fundamentally change how organisations operate"
+    "correctIndex": 0
   },
   {
     "question": "'Robotic process automation' (RPA)",
     "options": [
+      "Messages exchanged without requiring immediate response",
+      "Basic practices that protect systems — updating software, strong passwords, awareness",
       "Software robots automate repetitive rule-based administrative tasks",
-      "Lawful basis, transparency, purpose limitation, data minimisation and security",
-      "Managing technology use to maintain mental health and productivity",
-      "AI tools assist with scheduling, document management and decision support"
+      "Managing technology use to maintain mental health and productivity"
     ],
-    "answer": "Software robots automate repetitive rule-based administrative tasks"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'artificial intelligence in office management'",
     "options": [
-      "Managing technology use to maintain mental health and productivity",
-      "Basic practices that protect systems — updating software, strong passwords, awareness",
-      "AI tools assist with scheduling, document management and decision support",
-      "Enable real-time communication and document sharing across locations"
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
+      "Educating employees to recognise and respond to cyber threats",
+      "Managing distributed teams and resources entirely through digital tools",
+      "AI tools assist with scheduling, document management and decision support"
     ],
-    "answer": "AI tools assist with scheduling, document management and decision support"
+    "correctIndex": 3
   },
   {
     "question": "'Chatbots in customer service'",
     "options": [
-      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
+      "AI tools assist with scheduling, document management and decision support",
       "AI systems handle routine customer queries without human intervention",
-      "Policies managing how employees use social media in relation to their work",
-      "Software accessed via the internet rather than installed locally"
+      "Basic practices that protect systems — updating software, strong passwords, awareness",
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management"
     ],
-    "answer": "AI systems handle routine customer queries without human intervention"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'cloud-based office tools'",
     "options": [
-      "Lawful basis, transparency, purpose limitation, data minimisation and security",
-      "Managing technology use to maintain mental health and productivity",
       "Software accessed via the internet rather than installed locally",
-      "AI systems handle routine customer queries without human intervention"
+      "Software robots automate repetitive rule-based administrative tasks",
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
+      "Managing distributed teams and resources entirely through digital tools"
     ],
-    "answer": "Software accessed via the internet rather than installed locally"
+    "correctIndex": 0
   },
   {
     "question": "'Collaborative platforms' (e.g. Teams, Slack)",
     "options": [
-      "Integrating digital technology to fundamentally change how organisations operate",
       "Enable real-time communication and document sharing across locations",
-      "Software robots automate repetitive rule-based administrative tasks",
-      "Policies managing how employees use social media in relation to their work"
+      "Software accessed via the internet rather than installed locally",
+      "Educating employees to recognise and respond to cyber threats",
+      "Basic practices that protect systems — updating software, strong passwords, awareness"
     ],
-    "answer": "Enable real-time communication and document sharing across locations"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'data governance in administration'",
     "options": [
-      "Messages exchanged without requiring immediate response",
-      "Integrating digital technology to fundamentally change how organisations operate",
+      "Lawful basis, transparency, purpose limitation, data minimisation and security",
       "Policies ensuring data quality, security and appropriate use",
-      "Policies managing how employees use social media in relation to their work"
+      "Basic practices that protect systems — updating software, strong passwords, awareness",
+      "Enable real-time communication and document sharing across locations"
     ],
-    "answer": "Policies ensuring data quality, security and appropriate use"
+    "correctIndex": 1
   },
   {
     "question": "'GDPR-style data protection principles'",
     "options": [
-      "AI tools assist with scheduling, document management and decision support",
       "AI systems handle routine customer queries without human intervention",
-      "Managing distributed teams and resources entirely through digital tools",
-      "Lawful basis, transparency, purpose limitation, data minimisation and security"
+      "Software robots automate repetitive rule-based administrative tasks",
+      "Lawful basis, transparency, purpose limitation, data minimisation and security",
+      "Managing distributed teams and resources entirely through digital tools"
     ],
-    "answer": "Lawful basis, transparency, purpose limitation, data minimisation and security"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'cyber hygiene in the office'",
     "options": [
-      "Basic practices that protect systems — updating software, strong passwords, awareness",
-      "Managing technology use to maintain mental health and productivity",
-      "Enable real-time communication and document sharing across locations",
-      "Policies managing how employees use social media in relation to their work"
+      "Lawful basis, transparency, purpose limitation, data minimisation and security",
+      "Managing distributed teams and resources entirely through digital tools",
+      "Educating employees to recognise and respond to cyber threats",
+      "Basic practices that protect systems — updating software, strong passwords, awareness"
     ],
-    "answer": "Basic practices that protect systems — updating software, strong passwords, awareness"
+    "correctIndex": 3
   },
   {
     "question": "'Social media governance' in organisations",
     "options": [
+      "Software robots automate repetitive rule-based administrative tasks",
+      "Basic practices that protect systems — updating software, strong passwords, awareness",
       "Policies managing how employees use social media in relation to their work",
-      "Messages exchanged without requiring immediate response",
-      "Managing technology use to maintain mental health and productivity",
-      "Software robots automate repetitive rule-based administrative tasks"
+      "Policies ensuring data quality, security and appropriate use"
     ],
-    "answer": "Policies managing how employees use social media in relation to their work"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'virtual office management'",
     "options": [
-      "Managing technology use to maintain mental health and productivity",
       "Managing distributed teams and resources entirely through digital tools",
-      "Policies managing how employees use social media in relation to their work",
-      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management"
+      "AI tools assist with scheduling, document management and decision support",
+      "Educating employees to recognise and respond to cyber threats",
+      "Software robots automate repetitive rule-based administrative tasks"
     ],
-    "answer": "Managing distributed teams and resources entirely through digital tools"
+    "correctIndex": 0
   },
   {
     "question": "'Asynchronous communication' in remote work",
     "options": [
-      "Integrating digital technology to fundamentally change how organisations operate",
       "Messages exchanged without requiring immediate response",
-      "Policies ensuring data quality, security and appropriate use",
-      "Basic practices that protect systems — updating software, strong passwords, awareness"
+      "AI tools assist with scheduling, document management and decision support",
+      "Managing technology use to maintain mental health and productivity",
+      "Policies managing how employees use social media in relation to their work"
     ],
-    "answer": "Messages exchanged without requiring immediate response"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'digital wellbeing'",
     "options": [
-      "Messages exchanged without requiring immediate response",
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
+      "AI systems handle routine customer queries without human intervention",
       "Managing technology use to maintain mental health and productivity",
-      "Educating employees to recognise and respond to cyber threats",
-      "AI tools assist with scheduling, document management and decision support"
+      "Policies ensuring data quality, security and appropriate use"
     ],
-    "answer": "Managing technology use to maintain mental health and productivity"
+    "correctIndex": 2
   },
   {
     "question": "'Cybersecurity awareness training' for staff",
     "options": [
-      "Educating employees to recognise and respond to cyber threats",
-      "Enable real-time communication and document sharing across locations",
-      "Managing distributed teams and resources entirely through digital tools",
-      "AI tools assist with scheduling, document management and decision support"
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
+      "Software accessed via the internet rather than installed locally",
+      "Integrating digital technology to fundamentally change how organisations operate",
+      "Educating employees to recognise and respond to cyber threats"
     ],
-    "answer": "Educating employees to recognise and respond to cyber threats"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'the future of administrative roles'",
     "options": [
-      "AI tools assist with scheduling, document management and decision support",
-      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management",
-      "Basic practices that protect systems — updating software, strong passwords, awareness",
-      "Policies ensuring data quality, security and appropriate use"
+      "Educating employees to recognise and respond to cyber threats",
+      "Policies managing how employees use social media in relation to their work",
+      "Managing technology use to maintain mental health and productivity",
+      "Technology automates routine tasks shifting focus to judgment, creativity and relationship management"
     ],
-    "answer": "Technology automates routine tasks shifting focus to judgment, creativity and relationship management"
+    "correctIndex": 3
   }
 ]

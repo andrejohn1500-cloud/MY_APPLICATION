@@ -2,151 +2,151 @@
   {
     "question": "Capital city of France",
     "options": [
+      "Mexico City",
+      "Paris",
       "Africa",
-      "China and Mongolia",
-      "The South Pacific Ocean",
-      "Paris"
+      "Africa"
     ],
-    "answer": "Paris"
+    "correctIndex": 1
   },
   {
     "question": "The Sahara Desert is the largest hot desert in",
     "options": [
-      "North America",
-      "Ice",
-      "Mexico City",
+      "Buenos Aires",
+      "London, England",
+      "Southern Europe, North Africa and the Middle East",
       "Africa"
     ],
-    "answer": "Africa"
+    "correctIndex": 3
   },
   {
     "question": "The country of New Zealand is located in",
     "options": [
       "The South Pacific Ocean",
-      "Paris",
-      "North America",
-      "Mexico City"
+      "Africa",
+      "Seoul",
+      "North America"
     ],
-    "answer": "The South Pacific Ocean"
+    "correctIndex": 0
   },
   {
     "question": "Capital city of Mexico",
     "options": [
-      "Africa",
+      "Cairo",
       "Mexico City",
-      "Seoul",
-      "Ice"
+      "North America",
+      "Buenos Aires"
     ],
-    "answer": "Mexico City"
+    "correctIndex": 1
   },
   {
     "question": "The River Thames flows through",
     "options": [
+      "Ice",
+      "The South Pacific Ocean",
       "London, England",
-      "Mexico City",
-      "Southern Europe, North Africa and the Middle East",
-      "China and Mongolia"
+      "Paris"
     ],
-    "answer": "London, England"
+    "correctIndex": 2
   },
   {
     "question": "The continent with the most countries",
     "options": [
-      "London, England",
       "China and Mongolia",
+      "London, England",
       "Africa",
-      "Mexico City"
+      "The South Pacific Ocean"
     ],
-    "answer": "Africa"
+    "correctIndex": 2
   },
   {
     "question": "Capital city of South Korea",
     "options": [
       "Africa",
+      "New Delhi",
       "Seoul",
-      "China and Mongolia",
-      "Southern Europe, North Africa and the Middle East"
+      "Greenland"
     ],
-    "answer": "Seoul"
+    "correctIndex": 2
   },
   {
     "question": "The Rocky Mountains are located in",
     "options": [
       "China and Mongolia",
-      "Buenos Aires",
-      "North America",
-      "Cairo"
+      "Southern Europe, North Africa and the Middle East",
+      "Ice",
+      "North America"
     ],
-    "answer": "North America"
+    "correctIndex": 3
   },
   {
     "question": "The Mediterranean Sea borders",
     "options": [
-      "Southern Europe, North Africa and the Middle East",
-      "Buenos Aires",
-      "Africa",
-      "China and Mongolia"
+      "Mexico City",
+      "Paris",
+      "Seoul",
+      "Southern Europe, North Africa and the Middle East"
     ],
-    "answer": "Southern Europe, North Africa and the Middle East"
+    "correctIndex": 3
   },
   {
     "question": "Capital city of Argentina",
     "options": [
-      "Buenos Aires",
-      "Greenland",
       "Africa",
-      "Mexico City"
+      "China and Mongolia",
+      "Buenos Aires",
+      "New Delhi"
     ],
-    "answer": "Buenos Aires"
+    "correctIndex": 2
   },
   {
     "question": "The Gobi Desert is located in",
     "options": [
-      "China and Mongolia",
+      "Seoul",
       "Greenland",
-      "Southern Europe, North Africa and the Middle East",
-      "Africa"
+      "Africa",
+      "China and Mongolia"
     ],
-    "answer": "China and Mongolia"
+    "correctIndex": 3
   },
   {
     "question": "Capital city of Egypt",
     "options": [
+      "The South Pacific Ocean",
+      "North America",
       "Cairo",
-      "Buenos Aires",
-      "Greenland",
-      "Paris"
+      "Mexico City"
     ],
-    "answer": "Cairo"
+    "correctIndex": 2
   },
   {
     "question": "The continent of Antarctica is covered mostly by",
     "options": [
-      "Ice",
-      "North America",
-      "London, England",
-      "Mexico City"
+      "China and Mongolia",
+      "Southern Europe, North Africa and the Middle East",
+      "New Delhi",
+      "Ice"
     ],
-    "answer": "Ice"
+    "correctIndex": 3
   },
   {
     "question": "Capital city of India",
     "options": [
-      "New Delhi",
-      "China and Mongolia",
       "Paris",
-      "Southern Europe, North Africa and the Middle East"
+      "Ice",
+      "Seoul",
+      "New Delhi"
     ],
-    "answer": "New Delhi"
+    "correctIndex": 3
   },
   {
     "question": "The world's largest island is",
     "options": [
-      "The South Pacific Ocean",
-      "Ice",
-      "Cairo",
-      "Greenland"
+      "Greenland",
+      "Buenos Aires",
+      "North America",
+      "Mexico City"
     ],
-    "answer": "Greenland"
+    "correctIndex": 0
   }
 ]

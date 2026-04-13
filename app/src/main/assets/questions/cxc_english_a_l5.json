@@ -2,151 +2,151 @@
   {
     "question": "A clause that cannot stand alone as a sentence",
     "options": [
-      "Dependent/subordinate clause",
-      "Conjunctive adverb",
       "Hinting at events that will happen later",
-      "Compare two things to clarify a concept"
+      "Conjunctive adverb",
+      "Dependent/subordinate clause",
+      "There are fewer students today"
     ],
-    "answer": "Dependent/subordinate clause"
+    "correctIndex": 2
   },
   {
     "question": "A correctly structured complex sentence",
     "options": [
-      "Show, don't tell",
-      "Dependent/subordinate clause",
-      "A story told from a particular point of view",
-      "She studied hard because she wanted to pass"
+      "She studied hard because she wanted to pass",
+      "First person",
+      "To state the main argument or claim",
+      "A story told from a particular point of view"
     ],
-    "answer": "She studied hard because she wanted to pass"
+    "correctIndex": 0
   },
   {
     "question": "Narrative writing usually involves",
     "options": [
-      "There are fewer students today",
+      "Dependent/subordinate clause",
       "A story told from a particular point of view",
-      "Show, don't tell",
-      "Hinting at events that will happen later"
+      "Explain or inform",
+      "Concessive phrase"
     ],
-    "answer": "A story told from a particular point of view"
+    "correctIndex": 1
   },
   {
     "question": "Purpose of a thesis statement in an essay",
     "options": [
-      "A story told from a particular point of view",
-      "First person",
-      "She studied hard because she wanted to pass",
-      "To state the main argument or claim"
+      "There are fewer students today",
+      "To state the main argument or claim",
+      "Show, don't tell",
+      "Present findings and make recommendations"
     ],
-    "answer": "To state the main argument or claim"
+    "correctIndex": 1
   },
   {
     "question": "'Foreshadowing' in writing means",
     "options": [
-      "Concessive phrase",
       "Hinting at events that will happen later",
-      "There are fewer students today",
-      "Dependent/subordinate clause"
+      "She loved reading; he preferred writing",
+      "Conjunctive adverb",
+      "Lasting for a very short time"
     ],
-    "answer": "Hinting at events that will happen later"
+    "correctIndex": 0
   },
   {
     "question": "The word 'therefore' is a",
     "options": [
-      "Conjunctive adverb",
-      "Dependent/subordinate clause",
-      "Lasting for a very short time",
-      "Show, don't tell"
+      "She loved reading; he preferred writing",
+      "Present findings and make recommendations",
+      "Compare two things to clarify a concept",
+      "Conjunctive adverb"
     ],
-    "answer": "Conjunctive adverb"
+    "correctIndex": 3
   },
   {
     "question": "Correctly uses semicolon:",
     "options": [
-      "Conjunctive adverb",
-      "She loved reading; he preferred writing",
-      "Lasting for a very short time",
-      "Hinting at events that will happen later"
+      "Hinting at events that will happen later",
+      "She studied hard because she wanted to pass",
+      "Concessive phrase",
+      "She loved reading; he preferred writing"
     ],
-    "answer": "She loved reading; he preferred writing"
+    "correctIndex": 3
   },
   {
     "question": "Expository writing is used to",
     "options": [
-      "Dependent/subordinate clause",
-      "To state the main argument or claim",
       "Explain or inform",
-      "Compare two things to clarify a concept"
+      "Compare two things to clarify a concept",
+      "Present findings and make recommendations",
+      "First person"
     ],
-    "answer": "Explain or inform"
+    "correctIndex": 0
   },
   {
     "question": "Which correctly uses 'fewer' vs 'less'?",
     "options": [
       "Hinting at events that will happen later",
-      "Conjunctive adverb",
       "There are fewer students today",
-      "Present findings and make recommendations"
+      "Explain or inform",
+      "A story told from a particular point of view"
     ],
-    "answer": "There are fewer students today"
+    "correctIndex": 1
   },
   {
     "question": "Main purpose of a formal report",
     "options": [
       "Present findings and make recommendations",
-      "First person",
-      "She loved reading; he preferred writing",
-      "She studied hard because she wanted to pass"
+      "Conjunctive adverb",
+      "Dependent/subordinate clause",
+      "She loved reading; he preferred writing"
     ],
-    "answer": "Present findings and make recommendations"
+    "correctIndex": 0
   },
   {
     "question": "An analogy is used to",
     "options": [
+      "Lasting for a very short time",
       "Compare two things to clarify a concept",
-      "There are fewer students today",
-      "First person",
-      "To state the main argument or claim"
+      "She studied hard because she wanted to pass",
+      "Explain or inform"
     ],
-    "answer": "Compare two things to clarify a concept"
+    "correctIndex": 1
   },
   {
     "question": "'Despite the rain, she continued' — 'Despite the rain' is a",
     "options": [
       "Concessive phrase",
-      "Hinting at events that will happen later",
       "Show, don't tell",
-      "Explain or inform"
+      "Hinting at events that will happen later",
+      "Dependent/subordinate clause"
     ],
-    "answer": "Concessive phrase"
+    "correctIndex": 0
   },
   {
     "question": "The word 'ephemeral' means",
     "options": [
-      "There are fewer students today",
       "Lasting for a very short time",
-      "First person",
-      "Concessive phrase"
+      "To state the main argument or claim",
+      "She loved reading; he preferred writing",
+      "Explain or inform"
     ],
-    "answer": "Lasting for a very short time"
+    "correctIndex": 0
   },
   {
     "question": "Narrative point of view using 'I' from inside a character",
     "options": [
-      "Dependent/subordinate clause",
+      "Explain or inform",
       "Show, don't tell",
-      "First person",
-      "Compare two things to clarify a concept"
+      "Hinting at events that will happen later",
+      "First person"
     ],
-    "answer": "First person"
+    "correctIndex": 3
   },
   {
     "question": "The writing technique of showing feelings through actions",
     "options": [
-      "Lasting for a very short time",
       "There are fewer students today",
       "Show, don't tell",
-      "A story told from a particular point of view"
+      "She loved reading; he preferred writing",
+      "Compare two things to clarify a concept"
     ],
-    "answer": "Show, don't tell"
+    "correctIndex": 1
   }
 ]

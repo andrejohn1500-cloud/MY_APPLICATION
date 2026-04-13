@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'emergence' challenges reductionism in physics because",
     "options": [
-      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral",
+      "The brain operates near a critical point between order and chaos, maximising information processing",
       "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification",
-      "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance",
-      "System-level properties arise from interactions that cannot be predicted from components alone"
+      "System-level properties arise from interactions that cannot be predicted from components alone",
+      "Combines an LLM with a retrieval system to ground responses in external knowledge bases"
     ],
-    "answer": "System-level properties arise from interactions that cannot be predicted from components alone"
+    "correctIndex": 2
   },
   {
     "question": "The Montague-Chomsky debate in linguistics relates to AI because",
     "options": [
-      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
       "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation",
-      "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance",
-      "The brain operates near a critical point between order and chaos, maximising information processing"
+      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
+      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
+      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification"
     ],
-    "answer": "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation"
+    "correctIndex": 0
   },
   {
     "question": "Neuronal avalanches in the brain suggest",
     "options": [
-      "The brain operates near a critical point between order and chaos, maximising information processing",
-      "System-level properties arise from interactions that cannot be predicted from components alone",
       "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
-      "Physical forces and mechanical properties of cells and tissues influence biological processes"
+      "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance",
+      "The brain operates near a critical point between order and chaos, maximising information processing",
+      "System-level properties arise from interactions that cannot be predicted from components alone"
     ],
-    "answer": "The brain operates near a critical point between order and chaos, maximising information processing"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'cosmological constant' (Lambda) was",
     "options": [
       "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation",
-      "Two networks — a generator creating data and a discriminator judging it — competing to improve each other",
-      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
-      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion"
+      "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance",
+      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion",
+      "Combines an LLM with a retrieval system to ground responses in external knowledge bases"
     ],
-    "answer": "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion"
+    "correctIndex": 2
   },
   {
     "question": "GAN (Generative Adversarial Network) architecture involves",
     "options": [
+      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion",
       "Two networks — a generator creating data and a discriminator judging it — competing to improve each other",
-      "Combines an LLM with a retrieval system to ground responses in external knowledge bases",
-      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
-      "System-level properties arise from interactions that cannot be predicted from components alone"
+      "The brain operates near a critical point between order and chaos, maximising information processing",
+      "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance"
     ],
-    "answer": "Two networks — a generator creating data and a discriminator judging it — competing to improve each other"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'proteome plasticity' refers to",
     "options": [
-      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification",
+      "The brain operates near a critical point between order and chaos, maximising information processing",
+      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
       "Two networks — a generator creating data and a discriminator judging it — competing to improve each other",
-      "Combines an LLM with a retrieval system to ground responses in external knowledge bases",
-      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates"
+      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification"
     ],
-    "answer": "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'quantum darwinism' (Zurek) proposes",
     "options": [
-      "Two networks — a generator creating data and a discriminator judging it — competing to improve each other",
+      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification",
       "That the classical world we observe emerges because many copies of quantum information survive in the environment",
       "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
-      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion"
+      "Combines an LLM with a retrieval system to ground responses in external knowledge bases"
     ],
-    "answer": "That the classical world we observe emerges because many copies of quantum information survive in the environment"
+    "correctIndex": 1
   },
   {
     "question": "Mechanobiology studies how",
     "options": [
-      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification",
+      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
       "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
-      "Physical forces and mechanical properties of cells and tissues influence biological processes",
-      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity"
+      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral",
+      "Physical forces and mechanical properties of cells and tissues influence biological processes"
     ],
-    "answer": "Physical forces and mechanical properties of cells and tissues influence biological processes"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'in-context learning' in LLMs",
     "options": [
-      "The brain operates near a critical point between order and chaos, maximising information processing",
-      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates",
-      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
-      "Two networks — a generator creating data and a discriminator judging it — competing to improve each other"
+      "A theoretical maximum on the information content of any physical system given its energy and size",
+      "System-level properties arise from interactions that cannot be predicted from components alone",
+      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
+      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates"
     ],
-    "answer": "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates"
+    "correctIndex": 3
   },
   {
     "question": "Bose-Einstein condensate is a state of matter where",
     "options": [
-      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
-      "Physical forces and mechanical properties of cells and tissues influence biological processes",
-      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
-      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral"
+      "System-level properties arise from interactions that cannot be predicted from components alone",
+      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
+      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates",
+      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity"
     ],
-    "answer": "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'astrocyte signalling' has revised neuroscience by showing",
     "options": [
-      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion",
       "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation",
       "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
-      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity"
+      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
+      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral"
     ],
-    "answer": "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons"
+    "correctIndex": 1
   },
   {
     "question": "The Bekenstein bound sets",
     "options": [
-      "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation",
-      "That the classical world we observe emerges because many copies of quantum information survive in the environment",
       "A theoretical maximum on the information content of any physical system given its energy and size",
-      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity"
+      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
+      "Physical forces and mechanical properties of cells and tissues influence biological processes",
+      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion"
     ],
-    "answer": "A theoretical maximum on the information content of any physical system given its energy and size"
+    "correctIndex": 0
   },
   {
     "question": "Somatic evolution in cancer means",
     "options": [
+      "Particles cooled near absolute zero merge into a single quantum state, behaving as one entity",
       "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance",
       "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation",
-      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral",
-      "Combines an LLM with a retrieval system to ground responses in external knowledge bases"
+      "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral"
     ],
-    "answer": "Tumours evolve like populations of organisms under natural selection pressure, explaining drug resistance"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'retrieval-augmented generation' (RAG) in AI",
     "options": [
+      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates",
       "Combines an LLM with a retrieval system to ground responses in external knowledge bases",
-      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion",
-      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons",
-      "It concerns whether language is innate structure or learned statistical pattern — directly relevant to LLM interpretation"
+      "System-level properties arise from interactions that cannot be predicted from components alone",
+      "Glial cells actively participate in synaptic transmission and neural computation, not just support neurons"
     ],
-    "answer": "Combines an LLM with a retrieval system to ground responses in external knowledge bases"
+    "correctIndex": 1
   },
   {
     "question": "Chirality in chemistry refers to",
     "options": [
-      "Physical forces and mechanical properties of cells and tissues influence biological processes",
-      "Einstein's 'greatest blunder', later found to be real — describing the energy density of empty space driving accelerating expansion",
       "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral",
-      "The brain operates near a critical point between order and chaos, maximising information processing"
+      "The ability of a model to adapt to new tasks from examples in its input prompt without weight updates",
+      "Combines an LLM with a retrieval system to ground responses in external knowledge bases",
+      "The ability of a single genome to produce vastly different proteins through alternative splicing and post-translational modification"
     ],
-    "answer": "A molecule that is non-superimposable on its mirror image, crucial because biological systems are almost entirely chiral"
+    "correctIndex": 0
   }
 ]

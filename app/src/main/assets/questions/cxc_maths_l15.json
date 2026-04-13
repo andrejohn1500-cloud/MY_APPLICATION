@@ -2,151 +2,151 @@
   {
     "question": "Solve 2sin²θ − sin θ − 1 = 0 for 0° ≤ θ ≤ 360°",
     "options": [
+      "4",
       "|r| < 1; sum = a/(1−r)",
-      "(ln x)²/2 + C",
-      "x = 5",
-      "90°, 210°, 330°"
+      "90°, 210°, 330°",
+      "e − 1"
     ],
-    "answer": "90°, 210°, 330°"
+    "correctIndex": 2
   },
   {
     "question": "Solve: log₃(2x − 1) = 2",
     "options": [
-      "x ≤ 1 or x ≥ 2",
       "x = 5",
-      "(1, 1/e)",
-      "ⁿCᵣ aⁿ⁻ʳ bʳ"
+      "e − 1",
+      "3/2",
+      "x = 5"
     ],
-    "answer": "x = 5"
+    "correctIndex": 0
   },
   {
     "question": "dy/dx of y = x²/(x + 1) using quotient rule",
     "options": [
-      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "5",
       "(x² + 2x)/(x + 1)²",
       "x = 5",
-      "90°, 210°, 330°"
+      "(1, 1/e)"
     ],
-    "answer": "(x² + 2x)/(x + 1)²"
+    "correctIndex": 1
   },
   {
     "question": "Evaluate: ∫₀¹ 2xe^(x²) dx",
     "options": [
+      "x ≤ 1 or x ≥ 2",
+      "|r| < 1; sum = a/(1−r)",
       "e − 1",
-      "90°, 210°, 330°",
-      "5",
-      "4"
+      "x = 5"
     ],
-    "answer": "e − 1"
+    "correctIndex": 2
   },
   {
     "question": "General term in binomial expansion of (a + b)ⁿ",
     "options": [
       "ⁿCᵣ aⁿ⁻ʳ bʳ",
-      "|r| < 1; sum = a/(1−r)",
-      "(1, 1/e)",
-      "e − 1"
+      "0.2304",
+      "3/2",
+      "(1, 1/e)"
     ],
-    "answer": "ⁿCᵣ aⁿ⁻ʳ bʳ"
+    "correctIndex": 0
   },
   {
     "question": "y = 2x³ − 9x² + 12x; intervals where y is increasing",
     "options": [
+      "(1, 1/e)",
+      "x ≤ 1 or x ≥ 2",
       "5",
-      "|r| < 1; sum = a/(1−r)",
-      "e − 1",
-      "x ≤ 1 or x ≥ 2"
+      "90°, 210°, 330°"
     ],
-    "answer": "x ≤ 1 or x ≥ 2"
+    "correctIndex": 1
   },
   {
     "question": "Product of roots of 2x² − 7x + 3 = 0",
     "options": [
       "3/2",
-      "ⁿCᵣ aⁿ⁻ʳ bʳ",
-      "90°, 210°, 330°",
-      "x ≤ 1 or x ≥ 2"
+      "x ≤ 1 or x ≥ 2",
+      "1 (two distinct real roots)",
+      "90°, 210°, 330°"
     ],
-    "answer": "3/2"
+    "correctIndex": 0
   },
   {
     "question": "P(X = 3) for X~B(5, 0.4)",
     "options": [
-      "(ln x)²/2 + C",
-      "4",
       "0.2304",
+      "(1, 1/e)",
+      "(x² + 2x)/(x + 1)²",
       "e − 1"
     ],
-    "answer": "0.2304"
+    "correctIndex": 0
   },
   {
     "question": "For 4sinx − 3cosx = R sin(x − α); find R",
     "options": [
+      "(x² + 2x)/(x + 1)²",
+      "|r| < 1; sum = a/(1−r)",
       "5",
-      "e − 1",
-      "x = 5",
-      "0.2304"
+      "x ≤ 1 or x ≥ 2"
     ],
-    "answer": "5"
+    "correctIndex": 2
   },
   {
     "question": "Turning point of y = xe^(−x)",
     "options": [
+      "(1, 1/e)",
+      "x = 5",
       "ⁿCᵣ aⁿ⁻ʳ bʳ",
-      "4",
-      "3/2",
-      "(1, 1/e)"
+      "(x² + 2x)/(x + 1)²"
     ],
-    "answer": "(1, 1/e)"
+    "correctIndex": 0
   },
   {
     "question": "In binomial (1 + 2x)ⁿ, coefficient of x² = 24; find n",
     "options": [
-      "x = 5",
+      "90°, 210°, 330°",
+      "4",
       "ⁿCᵣ aⁿ⁻ʳ bʳ",
-      "1 (two distinct real roots)",
-      "4"
+      "|r| < 1; sum = a/(1−r)"
     ],
-    "answer": "4"
+    "correctIndex": 1
   },
   {
     "question": "Discriminant of 3x² − 7x + 4 = 0",
     "options": [
-      "1 (two distinct real roots)",
-      "90°, 210°, 330°",
-      "3/2",
-      "(x² + 2x)/(x + 1)²"
+      "5",
+      "x = 5",
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "1 (two distinct real roots)"
     ],
-    "answer": "1 (two distinct real roots)"
+    "correctIndex": 3
   },
   {
     "question": "Integrate: ∫(ln x)/x dx",
     "options": [
+      "1 (two distinct real roots)",
       "|r| < 1; sum = a/(1−r)",
-      "4",
       "(ln x)²/2 + C",
-      "3/2"
+      "(x² + 2x)/(x + 1)²"
     ],
-    "answer": "(ln x)²/2 + C"
+    "correctIndex": 2
   },
   {
     "question": "Convergence of geometric series requires",
     "options": [
-      "90°, 210°, 330°",
-      "x ≤ 1 or x ≥ 2",
       "x = 5",
+      "4",
+      "1 (two distinct real roots)",
       "|r| < 1; sum = a/(1−r)"
     ],
-    "answer": "|r| < 1; sum = a/(1−r)"
+    "correctIndex": 3
   },
   {
     "question": "Solve: log₂(x+3) + log₂(x−1) = 5",
     "options": [
+      "1 (two distinct real roots)",
+      "4",
       "x = 5",
-      "x = 5",
-      "90°, 210°, 330°",
       "e − 1"
     ],
-    "answer": "x = 5"
+    "correctIndex": 2
   }
 ]

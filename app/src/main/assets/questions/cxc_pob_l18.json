@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'financial derivatives'",
     "options": [
-      "Risk of collapse of an entire financial system rather than individual institutions",
+      "Rules preventing multinationals from manipulating internal prices to avoid tax",
+      "Contracts whose value is derived from underlying assets like stocks or commodities",
       "A crisis in one financial market spreads rapidly to others",
-      "Using complex strategies including short-selling and leverage",
-      "Contracts whose value is derived from underlying assets like stocks or commodities"
+      "Central bank creates money to purchase assets and stimulate the economy"
     ],
-    "answer": "Contracts whose value is derived from underlying assets like stocks or commodities"
+    "correctIndex": 1
   },
   {
     "question": "'Hedge funds' manage risk by",
     "options": [
-      "Using complex strategies including short-selling and leverage",
       "Risk of collapse of an entire financial system rather than individual institutions",
-      "Banks take excessive risks knowing they may be bailed out",
-      "Contracts whose value is derived from underlying assets like stocks or commodities"
+      "Exchange rate fluctuations affect the value of international transactions",
+      "Credit intermediation involving entities outside regular banking regulation",
+      "Using complex strategies including short-selling and leverage"
     ],
-    "answer": "Using complex strategies including short-selling and leverage"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'private equity'",
     "options": [
-      "Insurance-like contracts against bond defaults",
-      "A crisis in one financial market spreads rapidly to others",
       "International banking regulations requiring higher capital reserves",
-      "Investment in companies not listed on public stock exchanges"
+      "Investment in companies not listed on public stock exchanges",
+      "Using financial instruments to protect against currency or commodity price risk",
+      "Central bank creates money to purchase assets and stimulate the economy"
     ],
-    "answer": "Investment in companies not listed on public stock exchanges"
+    "correctIndex": 1
   },
   {
     "question": "'Initial public offering' (IPO)",
     "options": [
       "State-owned investment funds managing national savings and assets",
-      "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "A crisis in one financial market spreads rapidly to others",
-      "A company's first sale of shares to the public"
+      "A company's first sale of shares to the public",
+      "Insurance-like contracts against bond defaults",
+      "Central bank creates money to purchase assets and stimulate the economy"
     ],
-    "answer": "A company's first sale of shares to the public"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'quantitative easing'",
     "options": [
-      "Risk of collapse of an entire financial system rather than individual institutions",
-      "Using complex strategies including short-selling and leverage",
+      "Credit intermediation involving entities outside regular banking regulation",
       "Central bank creates money to purchase assets and stimulate the economy",
-      "Using financial instruments to protect against currency or commodity price risk"
+      "International banking regulations requiring higher capital reserves",
+      "Banks take excessive risks knowing they may be bailed out"
     ],
-    "answer": "Central bank creates money to purchase assets and stimulate the economy"
+    "correctIndex": 1
   },
   {
     "question": "'Systemic risk' in finance refers to",
     "options": [
-      "Insurance-like contracts against bond defaults",
-      "Credit intermediation involving entities outside regular banking regulation",
+      "Investment in companies not listed on public stock exchanges",
+      "Using complex strategies including short-selling and leverage",
       "Risk of collapse of an entire financial system rather than individual institutions",
-      "Central bank creates money to purchase assets and stimulate the economy"
+      "State-owned investment funds managing national savings and assets"
     ],
-    "answer": "Risk of collapse of an entire financial system rather than individual institutions"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'moral hazard' in banking",
     "options": [
+      "State-owned investment funds managing national savings and assets",
       "Banks take excessive risks knowing they may be bailed out",
-      "Risk of collapse of an entire financial system rather than individual institutions",
       "Credit intermediation involving entities outside regular banking regulation",
-      "State-owned investment funds managing national savings and assets"
+      "Risk of collapse of an entire financial system rather than individual institutions"
     ],
-    "answer": "Banks take excessive risks knowing they may be bailed out"
+    "correctIndex": 1
   },
   {
     "question": "'Financial contagion' occurs when",
     "options": [
-      "A company's first sale of shares to the public",
-      "Investment in companies not listed on public stock exchanges",
       "Exchange rate fluctuations affect the value of international transactions",
-      "A crisis in one financial market spreads rapidly to others"
+      "A crisis in one financial market spreads rapidly to others",
+      "Using financial instruments to protect against currency or commodity price risk",
+      "Investment in companies not listed on public stock exchanges"
     ],
-    "answer": "A crisis in one financial market spreads rapidly to others"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'shadow banking'",
     "options": [
-      "Risk of collapse of an entire financial system rather than individual institutions",
-      "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "Using financial instruments to protect against currency or commodity price risk",
-      "Credit intermediation involving entities outside regular banking regulation"
+      "Credit intermediation involving entities outside regular banking regulation",
+      "Central bank creates money to purchase assets and stimulate the economy",
+      "International banking regulations requiring higher capital reserves",
+      "Contracts whose value is derived from underlying assets like stocks or commodities"
     ],
-    "answer": "Credit intermediation involving entities outside regular banking regulation"
+    "correctIndex": 0
   },
   {
     "question": "'Credit default swaps' are",
     "options": [
-      "Banks take excessive risks knowing they may be bailed out",
-      "Exchange rate fluctuations affect the value of international transactions",
+      "Central bank creates money to purchase assets and stimulate the economy",
       "Insurance-like contracts against bond defaults",
-      "Using financial instruments to protect against currency or commodity price risk"
+      "Using financial instruments to protect against currency or commodity price risk",
+      "Rules preventing multinationals from manipulating internal prices to avoid tax"
     ],
-    "answer": "Insurance-like contracts against bond defaults"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'Basel III regulations'",
     "options": [
-      "Using complex strategies including short-selling and leverage",
       "Contracts whose value is derived from underlying assets like stocks or commodities",
-      "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "International banking regulations requiring higher capital reserves"
+      "Insurance-like contracts against bond defaults",
+      "International banking regulations requiring higher capital reserves",
+      "A company's first sale of shares to the public"
     ],
-    "answer": "International banking regulations requiring higher capital reserves"
+    "correctIndex": 2
   },
   {
     "question": "'Sovereign wealth funds'",
     "options": [
       "State-owned investment funds managing national savings and assets",
-      "International banking regulations requiring higher capital reserves",
-      "A crisis in one financial market spreads rapidly to others",
-      "Using financial instruments to protect against currency or commodity price risk"
+      "Contracts whose value is derived from underlying assets like stocks or commodities",
+      "Investment in companies not listed on public stock exchanges",
+      "International banking regulations requiring higher capital reserves"
     ],
-    "answer": "State-owned investment funds managing national savings and assets"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'currency risk' in international business",
     "options": [
-      "A company's first sale of shares to the public",
       "Exchange rate fluctuations affect the value of international transactions",
+      "A crisis in one financial market spreads rapidly to others",
       "Central bank creates money to purchase assets and stimulate the economy",
-      "Using financial instruments to protect against currency or commodity price risk"
+      "Insurance-like contracts against bond defaults"
     ],
-    "answer": "Exchange rate fluctuations affect the value of international transactions"
+    "correctIndex": 0
   },
   {
     "question": "'Hedging' in international trade",
     "options": [
-      "Using financial instruments to protect against currency or commodity price risk",
-      "A company's first sale of shares to the public",
-      "A crisis in one financial market spreads rapidly to others",
-      "State-owned investment funds managing national savings and assets"
+      "Using complex strategies including short-selling and leverage",
+      "Banks take excessive risks knowing they may be bailed out",
+      "State-owned investment funds managing national savings and assets",
+      "Using financial instruments to protect against currency or commodity price risk"
     ],
-    "answer": "Using financial instruments to protect against currency or commodity price risk"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'transfer pricing regulation'",
     "options": [
-      "Credit intermediation involving entities outside regular banking regulation",
-      "Contracts whose value is derived from underlying assets like stocks or commodities",
       "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "Central bank creates money to purchase assets and stimulate the economy"
+      "Using financial instruments to protect against currency or commodity price risk",
+      "A crisis in one financial market spreads rapidly to others",
+      "Insurance-like contracts against bond defaults"
     ],
-    "answer": "Rules preventing multinationals from manipulating internal prices to avoid tax"
+    "correctIndex": 0
   }
 ]

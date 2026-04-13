@@ -2,151 +2,151 @@
   {
     "question": "The process of starting up a computer",
     "options": [
-      "Direct data packets between networks",
-      "File Transfer Protocol",
+      "Access and view websites on the internet",
       "Power is switched off",
-      "Booting"
+      "Booting",
+      "Hertz (Hz)"
     ],
-    "answer": "Booting"
+    "correctIndex": 2
   },
   {
     "question": "FTP stands for",
     "options": [
-      "Hertz (Hz)",
+      "Graphical User Interface (GUI)",
+      "Access and view websites on the internet",
       "File Transfer Protocol",
-      "Find information on the internet",
-      "Booting"
+      "A file sent along with an email message"
     ],
-    "answer": "File Transfer Protocol"
+    "correctIndex": 2
   },
   {
     "question": "A pixel is",
     "options": [
       "The smallest unit of a digital image",
-      "Graphical User Interface (GUI)",
-      "Hertz (Hz)",
-      "Images and photographs"
+      "Text editing",
+      "Portable Document Format",
+      "Access and view websites on the internet"
     ],
-    "answer": "The smallest unit of a digital image"
+    "correctIndex": 0
   },
   {
     "question": "Bluetooth is used for",
     "options": [
-      "Portable Document Format",
-      "A file sent along with an email message",
-      "Text editing",
-      "Short-range wireless communication between devices"
+      "Short-range wireless communication between devices",
+      "Booting",
+      "File Transfer Protocol",
+      "Graphical User Interface (GUI)"
     ],
-    "answer": "Short-range wireless communication between devices"
+    "correctIndex": 0
   },
   {
     "question": "A browser is used to",
     "options": [
-      "File Transfer Protocol",
+      "The smallest unit of a digital image",
       "Access and view websites on the internet",
-      "Short-range wireless communication between devices",
-      "A file sent along with an email message"
+      "Power is switched off",
+      "Text editing"
     ],
-    "answer": "Access and view websites on the internet"
+    "correctIndex": 1
   },
   {
     "question": "JPEG is a file format used for",
     "options": [
-      "The smallest unit of a digital image",
-      "Access and view websites on the internet",
-      "Images and photographs",
-      "Text editing"
+      "Find information on the internet",
+      "Short-range wireless communication between devices",
+      "A file sent along with an email message",
+      "Images and photographs"
     ],
-    "answer": "Images and photographs"
+    "correctIndex": 3
   },
   {
     "question": "The function of a router",
     "options": [
-      "Power is switched off",
-      "Direct data packets between networks",
-      "A file sent along with an email message",
-      "Hertz (Hz)"
+      "File Transfer Protocol",
+      "Hertz (Hz)",
+      "Text editing",
+      "Direct data packets between networks"
     ],
-    "answer": "Direct data packets between networks"
+    "correctIndex": 3
   },
   {
     "question": "Hard copy output is produced by",
     "options": [
+      "Direct data packets between networks",
       "A printer",
-      "The smallest unit of a digital image",
-      "Images and photographs",
-      "Graphical User Interface (GUI)"
+      "Text editing",
+      "Power is switched off"
     ],
-    "answer": "A printer"
+    "correctIndex": 1
   },
   {
     "question": "PDF stands for",
     "options": [
-      "Booting",
-      "A printer",
       "Portable Document Format",
+      "The smallest unit of a digital image",
+      "A printer",
       "Graphical User Interface (GUI)"
     ],
-    "answer": "Portable Document Format"
+    "correctIndex": 0
   },
   {
     "question": "The desktop is part of the",
     "options": [
-      "Hertz (Hz)",
       "Graphical User Interface (GUI)",
-      "Portable Document Format",
-      "Power is switched off"
+      "Power is switched off",
+      "File Transfer Protocol",
+      "The smallest unit of a digital image"
     ],
-    "answer": "Graphical User Interface (GUI)"
+    "correctIndex": 0
   },
   {
     "question": "Copy and paste is an example of",
     "options": [
-      "Text editing",
-      "File Transfer Protocol",
-      "Hertz (Hz)",
-      "Short-range wireless communication between devices"
+      "Short-range wireless communication between devices",
+      "Images and photographs",
+      "Portable Document Format",
+      "Text editing"
     ],
-    "answer": "Text editing"
+    "correctIndex": 3
   },
   {
     "question": "A search engine is used to",
     "options": [
-      "Access and view websites on the internet",
+      "Find information on the internet",
       "Direct data packets between networks",
-      "Short-range wireless communication between devices",
-      "Find information on the internet"
+      "File Transfer Protocol",
+      "Access and view websites on the internet"
     ],
-    "answer": "Find information on the internet"
+    "correctIndex": 0
   },
   {
     "question": "Volatile memory loses data when",
     "options": [
-      "Graphical User Interface (GUI)",
-      "A file sent along with an email message",
       "Power is switched off",
-      "Images and photographs"
+      "Portable Document Format",
+      "The smallest unit of a digital image",
+      "Direct data packets between networks"
     ],
-    "answer": "Power is switched off"
+    "correctIndex": 0
   },
   {
     "question": "An email attachment is",
     "options": [
-      "Hertz (Hz)",
-      "File Transfer Protocol",
-      "Booting",
+      "Power is switched off",
+      "Find information on the internet",
+      "Access and view websites on the internet",
       "A file sent along with an email message"
     ],
-    "answer": "A file sent along with an email message"
+    "correctIndex": 3
   },
   {
     "question": "The refresh rate of a monitor is measured in",
     "options": [
-      "Direct data packets between networks",
-      "Booting",
       "Hertz (Hz)",
+      "File Transfer Protocol",
+      "Direct data packets between networks",
       "A printer"
     ],
-    "answer": "Hertz (Hz)"
+    "correctIndex": 0
   }
 ]

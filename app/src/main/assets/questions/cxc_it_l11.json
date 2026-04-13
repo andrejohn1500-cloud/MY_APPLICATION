@@ -2,151 +2,151 @@
   {
     "question": "A 'for loop' in programming",
     "options": [
-      "A special method that initialises an object when it is created",
-      "Repeats a block of code a fixed number of times",
       "A class can acquire properties and methods from a parent class",
-      "A blueprint or template for creating objects"
+      "Objects that contain data (attributes) and functions (methods)",
+      "Repeats a block of code a fixed number of times",
+      "As long as a specified condition remains true"
     ],
-    "answer": "Repeats a block of code a fixed number of times"
+    "correctIndex": 2
   },
   {
     "question": "A 'while loop' continues",
     "options": [
       "As long as a specified condition remains true",
-      "A special method that initialises an object when it is created",
-      "Objects that contain data (attributes) and functions (methods)",
-      "Hiding complex implementation details and showing only essential features"
+      "Hiding complex implementation details and showing only essential features",
+      "Bundling data and methods together and restricting direct access",
+      "A blueprint or template for creating objects"
     ],
-    "answer": "As long as a specified condition remains true"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'recursion' in programming",
     "options": [
-      "Repeats a block of code a fixed number of times",
-      "A class can acquire properties and methods from a parent class",
+      "Hiding complex implementation details and showing only essential features",
       "A function that calls itself to solve smaller instances of a problem",
-      "A contract specifying methods a class must implement without providing implementation"
+      "Belongs to the class rather than any specific instance",
+      "A special method that initialises an object when it is created"
     ],
-    "answer": "A function that calls itself to solve smaller instances of a problem"
+    "correctIndex": 1
   },
   {
     "question": "'Object-oriented programming' is based on",
     "options": [
-      "Bundling data and methods together and restricting direct access",
-      "Repeats a block of code a fixed number of times",
-      "Objects that contain data (attributes) and functions (methods)",
-      "Hiding complex implementation details and showing only essential features"
+      "Objects of different classes can be treated as objects of a common parent class",
+      "Creating a specific object from a class",
+      "A special method that initialises an object when it is created",
+      "Objects that contain data (attributes) and functions (methods)"
     ],
-    "answer": "Objects that contain data (attributes) and functions (methods)"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'inheritance' in OOP",
     "options": [
-      "Belongs to the class rather than any specific instance",
-      "Objects that contain data (attributes) and functions (methods)",
-      "Objects of different classes can be treated as objects of a common parent class",
-      "A class can acquire properties and methods from a parent class"
+      "Multiple methods with the same name but different parameters",
+      "A class can acquire properties and methods from a parent class",
+      "Creating a specific object from a class",
+      "A function that calls itself to solve smaller instances of a problem"
     ],
-    "answer": "A class can acquire properties and methods from a parent class"
+    "correctIndex": 1
   },
   {
     "question": "'Encapsulation' in OOP means",
     "options": [
-      "Objects of different classes can be treated as objects of a common parent class",
-      "Bundling data and methods together and restricting direct access",
-      "Hiding complex implementation details and showing only essential features",
-      "A function that calls itself to solve smaller instances of a problem"
+      "A function that calls itself to solve smaller instances of a problem",
+      "Repeats a block of code a fixed number of times",
+      "Belongs to the class rather than any specific instance",
+      "Bundling data and methods together and restricting direct access"
     ],
-    "answer": "Bundling data and methods together and restricting direct access"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'polymorphism' in OOP",
     "options": [
-      "A subclass provides its own implementation of a method inherited from a parent class",
+      "Repeats a block of code a fixed number of times",
       "A special method that initialises an object when it is created",
-      "Objects of different classes can be treated as objects of a common parent class",
-      "Bundling data and methods together and restricting direct access"
+      "Creating a specific object from a class",
+      "Objects of different classes can be treated as objects of a common parent class"
     ],
-    "answer": "Objects of different classes can be treated as objects of a common parent class"
+    "correctIndex": 3
   },
   {
     "question": "'Abstraction' in OOP",
     "options": [
-      "Hiding complex implementation details and showing only essential features",
-      "Creating a specific object from a class",
-      "Bundling data and methods together and restricting direct access",
-      "A subclass provides its own implementation of a method inherited from a parent class"
+      "A contract specifying methods a class must implement without providing implementation",
+      "A blueprint or template for creating objects",
+      "Objects of different classes can be treated as objects of a common parent class",
+      "Hiding complex implementation details and showing only essential features"
     ],
-    "answer": "Hiding complex implementation details and showing only essential features"
+    "correctIndex": 3
   },
   {
     "question": "A 'class' in OOP is",
     "options": [
-      "A contract specifying methods a class must implement without providing implementation",
-      "Creating a specific object from a class",
-      "A blueprint or template for creating objects",
-      "Multiple methods with the same name but different parameters"
+      "Objects that contain data (attributes) and functions (methods)",
+      "Repeats a block of code a fixed number of times",
+      "Objects of different classes can be treated as objects of a common parent class",
+      "A blueprint or template for creating objects"
     ],
-    "answer": "A blueprint or template for creating objects"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'instantiation'",
     "options": [
+      "A class can acquire properties and methods from a parent class",
       "Bundling data and methods together and restricting direct access",
       "Creating a specific object from a class",
-      "As long as a specified condition remains true",
-      "A class can acquire properties and methods from a parent class"
+      "Objects of different classes can be treated as objects of a common parent class"
     ],
-    "answer": "Creating a specific object from a class"
+    "correctIndex": 2
   },
   {
     "question": "A 'constructor' in OOP",
     "options": [
-      "Creating a specific object from a class",
       "A special method that initialises an object when it is created",
-      "A subclass provides its own implementation of a method inherited from a parent class",
-      "Belongs to the class rather than any specific instance"
+      "A class can acquire properties and methods from a parent class",
+      "A blueprint or template for creating objects",
+      "Multiple methods with the same name but different parameters"
     ],
-    "answer": "A special method that initialises an object when it is created"
+    "correctIndex": 0
   },
   {
     "question": "'Method overloading' allows",
     "options": [
-      "A function that calls itself to solve smaller instances of a problem",
+      "A blueprint or template for creating objects",
       "Objects that contain data (attributes) and functions (methods)",
-      "Repeats a block of code a fixed number of times",
-      "Multiple methods with the same name but different parameters"
+      "Multiple methods with the same name but different parameters",
+      "A class can acquire properties and methods from a parent class"
     ],
-    "answer": "Multiple methods with the same name but different parameters"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'method overriding'",
     "options": [
-      "Multiple methods with the same name but different parameters",
-      "As long as a specified condition remains true",
-      "A contract specifying methods a class must implement without providing implementation",
-      "A subclass provides its own implementation of a method inherited from a parent class"
+      "A subclass provides its own implementation of a method inherited from a parent class",
+      "Creating a specific object from a class",
+      "Bundling data and methods together and restricting direct access",
+      "A contract specifying methods a class must implement without providing implementation"
     ],
-    "answer": "A subclass provides its own implementation of a method inherited from a parent class"
+    "correctIndex": 0
   },
   {
     "question": "A 'static method' in OOP",
     "options": [
       "Multiple methods with the same name but different parameters",
-      "Hiding complex implementation details and showing only essential features",
-      "Belongs to the class rather than any specific instance",
-      "Objects of different classes can be treated as objects of a common parent class"
+      "Creating a specific object from a class",
+      "Objects that contain data (attributes) and functions (methods)",
+      "Belongs to the class rather than any specific instance"
     ],
-    "answer": "Belongs to the class rather than any specific instance"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'interface' in OOP",
     "options": [
-      "Objects that contain data (attributes) and functions (methods)",
-      "Belongs to the class rather than any specific instance",
+      "Creating a specific object from a class",
       "A contract specifying methods a class must implement without providing implementation",
-      "A function that calls itself to solve smaller instances of a problem"
+      "Objects of different classes can be treated as objects of a common parent class",
+      "Repeats a block of code a fixed number of times"
     ],
-    "answer": "A contract specifying methods a class must implement without providing implementation"
+    "correctIndex": 1
   }
 ]

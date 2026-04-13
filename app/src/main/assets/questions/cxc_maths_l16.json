@@ -2,151 +2,151 @@
   {
     "question": "Differentiate y = ln(sin x)",
     "options": [
-      "1 − 2e⁻¹ ≈ 0.264",
+      "1/t",
+      "1",
       "cot x",
-      "y = 2x",
-      "(√6 + √2)/4"
+      "y = x³ + C"
     ],
-    "answer": "cot x"
+    "correctIndex": 2
   },
   {
     "question": "Using factor theorem: find a factor of x³ − 2x² − 5x + 6",
     "options": [
-      "0",
-      "(x − 1)",
-      "a(1 − rⁿ)/(1 − r)",
-      "cos 2x"
+      "(3x² + 1)³/3 + C",
+      "−√2 < x < √2",
+      "1/t",
+      "(x − 1)"
     ],
-    "answer": "(x − 1)"
+    "correctIndex": 3
   },
   {
     "question": "Write 5cos θ + 12sin θ in form R sin(θ + α)",
     "options": [
       "13 sin(θ + 22.6°)",
-      "0",
+      "cot x",
       "(√6 + √2)/4",
-      "(x − 1)"
+      "y = 2x"
     ],
-    "answer": "13 sin(θ + 22.6°)"
+    "correctIndex": 0
   },
   {
     "question": "General solution of dy/dx = 3x²",
     "options": [
-      "cot x",
+      "cos 2x",
+      "y = x³ + C",
       "y = 2x",
-      "1 − 2e⁻¹ ≈ 0.264",
-      "y = x³ + C"
+      "−√2 < x < √2"
     ],
-    "answer": "y = x³ + C"
+    "correctIndex": 1
   },
   {
     "question": "Integration by substitution: ∫ 6x(3x² + 1)² dx",
     "options": [
+      "cot x",
       "(3x² + 1)³/3 + C",
-      "y = 2x",
-      "(√6 + √2)/4",
-      "0"
+      "y = x³ + C",
+      "0) (1 − cos x)/x → 0"
     ],
-    "answer": "(3x² + 1)³/3 + C"
+    "correctIndex": 1
   },
   {
     "question": "P(X ≥ 2) where X~Poisson(λ = 1)",
     "options": [
-      "cot x",
-      "1/t",
-      "1 − 2e⁻¹ ≈ 0.264",
-      "cos 2x"
+      "0) (1 − cos x)/x → 0",
+      "(√6 + √2)/4",
+      "13 sin(θ + 22.6°)",
+      "1 − 2e⁻¹ ≈ 0.264"
     ],
-    "answer": "1 − 2e⁻¹ ≈ 0.264"
+    "correctIndex": 3
   },
   {
     "question": "y = x³ − 6x + 4; range of x where y is decreasing",
     "options": [
       "−√2 < x < √2",
-      "y = 2x",
+      "1",
       "(x − 1)",
-      "(√6 + √2)/4"
+      "(3x² + 1)³/3 + C"
     ],
-    "answer": "−√2 < x < √2"
+    "correctIndex": 0
   },
   {
     "question": "Product rule: y = sin x cos x; dy/dx",
     "options": [
-      "(√6 + √2)/4",
-      "cos 2x",
-      "(x − 1)",
-      "0) (1 − cos x)/x → 0"
+      "a(1 − rⁿ)/(1 − r)",
+      "y = x³ + C",
+      "13 sin(θ + 22.6°)",
+      "cos 2x"
     ],
-    "answer": "cos 2x"
+    "correctIndex": 3
   },
   {
     "question": "Parametric: x = t², y = 2t; find dy/dx",
     "options": [
-      "y = x³ + C",
-      "13 sin(θ + 22.6°)",
-      "1/t",
-      "(3x² + 1)³/3 + C"
+      "1",
+      "0",
+      "(√6 + √2)/4",
+      "1/t"
     ],
-    "answer": "1/t"
+    "correctIndex": 3
   },
   {
     "question": "Sum to n terms of GP: first term a, ratio r",
     "options": [
-      "1/t",
-      "cos 2x",
+      "cot x",
       "(√6 + √2)/4",
+      "1",
       "a(1 − rⁿ)/(1 − r)"
     ],
-    "answer": "a(1 − rⁿ)/(1 − r)"
+    "correctIndex": 3
   },
   {
     "question": "Exact value of ∫₀^(π/4) sec²x dx",
     "options": [
-      "1",
-      "1/t",
-      "13 sin(θ + 22.6°)",
-      "(√6 + √2)/4"
+      "1 − 2e⁻¹ ≈ 0.264",
+      "y = x³ + C",
+      "0) (1 − cos x)/x → 0",
+      "1"
     ],
-    "answer": "1"
+    "correctIndex": 3
   },
   {
     "question": "Singular matrix has determinant",
     "options": [
-      "(x − 1)",
-      "(√6 + √2)/4",
-      "(3x² + 1)³/3 + C",
-      "0"
+      "cos 2x",
+      "−√2 < x < √2",
+      "0",
+      "cot x"
     ],
-    "answer": "0"
+    "correctIndex": 2
   },
   {
     "question": "lim(x",
     "options": [
-      "a(1 − rⁿ)/(1 − r)",
+      "1/t",
       "0) (1 − cos x)/x → 0",
       "1",
-      "cos 2x"
+      "cot x"
     ],
-    "answer": "0) (1 − cos x)/x → 0"
+    "correctIndex": 1
   },
   {
     "question": "Tangent to x² + y² − 4x + 2y = 0 at origin",
     "options": [
-      "1/t",
+      "cos 2x",
+      "(3x² + 1)³/3 + C",
       "y = 2x",
-      "0) (1 − cos x)/x → 0",
       "13 sin(θ + 22.6°)"
     ],
-    "answer": "y = 2x"
+    "correctIndex": 2
   },
   {
     "question": "Exact value of sin 75°",
     "options": [
-      "(x − 1)",
-      "cos 2x",
       "y = x³ + C",
-      "(√6 + √2)/4"
+      "(√6 + √2)/4",
+      "1",
+      "0) (1 − cos x)/x → 0"
     ],
-    "answer": "(√6 + √2)/4"
+    "correctIndex": 1
   }
 ]

@@ -2,151 +2,151 @@
   {
     "question": "Solve: x³ − 3x² − 4x + 12 = 0",
     "options": [
-      "x − x²/2 + x³/3",
+      "y = tan(x²/2 + C)",
       "x = −2, 2, 3",
-      "x^x(1 + ln x)",
-      "λ = 2 or λ = 4"
+      "A point of inflection",
+      "−2xy/(3y² + x²)"
     ],
-    "answer": "x = −2, 2, 3"
+    "correctIndex": 1
   },
   {
     "question": "Evaluate ∫₀^(π/2) cos²x dx",
     "options": [
-      "x^x(1 + ln x)",
-      "n = 16, p = 1/4",
-      "π/4",
-      "x − x²/2 + x³/3"
+      "x/2 − sin(2x)/4 + C",
+      "4x + 5y = 14",
+      "−6",
+      "π/4"
     ],
-    "answer": "π/4"
+    "correctIndex": 3
   },
   {
     "question": "Tangent to x² + xy + y² = 7 at (1,2)",
     "options": [
-      "4x + 5y = 14",
       "y = tan(x²/2 + C)",
-      "λ = 2 or λ = 4",
-      "z = −1 ± i"
+      "x = −2, 2, 3",
+      "n = 16, p = 1/4",
+      "4x + 5y = 14"
     ],
-    "answer": "4x + 5y = 14"
+    "correctIndex": 3
   },
   {
     "question": "X~B(n,p), mean = 4, variance = 3; find n and p",
     "options": [
       "z = −1 ± i",
-      "−2xy/(3y² + x²)",
       "n = 16, p = 1/4",
-      "−6"
+      "−2xy/(3y² + x²)",
+      "∞) (3x² + 2x)/(x² − 5) → 3"
     ],
-    "answer": "n = 16, p = 1/4"
+    "correctIndex": 1
   },
   {
     "question": "First three terms of Maclaurin series for ln(1 + x)",
     "options": [
-      "∞) (3x² + 2x)/(x² − 5) → 3",
-      "π/4",
-      "x = −2, 2, 3",
-      "x − x²/2 + x³/3"
+      "z = −1 ± i",
+      "x^x(1 + ln x)",
+      "x − x²/2 + x³/3",
+      "0.28"
     ],
-    "answer": "x − x²/2 + x³/3"
+    "correctIndex": 2
   },
   {
     "question": "Curve y³ + x²y = 2; find dy/dx",
     "options": [
-      "x/2 − sin(2x)/4 + C",
-      "x − x²/2 + x³/3",
-      "−2xy/(3y² + x²)",
-      "z = −1 ± i"
+      "A point of inflection",
+      "4x + 5y = 14",
+      "x^x(1 + ln x)",
+      "−2xy/(3y² + x²)"
     ],
-    "answer": "−2xy/(3y² + x²)"
+    "correctIndex": 3
   },
   {
     "question": "Evaluate: lim(x",
     "options": [
+      "x/2 − sin(2x)/4 + C",
       "∞) (3x² + 2x)/(x² − 5) → 3",
-      "A point of inflection",
-      "π/4",
-      "x^x(1 + ln x)"
+      "z = −1 ± i",
+      "−2xy/(3y² + x²)"
     ],
-    "answer": "∞) (3x² + 2x)/(x² − 5) → 3"
+    "correctIndex": 1
   },
   {
     "question": "Velocity: x = 3t² − t³; acceleration at t = 2",
     "options": [
-      "z = −1 ± i",
+      "x − x²/2 + x³/3",
+      "−2xy/(3y² + x²)",
       "−6",
-      "4x + 5y = 14",
-      "x/2 − sin(2x)/4 + C"
+      "z = −1 ± i"
     ],
-    "answer": "−6"
+    "correctIndex": 2
   },
   {
     "question": "For y = x^x (x > 0); dy/dx",
     "options": [
-      "−6",
-      "x/2 − sin(2x)/4 + C",
-      "π/4",
-      "x^x(1 + ln x)"
+      "x^x(1 + ln x)",
+      "x − x²/2 + x³/3",
+      "n = 16, p = 1/4",
+      "π/4"
     ],
-    "answer": "x^x(1 + ln x)"
+    "correctIndex": 0
   },
   {
     "question": "Solve ODE: dy/dx = x(1 + y²)",
     "options": [
-      "x − x²/2 + x³/3",
       "π/4",
       "y = tan(x²/2 + C)",
+      "0.28",
       "z = −1 ± i"
     ],
-    "answer": "y = tan(x²/2 + C)"
+    "correctIndex": 1
   },
   {
     "question": "Evaluate: ∫ sin²x dx",
     "options": [
-      "x^x(1 + ln x)",
-      "0.28",
-      "π/4",
+      "λ = 2 or λ = 4",
+      "y = tan(x²/2 + C)",
+      "n = 16, p = 1/4",
       "x/2 − sin(2x)/4 + C"
     ],
-    "answer": "x/2 − sin(2x)/4 + C"
+    "correctIndex": 3
   },
   {
     "question": "Eigenvalues of matrix [[3,1],[1,3]]",
     "options": [
-      "λ = 2 or λ = 4",
-      "0.28",
       "x/2 − sin(2x)/4 + C",
-      "−6"
+      "0.28",
+      "n = 16, p = 1/4",
+      "λ = 2 or λ = 4"
     ],
-    "answer": "λ = 2 or λ = 4"
+    "correctIndex": 3
   },
   {
     "question": "If f'(a) = 0 and f''(a) = 0, then x = a is likely",
     "options": [
-      "n = 16, p = 1/4",
+      "y = tan(x²/2 + C)",
+      "λ = 2 or λ = 4",
       "A point of inflection",
-      "z = −1 ± i",
-      "y = tan(x²/2 + C)"
+      "x^x(1 + ln x)"
     ],
-    "answer": "A point of inflection"
+    "correctIndex": 2
   },
   {
     "question": "P(A and B) if P(A) = 0.4, P(B|A) = 0.7",
     "options": [
       "z = −1 ± i",
-      "x = −2, 2, 3",
+      "0.28",
       "x^x(1 + ln x)",
-      "0.28"
+      "π/4"
     ],
-    "answer": "0.28"
+    "correctIndex": 1
   },
   {
     "question": "Solve: z² + 2z + 2 = 0 (complex roots)",
     "options": [
-      "z = −1 ± i",
-      "x^x(1 + ln x)",
-      "y = tan(x²/2 + C)",
-      "x = −2, 2, 3"
+      "−6",
+      "∞) (3x² + 2x)/(x² − 5) → 3",
+      "4x + 5y = 14",
+      "z = −1 ± i"
     ],
-    "answer": "z = −1 ± i"
+    "correctIndex": 3
   }
 ]

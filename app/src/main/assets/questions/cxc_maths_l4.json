@@ -2,151 +2,151 @@
   {
     "question": "Factorise 2x² + 4x",
     "options": [
-      "90°",
-      "27cm",
-      "6x² − 15x",
-      "2x(x + 2)"
+      "128",
+      "2x(x + 2)",
+      "5",
+      "60km/h"
     ],
-    "answer": "2x(x + 2)"
+    "correctIndex": 1
   },
   {
     "question": "Solve 4x + 3 = 2x − 7",
     "options": [
-      "x = 7, y = 3",
-      "2/3",
+      "3 3/5",
+      "90°",
       "x = −5",
-      "3 3/5"
+      "360°"
     ],
-    "answer": "x = −5"
+    "correctIndex": 2
   },
   {
     "question": "Calculate: 2³ × 2⁴",
     "options": [
-      "3 3/5",
-      "$18",
-      "128",
-      "x = 7, y = 3"
+      "5",
+      "2x(x + 2)",
+      "x = 7, y = 3",
+      "128"
     ],
-    "answer": "128"
+    "correctIndex": 3
   },
   {
     "question": "Perimeter of equilateral triangle, side 9cm",
     "options": [
-      "27cm",
+      "$18",
       "3 3/5",
-      "60km/h",
-      "2/3"
+      "6x² − 15x",
+      "27cm"
     ],
-    "answer": "27cm"
+    "correctIndex": 3
   },
   {
     "question": "Express 18/27 in simplest form",
     "options": [
-      "5",
       "2/3",
-      "$18",
-      "2x(x + 2)"
+      "360°",
+      "128",
+      "21"
     ],
-    "answer": "2/3"
+    "correctIndex": 0
   },
   {
     "question": "Profit: cost $45, selling price $63",
     "options": [
-      "2/3",
       "3 3/5",
-      "2x(x + 2)",
+      "27cm",
+      "60km/h",
       "$18"
     ],
-    "answer": "$18"
+    "correctIndex": 3
   },
   {
     "question": "Expand 3x(2x − 5)",
     "options": [
-      "3 3/5",
+      "5",
+      "x = 7, y = 3",
       "6x² − 15x",
-      "27cm",
-      "5"
+      "7"
     ],
-    "answer": "6x² − 15x"
+    "correctIndex": 2
   },
   {
     "question": "Sum of interior angles of a quadrilateral",
     "options": [
-      "2x(x + 2)",
+      "x = −5",
+      "5",
       "360°",
-      "27cm",
       "3 3/5"
     ],
-    "answer": "360°"
+    "correctIndex": 2
   },
   {
     "question": "Find the value of √(3² + 4²)",
     "options": [
-      "x = −5",
-      "21",
-      "7",
-      "5"
+      "2x(x + 2)",
+      "60km/h",
+      "5",
+      "3 3/5"
     ],
-    "answer": "5"
+    "correctIndex": 2
   },
   {
     "question": "A car travels 180km in 3 hours, average speed",
     "options": [
-      "x = 7, y = 3",
-      "128",
       "60km/h",
-      "27cm"
+      "5",
+      "$18",
+      "2/3"
     ],
-    "answer": "60km/h"
+    "correctIndex": 0
   },
   {
     "question": "Complementary angles sum to",
     "options": [
-      "6x² − 15x",
-      "5",
-      "x = 7, y = 3",
-      "90°"
+      "2x(x + 2)",
+      "90°",
+      "7",
+      "128"
     ],
-    "answer": "90°"
+    "correctIndex": 1
   },
   {
     "question": "Solve: x + y = 10 and x − y = 4 simultaneously",
     "options": [
-      "21",
-      "x = 7, y = 3",
+      "60km/h",
       "2/3",
-      "360°"
+      "x = 7, y = 3",
+      "2x(x + 2)"
     ],
-    "answer": "x = 7, y = 3"
+    "correctIndex": 2
   },
   {
     "question": "y varies directly as x; y = 12 when x = 4, find y when x = 7",
     "options": [
+      "128",
       "21",
-      "x = −5",
-      "6x² − 15x",
-      "128"
+      "5",
+      "90°"
     ],
-    "answer": "21"
+    "correctIndex": 1
   },
   {
     "question": "The median of 2, 5, 7, 8, 10",
     "options": [
+      "3 3/5",
+      "2/3",
       "7",
-      "90°",
-      "27cm",
-      "x = −5"
+      "6x² − 15x"
     ],
-    "answer": "7"
+    "correctIndex": 2
   },
   {
     "question": "Express 3.6 as a mixed number in simplest form",
     "options": [
-      "x = 7, y = 3",
-      "90°",
       "3 3/5",
-      "60km/h"
+      "60km/h",
+      "2x(x + 2)",
+      "x = −5"
     ],
-    "answer": "3 3/5"
+    "correctIndex": 0
   }
 ]

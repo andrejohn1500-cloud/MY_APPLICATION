@@ -2,151 +2,151 @@
   {
     "question": "A Turing machine is",
     "options": [
-      "A security flaw unknown to the vendor with no available patch",
-      "A distributed system can only guarantee two of: consistency, availability, partition tolerance",
-      "It uses multiple layers of neural networks to learn features automatically",
-      "A theoretical model of computation used to define algorithm complexity"
+      "Network Access, Internet, Transport, Application",
+      "A theoretical model of computation used to define algorithm complexity",
+      "Automatically frees memory no longer in use by the program",
+      "Processing large datasets in parallel across a distributed cluster"
     ],
-    "answer": "A theoretical model of computation used to define algorithm complexity"
+    "correctIndex": 1
   },
   {
     "question": "The P vs NP problem in computer science",
     "options": [
-      "A theoretical model of computation used to define algorithm complexity",
-      "Qubits that can exist in superposition to perform calculations",
-      "Consists of interconnected nodes that learn patterns from data",
-      "Asks whether every problem whose solution can be verified quickly can also be solved quickly"
+      "Asks whether every problem whose solution can be verified quickly can also be solved quickly",
+      "It maintains sorted data and allows efficient insertion, deletion and search",
+      "Automatically frees memory no longer in use by the program",
+      "Processing large datasets in parallel across a distributed cluster"
     ],
-    "answer": "Asks whether every problem whose solution can be verified quickly can also be solved quickly"
+    "correctIndex": 0
   },
   {
     "question": "Quantum computing uses",
     "options": [
       "Qubits that can exist in superposition to perform calculations",
+      "Breaks applications into small independently deployable services",
       "It is impossible to determine in general whether a program will halt",
-      "Automatically frees memory no longer in use by the program",
-      "It maintains sorted data and allows efficient insertion, deletion and search"
+      "Processing large datasets in parallel across a distributed cluster"
     ],
-    "answer": "Qubits that can exist in superposition to perform calculations"
+    "correctIndex": 0
   },
   {
     "question": "The CAP theorem states",
     "options": [
-      "Asks whether every problem whose solution can be verified quickly can also be solved quickly",
-      "A theoretical model of computation used to define algorithm complexity",
       "A distributed system can only guarantee two of: consistency, availability, partition tolerance",
-      "Automatically frees memory no longer in use by the program"
+      "Automatically frees memory no longer in use by the program",
+      "The difficulty of factoring the product of two large prime numbers",
+      "It is impossible to determine in general whether a program will halt"
     ],
-    "answer": "A distributed system can only guarantee two of: consistency, availability, partition tolerance"
+    "correctIndex": 0
   },
   {
     "question": "A neural network in AI",
     "options": [
-      "Consists of interconnected nodes that learn patterns from data",
-      "It uses multiple layers of neural networks to learn features automatically",
-      "Automatically frees memory no longer in use by the program",
-      "Multiple operating systems to run on a single physical machine"
+      "Network Access, Internet, Transport, Application",
+      "Breaks applications into small independently deployable services",
+      "It is impossible to determine in general whether a program will halt",
+      "Consists of interconnected nodes that learn patterns from data"
     ],
-    "answer": "Consists of interconnected nodes that learn patterns from data"
+    "correctIndex": 3
   },
   {
     "question": "MapReduce is used for",
     "options": [
-      "A security flaw unknown to the vendor with no available patch",
-      "Asks whether every problem whose solution can be verified quickly can also be solved quickly",
+      "Breaks applications into small independently deployable services",
       "Processing large datasets in parallel across a distributed cluster",
-      "A distributed system can only guarantee two of: consistency, availability, partition tolerance"
+      "A distributed system can only guarantee two of: consistency, availability, partition tolerance",
+      "It maintains sorted data and allows efficient insertion, deletion and search"
     ],
-    "answer": "Processing large datasets in parallel across a distributed cluster"
+    "correctIndex": 1
   },
   {
     "question": "RSA encryption relies on",
     "options": [
-      "The difficulty of factoring the product of two large prime numbers",
-      "Processing large datasets in parallel across a distributed cluster",
-      "A theoretical model of computation used to define algorithm complexity",
-      "A distributed system can only guarantee two of: consistency, availability, partition tolerance"
+      "It is impossible to determine in general whether a program will halt",
+      "Multiple operating systems to run on a single physical machine",
+      "Asks whether every problem whose solution can be verified quickly can also be solved quickly",
+      "The difficulty of factoring the product of two large prime numbers"
     ],
-    "answer": "The difficulty of factoring the product of two large prime numbers"
+    "correctIndex": 3
   },
   {
     "question": "The halting problem proves",
     "options": [
-      "Consists of interconnected nodes that learn patterns from data",
-      "Automatically frees memory no longer in use by the program",
+      "Multiple operating systems to run on a single physical machine",
+      "It is impossible to determine in general whether a program will halt",
       "Breaks applications into small independently deployable services",
-      "It is impossible to determine in general whether a program will halt"
+      "Automatically frees memory no longer in use by the program"
     ],
-    "answer": "It is impossible to determine in general whether a program will halt"
+    "correctIndex": 1
   },
   {
     "question": "A B-tree is used in databases because",
     "options": [
-      "It maintains sorted data and allows efficient insertion, deletion and search",
       "It uses multiple layers of neural networks to learn features automatically",
-      "Automatically frees memory no longer in use by the program",
-      "Asks whether every problem whose solution can be verified quickly can also be solved quickly"
+      "Processing large datasets in parallel across a distributed cluster",
+      "The difficulty of factoring the product of two large prime numbers",
+      "It maintains sorted data and allows efficient insertion, deletion and search"
     ],
-    "answer": "It maintains sorted data and allows efficient insertion, deletion and search"
+    "correctIndex": 3
   },
   {
     "question": "Virtualisation allows",
     "options": [
       "Multiple operating systems to run on a single physical machine",
-      "Asks whether every problem whose solution can be verified quickly can also be solved quickly",
-      "A theoretical model of computation used to define algorithm complexity",
-      "It is impossible to determine in general whether a program will halt"
+      "Consists of interconnected nodes that learn patterns from data",
+      "A security flaw unknown to the vendor with no available patch",
+      "It uses multiple layers of neural networks to learn features automatically"
     ],
-    "answer": "Multiple operating systems to run on a single physical machine"
+    "correctIndex": 0
   },
   {
     "question": "TCP/IP model layers from bottom to top",
     "options": [
-      "Multiple operating systems to run on a single physical machine",
       "Automatically frees memory no longer in use by the program",
       "Network Access, Internet, Transport, Application",
+      "The difficulty of factoring the product of two large prime numbers",
       "A distributed system can only guarantee two of: consistency, availability, partition tolerance"
     ],
-    "answer": "Network Access, Internet, Transport, Application"
+    "correctIndex": 1
   },
   {
     "question": "Deep learning differs from machine learning because",
     "options": [
-      "It is impossible to determine in general whether a program will halt",
-      "Consists of interconnected nodes that learn patterns from data",
+      "A security flaw unknown to the vendor with no available patch",
+      "It maintains sorted data and allows efficient insertion, deletion and search",
       "It uses multiple layers of neural networks to learn features automatically",
-      "A theoretical model of computation used to define algorithm complexity"
+      "Network Access, Internet, Transport, Application"
     ],
-    "answer": "It uses multiple layers of neural networks to learn features automatically"
+    "correctIndex": 2
   },
   {
     "question": "The purpose of garbage collection in programming",
     "options": [
-      "Processing large datasets in parallel across a distributed cluster",
-      "Qubits that can exist in superposition to perform calculations",
       "Automatically frees memory no longer in use by the program",
-      "Consists of interconnected nodes that learn patterns from data"
+      "A theoretical model of computation used to define algorithm complexity",
+      "It uses multiple layers of neural networks to learn features automatically",
+      "It maintains sorted data and allows efficient insertion, deletion and search"
     ],
-    "answer": "Automatically frees memory no longer in use by the program"
+    "correctIndex": 0
   },
   {
     "question": "A microservices architecture",
     "options": [
-      "A security flaw unknown to the vendor with no available patch",
-      "Network Access, Internet, Transport, Application",
-      "A distributed system can only guarantee two of: consistency, availability, partition tolerance",
-      "Breaks applications into small independently deployable services"
+      "A theoretical model of computation used to define algorithm complexity",
+      "It is impossible to determine in general whether a program will halt",
+      "Breaks applications into small independently deployable services",
+      "It maintains sorted data and allows efficient insertion, deletion and search"
     ],
-    "answer": "Breaks applications into small independently deployable services"
+    "correctIndex": 2
   },
   {
     "question": "Zero-day vulnerability refers to",
     "options": [
-      "Breaks applications into small independently deployable services",
-      "Network Access, Internet, Transport, Application",
       "A security flaw unknown to the vendor with no available patch",
-      "The difficulty of factoring the product of two large prime numbers"
+      "It maintains sorted data and allows efficient insertion, deletion and search",
+      "Network Access, Internet, Transport, Application",
+      "Consists of interconnected nodes that learn patterns from data"
     ],
-    "answer": "A security flaw unknown to the vendor with no available patch"
+    "correctIndex": 0
   }
 ]

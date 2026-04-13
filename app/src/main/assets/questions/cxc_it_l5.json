@@ -2,151 +2,151 @@
   {
     "question": "A relational database stores data in",
     "options": [
-      "Represent negative binary numbers",
-      "Ensures data entered meets specified rules",
-      "Manage hardware resources and provide a user interface",
+      "Create a secure encrypted connection over the internet",
+      "The physical or logical layout of a network",
+      "American Standard Code for Information Interchange",
       "Linked tables with relationships between them"
     ],
-    "answer": "Linked tables with relationships between them"
+    "correctIndex": 3
   },
   {
     "question": "Two's complement is used in computing to",
     "options": [
-      "The physical or logical layout of a network",
-      "A single central cable called the bus",
-      "10001",
+      "Manage hardware resources and provide a user interface",
+      "Secretly monitors and collects user activity",
+      "American Standard Code for Information Interchange",
       "Represent negative binary numbers"
     ],
-    "answer": "Represent negative binary numbers"
+    "correctIndex": 3
   },
   {
     "question": "A VPN allows users to",
     "options": [
+      "Ensures data entered meets specified rules",
       "Manage hardware resources and provide a user interface",
-      "How the CPU processes instructions",
-      "Create a secure encrypted connection over the internet",
-      "Represent negative binary numbers"
+      "Linked tables with relationships between them",
+      "Create a secure encrypted connection over the internet"
     ],
-    "answer": "Create a secure encrypted connection over the internet"
+    "correctIndex": 3
   },
   {
     "question": "The fetch-decode-execute cycle describes",
     "options": [
-      "How the CPU processes instructions",
-      "A central switch or hub",
-      "Physical characteristics like fingerprints or facial recognition",
-      "Retrieve data from a database"
+      "10001",
+      "Links a record in one table to a record in another",
+      "Represent negative binary numbers",
+      "How the CPU processes instructions"
     ],
-    "answer": "How the CPU processes instructions"
+    "correctIndex": 3
   },
   {
     "question": "An SQL query uses SELECT to",
     "options": [
-      "Manage hardware resources and provide a user interface",
-      "A single central cable called the bus",
-      "Retrieve data from a database",
-      "Represent negative binary numbers"
+      "A central switch or hub",
+      "Ensures data entered meets specified rules",
+      "Secretly monitors and collects user activity",
+      "Retrieve data from a database"
     ],
-    "answer": "Retrieve data from a database"
+    "correctIndex": 3
   },
   {
     "question": "A network topology describes",
     "options": [
-      "10001",
-      "Retrieve data from a database",
+      "Create a secure encrypted connection over the internet",
       "How the CPU processes instructions",
+      "Manage hardware resources and provide a user interface",
       "The physical or logical layout of a network"
     ],
-    "answer": "The physical or logical layout of a network"
+    "correctIndex": 3
   },
   {
     "question": "Biometric authentication uses",
     "options": [
-      "American Standard Code for Information Interchange",
+      "Create a secure encrypted connection over the internet",
+      "A central switch or hub",
       "Physical characteristics like fingerprints or facial recognition",
-      "Secretly monitors and collects user activity",
-      "Ensures data entered meets specified rules"
+      "Retrieve data from a database"
     ],
-    "answer": "Physical characteristics like fingerprints or facial recognition"
+    "correctIndex": 2
   },
   {
     "question": "A star topology has all devices connected to",
     "options": [
-      "Retrieve data from a database",
+      "Physical characteristics like fingerprints or facial recognition",
+      "The physical or logical layout of a network",
       "A central switch or hub",
-      "Create a secure encrypted connection over the internet",
-      "A single central cable called the bus"
+      "Linked tables with relationships between them"
     ],
-    "answer": "A central switch or hub"
+    "correctIndex": 2
   },
   {
     "question": "Data validation in a database",
     "options": [
-      "Retrieve data from a database",
-      "American Standard Code for Information Interchange",
-      "Represent negative binary numbers",
-      "Ensures data entered meets specified rules"
+      "How the CPU processes instructions",
+      "Linked tables with relationships between them",
+      "Ensures data entered meets specified rules",
+      "A central switch or hub"
     ],
-    "answer": "Ensures data entered meets specified rules"
+    "correctIndex": 2
   },
   {
     "question": "ASCII stands for",
     "options": [
+      "Manage hardware resources and provide a user interface",
       "How the CPU processes instructions",
-      "Represent negative binary numbers",
       "American Standard Code for Information Interchange",
-      "A single central cable called the bus"
+      "The physical or logical layout of a network"
     ],
-    "answer": "American Standard Code for Information Interchange"
+    "correctIndex": 2
   },
   {
     "question": "A bus topology connects all devices to",
     "options": [
       "A single central cable called the bus",
-      "How the CPU processes instructions",
-      "Secretly monitors and collects user activity",
-      "A central switch or hub"
+      "Retrieve data from a database",
+      "Create a secure encrypted connection over the internet",
+      "American Standard Code for Information Interchange"
     ],
-    "answer": "A single central cable called the bus"
+    "correctIndex": 0
   },
   {
     "question": "The purpose of an operating system",
     "options": [
-      "Manage hardware resources and provide a user interface",
       "10001",
-      "Retrieve data from a database",
+      "Ensures data entered meets specified rules",
+      "Manage hardware resources and provide a user interface",
       "A central switch or hub"
     ],
-    "answer": "Manage hardware resources and provide a user interface"
+    "correctIndex": 2
   },
   {
     "question": "Binary addition: 1011 + 0110 =",
     "options": [
-      "How the CPU processes instructions",
-      "Secretly monitors and collects user activity",
-      "Manage hardware resources and provide a user interface",
+      "Ensures data entered meets specified rules",
+      "Linked tables with relationships between them",
+      "Represent negative binary numbers",
       "10001"
     ],
-    "answer": "10001"
+    "correctIndex": 3
   },
   {
     "question": "A foreign key in a database",
     "options": [
-      "A single central cable called the bus",
-      "Links a record in one table to a record in another",
-      "Linked tables with relationships between them",
-      "Create a secure encrypted connection over the internet"
+      "How the CPU processes instructions",
+      "Create a secure encrypted connection over the internet",
+      "Manage hardware resources and provide a user interface",
+      "Links a record in one table to a record in another"
     ],
-    "answer": "Links a record in one table to a record in another"
+    "correctIndex": 3
   },
   {
     "question": "Spyware is malware that",
     "options": [
-      "Ensures data entered meets specified rules",
-      "How the CPU processes instructions",
+      "Secretly monitors and collects user activity",
       "Links a record in one table to a record in another",
-      "Secretly monitors and collects user activity"
+      "How the CPU processes instructions",
+      "Linked tables with relationships between them"
     ],
-    "answer": "Secretly monitors and collects user activity"
+    "correctIndex": 0
   }
 ]

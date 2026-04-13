@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'data normalisation' to 3NF",
     "options": [
-      "Discovering patterns and insights from large datasets",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Automatically execute SQL code in response to specific table events",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+      "Horizontal partitioning of data across multiple databases",
+      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
+      "Complex analytical queries on large datasets",
+      "Query performance by creating fast lookup structures"
     ],
-    "answer": "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+    "correctIndex": 1
   },
   {
     "question": "'Entity integrity' in databases requires",
     "options": [
       "Primary keys must be unique and not null",
       "Discovering patterns and insights from large datasets",
-      "Volume, velocity, variety, veracity and value",
-      "Pre-compiled SQL code stored in the database and executed on demand"
+      "Unstructured or semi-structured data that doesn't fit relational models",
+      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
     ],
-    "answer": "Primary keys must be unique and not null"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'referential integrity'",
     "options": [
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
+      "Pre-compiled SQL code stored in the database and executed on demand",
       "Volume, velocity, variety, veracity and value",
       "Foreign keys must match primary keys in the referenced table",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+      "Complex analytical queries on large datasets"
     ],
-    "answer": "Foreign keys must match primary keys in the referenced table"
+    "correctIndex": 2
   },
   {
     "question": "A 'stored procedure' in SQL",
     "options": [
       "Pre-compiled SQL code stored in the database and executed on demand",
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Complex analytical queries on large datasets",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
+      "Volume, velocity, variety, veracity and value",
+      "Query performance by creating fast lookup structures",
+      "Horizontal partitioning of data across multiple databases"
     ],
-    "answer": "Pre-compiled SQL code stored in the database and executed on demand"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'database triggers'",
     "options": [
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
-      "Automatically execute SQL code in response to specific table events",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Virtual tables created by stored queries"
+      "Unstructured or semi-structured data that doesn't fit relational models",
+      "Discovering patterns and insights from large datasets",
+      "Foreign keys must match primary keys in the referenced table",
+      "Automatically execute SQL code in response to specific table events"
     ],
-    "answer": "Automatically execute SQL code in response to specific table events"
+    "correctIndex": 3
   },
   {
     "question": "'Database indexing' improves",
     "options": [
-      "Automatically execute SQL code in response to specific table events",
-      "Unstructured or semi-structured data that doesn't fit relational models",
+      "Virtual tables created by stored queries",
       "Query performance by creating fast lookup structures",
-      "Virtual tables created by stored queries"
+      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
+      "Pre-compiled SQL code stored in the database and executed on demand"
     ],
-    "answer": "Query performance by creating fast lookup structures"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'ACID properties' in databases",
     "options": [
+      "Volume, velocity, variety, veracity and value",
       "Horizontal partitioning of data across multiple databases",
-      "Query performance by creating fast lookup structures",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Complex analytical queries on large datasets"
+      "Foreign keys must match primary keys in the referenced table",
+      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
     ],
-    "answer": "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
+    "correctIndex": 3
   },
   {
     "question": "'Database views' are",
     "options": [
+      "Foreign keys must match primary keys in the referenced table",
+      "Unstructured or semi-structured data that doesn't fit relational models",
       "Virtual tables created by stored queries",
-      "Complex analytical queries on large datasets",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Horizontal partitioning of data across multiple databases"
+      "Centralised storage of historical data for analysis and reporting"
     ],
-    "answer": "Virtual tables created by stored queries"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'database sharding'",
     "options": [
+      "Foreign keys must match primary keys in the referenced table",
       "Horizontal partitioning of data across multiple databases",
-      "Centralised storage of historical data for analysis and reporting",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+      "Extract, Transform and Load data into a data warehouse",
+      "Complex analytical queries on large datasets"
     ],
-    "answer": "Horizontal partitioning of data across multiple databases"
+    "correctIndex": 1
   },
   {
     "question": "'NoSQL databases' are suited for",
     "options": [
-      "Virtual tables created by stored queries",
-      "Horizontal partitioning of data across multiple databases",
+      "Complex analytical queries on large datasets",
+      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
       "Unstructured or semi-structured data that doesn't fit relational models",
-      "Centralised storage of historical data for analysis and reporting"
+      "Pre-compiled SQL code stored in the database and executed on demand"
     ],
-    "answer": "Unstructured or semi-structured data that doesn't fit relational models"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'data warehousing'",
     "options": [
       "Centralised storage of historical data for analysis and reporting",
-      "Horizontal partitioning of data across multiple databases",
-      "Volume, velocity, variety, veracity and value",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
+      "Complex analytical queries on large datasets",
+      "Foreign keys must match primary keys in the referenced table",
+      "Primary keys must be unique and not null"
     ],
-    "answer": "Centralised storage of historical data for analysis and reporting"
+    "correctIndex": 0
   },
   {
     "question": "'OLAP' (Online Analytical Processing) is used for",
     "options": [
-      "Virtual tables created by stored queries",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Extract, Transform and Load data into a data warehouse",
-      "Complex analytical queries on large datasets"
+      "Primary keys must be unique and not null",
+      "Complex analytical queries on large datasets",
+      "Query performance by creating fast lookup structures",
+      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
     ],
-    "answer": "Complex analytical queries on large datasets"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'ETL process'",
     "options": [
-      "Primary keys must be unique and not null",
-      "Volume, velocity, variety, veracity and value",
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Extract, Transform and Load data into a data warehouse"
+      "Complex analytical queries on large datasets",
+      "Extract, Transform and Load data into a data warehouse",
+      "Horizontal partitioning of data across multiple databases",
+      "Virtual tables created by stored queries"
     ],
-    "answer": "Extract, Transform and Load data into a data warehouse"
+    "correctIndex": 1
   },
   {
     "question": "'Data mining' involves",
     "options": [
-      "Centralised storage of historical data for analysis and reporting",
-      "Automatically execute SQL code in response to specific table events",
-      "Virtual tables created by stored queries",
+      "Foreign keys must match primary keys in the referenced table",
+      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
+      "Pre-compiled SQL code stored in the database and executed on demand",
       "Discovering patterns and insights from large datasets"
     ],
-    "answer": "Discovering patterns and insights from large datasets"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'big data characteristics' (5 Vs)",
     "options": [
-      "Primary keys must be unique and not null",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Volume, velocity, variety, veracity and value",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+      "Discovering patterns and insights from large datasets",
+      "Automatically execute SQL code in response to specific table events",
+      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
+      "Volume, velocity, variety, veracity and value"
     ],
-    "answer": "Volume, velocity, variety, veracity and value"
+    "correctIndex": 3
   }
 ]

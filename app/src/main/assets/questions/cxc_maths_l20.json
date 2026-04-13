@@ -2,151 +2,151 @@
   {
     "question": "Integrate: ∫ x² sin x dx (by parts twice)",
     "options": [
-      "−x² cos x + 2x sin x + 2 cos x + C",
-      "(1/a) arctan(x/a) + C",
-      "A double integral over the enclosed region",
-      "1"
+      "1 − x²/2 + x⁴/24",
+      "y = 2 + Ce^(−2x)",
+      "λ + λ²",
+      "−x² cos x + 2x sin x + 2 cos x + C"
     ],
-    "answer": "−x² cos x + 2x sin x + 2 cos x + C"
+    "correctIndex": 3
   },
   {
     "question": "Solve: y'' − 2y' + y = 0 (ODE)",
     "options": [
+      "2",
       "y = (A + Bx)eˣ",
-      "y = 2 + Ce^(−2x)",
-      "λ + λ²",
-      "2"
+      "−x² cos x + 2x sin x + 2 cos x + C",
+      "y = 2 + Ce^(−2x)"
     ],
-    "answer": "y = (A + Bx)eˣ"
+    "correctIndex": 1
   },
   {
     "question": "Telescoping series: Σ 1/(n(n+1)) from n = 1 to ∞",
     "options": [
-      "λ + λ²",
       "2",
-      "55",
+      "−x² cos x + 2x sin x + 2 cos x + C",
+      "A double integral over the enclosed region",
       "1"
     ],
-    "answer": "1"
+    "correctIndex": 3
   },
   {
     "question": "Curvature of y = x² at origin",
     "options": [
-      "8 det(A)",
+      "0) (1 − cos x)/x² → 1/2",
+      "y = 2 + Ce^(−2x)",
       "2",
-      "f(g(x)) × g'(x)",
-      "λ + λ²"
+      "y = (A + Bx)eˣ"
     ],
-    "answer": "2"
+    "correctIndex": 2
   },
   {
     "question": "General solution of dy/dx + 2y = 4",
     "options": [
-      "2",
-      "A double integral over the enclosed region",
-      "y = 2 + Ce^(−2x)",
-      "0) (1 − cos x)/x² → 1/2"
+      "f(g(x)) × g'(x)",
+      "1",
+      "1 − x²/2 + x⁴/24",
+      "y = 2 + Ce^(−2x)"
     ],
-    "answer": "y = 2 + Ce^(−2x)"
+    "correctIndex": 3
   },
   {
     "question": "Exact value of ∫₀^(π/4) tan x dx",
     "options": [
+      "8 det(A)",
       "(1/2) ln 2",
-      "1 − x²/2 + x⁴/24",
-      "λ + λ²",
-      "0) (1 − cos x)/x² → 1/2"
+      "0) (1 − cos x)/x² → 1/2",
+      "(1/a) arctan(x/a) + C"
     ],
-    "answer": "(1/2) ln 2"
+    "correctIndex": 1
   },
   {
     "question": "F(10) in Fibonacci sequence (1,1,2,3,5,8...)",
     "options": [
-      "0) (1 − cos x)/x² → 1/2",
-      "λ + λ²",
-      "8 det(A)",
+      "(1/2) ln 2",
+      "1",
+      "1 − x²/2 + x⁴/24",
       "55"
     ],
-    "answer": "55"
+    "correctIndex": 3
   },
   {
     "question": "For Poisson X~P(λ), find E(X²)",
     "options": [
-      "(1/2) ln 2",
-      "55",
-      "8 det(A)",
+      "1",
+      "(1/a) arctan(x/a) + C",
+      "2",
       "λ + λ²"
     ],
-    "answer": "λ + λ²"
+    "correctIndex": 3
   },
   {
     "question": "Find ∫ 1/(x² + a²) dx",
     "options": [
-      "8 det(A)",
       "f(g(x)) × g'(x)",
-      "λ + λ²",
-      "(1/a) arctan(x/a) + C"
+      "2",
+      "(1/a) arctan(x/a) + C",
+      "2"
     ],
-    "answer": "(1/a) arctan(x/a) + C"
+    "correctIndex": 2
   },
   {
     "question": "First three non-zero terms of Taylor series for cos x",
     "options": [
-      "8 det(A)",
-      "y = 2 + Ce^(−2x)",
-      "1 − x²/2 + x⁴/24",
-      "f(g(x)) × g'(x)"
+      "y = (A + Bx)eˣ",
+      "1",
+      "−x² cos x + 2x sin x + 2 cos x + C",
+      "1 − x²/2 + x⁴/24"
     ],
-    "answer": "1 − x²/2 + x⁴/24"
+    "correctIndex": 3
   },
   {
     "question": "For a 3×3 matrix A, det(2A) =",
     "options": [
+      "(1/a) arctan(x/a) + C",
       "λ + λ²",
-      "8 det(A)",
-      "1",
-      "0) (1 − cos x)/x² → 1/2"
+      "1 − x²/2 + x⁴/24",
+      "8 det(A)"
     ],
-    "answer": "8 det(A)"
+    "correctIndex": 3
   },
   {
     "question": "Fundamental theorem of calculus: d/dx ∫ₐ^g(x) f(t) dt",
     "options": [
-      "A double integral over the enclosed region",
-      "y = (A + Bx)eˣ",
-      "1 − x²/2 + x⁴/24",
+      "(1/2) ln 2",
+      "2",
+      "λ + λ²",
       "f(g(x)) × g'(x)"
     ],
-    "answer": "f(g(x)) × g'(x)"
+    "correctIndex": 3
   },
   {
     "question": "Evaluate: ∫₀^π sin x dx",
     "options": [
-      "0) (1 − cos x)/x² → 1/2",
-      "y = 2 + Ce^(−2x)",
-      "8 det(A)",
-      "2"
+      "f(g(x)) × g'(x)",
+      "2",
+      "λ + λ²",
+      "1"
     ],
-    "answer": "2"
+    "correctIndex": 1
   },
   {
     "question": "L'Hôpital: lim(x",
     "options": [
-      "8 det(A)",
-      "2",
+      "1 − x²/2 + x⁴/24",
       "0) (1 − cos x)/x² → 1/2",
-      "λ + λ²"
+      "(1/2) ln 2",
+      "y = 2 + Ce^(−2x)"
     ],
-    "answer": "0) (1 − cos x)/x² → 1/2"
+    "correctIndex": 1
   },
   {
     "question": "Green's theorem relates a line integral around a closed curve to",
     "options": [
-      "y = 2 + Ce^(−2x)",
       "2",
-      "1",
-      "A double integral over the enclosed region"
+      "A double integral over the enclosed region",
+      "55",
+      "8 det(A)"
     ],
-    "answer": "A double integral over the enclosed region"
+    "correctIndex": 1
   }
 ]

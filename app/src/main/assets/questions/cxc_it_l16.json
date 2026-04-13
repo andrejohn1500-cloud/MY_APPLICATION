@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'serverless computing'",
     "options": [
-      "Distributing network traffic across multiple servers to prevent overload",
-      "Understanding system state through logs, metrics and traces",
+      "Enable asynchronous communication between services",
+      "Distribute content across geographically dispersed servers for faster delivery",
       "Running code without managing servers — cloud provider handles infrastructure",
-      "Enable asynchronous communication between services"
+      "Infrastructure layer handling service-to-service communication"
     ],
-    "answer": "Running code without managing servers — cloud provider handles infrastructure"
+    "correctIndex": 2
   },
   {
     "question": "'Infrastructure as Code' (IaC)",
     "options": [
-      "All nodes will eventually have the same data, but not necessarily at the same time",
-      "Enable asynchronous communication between services",
-      "Infrastructure layer handling service-to-service communication",
-      "Managing and provisioning infrastructure through machine-readable configuration files"
+      "Managing and provisioning infrastructure through machine-readable configuration files",
+      "Distribute content across geographically dispersed servers for faster delivery",
+      "Understanding system state through logs, metrics and traces",
+      "Running code without managing servers — cloud provider handles infrastructure"
     ],
-    "answer": "Managing and provisioning infrastructure through machine-readable configuration files"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'containerisation' (Docker)",
     "options": [
+      "Edge processes data near source for speed; cloud centralises for scale",
       "Horizontal adds more machines; vertical increases capacity of existing machines",
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "Infrastructure layer handling service-to-service communication",
-      "Packaging applications with their dependencies into portable containers"
+      "Packaging applications with their dependencies into portable containers",
+      "Using Git as the single source of truth for infrastructure and application state"
     ],
-    "answer": "Packaging applications with their dependencies into portable containers"
+    "correctIndex": 2
   },
   {
     "question": "'Container orchestration' (Kubernetes)",
     "options": [
-      "Horizontal adds more machines; vertical increases capacity of existing machines",
-      "Infrastructure layer handling service-to-service communication",
+      "Deliberately introducing failures to test system resilience",
+      "Service level agreements, objectives and indicators define reliability expectations",
       "Automates deployment, scaling and management of containerised applications",
-      "Understanding system state through logs, metrics and traces"
+      "Running code without managing servers — cloud provider handles infrastructure"
     ],
-    "answer": "Automates deployment, scaling and management of containerised applications"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'load balancing'",
     "options": [
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "Service level agreements, objectives and indicators define reliability expectations",
+      "Packaging applications with their dependencies into portable containers",
       "Distributing network traffic across multiple servers to prevent overload",
-      "Running code without managing servers — cloud provider handles infrastructure"
+      "Managing and provisioning infrastructure through machine-readable configuration files",
+      "Distribute content across geographically dispersed servers for faster delivery"
     ],
-    "answer": "Distributing network traffic across multiple servers to prevent overload"
+    "correctIndex": 1
   },
   {
     "question": "'Content delivery networks' (CDN)",
     "options": [
+      "Managing and provisioning infrastructure through machine-readable configuration files",
       "Distribute content across geographically dispersed servers for faster delivery",
-      "Using Git as the single source of truth for infrastructure and application state",
       "Enable asynchronous communication between services",
-      "Infrastructure layer handling service-to-service communication"
+      "Running code without managing servers — cloud provider handles infrastructure"
     ],
-    "answer": "Distribute content across geographically dispersed servers for faster delivery"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'horizontal vs vertical scaling'",
     "options": [
-      "Horizontal adds more machines; vertical increases capacity of existing machines",
-      "All nodes will eventually have the same data, but not necessarily at the same time",
-      "Deliberately introducing failures to test system resilience",
-      "Distributing network traffic across multiple servers to prevent overload"
+      "Edge processes data near source for speed; cloud centralises for scale",
+      "Distribute content across geographically dispersed servers for faster delivery",
+      "Enable asynchronous communication between services",
+      "Horizontal adds more machines; vertical increases capacity of existing machines"
     ],
-    "answer": "Horizontal adds more machines; vertical increases capacity of existing machines"
+    "correctIndex": 3
   },
   {
     "question": "'Message queues' in distributed systems",
     "options": [
       "Enable asynchronous communication between services",
-      "Automates deployment, scaling and management of containerised applications",
+      "Distribute content across geographically dispersed servers for faster delivery",
       "Edge processes data near source for speed; cloud centralises for scale",
-      "Deliberately introducing failures to test system resilience"
+      "Packaging applications with their dependencies into portable containers"
     ],
-    "answer": "Enable asynchronous communication between services"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'eventual consistency' in distributed systems",
     "options": [
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "All nodes will eventually have the same data, but not necessarily at the same time",
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Service level agreements, objectives and indicators define reliability expectations"
+      "Using Git as the single source of truth for infrastructure and application state",
+      "Distributing network traffic across multiple servers to prevent overload",
+      "Managing and provisioning infrastructure through machine-readable configuration files",
+      "All nodes will eventually have the same data, but not necessarily at the same time"
     ],
-    "answer": "All nodes will eventually have the same data, but not necessarily at the same time"
+    "correctIndex": 3
   },
   {
     "question": "'Service mesh architecture'",
     "options": [
-      "Edge processes data near source for speed; cloud centralises for scale",
       "Infrastructure layer handling service-to-service communication",
-      "Packaging applications with their dependencies into portable containers",
-      "Distribute content across geographically dispersed servers for faster delivery"
+      "Deliberately introducing failures to test system resilience",
+      "Edge processes data near source for speed; cloud centralises for scale",
+      "Horizontal adds more machines; vertical increases capacity of existing machines"
     ],
-    "answer": "Infrastructure layer handling service-to-service communication"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'chaos engineering'",
     "options": [
+      "Service level agreements, objectives and indicators define reliability expectations",
       "Edge processes data near source for speed; cloud centralises for scale",
       "Deliberately introducing failures to test system resilience",
-      "Automates deployment, scaling and management of containerised applications",
-      "Understanding system state through logs, metrics and traces"
+      "Infrastructure layer handling service-to-service communication"
     ],
-    "answer": "Deliberately introducing failures to test system resilience"
+    "correctIndex": 2
   },
   {
     "question": "'Observability' in systems engineering",
     "options": [
-      "Running code without managing servers — cloud provider handles infrastructure",
       "Understanding system state through logs, metrics and traces",
-      "Automates deployment, scaling and management of containerised applications",
-      "Horizontal adds more machines; vertical increases capacity of existing machines"
+      "Service level agreements, objectives and indicators define reliability expectations",
+      "Distributing network traffic across multiple servers to prevent overload",
+      "Infrastructure layer handling service-to-service communication"
     ],
-    "answer": "Understanding system state through logs, metrics and traces"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'SLA, SLO and SLI'",
     "options": [
-      "Understanding system state through logs, metrics and traces",
-      "Horizontal adds more machines; vertical increases capacity of existing machines",
-      "Managing and provisioning infrastructure through machine-readable configuration files",
+      "Infrastructure layer handling service-to-service communication",
+      "Enable asynchronous communication between services",
+      "Deliberately introducing failures to test system resilience",
       "Service level agreements, objectives and indicators define reliability expectations"
     ],
-    "answer": "Service level agreements, objectives and indicators define reliability expectations"
+    "correctIndex": 3
   },
   {
     "question": "'GitOps' practice",
     "options": [
-      "All nodes will eventually have the same data, but not necessarily at the same time",
-      "Distributing network traffic across multiple servers to prevent overload",
       "Using Git as the single source of truth for infrastructure and application state",
-      "Infrastructure layer handling service-to-service communication"
+      "Infrastructure layer handling service-to-service communication",
+      "Distribute content across geographically dispersed servers for faster delivery",
+      "Automates deployment, scaling and management of containerised applications"
     ],
-    "answer": "Using Git as the single source of truth for infrastructure and application state"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'edge computing' vs cloud computing",
     "options": [
+      "Deliberately introducing failures to test system resilience",
+      "Distributing network traffic across multiple servers to prevent overload",
       "Edge processes data near source for speed; cloud centralises for scale",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "All nodes will eventually have the same data, but not necessarily at the same time",
-      "Packaging applications with their dependencies into portable containers"
+      "Distribute content across geographically dispersed servers for faster delivery"
     ],
-    "answer": "Edge processes data near source for speed; cloud centralises for scale"
+    "correctIndex": 2
   }
 ]

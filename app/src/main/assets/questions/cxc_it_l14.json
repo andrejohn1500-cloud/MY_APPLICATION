@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'penetration testing'",
     "options": [
-      "Monitor network traffic for suspicious activity and known threats",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "Collecting and analysing digital evidence for legal purposes",
       "Simulating cyber attacks to identify vulnerabilities before attackers do",
-      "Write data beyond a buffer's boundary to corrupt memory and execute code",
-      "Requiring two or more verification methods to access a system"
+      "No user or device should be trusted by default, even inside the network"
     ],
-    "answer": "Simulating cyber attacks to identify vulnerabilities before attackers do"
+    "correctIndex": 2
   },
   {
     "question": "'Social engineering attacks' exploit",
     "options": [
-      "Simulating cyber attacks to identify vulnerabilities before attackers do",
-      "Computers physically isolated from unsecured networks for maximum security",
+      "Inserting malicious SQL code into input fields to manipulate databases",
       "Hiding secret data within ordinary files like images",
-      "Human psychology rather than technical vulnerabilities"
+      "Human psychology rather than technical vulnerabilities",
+      "Computers physically isolated from unsecured networks for maximum security"
     ],
-    "answer": "Human psychology rather than technical vulnerabilities"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'multi-factor authentication' (MFA)",
     "options": [
-      "Requiring two or more verification methods to access a system",
-      "Isolating programs in a restricted environment to contain potential damage",
-      "Human psychology rather than technical vulnerabilities",
-      "Inject malicious scripts into web pages viewed by other users"
+      "Inject malicious scripts into web pages viewed by other users",
+      "Collecting and analysing digital evidence for legal purposes",
+      "A list of the most critical web application security risks",
+      "Requiring two or more verification methods to access a system"
     ],
-    "answer": "Requiring two or more verification methods to access a system"
+    "correctIndex": 3
   },
   {
     "question": "'Zero-trust security model' assumes",
     "options": [
-      "Monitor network traffic for suspicious activity and known threats",
-      "Collecting and analysing digital evidence for legal purposes",
       "A list of the most critical web application security risks",
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Monitor network traffic for suspicious activity and known threats",
       "No user or device should be trusted by default, even inside the network"
     ],
-    "answer": "No user or device should be trusted by default, even inside the network"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'OWASP Top 10'",
     "options": [
-      "Write data beyond a buffer's boundary to corrupt memory and execute code",
-      "Isolating programs in a restricted environment to contain potential damage",
+      "Requiring two or more verification methods to access a system",
+      "Inject malicious scripts into web pages viewed by other users",
       "A list of the most critical web application security risks",
       "Provide privileged access while concealing their presence"
     ],
-    "answer": "A list of the most critical web application security risks"
+    "correctIndex": 2
   },
   {
     "question": "'Cross-site scripting' (XSS) attacks",
     "options": [
-      "Computers physically isolated from unsecured networks for maximum security",
-      "Isolating programs in a restricted environment to contain potential damage",
-      "Collecting and analysing digital evidence for legal purposes",
-      "Inject malicious scripts into web pages viewed by other users"
+      "Systematically identifying potential security threats to a system",
+      "Inserting malicious SQL code into input fields to manipulate databases",
+      "Inject malicious scripts into web pages viewed by other users",
+      "Monitor network traffic for suspicious activity and known threats"
     ],
-    "answer": "Inject malicious scripts into web pages viewed by other users"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'SQL injection' attack",
     "options": [
-      "Collecting and analysing digital evidence for legal purposes",
       "Inserting malicious SQL code into input fields to manipulate databases",
+      "Hiding secret data within ordinary files like images",
       "Simulating cyber attacks to identify vulnerabilities before attackers do",
-      "Write data beyond a buffer's boundary to corrupt memory and execute code"
+      "Systematically identifying potential security threats to a system"
     ],
-    "answer": "Inserting malicious SQL code into input fields to manipulate databases"
+    "correctIndex": 0
   },
   {
     "question": "'Buffer overflow attacks'",
     "options": [
+      "Provide privileged access while concealing their presence",
+      "No user or device should be trusted by default, even inside the network",
       "Write data beyond a buffer's boundary to corrupt memory and execute code",
-      "Collecting and analysing digital evidence for legal purposes",
-      "Isolating programs in a restricted environment to contain potential damage",
-      "Simulating cyber attacks to identify vulnerabilities before attackers do"
+      "Collecting and analysing digital evidence for legal purposes"
     ],
-    "answer": "Write data beyond a buffer's boundary to corrupt memory and execute code"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'intrusion detection systems' (IDS)",
     "options": [
-      "Collecting and analysing digital evidence for legal purposes",
-      "Simulating cyber attacks to identify vulnerabilities before attackers do",
-      "Monitor network traffic for suspicious activity and known threats",
-      "Isolating programs in a restricted environment to contain potential damage"
+      "No user or device should be trusted by default, even inside the network",
+      "A list of the most critical web application security risks",
+      "Requiring two or more verification methods to access a system",
+      "Monitor network traffic for suspicious activity and known threats"
     ],
-    "answer": "Monitor network traffic for suspicious activity and known threats"
+    "correctIndex": 3
   },
   {
     "question": "'Sandboxing' in security",
     "options": [
-      "Hiding secret data within ordinary files like images",
+      "Inject malicious scripts into web pages viewed by other users",
       "Requiring two or more verification methods to access a system",
-      "Isolating programs in a restricted environment to contain potential damage",
-      "Inject malicious scripts into web pages viewed by other users"
+      "No user or device should be trusted by default, even inside the network",
+      "Isolating programs in a restricted environment to contain potential damage"
     ],
-    "answer": "Isolating programs in a restricted environment to contain potential damage"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'digital forensics'",
     "options": [
-      "No user or device should be trusted by default, even inside the network",
-      "Write data beyond a buffer's boundary to corrupt memory and execute code",
-      "Human psychology rather than technical vulnerabilities",
-      "Collecting and analysing digital evidence for legal purposes"
+      "Collecting and analysing digital evidence for legal purposes",
+      "A list of the most critical web application security risks",
+      "Computers physically isolated from unsecured networks for maximum security",
+      "Human psychology rather than technical vulnerabilities"
     ],
-    "answer": "Collecting and analysing digital evidence for legal purposes"
+    "correctIndex": 0
   },
   {
     "question": "'Steganography' involves",
     "options": [
       "Hiding secret data within ordinary files like images",
-      "Collecting and analysing digital evidence for legal purposes",
       "A list of the most critical web application security risks",
-      "Inject malicious scripts into web pages viewed by other users"
+      "Collecting and analysing digital evidence for legal purposes",
+      "Human psychology rather than technical vulnerabilities"
     ],
-    "answer": "Hiding secret data within ordinary files like images"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'air-gapped systems'",
     "options": [
       "Computers physically isolated from unsecured networks for maximum security",
-      "Requiring two or more verification methods to access a system",
-      "Write data beyond a buffer's boundary to corrupt memory and execute code",
-      "Provide privileged access while concealing their presence"
+      "Provide privileged access while concealing their presence",
+      "Systematically identifying potential security threats to a system",
+      "Requiring two or more verification methods to access a system"
     ],
-    "answer": "Computers physically isolated from unsecured networks for maximum security"
+    "correctIndex": 0
   },
   {
     "question": "'Rootkits' are malware that",
     "options": [
-      "Inserting malicious SQL code into input fields to manipulate databases",
-      "Requiring two or more verification methods to access a system",
+      "Inject malicious scripts into web pages viewed by other users",
       "Provide privileged access while concealing their presence",
-      "Computers physically isolated from unsecured networks for maximum security"
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Collecting and analysing digital evidence for legal purposes"
     ],
-    "answer": "Provide privileged access while concealing their presence"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'threat modelling'",
     "options": [
       "Systematically identifying potential security threats to a system",
-      "Monitor network traffic for suspicious activity and known threats",
-      "Provide privileged access while concealing their presence",
-      "A list of the most critical web application security risks"
+      "Computers physically isolated from unsecured networks for maximum security",
+      "Hiding secret data within ordinary files like images",
+      "Inject malicious scripts into web pages viewed by other users"
     ],
-    "answer": "Systematically identifying potential security threats to a system"
+    "correctIndex": 0
   }
 ]

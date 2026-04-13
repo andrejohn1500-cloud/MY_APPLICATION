@@ -3,150 +3,150 @@
     "question": "Which sentence is in the active voice?",
     "options": [
       "The chef cooked the meal",
-      "Bright blue butterflies",
-      "Between you and me, this is a secret",
-      "Summarise or reinforce the main idea"
+      "Singular verb",
+      "Challenging",
+      "Homophone"
     ],
-    "answer": "The chef cooked the meal"
+    "correctIndex": 0
   },
   {
     "question": "'Although' introduces a",
     "options": [
-      "Quotation marks",
+      "Subordinate clause",
       "The chef cooked the meal",
-      "Singular verb",
-      "Subordinate clause"
+      "Bright blue butterflies",
+      "Singular verb"
     ],
-    "answer": "Subordinate clause"
+    "correctIndex": 0
   },
   {
     "question": "The suffix '-tion' changes 'educate' to",
     "options": [
+      "Singular verb",
+      "Education",
       "Bright blue butterflies",
-      "Synonyms",
-      "Summarise or reinforce the main idea",
-      "Education"
+      "Synonyms"
     ],
-    "answer": "Education"
+    "correctIndex": 1
   },
   {
     "question": "A word that sounds the same but has a different spelling and meaning",
     "options": [
-      "Singular verb",
+      "Subordinate clause",
+      "The house was built by them",
       "Homophone",
-      "Education",
-      "Challenging"
+      "Bright blue butterflies"
     ],
-    "answer": "Homophone"
+    "correctIndex": 2
   },
   {
     "question": "'The news was bad' — 'news' takes a",
     "options": [
-      "Singular verb",
       "The chef cooked the meal",
-      "Bright blue butterflies",
+      "Education",
+      "Singular verb",
       "The birds"
     ],
-    "answer": "Singular verb"
+    "correctIndex": 2
   },
   {
     "question": "Direct speech is enclosed in",
     "options": [
       "Quotation marks",
-      "Compound word",
+      "Subordinate clause",
       "Challenging",
       "Singular verb"
     ],
-    "answer": "Quotation marks"
+    "correctIndex": 0
   },
   {
     "question": "Correct pronoun use:",
     "options": [
-      "Bright blue butterflies",
-      "The house was built by them",
       "Between you and me, this is a secret",
-      "Synonyms"
+      "Challenging",
+      "Bright blue butterflies",
+      "Homophone"
     ],
-    "answer": "Between you and me, this is a secret"
+    "correctIndex": 0
   },
   {
     "question": "A synonym for 'difficult'",
     "options": [
       "Challenging",
-      "Bright blue butterflies",
-      "The chef cooked the meal",
-      "Singular verb"
+      "The children's toys were on the floor",
+      "Quotation marks",
+      "Summarise or reinforce the main idea"
     ],
-    "answer": "Challenging"
+    "correctIndex": 0
   },
   {
     "question": "Correctly uses apostrophe:",
     "options": [
-      "The house was built by them",
+      "Challenging",
+      "Education",
       "The children's toys were on the floor",
-      "Summarise or reinforce the main idea",
-      "Subordinate clause"
+      "Singular verb"
     ],
-    "answer": "The children's toys were on the floor"
+    "correctIndex": 2
   },
   {
     "question": "A paragraph's concluding sentence should",
     "options": [
-      "The birds",
-      "Between you and me, this is a secret",
-      "Summarise or reinforce the main idea",
-      "The house was built by them"
+      "Synonyms",
+      "Education",
+      "The children's toys were on the floor",
+      "Summarise or reinforce the main idea"
     ],
-    "answer": "Summarise or reinforce the main idea"
+    "correctIndex": 3
   },
   {
     "question": "Passive form of 'They built the house'",
     "options": [
-      "Bright blue butterflies",
-      "The children's toys were on the floor",
+      "Between you and me, this is a secret",
+      "Singular verb",
       "The house was built by them",
-      "Subordinate clause"
+      "Challenging"
     ],
-    "answer": "The house was built by them"
+    "correctIndex": 2
   },
   {
     "question": "An example of alliteration in prose",
     "options": [
-      "Quotation marks",
-      "Between you and me, this is a secret",
-      "Summarise or reinforce the main idea",
-      "Bright blue butterflies"
+      "The birds",
+      "Bright blue butterflies",
+      "Education",
+      "The children's toys were on the floor"
     ],
-    "answer": "Bright blue butterflies"
+    "correctIndex": 1
   },
   {
     "question": "A word formed by combining two existing words",
     "options": [
+      "The birds",
+      "Summarise or reinforce the main idea",
       "Compound word",
-      "Singular verb",
-      "Synonyms",
-      "Challenging"
+      "Education"
     ],
-    "answer": "Compound word"
+    "correctIndex": 2
   },
   {
     "question": "'Fantastic' and 'wonderful' are",
     "options": [
-      "Challenging",
-      "Singular verb",
-      "Synonyms",
-      "Summarise or reinforce the main idea"
+      "The children's toys were on the floor",
+      "Bright blue butterflies",
+      "Between you and me, this is a secret",
+      "Synonyms"
     ],
-    "answer": "Synonyms"
+    "correctIndex": 3
   },
   {
     "question": "The subject of 'Every morning the birds sing'",
     "options": [
-      "Synonyms",
       "The birds",
-      "Subordinate clause",
-      "Bright blue butterflies"
+      "Education",
+      "Between you and me, this is a secret",
+      "Compound word"
     ],
-    "answer": "The birds"
+    "correctIndex": 0
   }
 ]

@@ -2,151 +2,151 @@
   {
     "question": "IPv6 uses how many bits",
     "options": [
-      "Last In First Out (LIFO) principle",
+      "Binary instructions directly executed by the CPU",
+      "Breaks data into packets that travel independently across a network",
       "128",
-      "Permanent software embedded in hardware devices",
-      "Speeds up data retrieval by creating a reference structure"
+      "AND, OR and NOT"
     ],
-    "answer": "128"
+    "correctIndex": 2
   },
   {
     "question": "A hash function in cybersecurity",
     "options": [
-      "Combines multiple drives for redundancy or improved performance",
-      "Converts data into a fixed-length string that cannot be reversed",
-      "Shows tasks and timelines in a bar chart format",
-      "A pair of keys — one public and one private — for encryption"
+      "An attack that inserts malicious SQL code into a database query",
+      "A pair of keys — one public and one private — for encryption",
+      "Last In First Out (LIFO) principle",
+      "Converts data into a fixed-length string that cannot be reversed"
     ],
-    "answer": "Converts data into a fixed-length string that cannot be reversed"
+    "correctIndex": 3
   },
   {
     "question": "SQL injection is",
     "options": [
-      "Permanent software embedded in hardware devices",
-      "A pair of keys — one public and one private — for encryption",
+      "Speeds up data retrieval by creating a reference structure",
       "An attack that inserts malicious SQL code into a database query",
-      "Converts data into a fixed-length string that cannot be reversed"
+      "Permanent software embedded in hardware devices",
+      "Binary instructions directly executed by the CPU"
     ],
-    "answer": "An attack that inserts malicious SQL code into a database query"
+    "correctIndex": 1
   },
   {
     "question": "A recursive algorithm",
     "options": [
+      "128",
+      "Permanent software embedded in hardware devices",
       "Uses multiple compromised systems to flood a target",
-      "Last In First Out (LIFO) principle",
-      "Calls itself within its own definition to solve sub-problems",
-      "Speeds up data retrieval by creating a reference structure"
+      "Calls itself within its own definition to solve sub-problems"
     ],
-    "answer": "Calls itself within its own definition to solve sub-problems"
+    "correctIndex": 3
   },
   {
     "question": "The purpose of RAID storage",
     "options": [
-      "Shows tasks and timelines in a bar chart format",
-      "AND, OR and NOT",
-      "Combines multiple drives for redundancy or improved performance",
-      "An attack that inserts malicious SQL code into a database query"
+      "Calls itself within its own definition to solve sub-problems",
+      "128",
+      "A pair of keys — one public and one private — for encryption",
+      "Combines multiple drives for redundancy or improved performance"
     ],
-    "answer": "Combines multiple drives for redundancy or improved performance"
+    "correctIndex": 3
   },
   {
     "question": "In a spreadsheet, the VLOOKUP function",
     "options": [
-      "Breaks data into packets that travel independently across a network",
-      "128",
-      "Calls itself within its own definition to solve sub-problems",
-      "Searches for a value in the first column of a range and returns a value from another column"
+      "AND, OR and NOT",
+      "Binary instructions directly executed by the CPU",
+      "Searches for a value in the first column of a range and returns a value from another column",
+      "Speeds up data retrieval by creating a reference structure"
     ],
-    "answer": "Searches for a value in the first column of a range and returns a value from another column"
+    "correctIndex": 2
   },
   {
     "question": "Public key cryptography uses",
     "options": [
-      "Converts data into a fixed-length string that cannot be reversed",
-      "Combines multiple drives for redundancy or improved performance",
+      "AND, OR and NOT",
+      "128",
       "A pair of keys — one public and one private — for encryption",
-      "Uses multiple compromised systems to flood a target"
+      "Breaks data into packets that travel independently across a network"
     ],
-    "answer": "A pair of keys — one public and one private — for encryption"
+    "correctIndex": 2
   },
   {
     "question": "A Gantt chart in project management",
     "options": [
       "Shows tasks and timelines in a bar chart format",
-      "AND, OR and NOT",
-      "Breaks data into packets that travel independently across a network",
-      "Searches for a value in the first column of a range and returns a value from another column"
+      "Uses multiple compromised systems to flood a target",
+      "128",
+      "Speeds up data retrieval by creating a reference structure"
     ],
-    "answer": "Shows tasks and timelines in a bar chart format"
+    "correctIndex": 0
   },
   {
     "question": "Packet switching",
     "options": [
-      "Breaks data into packets that travel independently across a network",
+      "An attack that inserts malicious SQL code into a database query",
       "Speeds up data retrieval by creating a reference structure",
       "128",
-      "A pair of keys — one public and one private — for encryption"
+      "Breaks data into packets that travel independently across a network"
     ],
-    "answer": "Breaks data into packets that travel independently across a network"
+    "correctIndex": 3
   },
   {
     "question": "Machine code is",
     "options": [
-      "Breaks data into packets that travel independently across a network",
+      "Converts data into a fixed-length string that cannot be reversed",
+      "An attack that inserts malicious SQL code into a database query",
       "Binary instructions directly executed by the CPU",
-      "AND, OR and NOT",
-      "A pair of keys — one public and one private — for encryption"
+      "Speeds up data retrieval by creating a reference structure"
     ],
-    "answer": "Binary instructions directly executed by the CPU"
+    "correctIndex": 2
   },
   {
     "question": "A distributed denial of service (DDoS) attack",
     "options": [
-      "128",
       "Uses multiple compromised systems to flood a target",
-      "Speeds up data retrieval by creating a reference structure",
-      "A pair of keys — one public and one private — for encryption"
+      "Searches for a value in the first column of a range and returns a value from another column",
+      "AND, OR and NOT",
+      "Permanent software embedded in hardware devices"
     ],
-    "answer": "Uses multiple compromised systems to flood a target"
+    "correctIndex": 0
   },
   {
     "question": "The purpose of an index in a database",
     "options": [
-      "Speeds up data retrieval by creating a reference structure",
-      "Searches for a value in the first column of a range and returns a value from another column",
       "Last In First Out (LIFO) principle",
-      "Binary instructions directly executed by the CPU"
+      "Converts data into a fixed-length string that cannot be reversed",
+      "AND, OR and NOT",
+      "Speeds up data retrieval by creating a reference structure"
     ],
-    "answer": "Speeds up data retrieval by creating a reference structure"
+    "correctIndex": 3
   },
   {
     "question": "Boolean algebra uses operators",
     "options": [
-      "Speeds up data retrieval by creating a reference structure",
-      "AND, OR and NOT",
       "Calls itself within its own definition to solve sub-problems",
-      "Last In First Out (LIFO) principle"
+      "AND, OR and NOT",
+      "Speeds up data retrieval by creating a reference structure",
+      "Searches for a value in the first column of a range and returns a value from another column"
     ],
-    "answer": "AND, OR and NOT"
+    "correctIndex": 1
   },
   {
     "question": "Firmware is",
     "options": [
-      "Combines multiple drives for redundancy or improved performance",
+      "Converts data into a fixed-length string that cannot be reversed",
+      "An attack that inserts malicious SQL code into a database query",
       "Permanent software embedded in hardware devices",
-      "Searches for a value in the first column of a range and returns a value from another column",
-      "Binary instructions directly executed by the CPU"
+      "Calls itself within its own definition to solve sub-problems"
     ],
-    "answer": "Permanent software embedded in hardware devices"
+    "correctIndex": 2
   },
   {
     "question": "The stack data structure operates on",
     "options": [
-      "Converts data into a fixed-length string that cannot be reversed",
-      "Combines multiple drives for redundancy or improved performance",
+      "Permanent software embedded in hardware devices",
+      "Speeds up data retrieval by creating a reference structure",
       "Last In First Out (LIFO) principle",
-      "Uses multiple compromised systems to flood a target"
+      "Binary instructions directly executed by the CPU"
     ],
-    "answer": "Last In First Out (LIFO) principle"
+    "correctIndex": 2
   }
 ]

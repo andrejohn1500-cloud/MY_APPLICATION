@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'agile software development'",
     "options": [
-      "Improving code structure without changing its external behaviour",
-      "Writing tests before writing the code that makes them pass",
+      "Iterative development with frequent delivery of working software",
+      "Testing individual components of code in isolation",
       "Separates an application into Model, View and Controller components",
-      "Iterative development with frequent delivery of working software"
+      "Automatically deploying tested code to production"
     ],
-    "answer": "Iterative development with frequent delivery of working software"
+    "correctIndex": 0
   },
   {
     "question": "'Scrum framework' uses",
     "options": [
-      "Testing individual components of code in isolation",
-      "Short sprints, daily standups and a product backlog",
-      "Track and manage changes to code over time",
-      "That different modules work correctly when combined"
+      "Improving code structure without changing its external behaviour",
+      "Reusable solutions to commonly occurring software design problems",
+      "Stateless, client-server architecture using standard HTTP methods",
+      "Short sprints, daily standups and a product backlog"
     ],
-    "answer": "Short sprints, daily standups and a product backlog"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'DevOps'",
     "options": [
-      "Stateless, client-server architecture using standard HTTP methods",
       "Improving code structure without changing its external behaviour",
       "Combining development and operations for faster, more reliable software delivery",
+      "The implied cost of future rework caused by quick, easy solutions now",
       "Automatically building and testing code whenever changes are committed"
     ],
-    "answer": "Combining development and operations for faster, more reliable software delivery"
+    "correctIndex": 1
   },
   {
     "question": "'Continuous integration' (CI)",
     "options": [
       "Automatically building and testing code whenever changes are committed",
-      "Combining development and operations for faster, more reliable software delivery",
       "The implied cost of future rework caused by quick, easy solutions now",
-      "Stateless, client-server architecture using standard HTTP methods"
+      "Short sprints, daily standups and a product backlog",
+      "Writing tests before writing the code that makes them pass"
     ],
-    "answer": "Automatically building and testing code whenever changes are committed"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'continuous deployment' (CD)",
     "options": [
-      "Stateless, client-server architecture using standard HTTP methods",
+      "Iterative development with frequent delivery of working software",
       "Automatically deploying tested code to production",
-      "Writing tests before writing the code that makes them pass",
-      "Testing individual components of code in isolation"
+      "Applications built as independently deployable services communicating via APIs",
+      "Short sprints, daily standups and a product backlog"
     ],
-    "answer": "Automatically deploying tested code to production"
+    "correctIndex": 1
   },
   {
     "question": "'Version control systems' (e.g. Git)",
     "options": [
-      "Testing individual components of code in isolation",
+      "That different modules work correctly when combined",
       "Track and manage changes to code over time",
-      "Automatically building and testing code whenever changes are committed",
-      "That different modules work correctly when combined"
+      "Separates an application into Model, View and Controller components",
+      "Iterative development with frequent delivery of working software"
     ],
-    "answer": "Track and manage changes to code over time"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'unit testing'",
     "options": [
-      "Automatically building and testing code whenever changes are committed",
       "Automatically deploying tested code to production",
-      "Testing individual components of code in isolation",
-      "Applications built as independently deployable services communicating via APIs"
+      "Writing tests before writing the code that makes them pass",
+      "Track and manage changes to code over time",
+      "Testing individual components of code in isolation"
     ],
-    "answer": "Testing individual components of code in isolation"
+    "correctIndex": 3
   },
   {
     "question": "'Integration testing' verifies",
     "options": [
-      "Reusable solutions to commonly occurring software design problems",
+      "Combining development and operations for faster, more reliable software delivery",
       "That different modules work correctly when combined",
-      "The implied cost of future rework caused by quick, easy solutions now",
-      "Automatically building and testing code whenever changes are committed"
+      "Reusable solutions to commonly occurring software design problems",
+      "Track and manage changes to code over time"
     ],
-    "answer": "That different modules work correctly when combined"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'test-driven development' (TDD)",
     "options": [
-      "Applications built as independently deployable services communicating via APIs",
-      "Writing tests before writing the code that makes them pass",
+      "Testing individual components of code in isolation",
+      "The implied cost of future rework caused by quick, easy solutions now",
       "Track and manage changes to code over time",
-      "Improving code structure without changing its external behaviour"
+      "Writing tests before writing the code that makes them pass"
     ],
-    "answer": "Writing tests before writing the code that makes them pass"
+    "correctIndex": 3
   },
   {
     "question": "'Code refactoring' involves",
     "options": [
-      "Short sprints, daily standups and a product backlog",
-      "Iterative development with frequent delivery of working software",
-      "Track and manage changes to code over time",
+      "Automatically building and testing code whenever changes are committed",
+      "Writing tests before writing the code that makes them pass",
+      "Combining development and operations for faster, more reliable software delivery",
       "Improving code structure without changing its external behaviour"
     ],
-    "answer": "Improving code structure without changing its external behaviour"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'technical debt'",
     "options": [
-      "Automatically building and testing code whenever changes are committed",
-      "Separates an application into Model, View and Controller components",
+      "That different modules work correctly when combined",
       "The implied cost of future rework caused by quick, easy solutions now",
-      "Reusable solutions to commonly occurring software design problems"
+      "Short sprints, daily standups and a product backlog",
+      "Iterative development with frequent delivery of working software"
     ],
-    "answer": "The implied cost of future rework caused by quick, easy solutions now"
+    "correctIndex": 1
   },
   {
     "question": "'Software design patterns' provide",
     "options": [
-      "Separates an application into Model, View and Controller components",
-      "Applications built as independently deployable services communicating via APIs",
-      "Track and manage changes to code over time",
-      "Reusable solutions to commonly occurring software design problems"
+      "Reusable solutions to commonly occurring software design problems",
+      "Automatically deploying tested code to production",
+      "Short sprints, daily standups and a product backlog",
+      "Improving code structure without changing its external behaviour"
     ],
-    "answer": "Reusable solutions to commonly occurring software design problems"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'the MVC pattern'",
     "options": [
-      "Automatically deploying tested code to production",
-      "That different modules work correctly when combined",
       "Separates an application into Model, View and Controller components",
-      "Short sprints, daily standups and a product backlog"
+      "Combining development and operations for faster, more reliable software delivery",
+      "Automatically deploying tested code to production",
+      "Applications built as independently deployable services communicating via APIs"
     ],
-    "answer": "Separates an application into Model, View and Controller components"
+    "correctIndex": 0
   },
   {
     "question": "'API design principles' (REST)",
     "options": [
-      "Improving code structure without changing its external behaviour",
-      "Separates an application into Model, View and Controller components",
+      "Applications built as independently deployable services communicating via APIs",
+      "Automatically deploying tested code to production",
       "Stateless, client-server architecture using standard HTTP methods",
       "Testing individual components of code in isolation"
     ],
-    "answer": "Stateless, client-server architecture using standard HTTP methods"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'microservices architecture'",
     "options": [
-      "Separates an application into Model, View and Controller components",
+      "Automatically deploying tested code to production",
+      "Iterative development with frequent delivery of working software",
       "Applications built as independently deployable services communicating via APIs",
-      "Writing tests before writing the code that makes them pass",
-      "The implied cost of future rework caused by quick, easy solutions now"
+      "Improving code structure without changing its external behaviour"
     ],
-    "answer": "Applications built as independently deployable services communicating via APIs"
+    "correctIndex": 2
   }
 ]

@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'customer service excellence'",
     "options": [
-      "Remaining calm, empathetic and solution-focused",
-      "How likely customers are to recommend a business to others",
       "Consistently meeting or exceeding customer expectations",
-      "Employees who receive services from colleagues within the same organisation"
+      "Visualising every interaction a customer has with an organisation",
+      "A commitment to deliver specific service standards within defined timeframes",
+      "Actions taken to resolve a customer complaint and restore satisfaction"
     ],
-    "answer": "Consistently meeting or exceeding customer expectations"
+    "correctIndex": 0
   },
   {
     "question": "'Customer lifetime value' measures",
     "options": [
-      "Resolving a customer issue on the first interaction without follow-up",
-      "Loyalty programmes, personalised service and proactive communication",
-      "Consistently meeting or exceeding customer expectations",
-      "The total revenue a business can expect from a single customer over time"
+      "Actions taken to resolve a customer complaint and restore satisfaction",
+      "The total revenue a business can expect from a single customer over time",
+      "How likely customers are to recommend a business to others",
+      "Employees who receive services from colleagues within the same organisation"
     ],
-    "answer": "The total revenue a business can expect from a single customer over time"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'service recovery'",
     "options": [
-      "How likely customers are to recommend a business to others",
+      "The total revenue a business can expect from a single customer over time",
+      "Employees who receive services from colleagues within the same organisation",
       "Actions taken to resolve a customer complaint and restore satisfaction",
-      "A commitment to deliver specific service standards within defined timeframes",
-      "The total revenue a business can expect from a single customer over time"
+      "Resolving a customer issue on the first interaction without follow-up"
     ],
-    "answer": "Actions taken to resolve a customer complaint and restore satisfaction"
+    "correctIndex": 2
   },
   {
     "question": "'Net promoter score' (NPS) measures",
     "options": [
-      "How likely customers are to recommend a business to others",
-      "Actions taken to resolve a customer complaint and restore satisfaction",
+      "Remaining calm, empathetic and solution-focused",
       "Consistently meeting or exceeding customer expectations",
-      "Visualising every interaction a customer has with an organisation"
+      "Surveys, comment cards, online reviews and mystery shopping",
+      "How likely customers are to recommend a business to others"
     ],
-    "answer": "How likely customers are to recommend a business to others"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'customer journey mapping'",
     "options": [
+      "Loyalty programmes, personalised service and proactive communication",
       "Visualising every interaction a customer has with an organisation",
-      "Providing consistent service across all communication channels",
-      "Define when and how complaints should be referred to higher authority",
-      "Actions taken to resolve a customer complaint and restore satisfaction"
+      "How likely customers are to recommend a business to others",
+      "Recognising and responding appropriately to customers' emotional states"
     ],
-    "answer": "Visualising every interaction a customer has with an organisation"
+    "correctIndex": 1
   },
   {
     "question": "'Active listening' in customer service involves",
     "options": [
+      "Providing consistent service across all communication channels",
+      "Define when and how complaints should be referred to higher authority",
       "Actions taken to resolve a customer complaint and restore satisfaction",
-      "Visualising every interaction a customer has with an organisation",
-      "Resolving a customer issue on the first interaction without follow-up",
       "Giving full attention, asking clarifying questions and paraphrasing"
     ],
-    "answer": "Giving full attention, asking clarifying questions and paraphrasing"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'handling difficult customers'",
     "options": [
       "Remaining calm, empathetic and solution-focused",
-      "A commitment to deliver specific service standards within defined timeframes",
-      "Consistently meeting or exceeding customer expectations",
-      "Loyalty programmes, personalised service and proactive communication"
+      "Employees who receive services from colleagues within the same organisation",
+      "Giving full attention, asking clarifying questions and paraphrasing",
+      "A commitment to deliver specific service standards within defined timeframes"
     ],
-    "answer": "Remaining calm, empathetic and solution-focused"
+    "correctIndex": 0
   },
   {
     "question": "'First contact resolution'",
     "options": [
-      "Providing consistent service across all communication channels",
-      "Loyalty programmes, personalised service and proactive communication",
-      "Recognising and responding appropriately to customers' emotional states",
+      "Consistently meeting or exceeding customer expectations",
+      "Actions taken to resolve a customer complaint and restore satisfaction",
+      "Define when and how complaints should be referred to higher authority",
       "Resolving a customer issue on the first interaction without follow-up"
     ],
-    "answer": "Resolving a customer issue on the first interaction without follow-up"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'omnichannel customer service'",
     "options": [
-      "Consistently meeting or exceeding customer expectations",
+      "Giving full attention, asking clarifying questions and paraphrasing",
+      "Employees who receive services from colleagues within the same organisation",
       "Providing consistent service across all communication channels",
-      "Loyalty programmes, personalised service and proactive communication",
-      "Recognising and responding appropriately to customers' emotional states"
+      "The total revenue a business can expect from a single customer over time"
     ],
-    "answer": "Providing consistent service across all communication channels"
+    "correctIndex": 2
   },
   {
     "question": "'Customer feedback systems' include",
     "options": [
-      "Visualising every interaction a customer has with an organisation",
-      "Surveys, comment cards, online reviews and mystery shopping",
-      "Providing consistent service across all communication channels",
-      "Actions taken to resolve a customer complaint and restore satisfaction"
+      "Giving full attention, asking clarifying questions and paraphrasing",
+      "Loyalty programmes, personalised service and proactive communication",
+      "Employees who receive services from colleagues within the same organisation",
+      "Surveys, comment cards, online reviews and mystery shopping"
     ],
-    "answer": "Surveys, comment cards, online reviews and mystery shopping"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'service level agreement' (SLA)",
     "options": [
-      "Actions taken to resolve a customer complaint and restore satisfaction",
-      "How likely customers are to recommend a business to others",
-      "Providing consistent service across all communication channels",
+      "Loyalty programmes, personalised service and proactive communication",
+      "Consistently meeting or exceeding customer expectations",
+      "Employees who receive services from colleagues within the same organisation",
       "A commitment to deliver specific service standards within defined timeframes"
     ],
-    "answer": "A commitment to deliver specific service standards within defined timeframes"
+    "correctIndex": 3
   },
   {
     "question": "'Complaint escalation procedures'",
     "options": [
       "Define when and how complaints should be referred to higher authority",
-      "Loyalty programmes, personalised service and proactive communication",
-      "Giving full attention, asking clarifying questions and paraphrasing",
-      "Resolving a customer issue on the first interaction without follow-up"
+      "Consistently meeting or exceeding customer expectations",
+      "Resolving a customer issue on the first interaction without follow-up",
+      "Loyalty programmes, personalised service and proactive communication"
     ],
-    "answer": "Define when and how complaints should be referred to higher authority"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'internal customer'",
     "options": [
       "Employees who receive services from colleagues within the same organisation",
-      "Consistently meeting or exceeding customer expectations",
-      "Surveys, comment cards, online reviews and mystery shopping",
+      "Visualising every interaction a customer has with an organisation",
+      "Providing consistent service across all communication channels",
       "Giving full attention, asking clarifying questions and paraphrasing"
     ],
-    "answer": "Employees who receive services from colleagues within the same organisation"
+    "correctIndex": 0
   },
   {
     "question": "'Customer retention strategies' include",
     "options": [
+      "The total revenue a business can expect from a single customer over time",
       "Employees who receive services from colleagues within the same organisation",
-      "Visualising every interaction a customer has with an organisation",
-      "How likely customers are to recommend a business to others",
-      "Loyalty programmes, personalised service and proactive communication"
+      "Loyalty programmes, personalised service and proactive communication",
+      "Actions taken to resolve a customer complaint and restore satisfaction"
     ],
-    "answer": "Loyalty programmes, personalised service and proactive communication"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'emotional intelligence in customer service'",
     "options": [
-      "Recognising and responding appropriately to customers' emotional states",
       "A commitment to deliver specific service standards within defined timeframes",
-      "Giving full attention, asking clarifying questions and paraphrasing",
-      "Employees who receive services from colleagues within the same organisation"
+      "Resolving a customer issue on the first interaction without follow-up",
+      "Recognising and responding appropriately to customers' emotional states",
+      "Surveys, comment cards, online reviews and mystery shopping"
     ],
-    "answer": "Recognising and responding appropriately to customers' emotional states"
+    "correctIndex": 2
   }
 ]

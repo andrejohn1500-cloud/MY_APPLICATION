@@ -2,151 +2,151 @@
   {
     "question": "Solve: 2^(2x) − 5(2^x) + 4 = 0",
     "options": [
-      "x = 0 or x = 2",
-      "1 + 5x + 10x²",
       "10",
-      "13"
+      "13",
+      "x = 0 or x = 2",
+      "k ≤ 3"
     ],
-    "answer": "x = 0 or x = 2"
+    "correctIndex": 2
   },
   {
     "question": "Sum of first 8 terms of GP: 1, 2, 4, 8...",
     "options": [
-      "10",
-      "x = 0 and x = 2",
-      "1 + 5x + 10x²",
-      "255"
+      "255",
+      "0",
+      "x = 0 or x = 2",
+      "13"
     ],
-    "answer": "255"
+    "correctIndex": 0
   },
   {
     "question": "Inverse of f(x) = 3x − 5",
     "options": [
-      "12cm",
-      "k ≤ 3",
-      "x = 5",
-      "f⁻¹(x) = (x + 5)/3"
+      "y = 3x − 12",
+      "16cm",
+      "f⁻¹(x) = (x + 5)/3",
+      "1 + 5x + 10x²"
     ],
-    "answer": "f⁻¹(x) = (x + 5)/3"
+    "correctIndex": 2
   },
   {
     "question": "Circle radius 10cm, chord 6cm from centre; length of chord",
     "options": [
-      "16cm",
       "255",
-      "10",
-      "x = 0 or x = 2"
+      "16cm",
+      "k ≤ 3",
+      "56"
     ],
-    "answer": "16cm"
+    "correctIndex": 1
   },
   {
     "question": "Expand using binomial theorem: (1 + x)⁵ first three terms",
     "options": [
       "1 + 5x + 10x²",
-      "y = 3x − 12",
-      "x = 0 or x = 2",
-      "13"
+      "16cm",
+      "13",
+      "80"
     ],
-    "answer": "1 + 5x + 10x²"
+    "correctIndex": 0
   },
   {
     "question": "Solve: log x + log(x − 3) = 1 (base 10)",
     "options": [
-      "0",
       "x = 5",
-      "1 + 5x + 10x²",
-      "12cm"
+      "56",
+      "80",
+      "x = 0 and x = 2"
     ],
-    "answer": "x = 5"
+    "correctIndex": 0
   },
   {
     "question": "Equation of perpendicular bisector of A(2,4) and B(8,2)",
     "options": [
-      "f⁻¹(x) = (x + 5)/3",
-      "y = 3x − 12",
-      "x = 5",
-      "1 + 5x + 10x²"
+      "16cm",
+      "56",
+      "255",
+      "y = 3x − 12"
     ],
-    "answer": "y = 3x − 12"
+    "correctIndex": 3
   },
   {
     "question": "Particle: s = t³ − 6t² + 9t; velocity at t = 3",
     "options": [
-      "1 + 5x + 10x²",
-      "10",
+      "255",
+      "16cm",
       "0",
       "y = 3x − 12"
     ],
-    "answer": "0"
+    "correctIndex": 2
   },
   {
     "question": "Coefficient of x² in (2 + x)⁵",
     "options": [
       "80",
-      "1 + 5x + 10x²",
-      "y = 3x − 12",
-      "56"
+      "x = 5",
+      "10",
+      "12cm"
     ],
-    "answer": "80"
+    "correctIndex": 0
   },
   {
     "question": "Range of k for kx² − 6x + 3 = 0 to have real roots",
     "options": [
-      "0",
       "k ≤ 3",
-      "1 + 5x + 10x²",
-      "10"
+      "80",
+      "13",
+      "0"
     ],
-    "answer": "k ≤ 3"
+    "correctIndex": 0
   },
   {
     "question": "Evaluate: ∫₁³ (2x + 1) dx",
     "options": [
-      "13",
-      "10",
-      "255",
-      "y = 3x − 12"
+      "0",
+      "y = 3x − 12",
+      "1 + 5x + 10x²",
+      "10"
     ],
-    "answer": "10"
+    "correctIndex": 3
   },
   {
     "question": "Sector area 12π cm², angle 30°; find radius",
     "options": [
-      "16cm",
-      "255",
-      "10",
+      "80",
+      "56",
+      "x = 0 and x = 2",
       "12cm"
     ],
-    "answer": "12cm"
+    "correctIndex": 3
   },
   {
     "question": "Ways to select 3 students from 8",
     "options": [
-      "10",
+      "0",
       "56",
-      "y = 3x − 12",
+      "80",
       "12cm"
     ],
-    "answer": "56"
+    "correctIndex": 1
   },
   {
     "question": "If z = 2 + 3i, find |z|²",
     "options": [
       "13",
+      "x = 0 or x = 2",
       "0",
-      "255",
-      "y = 3x − 12"
+      "k ≤ 3"
     ],
-    "answer": "13"
+    "correctIndex": 0
   },
   {
     "question": "Stationary values of y = x³ − 3x²: x-coordinates",
     "options": [
-      "10",
-      "k ≤ 3",
       "x = 0 and x = 2",
-      "56"
+      "80",
+      "1 + 5x + 10x²",
+      "0"
     ],
-    "answer": "x = 0 and x = 2"
+    "correctIndex": 0
   }
 ]

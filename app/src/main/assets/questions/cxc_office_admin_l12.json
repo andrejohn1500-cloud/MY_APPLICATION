@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'job specification'",
     "options": [
-      "Formal processes for addressing employee misconduct or poor performance",
-      "The emotional commitment employees have to their organisation and its goals",
       "Lists the qualifications, skills and experience required for a position",
-      "Reducing applicants to those best meeting the job requirements"
+      "Testimonials from previous employers about a candidate's performance",
+      "An employer's conduct forces an employee to resign",
+      "Standardised tests measuring aptitude, personality or intelligence"
     ],
-    "answer": "Lists the qualifications, skills and experience required for a position"
+    "correctIndex": 0
   },
   {
     "question": "A 'job description' outlines",
     "options": [
-      "An initial trial period during which a new employee's performance is assessed",
       "Dismissal because a job role is no longer needed",
       "The duties, responsibilities and reporting structure of a position",
-      "Lists the qualifications, skills and experience required for a position"
+      "Varied hours, remote work or job sharing to improve work-life balance",
+      "Formal processes for addressing employee misconduct or poor performance"
     ],
-    "answer": "The duties, responsibilities and reporting structure of a position"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'shortlisting' in recruitment",
     "options": [
-      "Identifying and developing internal talent to fill future leadership positions",
-      "Formal processes for addressing employee misconduct or poor performance",
-      "Understand why employees leave and improve retention",
-      "Reducing applicants to those best meeting the job requirements"
+      "Varied hours, remote work or job sharing to improve work-life balance",
+      "Reducing applicants to those best meeting the job requirements",
+      "Lists the qualifications, skills and experience required for a position",
+      "The emotional commitment employees have to their organisation and its goals"
     ],
-    "answer": "Reducing applicants to those best meeting the job requirements"
+    "correctIndex": 1
   },
   {
     "question": "'Structured interviews' use",
     "options": [
-      "Formal processes for addressing employee misconduct or poor performance",
-      "Understand why employees leave and improve retention",
-      "The duties, responsibilities and reporting structure of a position",
-      "Pre-set questions asked consistently to all candidates"
+      "Pre-set questions asked consistently to all candidates",
+      "Lists the qualifications, skills and experience required for a position",
+      "Dismissal because a job role is no longer needed",
+      "Standardised tests measuring aptitude, personality or intelligence"
     ],
-    "answer": "Pre-set questions asked consistently to all candidates"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'psychometric testing'",
     "options": [
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "An employer's conduct forces an employee to resign",
       "Standardised tests measuring aptitude, personality or intelligence",
-      "The emotional commitment employees have to their organisation and its goals"
+      "An initial trial period during which a new employee's performance is assessed",
+      "Formally raise and resolve workplace complaints",
+      "Identifying and developing internal talent to fill future leadership positions"
     ],
-    "answer": "Standardised tests measuring aptitude, personality or intelligence"
+    "correctIndex": 0
   },
   {
     "question": "'References' in recruitment",
     "options": [
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Formal processes for addressing employee misconduct or poor performance",
+      "An employer's conduct forces an employee to resign",
+      "Formally raise and resolve workplace complaints",
       "Testimonials from previous employers about a candidate's performance",
-      "Identifying and developing internal talent to fill future leadership positions"
+      "Pre-set questions asked consistently to all candidates"
     ],
-    "answer": "Testimonials from previous employers about a candidate's performance"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'probationary period'",
     "options": [
       "An initial trial period during which a new employee's performance is assessed",
-      "Formal processes for addressing employee misconduct or poor performance",
+      "Varied hours, remote work or job sharing to improve work-life balance",
       "Lists the qualifications, skills and experience required for a position",
-      "Standardised tests measuring aptitude, personality or intelligence"
+      "An employer's conduct forces an employee to resign"
     ],
-    "answer": "An initial trial period during which a new employee's performance is assessed"
+    "correctIndex": 0
   },
   {
     "question": "'Exit interviews' help organisations",
     "options": [
-      "Understand why employees leave and improve retention",
       "The emotional commitment employees have to their organisation and its goals",
-      "An employer's conduct forces an employee to resign",
-      "Testimonials from previous employers about a candidate's performance"
+      "Standardised tests measuring aptitude, personality or intelligence",
+      "Understand why employees leave and improve retention",
+      "Pre-set questions asked consistently to all candidates"
     ],
-    "answer": "Understand why employees leave and improve retention"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'disciplinary procedures'",
     "options": [
-      "Pre-set questions asked consistently to all candidates",
-      "Reducing applicants to those best meeting the job requirements",
       "Formal processes for addressing employee misconduct or poor performance",
+      "Understand why employees leave and improve retention",
+      "Identifying and developing internal talent to fill future leadership positions",
       "An employer's conduct forces an employee to resign"
     ],
-    "answer": "Formal processes for addressing employee misconduct or poor performance"
+    "correctIndex": 0
   },
   {
     "question": "'Grievance procedures' allow employees to",
     "options": [
-      "Understand why employees leave and improve retention",
+      "Testimonials from previous employers about a candidate's performance",
       "Formally raise and resolve workplace complaints",
-      "The emotional commitment employees have to their organisation and its goals",
-      "An initial trial period during which a new employee's performance is assessed"
+      "Standardised tests measuring aptitude, personality or intelligence",
+      "Reducing applicants to those best meeting the job requirements"
     ],
-    "answer": "Formally raise and resolve workplace complaints"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'redundancy'",
     "options": [
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Pre-set questions asked consistently to all candidates",
-      "Dismissal because a job role is no longer needed"
+      "Testimonials from previous employers about a candidate's performance",
+      "The emotional commitment employees have to their organisation and its goals",
+      "Dismissal because a job role is no longer needed",
+      "An employer's conduct forces an employee to resign"
     ],
-    "answer": "Dismissal because a job role is no longer needed"
+    "correctIndex": 2
   },
   {
     "question": "'Constructive dismissal' occurs when",
     "options": [
-      "Dismissal because a job role is no longer needed",
-      "Identifying and developing internal talent to fill future leadership positions",
+      "The emotional commitment employees have to their organisation and its goals",
       "An employer's conduct forces an employee to resign",
-      "Pre-set questions asked consistently to all candidates"
+      "Standardised tests measuring aptitude, personality or intelligence",
+      "The duties, responsibilities and reporting structure of a position"
     ],
-    "answer": "An employer's conduct forces an employee to resign"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'flexible working arrangements'",
     "options": [
       "Varied hours, remote work or job sharing to improve work-life balance",
-      "An initial trial period during which a new employee's performance is assessed",
-      "Understand why employees leave and improve retention",
-      "Dismissal because a job role is no longer needed"
+      "Pre-set questions asked consistently to all candidates",
+      "Lists the qualifications, skills and experience required for a position",
+      "Standardised tests measuring aptitude, personality or intelligence"
     ],
-    "answer": "Varied hours, remote work or job sharing to improve work-life balance"
+    "correctIndex": 0
   },
   {
     "question": "'Employee engagement' measures",
     "options": [
-      "Reducing applicants to those best meeting the job requirements",
-      "The emotional commitment employees have to their organisation and its goals",
-      "Identifying and developing internal talent to fill future leadership positions",
-      "Formally raise and resolve workplace complaints"
+      "An employer's conduct forces an employee to resign",
+      "Dismissal because a job role is no longer needed",
+      "Understand why employees leave and improve retention",
+      "The emotional commitment employees have to their organisation and its goals"
     ],
-    "answer": "The emotional commitment employees have to their organisation and its goals"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'succession planning'",
     "options": [
+      "Varied hours, remote work or job sharing to improve work-life balance",
+      "Formal processes for addressing employee misconduct or poor performance",
       "Identifying and developing internal talent to fill future leadership positions",
-      "The duties, responsibilities and reporting structure of a position",
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "Reducing applicants to those best meeting the job requirements"
+      "Standardised tests measuring aptitude, personality or intelligence"
     ],
-    "answer": "Identifying and developing internal talent to fill future leadership positions"
+    "correctIndex": 2
   }
 ]

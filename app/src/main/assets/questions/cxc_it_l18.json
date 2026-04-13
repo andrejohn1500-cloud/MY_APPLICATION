@@ -3,150 +3,150 @@
     "question": "The concept of 'the semantic web' (Web 3.0)",
     "options": [
       "Direct communication pathways between the brain and external devices",
-      "Blockchain-based organisations governed by code and token holders",
+      "Technology seamlessly embedded in the environment responding to users naturally",
       "Machine-readable web where data is linked and has meaning",
-      "Theoretically unhackable communication using quantum entanglement"
+      "Overlaying digital content on the real world using devices"
     ],
-    "answer": "Machine-readable web where data is linked and has meaning"
+    "correctIndex": 2
   },
   {
     "question": "'Decentralised autonomous organisations' (DAOs)",
     "options": [
-      "Machine-readable web where data is linked and has meaning",
-      "Decentralisation, token-based economics and user ownership of data",
       "Blockchain-based organisations governed by code and token holders",
-      "Determining how self-governing AI systems should make moral decisions"
+      "Determining how self-governing AI systems should make moral decisions",
+      "Direct communication pathways between the brain and external devices",
+      "Theoretically unhackable communication using quantum entanglement"
     ],
-    "answer": "Blockchain-based organisations governed by code and token holders"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'non-fungible tokens' (NFTs)",
     "options": [
       "Systems that can recognise, interpret and simulate human emotions",
-      "Direct communication pathways between the brain and external devices",
-      "Technology seamlessly embedded in the environment responding to users naturally",
+      "Virtual replicas of physical systems updated in real-time from sensor data",
+      "Hypothetical matter that can change physical properties on command",
       "Unique digital assets verified on a blockchain"
     ],
-    "answer": "Unique digital assets verified on a blockchain"
+    "correctIndex": 3
   },
   {
     "question": "'Web3 principles' include",
     "options": [
-      "Systems that can recognise, interpret and simulate human emotions",
       "Decentralisation, token-based economics and user ownership of data",
-      "Theoretically unhackable communication using quantum entanglement",
-      "Determining how self-governing AI systems should make moral decisions"
+      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
+      "Virtual replicas of physical systems updated in real-time from sensor data",
+      "Overlaying digital content on the real world using devices"
     ],
-    "answer": "Decentralisation, token-based economics and user ownership of data"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'augmented reality' development",
     "options": [
-      "Virtual replicas of physical systems updated in real-time from sensor data",
-      "Overlaying digital content on the real world using devices",
+      "Dividing 5G network into virtual networks with specific characteristics for different uses",
+      "Direct communication pathways between the brain and external devices",
       "Unique digital assets verified on a blockchain",
-      "Determining how self-governing AI systems should make moral decisions"
+      "Overlaying digital content on the real world using devices"
     ],
-    "answer": "Overlaying digital content on the real world using devices"
+    "correctIndex": 3
   },
   {
     "question": "'Digital twins' in IT",
     "options": [
-      "Direct communication pathways between the brain and external devices",
+      "Unique digital assets verified on a blockchain",
       "Overlaying digital content on the real world using devices",
-      "Virtual replicas of physical systems updated in real-time from sensor data",
-      "Dividing 5G network into virtual networks with specific characteristics for different uses"
+      "Blockchain-based organisations governed by code and token holders",
+      "Virtual replicas of physical systems updated in real-time from sensor data"
     ],
-    "answer": "Virtual replicas of physical systems updated in real-time from sensor data"
+    "correctIndex": 3
   },
   {
     "question": "The concept of '5G network slicing'",
     "options": [
-      "Determining how self-governing AI systems should make moral decisions",
       "Dividing 5G network into virtual networks with specific characteristics for different uses",
-      "Machine-readable web where data is linked and has meaning",
-      "Overlaying digital content on the real world using devices"
+      "Unique digital assets verified on a blockchain",
+      "Determining how self-governing AI systems should make moral decisions",
+      "Hypothetical matter that can change physical properties on command"
     ],
-    "answer": "Dividing 5G network into virtual networks with specific characteristics for different uses"
+    "correctIndex": 0
   },
   {
     "question": "'Brain-computer interfaces' (BCI)",
     "options": [
-      "Systems that can recognise, interpret and simulate human emotions",
-      "Determining how self-governing AI systems should make moral decisions",
+      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
       "Direct communication pathways between the brain and external devices",
-      "Decentralisation, token-based economics and user ownership of data"
+      "Decentralisation, token-based economics and user ownership of data",
+      "Technology seamlessly embedded in the environment responding to users naturally"
     ],
-    "answer": "Direct communication pathways between the brain and external devices"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'ambient computing'",
     "options": [
+      "Overlaying digital content on the real world using devices",
+      "Decentralisation, token-based economics and user ownership of data",
       "Technology seamlessly embedded in the environment responding to users naturally",
-      "Determining how self-governing AI systems should make moral decisions",
-      "Blockchain-based organisations governed by code and token holders",
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission"
+      "Virtual replicas of physical systems updated in real-time from sensor data"
     ],
-    "answer": "Technology seamlessly embedded in the environment responding to users naturally"
+    "correctIndex": 2
   },
   {
     "question": "'Swarm robotics' is inspired by",
     "options": [
-      "Decentralisation, token-based economics and user ownership of data",
-      "Blockchain-based organisations governed by code and token holders",
-      "Hypothetical matter that can change physical properties on command",
-      "Collective behaviour of social insects to coordinate large groups of simple robots"
+      "Collective behaviour of social insects to coordinate large groups of simple robots",
+      "Overlaying digital content on the real world using devices",
+      "Direct communication pathways between the brain and external devices",
+      "Blockchain-based organisations governed by code and token holders"
     ],
-    "answer": "Collective behaviour of social insects to coordinate large groups of simple robots"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'affective computing'",
     "options": [
+      "Dividing 5G network into virtual networks with specific characteristics for different uses",
+      "Direct communication pathways between the brain and external devices",
       "Systems that can recognise, interpret and simulate human emotions",
-      "Overlaying digital content on the real world using devices",
-      "Machine-readable web where data is linked and has meaning",
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission"
+      "Technology seamlessly embedded in the environment responding to users naturally"
     ],
-    "answer": "Systems that can recognise, interpret and simulate human emotions"
+    "correctIndex": 2
   },
   {
     "question": "'Quantum internet' would enable",
     "options": [
-      "Blockchain-based organisations governed by code and token holders",
-      "Systems that can recognise, interpret and simulate human emotions",
-      "Collective behaviour of social insects to coordinate large groups of simple robots",
-      "Theoretically unhackable communication using quantum entanglement"
+      "Theoretically unhackable communication using quantum entanglement",
+      "Technology seamlessly embedded in the environment responding to users naturally",
+      "Decentralisation, token-based economics and user ownership of data",
+      "Overlaying digital content on the real world using devices"
     ],
-    "answer": "Theoretically unhackable communication using quantum entanglement"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'space computing'",
     "options": [
       "Machine-readable web where data is linked and has meaning",
+      "Determining how self-governing AI systems should make moral decisions",
       "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Unique digital assets verified on a blockchain",
-      "Systems that can recognise, interpret and simulate human emotions"
+      "Decentralisation, token-based economics and user ownership of data"
     ],
-    "answer": "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission"
+    "correctIndex": 2
   },
   {
     "question": "'Programmable matter'",
     "options": [
-      "Blockchain-based organisations governed by code and token holders",
-      "Decentralisation, token-based economics and user ownership of data",
-      "Determining how self-governing AI systems should make moral decisions",
-      "Hypothetical matter that can change physical properties on command"
+      "Hypothetical matter that can change physical properties on command",
+      "Machine-readable web where data is linked and has meaning",
+      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
+      "Virtual replicas of physical systems updated in real-time from sensor data"
     ],
-    "answer": "Hypothetical matter that can change physical properties on command"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'autonomous systems ethics'",
     "options": [
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Hypothetical matter that can change physical properties on command",
       "Decentralisation, token-based economics and user ownership of data",
+      "Hypothetical matter that can change physical properties on command",
+      "Dividing 5G network into virtual networks with specific characteristics for different uses",
       "Determining how self-governing AI systems should make moral decisions"
     ],
-    "answer": "Determining how self-governing AI systems should make moral decisions"
+    "correctIndex": 3
   }
 ]

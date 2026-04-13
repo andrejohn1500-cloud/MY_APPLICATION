@@ -2,151 +2,151 @@
   {
     "question": "The OSI model has how many layers",
     "options": [
-      "The number of transistors on a chip doubles approximately every two years",
-      "7",
-      "Store small pieces of data about user sessions on a website",
-      "Ethernet networks to manage data collisions"
+      "Ethernet networks to manage data collisions",
+      "16",
+      "Ensures reliable end-to-end data delivery",
+      "7"
     ],
-    "answer": "7"
+    "correctIndex": 3
   },
   {
     "question": "IP address version 4 uses",
     "options": [
-      "7",
-      "15",
-      "32-bit addresses expressed as four decimal octets",
-      "Store small pieces of data about user sessions on a website"
+      "Ensures reliable end-to-end data delivery",
+      "A step-by-step set of instructions to solve a problem",
+      "The identity and trustworthiness of a website",
+      "32-bit addresses expressed as four decimal octets"
     ],
-    "answer": "32-bit addresses expressed as four decimal octets"
+    "correctIndex": 3
   },
   {
     "question": "A denial of service (DoS) attack",
     "options": [
       "The identity and trustworthiness of a website",
-      "The number of transistors on a chip doubles approximately every two years",
       "Overwhelms a server with traffic to make it unavailable",
-      "A step-by-step set of instructions to solve a problem"
+      "Store small pieces of data about user sessions on a website",
+      "Automates repetitive tasks using recorded instructions"
     ],
-    "answer": "Overwhelms a server with traffic to make it unavailable"
+    "correctIndex": 1
   },
   {
     "question": "Hexadecimal uses a base of",
     "options": [
-      "15",
-      "Overwhelms a server with traffic to make it unavailable",
-      "Acts as an intermediary between users and the internet",
+      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
+      "7",
+      "The identity and trustworthiness of a website",
       "16"
     ],
-    "answer": "16"
+    "correctIndex": 3
   },
   {
     "question": "Convert hexadecimal F to decimal",
     "options": [
-      "Organises data to reduce redundancy and improve integrity",
-      "Ensures reliable end-to-end data delivery",
-      "A step-by-step set of instructions to solve a problem",
-      "15"
+      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
+      "15",
+      "The number of transistors on a chip doubles approximately every two years",
+      "A step-by-step set of instructions to solve a problem"
     ],
-    "answer": "15"
+    "correctIndex": 1
   },
   {
     "question": "The transport layer of the OSI model",
     "options": [
       "Ensures reliable end-to-end data delivery",
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "A step-by-step set of instructions to solve a problem",
-      "Organises data to reduce redundancy and improve integrity"
+      "Overwhelms a server with traffic to make it unavailable",
+      "Organises data to reduce redundancy and improve integrity",
+      "Acts as an intermediary between users and the internet"
     ],
-    "answer": "Ensures reliable end-to-end data delivery"
+    "correctIndex": 0
   },
   {
     "question": "Normalisation in database design",
     "options": [
-      "15",
       "Organises data to reduce redundancy and improve integrity",
-      "Overwhelms a server with traffic to make it unavailable",
-      "16"
+      "7",
+      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
+      "Overwhelms a server with traffic to make it unavailable"
     ],
-    "answer": "Organises data to reduce redundancy and improve integrity"
+    "correctIndex": 0
   },
   {
     "question": "A macro in a spreadsheet",
     "options": [
-      "32-bit addresses expressed as four decimal octets",
+      "7",
       "Automates repetitive tasks using recorded instructions",
-      "16",
-      "A step-by-step set of instructions to solve a problem"
+      "Ensures reliable end-to-end data delivery",
+      "16"
     ],
-    "answer": "Automates repetitive tasks using recorded instructions"
+    "correctIndex": 1
   },
   {
     "question": "CSMA/CD is a protocol used in",
     "options": [
-      "Ensures reliable end-to-end data delivery",
+      "The number of transistors on a chip doubles approximately every two years",
+      "32-bit addresses expressed as four decimal octets",
       "Ethernet networks to manage data collisions",
-      "16",
-      "Overwhelms a server with traffic to make it unavailable"
+      "7"
     ],
-    "answer": "Ethernet networks to manage data collisions"
+    "correctIndex": 2
   },
   {
     "question": "The purpose of a proxy server",
     "options": [
-      "15",
+      "A step-by-step set of instructions to solve a problem",
       "Acts as an intermediary between users and the internet",
-      "32-bit addresses expressed as four decimal octets",
-      "Organises data to reduce redundancy and improve integrity"
+      "The identity and trustworthiness of a website",
+      "Store small pieces of data about user sessions on a website"
     ],
-    "answer": "Acts as an intermediary between users and the internet"
+    "correctIndex": 1
   },
   {
     "question": "An algorithm is",
     "options": [
+      "The identity and trustworthiness of a website",
       "A step-by-step set of instructions to solve a problem",
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "16",
-      "Acts as an intermediary between users and the internet"
+      "15",
+      "Store small pieces of data about user sessions on a website"
     ],
-    "answer": "A step-by-step set of instructions to solve a problem"
+    "correctIndex": 1
   },
   {
     "question": "Moore's Law states",
     "options": [
-      "Ensures reliable end-to-end data delivery",
-      "The number of transistors on a chip doubles approximately every two years",
+      "15",
       "32-bit addresses expressed as four decimal octets",
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits"
+      "A step-by-step set of instructions to solve a problem",
+      "The number of transistors on a chip doubles approximately every two years"
     ],
-    "answer": "The number of transistors on a chip doubles approximately every two years"
+    "correctIndex": 3
   },
   {
     "question": "A digital certificate verifies",
     "options": [
-      "Ethernet networks to manage data collisions",
+      "32-bit addresses expressed as four decimal octets",
       "15",
-      "Overwhelms a server with traffic to make it unavailable",
+      "16",
       "The identity and trustworthiness of a website"
     ],
-    "answer": "The identity and trustworthiness of a website"
+    "correctIndex": 3
   },
   {
     "question": "The difference between synchronous and asynchronous transmission",
     "options": [
-      "Overwhelms a server with traffic to make it unavailable",
+      "Store small pieces of data about user sessions on a website",
       "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "Acts as an intermediary between users and the internet",
-      "Ethernet networks to manage data collisions"
+      "7",
+      "Ensures reliable end-to-end data delivery"
     ],
-    "answer": "Synchronous uses a shared clock; asynchronous uses start/stop bits"
+    "correctIndex": 1
   },
   {
     "question": "Cookies in web browsing",
     "options": [
+      "The identity and trustworthiness of a website",
+      "The number of transistors on a chip doubles approximately every two years",
       "Store small pieces of data about user sessions on a website",
-      "Automates repetitive tasks using recorded instructions",
-      "32-bit addresses expressed as four decimal octets",
-      "15"
+      "Automates repetitive tasks using recorded instructions"
     ],
-    "answer": "Store small pieces of data about user sessions on a website"
+    "correctIndex": 2
   }
 ]

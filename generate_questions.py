@@ -49,7 +49,8 @@ def make_json(pairs):
         random.shuffle(wrong)
         opts = [a] + wrong[:3]
         random.shuffle(opts)
-        result.append({"question": q, "options": opts, "answer": a})
+        ci = opts.index(a)
+        result.append({"question": q, "options": opts, "correctIndex": ci})
     return result
 
 total = 0

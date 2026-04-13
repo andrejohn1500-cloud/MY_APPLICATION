@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'relational geography'",
     "options": [
-      "Places are defined not by fixed boundaries but by their connections to other places",
-      "Real spaces that simultaneously mirror and disrupt normal social order",
-      "Unequal access to geographic information technology between and within nations",
-      "Non-expert creation and use of geographic tools and data — e.g. Google Maps"
+      "Satellite or aerial imagery to collect geographical data",
+      "The affective bond between people and their physical environment",
+      "Physical geography methods with critical social theory",
+      "Places are defined not by fixed boundaries but by their connections to other places"
     ],
-    "answer": "Places are defined not by fixed boundaries but by their connections to other places"
+    "correctIndex": 3
   },
   {
     "question": "'Non-representational theory' (Thrift)",
     "options": [
+      "The affective bond between people and their physical environment",
       "Computer systems for capturing, storing, analysing and displaying spatial data",
-      "Satellite or aerial imagery to collect geographical data",
       "Geography should focus on embodied practices and experiences rather than representations",
       "Real spaces that simultaneously mirror and disrupt normal social order"
     ],
-    "answer": "Geography should focus on embodied practices and experiences rather than representations"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'emotional geography'",
     "options": [
-      "Local communities in mapping their own environments and needs",
       "Satellite or aerial imagery to collect geographical data",
+      "How power relations shape access to and control over natural resources",
       "Explores how emotions shape and are shaped by places and spaces",
-      "Physical geography methods with critical social theory"
+      "Geography should focus on embodied practices and experiences rather than representations"
     ],
-    "answer": "Explores how emotions shape and are shaped by places and spaces"
+    "correctIndex": 2
   },
   {
     "question": "'Political ecology' examines",
     "options": [
-      "How power relations shape access to and control over natural resources",
+      "Places are defined not by fixed boundaries but by their connections to other places",
+      "Growing recognition of the importance of space and place in social processes",
       "Geography should focus on embodied practices and experiences rather than representations",
-      "Unequal access to geographic information technology between and within nations",
-      "Includes non-human actors — animals, plants, objects — in geographical analysis"
+      "How power relations shape access to and control over natural resources"
     ],
-    "answer": "How power relations shape access to and control over natural resources"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'more-than-human geography'",
     "options": [
+      "Geography should focus on embodied practices and experiences rather than representations",
       "Real spaces that simultaneously mirror and disrupt normal social order",
       "Non-expert creation and use of geographic tools and data — e.g. Google Maps",
-      "Includes non-human actors — animals, plants, objects — in geographical analysis",
-      "Geography should focus on embodied practices and experiences rather than representations"
+      "Includes non-human actors — animals, plants, objects — in geographical analysis"
     ],
-    "answer": "Includes non-human actors — animals, plants, objects — in geographical analysis"
+    "correctIndex": 3
   },
   {
     "question": "'Critical physical geography' combines",
     "options": [
-      "Geography should focus on embodied practices and experiences rather than representations",
-      "Places are defined not by fixed boundaries but by their connections to other places",
+      "Non-expert creation and use of geographic tools and data — e.g. Google Maps",
       "Physical geography methods with critical social theory",
-      "Computer systems for capturing, storing, analysing and displaying spatial data"
+      "Places are defined not by fixed boundaries but by their connections to other places",
+      "Geography should focus on embodied practices and experiences rather than representations"
     ],
-    "answer": "Physical geography methods with critical social theory"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'geographic information systems' (GIS)",
     "options": [
-      "Satellite or aerial imagery to collect geographical data",
       "Computer systems for capturing, storing, analysing and displaying spatial data",
       "Unequal access to geographic information technology between and within nations",
-      "Includes non-human actors — animals, plants, objects — in geographical analysis"
+      "Physical geography methods with critical social theory",
+      "The affective bond between people and their physical environment"
     ],
-    "answer": "Computer systems for capturing, storing, analysing and displaying spatial data"
+    "correctIndex": 0
   },
   {
     "question": "'Remote sensing' in geography uses",
     "options": [
       "Local communities in mapping their own environments and needs",
-      "Unequal access to geographic information technology between and within nations",
       "Satellite or aerial imagery to collect geographical data",
-      "Data created by public contributors — e.g. OpenStreetMap"
+      "Non-expert creation and use of geographic tools and data — e.g. Google Maps",
+      "Explores how emotions shape and are shaped by places and spaces"
     ],
-    "answer": "Satellite or aerial imagery to collect geographical data"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'neogeography'",
     "options": [
-      "Growing recognition of the importance of space and place in social processes",
-      "The affective bond between people and their physical environment",
+      "Explores how emotions shape and are shaped by places and spaces",
       "Non-expert creation and use of geographic tools and data — e.g. Google Maps",
-      "Places are defined not by fixed boundaries but by their connections to other places"
+      "Growing recognition of the importance of space and place in social processes",
+      "Real spaces that simultaneously mirror and disrupt normal social order"
     ],
-    "answer": "Non-expert creation and use of geographic tools and data — e.g. Google Maps"
+    "correctIndex": 1
   },
   {
     "question": "'Participatory GIS' involves",
     "options": [
+      "Computer systems for capturing, storing, analysing and displaying spatial data",
       "Local communities in mapping their own environments and needs",
-      "Places are defined not by fixed boundaries but by their connections to other places",
-      "Satellite or aerial imagery to collect geographical data",
-      "Physical geography methods with critical social theory"
+      "Growing recognition of the importance of space and place in social processes",
+      "Data created by public contributors — e.g. OpenStreetMap"
     ],
-    "answer": "Local communities in mapping their own environments and needs"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'digital divide' in geographic access",
     "options": [
-      "Growing recognition of the importance of space and place in social processes",
       "Unequal access to geographic information technology between and within nations",
-      "Data created by public contributors — e.g. OpenStreetMap",
-      "Physical geography methods with critical social theory"
+      "Satellite or aerial imagery to collect geographical data",
+      "Real spaces that simultaneously mirror and disrupt normal social order",
+      "Computer systems for capturing, storing, analysing and displaying spatial data"
     ],
-    "answer": "Unequal access to geographic information technology between and within nations"
+    "correctIndex": 0
   },
   {
     "question": "'Volunteered geographic information'",
     "options": [
-      "The affective bond between people and their physical environment",
-      "Data created by public contributors — e.g. OpenStreetMap",
-      "Computer systems for capturing, storing, analysing and displaying spatial data",
-      "Local communities in mapping their own environments and needs"
+      "Non-expert creation and use of geographic tools and data — e.g. Google Maps",
+      "Places are defined not by fixed boundaries but by their connections to other places",
+      "Satellite or aerial imagery to collect geographical data",
+      "Data created by public contributors — e.g. OpenStreetMap"
     ],
-    "answer": "Data created by public contributors — e.g. OpenStreetMap"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'the spatial turn' in social sciences",
     "options": [
-      "The affective bond between people and their physical environment",
-      "Places are defined not by fixed boundaries but by their connections to other places",
-      "Includes non-human actors — animals, plants, objects — in geographical analysis",
-      "Growing recognition of the importance of space and place in social processes"
+      "Real spaces that simultaneously mirror and disrupt normal social order",
+      "Growing recognition of the importance of space and place in social processes",
+      "How power relations shape access to and control over natural resources",
+      "Physical geography methods with critical social theory"
     ],
-    "answer": "Growing recognition of the importance of space and place in social processes"
+    "correctIndex": 1
   },
   {
     "question": "'Topophilia' (Tuan) refers to",
     "options": [
       "The affective bond between people and their physical environment",
-      "Data created by public contributors — e.g. OpenStreetMap",
-      "Physical geography methods with critical social theory",
-      "Unequal access to geographic information technology between and within nations"
+      "Computer systems for capturing, storing, analysing and displaying spatial data",
+      "Satellite or aerial imagery to collect geographical data",
+      "Geography should focus on embodied practices and experiences rather than representations"
     ],
-    "answer": "The affective bond between people and their physical environment"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'heterotopia' (Foucault) applied to geography",
     "options": [
-      "Physical geography methods with critical social theory",
       "Real spaces that simultaneously mirror and disrupt normal social order",
-      "Computer systems for capturing, storing, analysing and displaying spatial data",
-      "Non-expert creation and use of geographic tools and data — e.g. Google Maps"
+      "Satellite or aerial imagery to collect geographical data",
+      "Explores how emotions shape and are shaped by places and spaces",
+      "Geography should focus on embodied practices and experiences rather than representations"
     ],
-    "answer": "Real spaces that simultaneously mirror and disrupt normal social order"
+    "correctIndex": 0
   }
 ]

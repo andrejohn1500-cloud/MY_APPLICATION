@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'machine learning types'",
     "options": [
-      "A model learns the training data too well and performs poorly on new data",
+      "Applying knowledge from one trained model to a different but related task",
       "Supervised, unsupervised and reinforcement learning",
-      "Finding patterns in unlabelled data without predefined outputs",
-      "Separate data portions for learning, tuning and final evaluation"
+      "Process sequential data by maintaining memory of previous inputs",
+      "Selecting and transforming input variables to improve model performance"
     ],
-    "answer": "Supervised, unsupervised and reinforcement learning"
+    "correctIndex": 1
   },
   {
     "question": "'Supervised learning' requires",
     "options": [
+      "Techniques to prevent overfitting by penalising model complexity",
+      "Input, hidden and output layers process and transform data",
       "Labelled training data to learn input-output mappings",
-      "Supervised, unsupervised and reinforcement learning",
-      "Finding patterns in unlabelled data without predefined outputs",
-      "Input, hidden and output layers process and transform data"
+      "Biased training data producing unfair or discriminatory outputs"
     ],
-    "answer": "Labelled training data to learn input-output mappings"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'unsupervised learning'",
     "options": [
-      "Biased training data producing unfair or discriminatory outputs",
-      "Separate data portions for learning, tuning and final evaluation",
-      "Finding patterns in unlabelled data without predefined outputs",
-      "Selecting and transforming input variables to improve model performance"
+      "Selecting and transforming input variables to improve model performance",
+      "Supervised, unsupervised and reinforcement learning",
+      "Process sequential data by maintaining memory of previous inputs",
+      "Finding patterns in unlabelled data without predefined outputs"
     ],
-    "answer": "Finding patterns in unlabelled data without predefined outputs"
+    "correctIndex": 3
   },
   {
     "question": "'Reinforcement learning' trains agents by",
     "options": [
+      "Input, hidden and output layers process and transform data",
       "Techniques to prevent overfitting by penalising model complexity",
-      "Selecting and transforming input variables to improve model performance",
       "Rewarding desired behaviours and penalising undesired ones",
-      "Computers to understand, interpret and generate human language"
+      "Biased training data producing unfair or discriminatory outputs"
     ],
-    "answer": "Rewarding desired behaviours and penalising undesired ones"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'neural network layers'",
     "options": [
-      "Input, hidden and output layers process and transform data",
-      "A model learns the training data too well and performs poorly on new data",
-      "Supervised, unsupervised and reinforcement learning",
-      "Selecting and transforming input variables to improve model performance"
+      "Techniques to prevent overfitting by penalising model complexity",
+      "Separate data portions for learning, tuning and final evaluation",
+      "Applying knowledge from one trained model to a different but related task",
+      "Input, hidden and output layers process and transform data"
     ],
-    "answer": "Input, hidden and output layers process and transform data"
+    "correctIndex": 3
   },
   {
     "question": "'Overfitting' in machine learning occurs when",
     "options": [
+      "Process sequential data by maintaining memory of previous inputs",
       "A model learns the training data too well and performs poorly on new data",
       "Finding patterns in unlabelled data without predefined outputs",
-      "Supervised, unsupervised and reinforcement learning",
-      "Biased training data producing unfair or discriminatory outputs"
+      "Selecting and transforming input variables to improve model performance"
     ],
-    "answer": "A model learns the training data too well and performs poorly on new data"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'regularisation' in ML",
     "options": [
+      "Making AI decision-making transparent and understandable to humans",
+      "A model learns the training data too well and performs poorly on new data",
       "Finding patterns in unlabelled data without predefined outputs",
-      "Techniques to prevent overfitting by penalising model complexity",
-      "Computers to understand, interpret and generate human language",
-      "Biased training data producing unfair or discriminatory outputs"
+      "Techniques to prevent overfitting by penalising model complexity"
     ],
-    "answer": "Techniques to prevent overfitting by penalising model complexity"
+    "correctIndex": 3
   },
   {
     "question": "'Feature engineering' in ML",
     "options": [
-      "Applying knowledge from one trained model to a different but related task",
-      "Labelled training data to learn input-output mappings",
+      "A model learns the training data too well and performs poorly on new data",
       "Image recognition and classification tasks",
-      "Selecting and transforming input variables to improve model performance"
+      "Selecting and transforming input variables to improve model performance",
+      "Labelled training data to learn input-output mappings"
     ],
-    "answer": "Selecting and transforming input variables to improve model performance"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'training, validation and test sets'",
     "options": [
-      "Rewarding desired behaviours and penalising undesired ones",
+      "Labelled training data to learn input-output mappings",
       "Separate data portions for learning, tuning and final evaluation",
-      "Selecting and transforming input variables to improve model performance",
-      "A model learns the training data too well and performs poorly on new data"
+      "Supervised, unsupervised and reinforcement learning",
+      "Biased training data producing unfair or discriminatory outputs"
     ],
-    "answer": "Separate data portions for learning, tuning and final evaluation"
+    "correctIndex": 1
   },
   {
     "question": "'Convolutional neural networks' (CNN) excel at",
     "options": [
-      "Input, hidden and output layers process and transform data",
+      "Finding patterns in unlabelled data without predefined outputs",
       "Supervised, unsupervised and reinforcement learning",
       "Image recognition and classification tasks",
       "Separate data portions for learning, tuning and final evaluation"
     ],
-    "answer": "Image recognition and classification tasks"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'recurrent neural networks' (RNN)",
     "options": [
-      "Process sequential data by maintaining memory of previous inputs",
+      "A model learns the training data too well and performs poorly on new data",
       "Biased training data producing unfair or discriminatory outputs",
-      "Labelled training data to learn input-output mappings",
-      "Applying knowledge from one trained model to a different but related task"
+      "Input, hidden and output layers process and transform data",
+      "Process sequential data by maintaining memory of previous inputs"
     ],
-    "answer": "Process sequential data by maintaining memory of previous inputs"
+    "correctIndex": 3
   },
   {
     "question": "'Natural language processing' (NLP) enables",
     "options": [
       "Computers to understand, interpret and generate human language",
-      "Separate data portions for learning, tuning and final evaluation",
-      "Rewarding desired behaviours and penalising undesired ones",
-      "A model learns the training data too well and performs poorly on new data"
+      "Labelled training data to learn input-output mappings",
+      "Applying knowledge from one trained model to a different but related task",
+      "Separate data portions for learning, tuning and final evaluation"
     ],
-    "answer": "Computers to understand, interpret and generate human language"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'transfer learning'",
     "options": [
-      "Rewarding desired behaviours and penalising undesired ones",
-      "A model learns the training data too well and performs poorly on new data",
-      "Labelled training data to learn input-output mappings",
-      "Applying knowledge from one trained model to a different but related task"
+      "Separate data portions for learning, tuning and final evaluation",
+      "Process sequential data by maintaining memory of previous inputs",
+      "Applying knowledge from one trained model to a different but related task",
+      "Selecting and transforming input variables to improve model performance"
     ],
-    "answer": "Applying knowledge from one trained model to a different but related task"
+    "correctIndex": 2
   },
   {
     "question": "'Bias in AI systems' arises from",
     "options": [
-      "Rewarding desired behaviours and penalising undesired ones",
-      "Selecting and transforming input variables to improve model performance",
       "Biased training data producing unfair or discriminatory outputs",
-      "Process sequential data by maintaining memory of previous inputs"
+      "A model learns the training data too well and performs poorly on new data",
+      "Selecting and transforming input variables to improve model performance",
+      "Labelled training data to learn input-output mappings"
     ],
-    "answer": "Biased training data producing unfair or discriminatory outputs"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'explainable AI' (XAI)",
     "options": [
-      "Labelled training data to learn input-output mappings",
       "Making AI decision-making transparent and understandable to humans",
-      "Finding patterns in unlabelled data without predefined outputs",
-      "Computers to understand, interpret and generate human language"
+      "Techniques to prevent overfitting by penalising model complexity",
+      "Computers to understand, interpret and generate human language",
+      "Selecting and transforming input variables to improve model performance"
     ],
-    "answer": "Making AI decision-making transparent and understandable to humans"
+    "correctIndex": 0
   }
 ]

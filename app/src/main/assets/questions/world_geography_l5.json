@@ -2,151 +2,151 @@
   {
     "question": "Capital city of Turkey",
     "options": [
-      "Roof of the World",
-      "Malaysia and Indonesia",
       "The Gulf of Mexico",
-      "Ankara"
+      "Ankara",
+      "Indonesia",
+      "The Pacific Ocean"
     ],
-    "answer": "Ankara"
+    "correctIndex": 1
   },
   {
     "question": "The Amazon River discharges into",
     "options": [
-      "Ankara",
-      "Malaysia and Indonesia",
       "The Atlantic Ocean",
-      "Roof of the World"
+      "Tehran",
+      "Addis Ababa",
+      "Ankara"
     ],
-    "answer": "The Atlantic Ocean"
+    "correctIndex": 0
   },
   {
     "question": "The island of Borneo is shared by",
     "options": [
       "Malaysia, Indonesia and Brunei",
-      "Ankara",
-      "The Atlantic Ocean",
-      "Manaus (Amazonas)"
+      "The Gulf of Mexico",
+      "Cape Town",
+      "Addis Ababa"
     ],
-    "answer": "Malaysia, Indonesia and Brunei"
+    "correctIndex": 0
   },
   {
     "question": "Capital city of South Africa's legislature",
     "options": [
       "The Atlantic Ocean",
-      "Tehran",
+      "Ankara",
       "Cape Town",
-      "Indonesia"
+      "Malaysia and Indonesia"
     ],
-    "answer": "Cape Town"
+    "correctIndex": 2
   },
   {
     "question": "The Mariana Trench is the deepest point in",
     "options": [
-      "Cape Town",
       "The Pacific Ocean",
-      "Indonesia",
-      "Malaysia, Indonesia and Brunei"
+      "Malaysia and Indonesia",
+      "The Atlantic Ocean",
+      "Lima"
     ],
-    "answer": "The Pacific Ocean"
+    "correctIndex": 0
   },
   {
     "question": "Capital city of Brazil's largest state",
     "options": [
+      "The Gulf of Mexico",
+      "Manaus (Amazonas)",
       "Ankara",
-      "Cape Town",
-      "The Ganges-Brahmaputra Delta in Bangladesh",
-      "Manaus (Amazonas)"
+      "France, Switzerland, Italy, Austria and others"
     ],
-    "answer": "Manaus (Amazonas)"
+    "correctIndex": 1
   },
   {
     "question": "The Strait of Malacca separates",
     "options": [
-      "Roof of the World",
-      "Indonesia",
+      "Ankara",
+      "Manaus (Amazonas)",
       "Malaysia and Indonesia",
-      "Tehran"
+      "France, Switzerland, Italy, Austria and others"
     ],
-    "answer": "Malaysia and Indonesia"
+    "correctIndex": 2
   },
   {
     "question": "Capital city of Ethiopia",
     "options": [
-      "The Atlantic Ocean",
-      "Tehran",
+      "France, Switzerland, Italy, Austria and others",
+      "Malaysia and Indonesia",
       "Addis Ababa",
-      "The Ganges-Brahmaputra Delta in Bangladesh"
+      "Malaysia, Indonesia and Brunei"
     ],
-    "answer": "Addis Ababa"
+    "correctIndex": 2
   },
   {
     "question": "The Alps mountain range spans",
     "options": [
-      "Tehran",
-      "Cape Town",
-      "The Gulf of Mexico",
-      "France, Switzerland, Italy, Austria and others"
+      "Indonesia",
+      "France, Switzerland, Italy, Austria and others",
+      "Malaysia and Indonesia",
+      "The Pacific Ocean"
     ],
-    "answer": "France, Switzerland, Italy, Austria and others"
+    "correctIndex": 1
   },
   {
     "question": "Capital city of Iran",
     "options": [
-      "Tehran",
-      "The Gulf of Mexico",
-      "Indonesia",
-      "Manaus (Amazonas)"
+      "Cape Town",
+      "Lima",
+      "The Pacific Ocean",
+      "Tehran"
     ],
-    "answer": "Tehran"
+    "correctIndex": 3
   },
   {
     "question": "The Mississippi River flows into",
     "options": [
+      "Manaus (Amazonas)",
       "The Gulf of Mexico",
-      "France, Switzerland, Italy, Austria and others",
-      "Addis Ababa",
-      "Malaysia, Indonesia and Brunei"
+      "Ankara",
+      "Lima"
     ],
-    "answer": "The Gulf of Mexico"
+    "correctIndex": 1
   },
   {
     "question": "The country with the most volcanoes",
     "options": [
+      "Cape Town",
+      "Tehran",
       "Indonesia",
-      "Manaus (Amazonas)",
-      "The Gulf of Mexico",
-      "Lima"
+      "France, Switzerland, Italy, Austria and others"
     ],
-    "answer": "Indonesia"
+    "correctIndex": 2
   },
   {
     "question": "The Tibetan Plateau is called the",
     "options": [
-      "Roof of the World",
-      "Ankara",
-      "The Gulf of Mexico",
-      "Cape Town"
+      "The Pacific Ocean",
+      "The Atlantic Ocean",
+      "France, Switzerland, Italy, Austria and others",
+      "Roof of the World"
     ],
-    "answer": "Roof of the World"
+    "correctIndex": 3
   },
   {
     "question": "Capital city of Peru",
     "options": [
+      "Tehran",
+      "Malaysia and Indonesia",
       "The Ganges-Brahmaputra Delta in Bangladesh",
-      "The Gulf of Mexico",
-      "Lima",
-      "Roof of the World"
+      "Lima"
     ],
-    "answer": "Lima"
+    "correctIndex": 3
   },
   {
     "question": "The world's largest delta is",
     "options": [
-      "The Atlantic Ocean",
-      "The Gulf of Mexico",
+      "Ankara",
+      "France, Switzerland, Italy, Austria and others",
       "The Ganges-Brahmaputra Delta in Bangladesh",
-      "The Pacific Ocean"
+      "The Atlantic Ocean"
     ],
-    "answer": "The Ganges-Brahmaputra Delta in Bangladesh"
+    "correctIndex": 2
   }
 ]

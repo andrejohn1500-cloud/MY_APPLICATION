@@ -2,151 +2,151 @@
   {
     "question": "The concept of 'quantum algorithms' (Shor's algorithm)",
     "options": [
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Machine learning on graph-structured data for recommendations and social networks",
       "Factors large numbers exponentially faster than classical algorithms",
-      "Encryption algorithms resistant to attacks by quantum computers"
+      "Two networks compete — generator creates fake data; discriminator detects it",
+      "Computations can be performed on encrypted data without decrypting it",
+      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
     ],
-    "answer": "Factors large numbers exponentially faster than classical algorithms"
+    "correctIndex": 0
   },
   {
     "question": "'Grover's algorithm' in quantum computing",
     "options": [
-      "Secure isolated processing environments within processors",
-      "Searches unsorted databases with quadratic speedup over classical algorithms",
-      "Mathematically proving software meets its specification",
-      "Two networks compete — generator creates fake data; discriminator detects it"
+      "Adding statistical noise to protect individual privacy in datasets",
+      "Computations can be performed on encrypted data without decrypting it",
+      "Hardware designed to mimic neural brain structures for energy-efficient AI",
+      "Searches unsorted databases with quadratic speedup over classical algorithms"
     ],
-    "answer": "Searches unsorted databases with quadratic speedup over classical algorithms"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'quantum decoherence'",
     "options": [
-      "Encryption algorithms resistant to attacks by quantum computers",
-      "Mathematically proving software meets its specification",
-      "Environmental interference causes qubits to lose their quantum state",
-      "Computations can be performed on encrypted data without decrypting it"
+      "Prove knowledge of a secret without revealing the secret itself",
+      "Machine learning on graph-structured data for recommendations and social networks",
+      "Training ML models across decentralised devices without sharing raw data",
+      "Environmental interference causes qubits to lose their quantum state"
     ],
-    "answer": "Environmental interference causes qubits to lose their quantum state"
+    "correctIndex": 3
   },
   {
     "question": "'Post-quantum cryptography' develops",
     "options": [
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
       "Machine learning on graph-structured data for recommendations and social networks",
-      "Encryption algorithms resistant to attacks by quantum computers",
-      "Training ML models across decentralised devices without sharing raw data"
+      "Secure isolated processing environments within processors",
+      "Hardware designed to mimic neural brain structures for energy-efficient AI",
+      "Encryption algorithms resistant to attacks by quantum computers"
     ],
-    "answer": "Encryption algorithms resistant to attacks by quantum computers"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'federated learning'",
     "options": [
+      "Secure isolated processing environments within processors",
       "Training ML models across decentralised devices without sharing raw data",
-      "Environmental interference causes qubits to lose their quantum state",
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
+      "Encryption algorithms resistant to attacks by quantum computers",
+      "Prove knowledge of a secret without revealing the secret itself"
     ],
-    "answer": "Training ML models across decentralised devices without sharing raw data"
+    "correctIndex": 1
   },
   {
     "question": "'Differential privacy' in data science",
     "options": [
+      "Secure isolated processing environments within processors",
+      "Machine learning on graph-structured data for recommendations and social networks",
       "Adding statistical noise to protect individual privacy in datasets",
-      "Training ML models across decentralised devices without sharing raw data",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Secure isolated processing environments within processors"
+      "Encryption algorithms resistant to attacks by quantum computers"
     ],
-    "answer": "Adding statistical noise to protect individual privacy in datasets"
+    "correctIndex": 2
   },
   {
     "question": "The concept of 'graph neural networks'",
     "options": [
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
-      "Adding statistical noise to protect individual privacy in datasets",
-      "Two networks compete — generator creates fake data; discriminator detects it"
+      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
+      "Mathematically proving software meets its specification",
+      "Secure isolated processing environments within processors",
+      "Machine learning on graph-structured data for recommendations and social networks"
     ],
-    "answer": "Machine learning on graph-structured data for recommendations and social networks"
+    "correctIndex": 3
   },
   {
     "question": "'Transformer architecture' (BERT, GPT)",
     "options": [
+      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
+      "Mathematically proving software meets its specification",
       "Secure isolated processing environments within processors",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Computations can be performed on encrypted data without decrypting it",
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP"
+      "Factors large numbers exponentially faster than classical algorithms"
     ],
-    "answer": "Attention mechanism processes entire sequences simultaneously enabling powerful NLP"
+    "correctIndex": 0
   },
   {
     "question": "The concept of 'generative adversarial networks' (GANs)",
     "options": [
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Adding statistical noise to protect individual privacy in datasets",
+      "Secure isolated processing environments within processors",
       "Two networks compete — generator creates fake data; discriminator detects it",
-      "Prove knowledge of a secret without revealing the secret itself"
+      "Searches unsorted databases with quadratic speedup over classical algorithms",
+      "Training ML models across decentralised devices without sharing raw data"
     ],
-    "answer": "Two networks compete — generator creates fake data; discriminator detects it"
+    "correctIndex": 1
   },
   {
     "question": "'Zero-knowledge proofs' in cryptography",
     "options": [
+      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
       "Prove knowledge of a secret without revealing the secret itself",
-      "Computations can be performed on encrypted data without decrypting it",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Hardware designed to mimic neural brain structures for energy-efficient AI"
+      "Environmental interference causes qubits to lose their quantum state",
+      "Encryption algorithms resistant to attacks by quantum computers"
     ],
-    "answer": "Prove knowledge of a secret without revealing the secret itself"
+    "correctIndex": 1
   },
   {
     "question": "The concept of 'homomorphic encryption'",
     "options": [
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
-      "Adding statistical noise to protect individual privacy in datasets",
       "Computations can be performed on encrypted data without decrypting it",
-      "Searches unsorted databases with quadratic speedup over classical algorithms"
+      "Encryption algorithms resistant to attacks by quantum computers",
+      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
+      "Training ML models across decentralised devices without sharing raw data"
     ],
-    "answer": "Computations can be performed on encrypted data without decrypting it"
+    "correctIndex": 0
   },
   {
     "question": "'Trusted execution environments' (TEE)",
     "options": [
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Secure isolated processing environments within processors",
-      "Searches unsorted databases with quadratic speedup over classical algorithms"
+      "Mathematically proving software meets its specification",
+      "Searches unsorted databases with quadratic speedup over classical algorithms",
+      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
+      "Secure isolated processing environments within processors"
     ],
-    "answer": "Secure isolated processing environments within processors"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'formal verification' in software",
     "options": [
-      "Factors large numbers exponentially faster than classical algorithms",
-      "Searches unsorted databases with quadratic speedup over classical algorithms",
+      "Prove knowledge of a secret without revealing the secret itself",
       "Mathematically proving software meets its specification",
-      "Secure isolated processing environments within processors"
+      "Two networks compete — generator creates fake data; discriminator detects it",
+      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
     ],
-    "answer": "Mathematically proving software meets its specification"
+    "correctIndex": 1
   },
   {
     "question": "'Model compression' techniques include",
     "options": [
-      "Training ML models across decentralised devices without sharing raw data",
-      "Hardware designed to mimic neural brain structures for energy-efficient AI",
+      "Two networks compete — generator creates fake data; discriminator detects it",
+      "Machine learning on graph-structured data for recommendations and social networks",
       "Encryption algorithms resistant to attacks by quantum computers",
       "Pruning, quantisation and knowledge distillation for efficient AI deployment"
     ],
-    "answer": "Pruning, quantisation and knowledge distillation for efficient AI deployment"
+    "correctIndex": 3
   },
   {
     "question": "The concept of 'neuromorphic chips'",
     "options": [
-      "Factors large numbers exponentially faster than classical algorithms",
+      "Machine learning on graph-structured data for recommendations and social networks",
+      "Environmental interference causes qubits to lose their quantum state",
       "Hardware designed to mimic neural brain structures for energy-efficient AI",
-      "Searches unsorted databases with quadratic speedup over classical algorithms",
-      "Training ML models across decentralised devices without sharing raw data"
+      "Computations can be performed on encrypted data without decrypting it"
     ],
-    "answer": "Hardware designed to mimic neural brain structures for energy-efficient AI"
+    "correctIndex": 2
   }
 ]
