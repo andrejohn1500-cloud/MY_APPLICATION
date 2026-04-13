@@ -60,7 +60,7 @@ class LevelSelectActivity : AppCompatActivity() {
         grid.columnCount = 4
         grid.layoutParams = LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT)
         for (lvl in 1..20) {
-            val unlocked = isPremium || lvl <= 2
+            val unlocked = (isPremium && lvl <= highest + 1) || lvl <= 2
             val beaten = lvl <= highest
             val isCurrent = lvl == highest + 1
             val btn = Button(this)
