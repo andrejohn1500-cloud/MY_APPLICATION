@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve: x³ − 7x + 6 = 0",
+    "options": [
+      "x = 0, 2, −2",
+      "0.70",
+      "x = 1, x = 2, x = −3",
+      "14"
+    ],
+    "answer": "x = 1, x = 2, x = −3"
+  },
+  {
+    "question": "Evaluate: Σr² from r = 1 to 4",
+    "options": [
+      "30",
+      "−cos x + sin x + C",
+      "x = 0, 2, −2",
+      "3"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Area of triangle with vertices (0,0), (6,0), (2,4)",
+    "options": [
+      "3",
+      "x = 1, x = 2, x = −3",
+      "12 units²",
+      "30"
+    ],
+    "answer": "12 units²"
+  },
+  {
+    "question": "Term independent of x in (x + 1/x)⁶",
+    "options": [
+      "3/(3x + 2)",
+      "⁶C₃ = 20",
+      "14",
+      "x = 0, 2, −2"
+    ],
+    "answer": "⁶C₃ = 20"
+  },
+  {
+    "question": "Differentiate y = ln(3x + 2)",
+    "options": [
+      "3/(3x + 2)",
+      "0.70",
+      "−cos x + sin x + C",
+      "(1/2)e^(x/2)"
+    ],
+    "answer": "3/(3x + 2)"
+  },
+  {
+    "question": "Solve sin θ = 0.5 for 0° ≤ θ ≤ 360°",
+    "options": [
+      "(1/2)e^(x/2)",
+      "θ = 30° and 150°",
+      "−cos x + sin x + C",
+      "0.70"
+    ],
+    "answer": "θ = 30° and 150°"
+  },
+  {
+    "question": "Acceleration of particle s = 2t³ − 9t² + 12t at t = 2",
+    "options": [
+      "6",
+      "14",
+      "2√10",
+      "12 units²"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "x-coordinates where y = x³ − 4x crosses x-axis",
+    "options": [
+      "x = 1, x = 2, x = −3",
+      "x = 0, 2, −2",
+      "3",
+      "−cos x + sin x + C"
+    ],
+    "answer": "x = 0, 2, −2"
+  },
+  {
+    "question": "In a GP, 3rd term = 18, 6th term = 486; common ratio",
+    "options": [
+      "45°",
+      "x = 1, x = 2, x = −3",
+      "2√10",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "P(A or B), mutually exclusive: P(A) = 0.25, P(B) = 0.45",
+    "options": [
+      "0.70",
+      "12 units²",
+      "θ = 30° and 150°",
+      "14"
+    ],
+    "answer": "0.70"
+  },
+  {
+    "question": "∫(sin x + cos x) dx",
+    "options": [
+      "6",
+      "⁶C₃ = 20",
+      "x = 0, 2, −2",
+      "−cos x + sin x + C"
+    ],
+    "answer": "−cos x + sin x + C"
+  },
+  {
+    "question": "Remainder when x³ + 2x² − 3x + 4 is divided by (x − 2)",
+    "options": [
+      "3/(3x + 2)",
+      "(1/2)e^(x/2)",
+      "14",
+      "45°"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "Vectors: a = (3,4), b = (1,−2); find |a − b|",
+    "options": [
+      "−cos x + sin x + C",
+      "6",
+      "3",
+      "2√10"
+    ],
+    "answer": "2√10"
+  },
+  {
+    "question": "If y = e^(x/2), find dy/dx",
+    "options": [
+      "3",
+      "2√10",
+      "(1/2)e^(x/2)",
+      "⁶C₃ = 20"
+    ],
+    "answer": "(1/2)e^(x/2)"
+  },
+  {
+    "question": "Angle between vectors (1,0) and (3,3)",
+    "options": [
+      "0.70",
+      "⁶C₃ = 20",
+      "45°",
+      "3"
+    ],
+    "answer": "45°"
+  }
+]

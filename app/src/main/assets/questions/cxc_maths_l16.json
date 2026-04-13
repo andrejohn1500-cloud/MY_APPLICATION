@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Differentiate y = ln(sin x)",
+    "options": [
+      "1 − 2e⁻¹ ≈ 0.264",
+      "cot x",
+      "y = 2x",
+      "(√6 + √2)/4"
+    ],
+    "answer": "cot x"
+  },
+  {
+    "question": "Using factor theorem: find a factor of x³ − 2x² − 5x + 6",
+    "options": [
+      "0",
+      "(x − 1)",
+      "a(1 − rⁿ)/(1 − r)",
+      "cos 2x"
+    ],
+    "answer": "(x − 1)"
+  },
+  {
+    "question": "Write 5cos θ + 12sin θ in form R sin(θ + α)",
+    "options": [
+      "13 sin(θ + 22.6°)",
+      "0",
+      "(√6 + √2)/4",
+      "(x − 1)"
+    ],
+    "answer": "13 sin(θ + 22.6°)"
+  },
+  {
+    "question": "General solution of dy/dx = 3x²",
+    "options": [
+      "cot x",
+      "y = 2x",
+      "1 − 2e⁻¹ ≈ 0.264",
+      "y = x³ + C"
+    ],
+    "answer": "y = x³ + C"
+  },
+  {
+    "question": "Integration by substitution: ∫ 6x(3x² + 1)² dx",
+    "options": [
+      "(3x² + 1)³/3 + C",
+      "y = 2x",
+      "(√6 + √2)/4",
+      "0"
+    ],
+    "answer": "(3x² + 1)³/3 + C"
+  },
+  {
+    "question": "P(X ≥ 2) where X~Poisson(λ = 1)",
+    "options": [
+      "cot x",
+      "1/t",
+      "1 − 2e⁻¹ ≈ 0.264",
+      "cos 2x"
+    ],
+    "answer": "1 − 2e⁻¹ ≈ 0.264"
+  },
+  {
+    "question": "y = x³ − 6x + 4; range of x where y is decreasing",
+    "options": [
+      "−√2 < x < √2",
+      "y = 2x",
+      "(x − 1)",
+      "(√6 + √2)/4"
+    ],
+    "answer": "−√2 < x < √2"
+  },
+  {
+    "question": "Product rule: y = sin x cos x; dy/dx",
+    "options": [
+      "(√6 + √2)/4",
+      "cos 2x",
+      "(x − 1)",
+      "0) (1 − cos x)/x → 0"
+    ],
+    "answer": "cos 2x"
+  },
+  {
+    "question": "Parametric: x = t², y = 2t; find dy/dx",
+    "options": [
+      "y = x³ + C",
+      "13 sin(θ + 22.6°)",
+      "1/t",
+      "(3x² + 1)³/3 + C"
+    ],
+    "answer": "1/t"
+  },
+  {
+    "question": "Sum to n terms of GP: first term a, ratio r",
+    "options": [
+      "1/t",
+      "cos 2x",
+      "(√6 + √2)/4",
+      "a(1 − rⁿ)/(1 − r)"
+    ],
+    "answer": "a(1 − rⁿ)/(1 − r)"
+  },
+  {
+    "question": "Exact value of ∫₀^(π/4) sec²x dx",
+    "options": [
+      "1",
+      "1/t",
+      "13 sin(θ + 22.6°)",
+      "(√6 + √2)/4"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Singular matrix has determinant",
+    "options": [
+      "(x − 1)",
+      "(√6 + √2)/4",
+      "(3x² + 1)³/3 + C",
+      "0"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "lim(x",
+    "options": [
+      "a(1 − rⁿ)/(1 − r)",
+      "0) (1 − cos x)/x → 0",
+      "1",
+      "cos 2x"
+    ],
+    "answer": "0) (1 − cos x)/x → 0"
+  },
+  {
+    "question": "Tangent to x² + y² − 4x + 2y = 0 at origin",
+    "options": [
+      "1/t",
+      "y = 2x",
+      "0) (1 − cos x)/x → 0",
+      "13 sin(θ + 22.6°)"
+    ],
+    "answer": "y = 2x"
+  },
+  {
+    "question": "Exact value of sin 75°",
+    "options": [
+      "(x − 1)",
+      "cos 2x",
+      "y = x³ + C",
+      "(√6 + √2)/4"
+    ],
+    "answer": "(√6 + √2)/4"
+  }
+]

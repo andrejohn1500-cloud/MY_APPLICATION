@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve 2x² − 7x + 3 = 0 using quadratic formula",
+    "options": [
+      "x = 3",
+      "x = 3 or x = 1/2",
+      "(2, 3)",
+      "2ⁿ"
+    ],
+    "answer": "x = 3 or x = 1/2"
+  },
+  {
+    "question": "Gradient of line perpendicular to y = 4x − 3",
+    "options": [
+      "−1/4",
+      "x = 3",
+      "(2, −4)",
+      "(2, 3)"
+    ],
+    "answer": "−1/4"
+  },
+  {
+    "question": "Percentage error: estimated 4.5kg, actual 4.8kg",
+    "options": [
+      "0.65",
+      "6.25%",
+      "−1/4",
+      "(2, 3)"
+    ],
+    "answer": "6.25%"
+  },
+  {
+    "question": "Triangle: b = 5, c = 7, angle C = 60°; find side a using cosine rule",
+    "options": [
+      "√39",
+      "−1/4",
+      "x = 3 or x = 1/2",
+      "The median"
+    ],
+    "answer": "√39"
+  },
+  {
+    "question": "Solve: 3^x = 27",
+    "options": [
+      "−1/4",
+      "√39",
+      "x = 15",
+      "x = 3"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "Coordinates of turning point of y = x² − 4x + 7",
+    "options": [
+      "x = 3",
+      "0.65",
+      "(2, 3)",
+      "√39"
+    ],
+    "answer": "(2, 3)"
+  },
+  {
+    "question": "Equation of circle with centre (−2, 3) and radius 4",
+    "options": [
+      "12cm",
+      "−1/4",
+      "2ⁿ",
+      "(x+2)² + (y−3)² = 16"
+    ],
+    "answer": "(x+2)² + (y−3)² = 16"
+  },
+  {
+    "question": "A set has n elements; number of subsets",
+    "options": [
+      "x = 3 or x = 1/2",
+      "2ⁿ",
+      "0.65",
+      "(2, 3)"
+    ],
+    "answer": "2ⁿ"
+  },
+  {
+    "question": "Cumulative frequency graph: value at 50th percentile",
+    "options": [
+      "12cm",
+      "(2, 3)",
+      "x = 3",
+      "The median"
+    ],
+    "answer": "The median"
+  },
+  {
+    "question": "Solve: log₂(x + 1) = 4",
+    "options": [
+      "x = 15",
+      "(2, 3)",
+      "(2, −4)",
+      "x = 3"
+    ],
+    "answer": "x = 15"
+  },
+  {
+    "question": "Scale 1:25,000; road 8cm on map; actual length",
+    "options": [
+      "−1/4",
+      "12cm",
+      "2km",
+      "x = 3 or x = 1/2"
+    ],
+    "answer": "2km"
+  },
+  {
+    "question": "Sum of first 10 terms of AP: first term 3, d = 4",
+    "options": [
+      "2ⁿ",
+      "210",
+      "(x+2)² + (y−3)² = 16",
+      "2km"
+    ],
+    "answer": "210"
+  },
+  {
+    "question": "If P(A') = 0.35, then P(A)",
+    "options": [
+      "0.65",
+      "12cm",
+      "2ⁿ",
+      "−1/4"
+    ],
+    "answer": "0.65"
+  },
+  {
+    "question": "Image of (4,2) after 90° clockwise rotation about origin",
+    "options": [
+      "6.25%",
+      "(2, −4)",
+      "0.65",
+      "2ⁿ"
+    ],
+    "answer": "(2, −4)"
+  },
+  {
+    "question": "Right triangle: hypotenuse 13cm, one leg 5cm; other leg",
+    "options": [
+      "(2, 3)",
+      "12cm",
+      "x = 3",
+      "√39"
+    ],
+    "answer": "12cm"
+  }
+]

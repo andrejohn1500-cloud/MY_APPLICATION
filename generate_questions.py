@@ -33,7 +33,7 @@ def parse_md(filepath):
                 current_level = int(m.group(1))
                 levels[current_level] = []
             elif current_level and re.match(r'^\d+\.', line):
-                parts = re.split(r'\s*[→\-]+>\s*', line, 1)
+                parts = re.split(r'\s*→\s*|\s*->\s*', line, 1)
                 if len(parts) == 2:
                     q = re.sub(r'^\d+\.\s*', '', parts[0]).strip()
                     a = re.sub(r'\*\*([^*]+)\*\*', r'\1', parts[1]).strip()

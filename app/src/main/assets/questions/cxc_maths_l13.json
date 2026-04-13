@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve: 2 log x = log 9",
+    "options": [
+      "7/2",
+      "80",
+      "x = 3",
+      "6"
+    ],
+    "answer": "x = 3"
+  },
+  {
+    "question": "Evaluate ∫₀^(π/2) sin x dx",
+    "options": [
+      "1",
+      "(b, a)",
+      "(1/−2)[[4,−2],[−3,1]]",
+      "7/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "nth term of GP where a = 3, r = 2",
+    "options": [
+      "6",
+      "8π",
+      "1",
+      "3 × 2^(n−1)"
+    ],
+    "answer": "3 × 2^(n−1)"
+  },
+  {
+    "question": "Maximum value of 5 − 2x − x²",
+    "options": [
+      "80",
+      "6",
+      "1",
+      "(1/−2)[[4,−2],[−3,1]]"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Area of triangle ABC where a = 6, b = 8, C = 30°",
+    "options": [
+      "0°, 180°, 360°, ≈19.5°, ≈160.5°",
+      "12cm²",
+      "1",
+      "(b, a)"
+    ],
+    "answer": "12cm²"
+  },
+  {
+    "question": "Solve: 3 sin²θ − sin θ = 0 for 0° ≤ θ ≤ 360°",
+    "options": [
+      "(b, a)",
+      "0.5",
+      "x = 3",
+      "0°, 180°, 360°, ≈19.5°, ≈160.5°"
+    ],
+    "answer": "0°, 180°, 360°, ≈19.5°, ≈160.5°"
+  },
+  {
+    "question": "Inverse of matrix [[1,2],[3,4]]",
+    "options": [
+      "80",
+      "8π",
+      "Five-number summary",
+      "(1/−2)[[4,−2],[−3,1]]"
+    ],
+    "answer": "(1/−2)[[4,−2],[−3,1]]"
+  },
+  {
+    "question": "Solve 2cos²θ + cos θ − 1 = 0 for 0° ≤ θ ≤ 360°",
+    "options": [
+      "60°, 180°, 300°",
+      "1",
+      "12cm²",
+      "(b, a)"
+    ],
+    "answer": "60°, 180°, 300°"
+  },
+  {
+    "question": "Volume of solid: y = √x rotated about x-axis from x = 0 to x = 4",
+    "options": [
+      "60°, 180°, 300°",
+      "80",
+      "8π",
+      "(1/−2)[[4,−2],[−3,1]]"
+    ],
+    "answer": "8π"
+  },
+  {
+    "question": "Gradient of y = eˣ at x = 0",
+    "options": [
+      "1",
+      "6",
+      "x = 3",
+      "8π"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Sum of geometric series: 4 terms, a = 2, r = 3",
+    "options": [
+      "x = 3",
+      "80",
+      "60°, 180°, 300°",
+      "12cm²"
+    ],
+    "answer": "80"
+  },
+  {
+    "question": "Conditional probability: P(A∩B) = 0.3, P(B) = 0.6; find P(A|B)",
+    "options": [
+      "6",
+      "0.5",
+      "8π",
+      "1"
+    ],
+    "answer": "0.5"
+  },
+  {
+    "question": "Box-and-whisker plot shows",
+    "options": [
+      "60°, 180°, 300°",
+      "Five-number summary",
+      "80",
+      "1"
+    ],
+    "answer": "Five-number summary"
+  },
+  {
+    "question": "Reflection in y = x maps (a, b) to",
+    "options": [
+      "80",
+      "x = 3",
+      "8π",
+      "(b, a)"
+    ],
+    "answer": "(b, a)"
+  },
+  {
+    "question": "Sum of roots of 2x² − 7x + 3 = 0",
+    "options": [
+      "7/2",
+      "80",
+      "8π",
+      "0.5"
+    ],
+    "answer": "7/2"
+  }
+]

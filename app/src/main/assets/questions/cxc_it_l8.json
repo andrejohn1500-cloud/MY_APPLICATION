@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A queue data structure operates on",
+    "options": [
+      "DRAM needs constant refreshing; SRAM does not",
+      "Allows multiple instructions to be processed simultaneously",
+      "First In First Out (FIFO) principle",
+      "Models the relationships between entities in a database"
+    ],
+    "answer": "First In First Out (FIFO) principle"
+  },
+  {
+    "question": "The binary representation of decimal 255",
+    "options": [
+      "Divides a network into smaller subnetworks for efficiency and security",
+      "DRAM needs constant refreshing; SRAM does not",
+      "1010",
+      "11111111"
+    ],
+    "answer": "11111111"
+  },
+  {
+    "question": "Asymmetric encryption uses",
+    "options": [
+      "Models the relationships between entities in a database",
+      "Different keys for encryption and decryption",
+      "11111111",
+      "Divides a network into smaller subnetworks for efficiency and security"
+    ],
+    "answer": "Different keys for encryption and decryption"
+  },
+  {
+    "question": "An entity relationship diagram (ERD)",
+    "options": [
+      "Detects errors in transmitted or stored data",
+      "Models the relationships between entities in a database",
+      "First In First Out (FIFO) principle",
+      "Different keys for encryption and decryption"
+    ],
+    "answer": "Models the relationships between entities in a database"
+  },
+  {
+    "question": "The purpose of subnetting",
+    "options": [
+      "Allows multiple instructions to be processed simultaneously",
+      "DRAM needs constant refreshing; SRAM does not",
+      "Divides a network into smaller subnetworks for efficiency and security",
+      "Detects errors in transmitted or stored data"
+    ],
+    "answer": "Divides a network into smaller subnetworks for efficiency and security"
+  },
+  {
+    "question": "A linked list stores data using",
+    "options": [
+      "1010",
+      "Source code line by line during execution",
+      "Detects errors in transmitted or stored data",
+      "Nodes that contain data and a pointer to the next node"
+    ],
+    "answer": "Nodes that contain data and a pointer to the next node"
+  },
+  {
+    "question": "Two's complement of 0110",
+    "options": [
+      "Models the relationships between entities in a database",
+      "1010",
+      "Divides a network into smaller subnetworks for efficiency and security",
+      "DRAM needs constant refreshing; SRAM does not"
+    ],
+    "answer": "1010"
+  },
+  {
+    "question": "A compiler translates",
+    "options": [
+      "Source code line by line during execution",
+      "Models the relationships between entities in a database",
+      "Objects that contain data and methods",
+      "Entire source code into machine code before execution"
+    ],
+    "answer": "Entire source code into machine code before execution"
+  },
+  {
+    "question": "An interpreter translates",
+    "options": [
+      "Source code line by line during execution",
+      "11111111",
+      "Allows multiple instructions to be processed simultaneously",
+      "Objects that contain data and methods"
+    ],
+    "answer": "Source code line by line during execution"
+  },
+  {
+    "question": "The purpose of virtual memory",
+    "options": [
+      "11111111",
+      "Allows multiple instructions to be processed simultaneously",
+      "Uses hard disk space to extend available RAM",
+      "1010"
+    ],
+    "answer": "Uses hard disk space to extend available RAM"
+  },
+  {
+    "question": "Pipelining in CPU design",
+    "options": [
+      "Allows multiple instructions to be processed simultaneously",
+      "Intercepts communication between two parties without their knowledge",
+      "1010",
+      "Objects that contain data and methods"
+    ],
+    "answer": "Allows multiple instructions to be processed simultaneously"
+  },
+  {
+    "question": "DRAM differs from SRAM because",
+    "options": [
+      "Uses hard disk space to extend available RAM",
+      "Intercepts communication between two parties without their knowledge",
+      "DRAM needs constant refreshing; SRAM does not",
+      "Objects that contain data and methods"
+    ],
+    "answer": "DRAM needs constant refreshing; SRAM does not"
+  },
+  {
+    "question": "A man-in-the-middle attack",
+    "options": [
+      "Uses hard disk space to extend available RAM",
+      "Intercepts communication between two parties without their knowledge",
+      "Divides a network into smaller subnetworks for efficiency and security",
+      "11111111"
+    ],
+    "answer": "Intercepts communication between two parties without their knowledge"
+  },
+  {
+    "question": "Object-oriented programming uses",
+    "options": [
+      "Intercepts communication between two parties without their knowledge",
+      "Entire source code into machine code before execution",
+      "Objects that contain data and methods",
+      "First In First Out (FIFO) principle"
+    ],
+    "answer": "Objects that contain data and methods"
+  },
+  {
+    "question": "The purpose of a checksum",
+    "options": [
+      "Models the relationships between entities in a database",
+      "Detects errors in transmitted or stored data",
+      "Nodes that contain data and a pointer to the next node",
+      "Allows multiple instructions to be processed simultaneously"
+    ],
+    "answer": "Detects errors in transmitted or stored data"
+  }
+]

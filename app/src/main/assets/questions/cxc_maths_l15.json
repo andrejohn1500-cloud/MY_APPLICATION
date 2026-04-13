@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve 2sin²θ − sin θ − 1 = 0 for 0° ≤ θ ≤ 360°",
+    "options": [
+      "|r| < 1; sum = a/(1−r)",
+      "(ln x)²/2 + C",
+      "x = 5",
+      "90°, 210°, 330°"
+    ],
+    "answer": "90°, 210°, 330°"
+  },
+  {
+    "question": "Solve: log₃(2x − 1) = 2",
+    "options": [
+      "x ≤ 1 or x ≥ 2",
+      "x = 5",
+      "(1, 1/e)",
+      "ⁿCᵣ aⁿ⁻ʳ bʳ"
+    ],
+    "answer": "x = 5"
+  },
+  {
+    "question": "dy/dx of y = x²/(x + 1) using quotient rule",
+    "options": [
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "(x² + 2x)/(x + 1)²",
+      "x = 5",
+      "90°, 210°, 330°"
+    ],
+    "answer": "(x² + 2x)/(x + 1)²"
+  },
+  {
+    "question": "Evaluate: ∫₀¹ 2xe^(x²) dx",
+    "options": [
+      "e − 1",
+      "90°, 210°, 330°",
+      "5",
+      "4"
+    ],
+    "answer": "e − 1"
+  },
+  {
+    "question": "General term in binomial expansion of (a + b)ⁿ",
+    "options": [
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "|r| < 1; sum = a/(1−r)",
+      "(1, 1/e)",
+      "e − 1"
+    ],
+    "answer": "ⁿCᵣ aⁿ⁻ʳ bʳ"
+  },
+  {
+    "question": "y = 2x³ − 9x² + 12x; intervals where y is increasing",
+    "options": [
+      "5",
+      "|r| < 1; sum = a/(1−r)",
+      "e − 1",
+      "x ≤ 1 or x ≥ 2"
+    ],
+    "answer": "x ≤ 1 or x ≥ 2"
+  },
+  {
+    "question": "Product of roots of 2x² − 7x + 3 = 0",
+    "options": [
+      "3/2",
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "90°, 210°, 330°",
+      "x ≤ 1 or x ≥ 2"
+    ],
+    "answer": "3/2"
+  },
+  {
+    "question": "P(X = 3) for X~B(5, 0.4)",
+    "options": [
+      "(ln x)²/2 + C",
+      "4",
+      "0.2304",
+      "e − 1"
+    ],
+    "answer": "0.2304"
+  },
+  {
+    "question": "For 4sinx − 3cosx = R sin(x − α); find R",
+    "options": [
+      "5",
+      "e − 1",
+      "x = 5",
+      "0.2304"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Turning point of y = xe^(−x)",
+    "options": [
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "4",
+      "3/2",
+      "(1, 1/e)"
+    ],
+    "answer": "(1, 1/e)"
+  },
+  {
+    "question": "In binomial (1 + 2x)ⁿ, coefficient of x² = 24; find n",
+    "options": [
+      "x = 5",
+      "ⁿCᵣ aⁿ⁻ʳ bʳ",
+      "1 (two distinct real roots)",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Discriminant of 3x² − 7x + 4 = 0",
+    "options": [
+      "1 (two distinct real roots)",
+      "90°, 210°, 330°",
+      "3/2",
+      "(x² + 2x)/(x + 1)²"
+    ],
+    "answer": "1 (two distinct real roots)"
+  },
+  {
+    "question": "Integrate: ∫(ln x)/x dx",
+    "options": [
+      "|r| < 1; sum = a/(1−r)",
+      "4",
+      "(ln x)²/2 + C",
+      "3/2"
+    ],
+    "answer": "(ln x)²/2 + C"
+  },
+  {
+    "question": "Convergence of geometric series requires",
+    "options": [
+      "90°, 210°, 330°",
+      "x ≤ 1 or x ≥ 2",
+      "x = 5",
+      "|r| < 1; sum = a/(1−r)"
+    ],
+    "answer": "|r| < 1; sum = a/(1−r)"
+  },
+  {
+    "question": "Solve: log₂(x+3) + log₂(x−1) = 5",
+    "options": [
+      "x = 5",
+      "x = 5",
+      "90°, 210°, 330°",
+      "e − 1"
+    ],
+    "answer": "x = 5"
+  }
+]

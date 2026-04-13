@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A binary tree data structure",
+    "options": [
+      "A decentralised chain of encrypted transaction records",
+      "Each node has at most two child nodes",
+      "Packages software and its dependencies into portable isolated environments",
+      "Closer to the source rather than in a central cloud"
+    ],
+    "answer": "Each node has at most two child nodes"
+  },
+  {
+    "question": "The Von Neumann architecture describes",
+    "options": [
+      "A computer with a single memory storing both programs and data",
+      "Volume, velocity and variety",
+      "Each node has at most two child nodes",
+      "Physical devices connected to the internet to collect and share data"
+    ],
+    "answer": "A computer with a single memory storing both programs and data"
+  },
+  {
+    "question": "Big data is characterised by",
+    "options": [
+      "Physical devices connected to the internet to collect and share data",
+      "Closer to the source rather than in a central cloud",
+      "Repeatedly swaps adjacent elements until the list is sorted",
+      "Volume, velocity and variety"
+    ],
+    "answer": "Volume, velocity and variety"
+  },
+  {
+    "question": "Thread-level parallelism",
+    "options": [
+      "Volume, velocity and variety",
+      "Lossless data compression by assigning shorter codes to frequent characters",
+      "Allows multiple threads to execute simultaneously on a processor",
+      "Two or more processes wait indefinitely for each other's resources"
+    ],
+    "answer": "Allows multiple threads to execute simultaneously on a processor"
+  },
+  {
+    "question": "A graph data structure consists of",
+    "options": [
+      "Substitution cipher that shifts letters by a fixed number",
+      "Vertices (nodes) connected by edges",
+      "Two or more processes wait indefinitely for each other's resources",
+      "Allows multiple threads to execute simultaneously on a processor"
+    ],
+    "answer": "Vertices (nodes) connected by edges"
+  },
+  {
+    "question": "Blockchain technology uses",
+    "options": [
+      "Allows multiple threads to execute simultaneously on a processor",
+      "Lossless data compression by assigning shorter codes to frequent characters",
+      "A decentralised chain of encrypted transaction records",
+      "A computer with a single memory storing both programs and data"
+    ],
+    "answer": "A decentralised chain of encrypted transaction records"
+  },
+  {
+    "question": "The Caesar cipher is a",
+    "options": [
+      "Volume, velocity and variety",
+      "Each node has at most two child nodes",
+      "Controls access to shared resources in concurrent programming",
+      "Substitution cipher that shifts letters by a fixed number"
+    ],
+    "answer": "Substitution cipher that shifts letters by a fixed number"
+  },
+  {
+    "question": "Huffman coding is used for",
+    "options": [
+      "Lossless data compression by assigning shorter codes to frequent characters",
+      "Physical devices connected to the internet to collect and share data",
+      "IaaS, PaaS and SaaS",
+      "Substitution cipher that shifts letters by a fixed number"
+    ],
+    "answer": "Lossless data compression by assigning shorter codes to frequent characters"
+  },
+  {
+    "question": "A deadlock in operating systems occurs when",
+    "options": [
+      "Substitution cipher that shifts letters by a fixed number",
+      "Lossless data compression by assigning shorter codes to frequent characters",
+      "Two or more processes wait indefinitely for each other's resources",
+      "Controls access to shared resources in concurrent programming"
+    ],
+    "answer": "Two or more processes wait indefinitely for each other's resources"
+  },
+  {
+    "question": "The purpose of a semaphore",
+    "options": [
+      "Physical devices connected to the internet to collect and share data",
+      "Controls access to shared resources in concurrent programming",
+      "Vertices (nodes) connected by edges",
+      "Two or more processes wait indefinitely for each other's resources"
+    ],
+    "answer": "Controls access to shared resources in concurrent programming"
+  },
+  {
+    "question": "Cloud computing service models include",
+    "options": [
+      "Controls access to shared resources in concurrent programming",
+      "Physical devices connected to the internet to collect and share data",
+      "Packages software and its dependencies into portable isolated environments",
+      "IaaS, PaaS and SaaS"
+    ],
+    "answer": "IaaS, PaaS and SaaS"
+  },
+  {
+    "question": "The Internet of Things (IoT) refers to",
+    "options": [
+      "Volume, velocity and variety",
+      "Closer to the source rather than in a central cloud",
+      "A decentralised chain of encrypted transaction records",
+      "Physical devices connected to the internet to collect and share data"
+    ],
+    "answer": "Physical devices connected to the internet to collect and share data"
+  },
+  {
+    "question": "A bubble sort algorithm",
+    "options": [
+      "Controls access to shared resources in concurrent programming",
+      "Allows multiple threads to execute simultaneously on a processor",
+      "Repeatedly swaps adjacent elements until the list is sorted",
+      "Two or more processes wait indefinitely for each other's resources"
+    ],
+    "answer": "Repeatedly swaps adjacent elements until the list is sorted"
+  },
+  {
+    "question": "Edge computing processes data",
+    "options": [
+      "A computer with a single memory storing both programs and data",
+      "A decentralised chain of encrypted transaction records",
+      "Closer to the source rather than in a central cloud",
+      "Lossless data compression by assigning shorter codes to frequent characters"
+    ],
+    "answer": "Closer to the source rather than in a central cloud"
+  },
+  {
+    "question": "Containerisation (e.g. Docker)",
+    "options": [
+      "Volume, velocity and variety",
+      "Lossless data compression by assigning shorter codes to frequent characters",
+      "Packages software and its dependencies into portable isolated environments",
+      "Closer to the source rather than in a central cloud"
+    ],
+    "answer": "Packages software and its dependencies into portable isolated environments"
+  }
+]

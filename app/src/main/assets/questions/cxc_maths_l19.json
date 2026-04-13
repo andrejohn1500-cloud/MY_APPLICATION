@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve: x³ − 3x² − 4x + 12 = 0",
+    "options": [
+      "x − x²/2 + x³/3",
+      "x = −2, 2, 3",
+      "x^x(1 + ln x)",
+      "λ = 2 or λ = 4"
+    ],
+    "answer": "x = −2, 2, 3"
+  },
+  {
+    "question": "Evaluate ∫₀^(π/2) cos²x dx",
+    "options": [
+      "x^x(1 + ln x)",
+      "n = 16, p = 1/4",
+      "π/4",
+      "x − x²/2 + x³/3"
+    ],
+    "answer": "π/4"
+  },
+  {
+    "question": "Tangent to x² + xy + y² = 7 at (1,2)",
+    "options": [
+      "4x + 5y = 14",
+      "y = tan(x²/2 + C)",
+      "λ = 2 or λ = 4",
+      "z = −1 ± i"
+    ],
+    "answer": "4x + 5y = 14"
+  },
+  {
+    "question": "X~B(n,p), mean = 4, variance = 3; find n and p",
+    "options": [
+      "z = −1 ± i",
+      "−2xy/(3y² + x²)",
+      "n = 16, p = 1/4",
+      "−6"
+    ],
+    "answer": "n = 16, p = 1/4"
+  },
+  {
+    "question": "First three terms of Maclaurin series for ln(1 + x)",
+    "options": [
+      "∞) (3x² + 2x)/(x² − 5) → 3",
+      "π/4",
+      "x = −2, 2, 3",
+      "x − x²/2 + x³/3"
+    ],
+    "answer": "x − x²/2 + x³/3"
+  },
+  {
+    "question": "Curve y³ + x²y = 2; find dy/dx",
+    "options": [
+      "x/2 − sin(2x)/4 + C",
+      "x − x²/2 + x³/3",
+      "−2xy/(3y² + x²)",
+      "z = −1 ± i"
+    ],
+    "answer": "−2xy/(3y² + x²)"
+  },
+  {
+    "question": "Evaluate: lim(x",
+    "options": [
+      "∞) (3x² + 2x)/(x² − 5) → 3",
+      "A point of inflection",
+      "π/4",
+      "x^x(1 + ln x)"
+    ],
+    "answer": "∞) (3x² + 2x)/(x² − 5) → 3"
+  },
+  {
+    "question": "Velocity: x = 3t² − t³; acceleration at t = 2",
+    "options": [
+      "z = −1 ± i",
+      "−6",
+      "4x + 5y = 14",
+      "x/2 − sin(2x)/4 + C"
+    ],
+    "answer": "−6"
+  },
+  {
+    "question": "For y = x^x (x > 0); dy/dx",
+    "options": [
+      "−6",
+      "x/2 − sin(2x)/4 + C",
+      "π/4",
+      "x^x(1 + ln x)"
+    ],
+    "answer": "x^x(1 + ln x)"
+  },
+  {
+    "question": "Solve ODE: dy/dx = x(1 + y²)",
+    "options": [
+      "x − x²/2 + x³/3",
+      "π/4",
+      "y = tan(x²/2 + C)",
+      "z = −1 ± i"
+    ],
+    "answer": "y = tan(x²/2 + C)"
+  },
+  {
+    "question": "Evaluate: ∫ sin²x dx",
+    "options": [
+      "x^x(1 + ln x)",
+      "0.28",
+      "π/4",
+      "x/2 − sin(2x)/4 + C"
+    ],
+    "answer": "x/2 − sin(2x)/4 + C"
+  },
+  {
+    "question": "Eigenvalues of matrix [[3,1],[1,3]]",
+    "options": [
+      "λ = 2 or λ = 4",
+      "0.28",
+      "x/2 − sin(2x)/4 + C",
+      "−6"
+    ],
+    "answer": "λ = 2 or λ = 4"
+  },
+  {
+    "question": "If f'(a) = 0 and f''(a) = 0, then x = a is likely",
+    "options": [
+      "n = 16, p = 1/4",
+      "A point of inflection",
+      "z = −1 ± i",
+      "y = tan(x²/2 + C)"
+    ],
+    "answer": "A point of inflection"
+  },
+  {
+    "question": "P(A and B) if P(A) = 0.4, P(B|A) = 0.7",
+    "options": [
+      "z = −1 ± i",
+      "x = −2, 2, 3",
+      "x^x(1 + ln x)",
+      "0.28"
+    ],
+    "answer": "0.28"
+  },
+  {
+    "question": "Solve: z² + 2z + 2 = 0 (complex roots)",
+    "options": [
+      "z = −1 ± i",
+      "x^x(1 + ln x)",
+      "y = tan(x²/2 + C)",
+      "x = −2, 2, 3"
+    ],
+    "answer": "z = −1 ± i"
+  }
+]

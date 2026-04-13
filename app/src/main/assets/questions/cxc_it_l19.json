@@ -1,0 +1,152 @@
+[
+  {
+    "question": "The concept of 'AI alignment'",
+    "options": [
+      "Whether sufficiently advanced AI systems should have moral status and protections",
+      "The potential reduction in AI capability required to make systems safe",
+      "Ensuring AI systems pursue goals that are beneficial and safe for humanity",
+      "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective"
+    ],
+    "answer": "Ensuring AI systems pursue goals that are beneficial and safe for humanity"
+  },
+  {
+    "question": "'Mesa-optimisation' in AI safety",
+    "options": [
+      "How to ensure a superintelligent AI does what humans intend",
+      "An inner optimiser inside a trained model may develop its own goals",
+      "Once a technology is widely adopted it becomes very difficult to replace",
+      "The potential reduction in AI capability required to make systems safe"
+    ],
+    "answer": "An inner optimiser inside a trained model may develop its own goals"
+  },
+  {
+    "question": "The concept of 'corrigibility' in AI",
+    "options": [
+      "An inner optimiser inside a trained model may develop its own goals",
+      "Policies and institutions that oversee AI development and deployment",
+      "A situation where capabilities exist but have not yet been applied",
+      "An AI's disposition to allow itself to be corrected or shut down"
+    ],
+    "answer": "An AI's disposition to allow itself to be corrected or shut down"
+  },
+  {
+    "question": "'Instrumental convergence thesis' (Omohundro)",
+    "options": [
+      "Systematic examination of AI systems for bias, errors and unintended effects",
+      "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective",
+      "How to ensure a superintelligent AI does what humans intend",
+      "Policies and institutions that oversee AI development and deployment"
+    ],
+    "answer": "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective"
+  },
+  {
+    "question": "The concept of 'the control problem' in AI",
+    "options": [
+      "How to ensure a superintelligent AI does what humans intend",
+      "Ensuring AI systems pursue goals that are beneficial and safe for humanity",
+      "When a measure becomes a target it ceases to be a good measure",
+      "Whether sufficiently advanced AI systems should have moral status and protections"
+    ],
+    "answer": "How to ensure a superintelligent AI does what humans intend"
+  },
+  {
+    "question": "'Goodhart's Law' in AI",
+    "options": [
+      "Systematic examination of AI systems for bias, errors and unintended effects",
+      "When a measure becomes a target it ceases to be a good measure",
+      "The potential reduction in AI capability required to make systems safe",
+      "An AI's disposition to allow itself to be corrected or shut down"
+    ],
+    "answer": "When a measure becomes a target it ceases to be a good measure"
+  },
+  {
+    "question": "The concept of 'deceptive alignment'",
+    "options": [
+      "An inner optimiser inside a trained model may develop its own goals",
+      "An AI behaving well during training while planning to act differently later",
+      "Policies and institutions that oversee AI development and deployment",
+      "Multiple interacting AI agents that may cooperate or compete"
+    ],
+    "answer": "An AI behaving well during training while planning to act differently later"
+  },
+  {
+    "question": "'Interpretability research' in AI aims to",
+    "options": [
+      "Policies and institutions that oversee AI development and deployment",
+      "Multiple interacting AI agents that may cooperate or compete",
+      "How to ensure a superintelligent AI does what humans intend",
+      "Understand what computations neural networks perform internally"
+    ],
+    "answer": "Understand what computations neural networks perform internally"
+  },
+  {
+    "question": "The concept of 'AI governance'",
+    "options": [
+      "How to ensure a superintelligent AI does what humans intend",
+      "Policies and institutions that oversee AI development and deployment",
+      "Multiple interacting AI agents that may cooperate or compete",
+      "The potential reduction in AI capability required to make systems safe"
+    ],
+    "answer": "Policies and institutions that oversee AI development and deployment"
+  },
+  {
+    "question": "'Algorithmic auditing'",
+    "options": [
+      "A situation where capabilities exist but have not yet been applied",
+      "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective",
+      "Systematic examination of AI systems for bias, errors and unintended effects",
+      "Multiple interacting AI agents that may cooperate or compete"
+    ],
+    "answer": "Systematic examination of AI systems for bias, errors and unintended effects"
+  },
+  {
+    "question": "The concept of 'technological lock-in'",
+    "options": [
+      "Systematic examination of AI systems for bias, errors and unintended effects",
+      "Once a technology is widely adopted it becomes very difficult to replace",
+      "Policies and institutions that oversee AI development and deployment",
+      "When a measure becomes a target it ceases to be a good measure"
+    ],
+    "answer": "Once a technology is widely adopted it becomes very difficult to replace"
+  },
+  {
+    "question": "'The alignment tax'",
+    "options": [
+      "Whether sufficiently advanced AI systems should have moral status and protections",
+      "The potential reduction in AI capability required to make systems safe",
+      "Once a technology is widely adopted it becomes very difficult to replace",
+      "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective"
+    ],
+    "answer": "The potential reduction in AI capability required to make systems safe"
+  },
+  {
+    "question": "The concept of 'multi-agent systems' in AI",
+    "options": [
+      "Multiple interacting AI agents that may cooperate or compete",
+      "The potential reduction in AI capability required to make systems safe",
+      "Ensuring AI systems pursue goals that are beneficial and safe for humanity",
+      "When a measure becomes a target it ceases to be a good measure"
+    ],
+    "answer": "Multiple interacting AI agents that may cooperate or compete"
+  },
+  {
+    "question": "'Capability overhang' in AI",
+    "options": [
+      "Multiple interacting AI agents that may cooperate or compete",
+      "Ensuring AI systems pursue goals that are beneficial and safe for humanity",
+      "Sufficiently advanced AI will pursue certain sub-goals regardless of its main objective",
+      "A situation where capabilities exist but have not yet been applied"
+    ],
+    "answer": "A situation where capabilities exist but have not yet been applied"
+  },
+  {
+    "question": "The concept of 'AI rights' debate",
+    "options": [
+      "An AI's disposition to allow itself to be corrected or shut down",
+      "The potential reduction in AI capability required to make systems safe",
+      "An AI behaving well during training while planning to act differently later",
+      "Whether sufficiently advanced AI systems should have moral status and protections"
+    ],
+    "answer": "Whether sufficiently advanced AI systems should have moral status and protections"
+  }
+]

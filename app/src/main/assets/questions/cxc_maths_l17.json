@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Solve: 3^(2x) − 10(3^x) + 9 = 0",
+    "options": [
+      "≈ 0.1587",
+      "4",
+      "x = 0 (max), x = ±√2 (min)",
+      "x = 0 or x = 2"
+    ],
+    "answer": "x = 0 or x = 2"
+  },
+  {
+    "question": "Partial fractions: (3x² + 2x − 1)/(x(x+1)(x−1))",
+    "options": [
+      "3/4",
+      "1/x + 2/(x−1)",
+      "(5, 8)",
+      "x = 0 or x = 2"
+    ],
+    "answer": "1/x + 2/(x−1)"
+  },
+  {
+    "question": "Integration by parts: ∫x cos x dx",
+    "options": [
+      "1/x + 2/(x−1)",
+      "≈ 0.1587",
+      "x sin x + cos x + C",
+      "x = 0 or x = 2"
+    ],
+    "answer": "x sin x + cos x + C"
+  },
+  {
+    "question": "Normal distribution X~N(50,16); P(X > 54)",
+    "options": [
+      "x sin x + cos x + C",
+      "x = 0 or x = 2",
+      "≈ 0.1587",
+      "(5, 8)"
+    ],
+    "answer": "≈ 0.1587"
+  },
+  {
+    "question": "Differentiate f(x) = x^(1/3)",
+    "options": [
+      "≈ 0.1587",
+      "x = 0 (max), x = ±√2 (min)",
+      "20x(2x² − 3)⁴",
+      "(1/3)x^(−2/3)"
+    ],
+    "answer": "(1/3)x^(−2/3)"
+  },
+  {
+    "question": "Solve inequality: (x − 1)/(x + 2) > 0",
+    "options": [
+      "1/x + 2/(x−1)",
+      "4",
+      "x < −2 or x > 1",
+      "t = 2"
+    ],
+    "answer": "x < −2 or x > 1"
+  },
+  {
+    "question": "Velocity v = 3t² − 12t + 9; find when acceleration = 0",
+    "options": [
+      "x = 3, y = 1",
+      "(1/3)x^(−2/3)",
+      "x < −2 or x > 1",
+      "t = 2"
+    ],
+    "answer": "t = 2"
+  },
+  {
+    "question": "Using chain rule: y = (2x² − 3)⁵; dy/dx",
+    "options": [
+      "1 + 2x + 2x²",
+      "20x(2x² − 3)⁴",
+      "t = 2",
+      "(1/3)x^(−2/3)"
+    ],
+    "answer": "20x(2x² − 3)⁴"
+  },
+  {
+    "question": "Stationary points of y = x⁴ − 8x² + 5",
+    "options": [
+      "x = 0 (max), x = ±√2 (min)",
+      "4",
+      "(5, 8)",
+      "x = 0 or x = 2"
+    ],
+    "answer": "x = 0 (max), x = ±√2 (min)"
+  },
+  {
+    "question": "GP sum to infinity = 8, first term = 2; find r",
+    "options": [
+      "x < −2 or x > 1",
+      "≈ 0.1587",
+      "3/4",
+      "t = 2"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "First three terms of Maclaurin expansion of e^(2x)",
+    "options": [
+      "x = 0 or x = 2",
+      "1 + 2x + 2x²",
+      "y = ±(3/2)x",
+      "t = 2"
+    ],
+    "answer": "1 + 2x + 2x²"
+  },
+  {
+    "question": "Solve system: x + y = 4, 3x − y = 8",
+    "options": [
+      "x = 3, y = 1",
+      "≈ 0.1587",
+      "4",
+      "x < −2 or x > 1"
+    ],
+    "answer": "x = 3, y = 1"
+  },
+  {
+    "question": "Asymptotes of hyperbola x²/4 − y²/9 = 1",
+    "options": [
+      "≈ 0.1587",
+      "(1/3)x^(−2/3)",
+      "4",
+      "y = ±(3/2)x"
+    ],
+    "answer": "y = ±(3/2)x"
+  },
+  {
+    "question": "Geometric mean of 2, 4 and 8",
+    "options": [
+      "4",
+      "≈ 0.1587",
+      "20x(2x² − 3)⁴",
+      "1 + 2x + 2x²"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Section formula: point dividing A(1,4) to B(7,10) in ratio 2:1",
+    "options": [
+      "(5, 8)",
+      "1/x + 2/(x−1)",
+      "t = 2",
+      "≈ 0.1587"
+    ],
+    "answer": "(5, 8)"
+  }
+]

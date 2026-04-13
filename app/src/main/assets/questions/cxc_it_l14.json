@@ -1,0 +1,152 @@
+[
+  {
+    "question": "The concept of 'penetration testing'",
+    "options": [
+      "Monitor network traffic for suspicious activity and known threats",
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Write data beyond a buffer's boundary to corrupt memory and execute code",
+      "Requiring two or more verification methods to access a system"
+    ],
+    "answer": "Simulating cyber attacks to identify vulnerabilities before attackers do"
+  },
+  {
+    "question": "'Social engineering attacks' exploit",
+    "options": [
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Computers physically isolated from unsecured networks for maximum security",
+      "Hiding secret data within ordinary files like images",
+      "Human psychology rather than technical vulnerabilities"
+    ],
+    "answer": "Human psychology rather than technical vulnerabilities"
+  },
+  {
+    "question": "The concept of 'multi-factor authentication' (MFA)",
+    "options": [
+      "Requiring two or more verification methods to access a system",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "Human psychology rather than technical vulnerabilities",
+      "Inject malicious scripts into web pages viewed by other users"
+    ],
+    "answer": "Requiring two or more verification methods to access a system"
+  },
+  {
+    "question": "'Zero-trust security model' assumes",
+    "options": [
+      "Monitor network traffic for suspicious activity and known threats",
+      "Collecting and analysing digital evidence for legal purposes",
+      "A list of the most critical web application security risks",
+      "No user or device should be trusted by default, even inside the network"
+    ],
+    "answer": "No user or device should be trusted by default, even inside the network"
+  },
+  {
+    "question": "The concept of 'OWASP Top 10'",
+    "options": [
+      "Write data beyond a buffer's boundary to corrupt memory and execute code",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "A list of the most critical web application security risks",
+      "Provide privileged access while concealing their presence"
+    ],
+    "answer": "A list of the most critical web application security risks"
+  },
+  {
+    "question": "'Cross-site scripting' (XSS) attacks",
+    "options": [
+      "Computers physically isolated from unsecured networks for maximum security",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "Collecting and analysing digital evidence for legal purposes",
+      "Inject malicious scripts into web pages viewed by other users"
+    ],
+    "answer": "Inject malicious scripts into web pages viewed by other users"
+  },
+  {
+    "question": "The concept of 'SQL injection' attack",
+    "options": [
+      "Collecting and analysing digital evidence for legal purposes",
+      "Inserting malicious SQL code into input fields to manipulate databases",
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Write data beyond a buffer's boundary to corrupt memory and execute code"
+    ],
+    "answer": "Inserting malicious SQL code into input fields to manipulate databases"
+  },
+  {
+    "question": "'Buffer overflow attacks'",
+    "options": [
+      "Write data beyond a buffer's boundary to corrupt memory and execute code",
+      "Collecting and analysing digital evidence for legal purposes",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "Simulating cyber attacks to identify vulnerabilities before attackers do"
+    ],
+    "answer": "Write data beyond a buffer's boundary to corrupt memory and execute code"
+  },
+  {
+    "question": "The concept of 'intrusion detection systems' (IDS)",
+    "options": [
+      "Collecting and analysing digital evidence for legal purposes",
+      "Simulating cyber attacks to identify vulnerabilities before attackers do",
+      "Monitor network traffic for suspicious activity and known threats",
+      "Isolating programs in a restricted environment to contain potential damage"
+    ],
+    "answer": "Monitor network traffic for suspicious activity and known threats"
+  },
+  {
+    "question": "'Sandboxing' in security",
+    "options": [
+      "Hiding secret data within ordinary files like images",
+      "Requiring two or more verification methods to access a system",
+      "Isolating programs in a restricted environment to contain potential damage",
+      "Inject malicious scripts into web pages viewed by other users"
+    ],
+    "answer": "Isolating programs in a restricted environment to contain potential damage"
+  },
+  {
+    "question": "The concept of 'digital forensics'",
+    "options": [
+      "No user or device should be trusted by default, even inside the network",
+      "Write data beyond a buffer's boundary to corrupt memory and execute code",
+      "Human psychology rather than technical vulnerabilities",
+      "Collecting and analysing digital evidence for legal purposes"
+    ],
+    "answer": "Collecting and analysing digital evidence for legal purposes"
+  },
+  {
+    "question": "'Steganography' involves",
+    "options": [
+      "Hiding secret data within ordinary files like images",
+      "Collecting and analysing digital evidence for legal purposes",
+      "A list of the most critical web application security risks",
+      "Inject malicious scripts into web pages viewed by other users"
+    ],
+    "answer": "Hiding secret data within ordinary files like images"
+  },
+  {
+    "question": "The concept of 'air-gapped systems'",
+    "options": [
+      "Computers physically isolated from unsecured networks for maximum security",
+      "Requiring two or more verification methods to access a system",
+      "Write data beyond a buffer's boundary to corrupt memory and execute code",
+      "Provide privileged access while concealing their presence"
+    ],
+    "answer": "Computers physically isolated from unsecured networks for maximum security"
+  },
+  {
+    "question": "'Rootkits' are malware that",
+    "options": [
+      "Inserting malicious SQL code into input fields to manipulate databases",
+      "Requiring two or more verification methods to access a system",
+      "Provide privileged access while concealing their presence",
+      "Computers physically isolated from unsecured networks for maximum security"
+    ],
+    "answer": "Provide privileged access while concealing their presence"
+  },
+  {
+    "question": "The concept of 'threat modelling'",
+    "options": [
+      "Systematically identifying potential security threats to a system",
+      "Monitor network traffic for suspicious activity and known threats",
+      "Provide privileged access while concealing their presence",
+      "A list of the most critical web application security risks"
+    ],
+    "answer": "Systematically identifying potential security threats to a system"
+  }
+]

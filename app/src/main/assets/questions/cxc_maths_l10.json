@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Simplify: (x² − 4)/(x² − x − 2)",
+    "options": [
+      "x = 2",
+      "y = 6x − 9",
+      "(x + 2)/(x + 1)",
+      "24"
+    ],
+    "answer": "(x + 2)/(x + 1)"
+  },
+  {
+    "question": "Sum to infinity of GP: 1 + 1/3 + 1/9 + ...",
+    "options": [
+      "x = 3",
+      "3/2",
+      "1/6",
+      "(1 + cos 2θ)/2"
+    ],
+    "answer": "3/2"
+  },
+  {
+    "question": "Monthly tax: earn $3500, allowance $800, rate 20%",
+    "options": [
+      "$540",
+      "1/6",
+      "8",
+      "15x² − 4x"
+    ],
+    "answer": "$540"
+  },
+  {
+    "question": "The modal class in a frequency table",
+    "options": [
+      "50m",
+      "x = 3",
+      "The class with the highest frequency",
+      "1/6"
+    ],
+    "answer": "The class with the highest frequency"
+  },
+  {
+    "question": "Equation of tangent to y = x² at x = 3",
+    "options": [
+      "3/2",
+      "The class with the highest frequency",
+      "y = 6x − 9",
+      "8"
+    ],
+    "answer": "y = 6x − 9"
+  },
+  {
+    "question": "Solve: 4^(x+1) = 64",
+    "options": [
+      "−1/12",
+      "$540",
+      "x = 2",
+      "15x² − 4x"
+    ],
+    "answer": "x = 2"
+  },
+  {
+    "question": "Regular polygon with interior angle 135°; number of sides",
+    "options": [
+      "50m",
+      "$540",
+      "8",
+      "x = 3"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Variance of 2, 4, 6, 8, 10",
+    "options": [
+      "8",
+      "−1/12",
+      "3/2",
+      "y = 6x − 9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Gradient of normal to y = 3x² − 1 at x = 2",
+    "options": [
+      "−1/12",
+      "8",
+      "The class with the highest frequency",
+      "50m"
+    ],
+    "answer": "−1/12"
+  },
+  {
+    "question": "Express cos²θ in terms of cos 2θ",
+    "options": [
+      "x = 2",
+      "(1 + cos 2θ)/2",
+      "50m",
+      "24"
+    ],
+    "answer": "(1 + cos 2θ)/2"
+  },
+  {
+    "question": "Number of ways to arrange 4 people in a line",
+    "options": [
+      "−1/12",
+      "24",
+      "$540",
+      "3/2"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "Find dy/dx if y = 5x³ − 2x² + 7",
+    "options": [
+      "8",
+      "24",
+      "15x² − 4x",
+      "1/6"
+    ],
+    "answer": "15x² − 4x"
+  },
+  {
+    "question": "Box of 4 red, 3 green, 2 blue pens; two drawn without replacement; P(both red)",
+    "options": [
+      "8",
+      "y = 6x − 9",
+      "1/6",
+      "8"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "question": "Angle of elevation from 50m away to tower top = 45°; height",
+    "options": [
+      "50m",
+      "15x² − 4x",
+      "The class with the highest frequency",
+      "$540"
+    ],
+    "answer": "50m"
+  },
+  {
+    "question": "For y = 2x³, find x where rate of change = 54",
+    "options": [
+      "x = 3",
+      "−1/12",
+      "(x + 2)/(x + 1)",
+      "15x² − 4x"
+    ],
+    "answer": "x = 3"
+  }
+]
