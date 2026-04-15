@@ -17,6 +17,14 @@ class MainActivity : AppCompatActivity() {
         MobileAds.initialize(this) {}
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        // Check Supabase for premium status on every launch
+        val deviceId = SupabaseHelper.getDeviceId(this)
+        SupabaseHelper.checkPremiumByDevice(deviceId) { isPremium ->
+            if (isPremium) {
+                AppPreferences.setPremium(this, true)
+            }
+        }
         startService(Intent(this, MusicService::class.java))
 
         // Vibrate helper

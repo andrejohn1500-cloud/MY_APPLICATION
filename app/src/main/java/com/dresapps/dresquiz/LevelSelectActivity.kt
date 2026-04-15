@@ -51,7 +51,34 @@ class LevelSelectActivity : AppCompatActivity() {
             unlockBtn.setTextColor(Color.BLACK)
             unlockBtn.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor("#FFA500"))
             unlockBtn.setOnClickListener {
-                startActivity(Intent(Intent.ACTION_VIEW, android.net.Uri.parse("https://www.paypal.com/ncp/payment/Z48JTL598SJG8")))
+                val dialogView = LinearLayout(this)
+                dialogView.orientation = LinearLayout.VERTICAL
+                dialogView.setPadding(48, 32, 48, 0)
+                val input = android.widget.EditText(this)
+                input.hint = "Enter your email"
+                input.inputType = android.text.InputType.TYPE_TEXT_VARIATION_EMAIL_ADDRESS
+                dialogView.addView(input)
+                android.app.AlertDialog.Builder(this)
+                    .setTitle("Email for Premium Unlock")
+                    .setMessage("Enter the email you will use to pay on PayPal. This links your payment to your device.")
+                    .setView(dialogView)
+                    .setPositiveButton("Pay USD2.99") { _, _ ->
+                        val email = input.text.toString().trim()
+                        if (email.isNotEmpty() && email.contains("@")) {
+                            val deviceId = SupabaseHelper.getDeviceId(this)
+                            SupabaseHelper.registerUser(email, deviceId) { success ->
+                                if (success) {
+                                    startActivity(Intent(Intent.ACTION_VIEW, android.net.Uri.parse("https://www.paypal.com/ncp/payment/Z48JTL598SJG8")))
+                                } else {
+                                    android.widget.Toast.makeText(this, "Network error. Try again.", android.widget.Toast.LENGTH_SHORT).show()
+                                }
+                            }
+                        } else {
+                            android.widget.Toast.makeText(this, "Please enter a valid email", android.widget.Toast.LENGTH_SHORT).show()
+                        }
+                    }
+                    .setNegativeButton("Cancel", null)
+                    .show()
             }
             banner.addView(unlockBtn) 
             root.addView(banner)
