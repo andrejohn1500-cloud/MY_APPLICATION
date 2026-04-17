@@ -62,6 +62,7 @@ jobs:
         uses: actions/upload-artifact@v4 # Updated to v4
         with:
           name: app-release
+          retention-days: 1
           # Adjust these paths based on your actual module name (e.g., 'app' or 'game')
           path: |
             app/build/outputs/apk/release/*.apk
