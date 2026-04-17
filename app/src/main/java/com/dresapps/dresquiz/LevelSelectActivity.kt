@@ -24,6 +24,7 @@ class LevelSelectActivity : AppCompatActivity() {
         title.gravity = android.view.Gravity.CENTER
         title.setPadding(0, 0, 0, 24)
         root.addView(title)
+        var unlockBtn: Button? = null
         if (!isPremium) {
             val banner = LinearLayout(this)
             banner.orientation = LinearLayout.VERTICAL
@@ -45,12 +46,13 @@ class LevelSelectActivity : AppCompatActivity() {
             t2.gravity = android.view.Gravity.CENTER
             t2.setPadding(0, 8, 0, 16)
             banner.addView(t2)
-            val unlockBtn = Button(this)
-            unlockBtn.text = "UNLOCK NOW - USD2.99"
-            unlockBtn.textSize = 15f
-            unlockBtn.setTextColor(Color.BLACK)
-            unlockBtn.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor("#FFA500"))
-            unlockBtn.setOnClickListener {
+            val ub = Button(this)
+            unlockBtn = ub
+            ub.text = "UNLOCK NOW - USD2.99"
+            ub.textSize = 15f
+            ub.setTextColor(Color.BLACK)
+            ub.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor("#FFA500"))
+            ub.setOnClickListener {
                 val dialogView = LinearLayout(this)
                 dialogView.orientation = LinearLayout.VERTICAL
                 dialogView.setPadding(48, 32, 48, 0)
@@ -80,7 +82,7 @@ class LevelSelectActivity : AppCompatActivity() {
                     .setNegativeButton("Cancel", null)
                     .show()
             }
-            banner.addView(unlockBtn) 
+            banner.addView(ub) 
             root.addView(banner)
         }
         val grid = GridLayout(this)
@@ -110,7 +112,7 @@ class LevelSelectActivity : AppCompatActivity() {
                     i.putExtra("level", lvlFinal)
                     startActivity(i)
                 } else {
-                    unlockBtn.performClick()
+                    unlockBtn?.performClick()
                 }
             }
             grid.addView(btn)
