@@ -103,12 +103,15 @@ class LevelSelectActivity : AppCompatActivity() {
             val bgColor = if (!unlocked) "#2A2A3A" else if (beaten) "#1B3A1B" else if (isCurrent) "#3A2A00" else "#2A2F52"
             btn.backgroundTintList = android.content.res.ColorStateList.valueOf(Color.parseColor(bgColor))
             btn.setTextColor(if (unlocked) Color.WHITE else Color.parseColor("#555555"))
-            btn.isEnabled = unlocked
             btn.setOnClickListener {
-                val i = Intent(this, QuizActivity::class.java)
-                i.putExtra("category", category)
-                i.putExtra("level", lvlFinal)
-                startActivity(i)
+                if (unlocked) {
+                    val i = Intent(this, QuizActivity::class.java)
+                    i.putExtra("category", category)
+                    i.putExtra("level", lvlFinal)
+                    startActivity(i)
+                } else {
+                    unlockBtn.performClick()
+                }
             }
             grid.addView(btn)
         }
