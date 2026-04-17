@@ -59,6 +59,7 @@ jobs:
 
       # 7️⃣ Upload artifacts (APK and AAB)
       - name: Upload Release Artifacts
+        continue-on-error: true
         uses: actions/upload-artifact@v4 # Updated to v4
         with:
           name: app-release
