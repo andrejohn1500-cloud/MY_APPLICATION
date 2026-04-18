@@ -120,6 +120,19 @@ class ResultActivity : AppCompatActivity() {
             finish()
         }
 
+        // Auto-save if profile is set
+        val prefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        val savedName = prefs.getString("player_name", "") ?: ""
+        val savedCountry = prefs.getString("player_country", "") ?: ""
+        if (savedName.isNotEmpty() && savedCountry.isNotEmpty()) {
+            binding.etPlayerName.setText(savedName)
+            binding.etPlayerName.isEnabled = false
+            binding.btnSubmitScore.text = "AUTO-SAVING..."
+            binding.btnSubmitScore.isEnabled = false
+            binding.btnSubmitScore.alpha = 0.7f
+            submitScore(savedName, score, total, category, level, cheatsUsed, timeTaken, pct, savedCountry)
+        }
+
         binding.btnSubmitScore.setOnClickListener {
             val name = binding.etPlayerName.text.toString().trim()
             if (name.isEmpty()) {

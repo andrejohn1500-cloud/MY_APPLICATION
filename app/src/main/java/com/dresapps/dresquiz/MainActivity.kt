@@ -18,6 +18,13 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        // Check if profile is set up
+        val prefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+            startActivity(Intent(this, ProfileSetupActivity::class.java))
+            finish()
+            return
+        }
+
         // Check Supabase for premium status on every launch
         val deviceId = SupabaseHelper.getDeviceId(this)
         SupabaseHelper.checkPremiumByDevice(deviceId) { isPremium ->

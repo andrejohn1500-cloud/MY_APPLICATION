@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navy_dark"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🌴 Welcome to DREs Quiz"
+        android:textColor="@color/gold"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set up your profile to get started"
+        android:textColor="#AAAAAA"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"/>
+
+    <TextView
+        android:id="@+id/tvAvatarLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Avatar"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"/>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp">
+
+        <LinearLayout
+            android:id="@+id/layoutAvatars"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="4dp"/>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Name"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etProfileName"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="#1A1E3A"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#666666"
+        android:hint="Enter your name"
+        android:paddingStart="16dp"
+        android:inputType="textPersonName"
+        android:maxLength="20"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Country"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"/>
+
+    <Button
+        android:id="@+id/btnSelectCountry"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:text="Tap to select your country"
+        android:textColor="#AAAAAA"
+        android:textAllCaps="false"
+        android:background="#1A1E3A"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:id="@+id/btnStartPlaying"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="🚀 START PLAYING"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/gold"/>
+
+</LinearLayout>
