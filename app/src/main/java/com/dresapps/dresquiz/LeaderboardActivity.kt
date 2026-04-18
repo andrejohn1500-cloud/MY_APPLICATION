@@ -63,7 +63,7 @@ class LeaderboardActivity : AppCompatActivity() {
             .setTitle("🌍 Your Country")
             .setItems(countries) { _, which ->
                 myCountry = countries[which]
-                btnCountry.text = myCountry
+                binding.btnTabCountry.text = myCountry
                 applyFilter()
             }
             .setNegativeButton("Cancel", null)
