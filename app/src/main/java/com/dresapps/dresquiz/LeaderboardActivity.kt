@@ -72,7 +72,7 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun loadLeaderboard() {
         listener = db.collection("leaderboard")
-            .orderBy("rating", Query.Direction.DESCENDING)
+            .orderBy("timestamp", Query.Direction.DESCENDING)
             .limit(200)
             .addSnapshotListener { docs, error ->
                 if (error != null) {
