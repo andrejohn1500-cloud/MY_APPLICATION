@@ -270,7 +270,8 @@ class QuizActivity : AppCompatActivity() {
                         putExtra("total",    questions.size)
                         putExtra("category", binding.tvCategory.text.toString())
                         putExtra("level", level)
-            putExtra("cheats",   cheatsUsed)
+            putExtra("cheats",     cheatsUsed)
+                        putExtra("time_taken", ((30_000L - timeLeftMs) / 1000).toInt())
                     })
                     finish()
                 }
@@ -282,7 +283,8 @@ class QuizActivity : AppCompatActivity() {
                 putExtra("total",    questions.size)
                 putExtra("category", binding.tvCategory.text.toString())
                 putExtra("level", level)
-            putExtra("cheats",   cheatsUsed)
+            putExtra("cheats",     cheatsUsed)
+                        putExtra("time_taken", ((30_000L - timeLeftMs) / 1000).toInt())
             })
             finish()
         }
