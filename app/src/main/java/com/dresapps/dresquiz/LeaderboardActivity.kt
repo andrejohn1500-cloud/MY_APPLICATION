@@ -16,6 +16,7 @@ class LeaderboardActivity : AppCompatActivity() {
     private var listener: ListenerRegistration? = null
     private var allEntries: List<LeaderEntry> = emptyList()
     private var currentTab = "Global"
+    private var selectedCategory = "All"
     private var myCountry = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -32,18 +33,24 @@ class LeaderboardActivity : AppCompatActivity() {
     }
 
     private fun highlightTab(tab: String) {
-        val gold = android.graphics.Color.parseColor("#FFA500")
-        val dim = android.graphics.Color.parseColor("#2A2A4A")
-        binding.btnTabGlobal.setBackgroundColor(if (tab == "Global") gold else dim)
-        binding.btnTabCountry.setBackgroundColor(if (tab == "Country") gold else dim)
-        binding.btnTabCategory.setBackgroundColor(if (tab == "Category") gold else dim)
+        val gold = android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#FFA500"))
+        val dim  = android.content.res.ColorStateList.valueOf(android.graphics.Color.parseColor("#2A2A4A"))
+        binding.btnTabGlobal.backgroundTintList    = if (tab == "Global")   gold else dim
+        binding.btnTabCountry.backgroundTintList   = if (tab == "Country")  gold else dim
+        binding.btnTabCategory.backgroundTintList  = if (tab == "Category") gold else dim
+        binding.btnTabGlobal.setTextColor(if (tab == "Global") android.graphics.Color.BLACK else android.graphics.Color.WHITE)
+        binding.btnTabCountry.setTextColor(if (tab == "Country") android.graphics.Color.BLACK else android.graphics.Color.WHITE)
+        binding.btnTabCategory.setTextColor(if (tab == "Category") android.graphics.Color.BLACK else android.graphics.Color.WHITE)
     }
 
     private fun switchTab(tab: String) {
         currentTab = tab
         highlightTab(tab)
-        if (tab == "Country" && myCountry.isEmpty()) showCountrySelector()
-        else applyFilter()
+        when {
+            tab == "Country" && myCountry.isEmpty() -> showCountrySelector()
+            tab == "Category" -> showCategorySelector()
+            else -> applyFilter()
+        }
     }
 
     private fun showCountrySelector() {
@@ -57,6 +64,21 @@ class LeaderboardActivity : AppCompatActivity() {
             .setItems(countries) { _, w ->
                 myCountry = countries[w]
                 binding.btnTabCountry.text = myCountry
+                applyFilter()
+            }
+            .setNegativeButton("Cancel", null).show()
+    }
+
+    private fun showCategorySelector() {
+        val cats = arrayOf("All","Caribbean History","Science & Tech","Sports","World Geography",
+            "Arts & Culture","SVG & Vincy Life","CXC English A","CXC English B","CXC Maths",
+            "CXC Integrated Science","CXC Social Studies","CXC Geography","CXC POB","CXC IT",
+            "CXC Office Admin","CXC Physical Education")
+        android.app.AlertDialog.Builder(this)
+            .setTitle("Select Category")
+            .setItems(cats) { _, w ->
+                selectedCategory = cats[w]
+                binding.btnTabCategory.text = if (selectedCategory == "All") "Category" else selectedCategory.take(10)
                 applyFilter()
             }
             .setNegativeButton("Cancel", null).show()
@@ -92,9 +114,11 @@ class LeaderboardActivity : AppCompatActivity() {
     }
 
     private fun applyFilter() {
-        val filtered = if (currentTab == "Country")
-            allEntries.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
-        else allEntries
+        var filtered = allEntries
+        if (currentTab == "Country" && myCountry.isNotEmpty())
+            filtered = filtered.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
+        if (currentTab == "Category" && selectedCategory != "All")
+            filtered = filtered.filter { it.category == selectedCategory }
         if (binding.rvLeaderboard.adapter == null)
             binding.rvLeaderboard.adapter = LeaderboardAdapter(filtered)
         else
