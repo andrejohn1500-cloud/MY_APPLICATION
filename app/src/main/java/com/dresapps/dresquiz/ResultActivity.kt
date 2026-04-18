@@ -12,6 +12,7 @@ class ResultActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityResultBinding
     private val db = FirebaseFirestore.getInstance()
+    private var selectedCountry = ""
 
     private val remarksHundred = listOf(
         "Perfect score! The curriculum bows to you.",
@@ -47,39 +48,41 @@ class ResultActivity : AppCompatActivity() {
         binding = ActivityResultBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val score    = intent.getIntExtra("score", 0)
-        val total    = intent.getIntExtra("total", 17)
-        val category = intent.getStringExtra("category") ?: ""
+        val score      = intent.getIntExtra("score", 0)
+        val total      = intent.getIntExtra("total", 17)
+        val category   = intent.getStringExtra("category") ?: ""
         val level      = intent.getIntExtra("level", 1)
         val cheatsUsed = intent.getIntExtra("cheats", 0)
-        val pct      = if (total > 0) (score.toFloat() / total * 100).toInt() else 0
+        val timeTaken  = intent.getIntExtra("time_taken", 0)
+        val pct        = if (total > 0) (score.toFloat() / total * 100).toInt() else 0
 
         binding.tvResultCategory.text = category
-        binding.tvFinalScore.text = score.toString()
-        binding.tvScoreLabel.text = " / $total"
-        binding.tvCheatsUsed.text = if (cheatsUsed > 0) "Cheats used: $cheatsUsed" else "No cheats used"
-        binding.tvPercent.text = "$pct%"
+        binding.tvFinalScore.text     = score.toString()
+        binding.tvScoreLabel.text     = "/ $total"
+        binding.tvCheatsUsed.text     = if (cheatsUsed > 0) "Cheats used: $cheatsUsed" else "No cheats used"
+        binding.tvPercent.text        = "$pct%"
         binding.progressResult.progress = pct
 
+        val tier = getTier(level, pct)
         when {
             pct == 100 -> {
                 binding.tvTrophy.text = "🏆"
-                binding.tvGrade.text = "Outstanding!"
+                binding.tvGrade.text  = "Outstanding!"
                 binding.tvGrade.setTextColor(Color.parseColor("#4CAF50"))
             }
             pct >= 80 -> {
                 binding.tvTrophy.text = "🥇"
-                binding.tvGrade.text = "Great Work!"
+                binding.tvGrade.text  = "Great Work!"
                 binding.tvGrade.setTextColor(Color.parseColor("#FFD700"))
             }
             pct >= 50 -> {
                 binding.tvTrophy.text = "🥈"
-                binding.tvGrade.text = "Good Effort!"
+                binding.tvGrade.text  = "Good Effort!"
                 binding.tvGrade.setTextColor(Color.parseColor("#FF9800"))
             }
             else -> {
                 binding.tvTrophy.text = "📚"
-                binding.tvGrade.text = "Keep Studying!"
+                binding.tvGrade.text  = "Keep Studying!"
                 binding.tvGrade.setTextColor(Color.parseColor("#F44336"))
             }
         }
@@ -94,22 +97,22 @@ class ResultActivity : AppCompatActivity() {
 
         if (pct >= 80) {
             binding.btnNextLevel.isEnabled = true
-            binding.btnNextLevel.alpha = 1.0f
-            binding.btnNextLevel.text = "🚀  NEXT LEVEL"
+            binding.btnNextLevel.alpha     = 1.0f
+            binding.btnNextLevel.text      = "🚀 NEXT LEVEL"
         } else {
             binding.btnNextLevel.isEnabled = false
-            binding.btnNextLevel.alpha = 0.35f
-            binding.btnNextLevel.text = "🔒  NEXT LEVEL  (80% required)"
+            binding.btnNextLevel.alpha     = 0.35f
+            binding.btnNextLevel.text      = "🔒 NEXT LEVEL  (80% required)"
         }
 
         binding.btnNextLevel.setOnClickListener {
-                val nextLvl = level + 1
-                if (nextLvl >= 3 && !AppPreferences.isPremium(this)) {
-                    val intent = Intent(this, LevelSelectActivity::class.java)
-                    intent.putExtra("category", category)
-                    startActivity(intent)
-                    return@setOnClickListener
-                }
+            val nextLvl = level + 1
+            if (nextLvl >= 3 && !AppPreferences.isPremium(this)) {
+                val intent = Intent(this, LevelSelectActivity::class.java)
+                intent.putExtra("category", category)
+                startActivity(intent)
+                return@setOnClickListener
+            }
             val nextIntent = Intent(this, QuizActivity::class.java)
             nextIntent.putExtra("category", category)
             nextIntent.putExtra("level", level + 1)
@@ -123,7 +126,7 @@ class ResultActivity : AppCompatActivity() {
                 Toast.makeText(this, "Please enter your name", Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
             }
-            submitScore(name, score, total, category, cheatsUsed)
+            showCountryPicker(name, score, total, category, level, cheatsUsed, timeTaken, pct)
         }
 
         binding.btnPlayAgain.setOnClickListener {
@@ -132,7 +135,7 @@ class ResultActivity : AppCompatActivity() {
         }
 
         binding.btnShare.setOnClickListener {
-            val shareText = "I scored $score/$total ($pct%) in $category on DREs Quiz! Can you beat me?"
+            val shareText = "I scored $score/$total ($pct%) on Level $level in $category on DREs Quiz!\nRank: $tier 🌴 Can you beat me?"
             val intent = Intent(Intent.ACTION_SEND).apply {
                 type = "text/plain"
                 putExtra(Intent.EXTRA_TEXT, shareText)
@@ -148,32 +151,70 @@ class ResultActivity : AppCompatActivity() {
         }
     }
 
-    private fun submitScore(name: String, score: Int, total: Int, category: String, cheats: Int = 0) {
+    fun getTier(level: Int, pct: Int): String = when {
+        level >= 20 && pct >= 90 -> "🏆 Caribbean Legend"
+        level >= 17              -> "👑 Master"
+        level >= 13              -> "💎 Diamond"
+        level >= 8               -> "🥇 Champion"
+        level >= 4               -> "🥈 Scholar"
+        else                     -> "🥉 Rookie"
+    }
+
+    private fun showCountryPicker(name: String, score: Int, total: Int, category: String, level: Int, cheats: Int, timeTaken: Int, pct: Int) {
+        val countries = arrayOf(
+            "🇦🇮 Anguilla", "🇦🇬 Antigua & Barbuda", "🇧🇧 Barbados", "🇧🇿 Belize",
+            "🇻🇬 British Virgin Islands", "🇰🇾 Cayman Islands", "🇩🇲 Dominica", "🇬🇩 Grenada",
+            "🇬🇾 Guyana", "🇯🇲 Jamaica", "🇲🇸 Montserrat", "🇰🇳 St. Kitts & Nevis",
+            "🇱🇨 St. Lucia", "🇻🇨 St. Vincent & the Grenadines", "🇹🇹 Trinidad & Tobago",
+            "🇹🇨 Turks & Caicos Islands"
+        )
+        android.app.AlertDialog.Builder(this)
+            .setTitle("🌍 Select Your Country")
+            .setItems(countries) { _, which ->
+                selectedCountry = countries[which]
+                submitScore(name, score, total, category, level, cheats, timeTaken, pct, selectedCountry)
+            }
+            .setNegativeButton("Cancel", null)
+            .show()
+    }
+
+    private fun submitScore(name: String, score: Int, total: Int, category: String,
+                            level: Int, cheats: Int, timeTaken: Int, pct: Int, country: String) {
+        val noCheatBonus = if (cheats == 0) 15 else 0
+        val speedBonus   = if (timeTaken in 1..300) maxOf(0, 20 - (timeTaken / 20)) else 0
+        val rating       = pct + noCheatBonus + speedBonus + (level * 5)
+
         db.collection("leaderboard")
             .whereEqualTo("name", name)
+            .whereEqualTo("category", category)
+            .whereEqualTo("level", level)
             .get()
             .addOnSuccessListener { docs ->
-                val existing = docs.firstOrNull()
-                val prevBest = existing?.getLong("score")?.toInt() ?: -1
+                val existing  = docs.firstOrNull()
+                val prevBest  = existing?.getLong("score")?.toInt() ?: -1
                 if (existing != null && prevBest >= score) {
-                    Toast.makeText(this, "Your best score is already $prevBest/$total", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "Your best on Level $level is already $prevBest/$total 🏆", Toast.LENGTH_SHORT).show()
                     binding.btnSubmitScore.isEnabled = false
-                    binding.btnSubmitScore.alpha = 0.5f
+                    binding.btnSubmitScore.alpha     = 0.5f
                     return@addOnSuccessListener
                 }
                 val data = hashMapOf<String, Any>(
-                    "name" to name,
-                    "score" to score,
-                    "cheats" to cheats,
-                    "total" to total,
-                    "category" to category,
-                    "timestamp" to System.currentTimeMillis()
+                    "name"       to name,
+                    "score"      to score,
+                    "cheats"     to cheats,
+                    "total"      to total,
+                    "category"   to category,
+                    "level"      to level,
+                    "country"    to country,
+                    "rating"     to rating,
+                    "time_taken" to timeTaken,
+                    "timestamp"  to System.currentTimeMillis()
                 )
                 if (existing != null) existing.reference.set(data)
                 else db.collection("leaderboard").add(data)
-                Toast.makeText(this, "New best score saved!", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Saved! Level $level · $score/$total · Rating: $rating 🏆", Toast.LENGTH_LONG).show()
                 binding.btnSubmitScore.isEnabled = false
-                binding.btnSubmitScore.alpha = 0.5f
+                binding.btnSubmitScore.alpha     = 0.5f
             }
             .addOnFailureListener {
                 Toast.makeText(this, "Submission failed. Check connection.", Toast.LENGTH_SHORT).show()
