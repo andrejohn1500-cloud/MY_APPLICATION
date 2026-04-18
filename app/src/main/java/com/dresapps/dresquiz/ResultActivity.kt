@@ -161,6 +161,13 @@ class ResultActivity : AppCompatActivity() {
     }
 
     private fun showCountryPicker(name: String, score: Int, total: Int, category: String, level: Int, cheats: Int, timeTaken: Int, pct: Int) {
+        val prefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        val savedCountry = prefs.getString("player_country", "") ?: ""
+        if (savedCountry.isNotEmpty()) {
+            selectedCountry = savedCountry
+            submitScore(name, score, total, category, level, cheats, timeTaken, pct, selectedCountry)
+            return
+        }
         val countries = arrayOf(
             "🇦🇮 Anguilla", "🇦🇬 Antigua & Barbuda", "🇧🇧 Barbados", "🇧🇿 Belize",
             "🇻🇬 British Virgin Islands", "🇰🇾 Cayman Islands", "🇩🇲 Dominica", "🇬🇩 Grenada",
@@ -169,9 +176,10 @@ class ResultActivity : AppCompatActivity() {
             "🇹🇨 Turks & Caicos Islands"
         )
         android.app.AlertDialog.Builder(this)
-            .setTitle("🌍 Select Your Country")
+            .setTitle("🌍 Select Your Country (saved for future)")
             .setItems(countries) { _, which ->
                 selectedCountry = countries[which]
+                prefs.edit().putString("player_country", selectedCountry).apply()
                 submitScore(name, score, total, category, level, cheats, timeTaken, pct, selectedCountry)
             }
             .setNegativeButton("Cancel", null)

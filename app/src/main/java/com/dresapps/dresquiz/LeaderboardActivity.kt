@@ -93,7 +93,7 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun applyFilter() {
         val filtered = if (currentTab == "Country")
-            allEntries.filter { it.country == myCountry }
+            allEntries.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
         else allEntries
         if (binding.rvLeaderboard.adapter == null)
             binding.rvLeaderboard.adapter = LeaderboardAdapter(filtered)
