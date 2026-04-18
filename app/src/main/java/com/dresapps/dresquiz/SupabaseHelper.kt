@@ -25,9 +25,13 @@ object SupabaseHelper {
                 val json = """{"email":"$email","device_id":"$deviceId","is_premium":false}"""
                 OutputStreamWriter(conn.outputStream).use { it.write(json); it.flush() }
                 val code = conn.responseCode
+                val errorBody = try { conn.errorStream?.bufferedReader()?.readText() ?: "" } catch (e: Exception) { "" }
+                val successBody = try { conn.inputStream?.bufferedReader()?.readText() ?: "" } catch (e: Exception) { "" }
+                android.util.Log.e("DresQuizSupabase", "registerUser code=$code body=$successBody error=$errorBody json=$json")
                 conn.disconnect()
                 Handler(Looper.getMainLooper()).post { callback(code in 200..299) }
             } catch (e: Exception) {
+                android.util.Log.e("DresQuizSupabase", "registerUser EXCEPTION: ${e.javaClass.simpleName}: ${e.message}", e)
                 Handler(Looper.getMainLooper()).post { callback(false) }
             }
         }.start()
