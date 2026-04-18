@@ -27,12 +27,15 @@ class LeaderboardActivity : AppCompatActivity() {
         binding.rvLeaderboard.layoutManager = LinearLayoutManager(this)
         binding.btnBack.setOnClickListener { finish() }
 
-        highlightTab("Global")
-        binding.btnTabGlobal.setOnClickListener   { switchTab("Global") }
-        binding.btnTabCountry.setOnClickListener  { switchTab("Country") }
-        binding.btnTabCategory.setOnClickListener { switchTab("Category") }
-
-        loadLeaderboard()
+        try {
+            highlightTab("Global")
+            binding.btnTabGlobal.setOnClickListener   { switchTab("Global") }
+            binding.btnTabCountry.setOnClickListener  { switchTab("Country") }
+            binding.btnTabCategory.setOnClickListener { switchTab("Category") }
+            loadLeaderboard()
+        } catch (e: Exception) {
+            android.widget.Toast.makeText(this, "Error: ${e.message}", android.widget.Toast.LENGTH_LONG).show()
+        }
     }
 
     private fun highlightTab(tab: String) {
