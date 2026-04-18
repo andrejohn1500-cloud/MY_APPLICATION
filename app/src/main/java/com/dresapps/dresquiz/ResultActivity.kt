@@ -49,7 +49,7 @@ class ResultActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         val score      = intent.getIntExtra("score", 0)
-        val total      = intent.getIntExtra("total", 17)
+        val total      = intent.getIntExtra("total", 15)
         val category   = intent.getStringExtra("category") ?: ""
         val level      = intent.getIntExtra("level", 1)
         val cheatsUsed = intent.getIntExtra("cheats", 0)

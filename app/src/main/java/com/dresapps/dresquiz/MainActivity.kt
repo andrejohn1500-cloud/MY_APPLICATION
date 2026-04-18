@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         // Check if profile is set up
         val prefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        if (!prefs.getBoolean("profile_set", false)) {
             startActivity(Intent(this, ProfileSetupActivity::class.java))
             finish()
             return
@@ -87,18 +88,4 @@ class MainActivity : AppCompatActivity() {
         // bgMusic?.isLooping = true
     }
 
-    override fun onResume() {
-        super.onResume()
-        // bgMusic?.start()
-    }
-
-    override fun onPause() {
-        super.onPause()
-        bgMusic?.pause()
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-        bgMusic?.release()
-    }
 }
