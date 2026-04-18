@@ -72,7 +72,8 @@ class LeaderboardActivity : AppCompatActivity() {
                 val fmt = SimpleDateFormat("MMM d, yyyy", java.util.Locale.getDefault())
                 allEntries = docs?.mapNotNull { doc ->
                     try {
-                        val ts = doc.getTimestamp("timestamp")
+                        val tsLong = doc.getLong("timestamp")
+                        val ts = if (tsLong != null) com.google.firebase.Timestamp(tsLong / 1000, 0) else null
                         LeaderEntry(
                             name = doc.getString("name") ?: "Anonymous",
                             score = doc.getLong("score")?.toInt() ?: 0,
