@@ -1,8 +1,7 @@
 package com.dresapps.dresquiz
 
 import android.os.Bundle
-import android.view.Gravity
-import android.widget.*
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.dresapps.dresquiz.databinding.ActivityLeaderboardBinding
@@ -22,11 +21,6 @@ class LeaderboardActivity : AppCompatActivity() {
     private var currentTab = "Global"
     private var myCountry = ""
 
-    // Tab button refs for highlight
-    private lateinit var btnGlobal: Button
-    private lateinit var btnCountry: Button
-    private lateinit var btnCategory: Button
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityLeaderboardBinding.inflate(layoutInflater)
@@ -34,57 +28,20 @@ class LeaderboardActivity : AppCompatActivity() {
         binding.rvLeaderboard.layoutManager = LinearLayoutManager(this)
         binding.btnBack.setOnClickListener { finish() }
 
-        buildTabBar()
-        loadLeaderboard()
-    }
-
-    private fun buildTabBar() {
-        // Insert tab row programmatically above RecyclerView
-        val parent = binding.rvLeaderboard.parent as android.view.ViewGroup
-        val rvIndex = (0 until parent.childCount).first { parent.getChildAt(it) == binding.rvLeaderboard }
-
-        val row = LinearLayout(this).apply {
-            orientation = LinearLayout.HORIZONTAL
-            gravity     = Gravity.CENTER
-            setPadding(12, 16, 12, 8)
-        }
-
-        fun makeTab(label: String): Button = Button(this).apply {
-            text      = label
-            textSize  = 12f
-            isAllCaps = false
-            setTextColor(android.graphics.Color.WHITE)
-            layoutParams = LinearLayout.LayoutParams(0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f).apply {
-                setMargins(6, 0, 6, 0)
-            }
-            background = android.graphics.drawable.GradientDrawable().apply {
-                cornerRadius = 24f
-                setColor(android.graphics.Color.parseColor("#555577"))
-            }
-        }
-
-        btnGlobal   = makeTab("🌍 Global")
-        btnCountry  = makeTab("🏳️ My Country")
-        btnCategory = makeTab("📚 Category")
-
-        btnGlobal.setOnClickListener   { switchTab("Global") }
-        btnCountry.setOnClickListener  { switchTab("Country") }
-        btnCategory.setOnClickListener { switchTab("Category") }
-
-        row.addView(btnGlobal)
-        row.addView(btnCountry)
-        row.addView(btnCategory)
-        parent.addView(row, rvIndex)
-
         highlightTab("Global")
+        binding.btnTabGlobal.setOnClickListener   { switchTab("Global") }
+        binding.btnTabCountry.setOnClickListener  { switchTab("Country") }
+        binding.btnTabCategory.setOnClickListener { switchTab("Category") }
+
+        loadLeaderboard()
     }
 
     private fun highlightTab(tab: String) {
         val gold = android.graphics.Color.parseColor("#FFA500")
-        val dim  = android.graphics.Color.parseColor("#555577")
-        listOf(btnGlobal to "Global", btnCountry to "Country", btnCategory to "Category").forEach { (btn, t) ->
-            (btn.background as android.graphics.drawable.GradientDrawable).setColor(if (t == tab) gold else dim)
-        }
+        val dim  = android.graphics.Color.parseColor("#2A2A4A")
+        binding.btnTabGlobal.setBackgroundColor(if (tab == "Global") gold else dim)
+        binding.btnTabCountry.setBackgroundColor(if (tab == "Country") gold else dim)
+        binding.btnTabCategory.setBackgroundColor(if (tab == "Category") gold else dim)
     }
 
     private fun switchTab(tab: String) {
