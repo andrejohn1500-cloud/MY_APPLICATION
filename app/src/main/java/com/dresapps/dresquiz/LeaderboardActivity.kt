@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.dresapps.dresquiz.databinding.ActivityLeaderboardBinding
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration
-import com.google.firebase.firestore.Query
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -72,7 +71,6 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun loadLeaderboard() {
         listener = db.collection("leaderboard")
-            .orderBy("timestamp", Query.Direction.DESCENDING)
             .limit(200)
             .addSnapshotListener { docs, error ->
                 if (error != null) {
@@ -95,6 +93,7 @@ class LeaderboardActivity : AppCompatActivity() {
                         rating   = doc.getLong("rating")?.toInt()   ?: 0
                     )
                 } ?: emptyList()
+                allEntries = allEntries.sortedByDescending { it.rating }
                 applyFilter()
             }
     }
