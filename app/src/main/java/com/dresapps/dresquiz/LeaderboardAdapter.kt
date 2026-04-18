@@ -14,7 +14,9 @@ data class LeaderEntry(
     val cheats: Int = 0,
     val category: String = "",
     val date: String = "",
-    val level: Int = 1
+    val level: Int = 1,
+    val country: String = "",
+    val rating: Int = 0
 )
 
 class LeaderboardAdapter(private var entries: List<LeaderEntry>) :
