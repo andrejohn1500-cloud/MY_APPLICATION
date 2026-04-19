@@ -55,21 +55,22 @@
             android:textAllCaps="false"
             android:background="@drawable/bg_option_default"/>
 
-        <Button
+        <TextView
             android:id="@+id/btnTabCategory"
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:minHeight="42dp"
             android:maxLines="4"
-            android:ellipsize="none"
             android:gravity="center"
             android:layout_marginStart="4dp"
             android:text="Category"
             android:textSize="11sp"
             android:textColor="#FFFFFF"
-            android:textAllCaps="false"
-            android:background="@drawable/bg_option_default"/>
+            android:background="@drawable/bg_option_default"
+            android:padding="8dp"
+            android:clickable="true"
+            android:focusable="true"/>
 
     </LinearLayout>
 
