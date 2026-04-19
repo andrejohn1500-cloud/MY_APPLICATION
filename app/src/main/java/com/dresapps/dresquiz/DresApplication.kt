@@ -4,12 +4,14 @@ import android.app.Application
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
+import app.rive.runtime.kotlin.RiveInitializer
 
 class DresApplication : Application() {
     private var activityCount = 0
 
     override fun onCreate() {
         super.onCreate()
+        RiveInitializer.initializer(this)
         registerActivityLifecycleCallbacks(object : ActivityLifecycleCallbacks {
             override fun onActivityStarted(a: Activity) {
                 activityCount++
