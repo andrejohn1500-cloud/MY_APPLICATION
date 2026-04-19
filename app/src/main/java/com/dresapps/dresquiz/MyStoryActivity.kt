@@ -88,7 +88,7 @@ class MyStoryActivity : AppCompatActivity() {
         binding.btnViewStory.setOnClickListener {
             AlertDialog.Builder(this)
                 .setTitle("📖 My Story")
-                .setMessage("My Story — Andre N. John\n\nI grew up in St. Vincent with no electricity, no running water, and no guarantees.\n\nOn June 14, 2025, I was seriously injured in the line of duty.\n\nWith no formal training in software development, I taught myself. I failed often. I kept going. DREs Quiz was built from that bed, question by question, screen by screen.\n\nPlay hard. Learn something. Carry it with you.\n\nYours Truly,\nAndre N. John\n\n\"Built in stillness. Released with purpose.\"")
+                .setMessage("A Message to You\n\nYou picked up this phone today.\n\nMaybe to pass time. Maybe someone sent you the link. Either way you are here now, and that matters.\n\nEvery Caribbean student who has ever felt like the system wasn't built for them this was made for you. Not to replace school. Just to give you an edge at the thing that can quietly change the direction of your life: your CXC exams.\n\nThe world is loud. Social media is louder. But somewhere in the middle of all that noise, your grades are still the one thing no one can take from you.\n\nYou don't have to be perfect. You just have to keep going.\n\nPlay this game like it matters. Because one day when you're holding your results slip you'll remember that you prepared. You'll remember that you showed up.\n\nThat's the version of you worth becoming.\n\nPlay hard. Study harder.\n\nAndré N. John")
                 .setPositiveButton("Close", null)
                 .show()
         }
