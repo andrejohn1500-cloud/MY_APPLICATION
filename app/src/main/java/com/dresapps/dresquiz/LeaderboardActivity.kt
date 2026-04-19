@@ -59,10 +59,11 @@ class LeaderboardActivity : AppCompatActivity() {
 
     private fun showCountrySelector() {
         val countries = arrayOf("Anguilla","Antigua & Barbuda","Barbados","Belize",
-            "British Virgin Islands","Cayman Islands","Dominica","Grenada",
-            "Guyana","Jamaica","Montserrat","St. Kitts & Nevis",
-            "St. Lucia","St. Vincent & Grenadines","Trinidad & Tobago",
-            "Turks & Caicos Islands")
+                "British Virgin Islands","Canada","Cayman Islands","Dominica",
+                "France","Grenada","Guyana","Jamaica","Montserrat",
+                "Netherlands","St. Kitts & Nevis","St. Lucia",
+                "St. Vincent and the Grenadines","Spain","Trinidad & Tobago",
+                "Turks & Caicos Islands","UK","USA")
         android.app.AlertDialog.Builder(this)
             .setTitle("Select Your Country")
             .setItems(countries) { _, w ->
