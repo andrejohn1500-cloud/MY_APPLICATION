@@ -1,4 +1,5 @@
 package com.dresapps.dresquiz
+import app.rive.runtime.kotlin.RiveAnimationView
 
 import android.content.Intent
 import android.media.AudioAttributes
