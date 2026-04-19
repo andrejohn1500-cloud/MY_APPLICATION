@@ -234,7 +234,7 @@ class QuizActivity : AppCompatActivity() {
 
     private fun showScientist(remark: String, type: String = "correct") {
         val card = findViewById<CardView>(R.id.scientistCard) ?: return
-        val avatarView = card.findViewById<TextView>(R.id.tvScientistAvatar)
+        val avatarView = findViewById<android.widget.TextView>(R.id.tvScientistAvatar)
 
         // Set avatar emoji based on answer type
         val avatar = when {
