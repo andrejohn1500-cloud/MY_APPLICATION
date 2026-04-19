@@ -121,7 +121,13 @@ class LeaderboardActivity : AppCompatActivity() {
     private fun applyFilter() {
         var filtered = allEntries.sortedByDescending { it.rating }
         if (currentTab == "Country" && myCountry.isNotEmpty())
-            filtered = filtered.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
+            filtered = filtered.filter {
+                val c = it.country.trim()
+                val m = myCountry.trim()
+                c.contains(m, ignoreCase = true) || m.contains(c, ignoreCase = true) ||
+                // Handle SVG name variants
+                (m.contains("Vincent", ignoreCase = true) && c.contains("Vincent", ignoreCase = true))
+            }
         if (currentTab == "Category" && selectedCategory != "All")
             filtered = filtered.filter { it.category.contains(selectedCategory, ignoreCase = true) }
         if (binding.rvLeaderboard.adapter == null)
@@ -134,17 +140,17 @@ class LeaderboardActivity : AppCompatActivity() {
         super.onResume()
         val profilePrefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
         val savedCountry = profilePrefs.getString("p_country", "") ?: ""
-        if (savedCountry.isNotEmpty() && myCountry != savedCountry) {
+        val shortLabel2 = when (savedCountry) {
+            "St. Vincent and the Grenadines" -> "St. Vincent"
+            "Trinidad & Tobago" -> "T&T"
+            "British Virgin Islands" -> "BVI"
+            "Turks & Caicos Islands" -> "Turks & Caicos"
+            "Antigua & Barbuda" -> "Antigua"
+            else -> savedCountry
+        }
+        if (savedCountry.isNotEmpty()) {
             myCountry = savedCountry
-            val shortLabel = when (myCountry) {
-                "St. Vincent and the Grenadines" -> "St. Vincent"
-                "Trinidad & Tobago" -> "T&T"
-                "British Virgin Islands" -> "BVI"
-                "Turks & Caicos Islands" -> "Turks & Caicos"
-                "Antigua & Barbuda" -> "Antigua"
-                else -> myCountry
-            }
-            binding.btnTabCountry.text = shortLabel
+            binding.btnTabCountry.text = shortLabel2
             highlightTab("Country")
             applyFilter()
         }
