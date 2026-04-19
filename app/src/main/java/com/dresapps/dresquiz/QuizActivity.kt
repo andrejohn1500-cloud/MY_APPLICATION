@@ -234,9 +234,11 @@ class QuizActivity : AppCompatActivity() {
 
     private fun showScientist(remark: String, type: String = "correct") {
         val card = findViewById<CardView>(R.id.scientistCard) ?: return
-        val avatarView = findViewById<android.widget.TextView>(R.id.tvScientistAvatar)
+        val avatarView = findViewById<RiveAnimationView>(R.id.riveTeacher)
+        avatarView?.setRiveResource(R.raw.teacher)
+        avatarView?.play()
 
-        // Set avatar emoji based on answer type
+        // Rive animation plays automatically
         val avatar = when {
             type == "correct" && remark.contains("LEGEND") -> "🏆"
             type == "correct" && remark.contains("Einstein") -> "🧠"
@@ -248,7 +250,6 @@ class QuizActivity : AppCompatActivity() {
             type == "timer" -> listOf("⏰","😱","🏃","💨","😰","🕐").random()
             else -> "🤔"
         }
-        avatarView?.text = avatar
         binding.tvScientistRemark.text = remark
 
         // Bounce animation on avatar

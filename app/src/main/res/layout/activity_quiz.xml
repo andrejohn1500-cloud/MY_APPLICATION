@@ -184,8 +184,6 @@
             android:id="@+id/riveTeacher"
             android:layout_width="70dp"
             android:layout_height="70dp"
-            app:riveResource="@raw/teacher"
-            app:riveAutoPlay="true"
             android:layout_marginEnd="10dp"/>
 
             <TextView
