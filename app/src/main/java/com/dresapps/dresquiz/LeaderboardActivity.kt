@@ -150,7 +150,8 @@ class LeaderboardActivity : AppCompatActivity() {
         }
         if (savedCountry.isNotEmpty()) {
             myCountry = savedCountry
-            binding.btnTabCountry.text = shortLabel2
+            binding.btnTabCountry.text = savedCountry
+            currentTab = "Country"
             highlightTab("Country")
             applyFilter()
         }
