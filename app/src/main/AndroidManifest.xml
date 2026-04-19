@@ -18,6 +18,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3890705518764486~6990807577"/>
 
+        <activity android:name=".PlayerProfileActivity" />
         <activity android:name=".ProfileSetupActivity"/>
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>

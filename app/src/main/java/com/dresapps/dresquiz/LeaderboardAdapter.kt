@@ -60,6 +60,16 @@ class LeaderboardAdapter(private var entries: List<LeaderEntry>) :
         }
 
         holder.tvName.text  = e.name
+        holder.itemView.setOnClickListener {
+            val e = entries[holder.adapterPosition]
+            val ctx = holder.itemView.context
+            ctx.startActivity(android.content.Intent(ctx, PlayerProfileActivity::class.java).apply {
+                putExtra("p_name", e.name)
+                putExtra("p_country", e.country)
+                putExtra("p_rating", e.rating)
+                putExtra("p_cheats", e.cheats)
+            })
+        }
         holder.tvScore.text = "${e.score}/${e.total}"
         holder.tvCategory.text = e.category.ifBlank { "General" }
         holder.tvLevel.text = "Lvl ${e.level}"

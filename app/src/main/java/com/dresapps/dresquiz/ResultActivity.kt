@@ -55,6 +55,15 @@ class ResultActivity : AppCompatActivity() {
         val cheatsUsed = intent.getIntExtra("cheats", 0)
         val timeTaken  = intent.getIntExtra("time_taken", 0)
         val pct        = if (total > 0) (score.toFloat() / total * 100).toInt() else 0
+        // Save player stats to profile
+        val sp = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        val ed = sp.edit()
+        ed.putInt("total_games", sp.getInt("total_games", 0) + 1)
+        if (score > sp.getInt("best_score", 0)) ed.putInt("best_score", score)
+        if (level > sp.getInt("highest_level", 0)) ed.putInt("highest_level", level)
+        ed.putInt("total_rating", sp.getInt("total_rating", 0) + pct)
+        if (cheatsUsed == 0) ed.putInt("clean_games", sp.getInt("clean_games", 0) + 1)
+        ed.apply()
 
         binding.tvResultCategory.text = category
         binding.tvFinalScore.text     = score.toString()
