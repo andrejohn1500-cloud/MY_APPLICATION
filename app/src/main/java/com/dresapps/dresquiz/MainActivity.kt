@@ -90,8 +90,9 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+
     private fun checkForUpdate() {
-        val currentVersionCode = BuildConfig.VERSION_CODE
+        val currentVersionCode = packageManager.getPackageInfo(packageName, 0).versionCode
         Thread {
             try {
                 val url = java.net.URL("https://ncfeudprexwdvwcnlhtx.supabase.co/rest/v1/app_version?id=eq.1&select=version_code,version_name,update_url,release_notes")
@@ -99,28 +100,29 @@ class MainActivity : AppCompatActivity() {
                 conn.setRequestProperty("apikey", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5jZmV1ZHByZXh3ZHZ3Y25saHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxMDU2MzMsImV4cCI6MjA5MTY4MTYzM30.aCcKi8UooIL8nAACb3dWrbESZdYYPR8W-nPygCC7-Lc")
                 conn.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5jZmV1ZHByZXh3ZHZ3Y25saHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxMDU2MzMsImV4cCI6MjA5MTY4MTYzM30.aCcKi8UooIL8nAACb3dWrbESZdYYPR8W-nPygCC7-Lc")
                 val response = conn.inputStream.bufferedReader().readText()
-                // Parse version_code from JSON
-                val remoteCode = Regex('"version_code":(\d+)').find(response)?.groupValues?.get(1)?.toIntOrNull() ?: return@Thread
-                val remoteName = Regex('"version_name":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
-                val updateUrl = Regex('"update_url":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
-                val notes = Regex('"release_notes":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
+                val arr = org.json.JSONArray(response)
+                if (arr.length() == 0) return@Thread
+                val obj = arr.getJSONObject(0)
+                val remoteCode = obj.getInt("version_code")
+                val remoteName = obj.getString("version_name")
+                val updateUrl = obj.getString("update_url")
+                val notes = obj.getString("release_notes")
                 if (remoteCode > currentVersionCode) {
                     runOnUiThread {
                         android.app.AlertDialog.Builder(this)
-                            .setTitle("🎉 Update Available! v$remoteName")
-                            .setMessage("What's new:\n$notes\n\nUpdate now for the best experience!")
+                            .setTitle("Update Available! v$remoteName")
+                            .setMessage("What's new:
+$notes
+
+Update now for the best experience!")
                             .setPositiveButton("Download Update") { _, _ ->
-                                val intent = android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse(updateUrl))
-                                startActivity(intent)
+                                startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse(updateUrl)))
                             }
                             .setNegativeButton("Later", null)
                             .show()
                     }
                 }
-            } catch (e: Exception) {
-                e.printStackTrace()
-            }
+            } catch (e: Exception) { e.printStackTrace() }
         }.start()
     }
-
 }
