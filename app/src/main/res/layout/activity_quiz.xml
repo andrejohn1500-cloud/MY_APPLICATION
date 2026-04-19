@@ -182,9 +182,19 @@
 
             <app.rive.runtime.kotlin.RiveAnimationView
             android:id="@+id/riveTeacher"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
             android:layout_marginEnd="10dp"/>
+
+        <TextView
+            android:id="@+id/tvScientistAvatar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:text="😎"
+            android:textSize="22sp"
+            android:layout_marginStart="-28dp"
+            android:layout_marginBottom="2dp"/>
 
             <TextView
                 android:id="@+id/tvScientistRemark"
