@@ -29,6 +29,10 @@ class LeaderboardActivity : AppCompatActivity() {
         binding.btnTabCountry.setOnClickListener { switchTab("Country") }
         binding.btnTabCategory.setOnClickListener { switchTab("Category") }
         highlightTab("Global")
+        // Load saved country from profile
+        val profilePrefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        val savedCountry = profilePrefs.getString("p_country", "") ?: ""
+        if (savedCountry.isNotEmpty()) myCountry = savedCountry
         loadLeaderboard()
     }
 
@@ -123,6 +127,16 @@ class LeaderboardActivity : AppCompatActivity() {
             binding.rvLeaderboard.adapter = LeaderboardAdapter(filtered)
         else
             (binding.rvLeaderboard.adapter as LeaderboardAdapter).updateEntries(filtered)
+    }
+
+    override fun onResume() {
+        super.onResume()
+        val profilePrefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
+        val savedCountry = profilePrefs.getString("p_country", "") ?: ""
+        if (savedCountry.isNotEmpty() && myCountry != savedCountry) {
+            myCountry = savedCountry
+            applyFilter()
+        }
     }
 
     override fun onDestroy() { super.onDestroy(); listener?.remove() }
