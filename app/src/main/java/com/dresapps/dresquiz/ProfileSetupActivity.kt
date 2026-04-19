@@ -15,8 +15,7 @@ class ProfileSetupActivity : AppCompatActivity() {
     private var selectedAvatar = "🎓"
 
     private val avatars = listOf(
-        "🎓","🏆","🌴","🦁","⚡","🔥","💎","👑",
-        "🎯","🚀","🌊","🦅","🏏","🎸","🧠","⭐"
+        "🐯","🐻","🐼","🧛","😺","👹","🤡","🐷","🐸","🕵","🧑‍🎓","😈","👽","🦄","🦅","🐮"
     )
 
     private val countries = arrayOf(
