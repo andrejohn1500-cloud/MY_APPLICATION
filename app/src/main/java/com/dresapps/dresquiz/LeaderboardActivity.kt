@@ -51,7 +51,7 @@ class LeaderboardActivity : AppCompatActivity() {
         currentTab = tab
         highlightTab(tab)
         when {
-            tab == "Country" && myCountry.isEmpty() -> showCountrySelector()
+            tab == "Country" -> showCountrySelector()
             tab == "Category" -> showCategorySelector()
             else -> applyFilter()
         }
