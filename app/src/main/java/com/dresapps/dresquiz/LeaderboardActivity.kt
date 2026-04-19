@@ -136,6 +136,16 @@ class LeaderboardActivity : AppCompatActivity() {
         val savedCountry = profilePrefs.getString("p_country", "") ?: ""
         if (savedCountry.isNotEmpty() && myCountry != savedCountry) {
             myCountry = savedCountry
+            val shortLabel = when (myCountry) {
+                "St. Vincent and the Grenadines" -> "St. Vincent"
+                "Trinidad & Tobago" -> "T&T"
+                "British Virgin Islands" -> "BVI"
+                "Turks & Caicos Islands" -> "Turks & Caicos"
+                "Antigua & Barbuda" -> "Antigua"
+                else -> myCountry
+            }
+            binding.btnTabCountry.text = shortLabel
+            highlightTab("Country")
             applyFilter()
         }
     }
