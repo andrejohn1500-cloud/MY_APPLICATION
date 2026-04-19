@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         MobileAds.initialize(this) {}
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        checkForUpdate()
 
         // Check if profile is set up
         val prefs = getSharedPreferences("player_prefs", MODE_PRIVATE)
@@ -86,6 +87,40 @@ class MainActivity : AppCompatActivity() {
         // Background music — add res/raw/bg_music.mp3 then uncomment:
         // bgMusic = MediaPlayer.create(this, R.raw.bg_music)
         // bgMusic?.isLooping = true
+    }
+
+
+    private fun checkForUpdate() {
+        val currentVersionCode = BuildConfig.VERSION_CODE
+        Thread {
+            try {
+                val url = java.net.URL("https://ncfeudprexwdvwcnlhtx.supabase.co/rest/v1/app_version?id=eq.1&select=version_code,version_name,update_url,release_notes")
+                val conn = url.openConnection() as java.net.HttpURLConnection
+                conn.setRequestProperty("apikey", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5jZmV1ZHByZXh3ZHZ3Y25saHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxMDU2MzMsImV4cCI6MjA5MTY4MTYzM30.aCcKi8UooIL8nAACb3dWrbESZdYYPR8W-nPygCC7-Lc")
+                conn.setRequestProperty("Authorization", "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5jZmV1ZHByZXh3ZHZ3Y25saHR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxMDU2MzMsImV4cCI6MjA5MTY4MTYzM30.aCcKi8UooIL8nAACb3dWrbESZdYYPR8W-nPygCC7-Lc")
+                val response = conn.inputStream.bufferedReader().readText()
+                // Parse version_code from JSON
+                val remoteCode = Regex('"version_code":(\d+)').find(response)?.groupValues?.get(1)?.toIntOrNull() ?: return@Thread
+                val remoteName = Regex('"version_name":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
+                val updateUrl = Regex('"update_url":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
+                val notes = Regex('"release_notes":"([^"]+)"').find(response)?.groupValues?.get(1) ?: ""
+                if (remoteCode > currentVersionCode) {
+                    runOnUiThread {
+                        android.app.AlertDialog.Builder(this)
+                            .setTitle("🎉 Update Available! v$remoteName")
+                            .setMessage("What's new:\n$notes\n\nUpdate now for the best experience!")
+                            .setPositiveButton("Download Update") { _, _ ->
+                                val intent = android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse(updateUrl))
+                                startActivity(intent)
+                            }
+                            .setNegativeButton("Later", null)
+                            .show()
+                    }
+                }
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }.start()
     }
 
 }
