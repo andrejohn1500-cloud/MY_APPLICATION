@@ -38,29 +38,49 @@ class QuizActivity : AppCompatActivity() {
     private var timeLeftMs  = 30_000L
 
     private val correctRemarks = listOf(
-        "Hypothesis confirmed!",
-        "Even Einstein nods!",
-        "My calculations approve!",
-        "Neurons firing perfectly!",
-        "Peer reviewed: CORRECT!",
-        "The data backs you up!",
-        "Science is proud today.",
-        "Lab results: Genius.",
-        "Outstanding specimen!",
-        "That answer is certified!"
+        "Boyyyy, you sharp like cutlass today!",
+        "Brain working like WiFi in town — strong signal!",
+        "You cooking answers like Sunday lunch!",
+        "That answer sweeter than mango in season!",
+        "Eh eh! Big brain energy detected!",
+        "If knowledge was money, you rich already!",
+        "You making me proud like first child graduate!",
+        "That was clean like new Clarks!",
+        "You on fire like bush in dry season!",
+        "You answering like you set the exam!",
+        "Aye! You didn't come to play at all!",
+        "Brains level: Caribbean Einstein unlocked!",
+        "That was smoother than rum going down!",
+        "You hot like bake straight out the oil!",
+        "Correct! Somebody give this person a trophy quick!",
+        "You moving dangerous with all these right answers!",
+        "Give me a jacket — you turning into a scientist too!",
+        "You sure you didn't Google that? 👀",
+        "That answer tight like drum skin!",
+        "LEGEND STATUS ACTIVATED. I BOW TO YOU. 👑"
     )
 
     private val wrongRemarks = listOf(
-        "Back to the lab...",
-        "My coffee was wrong too.",
-        "Gravity gets it wrong too.",
-        "Needs peer review...",
-        "I have seen worse. Barely.",
-        "Recalibrating expectations.",
-        "The universe forgives you.",
-        "Plot twist nobody wanted.",
-        "Even Darwin struggled.",
-        "Science is still your friend."
+        "Aye… you sure you awake?",
+        "That answer lost like tourist without Google Maps!",
+        "Brain went on vacation just now!",
+        "That one fly over your head like Carnival drone!",
+        "That answer softer than overcooked dumpling!",
+        "Wrong like rain on your wash day!",
+        "That answer need prayer AND fasting!",
+        "Close… but still far like Grenada from SVG!",
+        "That one hurt me personally!",
+        "Your brain buffering… hold on…",
+        "You pick that fast fast too — with confidence!",
+        "Eh eh… we go pretend we didn't see that!",
+        "You moving like Monday morning brain!",
+        "That answer come from vibes, not knowledge!",
+        "We go blame the question for that one!",
+        "You press that with such confidence though!",
+        "Next time read the question first, nah!",
+        "That answer need serious peer review!",
+        "Science crying right now. Actual tears.",
+        "Recalibrating… please stand by… 🔄"
     )
 
     private val timerRemarks = listOf(
@@ -181,7 +201,7 @@ class QuizActivity : AppCompatActivity() {
                     binding.tvTimer.text = "⏱ 0"
                     showCorrect(options)
                     disableAll(options)
-                    showScientist(timerRemarks.random())
+                    showScientist(timerRemarks.random(), "timer")
                     nextDelayed(options)
                 }
             }
@@ -199,22 +219,45 @@ class QuizActivity : AppCompatActivity() {
             setButtonFill(options[selected], "#1DB954")
             ToneGenerator(AudioManager.STREAM_MUSIC, 90)
                 .startTone(ToneGenerator.TONE_PROP_BEEP, 250)
-            showScientist(correctRemarks.random())
+            showScientist(correctRemarks.random(), "correct")
         } else {
             setButtonFill(options[selected], "#E74C3C")
             setButtonFill(options[q.correctIndex], "#1DB954")
             ToneGenerator(AudioManager.STREAM_MUSIC, 90)
                 .startTone(ToneGenerator.TONE_PROP_NACK, 400)
-            showScientist(wrongRemarks.random())
+            showScientist(wrongRemarks.random(), "wrong")
         }
 
         disableAll(options)
         nextDelayed(options)
     }
 
-    private fun showScientist(remark: String) {
+    private fun showScientist(remark: String, type: String = "correct") {
         val card = findViewById<CardView>(R.id.scientistCard) ?: return
+        val avatarView = card.findViewById<TextView>(R.id.tvScientistAvatar)
+
+        // Set avatar emoji based on answer type
+        val avatar = when {
+            type == "correct" && remark.contains("LEGEND") -> "🏆"
+            type == "correct" && remark.contains("Einstein") -> "🧠"
+            type == "correct" && remark.contains("fire") || remark.contains("hot") -> "🔥"
+            type == "correct" -> listOf("😄","🎉","🤩","😎","💪","🥳","👑","🌟").random()
+            type == "wrong" && remark.contains("prayer") -> "🙏"
+            type == "wrong" && remark.contains("vacation") -> "😴"
+            type == "wrong" -> listOf("😬","😅","🤦","😭","🤔","😩","💀","🫠").random()
+            type == "timer" -> listOf("⏰","😱","🏃","💨","😰","🕐").random()
+            else -> "🤔"
+        }
+        avatarView?.text = avatar
         binding.tvScientistRemark.text = remark
+
+        // Bounce animation on avatar
+        avatarView?.animate()
+            ?.scaleX(1.4f)?.scaleY(1.4f)?.setDuration(150)
+            ?.withEndAction {
+                avatarView.animate().scaleX(1f).scaleY(1f).setDuration(150).start()
+            }?.start()
+
         card.visibility = View.VISIBLE
         card.alpha = 0f
         card.translationX = 300f
@@ -230,7 +273,7 @@ class QuizActivity : AppCompatActivity() {
                         .setDuration(180)
                         .withEndAction { card.visibility = View.GONE }
                         .start()
-                }, 1200)
+                }, 2000)
             }
             .start()
     }
@@ -307,7 +350,7 @@ class QuizActivity : AppCompatActivity() {
                     binding.tvTimer.text = "⏱ 0s"
                     showCorrect(options)
                     disableAll(options)
-                    showScientist(timerRemarks.random())
+                    showScientist(timerRemarks.random(), "timer")
                     nextDelayed(options)
                 }
             }
