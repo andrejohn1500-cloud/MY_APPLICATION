@@ -57,7 +57,7 @@ class LeaderboardActivity : AppCompatActivity() {
         val countries = arrayOf("Anguilla","Antigua & Barbuda","Barbados","Belize",
             "British Virgin Islands","Cayman Islands","Dominica","Grenada",
             "Guyana","Jamaica","Montserrat","St. Kitts & Nevis",
-            "St. Lucia","St. Vincent & the Grenadines","Trinidad & Tobago",
+            "St. Lucia","St. Vincent & Grenadines","Trinidad & Tobago",
             "Turks & Caicos Islands")
         android.app.AlertDialog.Builder(this)
             .setTitle("Select Your Country")

@@ -143,7 +143,7 @@ class QuizActivity : AppCompatActivity() {
 
         loadQuestion(options)
 
-        binding.btnCheat.setOnClickListener {
+        binding.btnCheat.setOnClickListener { buzz();
             buzz()
             ToneGenerator(AudioManager.STREAM_MUSIC, 90).startTone(ToneGenerator.TONE_PROP_BEEP2, 150)
             if (answered) return@setOnClickListener
