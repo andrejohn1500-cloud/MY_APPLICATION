@@ -4,9 +4,11 @@ import android.os.Bundle
 import android.view.View
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.firestore.FirebaseFirestore
 
 class PlayerProfileActivity : AppCompatActivity() {
 
+    private val db = FirebaseFirestore.getInstance()
     private val avatars = listOf("🐯","🦁","🐺","🦊","🐻","🦅","🐬","🦋","🐆","🦁","🐘","🦈")
     private val rankTiers = listOf(
         Triple(0,    "🌱 Rookie",           "#A8D8A8"),
@@ -23,54 +25,67 @@ class PlayerProfileActivity : AppCompatActivity() {
 
         val name    = intent.getStringExtra("p_name") ?: "Player"
         val country = intent.getStringExtra("p_country") ?: ""
-
-        // Set name and avatar immediately
         val passedAvatar = intent.getStringExtra("p_avatar") ?: ""
         val avatarEmoji = if (passedAvatar.isNotEmpty()) passedAvatar
                           else avatars[Math.abs(name.hashCode()) % avatars.size]
+
         findViewById<TextView>(R.id.tvPAvatar).text   = avatarEmoji
         findViewById<TextView>(R.id.tvPName).text     = name
         findViewById<TextView>(R.id.tvPCountry).text  = if (country.isNotEmpty()) "🌍 $country" else "🌍"
         findViewById<View>(R.id.loadingBar).visibility = View.VISIBLE
 
-        SupabaseHelper.fetchPlayerScores(name) { scores ->
-            runOnUiThread {
-                findViewById<View>(R.id.loadingBar).visibility = View.GONE
-                buildProfile(name, country, scores)
+        // Query Firebase leaderboard collection for this player (case-insensitive)
+        db.collection("leaderboard")
+            .get()
+            .addOnSuccessListener { docs ->
+                val scores = docs.filter {
+                    (it.getString("name") ?: "").equals(name, ignoreCase = true)
+                }
+                runOnUiThread {
+                    findViewById<View>(R.id.loadingBar).visibility = View.GONE
+                    buildProfile(scores)
+                }
             }
-        }
+            .addOnFailureListener {
+                runOnUiThread {
+                    findViewById<View>(R.id.loadingBar).visibility = View.GONE
+                    buildProfile(emptyList())
+                }
+            }
 
         findViewById<ImageButton>(R.id.btnPBack).setOnClickListener { finish() }
     }
 
-    private fun buildProfile(name: String, country: String, scores: List<Map<String, Any>>) {
+    private fun buildProfile(scores: List<com.google.firebase.firestore.QueryDocumentSnapshot>) {
         val totalGames   = scores.size
-        val bestScore    = scores.maxOfOrNull { (it["score"] as Int) } ?: 0
-        val totalPts     = scores.size
-        val highestLevel = scores.maxOfOrNull { (it["level"] as Int) } ?: 1
-        val cleanGames   = scores.count { (it["cheats"] as Int) == 0 }
+        val bestScore    = scores.maxOfOrNull { it.getLong("score")?.toInt() ?: 0 } ?: 0
+        val highestLevel = scores.maxOfOrNull { it.getLong("level")?.toInt() ?: 1 } ?: 1
+        val cleanGames   = scores.count { (it.getLong("cheats")?.toInt() ?: 0) == 0 }
         val cleanRate    = if (totalGames > 0) (cleanGames * 100 / totalGames) else 0
-        val bestCat      = scores.groupBy { it["category"] as String }
-                                 .maxByOrNull { it.value.sumOf { s -> s["pct"] as Int } }?.key ?: "—"
+        val bestCat      = scores.groupBy { it.getString("category") ?: "" }
+                                 .maxByOrNull { it.value.size }?.key ?: "—"
 
-        // Compute total rating using same formula as ResultActivity
+        // Compute total rating from stored rating field, or fallback to pct
         var totalRating = 0
         for (s in scores) {
-            val pct       = s["pct"] as Int
-            val cheats    = s["cheats"] as Int
-            val level     = s["level"] as Int
-            val timeTaken = s["time_taken"] as Int
-            val speedBonus = maxOf(0, ((450 - timeTaken).toFloat() / 450 * 20).toInt())
-            val cleanBonus = if (cheats == 0) 15 else 0
-            val lvlBonus   = level * 5
-            totalRating += pct + speedBonus + cleanBonus + lvlBonus
+            val storedRating = s.getLong("rating")?.toInt() ?: 0
+            if (storedRating > 0) {
+                totalRating += storedRating
+            } else {
+                // fallback: estimate from score/total
+                val score = s.getLong("score")?.toInt() ?: 0
+                val total = s.getLong("total")?.toInt() ?: 15
+                val level = s.getLong("level")?.toInt() ?: 1
+                val cheats = s.getLong("cheats")?.toInt() ?: 0
+                val pct = if (total > 0) (score * 100 / total) else 0
+                val cleanBonus = if (cheats == 0) 15 else 0
+                totalRating += pct + cleanBonus + (level * 5)
+            }
         }
 
-        // Determine tier
         val tier = rankTiers.lastOrNull { totalRating >= it.first } ?: rankTiers[0]
         val nextTier = rankTiers.getOrNull(rankTiers.indexOf(tier) + 1)
 
-        // Update UI
         findViewById<TextView>(R.id.tvPRating).text     = "⭐ Total Rating: $totalRating"
         findViewById<TextView>(R.id.tvPTier).text       = tier.second
         findViewById<TextView>(R.id.tvPGames).text      = totalGames.toString()
@@ -79,9 +94,9 @@ class PlayerProfileActivity : AppCompatActivity() {
         findViewById<TextView>(R.id.tvPCleanRate).text  = "$cleanRate%"
         findViewById<TextView>(R.id.tvPBestCat).text    = bestCat
         findViewById<TextView>(R.id.tvPCleanStatus).text =
-            if (cleanGames == totalGames && totalGames > 0) "✅ Clean Player" else "⚠️ Cheats: ${totalGames - cleanGames} game(s)"
+            if (cleanGames == totalGames && totalGames > 0) "✅ Clean Player"
+            else "⚠️ Cheats: ${totalGames - cleanGames} game(s)"
 
-        // Progress bar to next tier
         if (nextTier != null) {
             val ptsToNext = nextTier.first - tier.first
             val progress  = totalRating - tier.first
