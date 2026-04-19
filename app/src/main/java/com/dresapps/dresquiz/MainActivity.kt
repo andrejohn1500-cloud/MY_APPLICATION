@@ -111,10 +111,7 @@ class MainActivity : AppCompatActivity() {
                     runOnUiThread {
                         android.app.AlertDialog.Builder(this)
                             .setTitle("Update Available! v$remoteName")
-                            .setMessage("What's new:
-$notes
-
-Update now for the best experience!")
+                            .setMessage("New in v$remoteName: $notes")
                             .setPositiveButton("Download Update") { _, _ ->
                                 startActivity(android.content.Intent(android.content.Intent.ACTION_VIEW, android.net.Uri.parse(updateUrl)))
                             }
