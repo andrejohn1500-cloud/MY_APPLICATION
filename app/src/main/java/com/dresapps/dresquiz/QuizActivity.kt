@@ -251,6 +251,14 @@ class QuizActivity : AppCompatActivity() {
             type == "timer" -> listOf("⏰","😱","🏃","💨","😰","🕐").random()
             else -> "🤔"
         }
+        val emoji = when {
+            type == "correct" -> listOf("😎","🎯","🤓","🌟","👏","✨","🏆","🔥").random()
+            type == "wrong" -> listOf("🤦","😅","😩","🙈","💀","😬","😓","🤔").random()
+            type == "timer" -> listOf("⏰","😱","🏃","😨","😰","🕐").random()
+            else -> "😊"
+        }
+        val emojiView = findViewById<android.widget.TextView>(R.id.tvScientistAvatar)
+        emojiView?.text = emoji
         binding.tvScientistRemark.text = remark
 
         // Bounce animation on avatar
