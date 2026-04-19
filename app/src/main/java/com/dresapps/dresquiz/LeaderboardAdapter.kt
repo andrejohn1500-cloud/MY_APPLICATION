@@ -65,7 +65,7 @@ class LeaderboardAdapter(private var entries: List<LeaderEntry>) :
             val ctx = holder.itemView.context
             val sp = ctx.getSharedPreferences("player_prefs", android.content.Context.MODE_PRIVATE)
             val myName = sp.getString("player_name", "") ?: ""
-            val myAvatar = if (e.name == myName) sp.getString("avatar", "") ?: "" else ""
+            val myAvatar = if (e.name == myName) sp.getString("player_avatar", "") ?: "" else ""
             ctx.startActivity(android.content.Intent(ctx, PlayerProfileActivity::class.java).apply {
                 putExtra("p_name", e.name)
                 putExtra("p_country", e.country)

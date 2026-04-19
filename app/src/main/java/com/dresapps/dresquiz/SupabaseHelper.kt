@@ -81,7 +81,7 @@ object SupabaseHelper {
         Thread {
             try {
                 val encoded = java.net.URLEncoder.encode(name, "UTF-8")
-                val url = URL("$BASE_URL/scores?name=eq.$encoded&select=*")
+                val url = URL("$BASE_URL/scores?name=ilike.$encoded&select=*")
                 val conn = url.openConnection() as java.net.HttpURLConnection
                 conn.requestMethod = "GET"
                 conn.setRequestProperty("apikey", ANON_KEY)
