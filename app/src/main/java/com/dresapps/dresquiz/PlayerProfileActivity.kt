@@ -25,8 +25,10 @@ class PlayerProfileActivity : AppCompatActivity() {
         val country = intent.getStringExtra("p_country") ?: ""
 
         // Set name and avatar immediately
-        val avatarIdx = Math.abs(name.hashCode()) % avatars.size
-        findViewById<TextView>(R.id.tvPAvatar).text   = avatars[avatarIdx]
+        val passedAvatar = intent.getStringExtra("p_avatar") ?: ""
+        val avatarEmoji = if (passedAvatar.isNotEmpty()) passedAvatar
+                          else avatars[Math.abs(name.hashCode()) % avatars.size]
+        findViewById<TextView>(R.id.tvPAvatar).text   = avatarEmoji
         findViewById<TextView>(R.id.tvPName).text     = name
         findViewById<TextView>(R.id.tvPCountry).text  = if (country.isNotEmpty()) "🌍 $country" else "🌍"
         findViewById<View>(R.id.loadingBar).visibility = View.VISIBLE

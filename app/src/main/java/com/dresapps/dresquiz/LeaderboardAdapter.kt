@@ -63,11 +63,15 @@ class LeaderboardAdapter(private var entries: List<LeaderEntry>) :
         holder.itemView.setOnClickListener {
             val e = entries[holder.adapterPosition]
             val ctx = holder.itemView.context
+            val sp = ctx.getSharedPreferences("player_prefs", android.content.Context.MODE_PRIVATE)
+            val myName = sp.getString("player_name", "") ?: ""
+            val myAvatar = if (e.name == myName) sp.getString("avatar", "") ?: "" else ""
             ctx.startActivity(android.content.Intent(ctx, PlayerProfileActivity::class.java).apply {
                 putExtra("p_name", e.name)
                 putExtra("p_country", e.country)
                 putExtra("p_rating", e.rating)
                 putExtra("p_cheats", e.cheats)
+                putExtra("p_avatar", myAvatar)
             })
         }
         holder.tvScore.text = "${e.score}/${e.total}"
