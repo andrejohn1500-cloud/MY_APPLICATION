@@ -118,7 +118,7 @@ class LeaderboardActivity : AppCompatActivity() {
         if (currentTab == "Country" && myCountry.isNotEmpty())
             filtered = filtered.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
         if (currentTab == "Category" && selectedCategory != "All")
-            filtered = filtered.filter { it.category == selectedCategory }
+            filtered = filtered.filter { it.category.contains(selectedCategory, ignoreCase = true) }
         if (binding.rvLeaderboard.adapter == null)
             binding.rvLeaderboard.adapter = LeaderboardAdapter(filtered)
         else
