@@ -44,7 +44,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:minHeight="42dp"
-            android:maxLines="2"
+            android:maxLines="3"
             android:gravity="center"
             
             android:layout_marginStart="4dp"
@@ -61,6 +61,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:minHeight="42dp"
+            android:maxLines="3"
             android:gravity="center"
             android:layout_marginStart="4dp"
             android:text="Category"
