@@ -76,4 +76,36 @@ object SupabaseHelper {
     fun getDeviceId(ctx: Context): String {
         return android.provider.Settings.Secure.getString(ctx.contentResolver, android.provider.Settings.Secure.ANDROID_ID)
     }
+
+    fun fetchPlayerScores(name: String, onResult: (List<Map<String, Any>>) -> Unit) {
+        val encodedName = java.net.URLEncoder.encode(name, "UTF-8")
+        val url = "$SUPABASE_URL/rest/v1/scores?name=eq.$encodedName&select=*"
+        val req = okhttp3.Request.Builder().url(url)
+            .addHeader("apikey", SUPABASE_KEY)
+            .addHeader("Authorization", "Bearer $SUPABASE_KEY").build()
+        client.newCall(req).enqueue(object : okhttp3.Callback {
+            override fun onFailure(call: okhttp3.Call, e: java.io.IOException) { onResult(emptyList()) }
+            override fun onResponse(call: okhttp3.Call, response: okhttp3.Response) {
+                val body = response.body?.string() ?: "[]"
+                try {
+                    val arr = org.json.JSONArray(body)
+                    val list = mutableListOf<Map<String, Any>>()
+                    for (i in 0 until arr.length()) {
+                        val obj = arr.getJSONObject(i)
+                        list.add(mapOf(
+                            "score"    to obj.optInt("score", 0),
+                            "total"    to obj.optInt("total", 15),
+                            "category" to obj.optString("category", ""),
+                            "level"    to obj.optInt("level", 1),
+                            "cheats"   to obj.optInt("cheats", 0),
+                            "pct"      to obj.optInt("pct", 0),
+                            "time_taken" to obj.optInt("time_taken", 0),
+                            "country"  to obj.optString("country", "")
+                        ))
+                    }
+                    onResult(list)
+                } catch (e: Exception) { onResult(emptyList()) }
+            }
+        })
+    }
 }
