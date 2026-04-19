@@ -186,7 +186,13 @@ class ResultActivity : AppCompatActivity() {
             "🇻🇬 British Virgin Islands", "🇰🇾 Cayman Islands", "🇩🇲 Dominica", "🇬🇩 Grenada",
             "🇬🇾 Guyana", "🇯🇲 Jamaica", "🇲🇸 Montserrat", "🇰🇳 St. Kitts & Nevis",
             "🇱🇨 St. Lucia", "🇻🇨 St. Vincent & the Grenadines", "🇹🇹 Trinidad & Tobago",
-            "🇹🇨 Turks & Caicos Islands"
+            "🇹🇨 Turks & Caicos Islands",
+                "🇺🇸 United States",
+                "🇨🇦 Canada",
+                "🇬🇧 United Kingdom",
+                "🇫🇷 France",
+                "🇳🇱 Netherlands",
+                "🇪🇸 Spain"
         )
         android.app.AlertDialog.Builder(this)
             .setTitle("🌍 Select Your Country (saved for future)")
