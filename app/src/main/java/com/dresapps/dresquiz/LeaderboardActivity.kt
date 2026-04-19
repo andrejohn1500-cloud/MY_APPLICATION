@@ -21,13 +21,12 @@ class LeaderboardActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        // Force multiline on tab buttons
-        binding.btnTabCategory.isSingleLine = false
-        binding.btnTabCountry.isSingleLine = false
         binding = ActivityLeaderboardBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.rvLeaderboard.layoutManager = LinearLayoutManager(this)
         binding.btnBack.setOnClickListener { finish() }
+        binding.btnTabCategory.isSingleLine = false
+        binding.btnTabCountry.isSingleLine = false
         binding.btnTabGlobal.setOnClickListener { switchTab("Global") }
         binding.btnTabCountry.setOnClickListener { switchTab("Country") }
         binding.btnTabCategory.setOnClickListener { switchTab("Category") }
