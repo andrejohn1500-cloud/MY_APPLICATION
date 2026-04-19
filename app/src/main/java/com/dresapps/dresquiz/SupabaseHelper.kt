@@ -77,33 +77,50 @@ object SupabaseHelper {
         return android.provider.Settings.Secure.getString(ctx.contentResolver, android.provider.Settings.Secure.ANDROID_ID)
     }
 
+
+
     fun fetchPlayerScores(name: String, onResult: (List<Map<String, Any>>) -> Unit) {
         Thread {
             try {
                 val encoded = java.net.URLEncoder.encode(name, "UTF-8")
-                val url = URL("$BASE_URL/scores?name=eq.$encoded&select=*")
+                val url = URL("$BASE_URL/scores?name=eq.$encoded&select=score,total,category,level,cheats,pct,time_taken,country&order=created_at.desc")
                 val conn = url.openConnection() as java.net.HttpURLConnection
                 conn.requestMethod = "GET"
+                conn.connectTimeout = 10000
+                conn.readTimeout = 10000
                 conn.setRequestProperty("apikey", ANON_KEY)
                 conn.setRequestProperty("Authorization", "Bearer $ANON_KEY")
-                val body = try { conn.inputStream.bufferedReader().readText() } catch (e: Exception) { "[]" }
-                val arr = org.json.JSONArray(body)
+                conn.setRequestProperty("Accept", "application/json")
+                val body = try {
+                    conn.inputStream.bufferedReader().readText()
+                } catch (e: Exception) {
+                    conn.errorStream?.bufferedReader()?.readText() ?: "[]"
+                }
+                android.util.Log.d("DresQuiz", "fetchPlayerScores[$name] code=${conn.responseCode} body=${body.take(200)}")
                 val list = mutableListOf<Map<String, Any>>()
-                for (i in 0 until arr.length()) {
-                    val obj = arr.getJSONObject(i)
-                    list.add(mapOf(
-                        "score"      to obj.optInt("score", 0),
-                        "total"      to obj.optInt("total", 15),
-                        "category"   to obj.optString("category", ""),
-                        "level"      to obj.optInt("level", 1),
-                        "cheats"     to obj.optInt("cheats", 0),
-                        "pct"        to obj.optInt("pct", 0),
-                        "time_taken" to obj.optInt("time_taken", 0),
-                        "country"    to obj.optString("country", "")
-                    ))
+                try {
+                    val arr = org.json.JSONArray(body)
+                    for (i in 0 until arr.length()) {
+                        val obj = arr.getJSONObject(i)
+                        list.add(mapOf(
+                            "score"      to obj.optInt("score", 0),
+                            "total"      to obj.optInt("total", 15),
+                            "category"   to obj.optString("category", ""),
+                            "level"      to obj.optInt("level", 1),
+                            "cheats"     to obj.optInt("cheats", 0),
+                            "pct"        to obj.optInt("pct", 0),
+                            "time_taken" to obj.optInt("time_taken", 0),
+                            "country"    to obj.optString("country", "")
+                        ))
+                    }
+                } catch (e: Exception) {
+                    android.util.Log.e("DresQuiz", "fetchPlayerScores parse error: $e body=$body")
                 }
                 onResult(list)
-            } catch (e: Exception) { onResult(emptyList()) }
+            } catch (e: Exception) {
+                android.util.Log.e("DresQuiz", "fetchPlayerScores network error: $e")
+                onResult(emptyList())
+            }
         }.start()
     }
 }
