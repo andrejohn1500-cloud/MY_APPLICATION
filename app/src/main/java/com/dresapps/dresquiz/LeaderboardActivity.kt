@@ -114,7 +114,7 @@ class LeaderboardActivity : AppCompatActivity() {
     }
 
     private fun applyFilter() {
-        var filtered = allEntries
+        var filtered = allEntries.sortedByDescending { it.rating }
         if (currentTab == "Country" && myCountry.isNotEmpty())
             filtered = filtered.filter { it.country.contains(myCountry, ignoreCase = true) || myCountry.contains(it.country, ignoreCase = true) }
         if (currentTab == "Category" && selectedCategory != "All")
