@@ -55,7 +55,7 @@ jobs:
       # 6️⃣ Build Release APK and AAB
       - name: Build Release APK and AAB
         # Assumes standard Android project structure that reads signing config from local.properties
-        run: ./gradlew bundleRelease bundleRelease --no-daemon -Dorg.gradle.jvmargs=-Xmx3g
+        run: ./gradlew assembleRelease bundleRelease --no-daemon -Dorg.gradle.jvmargs=-Xmx3g
 
       # 7️⃣ Upload artifacts (APK and AAB)
       - name: Upload Release Artifacts
