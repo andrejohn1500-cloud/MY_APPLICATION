@@ -12,8 +12,8 @@ android {
         applicationId = "com.dresapps.dresquiz"
         minSdk = 24
         targetSdk = 35
-        versionCode = 8
-        versionName = "1.5"
+        versionCode = 9
+        versionName = "1.6"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -54,7 +54,7 @@ android {
 }
 
 dependencies {
-    implementation("app.rive:rive-android:9.6.2")
+    implementation("app.rive:rive-android:11.4.1")
     implementation("androidx.startup:startup-runtime:1.1.1")
 
     implementation("androidx.core:core-ktx:1.12.0")
