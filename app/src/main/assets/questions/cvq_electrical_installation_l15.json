@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to achieve disconnection within 0.4 seconds in a TN system?",
+    "options": [
+      "1.44 \u03a9",
+      "1.09 \u03a9",
+      "0.87 \u03a9",
+      "1.37 \u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When testing insulation resistance of a 230V single-phase circuit, what minimum test voltage and acceptable minimum resistance value must be applied according to BS 7671?",
+    "options": [
+      "500V DC with a minimum of 1 M\u03a9",
+      "250V DC with a minimum of 0.5 M\u03a9",
+      "1000V DC with a minimum of 2 M\u03a9",
+      "500V DC with a minimum of 0.5 M\u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A three-phase 400V motor has a full-load current of 50A and a power factor of 0.85 lagging. What is the approximate active power consumed by the motor?",
+    "options": [
+      "29.4 kW",
+      "34.6 kW",
+      "25.5 kW",
+      "40.0 kW"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a TT earthing system, which protective device is most commonly required to provide fault protection due to the typically high earth fault loop impedance?",
+    "options": [
+      "Residual Current Device (RCD)",
+      "Fuse",
+      "Miniature Circuit Breaker (MCB)",
+      "Surge Protective Device (SPD)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary purpose of an equipotential bonding conductor in an electrical installation?",
+    "options": [
+      "To reduce touch voltage differences between simultaneously accessible conductive parts",
+      "To provide a return path for load current",
+      "To protect cables against overcurrent",
+      "To improve the power factor of the installation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which IEE/BS 7671 regulation governs the requirement for Automatic Disconnection of Supply (ADS) as the primary protective measure against electric shock?",
+    "options": [
+      "Regulation 411",
+      "Regulation 314",
+      "Regulation 521",
+      "Regulation 433"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A balanced three-phase star-connected load has a line voltage of 400V and a resistance of 20\u03a9 per phase. What is the total power consumed?",
+    "options": [
+      "8,000 W",
+      "24,000 W",
+      "13,856 W",
+      "6,928 W"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When selecting a cable for voltage drop compliance, a 230V single-phase circuit has a design current of 24A and a cable length of 35m. The permissible voltage drop is 3%. Using a 4mm\u00b2 twin and earth cable with a resistance of 11 m\u03a9/m, what is the approximate voltage drop?",
+    "options": [
+      "18.5 V",
+      "9.24 V",
+      "6.5 V",
+      "3.85 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the 'diversity factor' account for when designing a distribution board in a commercial installation?",
+    "options": [
+      "The probability that not all connected loads will operate simultaneously at full load",
+      "The derating of cables due to ambient temperature",
+      "The harmonic distortion introduced by non-linear loads",
+      "The impedance increase due to cable grouping"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A residual current device (RCD) with a rated residual operating current (I\u0394n) of 30mA must operate within what maximum time when tested at 5\u00d7I\u0394n according to BS EN 61008?",
+    "options": [
+      "40 ms",
+      "200 ms",
+      "150 ms",
+      "300 ms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a photovoltaic (PV) installation, why must a DC isolator rated for DC use be installed between the PV array and the inverter?",
+    "options": [
+      "Because DC arcs are more difficult to extinguish than AC arcs and standard AC isolators may not safely interrupt DC fault currents",
+      "Because DC current causes greater cable heating than AC",
+      "Because the inverter requires isolation only during maintenance periods",
+      "Because AC isolators have insufficient voltage ratings for PV systems"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of a surge protective device (SPD) Type 1 installed at the main distribution board of a building?",
+    "options": [
+      "To protect against direct lightning strike transients conducted via service lines",
+      "To limit harmonic voltages on the supply",
+      "To provide residual current protection for the installation",
+      "To improve the power factor at the point of supply"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When carrying out a continuity test on a ring final circuit using the BS 7671 method, what does connecting the line conductor of one end to the neutral conductor of the other end before measuring resistance at each socket outlet verify?",
+    "options": [
+      "That all conductors form a continuous ring with no breaks or interconnections",
+      "That the earth fault loop impedance is within limits",
+      "That polarity is correct throughout the ring",
+      "That insulation resistance exceeds 1 M\u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A transformer has a primary winding of 2400V and a turns ratio of 10:1. If the secondary winding supplies a load drawing 20A, what is the primary current (ignoring losses)?",
+    "options": [
+      "2 A",
+      "20 A",
+      "200 A",
+      "0.2 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under BS 7671, what additional protection is mandatory for socket outlets rated up to 20A in locations intended for use by ordinary persons in a domestic installation?",
+    "options": [
+      "Protection by an RCD with I\u0394n not exceeding 30mA",
+      "Protection by a Type D circuit breaker",
+      "Protection by a surge protective device (SPD)",
+      "Protection by an isolation transformer"
+    ],
+    "correctIndex": 0
+  }
+]

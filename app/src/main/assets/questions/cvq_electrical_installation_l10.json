@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard frequency of the AC mains electricity supply in the Caribbean?",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "25 Hz",
+      "100 Hz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure the insulation resistance of an electrical installation?",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Megohmmeter",
+      "Wattmeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to wiring regulations, what minimum insulation resistance value is acceptable for a completed installation operating at 500V DC test voltage?",
+    "options": [
+      "0.5 M\u03a9",
+      "1 M\u03a9",
+      "2 M\u03a9",
+      "5 M\u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of circuit breaker is designed to protect against both overcurrent and earth leakage faults?",
+    "options": [
+      "MCB",
+      "MCCB",
+      "RCCB",
+      "RCBO"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the abbreviation 'PVC' stand for in electrical cable descriptions?",
+    "options": [
+      "Polyvinyl Chloride",
+      "Polyvalent Carbon",
+      "Polyvoltaic Compound",
+      "Polyvulcanised Copper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a three-phase star-connected system, if the phase voltage is 230V, what is the line voltage?",
+    "options": [
+      "230 V",
+      "400 V",
+      "460 V",
+      "115 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the correct colour for the earth conductor in a fixed wiring installation under current IEC standards?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green and Yellow",
+      "Black"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a consumer unit in a domestic electrical installation?",
+    "options": [
+      "To generate electricity",
+      "To store electrical energy",
+      "To distribute and protect individual circuits",
+      "To convert AC to DC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 240V single-phase motor draws 10A at a power factor of 0.8. What is the true power consumed?",
+    "options": [
+      "2400 W",
+      "1920 W",
+      "3000 W",
+      "1200 W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wiring system offers the greatest mechanical protection for conductors in industrial installations?",
+    "options": [
+      "PVC conduit",
+      "Steel wire armoured cable",
+      "Twin and earth cable",
+      "Mineral insulated cable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What test is carried out to verify the continuity of the circuit protective conductor (CPC) in an installation?",
+    "options": [
+      "Insulation resistance test",
+      "Earth fault loop impedance test",
+      "Continuity test",
+      "Polarity test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When installing conduit systems, which fitting is used to allow conductors to be drawn around a 90-degree bend?",
+    "options": [
+      "Inspection elbow",
+      "Coupler",
+      "Locknut",
+      "Back outlet box"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following formulae correctly expresses Ohm's Law?",
+    "options": [
+      "V = I \u00d7 R",
+      "P = V \u00d7 R",
+      "I = V \u00d7 R",
+      "R = V \u00d7 I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main reason why cables must be derated when grouped together in a conduit or trunking?",
+    "options": [
+      "Increased voltage drop",
+      "Reduced mechanical strength",
+      "Heat accumulation reducing current-carrying capacity",
+      "Higher insulation resistance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an electrical installation, what does the term 'bonding' refer to?",
+    "options": [
+      "Connecting live and neutral conductors together",
+      "Electrically connecting metallic parts to ensure they are at the same potential",
+      "Joining two cables end to end",
+      "Attaching cables to a supporting structure"
+    ],
+    "correctIndex": 1
+  }
+]

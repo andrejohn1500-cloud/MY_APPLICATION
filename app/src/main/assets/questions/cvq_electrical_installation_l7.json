@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard voltage for a single-phase domestic supply in the Caribbean?",
+    "options": [
+      "110V",
+      "120V",
+      "230V",
+      "240V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which wiring system uses steel conduit to protect cables in industrial installations?",
+    "options": [
+      "Trunking system",
+      "Conduit system",
+      "Tray system",
+      "Duct system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the abbreviation 'RCD' stand for in electrical installations?",
+    "options": [
+      "Residual Current Device",
+      "Resistance Control Device",
+      "Regulated Circuit Disconnector",
+      "Reactive Current Detector"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a three-phase system, what is the phase-to-phase voltage if the phase-to-neutral voltage is 230V?",
+    "options": [
+      "330V",
+      "380V",
+      "398V",
+      "415V"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which instrument is used to measure the insulation resistance of a cable?",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Megohmmeter",
+      "Wattmeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of an earth leakage circuit breaker (ELCB) in an installation?",
+    "options": [
+      "To prevent overload currents",
+      "To protect against earth fault currents",
+      "To regulate voltage fluctuations",
+      "To measure power consumption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of cable is most suitable for underground direct burial installations?",
+    "options": [
+      "PVC twin and earth",
+      "Armoured cable (SWA)",
+      "Flexible cord",
+      "Mineral insulated cable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to wiring regulations, the minimum cross-sectional area of a protective conductor (earth) for a 2.5mm\u00b2 live conductor is typically:",
+    "options": [
+      "1.0mm\u00b2",
+      "1.5mm\u00b2",
+      "2.5mm\u00b2",
+      "4.0mm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does power factor represent in an AC electrical circuit?",
+    "options": [
+      "The ratio of real power to apparent power",
+      "The ratio of voltage to current",
+      "The efficiency of power transmission",
+      "The phase difference between voltage and current in degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In conduit installation, what is the purpose of a draw wire left inside an empty conduit?",
+    "options": [
+      "To improve cable insulation",
+      "To facilitate future cable pulling",
+      "To provide earthing continuity",
+      "To support the conduit mechanically"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which protective device combines overload and short-circuit protection in one unit?",
+    "options": [
+      "Fuse",
+      "Miniature Circuit Breaker (MCB)",
+      "Isolator",
+      "Contactor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the formula used to calculate electrical power in a DC circuit?",
+    "options": [
+      "P = V/I",
+      "P = V \u00d7 I",
+      "P = I/V",
+      "P = V + I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When installing a socket outlet in a bathroom, what is the minimum safe zone distance from a shower or bath where a standard socket can be installed?",
+    "options": [
+      "1.0 metre",
+      "1.5 metres",
+      "2.0 metres",
+      "3.0 metres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What colour is used to identify the neutral conductor in a Caribbean single-phase wiring installation?",
+    "options": [
+      "Red",
+      "Black",
+      "Green",
+      "Blue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which test is performed to verify that all protective conductors are correctly connected and have continuity throughout an installation?",
+    "options": [
+      "Insulation resistance test",
+      "Earth fault loop impedance test",
+      "Continuity of protective conductors test",
+      "Polarity test"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to ensure disconnection within 0.4 seconds in a TN system?",
+    "options": [
+      "1.37 \u03a9",
+      "1.09 \u03a9",
+      "0.86 \u03a9",
+      "1.74 \u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When installing a three-phase induction motor with a star-delta starter, what is the starting current as a fraction of the direct-on-line starting current?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A consumer unit is to be installed in a domestic premises. Which regulation in BS 7671 requires that all new consumer units in domestic premises must be enclosed in a non-combustible material?",
+    "options": [
+      "Regulation 421.1.201",
+      "Regulation 132.16",
+      "Regulation 314.1",
+      "Regulation 521.10.1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of an Residual Current Device (RCD) with a rated residual operating current (I\u0394n) of 30mA in a circuit?",
+    "options": [
+      "To provide overload protection only",
+      "To provide additional protection against electric shock by disconnecting supply within 40ms",
+      "To provide short-circuit protection",
+      "To regulate voltage fluctuations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a TT earthing system, which method is primarily used to achieve earth fault protection?",
+    "options": [
+      "Main protective bonding",
+      "RCD protection",
+      "Overcurrent protective devices alone",
+      "Double insulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 230V single-phase circuit supplies a load of 9.2 kW at a power factor of 0.8 lagging. What is the apparent power (kVA) of the circuit?",
+    "options": [
+      "7.36 kVA",
+      "11.5 kVA",
+      "9.2 kVA",
+      "14.4 kVA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When applying the adiabatic equation S = \u221a(I\u00b2t)/k to determine minimum cable cross-sectional area for fault protection, what does the variable 'k' represent?",
+    "options": [
+      "The fault current in amperes",
+      "A factor depending on the material of the conductor and insulation",
+      "The disconnection time in seconds",
+      "The cross-sectional area in mm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the minimum degree of protection (IP rating) required for electrical equipment installed in a zone 1 location of a bathroom according to BS 7671?",
+    "options": [
+      "IP20",
+      "IP44",
+      "IPX4",
+      "IPX7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the IEE On-Site Guide, what correction factor must be applied to a cable's current-carrying capacity when it is installed in thermal insulation for more than 0.5 metres?",
+    "options": [
+      "0.5",
+      "0.75",
+      "0.6",
+      "0.9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A three-phase balanced load has a line voltage of 400V and a line current of 25A at a power factor of 0.9. What is the total three-phase power consumed?",
+    "options": [
+      "9,000 W",
+      "15,588 W",
+      "27,000 W",
+      "17,320 W"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which regulation in BS 7671 requires that a protective equipotential bonding conductor connected to a water service pipe must be connected as close as practicable to the point of entry of that pipe into the premises?",
+    "options": [
+      "Regulation 544.1.1",
+      "Regulation 411.3.1.2",
+      "Regulation 542.3.1",
+      "Regulation 411.4.2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of a surge protective device (SPD) Type 1 as classified in BS EN 61643-11?",
+    "options": [
+      "To protect against conducted overvoltages originating from switching operations only",
+      "To be installed at the service entrance to protect against direct lightning stroke currents and high-energy surges",
+      "To provide protection at the point of use against residual surges",
+      "To regulate power factor in distribution systems"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under the Electricity at Work Regulations 1989, Regulation 4(3) requires that electrical equipment is maintained to prevent danger. Which of the following best describes the legal duty imposed?",
+    "options": [
+      "A strict absolute duty requiring no risk at all times",
+      "A duty qualified by what is reasonably practicable",
+      "A duty applicable only to equipment above 1000V",
+      "A duty imposed only on employees, not employers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When testing the insulation resistance of a ring final circuit, which test result would indicate a correctly wired ring with no cross-connections or interconnections between the ring conductors?",
+    "options": [
+      "Phase-to-neutral IR reading equals phase-to-earth IR reading",
+      "The IR value measured at each socket outlet is approximately one quarter of the IR at the consumer unit",
+      "The IR reading at all sockets is higher than at the consumer unit",
+      "The IR reading remains constant regardless of test lead polarity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A voltage drop calculation for a 230V single-phase circuit with a design current of 20A, cable length of 30m, and a cable voltage drop factor of 9.5 mV/A/m must not exceed the BS 7671 maximum of 3% for a lighting circuit. What is the actual voltage drop and does it comply?",
+    "options": [
+      "5.7V \u2014 does not comply",
+      "3.0V \u2014 complies",
+      "6.9V \u2014 does not comply",
+      "4.5V \u2014 complies"
+    ],
+    "correctIndex": 0
+  }
+]

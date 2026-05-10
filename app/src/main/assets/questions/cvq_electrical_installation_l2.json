@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard frequency of the AC mains supply in the Caribbean?",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "25 Hz",
+      "100 Hz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which colour is used for the earth wire in a modern UK/Caribbean wiring system?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Green and Yellow",
+      "Red"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the abbreviation 'MCB' stand for?",
+    "options": [
+      "Main Circuit Breaker",
+      "Miniature Circuit Breaker",
+      "Motor Control Board",
+      "Manual Current Bypass"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure electrical resistance?",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Ohmmeter",
+      "Wattmeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the unit of electrical power?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which law states that voltage equals current multiplied by resistance?",
+    "options": [
+      "Kirchhoff's Law",
+      "Faraday's Law",
+      "Ohm's Law",
+      "Newton's Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a parallel circuit, the voltage across each component is:",
+    "options": [
+      "Different for each component",
+      "The same across all components",
+      "Zero",
+      "Divided equally"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of cable is most commonly used for domestic fixed wiring installations?",
+    "options": [
+      "Flexible cord",
+      "Twin and earth PVC cable",
+      "Single core bare copper",
+      "Armoured cable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which protective device operates by melting when excess current flows?",
+    "options": [
+      "MCB",
+      "RCCB",
+      "Fuse",
+      "Isolator"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard voltage of a single-phase domestic supply in the Caribbean?",
+    "options": [
+      "110 V",
+      "230 V",
+      "415 V",
+      "11 000 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to strip the insulation from electrical cables?",
+    "options": [
+      "Hacksaw",
+      "Wire stripper",
+      "Chisel",
+      "Screwdriver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does PPE stand for in electrical installation work?",
+    "options": [
+      "Protective Power Equipment",
+      "Personal Protective Equipment",
+      "Primary Potential Energy",
+      "Permanent Protective Enclosure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical terms, what does 'kWh' measure?",
+    "options": [
+      "Power",
+      "Resistance",
+      "Energy consumed",
+      "Current"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A residual current device (RCD) is designed to protect against:",
+    "options": [
+      "Overload current only",
+      "Short circuits only",
+      "Earth fault currents and electric shock",
+      "Voltage surges"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Wood"
+    ],
+    "correctIndex": 2
+  }
+]

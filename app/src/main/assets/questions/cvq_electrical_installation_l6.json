@@ -1,0 +1,153 @@
+[
+  {
+    "question": "What is the minimum cross-sectional area of a protective conductor (CPC) when the line conductor has a cross-sectional area of 16mm\u00b2?",
+    "options": [
+      "6mm\u00b2",
+      "10mm\u00b2",
+      "16mm\u00b2",
+      "25mm\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to BS 7671, what is the maximum disconnection time for a 230V TN system final circuit not exceeding 32A?",
+    "options": [
+      "0.1 seconds",
+      "0.2 seconds",
+      "0.4 seconds",
+      "5 seconds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of earthing system has the supply neutral earthed at the source and the consumer's exposed conductive parts connected to earth via a separate earth electrode?",
+    "options": [
+      "TN-S",
+      "TN-C-S",
+      "TT",
+      "IT"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A three-phase balanced load draws 15kW at a power factor of 0.8 lagging from a 415V supply. What is the approximate line current?",
+    "options": [
+      "18.5A",
+      "26.0A",
+      "36.1A",
+      "45.2A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'prospective short circuit current' (PSCC) refer to in an electrical installation?",
+    "options": [
+      "The current that flows during normal operation",
+      "The maximum current that can flow at a point of fault before protection operates",
+      "The rated current of the protective device",
+      "The leakage current to earth under normal conditions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure insulation resistance in an electrical installation?",
+    "options": [
+      "Clamp meter",
+      "Multimeter",
+      "Megohmmeter",
+      "Oscilloscope"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the minimum insulation resistance value acceptable for a complete installation tested at 500V DC according to BS 7671?",
+    "options": [
+      "0.5 M\u03a9",
+      "1 M\u03a9",
+      "2 M\u03a9",
+      "5 M\u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a ring final circuit, what test is performed to verify the continuity of the circuit protective conductor and confirm correct connections?",
+    "options": [
+      "Earth fault loop impedance test",
+      "Insulation resistance test",
+      "Ring continuity test using the cross-connection method",
+      "Polarity test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "function": "Which regulation in BS 7671 deals with the requirement for protection against electric shock by automatic disconnection of supply?",
+    "question": "Which regulation in BS 7671 deals with the requirement for protection against electric shock by automatic disconnection of supply?",
+    "options": [
+      "Regulation 411",
+      "Regulation 421",
+      "Regulation 431",
+      "Regulation 521"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cable installed in thermal insulation for its entire length must have its current-carrying capacity derated by which factor according to BS 7671?",
+    "options": [
+      "0.5",
+      "0.75",
+      "0.87",
+      "1.0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of an Residual Current Device (RCD) with a rated residual operating current (I\u0394n) of 30mA?",
+    "options": [
+      "Short circuit protection only",
+      "Overload protection only",
+      "Additional protection against electric shock",
+      "Surge protection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a TN-C-S (PME) earthing system, what is the combined neutral and earth conductor called?",
+    "options": [
+      "CPC",
+      "MET",
+      "PEN conductor",
+      "SNE conductor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When calculating voltage drop for a single-phase circuit, which formula is correct?",
+    "options": [
+      "Vd = I \u00d7 R",
+      "Vd = I \u00d7 (mV/A/m) \u00d7 L / 1000",
+      "Vd = I\u00b2 \u00d7 R",
+      "Vd = V\u00b2 / R"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of luminaire has a double-insulated construction and does not require a protective earth connection?",
+    "options": [
+      "Class I",
+      "Class II",
+      "Class III",
+      "Class 0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the maximum Zs (earth fault loop impedance) for a 32A Type B MCB protecting a 230V circuit to ensure disconnection within 0.4 seconds?",
+    "options": [
+      "0.57\u03a9",
+      "1.14\u03a9",
+      "1.37\u03a9",
+      "1.92\u03a9"
+    ],
+    "correctIndex": 1
+  }
+]

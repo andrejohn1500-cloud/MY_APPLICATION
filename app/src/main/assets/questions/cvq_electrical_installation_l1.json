@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does the abbreviation 'AC' stand for in electrical systems?",
+    "options": [
+      "Alternating Current",
+      "Alternating Circuit",
+      "Ampere Current",
+      "Active Current"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which unit is used to measure electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard colour of the live wire in a modern UK/Caribbean wiring system?",
+    "options": [
+      "Blue",
+      "Green and Yellow",
+      "Brown",
+      "Black"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which tool is used to measure electrical current in a circuit?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Wattmeter",
+      "Ohmmeter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a fuse do in an electrical circuit?",
+    "options": [
+      "Increases voltage",
+      "Stores electrical energy",
+      "Protects the circuit from excess current",
+      "Measures resistance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Wood"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the formula for Ohm's Law?",
+    "options": [
+      "V = I x R",
+      "P = I x V",
+      "I = P x R",
+      "R = V x P"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What colour is the earth wire in standard electrical installations?",
+    "options": [
+      "Brown",
+      "Blue",
+      "Black",
+      "Green and Yellow"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "How many volts is the standard single-phase domestic supply in most Caribbean countries?",
+    "options": [
+      "110 V",
+      "415 V",
+      "230 V",
+      "12 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the abbreviation 'PPE' stand for?",
+    "options": [
+      "Personal Protective Equipment",
+      "Power Protection Equipment",
+      "Personal Power Electronics",
+      "Protective Power Engineering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which instrument is used to test if a circuit is live?",
+    "options": [
+      "Multimeter",
+      "Spirit level",
+      "Tape measure",
+      "Hacksaw"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of circuit has components connected end to end in a single path?",
+    "options": [
+      "Parallel circuit",
+      "Compound circuit",
+      "Series circuit",
+      "Ring circuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following materials is an electrical insulator?",
+    "options": [
+      "Aluminium",
+      "Steel",
+      "PVC plastic",
+      "Silver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the symbol 'kW' stand for?",
+    "options": [
+      "Kilowatt",
+      "Kilovolt",
+      "Kiloweber",
+      "Kiloamp"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which regulation governs electrical installations to ensure safety in the Caribbean vocational context?",
+    "options": [
+      "Building Regulations",
+      "IEE Wiring Regulations (BS 7671)",
+      "Health and Safety at Work Act only",
+      "Fire Safety Regulations"
+    ],
+    "correctIndex": 1
+  }
+]

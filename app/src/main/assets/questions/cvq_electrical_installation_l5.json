@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to BS 7671, what is the maximum disconnection time for a 230V TN system final circuit rated up to 32A?",
+    "options": [
+      "0.1 seconds",
+      "0.4 seconds",
+      "5 seconds",
+      "1 second"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which wiring system is most suitable for installation in a hazardous area where flammable gases may be present?",
+    "options": [
+      "PVC conduit with single-core cables",
+      "Steel conduit with flameproof fittings",
+      "Trunking with multicore cables",
+      "Mineral insulated copper clad (MICC) cable in open cable tray"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of an Residual Current Device (RCD) in an electrical installation?",
+    "options": [
+      "To protect against overload current",
+      "To protect against earth leakage and electric shock",
+      "To protect against short circuit faults only",
+      "To regulate voltage supply to loads"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A three-phase motor is rated at 15kW, 415V with a power factor of 0.85 and efficiency of 90%. What is the approximate full load current?",
+    "options": [
+      "18.5 A",
+      "27.4 A",
+      "23.3 A",
+      "31.2 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which test is performed to verify the integrity of the insulation between live conductors and earth in an installation?",
+    "options": [
+      "Earth fault loop impedance test",
+      "Insulation resistance test",
+      "Continuity of protective conductors test",
+      "Polarity test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What minimum insulation resistance value is acceptable for a completed installation operating at 500V DC test voltage according to BS 7671?",
+    "options": [
+      "0.5 M\u03a9",
+      "1.0 M\u03a9",
+      "2.0 M\u03a9",
+      "5.0 M\u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a TT earthing system, which device is primarily relied upon to provide automatic disconnection of supply?",
+    "options": [
+      "Miniature Circuit Breaker (MCB)",
+      "Residual Current Device (RCD)",
+      "Fuse",
+      "Surge Protective Device (SPD)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'diversity factor' mean in electrical installation design?",
+    "options": [
+      "The ratio of maximum demand to connected load",
+      "The ratio of actual load to rated load of a circuit",
+      "The variation in voltage across different parts of a system",
+      "The difference between single-phase and three-phase loads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which regulation governs the maximum voltage drop permissible in a lighting circuit from the origin of the installation to the point of utilisation?",
+    "options": [
+      "3% of nominal supply voltage",
+      "5% of nominal supply voltage",
+      "10% of nominal supply voltage",
+      "1% of nominal supply voltage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cable has a current-carrying capacity of 32A. When installed in thermal insulation, a derating factor of 0.5 is applied. What is the derated current-carrying capacity?",
+    "options": [
+      "16 A",
+      "24 A",
+      "18 A",
+      "20 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which earthing arrangement has the neutral and protective functions combined in a single conductor (PEN conductor) supplied by the utility?",
+    "options": [
+      "TT system",
+      "IT system",
+      "TN-C system",
+      "TN-S system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of a busbar chamber in a distribution system?",
+    "options": [
+      "To convert three-phase supply to single-phase supply",
+      "To distribute electrical supply to multiple outgoing circuits",
+      "To step down voltage for final circuits",
+      "To measure power consumption of the installation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During commissioning of a three-phase motor, the motor runs in the wrong direction. What is the simplest corrective action?",
+    "options": [
+      "Rewire the motor windings internally",
+      "Interchange any two of the three supply phase conductors",
+      "Replace the motor starter contactors",
+      "Adjust the overload relay setting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which document is issued to confirm that an electrical installation complies with BS 7671 after initial verification?",
+    "options": [
+      "Electrical Installation Condition Report (EICR)",
+      "Minor Electrical Installation Works Certificate",
+      "Electrical Installation Certificate (EIC)",
+      "Schedule of Test Results only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of transformer connection is commonly used to eliminate the flow of third harmonic currents in a power distribution system?",
+    "options": [
+      "Star-Star (Yy)",
+      "Star-Delta (Yd)",
+      "Delta-Delta (Dd)",
+      "Open Delta connection"
+    ],
+    "correctIndex": 1
+  }
+]

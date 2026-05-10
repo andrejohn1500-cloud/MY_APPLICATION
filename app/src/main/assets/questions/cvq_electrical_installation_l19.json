@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to IEE Wiring Regulations BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to ensure disconnection within 0.4 seconds in a TN system?",
+    "options": [
+      "1.44 \u03a9",
+      "1.09 \u03a9",
+      "0.86 \u03a9",
+      "1.37 \u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A three-phase motor has a full load current of 45A. According to BS 7671, what minimum current rating should the overload protection device be set to if the motor has a duty factor of 1.0 and no other derating factors apply?",
+    "options": [
+      "45A",
+      "50A",
+      "40A",
+      "55A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When testing insulation resistance on a 230V single-phase circuit, what is the minimum acceptable insulation resistance value required by BS 7671?",
+    "options": [
+      "1 M\u03a9",
+      "0.5 M\u03a9",
+      "2 M\u03a9",
+      "0.25 M\u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a TT earthing system, which protective device is most commonly relied upon to provide fault protection where earth fault loop impedance is high?",
+    "options": [
+      "Residual Current Device (RCD)",
+      "Fuse",
+      "Circuit breaker",
+      "Surge protective device"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of equipotential bonding in an electrical installation according to BS 7671?",
+    "options": [
+      "To reduce potential differences between exposed and extraneous conductive parts",
+      "To increase the impedance of the earth fault loop",
+      "To improve power factor of the installation",
+      "To reduce harmonic distortion in the supply"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cable has a conductor resistance of 0.00175 \u03a9\u00b7mm\u00b2/m. What is the resistance of a 70mm\u00b2 copper conductor that is 120 metres long?",
+    "options": [
+      "0.003 \u03a9",
+      "0.30 \u03a9",
+      "3.0 \u03a9",
+      "0.03 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which IEE Wiring Regulations table provides the current-carrying capacity for cables installed in conduit or trunking in free air?",
+    "options": [
+      "Table 4D1A",
+      "Table 4E2A",
+      "Table 4A2",
+      "Table 4B1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a balanced three-phase system with a line voltage of 415V, what is the phase voltage?",
+    "options": [
+      "415V",
+      "240V",
+      "208V",
+      "380V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of fault is characterised by a low-resistance connection between line and neutral conductors, resulting in excessive current flow?",
+    "options": [
+      "Earth fault",
+      "Short circuit fault",
+      "Overload fault",
+      "Open circuit fault"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to BS 7671, what is the maximum disconnection time allowed for a socket outlet circuit rated up to 32A in a TN system under fault conditions?",
+    "options": [
+      "5 seconds",
+      "0.4 seconds",
+      "1 second",
+      "0.1 seconds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A star-connected three-phase load has impedance of 20\u03a9 per phase connected to a 415V supply. What is the line current drawn by the load?",
+    "options": [
+      "11.98A",
+      "20.75A",
+      "6.92A",
+      "35.94A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the function of a SELV (Separated Extra Low Voltage) system in an electrical installation?",
+    "options": [
+      "A system where voltage is limited to 50V AC and is electrically separated from earth and other systems",
+      "A system operating at 110V AC used on construction sites",
+      "A system providing standby power during mains failure",
+      "A system using double insulation instead of earthing for protection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During a continuity test of a ring final circuit, the resistance measured at any socket outlet should not exceed what value compared to the average resistance of the ring conductors?",
+    "options": [
+      "One quarter of the sum of the line and CPC resistances",
+      "Half of the sum of the line and CPC resistances",
+      "Twice the sum of the line and CPC resistances",
+      "The full sum of the line and CPC resistances"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In conduit installation, what is the primary reason for calculating the space factor when selecting conduit size?",
+    "options": [
+      "To ensure cables can be drawn in without damage and future cables can be added",
+      "To calculate the voltage drop across the conduit run",
+      "To determine the maximum fault current the conduit can carry",
+      "To ensure the conduit provides adequate mechanical protection rating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct formula to calculate the voltage drop in a single-phase circuit using the millivolt drop method from BS 7671 Appendix 4?",
+    "options": [
+      "Vd = (mV/A/m \u00d7 Ib \u00d7 L) / 1000",
+      "Vd = (mV/A/m \u00d7 Iz \u00d7 L) / 1000",
+      "Vd = (mV/A/m \u00d7 In \u00d7 L) / 100",
+      "Vd = (mV/A/m \u00d7 Ib) / L \u00d7 1000"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard frequency of the AC mains supply in the Caribbean?",
+    "options": [
+      "50 Hz",
+      "60 Hz",
+      "40 Hz",
+      "25 Hz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which colour is used for the earth conductor in modern Caribbean wiring installations?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green and yellow",
+      "Black"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the abbreviation 'RCD' stand for?",
+    "options": [
+      "Residual Current Device",
+      "Rotating Circuit Distributor",
+      "Resistance Control Device",
+      "Regulated Current Detector"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which instrument is used to measure insulation resistance?",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Megohmmeter",
+      "Wattmeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to Ohm's Law, if voltage is 240 V and resistance is 12 ohms, what is the current?",
+    "options": [
+      "10 A",
+      "20 A",
+      "5 A",
+      "2 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of circuit has all components connected across the same two points?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Mixed circuit",
+      "Open circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which document provides wiring regulations and standards for electrical installations in the Caribbean region?",
+    "options": [
+      "IEE Wiring Regulations",
+      "OSHA Standards",
+      "Caribbean Uniform Building Code (CUBC)",
+      "NEC 2020"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a circuit breaker?",
+    "options": [
+      "To increase voltage",
+      "To store electrical energy",
+      "To protect a circuit from overcurrent",
+      "To measure current flow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of conduit is most suitable for outdoor exposed installations due to its resistance to corrosion?",
+    "options": [
+      "PVC conduit",
+      "Galvanised steel conduit",
+      "Wooden casing",
+      "Paper conduit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'kWh' measure?",
+    "options": [
+      "Power",
+      "Electrical energy consumed",
+      "Current",
+      "Resistance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a single-phase system, how many live conductors are present?",
+    "options": [
+      "Three",
+      "Two",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which test is carried out to verify that all circuit conductors are continuous and unbroken?",
+    "options": [
+      "Insulation resistance test",
+      "Polarity test",
+      "Continuity test",
+      "Earth fault loop impedance test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the typical voltage of a single-phase domestic supply in most Caribbean countries?",
+    "options": [
+      "110 V",
+      "415 V",
+      "120 V",
+      "230 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a thermoplastic insulating material commonly used on electrical cables?",
+    "options": [
+      "PVC (Polyvinyl Chloride)",
+      "Copper",
+      "Aluminium",
+      "Glass"
+    ],
+    "correctIndex": 0
+  }
+]
