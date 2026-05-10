@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is 345 + 218?",
+    "options": [
+      "553",
+      "563",
+      "543",
+      "573"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 700 - 256?",
+    "options": [
+      "444",
+      "454",
+      "434",
+      "464"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number comes next in the pattern: 5, 10, 15, 20, ___?",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "22"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 6 \u00d7 7?",
+    "options": [
+      "36",
+      "48",
+      "42",
+      "54"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 48 \u00f7 6?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fraction is equal to one half?",
+    "options": [
+      "2/6",
+      "3/8",
+      "4/8",
+      "3/4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the perimeter of a square with sides of 5 cm?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many centimetres are in 1 metre?",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "50"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the value of the digit 4 in the number 3,4 57?",
+    "options": [
+      "4",
+      "40",
+      "400",
+      "4000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What shape has 3 sides and 3 angles?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Circle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 25% of 100?",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bag has 3 red balls, 2 blue balls, and 5 green balls. How many balls are there altogether?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of a rectangle that is 4 cm long and 3 cm wide?",
+    "options": [
+      "7 sq cm",
+      "10 sq cm",
+      "12 sq cm",
+      "14 sq cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these numbers is an even number?",
+    "options": [
+      "13",
+      "27",
+      "34",
+      "45"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 1/4 + 1/4?",
+    "options": [
+      "1/8",
+      "2/8",
+      "1/2",
+      "2/4"
+    ],
+    "correctIndex": 2
+  }
+]

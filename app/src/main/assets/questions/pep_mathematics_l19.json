@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A rectangular prism has a length of 12 cm, a width of 8 cm, and a height of 5 cm. What is the total surface area of the prism?",
+    "options": [
+      "392 cm\u00b2",
+      "480 cm\u00b2",
+      "392 cm\u00b2",
+      "412 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 3x - 7 = 2(x + 4), what is the value of x?",
+    "options": [
+      "x = 15",
+      "x = 1",
+      "x = -1",
+      "x = 7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A train travels 360 km in 4 hours. At the same speed, how long will it take to travel 540 km?",
+    "options": [
+      "5 hours",
+      "6 hours",
+      "7 hours",
+      "4.5 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the value of 2\u00b3 \u00d7 5\u00b2 - 4\u00b2?",
+    "options": [
+      "184",
+      "200",
+      "216",
+      "150"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A shopkeeper buys goods for $480 and sells them at a 25% profit. What is the selling price?",
+    "options": [
+      "$500",
+      "$580",
+      "$600",
+      "$620"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The ratio of boys to girls in a school is 5:7. If there are 840 students in total, how many girls are there?",
+    "options": [
+      "350",
+      "490",
+      "420",
+      "360"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the area of a triangle with a base of 14 cm and a height of 9 cm?",
+    "options": [
+      "63 cm\u00b2",
+      "126 cm\u00b2",
+      "46 cm\u00b2",
+      "94.5 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A number is increased by 20% and then decreased by 20%. What is the net percentage change?",
+    "options": [
+      "0%",
+      "\u22124%",
+      "4%",
+      "\u22122%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the simple interest on $2500 at a rate of 8% per annum is $600, for how many years was the money invested?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the least common multiple (LCM) of 18, 24, and 36?",
+    "options": [
+      "72",
+      "144",
+      "108",
+      "216"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circular swimming pool has a diameter of 14 m. What is the circumference of the pool? (Use \u03c0 = 22/7)",
+    "options": [
+      "44 m",
+      "88 m",
+      "154 m",
+      "176 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for y: 4y/3 + 5 = 17",
+    "options": [
+      "y = 6",
+      "y = 9",
+      "y = 12",
+      "y = 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 5 red, 3 blue, and 2 green marbles. If one marble is drawn at random, what is the probability that it is NOT red?",
+    "options": [
+      "1/2",
+      "3/10",
+      "2/5",
+      "1/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The volume of a cylinder is 1540 cm\u00b3 and its height is 10 cm. What is the radius of the cylinder? (Use \u03c0 = 22/7)",
+    "options": [
+      "7 cm",
+      "14 cm",
+      "3.5 cm",
+      "21 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A map has a scale of 1:50000. If two towns are 6 cm apart on the map, what is the actual distance between them in kilometres?",
+    "options": [
+      "3 km",
+      "30 km",
+      "300 km",
+      "0.3 km"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is 3 + 5?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which number comes after 19?",
+    "options": [
+      "18",
+      "21",
+      "20",
+      "17"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 10 - 4?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which shape is round like a ball?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 2 \u00d7 3?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many cents are in one dollar?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is half of 8?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which number is the largest?",
+    "options": [
+      "23",
+      "32",
+      "13",
+      "31"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many days are in one week?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 15 + 10?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is an even number?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A rectangle has how many corners?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 20 \u00f7 4?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If you have 10 apples and give away 3, how many do you have left?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correctIndex": 2
+  }
+]

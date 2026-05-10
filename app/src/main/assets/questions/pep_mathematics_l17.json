@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If 3x - 7 = 2(x + 4), what is the value of x?",
+    "options": [
+      "x = 15",
+      "x = 1",
+      "x = -1",
+      "x = 5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangular prism has a length of 8 cm, width of 5 cm, and height of 3 cm. What is its total surface area?",
+    "options": [
+      "158 cm\u00b2",
+      "120 cm\u00b3",
+      "79 cm\u00b2",
+      "240 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is equivalent to 2\u2075 \u00d7 2\u00b3 \u00f7 2\u2074?",
+    "options": [
+      "2\u2074",
+      "2\u00b2",
+      "2\u2076",
+      "2\u00b9\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car travels 240 km in 3 hours. At the same speed, how long will it take to travel 400 km?",
+    "options": [
+      "5 hours",
+      "4 hours",
+      "6 hours",
+      "4.5 hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The sum of the interior angles of a hexagon is:",
+    "options": [
+      "720\u00b0",
+      "540\u00b0",
+      "900\u00b0",
+      "1080\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If the simple interest on $1,500 for 4 years is $300, what is the annual interest rate?",
+    "options": [
+      "5%",
+      "4%",
+      "6%",
+      "8%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of data: 12, 15, 18, 21, 24, 27. What is the mean?",
+    "options": [
+      "19.5",
+      "18",
+      "21",
+      "20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which expression represents the nth term of the sequence 5, 8, 11, 14, \u2026?",
+    "options": [
+      "3n + 2",
+      "2n + 3",
+      "n + 4",
+      "4n + 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has a diameter of 14 cm. What is its area? (Use \u03c0 = 22/7)",
+    "options": [
+      "154 cm\u00b2",
+      "44 cm\u00b2",
+      "308 cm\u00b2",
+      "616 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 40% of a number is 56, what is 75% of the same number?",
+    "options": [
+      "105",
+      "112",
+      "98",
+      "140"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve: 4(2x - 3) - 2(x + 1) = 18. What is the value of x?",
+    "options": [
+      "x = 5",
+      "x = 4",
+      "x = 6",
+      "x = 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Triangle ABC is similar to triangle DEF. If AB = 6 cm, BC = 9 cm, and DE = 10 cm, what is the length of EF?",
+    "options": [
+      "15 cm",
+      "12 cm",
+      "18 cm",
+      "6.7 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 5 red, 3 blue, and 2 green marbles. If one marble is drawn at random, what is the probability that it is NOT red?",
+    "options": [
+      "1/2",
+      "1/5",
+      "3/10",
+      "2/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the value of \u221a(144 + 25)?",
+    "options": [
+      "13",
+      "17",
+      "\u221a169",
+      "Both A and C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A shopkeeper bought goods for $840 and sold them at a 25% profit. What was the selling price?",
+    "options": [
+      "$1,050",
+      "$1,260",
+      "$210",
+      "$960"
+    ],
+    "correctIndex": 0
+  }
+]

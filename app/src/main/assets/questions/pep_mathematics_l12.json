@@ -1,0 +1,153 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 2x + 1, what is f(-2)?",
+    "options": [
+      "A) 17",
+      "B) 9",
+      "C) 21",
+      "D) 13",
+      "E) None of these"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 2x\u00b2 - 7x + 3 = 0",
+    "options": [
+      "A) x = 3 or x = 1/2",
+      "B) x = -3 or x = -1/2",
+      "C) x = 3 or x = -1/2",
+      "D) x = -3 or x = 1/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has equation x\u00b2 + y\u00b2 - 6x + 4y - 12 = 0. What is the radius?",
+    "options": [
+      "A) 5",
+      "B) 7",
+      "C) 4",
+      "D) 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the sum of the first 20 terms of the arithmetic series 3 + 7 + 11 + ...?",
+    "options": [
+      "A) 820",
+      "B) 780",
+      "C) 800",
+      "D) 840"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If log\u2082(x) + log\u2082(x - 2) = 3, what is the value of x?",
+    "options": [
+      "A) 4",
+      "B) 2",
+      "C) 6",
+      "D) 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A geometric series has first term 5 and common ratio 2. What is the sum of the first 6 terms?",
+    "options": [
+      "A) 315",
+      "B) 310",
+      "C) 320",
+      "D) 325"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the derivative of f(x) = x\u00b3 - 4x\u00b2 + 5x - 2?",
+    "options": [
+      "A) 3x\u00b2 - 8x + 5",
+      "B) 3x\u00b2 - 4x + 5",
+      "C) 3x\u00b2 + 8x - 5",
+      "D) x\u00b2 - 8x + 5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Evaluate the definite integral \u222b\u2081\u00b3 (2x + 1) dx",
+    "options": [
+      "A) 10",
+      "B) 8",
+      "C) 12",
+      "D) 14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The matrix A = [[2, 3],[1, 4]]. What is the determinant of A?",
+    "options": [
+      "A) 5",
+      "B) 11",
+      "C) -5",
+      "D) 14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If the roots of x\u00b2 + px + q = 0 are \u03b1 and \u03b2, what is \u03b1\u00b2 + \u03b2\u00b2?",
+    "options": [
+      "A) p\u00b2 - 2q",
+      "B) p\u00b2 + 2q",
+      "C) -p\u00b2 + 2q",
+      "D) p\u00b2 - q"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the general solution of sin(x) = \u221a3/2 for 0\u00b0 \u2264 x \u2264 360\u00b0?",
+    "options": [
+      "A) 60\u00b0 and 120\u00b0",
+      "B) 30\u00b0 and 150\u00b0",
+      "C) 60\u00b0 and 150\u00b0",
+      "D) 30\u00b0 and 120\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability that event A occurs is 0.4 and event B occurs is 0.5. If A and B are independent, what is P(A \u222a B)?",
+    "options": [
+      "A) 0.70",
+      "B) 0.90",
+      "C) 0.20",
+      "D) 0.45"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the equation of the tangent to the curve y = x\u00b3 - 3x at the point where x = 2?",
+    "options": [
+      "A) y = 9x - 16",
+      "B) y = 9x + 16",
+      "C) y = 3x - 16",
+      "D) y = 9x - 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A vector v = 3i - 4j. What is the unit vector in the direction of v?",
+    "options": [
+      "A) (3/5)i - (4/5)j",
+      "B) (3/7)i - (4/7)j",
+      "C) (4/5)i - (3/5)j",
+      "D) (3/5)i + (4/5)j"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many different arrangements can be made from the letters of the word STATISTICS?",
+    "options": [
+      "A) 50400",
+      "B) 100800",
+      "C) 25200",
+      "D) 75600"
+    ],
+    "correctIndex": 0
+  }
+]

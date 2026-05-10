@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f(-3)?",
+    "options": [
+      "A) 38",
+      "B) 44",
+      "C) 32",
+      "D) 20"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 4 red, 6 blue, and 5 green marbles. Two marbles are drawn without replacement. What is the probability that both marbles are blue?",
+    "options": [
+      "A) 1/7",
+      "B) 2/7",
+      "C) 36/225",
+      "D) 1/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 2x\u00b2 - 7x - 15 = 0",
+    "options": [
+      "A) x = 5 or x = -3/2",
+      "B) x = -5 or x = 3/2",
+      "C) x = 5 or x = 3",
+      "D) x = -5 or x = -3/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The sum of the interior angles of a polygon is 1440\u00b0. How many sides does the polygon have?",
+    "options": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels 240 km in 3 hours, then 180 km in 2 hours. What is the average speed for the entire journey?",
+    "options": [
+      "A) 84 km/h",
+      "B) 82 km/h",
+      "C) 80 km/h",
+      "D) 78 km/h"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simplify: (2x\u00b3y\u00b2)\u00b3 \u00f7 (4x\u00b2y)\u00b2",
+    "options": [
+      "A) 2x\u2075y\u2074",
+      "B) x\u2075y\u2074/2",
+      "C) 2x\u2075y\u2074/4",
+      "D) 4x\u2075y\u2074"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is the total surface area? (Use \u03c0 = 22/7)",
+    "options": [
+      "A) 748 cm\u00b2",
+      "B) 704 cm\u00b2",
+      "C) 528 cm\u00b2",
+      "D) 770 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If log\u2082(x) + log\u2082(x - 6) = 4, what is the value of x?",
+    "options": [
+      "A) 8",
+      "B) 2",
+      "C) 10",
+      "D) 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of 8 numbers is 15. When a 9th number is added, the mean becomes 16. What is the 9th number?",
+    "options": [
+      "A) 20",
+      "B) 22",
+      "C) 24",
+      "D) 26"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Triangle ABC is similar to triangle DEF. If AB = 6 cm, BC = 8 cm, and DE = 9 cm, what is the length of EF?",
+    "options": [
+      "A) 10 cm",
+      "B) 11 cm",
+      "C) 12 cm",
+      "D) 14 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of x if 5^(2x-1) = 125?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a perimeter of 54 cm. If the length is 3 cm more than twice the width, what is the area of the rectangle?",
+    "options": [
+      "A) 162 cm\u00b2",
+      "B) 170 cm\u00b2",
+      "C) 180 cm\u00b2",
+      "D) 192 cm\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a class of 40 students, 25 play football, 20 play cricket, and 10 play both. How many students play neither sport?",
+    "options": [
+      "A) 3",
+      "B) 5",
+      "C) 7",
+      "D) 10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the gradient of a line perpendicular to 3x - 4y + 8 = 0?",
+    "options": [
+      "A) 3/4",
+      "B) -4/3",
+      "C) 4/3",
+      "D) -3/4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shopkeeper buys an item for $450 and sells it at a profit of 20%. If a customer pays with $600, how much change does the customer receive?",
+    "options": [
+      "A) $50",
+      "B) $60",
+      "C) $70",
+      "D) $80"
+    ],
+    "correctIndex": 1
+  }
+]
