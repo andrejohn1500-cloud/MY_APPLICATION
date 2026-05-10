@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which of the following best describes the concept of 'sustainable development'?",
+    "options": [
+      "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
+      "Development that focuses solely on economic growth without regard for environmental impacts",
+      "Development that prioritizes industrialization over agricultural production",
+      "Development that restricts population growth in developing countries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of plate tectonics, which type of plate boundary is associated with the formation of ocean trenches?",
+    "options": [
+      "Divergent boundary",
+      "Conservative boundary",
+      "Convergent boundary",
+      "Transform boundary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Caribbean island is classified as a volcanic island formed by hot spot activity?",
+    "options": [
+      "Barbados",
+      "Trinidad",
+      "Montserrat",
+      "Aruba"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary cause of the urban heat island effect?",
+    "options": [
+      "Increased vegetation cover in urban areas",
+      "Absorption and re-emission of heat by buildings and paved surfaces",
+      "Higher rainfall in cities compared to rural areas",
+      "Reduced carbon dioxide concentrations in urban centres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a tropical rainforest biome?",
+    "options": [
+      "Distinct wet and dry seasons with sparse vegetation",
+      "High biodiversity with a layered canopy structure",
+      "Predominantly coniferous trees adapted to cold temperatures",
+      "Low annual rainfall averaging less than 250 mm per year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a drainage basin, the term 'discharge' refers to:",
+    "options": [
+      "The total volume of water stored in the basin",
+      "The volume of water flowing past a given point per unit of time",
+      "The rate at which water evaporates from a river",
+      "The amount of sediment carried by a river"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which demographic indicator is used to measure the number of deaths per 1,000 live births in the first year of life?",
+    "options": [
+      "Crude death rate",
+      "Total fertility rate",
+      "Infant mortality rate",
+      "Natural increase rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The 'demographic transition model' suggests that countries in Stage 2 experience:",
+    "options": [
+      "High birth rates and high death rates",
+      "High birth rates and falling death rates",
+      "Low birth rates and low death rates",
+      "Falling birth rates and low death rates"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of farming system is characterized by subsistence farmers growing a variety of crops on small plots using traditional methods?",
+    "options": [
+      "Plantation agriculture",
+      "Shifting cultivation",
+      "Mixed subsistence farming",
+      "Monoculture farming"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main process responsible for the formation of a V-shaped valley in a river's upper course?",
+    "options": [
+      "Lateral erosion and deposition",
+      "Vertical erosion and mass movement",
+      "Glacial erosion and freeze-thaw weathering",
+      "Chemical weathering and longshore drift"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes 'insolation'?",
+    "options": [
+      "The insulating effect of greenhouse gases on the atmosphere",
+      "Solar radiation received at the Earth's surface",
+      "The reflection of radiation back into space by clouds",
+      "The transfer of heat through ocean currents"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Caribbean coastal environments, mangrove forests primarily serve to:",
+    "options": [
+      "Increase coastal erosion by trapping sediment",
+      "Stabilize coastlines and provide nursery habitats for marine species",
+      "Reduce biodiversity by blocking sunlight from reaching the seabed",
+      "Accelerate the process of coral bleaching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which push factor is most commonly associated with rural-to-urban migration in developing countries?",
+    "options": [
+      "Better healthcare facilities in rural areas",
+      "Higher wages offered in rural agricultural sectors",
+      "Lack of employment opportunities and poor infrastructure in rural areas",
+      "Overpopulation in urban centres discouraging migration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "command": "Which type of coral reef is separated from the mainland by a shallow lagoon?",
+    "question": "Which type of coral reef is separated from the mainland by a shallow lagoon?",
+    "options": [
+      "Fringing reef",
+      "Atoll",
+      "Barrier reef",
+      "Patch reef"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following greenhouse gases has the highest global warming potential over a 100-year period?",
+    "options": [
+      "Carbon dioxide (CO2)",
+      "Methane (CH4)",
+      "Nitrous oxide (N2O)",
+      "Sulphur hexafluoride (SF6)"
+    ],
+    "correctIndex": 3
+  }
+]
