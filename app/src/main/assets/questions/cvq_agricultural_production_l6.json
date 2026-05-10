@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the concept of sustainable agriculture?",
+    "options": [
+      "A) Maximizing crop yields regardless of environmental impact",
+      "B) Meeting present food needs without compromising the ability of future generations to meet their own needs",
+      "C) Using only synthetic fertilizers to boost soil fertility",
+      "D) Focusing solely on monoculture farming systems"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of crop rotation in agricultural production?",
+    "options": [
+      "A) To increase the use of chemical pesticides",
+      "B) To reduce soil erosion by wind only",
+      "C) To break pest and disease cycles and maintain soil fertility",
+      "D) To eliminate the need for irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which soil horizon is most important for plant growth due to its high organic matter content?",
+    "options": [
+      "A) C horizon",
+      "B) B horizon",
+      "C) R horizon",
+      "D) A horizon"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In integrated pest management (IPM), which approach is considered the first line of defense?",
+    "options": [
+      "A) Chemical control using broad-spectrum pesticides",
+      "B) Biological control using natural enemies",
+      "C) Cultural practices such as crop rotation and sanitation",
+      "D) Genetic modification of crops"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the NPK ratio on a fertilizer bag represent?",
+    "options": [
+      "A) Nitrogen, Phosphorus, and Potassium percentages",
+      "B) Nitrogen, Potassium, and Potash percentages",
+      "C) Nitrate, Phosphate, and Kaolinite percentages",
+      "D) Natural, Processed, and Known nutrient content"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which irrigation method is most efficient in terms of water use for row crops?",
+    "options": [
+      "A) Flood irrigation",
+      "B) Sprinkler irrigation",
+      "C) Drip irrigation",
+      "D) Furrow irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended action when soil pH is too acidic for optimal crop production?",
+    "options": [
+      "A) Add sulfur to the soil",
+      "B) Apply lime to raise the soil pH",
+      "C) Increase nitrogen fertilizer application",
+      "D) Apply more irrigation water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of loamy soil that makes it ideal for agriculture?",
+    "options": [
+      "A) It is predominantly clay with poor drainage",
+      "B) It has a balanced mixture of sand, silt, and clay with good water retention and drainage",
+      "C) It consists mainly of sand with very low nutrient content",
+      "D) It is highly compacted and resistant to root penetration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main advantage of using cover crops in agricultural systems?",
+    "options": [
+      "A) They increase the cost of production significantly",
+      "B) They prevent beneficial insects from accessing the field",
+      "C) They protect soil from erosion, add organic matter, and fix nitrogen",
+      "D) They eliminate the need for any soil tillage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which stage of plant growth is most critical for water supply in cereal crops?",
+    "options": [
+      "A) Germination stage",
+      "B) Seedling establishment stage",
+      "C) Flowering and grain filling stage",
+      "D) Harvest and post-harvest stage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'photoperiodism' refer to in plant production?",
+    "options": [
+      "A) The process by which plants convert light into chemical energy",
+      "B) The response of plants to the relative lengths of day and night periods",
+      "C) The measurement of light intensity in a given growing area",
+      "D) The effect of ultraviolet light on plant pigmentation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following farming practices best reduces the risk of soil erosion on sloped land?",
+    "options": [
+      "A) Deep plowing along the slope",
+      "B) Contour farming and terracing",
+      "C) Removing all vegetation between crops",
+      "D) Increasing chemical fertilizer use"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock production, what is the primary purpose of a quarantine period for newly acquired animals?",
+    "options": [
+      "A) To fatten the animals before introducing them to the herd",
+      "B) To train animals to adapt to new feeding routines",
+      "C) To observe and prevent the spread of disease to the existing herd",
+      "D) To reduce the cost of veterinary services"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the function of mycorrhizae in plant production?",
+    "options": [
+      "A) They are harmful fungi that cause root rot in most crops",
+      "B) They are symbiotic fungi that enhance nutrient and water uptake by plant roots",
+      "C) They produce toxins that deter soil-dwelling pests",
+      "D) They fix atmospheric nitrogen directly into soil compounds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct definition of 'germination percentage' as used in seed quality assessment?",
+    "options": [
+      "A) The percentage of seeds that are free from disease pathogens",
+      "B) The percentage of seeds that contain viable embryos before planting",
+      "C) The percentage of seeds that successfully sprout under standard test conditions",
+      "D) The percentage of seeds harvested relative to those planted in the field"
+    ],
+    "correctIndex": 2
+  }
+]

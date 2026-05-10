@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which soil horizon is primarily characterized by the accumulation of leached minerals such as iron, aluminum, and humus from upper layers?",
+    "options": [
+      "A horizon",
+      "B horizon",
+      "C horizon",
+      "O horizon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In integrated pest management (IPM), the economic threshold is best defined as:",
+    "options": [
+      "The pest population level at which the cost of control equals the cost of crop damage prevented",
+      "The maximum number of pests tolerated before a crop is destroyed",
+      "The point at which a pesticide is first applied regardless of pest numbers",
+      "The level at which biological control agents are introduced"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the nitrogen fixation process carried out by Rhizobium bacteria in legume root nodules?",
+    "options": [
+      "Conversion of nitrates to nitrogen gas released into the atmosphere",
+      "Conversion of atmospheric nitrogen (N\u2082) into ammonium compounds usable by plants",
+      "Breakdown of organic nitrogen into inorganic nitrates",
+      "Conversion of ammonium ions into nitrites by nitrifying bacteria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer notices that crop leaves are showing interveinal chlorosis on younger leaves. This symptom is most likely associated with a deficiency of:",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Iron",
+      "Magnesium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which grafting technique involves inserting a bud from one plant onto the rootstock of another and is commonly used in fruit tree propagation?",
+    "options": [
+      "Cleft grafting",
+      "Whip and tongue grafting",
+      "Budding (T-budding)",
+      "Approach grafting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The cation exchange capacity (CEC) of a soil is most directly related to:",
+    "options": [
+      "The proportion of sand particles and soil pH",
+      "The clay content and organic matter content of the soil",
+      "The moisture retention capacity of the topsoil only",
+      "The bulk density and porosity of the subsoil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In crop rotation systems, which sequence best demonstrates the principle of nitrogen management and pest cycle disruption?",
+    "options": [
+      "Maize \u2192 Maize \u2192 Maize \u2192 Soybean",
+      "Soybean \u2192 Maize \u2192 Sorghum \u2192 Groundnut",
+      "Maize \u2192 Sorghum \u2192 Maize \u2192 Sorghum",
+      "Tomato \u2192 Pepper \u2192 Eggplant \u2192 Tomato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Photoperiodism in plants refers to:",
+    "options": [
+      "The rate of photosynthesis in response to light intensity",
+      "The plant's response to the relative length of day and night periods",
+      "The adaptation of leaf structure to maximize light absorption",
+      "The circadian rhythm governing stomatal opening and closing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following irrigation methods has the highest water use efficiency and is most suitable for high-value crops in water-scarce environments?",
+    "options": [
+      "Flood irrigation",
+      "Furrow irrigation",
+      "Sprinkler irrigation",
+      "Drip (trickle) irrigation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Somatic hybridization in plant biotechnology involves:",
+    "options": [
+      "Cross-pollination between two genetically distant species under controlled conditions",
+      "Fusion of protoplasts from two different plant species to create a hybrid cell",
+      "Insertion of foreign DNA into a plant genome using Agrobacterium tumefaciens",
+      "Clonal propagation of elite plant varieties through tissue culture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which harvesting index calculation correctly determines the proportion of total biological yield represented by the economic yield?",
+    "options": [
+      "Harvest Index = Total Biological Yield / Economic Yield",
+      "Harvest Index = Economic Yield / Total Biological Yield",
+      "Harvest Index = Economic Yield \u00d7 Total Biological Yield",
+      "Harvest Index = (Total Biological Yield - Economic Yield) / Economic Yield"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Vernalization is a physiological process in which:",
+    "options": [
+      "Seeds are soaked in water to accelerate germination rates",
+      "Plants require a period of prolonged cold temperature to initiate flowering",
+      "Light exposure triggers the transition from vegetative to reproductive growth",
+      "High temperatures are used to break seed dormancy before planting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of soil erosion control, contour farming is most effective because it:",
+    "options": [
+      "Increases surface runoff velocity to carry topsoil to lower fields",
+      "Creates furrows perpendicular to the slope that slow water flow and reduce erosion",
+      "Eliminates the need for cover crops and mulching on slopes",
+      "Deepens the soil profile by breaking up the hardpan layer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following accurately describes the difference between systemic and contact pesticides?",
+    "options": [
+      "Systemic pesticides kill pests only upon direct contact while contact pesticides are absorbed by plant tissue",
+      "Systemic pesticides are absorbed and translocated throughout plant tissue while contact pesticides kill only where they directly touch",
+      "Contact pesticides remain active in the soil for longer periods than systemic pesticides",
+      "Systemic pesticides are exclusively used for fungal control while contact pesticides control insects only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of allelopathy in agricultural production refers to:",
+    "options": [
+      "The mutualistic relationship between mycorrhizal fungi and plant roots for nutrient uptake",
+      "The chemical inhibition of one plant's growth by compounds released by another plant",
+      "The use of companion planting to attract beneficial insects for pollination",
+      "The competitive exclusion of weeds through dense canopy cover by the crop"
+    ],
+    "correctIndex": 1
+  }
+]

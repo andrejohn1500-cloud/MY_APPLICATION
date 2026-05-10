@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which soil horizon is primarily composed of partially decomposed organic matter and is commonly referred to as the 'A' horizon's upper layer?",
+    "options": [
+      "Horizon B",
+      "Horizon C",
+      "Horizon O",
+      "Horizon R"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of conducting a soil pH test before planting crops?",
+    "options": [
+      "To determine soil texture",
+      "To assess nutrient availability and suitability for specific crops",
+      "To measure soil moisture content",
+      "To identify soil color"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of fertilizer provides nitrogen in a form that is immediately available to plants?",
+    "options": [
+      "Ammonium nitrate",
+      "Bone meal",
+      "Rock phosphate",
+      "Potassium chloride"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In crop rotation, legumes are commonly included in the rotation cycle because they:",
+    "options": [
+      "Increase soil acidity",
+      "Fix atmospheric nitrogen into the soil",
+      "Reduce soil organic matter",
+      "Deplete phosphorus levels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended method for calculating the fertilizer application rate when the soil test recommends 60 kg of nitrogen per hectare and the fertilizer contains 20% nitrogen?",
+    "options": [
+      "Apply 60 kg of fertilizer per hectare",
+      "Apply 120 kg of fertilizer per hectare",
+      "Apply 300 kg of fertilizer per hectare",
+      "Apply 240 kg of fertilizer per hectare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which irrigation method is considered the most water-efficient for row crops in semi-arid regions?",
+    "options": [
+      "Flood irrigation",
+      "Sprinkler irrigation",
+      "Drip irrigation",
+      "Furrow irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Integrated Pest Management (IPM) approach prioritizes which pest control strategy as a first line of defense?",
+    "options": [
+      "Chemical pesticide application",
+      "Cultural and biological control methods",
+      "Fumigation of the entire field",
+      "Crop destruction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which growth stage of maize is most critical for water supply to maximize grain yield?",
+    "options": [
+      "Germination stage",
+      "Vegetative stage",
+      "Tasseling and silking stage",
+      "Maturity stage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'photoperiodism' refer to in plant production?",
+    "options": [
+      "The rate at which plants convert sunlight to energy",
+      "The response of plants to the relative length of day and night",
+      "The amount of light required for seed germination",
+      "The process of photosynthesis in low light conditions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which post-harvest technique is most effective for extending the shelf life of fresh fruits and vegetables by slowing respiration?",
+    "options": [
+      "Curing",
+      "Controlled atmosphere storage",
+      "Sun drying",
+      "Blanching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock production, what is the primary function of the rumen in ruminant animals?",
+    "options": [
+      "Absorption of water and minerals",
+      "Microbial fermentation and digestion of fibrous plant material",
+      "Secretion of digestive enzymes",
+      "Storage of bile for fat digestion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a good quality seed for agricultural production?",
+    "options": [
+      "High moisture content above 15%",
+      "Low germination percentage below 60%",
+      "High genetic purity and vigor",
+      "Presence of weed seeds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of windbreaks or shelterbelts on a farm?",
+    "options": [
+      "To increase soil acidity",
+      "To reduce wind erosion and protect crops and livestock",
+      "To improve drainage in waterlogged fields",
+      "To attract pollinators to the farm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil conservation practice involves plowing and planting across the slope rather than up and down?",
+    "options": [
+      "Strip cropping",
+      "Contour farming",
+      "Terracing",
+      "Mulching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In agricultural record keeping, what is the primary purpose of maintaining a farm enterprise budget?",
+    "options": [
+      "To record daily weather patterns",
+      "To document plant disease occurrences",
+      "To estimate expected costs and returns for a specific farm enterprise",
+      "To track employee attendance records"
+    ],
+    "correctIndex": 2
+  }
+]

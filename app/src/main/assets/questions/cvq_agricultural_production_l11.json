@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which soil pH range is considered optimal for most tropical food crops to maximize nutrient availability?",
+    "options": [
+      "4.0 - 5.0",
+      "5.5 - 6.5",
+      "7.0 - 8.0",
+      "8.5 - 9.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In integrated pest management (IPM), which approach represents the FIRST line of defense before chemical control is considered?",
+    "options": [
+      "Biological control using natural predators",
+      "Cultural practices such as crop rotation and sanitation",
+      "Chemical pesticide application at threshold levels",
+      "Mechanical trapping of pest insects"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer observes yellowing of older leaves starting from the leaf margins while younger leaves remain green. This symptom is MOST likely associated with a deficiency of which nutrient?",
+    "options": [
+      "Iron (Fe)",
+      "Calcium (Ca)",
+      "Potassium (K)",
+      "Manganese (Mn)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of roguing in crop production?",
+    "options": [
+      "Removing weeds that compete with the main crop",
+      "Removing diseased, off-type, or inferior plants from a crop stand",
+      "Thinning overcrowded seedlings to improve spacing",
+      "Removing lateral shoots to improve fruit size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of plant propagation technique involves joining the vascular tissue of two different plants so they grow as one?",
+    "options": [
+      "Layering",
+      "Budding and grafting",
+      "Tissue culture micropropagation",
+      "Stem cutting with rooting hormone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The cation exchange capacity (CEC) of a soil is BEST described as the soil's ability to:",
+    "options": [
+      "Allow water to move through its profile by gravity",
+      "Hold and supply positively charged nutrient ions to plants",
+      "Resist changes in pH when acids or bases are added",
+      "Convert organic matter into inorganic mineral nutrients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which method of irrigation is considered MOST efficient in terms of water use for row crops in semi-arid regions?",
+    "options": [
+      "Flood irrigation",
+      "Furrow irrigation",
+      "Drip (trickle) irrigation",
+      "Overhead sprinkler irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A soil sample analysis reveals a nitrogen content of 40 kg/ha and a crop requirement of 120 kg/ha. If urea (46% N) is the chosen fertilizer, approximately how many kg/ha of urea must be applied?",
+    "options": [
+      "87 kg/ha",
+      "174 kg/ha",
+      "260 kg/ha",
+      "348 kg/ha"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pest control chemicals is classified as a systemic insecticide?",
+    "options": [
+      "Malathion",
+      "Imidacloprid",
+      "Pyrethrin",
+      "Copper oxychloride"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock production, the term 'flushing' refers to:",
+    "options": [
+      "Removing internal parasites using anthelmintics before mating",
+      "Increasing the plane of nutrition of females before breeding to improve ovulation rate",
+      "Introducing a new male into a herd to stimulate estrus",
+      "Providing supplemental vitamins to breeding animals post-partum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which crop rotation sequence would BEST help reduce soil-borne nematode populations while maintaining soil fertility?",
+    "options": [
+      "Tomato \u2192 Pepper \u2192 Eggplant \u2192 Tomato",
+      "Maize \u2192 Soybean \u2192 Marigold \u2192 Groundnut",
+      "Lettuce \u2192 Cabbage \u2192 Kale \u2192 Broccoli",
+      "Cucumber \u2192 Watermelon \u2192 Pumpkin \u2192 Squash"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The term 'photoperiodism' in crop production describes how plants respond to:",
+    "options": [
+      "The intensity of light received during the growing season",
+      "The relative lengths of day and night periods to initiate flowering",
+      "The wavelength of light absorbed by chlorophyll during photosynthesis",
+      "The direction of light used to control stem elongation and bending"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which post-harvest technology method is MOST appropriate for long-term preservation of seed viability in a gene bank?",
+    "options": [
+      "Cold storage at 0\u00b0C with ambient humidity",
+      "Storage at -18\u00b0C with low relative humidity in sealed containers",
+      "Chemical fumigation with methyl bromide",
+      "Controlled atmosphere storage with elevated CO2 levels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a livestock enterprise, what does the term 'feed conversion ratio (FCR)' measure?",
+    "options": [
+      "The percentage of digestible nutrients in a given feedstuff",
+      "The amount of feed required to produce one unit of body weight gain",
+      "The ratio of protein to energy in a balanced livestock ration",
+      "The metabolic efficiency of converting glucose to ATP in ruminants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil conservation practice involves planting crops in alternating strips across a slope to reduce water erosion?",
+    "options": [
+      "Contour farming",
+      "Strip cropping",
+      "Terracing",
+      "Windbreak establishment"
+    ],
+    "correctIndex": 1
+  }
+]

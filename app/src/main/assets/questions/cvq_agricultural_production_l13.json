@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which soil horizon is characterized by maximum accumulation of leached materials such as clay, iron oxides, and organic matter?",
+    "options": [
+      "A horizon",
+      "B horizon",
+      "C horizon",
+      "O horizon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In integrated pest management (IPM), the economic injury level (EIL) is defined as:",
+    "options": [
+      "The pest population density at which control measures must be applied to prevent economic damage",
+      "The maximum pest population a crop can tolerate without any yield loss",
+      "The cost of pesticide application per hectare",
+      "The threshold at which pests cause visible symptoms on leaves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following processes describes the conversion of atmospheric nitrogen into ammonia by microorganisms?",
+    "options": [
+      "Nitrification",
+      "Denitrification",
+      "Nitrogen fixation",
+      "Ammonification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A farmer notices that crop leaves show interveinal chlorosis on young leaves while older leaves remain green. This is most likely indicative of a deficiency in:",
+    "options": [
+      "Nitrogen",
+      "Iron",
+      "Magnesium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'allelopathy' in crop production refers to:",
+    "options": [
+      "The mutualistic relationship between legumes and Rhizobium bacteria",
+      "The chemical inhibition of one plant's growth by substances released from another plant",
+      "The process by which plants compete for light through canopy architecture",
+      "The symbiotic association between plant roots and mycorrhizal fungi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which irrigation method achieves the highest water use efficiency and is most suitable for arid regions with saline soils?",
+    "options": [
+      "Flood irrigation",
+      "Sprinkler irrigation",
+      "Drip (trickle) irrigation",
+      "Furrow irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plant breeding, the term 'heterosis' or hybrid vigor refers to:",
+    "options": [
+      "The reduced fertility observed in first-generation hybrids",
+      "The superior performance of F1 hybrids over their parent lines",
+      "The genetic uniformity achieved through inbreeding",
+      "The process of backcrossing to recover parental traits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following tillage practices is most effective in reducing soil erosion and conserving moisture by leaving crop residue on the soil surface?",
+    "options": [
+      "Deep plowing",
+      "Conventional tillage",
+      "Conservation tillage (no-till/minimum till)",
+      "Subsoiling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The cation exchange capacity (CEC) of a soil primarily depends on:",
+    "options": [
+      "The proportion of sand and gravel particles",
+      "The organic matter content and clay mineral type",
+      "The soil moisture content and temperature",
+      "The presence of macronutrients in the soil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hormone is primarily responsible for apical dominance in plants, suppressing the growth of lateral buds?",
+    "options": [
+      "Cytokinin",
+      "Gibberellin",
+      "Auxin (IAA)",
+      "Ethylene"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In livestock production, the term 'feed conversion ratio' (FCR) measures:",
+    "options": [
+      "The percentage of feed metabolized into energy",
+      "The amount of feed required to produce one unit of animal product",
+      "The ratio of protein to carbohydrate in animal feed",
+      "The digestibility coefficient of feed ingredients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the purpose of a 'windbreak' or 'shelterbelt' in agricultural systems?",
+    "options": [
+      "To increase soil temperature by trapping solar radiation",
+      "To reduce wind speed thereby decreasing evapotranspiration and soil erosion",
+      "To provide habitat exclusively for beneficial insect pollinators",
+      "To improve drainage by channeling surface runoff"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Photoperiodism in crop plants refers to:",
+    "options": [
+      "The rate of photosynthesis in response to light intensity",
+      "The physiological response of plants to the relative length of day and night",
+      "The movement of plant organs toward or away from a light source",
+      "The capacity of leaves to absorb specific wavelengths of light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which disease management strategy involves the use of resistant crop varieties developed through genetic improvement to reduce susceptibility to pathogens?",
+    "options": [
+      "Chemical control",
+      "Biological control",
+      "Host resistance",
+      "Quarantine measures"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In agricultural economics, the 'law of diminishing returns' as applied to fertilizer application states that:",
+    "options": [
+      "Each additional unit of fertilizer applied will always increase crop yield proportionally",
+      "Beyond a certain point, each additional unit of fertilizer applied results in smaller incremental yield increases",
+      "Fertilizer should always be applied at the maximum recommended rate for optimal profit",
+      "The cost of fertilizer always exceeds the value of increased crop output at high application rates"
+    ],
+    "correctIndex": 1
+  }
+]

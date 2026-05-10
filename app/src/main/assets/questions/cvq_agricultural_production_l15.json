@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which soil horizon is characterized by the accumulation of leached minerals and is commonly referred to as the zone of illuviation?",
+    "options": [
+      "A horizon",
+      "B horizon",
+      "C horizon",
+      "O horizon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In integrated pest management (IPM), what is the correct sequence of pest control strategies from most preferred to least preferred?",
+    "options": [
+      "Chemical, biological, cultural, mechanical",
+      "Biological, cultural, mechanical, chemical",
+      "Cultural, mechanical, biological, chemical",
+      "Mechanical, chemical, biological, cultural"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of calculating the Leaf Area Index (LAI) in crop production?",
+    "options": [
+      "To determine the nitrogen content of leaves",
+      "To measure the efficiency of light interception by the crop canopy",
+      "To estimate the water content in plant tissue",
+      "To calculate the rate of photosynthesis per leaf cell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "command": "Which hormonal treatment is most commonly used to synchronize estrus in cattle for artificial insemination programs?",
+    "question": "Which hormonal treatment is most commonly used to synchronize estrus in cattle for artificial insemination programs?",
+    "options": [
+      "Oxytocin and prolactin",
+      "Prostaglandin F2\u03b1 and progesterone",
+      "Follicle-stimulating hormone and estrogen only",
+      "Testosterone and luteinizing hormone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer observes chlorosis starting on older leaves while younger leaves remain green. Which nutrient deficiency does this pattern most likely indicate?",
+    "options": [
+      "Iron deficiency",
+      "Calcium deficiency",
+      "Nitrogen deficiency",
+      "Sulfur deficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In crop rotation planning, which combination of crops best exemplifies a rotation designed to break pest cycles and improve soil nitrogen?",
+    "options": [
+      "Maize followed by sorghum followed by wheat",
+      "Legume followed by cereal followed by root crop",
+      "Root crop followed by root crop followed by cereal",
+      "Cereal followed by cereal followed by legume"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct formula for calculating Net Assimilation Rate (NAR) in plant growth analysis?",
+    "options": [
+      "NAR = (W2 - W1) / (t2 - t1)",
+      "NAR = (W2 - W1) \u00d7 (lnL2 - lnL1) / [(L2 - L1)(t2 - t1)]",
+      "NAR = (L2 - L1) / (W2 \u00d7 t2)",
+      "NAR = W1 \u00d7 (t2 - t1) / (L1 + L2)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of irrigation system delivers water directly to the root zone of plants, minimizing evaporation losses and making it the most water-use-efficient method?",
+    "options": [
+      "Sprinkler irrigation",
+      "Flood irrigation",
+      "Furrow irrigation",
+      "Drip or trickle irrigation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "During the composting process, the carbon-to-nitrogen (C:N) ratio of raw materials should ideally be maintained at approximately what level for optimal decomposition?",
+    "options": [
+      "5:1 to 10:1",
+      "25:1 to 30:1",
+      "60:1 to 80:1",
+      "100:1 to 120:1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary mechanism by which Rhizobium bacteria benefit leguminous crops in agricultural production?",
+    "options": [
+      "They produce growth hormones that accelerate root elongation",
+      "They fix atmospheric nitrogen into ammonia usable by the host plant",
+      "They solubilize inorganic phosphorus from soil minerals",
+      "They suppress soil-borne fungal pathogens through antibiosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock production, which condition is characterized by a metabolic disorder caused by low blood calcium levels occurring around parturition in high-producing dairy cows?",
+    "options": [
+      "Ketosis",
+      "Milk fever (hypocalcemia)",
+      "Bloat",
+      "Grass tetany"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which plant growth regulator, when applied to pineapple crops, is used to induce uniform flowering and facilitate synchronized harvesting?",
+    "options": [
+      "Gibberellic acid",
+      "Ethephon (ethylene-releasing compound)",
+      "Cytokinin",
+      "Auxin (IAA)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil science, the cation exchange capacity (CEC) is most directly influenced by which two soil components?",
+    "options": [
+      "Sand particles and soil moisture",
+      "Clay minerals and organic matter",
+      "Silt particles and soil pH",
+      "Soil temperature and bulk density"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary distinction between determinate and indeterminate varieties of crops such as tomatoes in terms of growth habit and management implications?",
+    "options": [
+      "Determinate varieties require staking while indeterminate varieties do not",
+      "Determinate varieties set fruit and stop growing at a predictable height while indeterminate varieties continue vegetative growth throughout the season",
+      "Indeterminate varieties are always more productive per plant than determinate varieties",
+      "Determinate varieties require more nitrogen fertilizer than indeterminate varieties"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a cost-benefit analysis for an agricultural enterprise, if total revenue is $85,000, total variable costs are $42,000, and total fixed costs are $18,000, what is the farm's net profit and benefit-cost ratio respectively?",
+    "options": [
+      "Net profit $25,000; BCR 1.42",
+      "Net profit $43,000; BCR 1.43",
+      "Net profit $25,000; BCR 1.29",
+      "Net profit $43,000; BCR 2.02"
+    ],
+    "correctIndex": 2
+  }
+]

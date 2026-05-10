@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which soil horizon is primarily composed of weathered parent material and is designated as the C horizon?",
+    "options": [
+      "Topsoil rich in organic matter",
+      "Subsoil with accumulated minerals",
+      "Partially weathered bedrock material",
+      "Bedrock impenetrable to roots"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In integrated pest management (IPM), what is the primary principle behind establishing an Economic Threshold Level (ETL)?",
+    "options": [
+      "To eliminate all pests from the field immediately",
+      "To determine the pest population density at which control measures become cost-effective",
+      "To measure the maximum pesticide dosage allowed per hectare",
+      "To calculate the minimum crop yield acceptable after pest damage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which plant growth regulator is primarily responsible for apical dominance and suppression of lateral bud growth?",
+    "options": [
+      "Gibberellin",
+      "Cytokinin",
+      "Auxin",
+      "Ethylene"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When calculating the Nitrogen-Phosphorus-Potassium (NPK) content of a 50 kg bag of 12-24-12 fertilizer, how many kilograms of phosphorus pentoxide (P2O5) are present?",
+    "options": [
+      "6 kg",
+      "12 kg",
+      "24 kg",
+      "18 kg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of irrigation system is most suitable for minimizing water loss through evaporation and delivering water directly to the root zone of crops?",
+    "options": [
+      "Flood irrigation",
+      "Sprinkler irrigation",
+      "Drip or trickle irrigation",
+      "Furrow irrigation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In crop rotation, legumes are typically included in the rotation sequence primarily because they",
+    "options": [
+      "Reduce soil pH significantly",
+      "Fix atmospheric nitrogen through symbiotic bacteria in root nodules",
+      "Increase soil salinity to deter pests",
+      "Produce allelopathic chemicals that suppress weeds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which method of vegetative propagation produces new plants from specialized underground storage organs called corms, as seen in dasheen and eddoe?",
+    "options": [
+      "Budding",
+      "Layering",
+      "Division of corms",
+      "Grafting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The cation exchange capacity (CEC) of a soil is a critical measure because it indicates the soil's ability to",
+    "options": [
+      "Retain and supply nutrient cations to plant roots",
+      "Drain excess water after heavy rainfall",
+      "Support microbial decomposition of organic matter",
+      "Resist compaction under heavy machinery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which disease of citrus, caused by the bacterium Candidatus Liberibacter, is characterized by yellowing of shoots (blotchy mottle) and is considered one of the most devastating citrus diseases worldwide?",
+    "options": [
+      "Citrus canker",
+      "Citrus greening (Huanglongbing)",
+      "Tristeza",
+      "Phytophthora root rot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock production, the term 'flushing' refers to the practice of",
+    "options": [
+      "Rapid deworming of ewes before parturition",
+      "Increasing the nutritional plane of females prior to mating to increase ovulation rate",
+      "Administering hormones to synchronize estrus in a herd",
+      "Rapid weaning of young animals to stimulate re-breeding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tillage practice involves disturbing the soil as little as possible, leaving crop residues on the surface to reduce erosion and maintain soil moisture?",
+    "options": [
+      "Conventional tillage",
+      "Deep ploughing",
+      "Conservation or no-till farming",
+      "Subsoil tillage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The phenomenon of heterosis or hybrid vigor in plant breeding results in offspring that",
+    "options": [
+      "Are genetically identical to both parent lines",
+      "Show inferior performance compared to either parent",
+      "Exhibit superior performance compared to the mean of both parent lines",
+      "Express only recessive traits from both parents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which post-harvest technique involves exposing harvested produce to elevated CO2 and reduced O2 levels to extend shelf life by slowing respiration rate?",
+    "options": [
+      "Blanching",
+      "Modified atmosphere storage",
+      "Irradiation",
+      "Freeze drying"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In poultry production, the feed conversion ratio (FCR) is calculated as",
+    "options": [
+      "Body weight gained divided by feed consumed",
+      "Feed consumed divided by body weight gained",
+      "Number of eggs produced divided by feed consumed",
+      "Feed cost divided by revenue from sales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Soil pH directly affects nutrient availability; at which pH range are most macro and micronutrients optimally available to the majority of crop plants?",
+    "options": [
+      "4.0 to 5.0",
+      "5.5 to 6.5",
+      "7.5 to 8.5",
+      "8.5 to 9.5"
+    ],
+    "correctIndex": 1
+  }
+]
