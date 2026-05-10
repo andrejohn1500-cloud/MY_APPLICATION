@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at a right angle by interlocking rectangular cuts?",
+    "question": "Which tool is used to transfer pattern markings to fabric?",
     "options": [
-      "Dovetail joint",
-      "Butt joint",
-      "Dado joint",
-      "Box joint"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In electrical circuits, what does the term 'impedance' refer to?",
-    "options": [
-      "The total opposition to current flow in an AC circuit",
-      "The resistance of a conductor to heat",
-      "The voltage drop across a resistor",
-      "The power consumed by a capacitor"
+      "Tracing wheel",
+      "Coco Chanel",
+      "Equal distribution of visual weight",
+      "Extra room added for comfort and movement"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which material property describes the ability of a metal to be drawn into wire without breaking?",
+    "question": "Which fabric is made from the hair of the Angora goat?",
     "options": [
-      "Malleability",
-      "Ductility",
-      "Brittleness",
-      "Hardness"
+      "Mohair",
+      "Spinning",
+      "Silk",
+      "Cotton"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric requires dry cleaning only?",
+    "options": [
+      "Creating a focal point or centre of interest",
+      "Silk",
+      "Seam roll",
+      "An opening in a garment that allows it to be put on and taken off"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In technical drawing, what does the abbreviation 'ISO' stand for?",
+    "question": "What is negative ease in a garment?",
     "options": [
-      "Internal Standards Organization",
-      "International Organization for Standardization",
-      "Industrial Standards Office",
-      "Integrated Systems Output"
+      "A sleeve that extends to the collar without a shoulder seam",
+      "Threads running lengthwise on the loom",
+      "Twill weave",
+      "When the garment is smaller than the body measurement"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "question": "What does emphasis in design mean?",
     "options": [
-      "MIG welding",
-      "Stick welding",
-      "TIG welding",
-      "Flux-core welding"
+      "Red, yellow and blue",
+      "Equal distribution of visual weight",
+      "A triangular piece of fabric that adds fullness",
+      "Creating a focal point or centre of interest"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric characteristic refers to how it drapes?",
+    "options": [
+      "A process to prevent shrinkage in cotton fabric",
+      "A triangle with a cross",
+      "Hand or drape",
+      "Measuring tape"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a P-trap installed under a sink?",
+    "question": "What is smocking?",
     "options": [
-      "To increase water pressure",
-      "To prevent sewer gases from entering the building",
-      "To filter sediment from water",
-      "To regulate water temperature"
+      "The extra fabric between the seam line and the cut edge",
+      "A decorative technique that gathers fabric in a pattern",
+      "A symbol or name that identifies a brand",
+      "Plain weave"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In building construction, what is the purpose of a 'lintel'?",
+    "question": "Which fabric care symbol means do not bleach?",
     "options": [
-      "To provide a waterproof membrane on roofs",
-      "To support the load above a door or window opening",
-      "To anchor foundation walls to the ground",
-      "To connect roof trusses together"
+      "Waterproofing",
+      "Hand or drape",
+      "An opening in a garment that allows it to be put on and taken off",
+      "A triangle with a cross"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is the correct formula for calculating electrical power?",
+    "question": "Which fibre absorbs moisture and wicks it away?",
     "options": [
-      "P = I / V",
-      "P = V \u00d7 R",
-      "P = V \u00d7 I",
-      "P = I\u00b2 / R"
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Ready to wear",
+      "Coco Chanel",
+      "Bamboo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which designer created the little black dress?",
+    "options": [
+      "Ready to wear",
+      "To add structure and support to fabric",
+      "Coco Chanel",
+      "Creating a focal point or centre of interest"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of saw is best suited for cutting curves and irregular shapes in wood?",
+    "question": "What temperature does a hot iron setting reach?",
     "options": [
-      "Rip saw",
-      "Crosscut saw",
-      "Jigsaw",
-      "Tenon saw"
+      "Seam gauge",
+      "A single design unit that can be repeated",
+      "Silkworm",
+      "210 degrees Celsius"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which principle of design refers to the repetition of elements?",
+    "options": [
+      "When the garment is smaller than the body measurement",
+      "Rhythm",
+      "Waterproofing",
+      "Hand or drape"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a pattern in sewing?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "A template used to cut fabric pieces",
+      "Tracing wheel",
+      "Threads running crosswise on the loom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is haute couture?",
+    "options": [
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Seam gauge",
+      "Box pleat",
+      "High-end custom-fitted fashion made by leading designers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which stitch is used for attaching elastic?",
+    "options": [
+      "Nylon",
+      "Zigzag stitch",
+      "The finished edge that prevents fraying",
+      "Cotton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to measure fabric?",
+    "options": [
+      "Threads running lengthwise on the loom",
+      "Silkworm",
+      "Silk",
+      "Measuring tape"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a gore in garment construction?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "A decorative technique that gathers fabric in a pattern",
+      "Seam roll",
+      "Silkworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of pleat faces away from the centre?",
+    "options": [
+      "Plain weave",
+      "Nylon",
+      "Viscose/Rayon",
+      "Box pleat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the principle of balance in design?",
+    "options": [
+      "Spinning",
+      "Cotton",
+      "Equal distribution of visual weight",
+      "A small collection of versatile, timeless clothing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In metalwork, what process involves heating a metal to a specific temperature and then cooling it slowly to relieve internal stresses?",
+    "question": "Which fabric is most absorbent?",
     "options": [
-      "Hardening",
-      "Tempering",
-      "Annealing",
-      "Case hardening"
+      "Wool",
+      "An opening in a garment that allows it to be put on and taken off",
+      "The direction of the threads in the fabric",
+      "Cotton"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which instrument is used to measure the internal diameter of a bore or hole accurately?",
-    "options": [
-      "Micrometer screw gauge",
-      "Vernier caliper",
-      "Engineer's square",
-      "Steel rule"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In plumbing, what does the term 'potable water' mean?",
-    "options": [
-      "Water used for industrial cooling",
-      "Water that is safe for human consumption",
-      "Water stored in a holding tank",
-      "Recycled greywater"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of roof truss distributes load through triangular arrangements of members and is commonly used in residential construction?",
-    "options": [
-      "Flat truss",
-      "Arch truss",
-      "Fink truss",
-      "Cantilever truss"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a capacitor in an electrical circuit?",
-    "options": [
-      "To convert AC to DC",
-      "To store and release electrical energy",
-      "To increase resistance in a circuit",
-      "To measure current flow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In technical drawing, a section view is used primarily to:",
-    "options": [
-      "Show the external dimensions of an object",
-      "Reveal internal features and details of an object",
-      "Indicate surface finish requirements",
-      "Display the object in pictorial form"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

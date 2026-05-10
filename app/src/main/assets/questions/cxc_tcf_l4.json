@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which type of drawing shows all three dimensions of an object in a single view using 30-degree angles from the horizontal?",
+    "question": "What is applique?",
     "options": [
-      "Orthographic projection",
-      "Isometric drawing",
-      "Oblique drawing",
-      "Perspective drawing"
+      "210 degrees Celsius",
+      "A wax-resist dyeing technique applied to cloth",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Silk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fibre is known for being lightweight and quick-drying?",
+    "options": [
+      "Knitting",
+      "Polyester",
+      "To press curved seams and shaped areas",
+      "Silkworm"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In electrical circuits, what is the unit of electrical resistance?",
+    "question": "What is the principle of balance in design?",
     "options": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Watt"
+      "To prevent curved edges from stretching",
+      "A folded and stitched edge of fabric",
+      "Equal distribution of visual weight",
+      "Iron and pressing cloth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which hand tool is specifically used to cut external threads on a metal rod?",
+    "question": "What is the purpose of stay stitching?",
     "options": [
-      "Tap",
-      "Die",
-      "Hacksaw",
-      "File"
+      "Coco Chanel",
+      "To prevent curved edges from stretching",
+      "A template used to cut fabric pieces",
+      "A test garment made in cheap fabric before cutting the final fabric"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the acronym CAD stand for in technical drawing and design?",
+    "question": "Which fabric is created by bonding fibres with heat?",
     "options": [
-      "Computer Aided Drafting",
-      "Computer Assisted Design",
-      "Computer Aided Design",
-      "Computerized Automatic Drawing"
+      "A fabric made from two or more different fibres",
+      "When the garment is smaller than the body measurement",
+      "Non-woven fabric",
+      "To add structure and support to fabric"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When using Ohm's Law, if the voltage across a resistor is 12V and the current flowing through it is 3A, what is the resistance?",
+    "question": "What is batik?",
     "options": [
-      "36 Ohms",
-      "4 Ohms",
-      "0.25 Ohms",
-      "9 Ohms"
+      "A folded and stitched edge of fabric",
+      "A measure of the fineness or thickness of yarn",
+      "Cutting fabric diagonally across the grain",
+      "A wax-resist dyeing technique applied to cloth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What temperature does a hot iron setting reach?",
+    "options": [
+      "Coco Chanel",
+      "Thread shank stitch",
+      "210 degrees Celsius",
+      "Overcasting or serging"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the bias of a fabric?",
+    "options": [
+      "Peter Pan collar",
+      "The diagonal direction at 45 degrees to the grain",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "The direction of the threads in the fabric"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of foundation is most suitable for constructing a building on soft or waterlogged soil?",
+    "question": "What is a pattern in sewing?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Pile foundation"
+      "A triangular piece of fabric that adds fullness",
+      "An opening in a garment that allows it to be put on and taken off",
+      "Plain weave",
+      "A template used to cut fabric pieces"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "In woodworking, which joint is commonly used to join two pieces of wood at right angles and is often used in box construction?",
+    "question": "What is a princess seam?",
     "options": [
-      "Mortise and tenon joint",
-      "Dovetail joint",
-      "Butt joint",
-      "Lap joint"
+      "The direction of the threads in the fabric",
+      "Measuring tape",
+      "Zigzag stitch",
+      "A vertical seam from shoulder to hem that shapes the bodice"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a toile?",
+    "options": [
+      "Mohair",
+      "Calendering",
+      "To add structure and support to fabric",
+      "A test garment made in cheap fabric before cutting the final fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric weave produces a checkerboard pattern?",
+    "options": [
+      "An opening in a garment that allows it to be put on and taken off",
+      "Plain weave",
+      "The diagonal direction at 45 degrees to the grain",
+      "Swimwear and lingerie"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a capacitor in an electrical circuit?",
+    "question": "What are natural fibres?",
     "options": [
-      "To increase voltage",
-      "To store electrical charge",
-      "To convert AC to DC",
-      "To reduce current flow"
+      "Fibres obtained from plants and animals",
+      "Box pleat",
+      "Iron and pressing cloth",
+      "A piece of fabric used to finish raw edges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a trade mark in the fashion industry?",
+    "options": [
+      "Velvet",
+      "When the garment is smaller than the body measurement",
+      "A symbol or name that identifies a brand",
+      "Cutting fabric diagonally across the grain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fabric construction method uses loops?",
+    "options": [
+      "Box pleat",
+      "Knitting",
+      "Zip/zipper",
+      "A piece of fabric used to finish raw edges"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of valve controls fluid flow by rotating a disc a quarter turn to open or close?",
+    "question": "What does GSM stand for in fabric?",
     "options": [
-      "Gate valve",
-      "Globe valve",
-      "Ball valve",
-      "Check valve"
+      "Cotton",
+      "A folded tuck to shape fabric to the body",
+      "A template used to cut fabric pieces",
+      "Grams per square metre"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "In masonry, what is the standard ratio of cement to sand for a general purpose mortar mix?",
+    "question": "Which printing method uses a mesh screen?",
     "options": [
-      "1:2",
-      "1:3",
-      "1:4",
-      "1:5"
+      "Screen printing",
+      "Coco Chanel",
+      "Zigzag stitch",
+      "Running stitch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric care symbol means do not bleach?",
+    "options": [
+      "Ready to wear",
+      "Australia",
+      "Viscose/Rayon",
+      "A triangle with a cross"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to open seams when pressing?",
+    "options": [
+      "Nylon",
+      "Seam roll",
+      "Spinning",
+      "The diagonal direction at 45 degrees to the grain"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which mechanism converts rotary motion into linear motion in many mechanical systems?",
+    "question": "Which tool is used to press open seams?",
     "options": [
-      "Gear train",
-      "Pulley system",
-      "Rack and pinion",
-      "Belt drive"
+      "Iron and pressing cloth",
+      "Overcasting or serging",
+      "Cotton",
+      "Spinning"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of saw is best suited for cutting curves and irregular shapes in thin wood?",
-    "options": [
-      "Rip saw",
-      "Crosscut saw",
-      "Coping saw",
-      "Tenon saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plumbing, what is the purpose of a P-trap installed beneath a sink?",
-    "options": [
-      "To increase water pressure",
-      "To filter impurities from water",
-      "To prevent sewer gases from entering the building",
-      "To regulate hot and cold water mixing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which safety symbol indicates that personal protective equipment must be worn in a specific area?",
-    "options": [
-      "A red circle with a diagonal line",
-      "A yellow triangle with a black border",
-      "A blue circle with a white symbol",
-      "A green rectangle with white text"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'tolerance' mean in engineering manufacturing?",
-    "options": [
-      "The maximum load a material can withstand",
-      "The acceptable range of variation in a dimension",
-      "The hardness rating of a material",
-      "The temperature at which metal becomes malleable"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,202 @@
 [
   {
-    "question": "In a three-phase AC circuit, what is the relationship between line voltage (VL) and phase voltage (Vph) in a delta-connected system?",
+    "question": "What is a blended fabric?",
     "options": [
-      "VL = \u221a3 \u00d7 Vph",
-      "VL = Vph",
-      "VL = Vph / \u221a3",
-      "VL = 3 \u00d7 Vph"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A hydraulic press uses a small piston of area 0.01 m\u00b2 and a large piston of area 0.5 m\u00b2. If a force of 200 N is applied to the small piston, what force is exerted by the large piston?",
-    "options": [
-      "4000 N",
-      "10000 N",
-      "2000 N",
-      "400 N"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which heat treatment process involves heating steel above its critical temperature and then cooling it slowly in the furnace to relieve internal stresses and improve machinability?",
-    "options": [
-      "Normalising",
-      "Quenching",
-      "Annealing",
-      "Tempering"
+      "Seam",
+      "Victorian era",
+      "A fabric made from two or more different fibres",
+      "Swimwear and lingerie"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a PLC ladder logic diagram, which symbol represents a normally closed contact?",
+    "question": "Which of the following is a natural fibre?",
     "options": [
-      "A pair of parallel vertical lines",
-      "A pair of parallel vertical lines with a diagonal slash",
-      "A circle",
-      "A rectangle with a coil symbol"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A shaft rotating at 1500 RPM transmits 30 kW of power. What is the torque transmitted by the shaft?",
-    "options": [
-      "191 Nm",
-      "382 Nm",
-      "95.5 Nm",
-      "573 Nm"
+      "Cotton",
+      "Velvet",
+      "Grams per square metre",
+      "Button"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of transistor configuration provides the highest voltage gain but has a phase inversion of 180\u00b0 between input and output signals?",
+    "question": "Which fabric is made from the hair of the Angora goat?",
     "options": [
-      "Common base",
-      "Common collector",
-      "Common emitter",
-      "Emitter follower"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In welding, the term 'duty cycle' refers to:",
-    "options": [
-      "The number of weld passes completed per hour",
-      "The percentage of a 10-minute period that a welding machine can operate at a rated current without overheating",
-      "The ratio of filler metal deposited to electrode consumed",
-      "The frequency of electrode replacement during continuous welding"
+      "Button",
+      "Mohair",
+      "A small collection of versatile, timeless clothing",
+      "Red, yellow and blue"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A gear train consists of a driver gear with 20 teeth and a driven gear with 80 teeth. If the driver rotates at 400 RPM, what is the speed of the driven gear and the gear ratio?",
+    "question": "What is yarn count?",
     "options": [
-      "100 RPM, gear ratio 4:1",
-      "200 RPM, gear ratio 2:1",
-      "1600 RPM, gear ratio 1:4",
-      "50 RPM, gear ratio 8:1"
+      "Viscose/Rayon",
+      "Spinning",
+      "Non-woven fabric",
+      "A measure of the fineness or thickness of yarn"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of pleat faces away from the centre?",
+    "options": [
+      "Cotton",
+      "A symbol or name that identifies a brand",
+      "Bamboo",
+      "Box pleat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which element of design refers to the outline of a garment?",
+    "options": [
+      "A single design unit that can be repeated",
+      "210 degrees Celsius",
+      "Line",
+      "Seam roll"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which era introduced the hoopskirt?",
+    "options": [
+      "Victorian era",
+      "To prevent curved edges from stretching",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "A folded and stitched edge of fabric"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of bearing is most suitable for applications involving high radial loads combined with moderate axial thrust loads, such as in automotive wheel hubs?",
+    "question": "What is warp in weaving?",
     "options": [
-      "Deep groove ball bearing",
-      "Needle roller bearing",
-      "Tapered roller bearing",
-      "Cylindrical roller bearing"
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Blanket stitch",
+      "Threads running lengthwise on the loom",
+      "Adjusting a pattern to a different size"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In electrical installations, the purpose of a Residual Current Device (RCD) is to:",
+    "question": "Which fastener is sewn and requires a buttonhole?",
     "options": [
-      "Protect against overloads by interrupting the circuit when current exceeds a set value",
-      "Detect earth leakage current imbalances between live and neutral conductors and disconnect the supply",
-      "Step down voltage to a safe level for sensitive equipment",
-      "Prevent voltage surges from damaging connected appliances"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of flux during soldering and brazing operations?",
-    "options": [
-      "To increase the melting point of the filler metal",
-      "To prevent oxidation of the base metal and filler metal surfaces during heating",
-      "To provide additional filler material to fill large gaps",
-      "To harden the joint after cooling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A single-phase transformer has 500 primary turns and 100 secondary turns. If the primary voltage is 240V and the primary current is 2A, calculate the secondary voltage and secondary current (assuming ideal transformer).",
-    "options": [
-      "48V and 10A",
-      "1200V and 0.4A",
-      "48V and 0.4A",
-      "1200V and 10A"
+      "Button",
+      "High-end custom-fitted fashion made by leading designers",
+      "Box pleat",
+      "Fibres obtained from plants and animals"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In pneumatic systems, what is the primary purpose of an air receiver (reservoir) tank installed after the compressor?",
+    "question": "Which type of seam is most durable?",
     "options": [
-      "To filter moisture and oil contamination from compressed air",
-      "To store compressed air, dampen pressure pulsations, and act as a buffer during peak demand",
-      "To regulate the pressure to a constant working level for all downstream equipment",
-      "To convert compressed air energy into mechanical rotational motion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following material properties describes a material's ability to absorb energy and plastically deform before fracturing, as indicated by the area under the stress-strain curve?",
-    "options": [
-      "Hardness",
-      "Resilience",
-      "Toughness",
-      "Ductility"
+      "Screen printing",
+      "An opening in a garment that allows it to be put on and taken off",
+      "French seam",
+      "Knitting"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In CNC machining, G-code G96 activates which cutting mode?",
+    "question": "Which dye is used for natural fibres like cotton?",
     "options": [
-      "Rapid traverse mode",
-      "Constant surface speed (CSS) mode",
-      "Absolute positioning mode",
-      "Canned drilling cycle mode"
+      "A template used to cut fabric pieces",
+      "Threads running crosswise on the loom",
+      "Reactive dye",
+      "Fibres obtained from plants and animals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fabric construction method uses loops?",
+    "options": [
+      "Knitting",
+      "Line",
+      "Adjusting a pattern to a different size",
+      "Seam gauge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sewing technique prevents raw edges from fraying?",
+    "options": [
+      "Overcasting or serging",
+      "Threads running lengthwise on the loom",
+      "Calendering",
+      "A folded and stitched edge of fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is negative ease in a garment?",
+    "options": [
+      "A decorative technique that gathers fabric in a pattern",
+      "When the garment is smaller than the body measurement",
+      "The direction of the threads in the fabric",
+      "Blanket stitch"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is a princess seam?",
+    "options": [
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Overcasting or serging",
+      "Screen printing",
+      "A process to prevent shrinkage in cotton fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a raglan sleeve?",
+    "options": [
+      "Washing instructions",
+      "Bamboo",
+      "Texture",
+      "A sleeve that extends to the collar without a shoulder seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric requires dry cleaning only?",
+    "options": [
+      "Decorative fabric pieces sewn onto a base fabric",
+      "A template used to cut fabric pieces",
+      "Silk",
+      "A piece of fabric used to finish raw edges"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of interfacing?",
+    "options": [
+      "Equal distribution of visual weight",
+      "Fibres obtained from plants and animals",
+      "Wool",
+      "To add structure and support to fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a dart in clothing construction?",
+    "options": [
+      "Reactive dye",
+      "Seam roll",
+      "A piece of fabric used to finish raw edges",
+      "A folded tuck to shape fabric to the body"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a seam allowance?",
+    "options": [
+      "Victorian era",
+      "Rhythm",
+      "Running stitch",
+      "The extra fabric between the seam line and the cut edge"
+    ],
+    "correctIndex": 3
   }
 ]

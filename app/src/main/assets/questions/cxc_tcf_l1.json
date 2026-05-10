@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which of the following is the correct symbol for electrical resistance?",
+    "question": "Which weave produces a diagonal pattern?",
     "options": [
-      "V",
-      "A",
-      "\u03a9",
-      "W"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the abbreviation 'PPE' stand for in the workplace?",
-    "options": [
-      "Personal Protective Equipment",
-      "Professional Practice Environment",
-      "Planned Prevention Exercise",
-      "Proper Performance Evaluation"
+      "Twill weave",
+      "Cotton",
+      "Polyester",
+      "Small balls of fibre that form on the surface"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which tool is used to measure the diameter of a circular object?",
+    "question": "Which principle of design refers to the repetition of elements?",
     "options": [
-      "Try square",
-      "Vernier caliper",
-      "Spirit level",
-      "Marking gauge"
+      "A visual collage that communicates design concepts",
+      "Rhythm",
+      "Australia",
+      "A template used to cut fabric pieces"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of joint is commonly used to join two pieces of wood at a right angle?",
+    "question": "Which tool measures seam allowances accurately?",
     "options": [
-      "Butt joint",
-      "Lap joint",
-      "Dovetail joint",
-      "Mortise and tenon joint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a renewable source of energy?",
-    "options": [
-      "Coal",
-      "Natural gas",
-      "Solar energy",
-      "Petroleum"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a fuse in an electrical circuit?",
-    "options": [
-      "To increase voltage",
-      "To protect the circuit from overcurrent",
-      "To store electrical energy",
-      "To convert AC to DC"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hand tool is used to drive nails into wood?",
-    "options": [
-      "Chisel",
-      "Screwdriver",
-      "Hammer",
-      "Pliers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does CAD stand for in technical drawing?",
-    "options": [
-      "Computer Aided Design",
-      "Construction And Development",
-      "Creative Art Drawing",
-      "Computer Assembly Draft"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following materials is a good conductor of electricity?",
-    "options": [
-      "Rubber",
-      "Plastic",
-      "Copper",
-      "Wood"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a blueprint in construction?",
-    "options": [
-      "To paint walls blue",
-      "To provide a detailed technical drawing of a structure",
-      "To calculate the cost of materials",
-      "To measure land area"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of saw is best suited for cutting curves in wood?",
-    "options": [
-      "Hacksaw",
-      "Crosscut saw",
-      "Coping saw",
-      "Rip saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'voltage' measure in an electrical circuit?",
-    "options": [
-      "The flow of current",
-      "The electrical pressure or potential difference",
-      "The resistance of a conductor",
-      "The power consumed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a safety rule when working in a workshop?",
-    "options": [
-      "Wear loose clothing for comfort",
-      "Run when carrying tools",
-      "Always wear safety goggles",
-      "Leave tools on the floor when not in use"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of a spirit level?",
-    "options": [
-      "To measure temperature",
-      "To check if a surface is perfectly horizontal or vertical",
-      "To cut straight lines",
-      "To mix liquids accurately"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of screw head requires a Phillips screwdriver?",
-    "options": [
-      "Flat head",
-      "Hex head",
-      "Star head",
-      "Cross head"
+      "Polyester",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "Analogous",
+      "Seam gauge"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which fabric is produced by matting fibres together?",
+    "options": [
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Cotton",
+      "Cotton",
+      "Felt"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric is created by bonding fibres with heat?",
+    "options": [
+      "Seam gauge",
+      "Adjusting a pattern to a different size",
+      "Non-woven fabric",
+      "A triangle with a cross"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the bias of a fabric?",
+    "options": [
+      "210 degrees Celsius",
+      "The diagonal direction at 45 degrees to the grain",
+      "Seam gauge",
+      "A folded tuck to shape fabric to the body"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fibre is known for being lightweight and quick-drying?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "The direction of the threads in the fabric",
+      "Texture",
+      "Polyester"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of fabric has a raised cut pile?",
+    "options": [
+      "Velvet",
+      "A symbol or name that identifies a brand",
+      "Seam gauge",
+      "A method of dyeing fabric by tying sections to resist the dye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is applique?",
+    "options": [
+      "Linen",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "The direction of the threads in the fabric",
+      "Twill weave"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fibre comes from the flax plant?",
+    "options": [
+      "High-end custom-fitted fashion made by leading designers",
+      "Linen",
+      "Peter Pan collar",
+      "Cutting fabric diagonally across the grain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the process of making yarn from fibres called?",
+    "options": [
+      "Reactive dye",
+      "Cutting fabric diagonally across the grain",
+      "A folded tuck to shape fabric to the body",
+      "Spinning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which printing method uses a mesh screen?",
+    "options": [
+      "Cotton",
+      "Washing instructions",
+      "Screen printing",
+      "Overcasting or serging"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fabric care symbol means do not bleach?",
+    "options": [
+      "Red, yellow and blue",
+      "Zigzag stitch",
+      "A triangle with a cross",
+      "Cutting fabric diagonally across the grain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a natural fibre?",
+    "options": [
+      "The direction of the threads in the fabric",
+      "Nylon",
+      "Fibres obtained from plants and animals",
+      "Cotton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a flat-felled seam used for?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "Polyester",
+      "Wool",
+      "Waterproofing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is pilling on fabric?",
+    "options": [
+      "Cutting fabric diagonally across the grain",
+      "Velvet",
+      "Small balls of fibre that form on the surface",
+      "Analogous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is grading a pattern?",
+    "options": [
+      "A triangle with a cross",
+      "Adjusting a pattern to a different size",
+      "Analogous",
+      "To press curved seams and shaped areas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is sanforizing?",
+    "options": [
+      "French seam",
+      "Washing instructions",
+      "A process to prevent shrinkage in cotton fabric",
+      "Box pleat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fastener uses interlocking teeth?",
+    "options": [
+      "High-end custom-fitted fashion made by leading designers",
+      "Texture",
+      "Extra room added for comfort and movement",
+      "Zip/zipper"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is weft in weaving?",
+    "options": [
+      "To prevent curved edges from stretching",
+      "Plain weave",
+      "Threads running crosswise on the loom",
+      "Swimwear and lingerie"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -1,152 +1,202 @@
 [
   {
-    "question": "A four-stroke diesel engine completes one power stroke every how many crankshaft revolutions?",
+    "question": "What is a flat-felled seam used for?",
     "options": [
-      "1",
-      "2",
-      "4",
-      "8"
+      "When the garment is smaller than the body measurement",
+      "Australia",
+      "Strong visible seams in jeans and sportswear",
+      "Small balls of fibre that form on the surface"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In a three-phase AC system, if the line voltage is 415V, what is the approximate phase voltage?",
+    "question": "What is haute couture?",
     "options": [
-      "240V",
-      "120V",
-      "415V",
-      "830V"
+      "High-end custom-fitted fashion made by leading designers",
+      "The extra fabric between the seam line and the cut edge",
+      "Running stitch",
+      "Creating a focal point or centre of interest"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "question": "Which stitch creates a decorative zigzag effect?",
     "options": [
-      "MIG welding",
-      "TIG welding",
-      "SMAW welding",
-      "SAW welding"
+      "Extra room added for comfort and movement",
+      "Blanket stitch",
+      "Linen",
+      "Velvet"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In technical drawing, a section view cut by two parallel cutting planes is called a:",
+    "question": "What is a placket?",
     "options": [
-      "Full section",
-      "Half section",
-      "Offset section",
-      "Revolved section"
+      "Twill weave",
+      "Wool",
+      "Threads running crosswise on the loom",
+      "An opening in a garment that allows it to be put on and taken off"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does GSM stand for in fabric?",
+    "options": [
+      "A wax-resist dyeing technique applied to cloth",
+      "Equal distribution of visual weight",
+      "Grams per square metre",
+      "Twill weave"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a flux in soldering and brazing operations?",
+    "question": "Which fibre is naturally flame resistant?",
     "options": [
-      "To increase the melting point of the filler metal",
-      "To prevent oxidation of the base metal surfaces",
-      "To increase electrical conductivity of the joint",
-      "To harden the base metal"
+      "Tracing wheel",
+      "Wool",
+      "Grams per square metre",
+      "A folded and stitched edge of fabric"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A hydraulic system develops a pressure of 2000 psi over a piston area of 5 square inches. What is the force produced?",
+    "question": "What temperature does a hot iron setting reach?",
     "options": [
-      "400 lbf",
-      "10,000 lbf",
-      "2,005 lbf",
-      "4,000 lbf"
+      "The direction of the threads in the fabric",
+      "Fibres obtained from plants and animals",
+      "A folded and stitched edge of fabric",
+      "210 degrees Celsius"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which finishing process makes fabric water repellent?",
+    "options": [
+      "Threads running lengthwise on the loom",
+      "Waterproofing",
+      "Nylon",
+      "A template used to cut fabric pieces"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is the correct ISO tolerance designation for a shaft with a basic size of 25mm, upper deviation of -0.020mm and lower deviation of -0.041mm?",
+    "question": "Which country is known for producing fine wool?",
     "options": [
-      "25H7",
-      "25f7",
-      "25g6",
-      "25k6"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electrical installations, a residual current device (RCD) is primarily designed to protect against:",
-    "options": [
-      "Overload currents",
-      "Short circuit currents",
-      "Earth leakage currents",
-      "Voltage surges"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which heat treatment process involves heating steel above its critical temperature and then cooling it slowly in a furnace to relieve internal stresses and improve machinability?",
-    "options": [
-      "Quenching",
-      "Tempering",
-      "Annealing",
-      "Case hardening"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a DC circuit, a 12V battery is connected to three resistors of 4\u03a9, 6\u03a9, and 12\u03a9 in parallel. What is the total current drawn from the battery?",
-    "options": [
-      "1A",
-      "4A",
-      "6A",
-      "12A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The pitch of a metric screw thread M20 \u00d7 2.5 means:",
-    "options": [
-      "The thread has 2.5 threads per millimetre",
-      "The thread advances 2.5mm per revolution",
-      "The thread has a 20mm pitch and 2.5mm lead",
-      "The thread diameter is 2.5mm"
+      "When the garment is smaller than the body measurement",
+      "Australia",
+      "Reactive dye",
+      "Button"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of gear arrangement is used to transmit power between two shafts at right angles and is commonly found in differential gear systems of vehicles?",
+    "question": "Which type of pleat faces away from the centre?",
     "options": [
-      "Helical gears",
-      "Spur gears",
-      "Bevel gears",
-      "Worm gears"
+      "Box pleat",
+      "Zigzag stitch",
+      "A triangular piece of fabric that adds fullness",
+      "An opening in a garment that allows it to be put on and taken off"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the bias of a fabric?",
+    "options": [
+      "Cotton",
+      "Box pleat",
+      "The diagonal direction at 45 degrees to the grain",
+      "A triangular piece of fabric that adds fullness"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In refrigeration systems, what is the purpose of the expansion valve?",
+    "question": "What is the purpose of interfacing?",
     "options": [
-      "To compress the refrigerant to high pressure",
-      "To condense the refrigerant vapour",
-      "To reduce the pressure and temperature of the liquid refrigerant",
-      "To remove heat from the refrigerant in the condenser"
+      "To add structure and support to fabric",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Fibres obtained from plants and animals",
+      "Cotton"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the term bias cut mean in fashion?",
+    "options": [
+      "Texture",
+      "Cutting fabric diagonally across the grain",
+      "Victorian era",
+      "Felt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a blended fabric?",
+    "options": [
+      "To add structure and support to fabric",
+      "A sleeve that extends to the collar without a shoulder seam",
+      "A visual collage that communicates design concepts",
+      "A fabric made from two or more different fibres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is batik?",
+    "options": [
+      "Measuring tape",
+      "Reactive dye",
+      "Texture",
+      "A wax-resist dyeing technique applied to cloth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to open seams when pressing?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "Seam roll",
+      "Cotton",
+      "Cutting fabric diagonally across the grain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which element of design refers to surface decoration?",
+    "options": [
+      "Waterproofing",
+      "Texture",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Washing instructions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is pilling on fabric?",
+    "options": [
+      "Calendering",
+      "Small balls of fibre that form on the surface",
+      "Box pleat",
+      "A measure of the fineness or thickness of yarn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the grain of a fabric?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "Reactive dye",
+      "The direction of the threads in the fabric",
+      "Swimwear and lingerie"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A lathe is set to cut a metric thread of 2mm pitch. If the leadscrew has a pitch of 6mm, what gear ratio is required between the spindle and leadscrew?",
+    "question": "Which tool is used to press open seams?",
     "options": [
-      "1:1",
-      "1:3",
-      "3:1",
-      "2:6"
+      "A fabric made from two or more different fibres",
+      "Adjusting a pattern to a different size",
+      "Zigzag stitch",
+      "Iron and pressing cloth"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which non-destructive testing (NDT) method is most suitable for detecting subsurface cracks in ferromagnetic materials?",
-    "options": [
-      "Dye penetrant testing",
-      "Ultrasonic testing",
-      "Magnetic particle inspection",
-      "Visual inspection"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which type of joint is commonly used in woodworking to join two pieces of wood at right angles by interlocking fingers?",
+    "question": "Which fabric is produced by matting fibres together?",
     "options": [
-      "Butt joint",
-      "Box joint",
-      "Lap joint",
-      "Mortise and tenon joint"
+      "Seam",
+      "Felt",
+      "Line",
+      "Mass-produced clothing in standard sizes"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In electrical circuits, what does the term 'resistance' measure?",
+    "question": "What is the process of making yarn from fibres called?",
     "options": [
-      "The rate of flow of electric charge",
-      "The opposition to the flow of electric current",
-      "The electrical potential difference between two points",
-      "The power consumed by a device"
+      "Viscose/Rayon",
+      "A measure of the fineness or thickness of yarn",
+      "Spinning",
+      "An opening in a garment that allows it to be put on and taken off"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which drawing view shows the front, top, and side of an object in a single projected view?",
+    "question": "What is a hem?",
     "options": [
-      "Isometric view",
-      "Orthographic view",
-      "Sectional view",
-      "Exploded view"
+      "A folded and stitched edge of fabric",
+      "Small balls of fibre that form on the surface",
+      "Seam",
+      "Running stitch"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary purpose of a safety valve in a pressure vessel?",
+    "question": "Which stitch is used to join two pieces of fabric?",
     "options": [
-      "To regulate temperature",
-      "To release excess pressure and prevent explosion",
-      "To control the flow of liquids",
-      "To measure internal pressure"
+      "Zipper foot",
+      "A small collection of versatile, timeless clothing",
+      "Grams per square metre",
+      "Seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does emphasis in design mean?",
+    "options": [
+      "The direction of the threads in the fabric",
+      "A finishing process that increases the strength and lustre of cotton",
+      "To add structure and support to fabric",
+      "Creating a focal point or centre of interest"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What temperature does a hot iron setting reach?",
+    "options": [
+      "A triangle with a cross",
+      "210 degrees Celsius",
+      "Peter Pan collar",
+      "Analogous"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which material is classified as a thermosetting plastic?",
+    "question": "Which dye is used for natural fibres like cotton?",
     "options": [
-      "Polyethylene",
-      "Polypropylene",
-      "Epoxy resin",
-      "Nylon"
+      "Plain weave",
+      "Reactive dye",
+      "Grams per square metre",
+      "A measure of the fineness or thickness of yarn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric is most absorbent?",
+    "options": [
+      "A small collection of versatile, timeless clothing",
+      "To add structure and support to fabric",
+      "Cotton",
+      "Linen"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In masonry construction, what is the function of a 'lintel'?",
+    "question": "Which sewing technique prevents raw edges from fraying?",
     "options": [
-      "To provide a decorative finish above a wall",
-      "To support the load above an opening such as a door or window",
-      "To join two walls together at a corner",
-      "To waterproof the foundation of a wall"
+      "Adjusting a pattern to a different size",
+      "Screen printing",
+      "Cotton",
+      "Overcasting or serging"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What does the acronym CAD stand for in technical drawing?",
+    "question": "Which fabric requires dry cleaning only?",
     "options": [
-      "Computer Aided Drafting",
-      "Calculated Architectural Design",
-      "Computer Automated Dimensions",
-      "Central Axis Drawing"
+      "Silk",
+      "Nylon",
+      "Zip/zipper",
+      "Box pleat"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which hand tool is used to measure and mark angles other than 90 degrees on a workpiece?",
+    "question": "Which fibre is naturally flame resistant?",
     "options": [
-      "Try square",
-      "Bevel gauge",
-      "Marking gauge",
-      "Combination square"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In plumbing, what is the purpose of a P-trap installed beneath a sink?",
-    "options": [
-      "To increase water pressure",
-      "To filter debris from drain water",
-      "To hold water that prevents sewer gases from entering the building",
-      "To regulate hot and cold water mixing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Ohm's Law states that voltage equals current multiplied by which quantity?",
-    "options": [
-      "Power",
-      "Resistance",
-      "Capacitance",
-      "Frequency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of file cut is best suited for removing large amounts of material quickly?",
-    "options": [
-      "Smooth cut",
-      "Dead smooth cut",
-      "Bastard cut",
-      "Second cut"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the standard scale used on a drawing when it is described as 1:50?",
-    "options": [
-      "The drawing is 50 times larger than the actual object",
-      "The actual object is 50 times larger than the drawing",
-      "The drawing and object are the same size",
-      "The object is reduced to 1 millimetre for every 50 centimetres"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of saw is most suitable for cutting curved shapes in thin timber?",
-    "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Coping saw",
-      "Panel saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electronics, what is the function of a diode?",
-    "options": [
-      "To amplify electrical signals",
-      "To store electrical energy",
-      "To allow current to flow in one direction only",
-      "To resist changes in voltage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which concrete mix ratio (cement:sand:aggregate) is typically used for general structural work?",
-    "options": [
-      "1:2:3",
-      "1:4:8",
-      "1:6:12",
-      "2:5:10"
+      "Wool",
+      "Calendering",
+      "A triangle with a cross",
+      "Silk"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What does GSM stand for in fabric?",
+    "options": [
+      "Threads running lengthwise on the loom",
+      "Grams per square metre",
+      "To add structure and support to fabric",
+      "Reactive dye"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric is created by bonding fibres with heat?",
+    "options": [
+      "Iron and pressing cloth",
+      "Box pleat",
+      "A template used to cut fabric pieces",
+      "Non-woven fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to transfer pattern markings to fabric?",
+    "options": [
+      "Tracing wheel",
+      "Equal distribution of visual weight",
+      "A wax-resist dyeing technique applied to cloth",
+      "Swimwear and lingerie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a capsule wardrobe?",
+    "options": [
+      "A small collection of versatile, timeless clothing",
+      "Button",
+      "Rhythm",
+      "French seam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is sustainable fashion?",
+    "options": [
+      "A triangle with a cross",
+      "Clothing produced with minimal environmental and social impact",
+      "A piece of fabric used to finish raw edges",
+      "Iron and pressing cloth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which colour scheme uses colours next to each other on the colour wheel?",
+    "options": [
+      "Analogous",
+      "A piece of fabric used to finish raw edges",
+      "When the garment is smaller than the body measurement",
+      "Victorian era"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of collar lies flat against the garment?",
+    "options": [
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Peter Pan collar",
+      "Blanket stitch",
+      "Clothing produced with minimal environmental and social impact"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which designer created the little black dress?",
+    "options": [
+      "Australia",
+      "Coco Chanel",
+      "A wax-resist dyeing technique applied to cloth",
+      "Zipper foot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fastener is sewn and requires a buttonhole?",
+    "options": [
+      "To press curved seams and shaped areas",
+      "The direction of the threads in the fabric",
+      "Button",
+      "Blanket stitch"
+    ],
+    "correctIndex": 2
   }
 ]

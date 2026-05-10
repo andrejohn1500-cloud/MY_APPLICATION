@@ -1,152 +1,202 @@
 [
   {
-    "question": "In a three-phase AC circuit, the relationship between line voltage (V_L) and phase voltage (V_Ph) in a delta-connected system is:",
+    "question": "What is weft in weaving?",
     "options": [
-      "V_L = \u221a3 \u00d7 V_Ph",
-      "V_L = V_Ph",
-      "V_L = V_Ph / \u221a3",
-      "V_L = 3 \u00d7 V_Ph"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A hydraulic press has a small piston of area 0.005 m\u00b2 and a large piston of area 0.5 m\u00b2. If a force of 200 N is applied to the small piston, what force is exerted by the large piston?",
-    "options": [
-      "2000 N",
-      "20000 N",
-      "200 N",
-      "10000 N"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the function of a commutator in a DC motor?",
-    "options": [
-      "It increases the voltage supplied to the armature",
-      "It converts alternating current in the armature coils into direct current in the external circuit",
-      "It regulates the speed of the motor by varying field strength",
-      "It reduces eddy current losses in the armature core"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a PLC ladder diagram, a normally closed (NC) contact is energized when:",
-    "options": [
-      "The corresponding input signal is HIGH (ON)",
-      "The corresponding input signal is LOW (OFF)",
-      "The output coil is de-energized",
-      "The timer preset value is reached"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which material property describes the ability of a metal to be drawn into wire without fracturing?",
-    "options": [
-      "Malleability",
-      "Ductility",
-      "Toughness",
-      "Hardness"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a transistor configured as a common-emitter amplifier, the output signal is taken from the:",
-    "options": [
-      "Base terminal",
-      "Emitter terminal",
-      "Collector terminal",
-      "Gate terminal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Bernoulli equation in fluid mechanics states that for an ideal fluid in steady flow, which of the following remains constant along a streamline?",
-    "options": [
-      "Velocity only",
-      "Pressure only",
-      "The sum of pressure energy, kinetic energy, and potential energy per unit volume",
-      "The product of pressure and velocity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following welding defects is most likely caused by excessive welding current and travel speed being too slow?",
-    "options": [
-      "Porosity",
-      "Undercut",
-      "Incomplete fusion",
-      "Slag inclusion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A transformer has a primary winding of 500 turns connected to 240 V AC. If the secondary winding has 50 turns, what is the secondary voltage?",
-    "options": [
-      "2400 V",
-      "24 V",
-      "48 V",
-      "120 V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CNC machining, the G-code G02 instructs the machine to perform:",
-    "options": [
-      "Rapid positioning",
-      "Circular interpolation in a clockwise direction",
-      "Circular interpolation in a counter-clockwise direction",
-      "Linear interpolation at feed rate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The primary purpose of a differential in an automotive drivetrain is to:",
-    "options": [
-      "Increase torque output from the engine",
-      "Allow driven wheels to rotate at different speeds when cornering",
-      "Reduce the rotational speed from the gearbox",
-      "Provide four-wheel drive capability"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In digital electronics, a JK flip-flop toggles its output when both J and K inputs are:",
-    "options": [
-      "J=0, K=0",
-      "J=1, K=0",
-      "J=0, K=1",
-      "J=1, K=1"
+      "Rhythm",
+      "Calendering",
+      "A symbol or name that identifies a brand",
+      "Threads running crosswise on the loom"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which heat treatment process involves heating steel above its critical temperature and then cooling it slowly in a furnace to relieve internal stresses and improve machinability?",
+    "question": "Which fabric is made from the hair of the Angora goat?",
     "options": [
-      "Hardening",
-      "Tempering",
-      "Annealing",
-      "Normalizing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In an AC circuit containing only a capacitor, the relationship between current and voltage is:",
-    "options": [
-      "Current lags voltage by 90\u00b0",
-      "Current is in phase with voltage",
-      "Current leads voltage by 90\u00b0",
-      "Current leads voltage by 45\u00b0"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "ISO surface finish symbol Ra represents:",
-    "options": [
-      "The maximum peak-to-valley height of the surface profile",
-      "The arithmetic mean deviation of the assessed surface profile from the mean line",
-      "The root mean square roughness of the surface",
-      "The total height of the roughness profile"
+      "Silk",
+      "Mohair",
+      "Threads running crosswise on the loom",
+      "A folded and stitched edge of fabric"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which fabric construction method uses loops?",
+    "options": [
+      "A fibre made from chemicals",
+      "A wax-resist dyeing technique applied to cloth",
+      "Knitting",
+      "The diagonal direction at 45 degrees to the grain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which stitch is used to join two pieces of fabric?",
+    "options": [
+      "Threads running crosswise on the loom",
+      "A folded and stitched edge of fabric",
+      "Strong visible seams in jeans and sportswear",
+      "Seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is sanforizing?",
+    "options": [
+      "Fibres obtained from plants and animals",
+      "Cutting fabric diagonally across the grain",
+      "Nylon",
+      "A process to prevent shrinkage in cotton fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which principle of design refers to the repetition of elements?",
+    "options": [
+      "Rhythm",
+      "Waterproofing",
+      "210 degrees Celsius",
+      "Velvet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric requires dry cleaning only?",
+    "options": [
+      "The direction of the threads in the fabric",
+      "Rhythm",
+      "Silk",
+      "Running stitch"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of pleat faces away from the centre?",
+    "options": [
+      "Extra room added for comfort and movement",
+      "Spinning",
+      "Plain weave",
+      "Box pleat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which stitch is used for gathering fabric?",
+    "options": [
+      "When the garment is smaller than the body measurement",
+      "Running stitch",
+      "Mass-produced clothing in standard sizes",
+      "The extra fabric between the seam line and the cut edge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which synthetic fibre is known for its strength and elasticity?",
+    "options": [
+      "Line",
+      "The direction of the threads in the fabric",
+      "Nylon",
+      "Polyester"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fabric is most absorbent?",
+    "options": [
+      "Cotton",
+      "Silkworm",
+      "A decorative technique that gathers fabric in a pattern",
+      "Polyester"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of collar lies flat against the garment?",
+    "options": [
+      "Small balls of fibre that form on the surface",
+      "Peter Pan collar",
+      "Viscose/Rayon",
+      "Hand or drape"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which stitch is used for hand sewing buttons?",
+    "options": [
+      "Thread shank stitch",
+      "A triangular piece of fabric that adds fullness",
+      "Iron and pressing cloth",
+      "A triangle with a cross"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which weave produces a diagonal pattern?",
+    "options": [
+      "Twill weave",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Small balls of fibre that form on the surface",
+      "Spinning"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a natural fibre?",
+    "options": [
+      "Tracing wheel",
+      "Mass-produced clothing in standard sizes",
+      "Cotton",
+      "Threads running lengthwise on the loom"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a synthetic fibre?",
+    "options": [
+      "A fibre made from chemicals",
+      "Cotton",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "To prevent curved edges from stretching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the bias of a fabric?",
+    "options": [
+      "A template used to cut fabric pieces",
+      "Small balls of fibre that form on the surface",
+      "Cotton",
+      "The diagonal direction at 45 degrees to the grain"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does RTW stand for in fashion?",
+    "options": [
+      "Ready to wear",
+      "Plain weave",
+      "A measure of the fineness or thickness of yarn",
+      "Non-woven fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of fabric has a raised cut pile?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "Cotton",
+      "Velvet",
+      "Fibres obtained from plants and animals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of interfacing?",
+    "options": [
+      "To add structure and support to fabric",
+      "Waterproofing",
+      "Rhythm",
+      "A fibre made from chemicals"
+    ],
+    "correctIndex": 0
   }
 ]

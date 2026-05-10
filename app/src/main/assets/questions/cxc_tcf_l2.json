@@ -1,152 +1,201 @@
 [
   {
-    "question": "What does the abbreviation 'PPE' stand for in the workplace?",
+    "question": "What is the grain of a fabric?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Practice Equipment",
-      "Primary Protection Essentials",
-      "Planned Protective Essentials"
+      "A folded and stitched edge of fabric",
+      "Nylon",
+      "Silkworm",
+      "The direction of the threads in the fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which sewing machine foot is used for zippers?",
+    "options": [
+      "An opening in a garment that allows it to be put on and taken off",
+      "Red, yellow and blue",
+      "Tracing wheel",
+      "Zipper foot"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric weave produces a checkerboard pattern?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "Plain weave",
+      "Line",
+      "Zigzag stitch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term bias cut mean in fashion?",
+    "options": [
+      "Creating a focal point or centre of interest",
+      "Cutting fabric diagonally across the grain",
+      "French seam",
+      "Spinning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a hem?",
+    "options": [
+      "A decorative technique that gathers fabric in a pattern",
+      "A folded and stitched edge of fabric",
+      "A fibre made from chemicals",
+      "The direction of the threads in the fabric"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the principle of balance in design?",
+    "options": [
+      "Calendering",
+      "Waterproofing",
+      "A triangle with a cross",
+      "Equal distribution of visual weight"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a natural fibre?",
+    "options": [
+      "Cotton",
+      "Waterproofing",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Silk"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a renewable source of energy?",
+    "question": "Which type of fabric has a raised cut pile?",
     "options": [
-      "Coal",
-      "Natural gas",
-      "Solar power",
-      "Petroleum"
+      "A sleeve that extends to the collar without a shoulder seam",
+      "Polyester",
+      "Velvet",
+      "Plain weave"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What tool is used to measure electrical current in a circuit?",
+    "question": "What is haute couture?",
     "options": [
-      "Voltmeter",
-      "Ammeter",
-      "Ohmmeter",
-      "Wattmeter"
+      "Viscose/Rayon",
+      "Wool",
+      "High-end custom-fitted fashion made by leading designers",
+      "Equal distribution of visual weight"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which printing method uses a mesh screen?",
+    "options": [
+      "Thread shank stitch",
+      "Nylon",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Screen printing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fibre comes from the flax plant?",
+    "options": [
+      "Zip/zipper",
+      "Plain weave",
+      "Linen",
+      "A process to prevent shrinkage in cotton fabric"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a blended fabric?",
+    "options": [
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "A fabric made from two or more different fibres",
+      "Linen",
+      "Red, yellow and blue"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In woodworking, which joint is commonly used to join two pieces of wood at a right angle?",
+    "question": "What is pilling on fabric?",
     "options": [
-      "Butt joint",
-      "Dovetail joint",
-      "Mortise and tenon joint",
-      "Lap joint"
+      "Small balls of fibre that form on the surface",
+      "To add structure and support to fabric",
+      "Victorian era",
+      "A piece of fabric used to finish raw edges"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the term 'scale' mean on a technical drawing?",
+    "question": "What does ease mean in a sewing pattern?",
     "options": [
-      "The colour used in the drawing",
-      "The ratio between the drawing size and the actual size",
-      "The type of paper used",
-      "The title of the drawing"
+      "Extra room added for comfort and movement",
+      "To press curved seams and shaped areas",
+      "Bamboo",
+      "Tracing wheel"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following materials is a good conductor of electricity?",
+    "question": "What is a placket?",
     "options": [
-      "Rubber",
-      "Plastic",
-      "Copper",
-      "Wood"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a circuit breaker?",
-    "options": [
-      "To increase voltage",
-      "To store electrical energy",
-      "To protect a circuit from overload",
-      "To convert AC to DC"
+      "Iron and pressing cloth",
+      "Overcasting or serging",
+      "An opening in a garment that allows it to be put on and taken off",
+      "Line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which hand tool is used to drive nails into wood?",
+    "question": "What is a pattern in sewing?",
     "options": [
-      "Chisel",
-      "Hammer",
-      "Screwdriver",
-      "Wrench"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of line is used to represent hidden edges in a technical drawing?",
-    "options": [
-      "Continuous thick line",
-      "Dotted or dashed line",
-      "Chain line",
-      "Wavy line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In plumbing, what is the purpose of a P-trap?",
-    "options": [
-      "To increase water pressure",
-      "To prevent sewer gases from entering a building",
-      "To filter water",
-      "To measure water flow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a ferrous metal?",
-    "options": [
-      "Aluminium",
-      "Copper",
-      "Steel",
-      "Brass"
+      "Zigzag stitch",
+      "Blanket stitch",
+      "A template used to cut fabric pieces",
+      "When the garment is smaller than the body measurement"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does 'OHS' stand for in a work environment?",
+    "question": "Which type of seam is most durable?",
     "options": [
-      "Operational Handling Systems",
-      "Occupational Health and Safety",
-      "Organised Hazard Screening",
-      "Official Handling Standards"
+      "French seam",
+      "Overcasting or serging",
+      "Blanket stitch",
+      "Grams per square metre"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which fastener is used to hold two pieces of metal together and can be removed and reused?",
+    "question": "What is smocking?",
     "options": [
-      "Rivet",
-      "Bolt and nut",
-      "Nail",
-      "Staple"
+      "A decorative technique that gathers fabric in a pattern",
+      "The extra fabric between the seam line and the cut edge",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Iron and pressing cloth"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "function": "What is the unit used to measure electrical resistance?",
+    "question": "Which fabric is best for hot climates?",
     "options": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Watt"
+      "Cotton",
+      "Zip/zipper",
+      "The finished edge that prevents fraying",
+      "Box pleat"
     ],
-    "correctIndex": 2,
-    "question": "What is the unit used to measure electrical resistance?"
+    "correctIndex": 0
   },
   {
-    "question": "Which type of saw is best suited for cutting curves in wood?",
+    "question": "What are the primary colours?",
     "options": [
-      "Hacksaw",
-      "Coping saw",
-      "Rip saw",
-      "Tenon saw"
+      "Peter Pan collar",
+      "Red, yellow and blue",
+      "The diagonal direction at 45 degrees to the grain",
+      "A test garment made in cheap fabric before cutting the final fabric"
     ],
     "correctIndex": 1
   }

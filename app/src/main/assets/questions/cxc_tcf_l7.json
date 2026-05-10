@@ -1,153 +1,202 @@
 [
   {
-    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at a right angle by interlocking rectangular cuts?",
+    "question": "What is haute couture?",
     "options": [
-      "Dovetail joint",
-      "Mortise and tenon joint",
-      "Box (finger) joint",
-      "Butt joint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electrical wiring, what does the abbreviation 'RCD' stand for?",
-    "options": [
-      "Residual Current Device",
-      "Resistance Control Distributor",
-      "Relay Circuit Disconnector",
-      "Regulated Current Detector"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following materials is classified as a thermosetting plastic?",
-    "options": [
-      "Polyethylene",
-      "Polypropylene",
-      "Epoxy resin",
-      "Polystyrene"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a flux when soldering electrical components?",
-    "options": [
-      "To increase the melting point of solder",
-      "To prevent oxidation and improve solder flow",
-      "To strengthen the mechanical bond",
-      "To conduct electricity between components"
+      "To press curved seams and shaped areas",
+      "High-end custom-fitted fashion made by leading designers",
+      "Swimwear and lingerie",
+      "Spinning"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In building construction, which foundation type is most suitable for a structure built on weak or waterlogged soil?",
+    "question": "What is a synthetic fibre?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Pile foundation"
+      "Hand or drape",
+      "Reactive dye",
+      "A fibre made from chemicals",
+      "A triangle with a cross"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a toile?",
+    "options": [
+      "Screen printing",
+      "Reactive dye",
+      "Fibres obtained from plants and animals",
+      "A test garment made in cheap fabric before cutting the final fabric"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When reading an engineering drawing, what does a dashed hidden line represent?",
+    "question": "What is the grain of a fabric?",
     "options": [
-      "A centre line of a component",
-      "An edge or outline not visible from the viewing direction",
-      "A cutting plane line",
-      "A dimension line"
+      "Hand or drape",
+      "The direction of the threads in the fabric",
+      "A piece of fabric used to finish raw edges",
+      "Measuring tape"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which instrument is used to measure the internal diameter of a pipe or hole accurately?",
+    "question": "Which type of fabric has a raised cut pile?",
     "options": [
-      "Micrometer screw gauge",
-      "Outside calipers",
-      "Inside calipers",
-      "Vernier caliper set to outside measurement"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In metalwork, what process involves heating steel to a high temperature and then rapidly cooling it in water or oil?",
-    "options": [
-      "Annealing",
-      "Tempering",
-      "Hardening",
-      "Case hardening"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly describes Ohm's Law?",
-    "options": [
-      "Power equals current multiplied by resistance",
-      "Voltage equals current multiplied by resistance",
-      "Current equals voltage multiplied by resistance",
-      "Resistance equals voltage multiplied by current"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of saw is best suited for cutting curves and irregular shapes in thin wood or metal?",
-    "options": [
-      "Hacksaw",
-      "Rip saw",
-      "Coping saw",
-      "Cross-cut saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In technical drawing, which line type is used to indicate the axis of symmetry of a component?",
-    "options": [
-      "Continuous thick line",
-      "Long chain thin line (centre line)",
-      "Dashed thin line",
-      "Continuous thin line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which safety device is installed in a circuit to protect against overloading by breaking the circuit when current exceeds a set value?",
-    "options": [
-      "Capacitor",
-      "Circuit breaker",
-      "Transformer",
-      "Relay"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "",
-    "question": "When mixing concrete, what is the correct ratio of cement, sand, and aggregate for general structural work?",
-    "options": [
-      "1:2:4",
-      "1:3:6",
-      "1:1:2",
-      "2:4:8"
+      "Velvet",
+      "Bamboo",
+      "Texture",
+      "Twill weave"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of screw thread is designed to transmit power and motion in machine tools such as a lathe?",
+    "question": "Which type of seam is most durable?",
     "options": [
-      "Whitworth thread",
-      "Unified thread",
-      "Acme (trapezoidal) thread",
-      "Metric thread"
+      "French seam",
+      "Ready to wear",
+      "A small collection of versatile, timeless clothing",
+      "Tracing wheel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What temperature does a hot iron setting reach?",
+    "options": [
+      "Silkworm",
+      "Mohair",
+      "210 degrees Celsius",
+      "Coco Chanel"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In plumbing, which fitting is used to change the direction of a pipe by 90 degrees?",
+    "question": "What is a facing in sewing?",
     "options": [
-      "Tee fitting",
-      "Union fitting",
-      "Elbow fitting",
-      "Coupling fitting"
+      "Knitting",
+      "A piece of fabric used to finish raw edges",
+      "Cotton",
+      "Cutting fabric diagonally across the grain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a motif in textile design?",
+    "options": [
+      "French seam",
+      "Cotton",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "A single design unit that can be repeated"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fastener uses interlocking teeth?",
+    "options": [
+      "A folded tuck to shape fabric to the body",
+      "Box pleat",
+      "A process to prevent shrinkage in cotton fabric",
+      "Zip/zipper"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to measure fabric?",
+    "options": [
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "The diagonal direction at 45 degrees to the grain",
+      "Measuring tape",
+      "The finished edge that prevents fraying"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which stitch is used to join two pieces of fabric?",
+    "options": [
+      "Extra room added for comfort and movement",
+      "Peter Pan collar",
+      "A template used to cut fabric pieces",
+      "Seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the selvedge of a fabric?",
+    "options": [
+      "A visual collage that communicates design concepts",
+      "Red, yellow and blue",
+      "Threads running crosswise on the loom",
+      "The finished edge that prevents fraying"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which stitch is used for gathering fabric?",
+    "options": [
+      "A measure of the fineness or thickness of yarn",
+      "Felt",
+      "Zipper foot",
+      "Running stitch"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a tailor's ham?",
+    "options": [
+      "To press curved seams and shaped areas",
+      "Bamboo",
+      "A fibre made from chemicals",
+      "Overcasting or serging"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric is most absorbent?",
+    "options": [
+      "Cotton",
+      "High-end custom-fitted fashion made by leading designers",
+      "A single design unit that can be repeated",
+      "Calendering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a blended fabric?",
+    "options": [
+      "The direction of the threads in the fabric",
+      "A small collection of versatile, timeless clothing",
+      "A fabric made from two or more different fibres",
+      "Analogous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which designer created the little black dress?",
+    "options": [
+      "Coco Chanel",
+      "A fabric made from two or more different fibres",
+      "Waterproofing",
+      "A piece of fabric used to finish raw edges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which dye is used for natural fibres like cotton?",
+    "options": [
+      "Reactive dye",
+      "Small balls of fibre that form on the surface",
+      "A fabric made from two or more different fibres",
+      "A folded tuck to shape fabric to the body"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is weft in weaving?",
+    "options": [
+      "A small collection of versatile, timeless clothing",
+      "Knitting",
+      "Measuring tape",
+      "Threads running crosswise on the loom"
+    ],
+    "correctIndex": 3
   }
 ]

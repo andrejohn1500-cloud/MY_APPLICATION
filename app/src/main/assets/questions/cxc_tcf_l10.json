@@ -1,151 +1,201 @@
 [
   {
-    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at right angles using interlocking fingers?",
+    "question": "What does ease mean in a sewing pattern?",
     "options": [
-      "Butt joint",
-      "Box (finger) joint",
-      "Mortise and tenon joint",
-      "Dovetail joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In electrical circuits, what does the unit 'Ohm' measure?",
-    "options": [
-      "Current",
-      "Voltage",
-      "Resistance",
-      "Power"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is the correct formula for calculating electrical power?",
-    "options": [
-      "P = V / I",
-      "P = V \u00d7 I",
-      "P = I / V",
-      "P = V + I"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a flux when soldering metal joints?",
-    "options": [
-      "To increase the melting point of solder",
-      "To prevent oxidation and improve adhesion",
-      "To harden the metal surface",
-      "To conduct electricity through the joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In technical drawing, what type of line is used to represent hidden edges of an object?",
-    "options": [
-      "Continuous thick line",
-      "Chain line",
-      "Dashed thin line",
-      "Continuous thin line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of fastener is designed to be used without a nut and screws directly into a material?",
-    "options": [
-      "Machine bolt",
-      "Carriage bolt",
-      "Wood screw",
-      "Stud bolt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of removing material from a workpiece using a rotating cutting tool on a milling machine?",
-    "options": [
-      "Turning",
-      "Drilling",
-      "Milling",
-      "Grinding"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plumbing, which fitting is used to join two pipes of different diameters?",
-    "options": [
-      "Elbow",
-      "Tee",
-      "Reducer",
-      "Union"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which material property describes a material's ability to be drawn into wires without breaking?",
-    "options": [
-      "Malleability",
-      "Ductility",
-      "Brittleness",
-      "Hardness"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a circuit breaker in an electrical installation?",
-    "options": [
-      "To increase voltage in the circuit",
-      "To measure current flow",
-      "To protect the circuit from overcurrent",
-      "To store electrical energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In masonry, what is the standard ratio of cement to sand used in a mortar mix for general brickwork?",
-    "options": [
-      "1:2",
-      "1:3",
-      "1:5",
-      "1:8"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hand tool is used to check if a surface is perfectly horizontal?",
-    "options": [
-      "Try square",
-      "Spirit level",
-      "Plumb bob",
-      "Steel rule"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does CAD stand for in technical and vocational studies?",
-    "options": [
-      "Computer Aided Drafting",
-      "Construction And Design",
-      "Computer Assisted Development",
-      "Creative Architectural Drawing"
+      "Extra room added for comfort and movement",
+      "A visual collage that communicates design concepts",
+      "Silk",
+      "The direction of the threads in the fabric"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of saw is best suited for cutting curves and irregular shapes in wood?",
+    "question": "What is batik?",
     "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Coping saw",
-      "Cross-cut saw"
+      "Mohair",
+      "Clothing produced with minimal environmental and social impact",
+      "A wax-resist dyeing technique applied to cloth",
+      "The direction of the threads in the fabric"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In metalwork, what is the process of heating metal to a high temperature and then rapidly cooling it in water or oil called?",
+    "question": "What is a motif in textile design?",
     "options": [
-      "Annealing",
-      "Tempering",
-      "Quenching",
-      "Case hardening"
+      "The diagonal direction at 45 degrees to the grain",
+      "A single design unit that can be repeated",
+      "Equal distribution of visual weight",
+      "A template used to cut fabric pieces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fastener uses interlocking teeth?",
+    "options": [
+      "Waterproofing",
+      "Zip/zipper",
+      "Washing instructions",
+      "Strong visible seams in jeans and sportswear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which principle of design refers to the repetition of elements?",
+    "options": [
+      "Equal distribution of visual weight",
+      "Ready to wear",
+      "Rhythm",
+      "Reactive dye"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a princess seam?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Felt",
+      "A method of dyeing fabric by tying sections to resist the dye"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a toile?",
+    "options": [
+      "Decorative fabric pieces sewn onto a base fabric",
+      "210 degrees Celsius",
+      "Mass-produced clothing in standard sizes",
+      "A test garment made in cheap fabric before cutting the final fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric care symbol means do not bleach?",
+    "options": [
+      "A wax-resist dyeing technique applied to cloth",
+      "Washing instructions",
+      "A triangle with a cross",
+      "Ready to wear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does GSM stand for in fabric?",
+    "options": [
+      "Viscose/Rayon",
+      "Silkworm",
+      "Grams per square metre",
+      "A single design unit that can be repeated"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a facing in sewing?",
+    "options": [
+      "A piece of fabric used to finish raw edges",
+      "The direction of the threads in the fabric",
+      "Knitting",
+      "Seam roll"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which dye is used for natural fibres like cotton?",
+    "options": [
+      "Analogous",
+      "Reactive dye",
+      "Peter Pan collar",
+      "Box pleat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a tailor's ham?",
+    "options": [
+      "Silkworm",
+      "To press curved seams and shaped areas",
+      "Thread shank stitch",
+      "Adjusting a pattern to a different size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a dart in clothing construction?",
+    "options": [
+      "Adjusting a pattern to a different size",
+      "A decorative technique that gathers fabric in a pattern",
+      "A folded tuck to shape fabric to the body",
+      "Creating a focal point or centre of interest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which designer created the little black dress?",
+    "options": [
+      "Coco Chanel",
+      "Equal distribution of visual weight",
+      "A fibre made from chemicals",
+      "A piece of fabric used to finish raw edges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is smocking?",
+    "options": [
+      "Calendering",
+      "A decorative technique that gathers fabric in a pattern",
+      "210 degrees Celsius",
+      "Small balls of fibre that form on the surface"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a blended fabric?",
+    "options": [
+      "Equal distribution of visual weight",
+      "French seam",
+      "A process to prevent shrinkage in cotton fabric",
+      "A fabric made from two or more different fibres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric is most absorbent?",
+    "options": [
+      "Cotton",
+      "Blanket stitch",
+      "Measuring tape",
+      "Rhythm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric requires dry cleaning only?",
+    "options": [
+      "Seam",
+      "Small balls of fibre that form on the surface",
+      "Silk",
+      "Blanket stitch"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which element of design refers to surface decoration?",
+    "options": [
+      "A folded and stitched edge of fabric",
+      "Seam gauge",
+      "Texture",
+      "A folded tuck to shape fabric to the body"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a trade mark in the fashion industry?",
+    "options": [
+      "To prevent curved edges from stretching",
+      "Adjusting a pattern to a different size",
+      "A symbol or name that identifies a brand",
+      "A measure of the fineness or thickness of yarn"
     ],
     "correctIndex": 2
   }

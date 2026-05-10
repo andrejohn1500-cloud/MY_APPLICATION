@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which of the following is the SI unit of electric current?",
+    "question": "What is warp in weaving?",
     "options": [
-      "Volt",
-      "Ampere",
-      "Ohm",
-      "Watt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does CAD stand for in technical drawing?",
-    "options": [
-      "Computer Aided Design",
-      "Computer Adjusted Drawing",
-      "Calculated Area Design",
-      "Computer Applied Drafting"
+      "Threads running lengthwise on the loom",
+      "Non-woven fabric",
+      "Mass-produced clothing in standard sizes",
+      "Equal distribution of visual weight"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of joint is commonly used to join two pieces of wood at a right angle in cabinet making?",
+    "question": "What is a pattern in sewing?",
     "options": [
-      "Butt joint",
-      "Lap joint",
-      "Dovetail joint",
-      "Mortise and tenon joint"
+      "A folded and stitched edge of fabric",
+      "A template used to cut fabric pieces",
+      "Adjusting a pattern to a different size",
+      "A single design unit that can be repeated"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which designer created the little black dress?",
+    "options": [
+      "Swimwear and lingerie",
+      "The finished edge that prevents fraying",
+      "A wax-resist dyeing technique applied to cloth",
+      "Coco Chanel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fibre shrinks when washed in hot water?",
+    "options": [
+      "Threads running crosswise on the loom",
+      "High-end custom-fitted fashion made by leading designers",
+      "To add structure and support to fabric",
+      "Wool"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric characteristic refers to how it drapes?",
+    "options": [
+      "To press curved seams and shaped areas",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "A symbol or name that identifies a brand",
+      "Hand or drape"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a gore in garment construction?",
+    "options": [
+      "Polyester",
+      "A piece of fabric used to finish raw edges",
+      "A triangular piece of fabric that adds fullness",
+      "Spinning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which tool is used to open seams when pressing?",
+    "options": [
+      "Bamboo",
+      "Peter Pan collar",
+      "Seam roll",
+      "A small collection of versatile, timeless clothing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of interfacing?",
+    "options": [
+      "Silkworm",
+      "Seam",
+      "To add structure and support to fabric",
+      "Line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which printing method uses a mesh screen?",
+    "options": [
+      "Equal distribution of visual weight",
+      "Overcasting or serging",
+      "Box pleat",
+      "Screen printing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the principle of balance in design?",
+    "options": [
+      "A folded tuck to shape fabric to the body",
+      "Equal distribution of visual weight",
+      "A small collection of versatile, timeless clothing",
+      "An opening in a garment that allows it to be put on and taken off"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is ready-to-wear clothing?",
+    "options": [
+      "Mass-produced clothing in standard sizes",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Threads running crosswise on the loom",
+      "Knitting"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the function of a fuse in an electrical circuit?",
+    "question": "What is tie-dyeing?",
     "options": [
-      "To increase voltage",
-      "To store electrical energy",
-      "To protect the circuit from excess current",
-      "To measure resistance"
+      "Calendering",
+      "An opening in a garment that allows it to be put on and taken off",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "Felt"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which tool is used to measure the diameter of a cylindrical object accurately?",
+    "question": "What does ease mean in a sewing pattern?",
     "options": [
-      "Steel rule",
-      "Vernier caliper",
-      "Try square",
-      "Protractor"
+      "Creating a focal point or centre of interest",
+      "Nylon",
+      "Extra room added for comfort and movement",
+      "Calendering"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What does the abbreviation PPE stand for in the workplace?",
+    "question": "What does the term bias cut mean in fashion?",
     "options": [
-      "Personal Protective Equipment",
-      "Proper Preparation Exercise",
-      "Professional Practice Evaluation",
-      "Primary Protection Essentials"
+      "Zipper foot",
+      "A process to prevent shrinkage in cotton fabric",
+      "Cutting fabric diagonally across the grain",
+      "Waterproofing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fibre comes from the flax plant?",
+    "options": [
+      "Linen",
+      "Velvet",
+      "Screen printing",
+      "A sleeve that extends to the collar without a shoulder seam"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a building construction context, what is a foundation?",
+    "question": "Which type of seam is most durable?",
     "options": [
-      "The roof structure of a building",
-      "The base structure that supports the load of the building",
-      "The wall finishing material",
-      "The drainage system of a building"
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "French seam",
+      "Knitting",
+      "Line"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following materials is a good conductor of electricity?",
+    "question": "What is the purpose of a toile?",
     "options": [
-      "Rubber",
-      "Plastic",
-      "Copper",
-      "Wood"
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Washing instructions",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Fibres obtained from plants and animals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is pilling on fabric?",
+    "options": [
+      "Fibres obtained from plants and animals",
+      "Polyester",
+      "Small balls of fibre that form on the surface",
+      "A wax-resist dyeing technique applied to cloth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a safety valve in a plumbing system?",
+    "question": "Which fabric requires dry cleaning only?",
     "options": [
-      "To increase water pressure",
-      "To release excess pressure to prevent damage",
-      "To filter water impurities",
-      "To regulate water flow rate"
+      "Blanket stitch",
+      "A finishing process that increases the strength and lustre of cotton",
+      "A fabric made from two or more different fibres",
+      "Silk"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process of making yarn from fibres called?",
+    "options": [
+      "Ready to wear",
+      "Spinning",
+      "Threads running lengthwise on the loom",
+      "Non-woven fabric"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which type of drawing shows an object as it would appear to the human eye?",
-    "options": [
-      "Orthographic drawing",
-      "Isometric drawing",
-      "Perspective drawing",
-      "Sectional drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does Ohm's Law state?",
-    "options": [
-      "Power equals voltage times current",
-      "Voltage equals current times resistance",
-      "Current equals voltage times resistance",
-      "Resistance equals power divided by current"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hand tool is used to drive screws into wood?",
-    "options": [
-      "Hammer",
-      "Chisel",
-      "Screwdriver",
-      "Pliers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In metalwork, what process involves heating metal and then quickly cooling it in water?",
-    "options": [
-      "Annealing",
-      "Tempering",
-      "Quenching",
-      "Case hardening"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a circuit breaker?",
-    "options": [
-      "To increase the power supply",
-      "To automatically stop electrical flow when a fault occurs",
-      "To convert AC to DC current",
-      "To measure electrical voltage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a ferrous metal?",
-    "options": [
-      "Copper",
-      "Aluminium",
-      "Mild steel",
-      "Brass"
-    ],
-    "correctIndex": 2
   }
 ]

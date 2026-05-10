@@ -1,152 +1,202 @@
 [
   {
-    "question": "In a three-phase AC circuit, if the line voltage is 415V, what is the approximate phase voltage in a star (Y) connected system?",
+    "question": "Which era introduced the hoopskirt?",
     "options": [
-      "415V",
-      "240V",
-      "720V",
-      "830V"
+      "Victorian era",
+      "A single design unit that can be repeated",
+      "A measure of the fineness or thickness of yarn",
+      "An opening in a garment that allows it to be put on and taken off"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which type of transistor configuration provides the highest voltage gain but has a phase inversion between input and output?",
+    "question": "Which stitch creates a decorative zigzag effect?",
     "options": [
-      "Common Base",
-      "Common Collector",
-      "Common Emitter",
-      "Darlington Pair"
+      "Grams per square metre",
+      "Ready to wear",
+      "Blanket stitch",
+      "Seam"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A hydraulic system operates with a pump delivering oil at 200 bar pressure and a flow rate of 50 L/min. What is the approximate hydraulic power output in kilowatts?",
+    "question": "Which fibre shrinks when washed in hot water?",
     "options": [
-      "10 kW",
-      "16.67 kW",
-      "100 kW",
-      "166.7 kW"
+      "Swimwear and lingerie",
+      "Nylon",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Wool"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which welding defect is caused by the electrode moving too quickly across the base metal, leaving an incomplete fusion?",
+    "question": "What is weft in weaving?",
     "options": [
-      "Porosity",
-      "Undercut",
-      "Lack of fusion",
-      "Slag inclusion"
+      "Threads running crosswise on the loom",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Waterproofing",
+      "Non-woven fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is sanforizing?",
+    "options": [
+      "Victorian era",
+      "Mass-produced clothing in standard sizes",
+      "Button",
+      "A process to prevent shrinkage in cotton fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to press open seams?",
+    "options": [
+      "Button",
+      "Strong visible seams in jeans and sportswear",
+      "Blanket stitch",
+      "Iron and pressing cloth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a raglan sleeve?",
+    "options": [
+      "Rhythm",
+      "A sleeve that extends to the collar without a shoulder seam",
+      "Analogous",
+      "A fabric made from two or more different fibres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fibre is known for being lightweight and quick-drying?",
+    "options": [
+      "Plain weave",
+      "The diagonal direction at 45 degrees to the grain",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "Polyester"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is smocking?",
+    "options": [
+      "French seam",
+      "A fibre made from chemicals",
+      "A template used to cut fabric pieces",
+      "A decorative technique that gathers fabric in a pattern"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does RTW stand for in fashion?",
+    "options": [
+      "Rhythm",
+      "A template used to cut fabric pieces",
+      "The diagonal direction at 45 degrees to the grain",
+      "Ready to wear"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to transfer pattern markings to fabric?",
+    "options": [
+      "Tracing wheel",
+      "High-end custom-fitted fashion made by leading designers",
+      "When the garment is smaller than the body measurement",
+      "Zip/zipper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fastener is sewn and requires a buttonhole?",
+    "options": [
+      "Cutting fabric diagonally across the grain",
+      "A triangle with a cross",
+      "Button",
+      "Fibres obtained from plants and animals"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a PLC ladder logic program, which instruction is equivalent to a normally closed contact that activates an output when de-energized?",
+    "question": "Which fabric characteristic refers to how it drapes?",
     "options": [
-      "XIC (Examine If Closed)",
-      "XIO (Examine If Open)",
-      "OTE (Output Energize)",
-      "ONS (One Shot)"
+      "A triangle with a cross",
+      "Hand or drape",
+      "A wax-resist dyeing technique applied to cloth",
+      "Linen"
     ],
     "correctIndex": 1
   },
   {
-    "question": "According to Bernoulli's principle applied in pneumatic systems, what happens to fluid pressure when fluid velocity increases in a constricted pipe?",
+    "question": "Which designer created the little black dress?",
     "options": [
-      "Pressure increases",
-      "Pressure remains constant",
-      "Pressure decreases",
-      "Pressure doubles"
+      "Overcasting or serging",
+      "Grams per square metre",
+      "Coco Chanel",
+      "Wool"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A DC shunt motor is running at no load. If the field winding suddenly becomes open-circuited, what is the likely result?",
+    "question": "Which element of design refers to the outline of a garment?",
     "options": [
-      "Motor stops immediately",
-      "Motor runs at reduced speed",
-      "Motor speed dangerously increases (runaway)",
-      "Motor reverses direction"
+      "Cotton",
+      "Line",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "Adjusting a pattern to a different size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric weave produces a checkerboard pattern?",
+    "options": [
+      "Plain weave",
+      "The extra fabric between the seam line and the cut edge",
+      "Zipper foot",
+      "To add structure and support to fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does ease mean in a sewing pattern?",
+    "options": [
+      "Velvet",
+      "Polyester",
+      "Extra room added for comfort and movement",
+      "Victorian era"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which CNC G-code is used to command a tool to move in a circular arc in the clockwise direction?",
+    "question": "Which synthetic fibre is known for its strength and elasticity?",
     "options": [
-      "G00",
-      "G01",
-      "G02",
-      "G03"
+      "Overcasting or serging",
+      "Coco Chanel",
+      "Nylon",
+      "Creating a focal point or centre of interest"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In electronics, the ripple factor of a full-wave rectifier with a capacitor filter is primarily reduced by:",
+    "question": "Which fibre absorbs moisture and wicks it away?",
     "options": [
-      "Increasing load resistance and decreasing capacitance",
-      "Decreasing load resistance and increasing capacitance",
-      "Increasing both load resistance and inductance",
-      "Decreasing both load resistance and capacitance"
+      "Wool",
+      "Bamboo",
+      "A folded tuck to shape fabric to the body",
+      "Cotton"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a differential in an automotive drivetrain?",
+    "question": "Which sewing technique prevents raw edges from fraying?",
     "options": [
-      "To increase torque to the drive wheels",
-      "To allow drive wheels to rotate at different speeds when cornering",
-      "To convert engine torque to hydraulic pressure",
-      "To synchronize transmission gear changes"
+      "Overcasting or serging",
+      "The diagonal direction at 45 degrees to the grain",
+      "Cutting fabric diagonally across the grain",
+      "Bamboo"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In refrigeration systems, the Coefficient of Performance (COP) is calculated as:",
-    "options": [
-      "Work input divided by heat rejected",
-      "Heat absorbed at evaporator divided by work input",
-      "Heat rejected at condenser divided by work input",
-      "Work input divided by heat absorbed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 10 kVA, 2000/200V single-phase transformer has a full-load secondary current of 50A. If the power factor is 0.8 lagging, what is the full-load output power?",
-    "options": [
-      "10 kW",
-      "8 kW",
-      "6 kW",
-      "12.5 kW"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which logic gate configuration forms the basis of a Set-Reset (SR) flip-flop when using NAND gates?",
-    "options": [
-      "Two NAND gates in series",
-      "Two NAND gates with cross-coupled feedback",
-      "Three NAND gates in cascade",
-      "Four NAND gates in a ring oscillator"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD/CAM, what does the term 'parametric design' mean?",
-    "options": [
-      "Designing parts using only 2D orthographic projections",
-      "Creating models where dimensions are driven by variables that control the geometry",
-      "Using raster images as the basis for technical drawings",
-      "Generating tool paths directly from surface models"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When performing a hydrostatic pressure test on a pipeline, the test pressure is typically set at what percentage above the maximum allowable operating pressure (MAOP)?",
-    "options": [
-      "10%",
-      "25%",
-      "50%",
-      "100%"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

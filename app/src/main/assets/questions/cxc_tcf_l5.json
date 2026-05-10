@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which type of joint is most suitable for joining two pieces of timber end-to-end to increase their length?",
+    "question": "What is batik?",
     "options": [
-      "A mortise and tenon joint",
-      "A butt joint",
-      "A scarf joint",
-      "A dovetail joint"
+      "Australia",
+      "Hand or drape",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "A wax-resist dyeing technique applied to cloth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which tool is used to press open seams?",
+    "options": [
+      "Polyester",
+      "Iron and pressing cloth",
+      "Bamboo",
+      "Threads running lengthwise on the loom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a flat-felled seam used for?",
+    "options": [
+      "Wool",
+      "The finished edge that prevents fraying",
+      "A measure of the fineness or thickness of yarn",
+      "Strong visible seams in jeans and sportswear"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does RTW stand for in fashion?",
+    "options": [
+      "Thread shank stitch",
+      "Ready to wear",
+      "Button",
+      "Silkworm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of fabric has a raised cut pile?",
+    "options": [
+      "Zigzag stitch",
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Velvet",
+      "Equal distribution of visual weight"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In electrical wiring, what does the term 'earthing' primarily protect against?",
+    "question": "What is the purpose of interfacing?",
     "options": [
-      "Voltage fluctuations",
-      "Electric shock due to fault currents",
-      "Overloading of circuits",
-      "Short circuits between live and neutral"
+      "Mohair",
+      "Non-woven fabric",
+      "Button",
+      "To add structure and support to fabric"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A drawing that shows the internal details of an object as if it were cut along a plane is called a:",
+    "question": "What is a trade mark in the fashion industry?",
     "options": [
-      "Isometric drawing",
-      "Sectional view",
-      "Exploded view",
-      "Orthographic projection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which material property describes a metal's ability to be drawn into wire without breaking?",
-    "options": [
-      "Malleability",
-      "Hardness",
-      "Ductility",
-      "Toughness"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plumbing, a P-trap is installed beneath a sink primarily to:",
-    "options": [
-      "Increase water pressure",
-      "Prevent sewer gases from entering the building",
-      "Filter debris from wastewater",
-      "Regulate water flow rate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a flux when soldering metal joints?",
-    "options": [
-      "To increase the melting point of the solder",
-      "To prevent oxidation and improve solder flow",
-      "To harden the base metal",
-      "To cool the joint rapidly"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of saw is best suited for cutting curves in thin wood panels?",
-    "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Coping saw",
-      "Crosscut saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In masonry construction, which bond pattern involves alternating courses of headers and stretchers?",
-    "options": [
-      "English bond",
-      "Flemish bond",
-      "Running bond",
-      "Stack bond"
+      "A symbol or name that identifies a brand",
+      "Fibres obtained from plants and animals",
+      "Mass-produced clothing in standard sizes",
+      "Measuring tape"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the term 'RPM' refer to when discussing electric motors and drills?",
+    "question": "Which sewing machine foot is used for zippers?",
     "options": [
-      "Resistance per metre",
-      "Revolutions per minute",
-      "Rate per measurement",
-      "Rotational power management"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of cement is most commonly used in general construction work in the Caribbean?",
-    "options": [
-      "High alumina cement",
-      "Ordinary Portland cement",
-      "Rapid hardening cement",
-      "Sulphate resisting cement"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A voltage of 240V is applied across a resistor of 60 ohms. What is the current flowing through the resistor?",
-    "options": [
-      "2 A",
-      "4 A",
-      "6 A",
-      "8 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In technical drawing, the scale 1:50 means that 1 unit on the drawing represents:",
-    "options": [
-      "50 units smaller on the actual object",
-      "50 units larger on the actual object",
-      "1 unit on the actual object",
-      "The drawing and object are the same size"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hand tool is used to check that a surface is perfectly horizontal?",
-    "options": [
-      "Try square",
-      "Spirit level",
-      "Plumb bob",
-      "Steel rule"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process of removing excess metal from a workpiece using a file is known as:",
-    "options": [
-      "Turning",
-      "Milling",
-      "Filing",
-      "Drilling"
+      "Cotton",
+      "A finishing process that increases the strength and lustre of cotton",
+      "Zipper foot",
+      "The extra fabric between the seam line and the cut edge"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In construction, damp proof course (DPC) is installed in walls primarily to:",
+    "question": "Which stitch is used to join two pieces of fabric?",
     "options": [
-      "Improve thermal insulation",
-      "Prevent rising damp from ground moisture",
-      "Increase the structural strength of the wall",
-      "Allow for wall expansion and contraction"
+      "Hand or drape",
+      "Iron and pressing cloth",
+      "Thread shank stitch",
+      "Seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What animal produces silk?",
+    "options": [
+      "Measuring tape",
+      "When the garment is smaller than the body measurement",
+      "Silkworm",
+      "Australia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which synthetic fibre is known for its strength and elasticity?",
+    "options": [
+      "The extra fabric between the seam line and the cut edge",
+      "Knitting",
+      "Nylon",
+      "Analogous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is weft in weaving?",
+    "options": [
+      "Waterproofing",
+      "Red, yellow and blue",
+      "Polyester",
+      "Threads running crosswise on the loom"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a princess seam?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "The direction of the threads in the fabric",
+      "An opening in a garment that allows it to be put on and taken off"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is sustainable fashion?",
+    "options": [
+      "French seam",
+      "The extra fabric between the seam line and the cut edge",
+      "Button",
+      "Clothing produced with minimal environmental and social impact"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a hem?",
+    "options": [
+      "The direction of the threads in the fabric",
+      "The extra fabric between the seam line and the cut edge",
+      "Wool",
+      "A folded and stitched edge of fabric"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which finishing process adds sheen to fabric?",
+    "options": [
+      "High-end custom-fitted fashion made by leading designers",
+      "The diagonal direction at 45 degrees to the grain",
+      "The finished edge that prevents fraying",
+      "Calendering"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which element of design refers to surface decoration?",
+    "options": [
+      "To press curved seams and shaped areas",
+      "Texture",
+      "Zigzag stitch",
+      "A test garment made in cheap fabric before cutting the final fabric"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sewing technique prevents raw edges from fraying?",
+    "options": [
+      "Overcasting or serging",
+      "Equal distribution of visual weight",
+      "Seam gauge",
+      "Box pleat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does emphasis in design mean?",
+    "options": [
+      "Creating a focal point or centre of interest",
+      "Hand or drape",
+      "Knitting",
+      "A sleeve that extends to the collar without a shoulder seam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fibre absorbs moisture and wicks it away?",
+    "options": [
+      "Mohair",
+      "A folded tuck to shape fabric to the body",
+      "Waterproofing",
+      "Bamboo"
+    ],
+    "correctIndex": 3
   }
 ]

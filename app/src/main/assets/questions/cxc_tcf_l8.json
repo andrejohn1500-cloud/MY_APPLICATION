@@ -1,152 +1,202 @@
 [
   {
-    "question": "Which type of joint is most suitable for joining two pieces of wood at a right angle in frame construction?",
+    "question": "Which fastener uses interlocking teeth?",
     "options": [
-      "Butt joint",
-      "Mortise and tenon joint",
-      "Lap joint",
-      "Dovetail joint"
+      "Zip/zipper",
+      "A triangle with a cross",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "A wax-resist dyeing technique applied to cloth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which colour scheme uses colours next to each other on the colour wheel?",
+    "options": [
+      "To press curved seams and shaped areas",
+      "Analogous",
+      "Threads running lengthwise on the loom",
+      "Victorian era"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In electrical circuits, what does the term 'resistance' measure?",
+    "question": "What is tie-dyeing?",
     "options": [
-      "The rate of flow of electric charge",
-      "The opposition to the flow of electric current",
-      "The electrical potential difference between two points",
-      "The power consumed by a device"
+      "Threads running crosswise on the loom",
+      "Screen printing",
+      "Tracing wheel",
+      "A method of dyeing fabric by tying sections to resist the dye"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which material is BEST described as a thermosetting plastic?",
+    "question": "What is applique?",
     "options": [
-      "Polyethylene",
-      "Polystyrene",
-      "Bakelite",
-      "PVC"
+      "Decorative fabric pieces sewn onto a base fabric",
+      "A decorative technique that gathers fabric in a pattern",
+      "Knitting",
+      "Extra room added for comfort and movement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process of making yarn from fibres called?",
+    "options": [
+      "Line",
+      "Equal distribution of visual weight",
+      "A small collection of versatile, timeless clothing",
+      "Spinning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a motif in textile design?",
+    "options": [
+      "A single design unit that can be repeated",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Ready to wear",
+      "Analogous"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is yarn count?",
+    "options": [
+      "To add structure and support to fabric",
+      "A wax-resist dyeing technique applied to cloth",
+      "A measure of the fineness or thickness of yarn",
+      "Silk"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a flux when soldering?",
+    "question": "Which printing method uses a mesh screen?",
     "options": [
-      "To increase the melting point of solder",
-      "To prevent oxidation and improve adhesion",
-      "To cool the joint rapidly",
-      "To increase electrical resistance"
+      "Screen printing",
+      "A folded tuck to shape fabric to the body",
+      "Cotton",
+      "Plain weave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the warp knit used for?",
+    "options": [
+      "Tracing wheel",
+      "Equal distribution of visual weight",
+      "Hand or drape",
+      "Swimwear and lingerie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What temperature does a hot iron setting reach?",
+    "options": [
+      "210 degrees Celsius",
+      "To prevent curved edges from stretching",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Iron and pressing cloth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a mood board in fashion design?",
+    "options": [
+      "A fibre made from chemicals",
+      "A visual collage that communicates design concepts",
+      "Nylon",
+      "Line"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In technical drawing, a dashed line typically represents which of the following?",
+    "question": "What does GSM stand for in fabric?",
     "options": [
-      "A visible edge",
-      "A centre line",
-      "A hidden edge",
-      "A dimension line"
+      "Mass-produced clothing in standard sizes",
+      "Polyester",
+      "Cotton",
+      "Grams per square metre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric construction method uses loops?",
+    "options": [
+      "Mohair",
+      "A decorative technique that gathers fabric in a pattern",
+      "Knitting",
+      "Swimwear and lingerie"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is the correct formula for calculating electrical power?",
+    "question": "Which stitch is used for hand sewing buttons?",
     "options": [
-      "P = V / I",
-      "P = V x R",
-      "P = I\u00b2 x R",
-      "P = V / R"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A file used in metalwork that has teeth cut in one direction only is called a",
-    "options": [
-      "Double-cut file",
-      "Rasp file",
-      "Single-cut file",
-      "Bastard file"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of concrete is reinforced with steel bars to improve its tensile strength?",
-    "options": [
-      "Pre-stressed concrete",
-      "Plain concrete",
-      "Reinforced concrete",
-      "Lightweight concrete"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a pilot hole when driving a screw into wood?",
-    "options": [
-      "To increase the grip of the screw",
-      "To prevent the wood from splitting",
-      "To make the screw easier to remove",
-      "To increase the depth of the screw"
+      "The diagonal direction at 45 degrees to the grain",
+      "Thread shank stitch",
+      "Australia",
+      "Cutting fabric diagonally across the grain"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following safety symbols indicates a risk of electric shock?",
+    "question": "What is the purpose of a tailor's ham?",
     "options": [
-      "A skull and crossbones",
-      "A lightning bolt inside a triangle",
-      "A flame symbol",
-      "A circle with a line through it"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In plumbing, a P-trap is installed primarily to",
-    "options": [
-      "Increase water pressure in the pipe",
-      "Prevent sewer gases from entering the building",
-      "Filter debris from wastewater",
-      "Regulate the flow of water"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which scale on a drawing indicates that the drawn object is half its actual size?",
-    "options": [
-      "2:1",
-      "1:1",
-      "1:2",
-      "1:5"
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Box pleat",
+      "To press curved seams and shaped areas",
+      "Threads running lengthwise on the loom"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of saw is BEST suited for cutting curves in thin wood?",
+    "question": "What is a capsule wardrobe?",
     "options": [
-      "Rip saw",
-      "Coping saw",
-      "Cross-cut saw",
-      "Tenon saw"
+      "A measure of the fineness or thickness of yarn",
+      "To prevent curved edges from stretching",
+      "Zip/zipper",
+      "A small collection of versatile, timeless clothing"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In electronics, a diode allows current to flow in",
+    "question": "What is negative ease in a garment?",
     "options": [
-      "Both directions equally",
-      "Only one direction",
-      "Neither direction",
-      "All directions depending on voltage"
+      "Bamboo",
+      "Twill weave",
+      "Measuring tape",
+      "When the garment is smaller than the body measurement"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following metals is MOST resistant to corrosion under normal atmospheric conditions?",
+    "question": "What is a raglan sleeve?",
     "options": [
-      "Iron",
-      "Copper",
-      "Aluminium",
-      "Mild steel"
+      "Red, yellow and blue",
+      "Cotton",
+      "Rhythm",
+      "A sleeve that extends to the collar without a shoulder seam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is smocking?",
+    "options": [
+      "A fabric made from two or more different fibres",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "A decorative technique that gathers fabric in a pattern",
+      "Analogous"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a toile?",
+    "options": [
+      "Hand or drape",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "Seam gauge",
+      "An opening in a garment that allows it to be put on and taken off"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,202 @@
 [
   {
-    "question": "A three-phase induction motor has a synchronous speed of 1500 rpm and runs at 1440 rpm under full load. What is the slip of the motor?",
+    "question": "Which dye is used for natural fibres like cotton?",
     "options": [
-      "A. 0.02",
-      "B. 0.04",
-      "C. 0.06",
-      "D. 0.08"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a PLC ladder diagram, which element is used to represent a normally closed contact?",
-    "options": [
-      "A. A horizontal line with a diagonal slash through it",
-      "B. Two vertical lines connected by a horizontal line",
-      "C. A coil symbol represented by parentheses",
-      "D. A box labeled TON"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of transistor configuration provides the highest voltage gain but has a phase reversal between input and output?",
-    "options": [
-      "A. Common base",
-      "B. Common emitter",
-      "C. Common collector",
-      "D. Emitter follower"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A hydraulic cylinder has a bore diameter of 80 mm and operates at a pressure of 150 bar. What is the approximate force output of the cylinder?",
-    "options": [
-      "A. 45.2 kN",
-      "B. 75.4 kN",
-      "C. 62.8 kN",
-      "D. 94.2 kN"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a CNC machining program, what does the G41 code represent?",
-    "options": [
-      "A. Tool length compensation positive",
-      "B. Cutter radius compensation left",
-      "C. Cutter radius compensation right",
-      "D. Tool length compensation negative"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which welding defect is characterised by a groove melted into the base metal adjacent to the weld toe and left unfilled?",
-    "options": [
-      "A. Porosity",
-      "B. Lack of fusion",
-      "C. Undercut",
-      "D. Overlap"
+      "Mohair",
+      "To prevent curved edges from stretching",
+      "Reactive dye",
+      "A single design unit that can be repeated"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In an AC circuit, the power factor is 0.75 lagging and the apparent power is 20 kVA. What is the reactive power?",
+    "question": "Which fabric is most absorbent?",
     "options": [
-      "A. 13.2 kVAR",
-      "B. 15.0 kVAR",
-      "C. 17.6 kVAR",
-      "D. 19.8 kVAR"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of gear arrangement is used when power must be transmitted between two shafts that are perpendicular and non-intersecting?",
-    "options": [
-      "A. Bevel gears",
-      "B. Helical gears",
-      "C. Worm and worm wheel",
-      "D. Rack and pinion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In pneumatic systems, an FRL unit combines which three components?",
-    "options": [
-      "A. Flow meter, regulator, lubricator",
-      "B. Filter, regulator, lubricator",
-      "C. Filter, relay, lubricator",
-      "D. Flow control, relief valve, lubricator"
+      "Button",
+      "Cotton",
+      "Red, yellow and blue",
+      "Polyester"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A transformer has a primary winding of 500 turns connected to 240 V AC. If the secondary voltage required is 12 V, how many turns must the secondary winding have?",
+    "question": "What is a princess seam?",
     "options": [
-      "A. 20 turns",
-      "B. 25 turns",
-      "C. 30 turns",
-      "D. 35 turns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which material property describes the ability of a metal to be permanently deformed under compressive stress without fracturing?",
-    "options": [
-      "A. Malleability",
-      "B. Ductility",
-      "C. Toughness",
-      "D. Hardness"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In occupational health and safety, what does the hierarchy of controls place as the most effective measure to eliminate workplace hazards?",
-    "options": [
-      "A. Personal protective equipment",
-      "B. Administrative controls",
-      "C. Elimination",
-      "D. Engineering controls"
+      "A visual collage that communicates design concepts",
+      "Cutting fabric diagonally across the grain",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "A sleeve that extends to the collar without a shoulder seam"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which logic gate produces a HIGH output only when all inputs are HIGH?",
+    "question": "Which tool measures seam allowances accurately?",
     "options": [
-      "A. OR gate",
-      "B. NAND gate",
-      "C. NOR gate",
-      "D. AND gate"
+      "Box pleat",
+      "Seam",
+      "Seam gauge",
+      "The extra fabric between the seam line and the cut edge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a facing in sewing?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "Australia",
+      "A piece of fabric used to finish raw edges",
+      "High-end custom-fitted fashion made by leading designers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of seam is most durable?",
+    "options": [
+      "Wool",
+      "French seam",
+      "Extra room added for comfort and movement",
+      "Non-woven fabric"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does ease mean in a sewing pattern?",
+    "options": [
+      "Mohair",
+      "Wool",
+      "Extra room added for comfort and movement",
+      "Linen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fibre absorbs moisture and wicks it away?",
+    "options": [
+      "Australia",
+      "Peter Pan collar",
+      "Silkworm",
+      "Bamboo"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In technical drawing, a section view that is rotated 90 degrees and placed adjacent to the cut location on the main view is called a?",
+    "question": "Which tool is used to transfer pattern markings to fabric?",
     "options": [
-      "A. Full section",
-      "B. Removed section",
-      "C. Revolved section",
-      "D. Half section"
+      "Bamboo",
+      "Tracing wheel",
+      "Nylon",
+      "Measuring tape"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does GSM stand for in fabric?",
+    "options": [
+      "Small balls of fibre that form on the surface",
+      "Creating a focal point or centre of interest",
+      "Grams per square metre",
+      "Measuring tape"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A single-phase rectifier circuit uses four diodes arranged to convert AC to DC. What is the name of this circuit configuration?",
+    "question": "What is a pattern in sewing?",
     "options": [
-      "A. Half-wave rectifier",
-      "B. Centre-tap rectifier",
-      "C. Bridge rectifier",
-      "D. Voltage doubler"
+      "A template used to cut fabric pieces",
+      "A decorative technique that gathers fabric in a pattern",
+      "A triangular piece of fabric that adds fullness",
+      "A method of dyeing fabric by tying sections to resist the dye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does RTW stand for in fashion?",
+    "options": [
+      "Analogous",
+      "Creating a focal point or centre of interest",
+      "Non-woven fabric",
+      "Ready to wear"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric construction method uses loops?",
+    "options": [
+      "Zigzag stitch",
+      "210 degrees Celsius",
+      "The extra fabric between the seam line and the cut edge",
+      "Knitting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fibre is naturally flame resistant?",
+    "options": [
+      "Wool",
+      "Washing instructions",
+      "A single design unit that can be repeated",
+      "A method of dyeing fabric by tying sections to resist the dye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which colour scheme uses colours next to each other on the colour wheel?",
+    "options": [
+      "Analogous",
+      "Tracing wheel",
+      "Cutting fabric diagonally across the grain",
+      "To add structure and support to fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of stay stitching?",
+    "options": [
+      "A wax-resist dyeing technique applied to cloth",
+      "To prevent curved edges from stretching",
+      "Victorian era",
+      "Red, yellow and blue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric weave produces a checkerboard pattern?",
+    "options": [
+      "Adjusting a pattern to a different size",
+      "A method of dyeing fabric by tying sections to resist the dye",
+      "Plain weave",
+      "Australia"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is grading a pattern?",
+    "options": [
+      "A symbol or name that identifies a brand",
+      "Adjusting a pattern to a different size",
+      "The finished edge that prevents fraying",
+      "An opening in a garment that allows it to be put on and taken off"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric is produced by matting fibres together?",
+    "options": [
+      "Thread shank stitch",
+      "A decorative technique that gathers fabric in a pattern",
+      "Silkworm",
+      "Felt"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of collar lies flat against the garment?",
+    "options": [
+      "Decorative fabric pieces sewn onto a base fabric",
+      "Peter Pan collar",
+      "Analogous",
+      "A folded tuck to shape fabric to the body"
+    ],
+    "correctIndex": 1
   }
 ]

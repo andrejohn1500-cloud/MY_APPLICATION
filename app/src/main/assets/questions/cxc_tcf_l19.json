@@ -1,152 +1,202 @@
 [
   {
-    "question": "In a three-phase AC circuit, if the line voltage is 415V, what is the approximate phase voltage for a star (Y) connected system?",
+    "question": "Which fabric weave produces a checkerboard pattern?",
     "options": [
-      "415V",
-      "240V",
-      "720V",
-      "830V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of semiconductor device is primarily used for voltage regulation in power supply circuits?",
-    "options": [
-      "BJT transistor",
-      "Zener diode",
-      "Schottky diode",
-      "MOSFET"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A concrete mix ratio of 1:2:4 represents cement, sand, and aggregate respectively. If 50kg of cement is used, how much aggregate is required?",
-    "options": [
-      "100kg",
-      "150kg",
-      "200kg",
-      "250kg"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In technical drawing, the symbol for a first-angle orthographic projection is best described as:",
-    "options": [
-      "A cone with the apex pointing toward the viewer on the right",
-      "A cone with the apex pointing away from the viewer on the left",
-      "A circle inside a square",
-      "Two overlapping triangles"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
-    "options": [
-      "SMAW",
-      "MIG",
-      "TIG",
-      "SAW"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a DC motor, the back EMF (electromotive force) is directly proportional to:",
-    "options": [
-      "Armature resistance",
-      "Motor speed and flux",
-      "Supply voltage only",
-      "Torque output only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a torque converter in an automatic transmission system?",
-    "options": [
-      "To increase fuel efficiency",
-      "To transfer and multiply engine torque to the transmission",
-      "To reduce engine speed",
-      "To regulate oil pressure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which building foundation type is most appropriate when constructing on expansive clay soil with low bearing capacity?",
-    "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Pier foundation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electronics, the unit of electrical conductance is the:",
-    "options": [
-      "Ohm",
-      "Farad",
-      "Siemens",
-      "Henry"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A steel beam has a cross-sectional area of 0.005 m\u00b2 and is subjected to a tensile force of 250 kN. What is the tensile stress?",
-    "options": [
-      "25 MPa",
-      "50 MPa",
-      "125 MPa",
-      "500 MPa"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which networking device operates at the Data Link Layer (Layer 2) of the OSI model and uses MAC addresses to forward frames?",
-    "options": [
-      "Router",
-      "Hub",
-      "Switch",
-      "Repeater"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In refrigeration systems, the component responsible for absorbing heat from the refrigerated space is the:",
-    "options": [
-      "Condenser",
-      "Compressor",
-      "Expansion valve",
-      "Evaporator"
+      "Button",
+      "Twill weave",
+      "To add structure and support to fabric",
+      "Plain weave"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When applying the superposition theorem to a circuit with multiple voltage sources, which condition must be applied to inactive voltage sources?",
+    "question": "Which fabric is created by bonding fibres with heat?",
     "options": [
-      "They are replaced with open circuits",
-      "They are replaced with short circuits",
-      "They are set to their maximum value",
-      "They are reversed in polarity"
+      "Non-woven fabric",
+      "Mohair",
+      "A test garment made in cheap fabric before cutting the final fabric",
+      "A small collection of versatile, timeless clothing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a tailor's ham?",
+    "options": [
+      "A triangular piece of fabric that adds fullness",
+      "Adjusting a pattern to a different size",
+      "An opening in a garment that allows it to be put on and taken off",
+      "To press curved seams and shaped areas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a gore in garment construction?",
+    "options": [
+      "Creating a focal point or centre of interest",
+      "To add structure and support to fabric",
+      "Zip/zipper",
+      "A triangular piece of fabric that adds fullness"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of pleat faces away from the centre?",
+    "options": [
+      "Line",
+      "Box pleat",
+      "Equal distribution of visual weight",
+      "A small collection of versatile, timeless clothing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In plumbing, a P-trap is installed beneath a sink primarily to:",
+    "question": "What is a princess seam?",
     "options": [
-      "Increase water pressure",
-      "Prevent sewer gases from entering the building",
-      "Filter debris from wastewater",
-      "Regulate flow rate"
+      "Red, yellow and blue",
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "The diagonal direction at 45 degrees to the grain",
+      "A fibre made from chemicals"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which cutting tool geometry angle directly affects the cutting efficiency and heat generation during a machining operation on a lathe?",
+    "question": "What is sustainable fashion?",
     "options": [
-      "Nose radius",
-      "Rake angle",
-      "Relief angle",
-      "Cutting edge angle"
+      "Threads running crosswise on the loom",
+      "A fibre made from chemicals",
+      "Wool",
+      "Clothing produced with minimal environmental and social impact"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which element of design refers to surface decoration?",
+    "options": [
+      "Seam gauge",
+      "Texture",
+      "A symbol or name that identifies a brand",
+      "Box pleat"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is grading a pattern?",
+    "options": [
+      "Adjusting a pattern to a different size",
+      "To add structure and support to fabric",
+      "A piece of fabric used to finish raw edges",
+      "Zigzag stitch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which stitch is used for hand sewing buttons?",
+    "options": [
+      "Polyester",
+      "Thread shank stitch",
+      "Calendering",
+      "A fibre made from chemicals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which synthetic fibre is known for its strength and elasticity?",
+    "options": [
+      "Nylon",
+      "Coco Chanel",
+      "High-end custom-fitted fashion made by leading designers",
+      "Bamboo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does RTW stand for in fashion?",
+    "options": [
+      "Ready to wear",
+      "Equal distribution of visual weight",
+      "Mohair",
+      "Silk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the tub symbol on a care label indicate?",
+    "options": [
+      "Cotton",
+      "Washing instructions",
+      "Line",
+      "Red, yellow and blue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fabric is produced from wood pulp?",
+    "options": [
+      "Viscose/Rayon",
+      "The extra fabric between the seam line and the cut edge",
+      "Screen printing",
+      "Twill weave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does emphasis in design mean?",
+    "options": [
+      "A measure of the fineness or thickness of yarn",
+      "Polyester",
+      "Creating a focal point or centre of interest",
+      "Bamboo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is ready-to-wear clothing?",
+    "options": [
+      "Wool",
+      "Small balls of fibre that form on the surface",
+      "Mass-produced clothing in standard sizes",
+      "A process to prevent shrinkage in cotton fabric"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which stitch is used for attaching elastic?",
+    "options": [
+      "Linen",
+      "Zigzag stitch",
+      "Coco Chanel",
+      "Plain weave"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country is known for producing fine wool?",
+    "options": [
+      "Overcasting or serging",
+      "Small balls of fibre that form on the surface",
+      "Australia",
+      "Grams per square metre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a flat-felled seam used for?",
+    "options": [
+      "Iron and pressing cloth",
+      "A triangular piece of fabric that adds fullness",
+      "Seam roll",
+      "Strong visible seams in jeans and sportswear"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is negative ease in a garment?",
+    "options": [
+      "When the garment is smaller than the body measurement",
+      "Fibres obtained from plants and animals",
+      "Waterproofing",
+      "A measure of the fineness or thickness of yarn"
+    ],
+    "correctIndex": 0
   }
 ]

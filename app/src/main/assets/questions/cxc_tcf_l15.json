@@ -1,151 +1,201 @@
 [
   {
-    "question": "In a three-phase AC circuit, if the line voltage is 415V, what is the approximate phase voltage for a star (Y) connected load?",
+    "question": "Which stitch is used for gathering fabric?",
     "options": [
-      "415V",
-      "240V",
-      "720V",
-      "830V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A hydraulic press uses a small piston of area 0.01 m\u00b2 and a large piston of area 0.5 m\u00b2. If a force of 200N is applied to the small piston, what force is produced at the large piston?",
-    "options": [
-      "4N",
-      "1000N",
-      "10000N",
-      "40000N"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following materials is BEST suited for use as a cutting tool due to its high hardness and heat resistance?",
-    "options": [
-      "Mild steel",
-      "High-speed steel (HSS)",
-      "Wrought iron",
-      "Copper alloy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In electronics, what does the term 'quiescent point' (Q-point) refer to in a transistor amplifier?",
-    "options": [
-      "The maximum output voltage swing",
-      "The DC operating point when no signal is applied",
-      "The frequency at which gain is maximum",
-      "The point of transistor saturation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A transformer has a primary winding of 500 turns connected to 240V AC. If the secondary has 100 turns, what is the secondary voltage?",
-    "options": [
-      "1200V",
-      "48V",
-      "24V",
-      "120V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which welding defect is caused by the electrode being held too far from the workpiece during arc welding?",
-    "options": [
-      "Porosity",
-      "Undercut",
-      "Excessive spatter",
-      "Incomplete fusion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a refrigeration cycle, what is the primary function of the expansion valve?",
-    "options": [
-      "To compress the refrigerant",
-      "To transfer heat from the refrigerant to the surroundings",
-      "To reduce the pressure and temperature of the refrigerant",
-      "To separate liquid refrigerant from vapour"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of logic gate produces a HIGH output ONLY when all its inputs are HIGH?",
-    "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "NOR gate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In computer-aided design (CAD), what does the term 'Boolean operation' refer to?",
-    "options": [
-      "Converting 2D drawings to 3D models",
-      "Combining or subtracting solid geometric shapes",
-      "Scaling objects proportionally",
-      "Adding dimensions to a drawing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A shaft rotating at 1440 RPM is connected via a gear train to an output shaft. The driving gear has 60 teeth and the driven gear has 20 teeth. What is the output shaft speed?",
-    "options": [
-      "480 RPM",
-      "720 RPM",
-      "2880 RPM",
-      "4320 RPM"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In PLC (Programmable Logic Controller) programming using ladder logic, a normally closed (NC) contact passes current when the associated coil is in which state?",
-    "options": [
-      "Energised",
-      "De-energised",
-      "Overloaded",
-      "Short-circuited"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of fit is used when two mating parts must be assembled and disassembled frequently without the use of force, yet maintain accurate alignment?",
-    "options": [
-      "Interference fit",
-      "Shrink fit",
-      "Clearance fit",
-      "Press fit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electrical installations, the purpose of a Residual Current Device (RCD) is to protect against?",
-    "options": [
-      "Overcurrent and short circuits",
-      "Earth leakage currents that could cause electrocution",
-      "Voltage surges from lightning",
-      "Power factor reduction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct sequence of operations in a four-stroke internal combustion engine?",
-    "options": [
-      "Intake, Compression, Power, Exhaust",
-      "Compression, Intake, Exhaust, Power",
-      "Power, Compression, Intake, Exhaust",
-      "Intake, Power, Compression, Exhaust"
+      "Running stitch",
+      "Swimwear and lingerie",
+      "Mohair",
+      "Mass-produced clothing in standard sizes"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In building construction, a 'retaining wall' is specifically designed to?",
+    "question": "What animal produces silk?",
     "options": [
-      "Support roof loads and transfer them to the foundation",
-      "Hold back soil or other material on one side and prevent lateral movement",
-      "Provide thermal insulation between interior and exterior spaces",
-      "Carry and distribute concentrated loads from columns"
+      "Twill weave",
+      "A symbol or name that identifies a brand",
+      "Button",
+      "Silkworm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is sustainable fashion?",
+    "options": [
+      "Clothing produced with minimal environmental and social impact",
+      "Cotton",
+      "Threads running crosswise on the loom",
+      "Analogous"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fabric weave produces a checkerboard pattern?",
+    "options": [
+      "Cotton",
+      "Plain weave",
+      "Spinning",
+      "High-end custom-fitted fashion made by leading designers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which finishing process adds sheen to fabric?",
+    "options": [
+      "Measuring tape",
+      "Calendering",
+      "Overcasting or serging",
+      "Wool"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is sanforizing?",
+    "options": [
+      "Screen printing",
+      "A process to prevent shrinkage in cotton fabric",
+      "Zigzag stitch",
+      "Seam roll"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of fabric has a raised cut pile?",
+    "options": [
+      "The finished edge that prevents fraying",
+      "When the garment is smaller than the body measurement",
+      "Velvet",
+      "Plain weave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does ease mean in a sewing pattern?",
+    "options": [
+      "Grams per square metre",
+      "A process to prevent shrinkage in cotton fabric",
+      "Extra room added for comfort and movement",
+      "To add structure and support to fabric"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which colour scheme uses colours next to each other on the colour wheel?",
+    "options": [
+      "A vertical seam from shoulder to hem that shapes the bodice",
+      "Analogous",
+      "A measure of the fineness or thickness of yarn",
+      "Threads running crosswise on the loom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is batik?",
+    "options": [
+      "When the garment is smaller than the body measurement",
+      "A wax-resist dyeing technique applied to cloth",
+      "Bamboo",
+      "A template used to cut fabric pieces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a blended fabric?",
+    "options": [
+      "Strong visible seams in jeans and sportswear",
+      "Coco Chanel",
+      "A fabric made from two or more different fibres",
+      "Ready to wear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which principle of design refers to the repetition of elements?",
+    "options": [
+      "Adjusting a pattern to a different size",
+      "Rhythm",
+      "Line",
+      "To prevent curved edges from stretching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is ready-to-wear clothing?",
+    "options": [
+      "Swimwear and lingerie",
+      "A folded tuck to shape fabric to the body",
+      "To press curved seams and shaped areas",
+      "Mass-produced clothing in standard sizes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which fabric is created by bonding fibres with heat?",
+    "options": [
+      "Non-woven fabric",
+      "Plain weave",
+      "Polyester",
+      "Clothing produced with minimal environmental and social impact"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the tub symbol on a care label indicate?",
+    "options": [
+      "Washing instructions",
+      "Twill weave",
+      "Overcasting or serging",
+      "Zip/zipper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which weave produces a diagonal pattern?",
+    "options": [
+      "Twill weave",
+      "A folded tuck to shape fabric to the body",
+      "Mohair",
+      "Australia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a hem?",
+    "options": [
+      "A folded and stitched edge of fabric",
+      "Zigzag stitch",
+      "Thread shank stitch",
+      "Non-woven fabric"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is pilling on fabric?",
+    "options": [
+      "Cotton",
+      "A single design unit that can be repeated",
+      "210 degrees Celsius",
+      "Small balls of fibre that form on the surface"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which finishing process makes fabric water repellent?",
+    "options": [
+      "Thread shank stitch",
+      "Zip/zipper",
+      "Tracing wheel",
+      "Waterproofing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of interfacing?",
+    "options": [
+      "Button",
+      "To add structure and support to fabric",
+      "Wool",
+      "A wax-resist dyeing technique applied to cloth"
     ],
     "correctIndex": 1
   }
