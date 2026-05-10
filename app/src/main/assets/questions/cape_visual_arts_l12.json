@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which printmaking technique involves drawing on a flat limestone or metal surface with a greasy medium, exploiting the repulsion between oil and water?",
+    "options": [
+      "Intaglio",
+      "Relief printing",
+      "Lithography",
+      "Serigraphy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In colour theory, which term describes the perceived lightness or darkness of a colour independent of its hue?",
+    "options": [
+      "Saturation",
+      "Value",
+      "Chroma",
+      "Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Bauhaus school, founded in 1919 by Walter Gropius, was primarily located in which country?",
+    "options": [
+      "France",
+      "Austria",
+      "Switzerland",
+      "Germany"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which element of art refers to the implied or actual three-dimensional quality of a form, distinguished from shape by its volumetric character?",
+    "options": [
+      "Texture",
+      "Form",
+      "Line",
+      "Space"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In ceramics, what is the process of firing clay a second time after the application of a glaze called?",
+    "options": [
+      "Bisque firing",
+      "Raku firing",
+      "Glaze firing",
+      "Pit firing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'negative space' in composition refers to which of the following?",
+    "options": [
+      "The use of dark tones to create shadow",
+      "The area surrounding the primary subject matter",
+      "The absence of texture in a work",
+      "The use of cool colours in the background"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which Post-Impressionist artist is most closely associated with the concept of 'passage,' allowing planes of colour to merge into one another, directly influencing Cubism?",
+    "options": [
+      "Paul Gauguin",
+      "Vincent van Gogh",
+      "Paul C\u00e9zanne",
+      "Georges Seurat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In graphic design, the term 'kerning' specifically refers to which typographic adjustment?",
+    "options": [
+      "The overall spacing between lines of text",
+      "The weight and thickness of letterforms",
+      "The spacing between individual pairs of characters",
+      "The alignment of text to a baseline grid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "function": "art history",
+    "question": "The Caribbean art movement that sought to reclaim African heritage and celebrate indigenous identity, emerging prominently in the mid-20th century, is most closely associated with which ideological framework?",
+    "options": [
+      "Surrealism",
+      "N\u00e9gritude",
+      "Constructivism",
+      "De Stijl"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which principle of design describes the visual path that leads a viewer's eye through a work of art in a deliberate sequence?",
+    "options": [
+      "Emphasis",
+      "Rhythm",
+      "Movement",
+      "Unity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In photography, a shallow depth of field is best achieved by using which camera setting?",
+    "options": [
+      "A small aperture (high f-number) with slow shutter speed",
+      "A large aperture (low f-number) with a longer focal length",
+      "A fast shutter speed with a wide-angle lens",
+      "High ISO with a standard focal length"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The encaustic painting technique uses which binding medium to suspend pigment?",
+    "options": [
+      "Linseed oil",
+      "Egg yolk",
+      "Beeswax",
+      "Gum arabic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which art movement, developed in the 1960s, rejected the idea of the artwork as a precious object and instead prioritised the concept or idea as the primary artistic product?",
+    "options": [
+      "Minimalism",
+      "Fluxus",
+      "Conceptual Art",
+      "Arte Povera"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In sculptural practice, what distinguishes additive processes from subtractive processes?",
+    "options": [
+      "Additive processes use only synthetic materials while subtractive uses natural ones",
+      "Additive processes build up material while subtractive processes remove material from a mass",
+      "Additive processes create two-dimensional works while subtractive creates three-dimensional works",
+      "Additive processes are permanent while subtractive processes are temporary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The golden ratio, approximately 1:1.618, is historically used in art and architecture to achieve which aesthetic quality?",
+    "options": [
+      "Dynamic tension and visual conflict",
+      "Harmonious proportion and aesthetic balance",
+      "Maximum visual contrast between elements",
+      "Emphasis through deliberate asymmetry"
+    ],
+    "correctIndex": 1
+  }
+]
