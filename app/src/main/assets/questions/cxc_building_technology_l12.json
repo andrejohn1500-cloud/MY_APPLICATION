@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a multi-storey building constructed on soft, compressible soil where individual pad foundations would overlap?",
+    "options": [
+      "Strip foundation",
+      "Raft foundation",
+      "Pile foundation",
+      "Pad foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In reinforced concrete design, the term 'cover' refers to:",
+    "options": [
+      "The thickness of concrete above the top reinforcement bar",
+      "The distance from the surface of the concrete to the nearest face of the reinforcement bar",
+      "The total depth of the concrete section",
+      "The spacing between reinforcement bars"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A building has a flat roof with an area of 200 m\u00b2. If the live load is 1.5 kN/m\u00b2 and the dead load is 3.0 kN/m\u00b2, what is the total characteristic load on the roof?",
+    "options": [
+      "300 kN",
+      "600 kN",
+      "900 kN",
+      "450 kN"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which timber defect is caused by fungal attack and results in the wood becoming soft, spongy, and losing structural integrity?",
+    "options": [
+      "Case hardening",
+      "Shakes",
+      "Dry rot",
+      "Resin pockets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In brickwork, a 'Flemish bond' is characterized by:",
+    "options": [
+      "Alternate courses of headers and stretchers",
+      "Each course consisting of alternate headers and stretchers",
+      "Courses of all stretchers with staggered vertical joints",
+      "Three stretchers followed by one header in each course"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a 'damp proof course' (DPC) in a building?",
+    "options": [
+      "To provide thermal insulation in walls",
+      "To prevent moisture from rising through capillary action in the walls",
+      "To strengthen the wall at the base",
+      "To distribute the load from the wall to the foundation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In structural steelwork, the term 'buckling' most specifically refers to:",
+    "options": [
+      "The bending of a beam under excessive transverse load",
+      "The sudden lateral deflection of a slender compression member under axial load",
+      "The twisting of a section under torsional forces",
+      "The elongation of a tension member beyond the elastic limit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the water-cement ratio in concrete mix design?",
+    "options": [
+      "The ratio of water volume to cement volume by loose measurement",
+      "The ratio of water mass to cement mass in a concrete mix",
+      "The ratio of cement mass to total aggregate mass",
+      "The ratio of free water to total water in the mix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A surveyor measures a slope distance of 50 m at an angle of elevation of 30\u00b0. What is the horizontal distance?",
+    "options": [
+      "25.0 m",
+      "43.3 m",
+      "57.7 m",
+      "40.0 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing systems, a 'trap' is installed in drainage pipework primarily to:",
+    "options": [
+      "Regulate water pressure within the supply system",
+      "Prevent the backflow of foul air from the drainage system into the building",
+      "Filter debris from entering the main sewer",
+      "Reduce the velocity of wastewater flow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the function of a 'shear wall' in a building's structural system?",
+    "options": [
+      "A wall designed to support only vertical dead loads",
+      "A wall designed to resist lateral forces such as wind and seismic loads acting parallel to its plane",
+      "A wall that transfers floor loads to columns",
+      "A non-load-bearing partition wall that separates internal spaces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The 'slump test' for fresh concrete primarily measures:",
+    "options": [
+      "The compressive strength of the concrete mix",
+      "The workability or consistency of the fresh concrete",
+      "The water-cement ratio of the mix",
+      "The aggregate-to-cement ratio of the mix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical installations, a 'ring main circuit' differs from a 'radial circuit' in that:",
+    "options": [
+      "It can only supply lighting points, not socket outlets",
+      "Both ends of the cable are connected back to the consumer unit, allowing current to flow from both directions",
+      "It requires a larger cable cross-section for the same number of outlets",
+      "It operates at a higher voltage than a standard radial circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roofing material has the LOWEST thermal conductivity and therefore provides the best inherent insulation value?",
+    "options": [
+      "Aluminium sheet roofing",
+      "Concrete roof tiles",
+      "Timber shingles",
+      "Clay roof tiles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In contract documentation, the 'Bill of Quantities' (BOQ) is primarily used to:",
+    "options": [
+      "Define the legal responsibilities of the contractor and client",
+      "Provide a detailed schedule of work items, quantities, and rates for pricing a construction project",
+      "Specify the technical standards and materials to be used on a project",
+      "Set out the programme and sequence of construction activities"
+    ],
+    "correctIndex": 1
+  }
+]

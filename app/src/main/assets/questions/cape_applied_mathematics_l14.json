@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A random variable X follows a Poisson distribution with mean \u03bb. If P(X = 2) = 2P(X = 1), find the value of \u03bb.",
+    "options": [
+      "\u03bb = 1",
+      "\u03bb = 2",
+      "\u03bb = 4",
+      "\u03bb = 3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a linear programming problem, the objective function Z = 5x + 3y is to be maximized subject to constraints 2x + y \u2264 18, x + 3y \u2264 21, x \u2265 0, y \u2265 0. What is the maximum value of Z?",
+    "options": [
+      "42",
+      "45",
+      "51",
+      "48"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The lengths of bolts produced by a machine are normally distributed with mean 50 mm and standard deviation 2 mm. What is the probability that a randomly selected bolt has length between 47 mm and 53 mm?",
+    "options": [
+      "0.8664",
+      "0.9332",
+      "0.7500",
+      "0.9544"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A transition matrix for a Markov chain is P = [[0.6, 0.4],[0.3, 0.7]]. What is the steady-state probability vector?",
+    "options": [
+      "(0.43, 0.57)",
+      "(0.5, 0.5)",
+      "(0.429, 0.571)",
+      "(0.375, 0.625)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5, and P(A \u222a B) = 0.7. Find P(A | B).",
+    "options": [
+      "0.3",
+      "0.4",
+      "0.2",
+      "0.6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A sample of size 100 is taken from a population with unknown mean \u03bc and known standard deviation \u03c3 = 15. The sample mean is 72. A 95% confidence interval for \u03bc is:",
+    "options": [
+      "(69.06, 74.94)",
+      "(71.55, 72.45)",
+      "(68.00, 76.00)",
+      "(70.20, 73.80)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a two-person zero-sum game, the payoff matrix is [[3, -1],[\u22122, 4]]. The value of the game using mixed strategies is:",
+    "options": [
+      "1.0",
+      "1.4",
+      "0.8",
+      "1.2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The differential equation dy/dx = ky has solution y = Ce^(kx). In a population model, the population doubles every 5 years. Starting from P\u2080 = 1000, what is the population after 15 years?",
+    "options": [
+      "4000",
+      "6000",
+      "8000",
+      "3000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "X and Y are independent random variables with E(X) = 3, Var(X) = 4, E(Y) = 5, Var(Y) = 9. Find Var(2X \u2212 3Y + 1).",
+    "options": [
+      "97",
+      "100",
+      "16 + 81",
+      "16 + 81 + 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A hypothesis test is conducted with H\u2080: \u03bc = 50 against H\u2081: \u03bc \u2260 50. A sample of size 36 gives x\u0304 = 52.4 and \u03c3 = 9. The test statistic z is:",
+    "options": [
+      "1.60",
+      "2.40",
+      "1.80",
+      "2.60"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The number of customers arriving at a service point follows a Poisson distribution with mean 4 per hour. What is the probability that exactly 6 customers arrive in a given hour? (Use e\u207b\u2074 \u2248 0.0183)",
+    "options": [
+      "0.0595",
+      "0.1042",
+      "0.0733",
+      "0.0916"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a critical path analysis, activities A, B, C, D, E have durations 5, 3, 7, 4, 6 days respectively with dependencies: B after A, C after A, D after B, E after C and D. What is the minimum project duration?",
+    "options": [
+      "18 days",
+      "16 days",
+      "19 days",
+      "15 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2 for 0 \u2264 x \u2264 3 and 0 otherwise. What is the value of k?",
+    "options": [
+      "1/9",
+      "1/27",
+      "1/3",
+      "3/27"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The correlation coefficient between variables X and Y is r = 0.85. What percentage of the variation in Y is explained by the linear regression on X?",
+    "options": [
+      "85%",
+      "72.25%",
+      "92.5%",
+      "17.5%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A manufacturer claims that the mean breaking strength of a cable is at least 500 N. A sample of 25 cables gives x\u0304 = 492 N and s = 20 N. Using a one-tailed t-test at 5% significance level (t\u2082\u2084, 0.05 = 1.711), what conclusion is reached?",
+    "options": [
+      "Reject H\u2080 since t = \u22122.00 < \u22121.711",
+      "Accept H\u2080 since t = 2.00 > 1.711",
+      "Reject H\u2080 since t = 2.00 > 1.711",
+      "Accept H\u2080 since t = \u22122.00 > \u22121.711"
+    ],
+    "correctIndex": 0
+  }
+]

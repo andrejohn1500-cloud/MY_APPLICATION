@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A satellite orbits Earth at a height where the gravitational field strength is 4.5 N/kg. If Earth's radius is 6.4 \u00d7 10\u2076 m and g at the surface is 9.8 N/kg, what is the approximate orbital radius of the satellite?",
+    "options": [
+      "7.6 \u00d7 10\u2076 m",
+      "8.6 \u00d7 10\u2076 m",
+      "9.3 \u00d7 10\u2076 m",
+      "1.1 \u00d7 10\u2077 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An object of mass 2 kg is attached to a spring of spring constant 200 N/m and oscillates with simple harmonic motion. What is the period of oscillation?",
+    "options": [
+      "0.31 s",
+      "0.44 s",
+      "0.63 s",
+      "1.26 s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A proton moving at 3 \u00d7 10\u2076 m/s enters a magnetic field of 0.5 T perpendicular to its velocity. What is the radius of the circular path? (mass of proton = 1.67 \u00d7 10\u207b\u00b2\u2077 kg, charge = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "options": [
+      "0.031 m",
+      "0.063 m",
+      "0.125 m",
+      "0.250 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A step-down transformer has 2000 turns in the primary coil and 100 turns in the secondary coil. If the primary voltage is 240 V and the secondary current is 8 A, what is the primary current assuming 100% efficiency?",
+    "options": [
+      "0.2 A",
+      "0.4 A",
+      "4.0 A",
+      "16.0 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the photoelectric effect observation that CANNOT be explained by classical wave theory?",
+    "options": [
+      "Photoelectrons are emitted immediately regardless of light intensity",
+      "The maximum kinetic energy of photoelectrons increases with light frequency",
+      "No electrons are emitted below the threshold frequency even at high intensity",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A wave travels from medium 1 into medium 2. The speed in medium 1 is 3 \u00d7 10\u2078 m/s and in medium 2 is 2 \u00d7 10\u2078 m/s. If the angle of incidence is 45\u00b0, what is the angle of refraction?",
+    "options": [
+      "19.5\u00b0",
+      "28.1\u00b0",
+      "35.3\u00b0",
+      "41.8\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal compression from 4 L to 1 L at a constant temperature of 300 K. If the initial pressure is 1 \u00d7 10\u2075 Pa, what is the final pressure?",
+    "options": [
+      "1 \u00d7 10\u2075 Pa",
+      "2 \u00d7 10\u2075 Pa",
+      "4 \u00d7 10\u2075 Pa",
+      "8 \u00d7 10\u2075 Pa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a nuclear reaction, \u00b2\u00b3\u2075U absorbs a neutron and undergoes fission producing \u2079\u00b2Kr, \u00b9\u2074\u00b9Ba, and some neutrons. How many neutrons are released?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two parallel plates are separated by 0.01 m and have a potential difference of 500 V between them. An electron is released from rest at the negative plate. What is the kinetic energy of the electron when it reaches the positive plate?",
+    "options": [
+      "8.0 \u00d7 10\u207b\u00b9\u2077 J",
+      "1.6 \u00d7 10\u207b\u00b9\u2076 J",
+      "8.0 \u00d7 10\u207b\u00b9\u2076 J",
+      "3.2 \u00d7 10\u207b\u00b9\u2076 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A radioactive isotope has a half-life of 20 days. What fraction of the original sample remains after 80 days?",
+    "options": [
+      "1/4",
+      "1/8",
+      "1/16",
+      "1/32"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car of mass 1200 kg travelling at 20 m/s brakes to a stop over 4 seconds. What is the average braking force?",
+    "options": [
+      "3000 N",
+      "4800 N",
+      "6000 N",
+      "9600 N"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A thermistor is used in a potential divider circuit with a fixed resistor of 10 k\u03a9 connected to a 9 V supply. If the thermistor resistance is 2 k\u03a9, what is the voltage across the thermistor?",
+    "options": [
+      "1.5 V",
+      "2.0 V",
+      "4.5 V",
+      "7.5 V"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement about the de Broglie wavelength of a particle is correct?",
+    "options": [
+      "It increases as the momentum of the particle increases",
+      "It is equal to Planck's constant divided by the particle's momentum",
+      "It is only applicable to photons",
+      "It decreases as the kinetic energy of the particle decreases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A metal rod of length 0.5 m moves at 4 m/s perpendicular to a magnetic field of 0.3 T. What is the EMF induced in the rod?",
+    "options": [
+      "0.15 V",
+      "0.30 V",
+      "0.60 V",
+      "1.20 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sound wave has a frequency of 440 Hz and travels at 340 m/s in air. Two speakers emitting this sound are placed 1.5 m apart. At what condition does destructive interference occur at a point equidistant from both speakers?",
+    "options": [
+      "The path difference is a whole number of wavelengths",
+      "The path difference is an odd multiple of half-wavelengths",
+      "The amplitudes of the two waves must be different",
+      "The frequencies of the two waves must be slightly different"
+    ],
+    "correctIndex": 1
+  }
+]

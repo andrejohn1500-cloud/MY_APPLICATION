@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a binary tree with n nodes, what is the maximum possible height of the tree?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(sqrt(n))"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In TCP/IP networking, which layer is responsible for logical addressing and routing of packets?",
+    "options": [
+      "Transport Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the time complexity of the quicksort algorithm in the worst case?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes a deadlock condition in operating systems?",
+    "options": [
+      "A process is waiting indefinitely for a resource held by another waiting process",
+      "A process uses 100% of the CPU for an extended period",
+      "Memory is fully allocated and the system cannot swap",
+      "Two processes are executing simultaneously on the same processor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In object-oriented programming, which principle states that a subclass should be substitutable for its superclass without altering the correctness of the program?",
+    "options": [
+      "Open/Closed Principle",
+      "Liskov Substitution Principle",
+      "Interface Segregation Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cryptographic algorithm is classified as an asymmetric key encryption algorithm?",
+    "options": [
+      "AES",
+      "DES",
+      "RSA",
+      "Blowfish"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a relational database, a foreign key constraint ensures which of the following?",
+    "options": [
+      "Each row in a table has a unique identifier",
+      "The values in one table match values in another table's primary key",
+      "No null values exist in the referenced column",
+      "All columns have consistent data types"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'thrashing' refer to in operating systems?",
+    "options": [
+      "A CPU executing instructions out of order",
+      "Excessive paging activity that significantly degrades system performance",
+      "A hard disk spinning at maximum speed continuously",
+      "Memory fragmentation causing allocation failures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data structure operates on a Last-In-First-Out (LIFO) principle and is commonly used for function call management?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Stack",
+      "Deque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Boolean algebra, which law states that A + (B \u00b7 C) = (A + B) \u00b7 (A + C)?",
+    "options": [
+      "Associative Law",
+      "De Morgan's Law",
+      "Distributive Law",
+      "Absorption Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which OSI model layer handles end-to-end communication, error recovery, and flow control between hosts?",
+    "options": [
+      "Session Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Presentation Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a semaphore in concurrent programming?",
+    "options": [
+      "To allocate memory between threads",
+      "To control access to shared resources and synchronise processes",
+      "To schedule thread execution order permanently",
+      "To encrypt data shared between processes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In compiler design, which phase converts a stream of tokens into a parse tree based on the grammar of the language?",
+    "options": [
+      "Lexical Analysis",
+      "Semantic Analysis",
+      "Syntax Analysis",
+      "Code Generation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sorting algorithm has a best-case, worst-case, and average-case time complexity all equal to O(n log n)?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Insertion Sort",
+      "Bubble Sort"
+    ],
+    "correctIndex": 0
+  }
+]

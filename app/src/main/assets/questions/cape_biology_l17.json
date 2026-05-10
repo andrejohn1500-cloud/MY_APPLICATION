@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for removing RNA primers during DNA replication in eukaryotes?",
+    "options": [
+      "DNA Polymerase I",
+      "DNA Polymerase \u03b4",
+      "RNase H combined with FEN1",
+      "DNA Polymerase \u03b1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During oxidative phosphorylation, the P/O ratio for NADH oxidation via the electron transport chain is approximately:",
+    "options": [
+      "1.0",
+      "1.5",
+      "2.5",
+      "3.0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the lac operon of E. coli, when both glucose and lactose are present, transcription is:",
+    "options": [
+      "Maximally activated because the repressor is removed",
+      "Partially repressed because cAMP levels are low and CAP is inactive",
+      "Fully repressed because the repressor binds to the operator",
+      "Activated by both CAP and the absence of the repressor simultaneously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the role of aquaporins in plant water relations?",
+    "options": [
+      "They actively transport water against osmotic gradients using ATP",
+      "They facilitate osmotic water movement across membranes without altering water potential",
+      "They pump solutes to create osmotic gradients",
+      "They are found exclusively in root hair cells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Hardy-Weinberg equilibrium is violated when:",
+    "options": [
+      "The population is large and mating is random",
+      "Natural selection acts on phenotypic variation in the population",
+      "All alleles have equal frequencies in the gene pool",
+      "Gene flow is equal in both directions between populations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In C4 plants, the enzyme PEP carboxylase fixes CO2 in mesophyll cells. The resulting oxaloacetate is converted to malate, which is transported to bundle sheath cells. What is the primary advantage of this mechanism?",
+    "options": [
+      "It eliminates the need for the Calvin cycle entirely",
+      "It concentrates CO2 around RuBisCO, minimising photorespiration",
+      "It allows photosynthesis to occur in the absence of light",
+      "It replaces NADPH with NADH as the reducing agent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which immunoglobulin class is most abundant in secretions such as saliva, tears, and breast milk?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During meiosis I, which molecular event ensures proper homologous chromosome segregation?",
+    "options": [
+      "Formation of the synaptonemal complex and chiasma maintenance until anaphase I",
+      "Replication of centromeres in prophase I",
+      "Sister chromatid separation at metaphase I",
+      "Cohesin degradation along the entire length of chromosomes at anaphase I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Bohr effect describes how increased CO2 and decreased pH affect haemoglobin. Which molecular mechanism underlies this phenomenon?",
+    "options": [
+      "CO2 directly binds to the haem groups, displacing oxygen",
+      "Protonation of histidine residues stabilises the T-state (tense) conformation of haemoglobin",
+      "Carbaminohaemoglobin formation increases oxygen affinity",
+      "Decreased pH causes irreversible denaturation of the globin chains"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In signal transduction, receptor tyrosine kinases (RTKs) are activated by:",
+    "options": [
+      "Ligand binding causing dimerisation and autophosphorylation of tyrosine residues",
+      "G-protein mediated hydrolysis of GTP to GDP",
+      "Second messenger cAMP directly phosphorylating the receptor",
+      "Direct binding to DNA response elements"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about the fluid mosaic model of the plasma membrane is most accurate at the advanced level?",
+    "options": [
+      "Phospholipids and proteins are uniformly distributed and freely mobile at all times",
+      "Lipid rafts, consisting of sphingolipids and cholesterol, create regions of reduced fluidity that organise signalling proteins",
+      "The hydrophobic tails of phospholipids are oriented outward, facing the aqueous environment",
+      "Peripheral proteins are covalently bonded to fatty acid chains within the bilayer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the kidney nephron, which transport process in the proximal convoluted tubule is responsible for glucose reabsorption?",
+    "options": [
+      "Facilitated diffusion via GLUT2 transporters on the apical membrane",
+      "Secondary active transport via sodium-glucose cotransporters (SGLT2) driven by the Na+ gradient",
+      "Primary active transport using Na+/K+ ATPase on the apical membrane",
+      "Simple diffusion down a concentration gradient"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Telomerase maintains telomere length in germ cells and cancer cells by:",
+    "options": [
+      "Using its intrinsic RNA template to extend the 3' end of the leading strand",
+      "Ligating Okazaki fragments at chromosome ends",
+      "Recruiting exonucleases to trim G-rich overhangs precisely",
+      "Using a protein template to synthesise complementary DNA strands"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly explains why a regulatory gene mutation causing a constitutively active oncogene contributes to cancer development?",
+    "options": [
+      "It silences tumour suppressor genes by methylating their promoters directly",
+      "It causes continuous cell cycle progression independent of growth factor signals, bypassing normal checkpoints",
+      "It increases apoptosis signalling, allowing damaged cells to proliferate",
+      "It reduces the rate of DNA replication, causing aneuploidy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the nitrogen cycle, denitrification carried out by bacteria such as Pseudomonas converts:",
+    "options": [
+      "Atmospheric N2 into NH3 using nitrogenase",
+      "Nitrates (NO3-) into N2 or N2O under anaerobic conditions",
+      "Ammonium (NH4+) into nitrites (NO2-) aerobically",
+      "Nitrites (NO2-) into nitrates (NO3-) using nitrite oxidoreductase"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of joint is most suitable for joining two pieces of wood at a right angle in frame construction?",
+    "options": [
+      "Butt joint",
+      "Mortise and tenon joint",
+      "Lap joint",
+      "Dovetail joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical circuits, what does the term 'resistance' measure?",
+    "options": [
+      "The rate of flow of electric charge",
+      "The opposition to the flow of electric current",
+      "The electrical potential difference between two points",
+      "The power consumed by a device"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which material is BEST described as a thermosetting plastic?",
+    "options": [
+      "Polyethylene",
+      "Polystyrene",
+      "Bakelite",
+      "PVC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a flux when soldering?",
+    "options": [
+      "To increase the melting point of solder",
+      "To prevent oxidation and improve adhesion",
+      "To cool the joint rapidly",
+      "To increase electrical resistance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, a dashed line typically represents which of the following?",
+    "options": [
+      "A visible edge",
+      "A centre line",
+      "A hidden edge",
+      "A dimension line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is the correct formula for calculating electrical power?",
+    "options": [
+      "P = V / I",
+      "P = V x R",
+      "P = I\u00b2 x R",
+      "P = V / R"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A file used in metalwork that has teeth cut in one direction only is called a",
+    "options": [
+      "Double-cut file",
+      "Rasp file",
+      "Single-cut file",
+      "Bastard file"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of concrete is reinforced with steel bars to improve its tensile strength?",
+    "options": [
+      "Pre-stressed concrete",
+      "Plain concrete",
+      "Reinforced concrete",
+      "Lightweight concrete"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a pilot hole when driving a screw into wood?",
+    "options": [
+      "To increase the grip of the screw",
+      "To prevent the wood from splitting",
+      "To make the screw easier to remove",
+      "To increase the depth of the screw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following safety symbols indicates a risk of electric shock?",
+    "options": [
+      "A skull and crossbones",
+      "A lightning bolt inside a triangle",
+      "A flame symbol",
+      "A circle with a line through it"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing, a P-trap is installed primarily to",
+    "options": [
+      "Increase water pressure in the pipe",
+      "Prevent sewer gases from entering the building",
+      "Filter debris from wastewater",
+      "Regulate the flow of water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which scale on a drawing indicates that the drawn object is half its actual size?",
+    "options": [
+      "2:1",
+      "1:1",
+      "1:2",
+      "1:5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of saw is BEST suited for cutting curves in thin wood?",
+    "options": [
+      "Rip saw",
+      "Coping saw",
+      "Cross-cut saw",
+      "Tenon saw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electronics, a diode allows current to flow in",
+    "options": [
+      "Both directions equally",
+      "Only one direction",
+      "Neither direction",
+      "All directions depending on voltage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following metals is MOST resistant to corrosion under normal atmospheric conditions?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminium",
+      "Mild steel"
+    ],
+    "correctIndex": 2
+  }
+]

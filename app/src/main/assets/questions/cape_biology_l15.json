@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the role of ubiquitin in protein degradation?",
+    "options": [
+      "It acts as a protease that directly cleaves peptide bonds",
+      "It tags proteins for destruction by the 26S proteasome",
+      "It unfolds denatured proteins for refolding by chaperones",
+      "It inhibits lysosomal enzymes from breaking down cytosolic proteins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the light-independent reactions of photosynthesis, three molecules of CO2 are fixed. How many molecules of ATP and NADPH are required to regenerate three molecules of RuBP?",
+    "options": [
+      "6 ATP and 6 NADPH",
+      "9 ATP and 6 NADPH",
+      "6 ATP and 9 NADPH",
+      "9 ATP and 9 NADPH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A population of beetles shows a normal distribution of body size. After several generations, only beetles of intermediate size survive and reproduce successfully. Which type of natural selection is occurring?",
+    "options": [
+      "Directional selection",
+      "Disruptive selection",
+      "Stabilising selection",
+      "Artificial selection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the mechanism of action of a competitive inhibitor on an enzyme?",
+    "options": [
+      "It binds irreversibly to the active site, permanently blocking substrate entry",
+      "It binds to the allosteric site and changes the shape of the active site",
+      "It binds to the active site reversibly, increasing the Km without changing Vmax",
+      "It binds to the substrate, preventing it from entering the active site"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dihybrid cross between two heterozygous parents (AaBb \u00d7 AaBb), what proportion of offspring would be expected to show both recessive phenotypes, assuming independent assortment?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about the fluid mosaic model of the cell membrane is CORRECT?",
+    "options": [
+      "Phospholipids are arranged in a monolayer with hydrophilic tails facing outward",
+      "Cholesterol increases membrane fluidity at all temperatures equally",
+      "Integral proteins span the entire bilayer and may function as channels or carriers",
+      "Peripheral proteins are covalently bonded to phospholipid head groups"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During aerobic respiration, the P/O ratio refers to which of the following?",
+    "options": [
+      "The ratio of pyruvate molecules to oxygen molecules consumed",
+      "The number of ATP molecules synthesised per pair of electrons transferred to oxygen",
+      "The ratio of phosphate groups released to oxygen consumed during glycolysis",
+      "The proportion of NADH oxidised relative to FADH2 in the electron transport chain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which feature of meiosis is MOST directly responsible for producing genetic variation through recombination?",
+    "options": [
+      "Independent assortment of homologous chromosomes at metaphase I",
+      "Synapsis and crossing over during prophase I",
+      "Reduction of chromosome number from diploid to haploid",
+      "Separation of sister chromatids during anaphase II"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A recessive allele is located on the X chromosome. A carrier mother and an unaffected father produce offspring. What is the probability that a daughter will be affected?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following accurately describes the process of osmoregulation in the loop of Henle?",
+    "options": [
+      "The descending limb is permeable to water but impermeable to NaCl, while the ascending limb is impermeable to water but actively transports NaCl out",
+      "Both limbs are permeable to water, creating a hyperosmotic medulla by active transport",
+      "The ascending limb is permeable to water, allowing passive reabsorption into the medullary interstitium",
+      "The descending limb actively pumps NaCl into the medulla to create the osmotic gradient"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the immune response, which cells are primarily responsible for the production of antibodies?",
+    "options": [
+      "Cytotoxic T lymphocytes",
+      "Natural killer cells",
+      "Plasma cells derived from activated B lymphocytes",
+      "Helper T lymphocytes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is the correct sequence of events during the sliding filament mechanism of muscle contraction?",
+    "options": [
+      "ATP hydrolysis \u2192 myosin head cocks \u2192 myosin binds actin \u2192 power stroke \u2192 ADP released",
+      "Myosin binds actin \u2192 ATP hydrolysis \u2192 power stroke \u2192 myosin head cocks \u2192 ADP released",
+      "Ca\u00b2\u207a released \u2192 troponin inhibits actin \u2192 myosin binds \u2192 ATP synthesised \u2192 contraction",
+      "Actin binds myosin \u2192 power stroke \u2192 ATP hydrolysis \u2192 myosin head cocks \u2192 release"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best explains why C4 plants have a competitive advantage over C3 plants in hot, dry environments?",
+    "options": [
+      "C4 plants have more chlorophyll and can absorb more sunlight per unit leaf area",
+      "C4 plants fix CO2 into oxaloacetate in mesophyll cells, concentrating CO2 around RuBisCO and reducing photorespiration",
+      "C4 plants lack RuBisCO entirely and use an alternative enzyme for carbon fixation",
+      "C4 plants close their stomata permanently, preventing all water loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about allosteric regulation of enzymes is MOST accurate?",
+    "options": [
+      "Allosteric inhibitors always increase the affinity of the enzyme for its substrate",
+      "Allosteric regulation involves covalent modification of the active site residues",
+      "Binding of an allosteric effector at a site other than the active site causes conformational changes that alter enzyme activity",
+      "Allosteric enzymes always display Michaelis-Menten kinetics with a hyperbolic velocity curve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During transcription in eukaryotes, which of the following processing steps occurs in the nucleus BEFORE mRNA is exported to the cytoplasm?",
+    "options": [
+      "Addition of a poly-A tail, 5' capping, and splicing of introns by spliceosomes",
+      "Ribosomes attach to the mRNA and begin translation within the nucleus",
+      "tRNA anticodons pair with mRNA codons to add amino acids",
+      "Signal recognition particles direct the mRNA to the rough endoplasmic reticulum"
+    ],
+    "correctIndex": 0
+  }
+]

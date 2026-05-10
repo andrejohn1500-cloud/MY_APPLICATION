@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A business purchased machinery for $50,000 on 1 January 2020. The machinery has a useful life of 5 years and a residual value of $5,000. Using the straight-line method, what is the carrying value of the machinery at the end of year 3?",
+    "options": [
+      "$23,000",
+      "$27,000",
+      "$20,000",
+      "$32,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the accruals concept in accounting?",
+    "options": [
+      "Revenue and expenses are recorded only when cash is received or paid",
+      "Revenue and expenses are matched to the period in which they are earned or incurred regardless of cash flow",
+      "Assets must be recorded at their original cost",
+      "The business will continue to operate for the foreseeable future"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's trial balance shows a debit balance on the suspense account of $360. This arose because a sale of $180 was correctly entered in the sales account but posted twice to the debtor's account. What entry is needed to correct this error?",
+    "options": [
+      "Debit Suspense $360, Credit Debtor $360",
+      "Debit Debtor $180, Credit Suspense $360, Debit Sales $180",
+      "Debit Suspense $360, Credit Debtor $180, Debit Debtor $180",
+      "Debit Suspense $360, Credit Debtor $360 and re-post the sale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a partnership, Partner A has a capital of $40,000 and Partner B has a capital of $30,000. They share profits in the ratio 3:2. If the net profit before appropriations is $25,000 and Partner A receives a salary of $5,000, how much does Partner B receive from profit sharing?",
+    "options": [
+      "$8,000",
+      "$10,000",
+      "$6,000",
+      "$12,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a contra entry in a cash book?",
+    "options": [
+      "Receiving payment from a debtor",
+      "Paying wages in cash",
+      "Transferring cash from the cash till to the bank",
+      "Recording a dishonoured cheque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A limited liability company issues 100,000 ordinary shares at $2.50 each, with a par value of $1.00. What is the amount credited to the Share Premium account?",
+    "options": [
+      "$100,000",
+      "$150,000",
+      "$250,000",
+      "$200,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following errors would be detected by extracting a trial balance?",
+    "options": [
+      "Error of omission",
+      "Error of commission",
+      "A single entry made for a transaction",
+      "Error of original entry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A business has the following information: Opening inventory $12,000, Purchases $48,000, Closing inventory $8,000, Sales $80,000. What is the gross profit percentage (gross profit margin)?",
+    "options": [
+      "35%",
+      "40%",
+      "45%",
+      "52%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following would appear as a current liability on a company's statement of financial position?",
+    "options": [
+      "10-year bank loan",
+      "Debentures due in 2035",
+      "Bank overdraft",
+      "Motor vehicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In preparing a bank reconciliation statement, a direct debit of $500 appears in the bank statement but has NOT been recorded in the cash book. What adjustment is required?",
+    "options": [
+      "Add $500 to the cash book balance",
+      "Deduct $500 from the cash book balance",
+      "Add $500 to the bank statement balance",
+      "Deduct $500 from the bank statement balance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A sole trader's capital at the start of the year was $45,000. During the year, drawings were $12,000 and net profit was $18,000. Additional capital introduced was $5,000. What is the closing capital?",
+    "options": [
+      "$51,000",
+      "$56,000",
+      "$62,000",
+      "$48,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which accounting concept requires that if a business chooses a method of depreciation, it should apply that same method consistently from year to year?",
+    "options": [
+      "Prudence concept",
+      "Consistency concept",
+      "Going concern concept",
+      "Materiality concept"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A non-profit organisation's Receipts and Payments account shows total receipts of $85,000 and total payments of $72,000, with an opening cash balance of $3,000. What is the closing cash balance?",
+    "options": [
+      "$13,000",
+      "$16,000",
+      "$10,000",
+      "$19,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When a debtor's account is written off as a bad debt and later recovered in the same accounting period, which of the following correctly records the recovery?",
+    "options": [
+      "Debit Bank, Credit Bad Debts Recovered",
+      "Debit Debtor, Credit Bad Debts account, then Debit Bank, Credit Debtor",
+      "Debit Bad Debts Recovered, Credit Bank",
+      "Debit Provision for Doubtful Debts, Credit Debtor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's current ratio is 2.5:1 and its quick ratio (acid test) is 1.2:1. Current liabilities are $40,000. What is the value of inventory?",
+    "options": [
+      "$48,000",
+      "$52,000",
+      "$60,000",
+      "$44,000"
+    ],
+    "correctIndex": 1
+  }
+]

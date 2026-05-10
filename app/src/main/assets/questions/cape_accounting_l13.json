@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has a contribution margin ratio of 40% and fixed costs of $120,000. If the company desires a target profit of $60,000, what sales revenue is required?",
+    "options": [
+      "$300,000",
+      "$450,000",
+      "$400,000",
+      "$350,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 36, an impairment loss on a cash-generating unit (CGU) should be allocated in which order?",
+    "options": [
+      "Pro rata to all assets in the CGU",
+      "First to goodwill, then pro rata to other assets",
+      "First pro rata to other assets, then to goodwill",
+      "First to intangible assets, then to tangible assets, then to goodwill"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'substance over form' in financial reporting?",
+    "options": [
+      "Transactions are recorded based on their legal form rather than economic reality",
+      "Transactions are recorded to reflect their economic reality rather than strict legal form",
+      "Transactions are only recorded when cash is received or paid",
+      "Transactions must always follow the exact wording of accounting standards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bond with a face value of $100,000 and a coupon rate of 8% is issued when the market interest rate is 10%. The bond will be issued at:",
+    "options": [
+      "A premium, because the coupon rate exceeds the market rate",
+      "Par value, since face value equals market value",
+      "A discount, because the market rate exceeds the coupon rate",
+      "A premium, because the market rate exceeds the coupon rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under IFRS 15, revenue from contracts with customers is recognised when:",
+    "options": [
+      "A contract is signed with the customer",
+      "Cash is received from the customer",
+      "A performance obligation is satisfied and control transfers to the customer",
+      "The invoice is issued to the customer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a partnership, the residual profit is shared in the ratio 3:2:1 among partners A, B, and C respectively. After charging salaries (A=$15,000, B=$12,000) and interest on capital of $8,000 to A and $5,000 to B, the net profit before appropriations is $90,000. What is partner C's share of the residual profit?",
+    "options": [
+      "$8,333",
+      "$25,000",
+      "$16,667",
+      "$10,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a 'window dressing' technique that a company might use to manipulate its current ratio?",
+    "options": [
+      "Accelerating depreciation at year-end",
+      "Paying off short-term liabilities just before the balance sheet date using cash reserves",
+      "Revaluing non-current assets upward",
+      "Capitalising research expenditure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 12, a deferred tax liability arises when:",
+    "options": [
+      "The carrying amount of an asset is less than its tax base",
+      "The carrying amount of a liability is less than its tax base",
+      "The carrying amount of an asset exceeds its tax base",
+      "The carrying amount of a liability exceeds its tax base"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A manufacturing company uses a standard costing system. The labour efficiency variance is $6,000 adverse and the labour rate variance is $2,000 favourable. Which of the following scenarios is the most likely cause of these variances?",
+    "options": [
+      "Highly skilled workers were employed at a lower wage rate, completing work faster than standard",
+      "Less skilled workers were employed at a lower wage rate, taking longer than standard to complete work",
+      "Workers were paid above standard rate but completed work in less than standard time",
+      "The standard hours were set too loosely and actual wages increased"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the accounting treatment for a finance lease in the books of the lessee under IFRS 16?",
+    "options": [
+      "The lease payments are expensed on a straight-line basis over the lease term",
+      "A right-of-use asset and a lease liability are recognised at the commencement of the lease",
+      "Only the interest component of lease payments is recognised as an expense",
+      "The asset is recorded on the lessor's statement of financial position"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's equity section shows: Share capital $200,000, Share premium $50,000, Retained earnings $80,000. The company makes a bonus issue of 1 share for every 5 held, using the share premium account. If shares have a par value of $2, what is the share premium balance after the bonus issue?",
+    "options": [
+      "$10,000",
+      "$30,000",
+      "$50,000",
+      "$0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In preparing a consolidated statement of financial position, how is a non-controlling interest (NCI) measured under the full goodwill method?",
+    "options": [
+      "At the NCI's proportionate share of the subsidiary's identifiable net assets",
+      "At the fair value of the NCI's shareholding at the acquisition date",
+      "At the carrying amount of the subsidiary's net assets attributable to NCI",
+      "At the NCI's proportionate share of the subsidiary's book value of net assets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The following data relates to a company: Opening inventory $40,000, Closing inventory $55,000, Cost of goods sold $310,000. What was the inventory turnover period (in days), using closing inventory?",
+    "options": [
+      "47.3 days",
+      "64.7 days",
+      "52.4 days",
+      "57.8 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 37, which of the following should be recognised as a provision?",
+    "options": [
+      "A possible obligation where an outflow is not probable",
+      "A contingent asset where inflow is virtually certain",
+      "A present obligation where an outflow is probable and can be reliably estimated",
+      "A constructive obligation where outflow is only possible"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company reports the following: Net profit after tax $180,000; Depreciation $30,000; Increase in receivables $20,000; Decrease in payables $15,000; Increase in inventory $10,000. What is the net cash flow from operating activities using the indirect method?",
+    "options": [
+      "$165,000",
+      "$185,000",
+      "$195,000",
+      "$155,000"
+    ],
+    "correctIndex": 0
+  }
+]

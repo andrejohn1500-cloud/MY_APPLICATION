@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A regular hexagonal prism is cut by an oblique plane that passes through one lateral edge and a point on the opposite face. What is the true shape of the resulting cross-section?",
+    "options": [
+      "A rectangle",
+      "A trapezium",
+      "An irregular hexagon",
+      "A parallelogram"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first-angle orthographic projection, where is the plan view positioned relative to the front elevation?",
+    "options": [
+      "Above the front elevation",
+      "Below the front elevation",
+      "To the right of the front elevation",
+      "To the left of the front elevation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When constructing an involute of a circle with radius r, the length of the tangent drawn from any point on the involute to the circle equals which of the following?",
+    "options": [
+      "The arc length from the starting point to the point of tangency",
+      "The circumference of the circle",
+      "The diameter of the circle",
+      "Half the arc length from the starting point"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cone with base diameter 60 mm and height 80 mm is cut by a plane parallel to a slant side (generator). The curve of intersection produced is a:",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In isometric drawing, the three isometric axes are inclined at which angles to the horizontal?",
+    "options": [
+      "30\u00b0, 30\u00b0, and 90\u00b0",
+      "45\u00b0, 45\u00b0, and 90\u00b0",
+      "60\u00b0, 60\u00b0, and 90\u00b0",
+      "30\u00b0, 60\u00b0, and 90\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When developing the lateral surface of an oblique cylinder, which method is most appropriate?",
+    "options": [
+      "Radial line development",
+      "Parallel line development",
+      "Triangulation",
+      "Approximate development"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A point P is located 40 mm from the directrix and 30 mm from the focus of a conic section. The eccentricity of this conic is:",
+    "options": [
+      "0.75",
+      "1.33",
+      "1.00",
+      "0.50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a third-angle projection drawing, the right-side view is positioned:",
+    "options": [
+      "To the left of the front elevation",
+      "To the right of the front elevation",
+      "Above the front elevation",
+      "Below the front elevation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The locus of a point that moves such that its distance from a fixed point equals its distance from a fixed straight line describes which curve?",
+    "options": [
+      "Ellipse",
+      "Hyperbola",
+      "Parabola",
+      "Cycloid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When drawing the auxiliary view of an object to find the true shape of an inclined surface, the auxiliary plane of projection must be placed:",
+    "options": [
+      "Perpendicular to the inclined surface",
+      "Parallel to the inclined surface",
+      "At 45\u00b0 to the inclined surface",
+      "At 30\u00b0 to the horizontal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A right circular cylinder is intersected by another cylinder of equal diameter with their axes crossing at right angles. The curve of intersection at the top of the joint is best described as:",
+    "options": [
+      "An ellipse",
+      "Two straight lines forming a cross",
+      "A series of arcs of a circle",
+      "A sine curve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the development of a right pyramid, the slant height used as the radius of the radial arc is measured from:",
+    "options": [
+      "The apex to the midpoint of the base edge",
+      "The apex to a base corner",
+      "The centroid of the base to a corner",
+      "The midpoint of one base edge to the midpoint of the opposite edge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of line is used in technical drawing to represent a feature that is hidden behind a visible surface?",
+    "options": [
+      "Continuous thin line",
+      "Chain line",
+      "Short dashed line",
+      "Continuous thick line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A helical spring has a mean coil diameter of 50 mm and a pitch of 30 mm. The helix angle of the spring is approximately:",
+    "options": [
+      "10.9\u00b0",
+      "17.1\u00b0",
+      "30.0\u00b0",
+      "6.5\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When applying the rabatment method to find the true length of an oblique line in descriptive geometry, the line is rotated about which axis?",
+    "options": [
+      "The ground line XY",
+      "A perpendicular from the line to the picture plane",
+      "A projector from one of the line's endpoints",
+      "A line parallel to the folding line through one endpoint"
+    ],
+    "correctIndex": 3
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard angle used in isometric drawing?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of line is used to represent a hidden edge in orthographic projection?",
+    "options": [
+      "Continuous thin line",
+      "Dashed thin line",
+      "Chain line",
+      "Continuous thick line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first angle projection, where is the front view placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the left of the plan view",
+      "To the right of the plan view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the abbreviation 'R' stand for on a technical drawing?",
+    "options": [
+      "Rectangle",
+      "Radius",
+      "Right angle",
+      "Ratio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure and draw angles in technical drawing?",
+    "options": [
+      "Compass",
+      "Set square",
+      "Protractor",
+      "Divider"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many views are typically used in a standard orthographic projection?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of projection shows all three dimensions of an object in a single view using 30-degree angles?",
+    "options": [
+      "Oblique projection",
+      "Orthographic projection",
+      "Isometric projection",
+      "Perspective projection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In oblique drawing, the receding lines are drawn at which angle to the horizontal?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which geometric construction is used to bisect a line segment?",
+    "options": [
+      "Drawing parallel lines",
+      "Using arcs from both endpoints",
+      "Drawing a perpendicular from one end",
+      "Using a protractor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a centre line in technical drawing?",
+    "options": [
+      "To show hidden features",
+      "To indicate the axis of symmetry or centre of circles",
+      "To outline the object",
+      "To show cutting planes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hexagon has how many sides?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In third angle projection, the right side view is placed on which side of the front view?",
+    "options": [
+      "Left side",
+      "Right side",
+      "Above",
+      "Below"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What scale would be used to draw an object twice its actual size?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "1:4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of drawing shows the internal details of an object by cutting through it?",
+    "options": [
+      "Exploded view",
+      "Isometric view",
+      "Sectional view",
+      "Perspective view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is used to draw circles and arcs in technical drawing?",
+    "options": [
+      "Ruler",
+      "Set square",
+      "Compass",
+      "Protractor"
+    ],
+    "correctIndex": 2
+  }
+]

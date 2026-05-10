@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of line is used to represent hidden edges in orthographic projection?",
+    "options": [
+      "A continuous thin line",
+      "A short dashed line",
+      "A chain line",
+      "A continuous thick line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first angle orthographic projection, where is the front view placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the included angle of a metric screw thread?",
+    "options": [
+      "55 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A regular hexagon is inscribed in a circle of diameter 80 mm. What is the length of each side of the hexagon?",
+    "options": [
+      "20 mm",
+      "30 mm",
+      "40 mm",
+      "50 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which section view shows only one half of a symmetrical object cut along its axis of symmetry?",
+    "options": [
+      "Full section",
+      "Revolved section",
+      "Half section",
+      "Offset section"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In isometric drawing, the three principal axes are drawn at which angles to the horizontal?",
+    "options": [
+      "30 degrees, 90 degrees and 150 degrees",
+      "0 degrees, 60 degrees and 120 degrees",
+      "30 degrees, 60 degrees and 90 degrees",
+      "45 degrees, 90 degrees and 135 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When drawing an ellipse using the trammel method, the trammel is set to half the lengths of which two axes?",
+    "options": [
+      "The chord and the arc",
+      "The major and minor axes",
+      "The horizontal and vertical axes of the drawing sheet",
+      "The diameter and the radius"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the symbol 'R' followed by a number indicate on an engineering drawing?",
+    "options": [
+      "A diameter dimension",
+      "A radius dimension",
+      "A reference number",
+      "A roughness value"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which geometric construction is used to bisect a given angle?",
+    "options": [
+      "Drawing a perpendicular from the vertex",
+      "Drawing arcs from the vertex and then from the intersection points on the angle arms",
+      "Drawing a line parallel to one arm of the angle",
+      "Measuring half the angle with a protractor and marking it"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A scale of 1:5 means that the drawing is drawn at what size relative to the actual object?",
+    "options": [
+      "Five times larger than the object",
+      "The same size as the object",
+      "One fifth of the actual size of the object",
+      "Five times smaller and then enlarged"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of cam follower moves in a straight line directly above the cam centre?",
+    "options": [
+      "Offset follower",
+      "Knife-edge follower",
+      "Roller follower",
+      "In-line follower"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a development of a right cylinder, the length of the rectangle representing the lateral surface equals which measurement of the cylinder?",
+    "options": [
+      "The diameter",
+      "The radius",
+      "The circumference",
+      "Twice the height"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which line type is used to show the path of motion of a moving part on an engineering drawing?",
+    "options": [
+      "A continuous thick line",
+      "A chain line with double dashes",
+      "A continuous thin wavy line",
+      "A short dashed thin line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When two circles are externally tangent, the distance between their centres equals which of the following?",
+    "options": [
+      "The difference of their radii",
+      "The product of their radii",
+      "The sum of their radii",
+      "The average of their radii"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In third angle orthographic projection, where is the right side view placed?",
+    "options": [
+      "To the left of the front view",
+      "Below the front view",
+      "Above the front view",
+      "To the right of the front view"
+    ],
+    "correctIndex": 3
+  }
+]

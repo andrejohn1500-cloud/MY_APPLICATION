@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following represents the correct electron configuration for a sodium atom (atomic number 11)?",
+    "options": [
+      "2, 8, 1",
+      "2, 9",
+      "2, 7, 2",
+      "8, 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of bonding is present in a molecule of water (H\u2082O)?",
+    "options": [
+      "Ionic bonding",
+      "Metallic bonding",
+      "Covalent bonding",
+      "Hydrogen bonding between atoms within the molecule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A substance has a pH of 3. Which statement best describes this substance?",
+    "options": [
+      "It is a strong alkali",
+      "It is a weak alkali",
+      "It is a strong acid",
+      "It is a weak acid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following gases is produced when dilute hydrochloric acid reacts with zinc metal?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Chlorine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the relative formula mass of calcium carbonate (CaCO\u2083)? [Ca=40, C=12, O=16]",
+    "options": [
+      "68",
+      "84",
+      "100",
+      "116"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During electrolysis of dilute sulfuric acid, which gas is produced at the cathode?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Sulfur dioxide",
+      "Chlorine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a physical change?",
+    "options": [
+      "Burning wood",
+      "Rusting of iron",
+      "Melting of ice",
+      "Neutralisation of an acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the oxidation state of sulfur in H\u2082SO\u2084?",
+    "options": [
+      "+ 2",
+      "+ 4",
+      "+ 6",
+      "+ 8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement correctly describes an exothermic reaction?",
+    "options": [
+      "Energy is absorbed from the surroundings",
+      "The temperature of the surroundings decreases",
+      "Energy is released to the surroundings",
+      "The activation energy is always zero"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many moles of atoms are present in 16 g of oxygen gas (O\u2082)? [O = 16]",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "16"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the correct formula for iron(III) oxide?",
+    "options": [
+      "FeO",
+      "Fe\u2082O\u2083",
+      "Fe\u2083O\u2084",
+      "FeO\u2082"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Crude oil is separated into useful fractions by which process?",
+    "options": [
+      "Chromatography",
+      "Fractional distillation",
+      "Simple distillation",
+      "Filtration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a property of metals?",
+    "options": [
+      "Good conductors of electricity",
+      "Malleable and ductile",
+      "High melting points generally",
+      "Poor conductors of heat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the Haber process, nitrogen and hydrogen react to form ammonia. What are the conditions used?",
+    "options": [
+      "Low temperature, low pressure, no catalyst",
+      "High temperature (~450\u00b0C), high pressure (~200 atm), iron catalyst",
+      "Low temperature, high pressure, platinum catalyst",
+      "High temperature (~1000\u00b0C), low pressure, iron catalyst"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which indicator would you use to identify the end point in a titration between sodium hydroxide and hydrochloric acid?",
+    "options": [
+      "Starch solution",
+      "Litmus",
+      "Phenolphthalein",
+      "Benedict's solution"
+    ],
+    "correctIndex": 2
+  }
+]

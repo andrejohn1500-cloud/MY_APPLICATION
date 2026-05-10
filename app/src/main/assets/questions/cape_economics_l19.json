@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In the context of national income accounting, which of the following correctly distinguishes Gross National Product (GNP) from Gross Domestic Product (GDP)?",
+    "options": [
+      "GNP excludes depreciation while GDP includes it",
+      "GNP adds net factor income from abroad to GDP",
+      "GNP is always larger than GDP for developing nations",
+      "GNP measures only the output of the government sector"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A monopsonist in the labour market will hire workers up to the point where:",
+    "options": [
+      "The wage rate equals the marginal revenue product of labour",
+      "The marginal factor cost equals the marginal revenue product of labour",
+      "The average factor cost equals the average revenue product of labour",
+      "The wage rate equals the average revenue product of labour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the J-curve effect following a currency depreciation?",
+    "options": [
+      "The current account improves immediately then worsens over time",
+      "The current account initially worsens before improving as trade volumes adjust",
+      "The capital account surplus increases then decreases after depreciation",
+      "Inflation falls immediately but rises again after one year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under a system of tradable pollution permits, the equilibrium price of a permit is determined by:",
+    "options": [
+      "The government setting a fixed price equal to the social cost of pollution",
+      "The intersection of the supply of permits issued and the demand derived from firms' marginal abatement costs",
+      "The average cost of pollution abatement across all firms in the industry",
+      "The marginal private cost of production in the most polluting industry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Mundell-Fleming model with a fixed exchange rate and perfect capital mobility, fiscal policy is:",
+    "options": [
+      "Completely ineffective because the money supply adjusts to maintain the exchange rate",
+      "Highly effective because capital inflows prevent crowding out of investment",
+      "Ineffective because the central bank must sterilise all capital flows",
+      "Highly effective only when the economy is operating below potential output"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The kinked demand curve model of oligopoly predicts price rigidity primarily because:",
+    "options": [
+      "Firms collude to maintain a cartel price above the competitive equilibrium",
+      "Rivals match price decreases but ignore price increases, creating a discontinuity in marginal revenue",
+      "The government imposes price controls that prevent oligopolists from changing prices",
+      "Firms face perfectly elastic demand above the kink and perfectly inelastic demand below it"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which condition must hold for a third-degree price discriminating monopolist to maximise profit across two markets?",
+    "options": [
+      "The price elasticity of demand must be equal in both markets",
+      "The marginal revenue in each market must equal the common marginal cost of production",
+      "The price charged in the less elastic market must equal average total cost",
+      "Total revenue must be equal across the two separate markets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Heckscher-Ohlin theory of international trade, a capital-abundant country will have a comparative advantage in:",
+    "options": [
+      "Labour-intensive goods because wages are relatively low",
+      "Capital-intensive goods because the relative price of capital is lower",
+      "All goods because it has an absolute advantage in production",
+      "Technology-intensive goods regardless of its factor endowment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'crowding out' in fiscal policy refers to:",
+    "options": [
+      "Government expenditure replacing private consumption through taxation",
+      "Government borrowing raising interest rates and reducing private sector investment",
+      "An increase in the money supply lowering bond prices and raising yields",
+      "Fiscal deficits causing inflation that erodes private sector real incomes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is most consistent with the Efficient Market Hypothesis (EMH) in its strong form?",
+    "options": [
+      "Technical analysis of past price movements can generate consistent abnormal returns",
+      "Neither fundamental analysis nor insider information can consistently beat the market",
+      "Publicly available information can be used to earn abnormal returns in the short run",
+      "Only government insiders can predict future movements in asset prices"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a two-sector economy, the government expenditure multiplier exceeds the tax multiplier in absolute value because:",
+    "options": [
+      "Government spending is subject to the accelerator effect while taxes are not",
+      "Government spending directly increases aggregate demand by the full amount whereas a tax cut is partly saved",
+      "Taxes reduce the price level while government spending increases real output directly",
+      "The marginal propensity to consume is greater than the marginal propensity to save"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Lorenz curve and Gini coefficient measure income inequality. Which of the following statements about the Gini coefficient is correct?",
+    "options": [
+      "A Gini coefficient of 1 represents perfect equality of income distribution",
+      "A higher Gini coefficient indicates greater income inequality in a society",
+      "The Gini coefficient is calculated as the area under the Lorenz curve divided by 0.5",
+      "A Gini coefficient below 0.3 indicates that a country has no poverty"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under purchasing power parity (PPP) theory, in the long run the exchange rate between two currencies should reflect:",
+    "options": [
+      "Differences in nominal interest rates between the two countries",
+      "Differences in price levels so that a basket of goods costs the same in both countries",
+      "The ratio of each country's current account balance to its GDP",
+      "Relative differences in each country's money supply growth rate only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of Caribbean development economics, the 'plantation economy' model developed by Lloyd Best argues that Caribbean economies are structurally constrained primarily because:",
+    "options": [
+      "They lack natural resources necessary for industrialisation",
+      "Economic decisions and surplus extraction are externally oriented, inhibiting internal linkages and autonomous development",
+      "Caribbean governments pursue inappropriate import substitution industrialisation policies",
+      "The Caribbean labour force lacks the human capital required for structural transformation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'X-inefficiency' as introduced by Harvey Leibenstein?",
+    "options": [
+      "The welfare loss arising from a monopolist charging a price above marginal cost",
+      "The failure of firms to minimise costs due to lack of competitive pressure, resulting in productive inefficiency",
+      "The allocative inefficiency caused by externalities in perfectly competitive markets",
+      "The technical inefficiency resulting from firms operating below minimum efficient scale"
+    ],
+    "correctIndex": 1
+  }
+]

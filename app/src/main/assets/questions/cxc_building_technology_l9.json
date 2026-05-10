@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a building constructed on soft, waterlogged soil?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Stepped foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a damp-proof course (DPC) in a wall?",
+    "options": [
+      "To increase the wall's load-bearing capacity",
+      "To prevent moisture from rising through the wall",
+      "To provide thermal insulation",
+      "To improve the aesthetic appearance of the wall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following materials is commonly used as a fine aggregate in concrete production?",
+    "options": [
+      "Gravel",
+      "Sand",
+      "Crushed stone",
+      "Limestone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard water-cement ratio used in normal concrete mixing?",
+    "options": [
+      "0.3 to 0.4",
+      "0.4 to 0.6",
+      "0.7 to 0.9",
+      "1.0 to 1.2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In building construction, what does the term 'curing' of concrete refer to?",
+    "options": [
+      "Mixing concrete with the correct amount of water",
+      "Removing formwork after concrete has set",
+      "Maintaining moisture and temperature to ensure proper hydration",
+      "Testing concrete for compressive strength"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of roof truss is most commonly used in Caribbean residential construction?",
+    "options": [
+      "Mansard truss",
+      "King post truss",
+      "Scissor truss",
+      "Bowstring truss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a lintel in building construction?",
+    "options": [
+      "To support the floor above a basement",
+      "To span an opening and support the load above it",
+      "To connect two walls at a corner",
+      "To provide a decorative border around windows"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which bond pattern involves alternating courses of headers and stretchers?",
+    "options": [
+      "English bond",
+      "Flemish bond",
+      "Stretcher bond",
+      "Garden wall bond"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended minimum overlap for roof tiles to ensure weatherproofing?",
+    "options": [
+      "50 mm",
+      "75 mm",
+      "100 mm",
+      "150 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of pipe joint is used to connect PVC pipes in plumbing installations?",
+    "options": [
+      "Butt weld joint",
+      "Solvent cement joint",
+      "Compression joint",
+      "Lead-caulked joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical installations, what is the function of a circuit breaker?",
+    "options": [
+      "To increase voltage in the circuit",
+      "To automatically disconnect the circuit when overloaded",
+      "To measure current flow in the circuit",
+      "To convert AC current to DC current"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of timber defect is caused by the growth of fungi in wood?",
+    "options": [
+      "Shakes",
+      "Knots",
+      "Rot (decay)",
+      "Warping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a load-bearing wall?",
+    "options": [
+      "It can be removed without affecting structural stability",
+      "It transfers loads from the roof and floors to the foundation",
+      "It is always constructed using glass blocks",
+      "It is only found in single-storey buildings"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of reinforcement steel in concrete construction?",
+    "options": [
+      "To reduce the weight of the concrete",
+      "To improve the tensile strength of the concrete",
+      "To increase the workability of the concrete mix",
+      "To prevent the concrete from absorbing water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used on a construction site to establish true horizontal levels?",
+    "options": [
+      "Theodolite",
+      "Builder's square",
+      "Dumpy level",
+      "Plumb bob"
+    ],
+    "correctIndex": 2
+  }
+]

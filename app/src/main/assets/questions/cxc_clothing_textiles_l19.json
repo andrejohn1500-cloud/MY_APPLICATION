@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which type of seam is most suitable for sheer fabrics to prevent fraying while maintaining a neat appearance on both sides?",
+    "options": [
+      "A French seam",
+      "B flat-felled seam",
+      "C overlocked seam",
+      "D welt seam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The grain of a fabric refers to the direction of the yarns in the cloth. Which statement correctly describes the bias grain?",
+    "options": [
+      "A It runs parallel to the selvage",
+      "B It runs perpendicular to the selvage",
+      "C It runs at a 45-degree angle to both the warp and weft",
+      "D It runs along the weft threads only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When constructing a tailored jacket, which type of interfacing would provide the best structure and support for the collar and lapels?",
+    "options": [
+      "A knitted fusible interfacing",
+      "B woven sew-in interfacing",
+      "C non-woven fusible interfacing",
+      "D self-fabric interfacing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A designer wants to create visual width across the hips of a garment. Which design principle would best achieve this effect?",
+    "options": [
+      "A vertical lines in the design",
+      "B diagonal lines pointing upward",
+      "C horizontal lines placed at hip level",
+      "D curved lines at the waistline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fibre property explains why wool garments must be handled carefully during laundering to prevent shrinkage?",
+    "options": [
+      "A wool has low moisture regain",
+      "B wool fibres have scales that interlock when agitated in hot water causing felting",
+      "C wool has a high tenacity when wet",
+      "D wool is highly thermoplastic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In pattern grading, what is the primary purpose of the process?",
+    "options": [
+      "A to transfer markings from tissue paper to fabric",
+      "B to create ease allowance in a basic block",
+      "C to systematically increase or decrease a pattern to produce a range of sizes",
+      "D to add seam allowances to a drafted pattern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which weave structure produces a fabric with a characteristic diagonal rib and is known for its durability, such as denim?",
+    "options": [
+      "A plain weave",
+      "B satin weave",
+      "C twill weave",
+      "D leno weave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ease in pattern making refers to which of the following?",
+    "options": [
+      "A the decorative tucks added to a garment",
+      "B the extra fabric added beyond body measurements to allow for movement and comfort",
+      "C the reduction made at the waistline to create a fitted silhouette",
+      "D the distance between the stitching lines on a seam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A garment labelled 100% acetate should be laundered by which method?",
+    "options": [
+      "A machine washed in hot water",
+      "B dry cleaned only or hand washed in cool water with gentle detergent",
+      "C boiled to sterilize",
+      "D machine washed with heavy-duty detergent in warm water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "Which drafting method uses a set of measurements taken directly from the body to create an individual pattern?",
+    "question": "Which drafting method uses a set of measurements taken directly from the body to create an individual pattern?",
+    "options": [
+      "A the block or sloper method",
+      "B the flat pattern method",
+      "C the direct or measurement drafting method",
+      "D the draping method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'planned obsolescence' in the fashion industry is best described as which of the following?",
+    "options": [
+      "A designing garments that are intentionally made to be recycled",
+      "B deliberately designing products with a limited useful life to encourage consumers to purchase replacements",
+      "C planning production schedules to meet seasonal demand",
+      "D using obsolete machinery to reduce production costs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of dart manipulation technique involves pivoting the dart to a new position while maintaining the fit of the original block?",
+    "options": [
+      "A slash and spread",
+      "B pivot method",
+      "C contour dart",
+      "D released tuck method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nylon is considered a synthetic polymer fibre. Which statement best describes a key characteristic that distinguishes nylon from natural fibres?",
+    "options": [
+      "A nylon has poor abrasion resistance compared to cotton",
+      "B nylon is derived from cellulose extracted from wood pulp",
+      "C nylon is produced by chemical synthesis from petrochemical sources and has high elasticity and abrasion resistance",
+      "D nylon absorbs large quantities of moisture making it ideal for towelling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When assessing the quality of a finished garment, which term describes the accurate matching of plaids or stripes at the seam lines?",
+    "options": [
+      "A balance",
+      "B symmetry",
+      "C pattern matching",
+      "D grain alignment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which finishing process applied to cotton fabric makes it resistant to wrinkling and helps retain its pressed shape by forming cross-links between cellulose molecules?",
+    "options": [
+      "A mercerization",
+      "B sanforizing",
+      "C resin or durable press finish",
+      "D calendering"
+    ],
+    "correctIndex": 2
+  }
+]

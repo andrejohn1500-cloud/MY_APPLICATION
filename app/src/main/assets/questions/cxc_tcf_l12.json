@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a three-phase AC circuit, what is the relationship between line voltage (VL) and phase voltage (Vph) in a delta-connected system?",
+    "options": [
+      "VL = \u221a3 \u00d7 Vph",
+      "VL = Vph",
+      "VL = Vph / \u221a3",
+      "VL = 3 \u00d7 Vph"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hydraulic press uses a small piston of area 0.01 m\u00b2 and a large piston of area 0.5 m\u00b2. If a force of 200 N is applied to the small piston, what force is exerted by the large piston?",
+    "options": [
+      "4000 N",
+      "10000 N",
+      "2000 N",
+      "400 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which heat treatment process involves heating steel above its critical temperature and then cooling it slowly in the furnace to relieve internal stresses and improve machinability?",
+    "options": [
+      "Normalising",
+      "Quenching",
+      "Annealing",
+      "Tempering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a PLC ladder logic diagram, which symbol represents a normally closed contact?",
+    "options": [
+      "A pair of parallel vertical lines",
+      "A pair of parallel vertical lines with a diagonal slash",
+      "A circle",
+      "A rectangle with a coil symbol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shaft rotating at 1500 RPM transmits 30 kW of power. What is the torque transmitted by the shaft?",
+    "options": [
+      "191 Nm",
+      "382 Nm",
+      "95.5 Nm",
+      "573 Nm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of transistor configuration provides the highest voltage gain but has a phase inversion of 180\u00b0 between input and output signals?",
+    "options": [
+      "Common base",
+      "Common collector",
+      "Common emitter",
+      "Emitter follower"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In welding, the term 'duty cycle' refers to:",
+    "options": [
+      "The number of weld passes completed per hour",
+      "The percentage of a 10-minute period that a welding machine can operate at a rated current without overheating",
+      "The ratio of filler metal deposited to electrode consumed",
+      "The frequency of electrode replacement during continuous welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gear train consists of a driver gear with 20 teeth and a driven gear with 80 teeth. If the driver rotates at 400 RPM, what is the speed of the driven gear and the gear ratio?",
+    "options": [
+      "100 RPM, gear ratio 4:1",
+      "200 RPM, gear ratio 2:1",
+      "1600 RPM, gear ratio 1:4",
+      "50 RPM, gear ratio 8:1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of bearing is most suitable for applications involving high radial loads combined with moderate axial thrust loads, such as in automotive wheel hubs?",
+    "options": [
+      "Deep groove ball bearing",
+      "Needle roller bearing",
+      "Tapered roller bearing",
+      "Cylindrical roller bearing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical installations, the purpose of a Residual Current Device (RCD) is to:",
+    "options": [
+      "Protect against overloads by interrupting the circuit when current exceeds a set value",
+      "Detect earth leakage current imbalances between live and neutral conductors and disconnect the supply",
+      "Step down voltage to a safe level for sensitive equipment",
+      "Prevent voltage surges from damaging connected appliances"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of flux during soldering and brazing operations?",
+    "options": [
+      "To increase the melting point of the filler metal",
+      "To prevent oxidation of the base metal and filler metal surfaces during heating",
+      "To provide additional filler material to fill large gaps",
+      "To harden the joint after cooling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A single-phase transformer has 500 primary turns and 100 secondary turns. If the primary voltage is 240V and the primary current is 2A, calculate the secondary voltage and secondary current (assuming ideal transformer).",
+    "options": [
+      "48V and 10A",
+      "1200V and 0.4A",
+      "48V and 0.4A",
+      "1200V and 10A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In pneumatic systems, what is the primary purpose of an air receiver (reservoir) tank installed after the compressor?",
+    "options": [
+      "To filter moisture and oil contamination from compressed air",
+      "To store compressed air, dampen pressure pulsations, and act as a buffer during peak demand",
+      "To regulate the pressure to a constant working level for all downstream equipment",
+      "To convert compressed air energy into mechanical rotational motion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following material properties describes a material's ability to absorb energy and plastically deform before fracturing, as indicated by the area under the stress-strain curve?",
+    "options": [
+      "Hardness",
+      "Resilience",
+      "Toughness",
+      "Ductility"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In CNC machining, G-code G96 activates which cutting mode?",
+    "options": [
+      "Rapid traverse mode",
+      "Constant surface speed (CSS) mode",
+      "Absolute positioning mode",
+      "Canned drilling cycle mode"
+    ],
+    "correctIndex": 1
+  }
+]

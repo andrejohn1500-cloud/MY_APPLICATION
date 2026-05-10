@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the role of the sodium-potassium pump in maintaining the resting membrane potential of a neuron?",
+    "options": [
+      "It passively transports 3 Na\u207a out and 2 K\u207a in, making the inside more negative",
+      "It actively transports 3 Na\u207a out and 2 K\u207a in, contributing to a net negative charge inside the cell",
+      "It actively transports 2 Na\u207a out and 3 K\u207a in, depolarizing the membrane",
+      "It passively allows equal exchange of Na\u207a and K\u207a, maintaining electrochemical equilibrium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which of the following correctly describes the fate of water molecules?",
+    "options": [
+      "Water is split by photolysis to provide electrons to Photosystem II, releasing O\u2082 as a byproduct",
+      "Water combines with CO\u2082 in the stroma to produce glucose and O\u2082",
+      "Water donates hydrogen ions directly to the Calvin cycle to reduce CO\u2082",
+      "Water is oxidized in Photosystem I to regenerate NADP\u207a"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cell with a water potential of -600 kPa is placed in a solution with a water potential of -400 kPa. Which of the following will occur?",
+    "options": [
+      "Water moves into the cell by osmosis, causing the cell to become turgid",
+      "Water moves out of the cell by osmosis, causing the cell to become plasmolysed",
+      "No net movement of water occurs because the system is at equilibrium",
+      "Solutes move from the cell into the solution to equalise concentrations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements correctly distinguishes between competitive and non-competitive enzyme inhibition?",
+    "options": [
+      "Competitive inhibitors bind to the allosteric site and change enzyme shape; non-competitive inhibitors bind to the active site",
+      "Competitive inhibitors can be overcome by increasing substrate concentration; non-competitive inhibitors cannot",
+      "Both types of inhibitors form permanent covalent bonds with the enzyme",
+      "Non-competitive inhibitors increase Vmax while competitive inhibitors decrease Km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In meiosis, independent assortment of chromosomes occurs at which stage and is responsible for which genetic outcome?",
+    "options": [
+      "Metaphase I; the random orientation of bivalents increases genetic variation in gametes",
+      "Anaphase II; sister chromatids separate independently, increasing mutation rate",
+      "Prophase I; crossing over between non-homologous chromosomes creates new allele combinations",
+      "Telophase I; chromosomes condense independently, producing haploid cells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A patient is found to have a mutation in the gene encoding the beta subunit of haemoglobin, causing a single amino acid substitution of glutamic acid with valine. This condition results in which of the following molecular consequences?",
+    "options": [
+      "Decreased oxygen affinity due to disruption of the quaternary structure of haemoglobin",
+      "Hydrophobic patches on the haemoglobin surface that cause polymerization under low oxygen conditions",
+      "Increased oxygen affinity because valine binds oxygen more strongly than glutamic acid",
+      "Destruction of the haem group, preventing any oxygen binding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why the net gain of ATP from one molecule of glucose during aerobic respiration is approximately 36-38 ATP rather than exactly 38 ATP?",
+    "options": [
+      "Some ATP is used to activate glucose at the beginning of glycolysis and must be subtracted",
+      "The P/O ratio of the electron transport chain is not a whole number, and ATP synthase efficiency varies",
+      "Fermentation pathways run simultaneously, consuming some of the ATP produced",
+      "NADH produced in glycolysis cannot cross the inner mitochondrial membrane efficiently, reducing ATP yield"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the nitrogen cycle, which process is carried out by Rhizobium bacteria, and what is its significance?",
+    "options": [
+      "Nitrification; converting ammonium ions to nitrites and then nitrates that plants can absorb",
+      "Nitrogen fixation; converting atmospheric N\u2082 into ammonia, making nitrogen available to plants",
+      "Denitrification; converting nitrates back to N\u2082, reducing soil nitrogen content",
+      "Ammonification; decomposing organic matter to release ammonium ions into the soil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A student performs a gel electrophoresis experiment on DNA fragments. Fragment A (800 bp) and Fragment B (200 bp) are loaded. Which statement correctly predicts the result?",
+    "options": [
+      "Fragment A travels farther from the wells because larger fragments have more charge and move faster",
+      "Fragment B travels farther from the wells because smaller fragments experience less resistance through the gel matrix",
+      "Both fragments travel equal distances because DNA fragments carry uniform charge per base pair",
+      "Fragment A travels farther because agarose gel separates fragments by charge, not size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the mechanism by which antidiuretic hormone (ADH) regulates water reabsorption in the kidney?",
+    "options": [
+      "ADH binds to receptors on tubule cells and stimulates insertion of aquaporin channels into the collecting duct membrane",
+      "ADH acts on the loop of Henle to actively transport Na\u207a and Cl\u207b, creating an osmotic gradient",
+      "ADH stimulates the adrenal cortex to release aldosterone, which opens aquaporin channels",
+      "ADH directly opens water channels in the glomerulus, increasing filtration rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about the lac operon in E. coli is correct when both glucose and lactose are present in the environment?",
+    "options": [
+      "The lac operon is fully expressed because lactose removes the repressor from the operator",
+      "The lac operon is not fully expressed because catabolite repression reduces cAMP levels, limiting CAP activation",
+      "The lac operon is permanently switched off because glucose activates the repressor protein",
+      "The lac operon is expressed maximally because both inducers are present simultaneously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a nerve impulse, which of the following correctly describes the sequence of ionic events during depolarization?",
+    "options": [
+      "K\u207a channels open first, causing K\u207a to flow in and make the inside more positive",
+      "Voltage-gated Na\u207a channels open, Na\u207a flows into the axon down its electrochemical gradient, reversing the membrane potential",
+      "Cl\u207b channels open and anions flow out, increasing positive charge inside the neuron",
+      "Na\u207a is actively pumped into the cell, generating an action potential"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an ecosystem, the efficiency of energy transfer between trophic levels is typically 10%. If producers fix 10,000 kJ of energy, how much energy is available to secondary consumers?",
+    "options": [
+      "1000 kJ",
+      "100 kJ",
+      "10 kJ",
+      "500 kJ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A genetic cross between two heterozygous individuals for an autosomal recessive disorder produces 100 offspring. Based on Mendelian ratios, how many offspring would be expected to be carriers (heterozygous) but unaffected?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why the inner mitochondrial membrane must remain impermeable to most ions and molecules for efficient ATP synthesis?",
+    "options": [
+      "Impermeability prevents enzymes of the Krebs cycle from leaking out of the matrix",
+      "The proton gradient across the inner membrane drives ATP synthase; if ions could diffuse freely, the gradient would collapse and ATP production would cease",
+      "The membrane must exclude oxygen to prevent oxidative damage to the electron transport chain",
+      "Impermeability ensures that NADH cannot enter the intermembrane space and is reserved for the matrix"
+    ],
+    "correctIndex": 1
+  }
+]

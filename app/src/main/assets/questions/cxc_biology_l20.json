@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for joining Okazaki fragments during DNA replication?",
+    "options": [
+      "DNA polymerase III",
+      "DNA ligase",
+      "DNA helicase",
+      "Primase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which compound acts as the final electron acceptor?",
+    "options": [
+      "Carbon dioxide",
+      "NADP+",
+      "ATP",
+      "Water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A student observes that a plant wilts even when soil moisture is adequate. Which of the following best explains this observation?",
+    "options": [
+      "Excess transpiration due to open stomata",
+      "Root cells have a higher water potential than soil water",
+      "Damaged xylem vessels preventing water transport",
+      "Overproduction of abscisic acid closing stomata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dihybrid cross between two organisms that are both heterozygous for two unlinked traits, what is the probability of obtaining an offspring that is homozygous recessive for both traits?",
+    "options": [
+      "1/16",
+      "3/16",
+      "1/4",
+      "9/16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the role of the Bundle of His in cardiac conduction?",
+    "options": [
+      "Initiates the cardiac impulse at the sinoatrial node",
+      "Transmits impulses from the AV node to the ventricular walls",
+      "Delays the impulse between atria and ventricles",
+      "Repolarises the ventricular myocardium after contraction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During aerobic respiration, where does the Krebs cycle take place?",
+    "options": [
+      "Cytoplasm",
+      "Outer mitochondrial membrane",
+      "Mitochondrial matrix",
+      "Inner mitochondrial membrane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following hormones is produced by the alpha cells of the islets of Langerhans and its specific function?",
+    "options": [
+      "Insulin, stimulating glycogenesis in the liver",
+      "Glucagon, stimulating glycogenolysis in the liver",
+      "Somatostatin, inhibiting growth hormone release",
+      "Cortisol, promoting gluconeogenesis in the liver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cell with a water potential of -600 kPa is placed in a solution with a water potential of -400 kPa. What will occur?",
+    "options": [
+      "Water moves into the cell by osmosis",
+      "Water moves out of the cell by osmosis",
+      "There is no net movement of water",
+      "The cell undergoes plasmolysis immediately"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is the correct sequence of events during an action potential?",
+    "options": [
+      "Depolarisation, repolarisation, hyperpolarisation, resting potential restored",
+      "Hyperpolarisation, depolarisation, repolarisation, resting potential restored",
+      "Repolarisation, depolarisation, hyperpolarisation, resting potential restored",
+      "Depolarisation, hyperpolarisation, repolarisation, resting potential restored"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which phase of meiosis does crossing over between homologous chromosomes typically occur?",
+    "options": [
+      "Metaphase I",
+      "Prophase I",
+      "Anaphase II",
+      "Telophase I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of immunity involves the production of memory B cells following exposure to an antigen?",
+    "options": [
+      "Passive natural immunity",
+      "Passive artificial immunity",
+      "Active natural immunity",
+      "Innate immunity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A researcher finds that an enzyme has a Km of 2 mM and a Vmax of 100 \u03bcmol/min. If the substrate concentration is 2 mM, what is the reaction rate?",
+    "options": [
+      "100 \u03bcmol/min",
+      "75 \u03bcmol/min",
+      "50 \u03bcmol/min",
+      "25 \u03bcmol/min"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the mechanism by which ADH (antidiuretic hormone) increases water reabsorption in the kidney?",
+    "options": [
+      "It increases the active transport of sodium ions in the loop of Henle",
+      "It causes insertion of aquaporin channels into the collecting duct cells",
+      "It constricts the afferent arterioles reducing glomerular filtration",
+      "It stimulates aldosterone release from the adrenal medulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the nitrogen cycle, which process converts nitrates back into atmospheric nitrogen gas?",
+    "options": [
+      "Nitrification",
+      "Ammonification",
+      "Nitrogen fixation",
+      "Denitrification"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following statements correctly distinguishes between allopatric and sympatric speciation?",
+    "options": [
+      "Allopatric speciation requires genetic mutation while sympatric speciation does not",
+      "Allopatric speciation occurs due to geographic isolation while sympatric speciation occurs without geographic isolation",
+      "Sympatric speciation always involves polyploidy while allopatric speciation never does",
+      "Allopatric speciation is faster than sympatric speciation in all known cases"
+    ],
+    "correctIndex": 1
+  }
+]

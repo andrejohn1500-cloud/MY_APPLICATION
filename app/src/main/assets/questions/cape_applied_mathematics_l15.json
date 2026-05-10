@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A random variable X follows a Poisson distribution with mean \u03bb. If P(X = 2) = P(X = 3), find the value of \u03bb.",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a linear programming problem, the feasible region is bounded by x + 2y \u2264 14, 3x + y \u2264 14, x \u2265 0, y \u2265 0. The maximum value of the objective function P = 5x + 4y occurs at which vertex?",
+    "options": [
+      "A. (0, 7)",
+      "B. (14/5, 28/5)",
+      "C. (4, 2)",
+      "D. (14/3, 0)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx(4 - x) for 0 \u2264 x \u2264 4, and 0 otherwise. What is the value of k?",
+    "options": [
+      "A. 3/32",
+      "B. 3/16",
+      "C. 1/8",
+      "D. 3/64"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.5, P(B) = 0.4, and P(A \u222a B) = 0.7. Which statement is correct?",
+    "options": [
+      "A. A and B are mutually exclusive and independent",
+      "B. A and B are neither mutually exclusive nor independent",
+      "C. A and B are mutually exclusive but not independent",
+      "D. A and B are independent but not mutually exclusive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The differential equation dy/dx + 2y = 4x has an integrating factor of:",
+    "options": [
+      "A. e^x",
+      "B. e^(2x)",
+      "C. e^(-2x)",
+      "D. 2e^x"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A sample of size n = 100 is drawn from a population with known standard deviation \u03c3 = 15. A 95% confidence interval for the population mean has width approximately:",
+    "options": [
+      "A. 2.94",
+      "B. 5.88",
+      "C. 4.41",
+      "D. 3.92"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "For a chi-squared goodness-of-fit test with 6 categories and all parameters estimated from the data (2 parameters estimated), the degrees of freedom are:",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 3",
+      "D. 6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A project activity network has the following critical path activities with durations (weeks): A(3), C(5), F(4), H(2). What is the minimum project completion time?",
+    "options": [
+      "A. 12 weeks",
+      "B. 14 weeks",
+      "C. 11 weeks",
+      "D. 16 weeks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mean and variance of a binomial distribution B(n, p) are 6 and 2.4 respectively. What are the values of n and p?",
+    "options": [
+      "A. n = 10, p = 0.6",
+      "B. n = 12, p = 0.5",
+      "C. n = 15, p = 0.4",
+      "D. n = 8, p = 0.75"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A queue at a service point has customers arriving at a Poisson rate of 4 per hour and service times that are exponentially distributed with mean 10 minutes. What is the traffic intensity (\u03c1)?",
+    "options": [
+      "A. 0.40",
+      "B. 0.67",
+      "C. 1.50",
+      "D. 2.50"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The general solution of the differential equation d\u00b2y/dx\u00b2 - 5(dy/dx) + 6y = 0 is:",
+    "options": [
+      "A. y = Ae^(2x) + Be^(3x)",
+      "B. y = Ae^(-2x) + Be^(-3x)",
+      "C. y = (A + Bx)e^(3x)",
+      "D. y = e^(2x)(A cos 3x + B sin 3x)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A hypothesis test is conducted at the 5% significance level (two-tailed). The test statistic z = 2.10. Which conclusion is correct?",
+    "options": [
+      "A. Reject H\u2080 since |z| > 1.645",
+      "B. Fail to reject H\u2080 since |z| < 2.576",
+      "C. Reject H\u2080 since |z| > 1.960",
+      "D. Fail to reject H\u2080 since |z| < 1.960"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a transportation problem, a basic feasible solution is degenerate when the number of allocated cells is:",
+    "options": [
+      "A. Equal to m + n - 1, where m = rows and n = columns",
+      "B. Less than m + n - 1",
+      "C. Greater than m + n - 1",
+      "D. Equal to m \u00d7 n"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The coefficient of determination R\u00b2 = 0.81 for a regression of Y on X. Which statement is most accurate?",
+    "options": [
+      "A. 81% of the variation in X is explained by Y",
+      "B. The correlation coefficient r = 0.66",
+      "C. 81% of the variation in Y is explained by the linear regression on X",
+      "D. The slope of the regression line is 0.81"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A continuous random variable X is uniformly distributed over [a, b]. If E(X) = 5 and Var(X) = 3, what are the values of a and b?",
+    "options": [
+      "A. a = 2, b = 8",
+      "B. a = 1, b = 9",
+      "C. a = 3, b = 7",
+      "D. a = 2, b = 10"
+    ],
+    "correctIndex": 0
+  }
+]

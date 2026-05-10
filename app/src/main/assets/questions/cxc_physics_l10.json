@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car travels 60 km north and then 80 km east. What is the magnitude of the resultant displacement?",
+    "options": [
+      "100 km",
+      "140 km",
+      "20 km",
+      "70 km"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Speed",
+      "Mass",
+      "Acceleration",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A force of 20 N acts on an object of mass 4 kg. What is the acceleration of the object?",
+    "options": [
+      "80 m/s\u00b2",
+      "5 m/s\u00b2",
+      "0.2 m/s\u00b2",
+      "24 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An object is dropped from rest and falls freely under gravity (g = 10 m/s\u00b2). What is its velocity after 3 seconds?",
+    "options": [
+      "3 m/s",
+      "10 m/s",
+      "30 m/s",
+      "90 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which law states that every action has an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Conservation of Momentum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wire of resistance 6 \u03a9 is connected in parallel with a wire of resistance 12 \u03a9. What is the combined resistance?",
+    "options": [
+      "18 \u03a9",
+      "4 \u03a9",
+      "2 \u03a9",
+      "9 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the unit of electrical power?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A transformer has 200 turns in the primary coil and 50 turns in the secondary coil. If the primary voltage is 240 V, what is the secondary voltage?",
+    "options": [
+      "960 V",
+      "60 V",
+      "120 V",
+      "30 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of wave requires a material medium for propagation?",
+    "options": [
+      "Radio waves",
+      "Light waves",
+      "Sound waves",
+      "X-rays"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The frequency of a wave is 500 Hz and its wavelength is 0.6 m. What is the speed of the wave?",
+    "options": [
+      "833 m/s",
+      "300 m/s",
+      "500 m/s",
+      "0.0012 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes what happens to light when it passes from air into glass?",
+    "options": [
+      "It speeds up and bends away from the normal",
+      "It slows down and bends toward the normal",
+      "It speeds up and bends toward the normal",
+      "Its speed remains the same"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the half-life of a radioactive substance if its activity falls from 800 Bq to 100 Bq in 12 years?",
+    "options": [
+      "6 years",
+      "4 years",
+      "3 years",
+      "2 years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which particle has no charge and is found in the nucleus of an atom?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Positron"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A liquid of mass 2 kg is heated from 20\u00b0C to 70\u00b0C. If the specific heat capacity of the liquid is 4200 J/kg\u00b0C, how much heat energy is absorbed?",
+    "options": [
+      "420 000 J",
+      "210 000 J",
+      "504 000 J",
+      "840 000 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which process of heat transfer does not require a medium?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Both conduction and convection"
+    ],
+    "correctIndex": 2
+  }
+]

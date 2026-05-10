@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A business purchased machinery for $50,000 on 1 January 2020. The machinery has a useful life of 5 years and a residual value of $5,000. Using the straight-line method, what is the net book value of the machinery at the end of Year 3?",
+    "options": [
+      "$23,000",
+      "$27,000",
+      "$20,000",
+      "$32,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the concept of 'going concern' in accounting?",
+    "options": [
+      "The business will continue to operate for the foreseeable future",
+      "The business records transactions at their original cost",
+      "All expenses must be matched to the revenue they generate",
+      "Financial statements must be prepared at regular intervals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company's trial balance shows total debits of $145,000 and total credits of $143,500. Which of the following errors could account for this difference?",
+    "options": [
+      "A purchase of $750 was posted to the debit side of the supplier's account twice",
+      "A sale of $1,500 was completely omitted from the books",
+      "A payment of $750 was debited to the wrong account",
+      "A receipt of $750 was recorded on both sides of the cash book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Using the following data, calculate the current ratio: Current Assets $84,000; Inventory $24,000; Current Liabilities $42,000. What is the quick (acid-test) ratio?",
+    "options": [
+      "1.43:1",
+      "2:1",
+      "1.5:1",
+      "0.57:1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A firm's net profit is $36,000, sales are $180,000, and capital employed is $120,000. What is the return on capital employed (ROCE)?",
+    "options": [
+      "30%",
+      "20%",
+      "25%",
+      "15%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a partnership, the partners agreed to allow interest on capital at 8% per annum. Partner A has a capital of $40,000 and Partner B has a capital of $25,000. If net profit before appropriations is $10,000, what appears in the profit and loss appropriation account as interest on capital?",
+    "options": [
+      "$5,200",
+      "$3,200",
+      "$2,000",
+      "$4,800"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following transactions would cause a difference between the cash book balance and the bank statement balance during bank reconciliation?",
+    "options": [
+      "Outstanding cheques issued but not yet presented to the bank",
+      "An error made in both the cash book and bank statement",
+      "Cash received and recorded in the cash book and credited by the bank on the same day",
+      "A standing order correctly recorded in both the cash book and bank statement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A business sold goods with a list price of $8,000, offering a 10% trade discount and 5% cash discount for payment within 30 days. If the customer paid within 30 days, what amount did the customer pay?",
+    "options": [
+      "$6,840",
+      "$7,200",
+      "$7,600",
+      "$6,800"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which accounting concept requires that a business should use the same accounting methods from one period to the next?",
+    "options": [
+      "Consistency",
+      "Prudence",
+      "Materiality",
+      "Accruals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company issued 50,000 ordinary shares at $2.50 each. The shares have a par value of $1.00 each. Which of the following correctly records this transaction?",
+    "options": [
+      "Debit Bank $125,000; Credit Share Capital $50,000; Credit Share Premium $75,000",
+      "Debit Bank $125,000; Credit Share Capital $125,000",
+      "Debit Share Capital $50,000; Credit Bank $125,000; Debit Share Premium $75,000",
+      "Debit Bank $50,000; Credit Share Capital $50,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "At the end of a financial year, a business has the following data: Opening stock $15,000; Purchases $95,000; Closing stock $20,000; Sales $160,000. What is the gross profit margin?",
+    "options": [
+      "43.75%",
+      "37.5%",
+      "56.25%",
+      "31.25%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A debtor owes $5,000. It is decided to write off $500 as a bad debt and create a provision for doubtful debts of 5% on the remaining balance. What is the total charge to the profit and loss account?",
+    "options": [
+      "$725",
+      "$250",
+      "$500",
+      "$475"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is NOT a feature of a limited liability company compared to a sole trader?",
+    "options": [
+      "The owner has unlimited liability for business debts",
+      "It is a separate legal entity from its owners",
+      "Ownership is transferable through the sale of shares",
+      "It must prepare and publish annual financial statements"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A club's receipts and payments account shows total receipts of $28,500 and total payments of $22,300. The opening cash balance was $1,200. What is the closing cash balance?",
+    "options": [
+      "$7,400",
+      "$6,200",
+      "$8,600",
+      "$5,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following errors would be revealed by a trial balance?",
+    "options": [
+      "A cheque payment of $540 entered in the cash book as $450",
+      "A sale of goods recorded as a debit in sales and a credit in the debtor's account",
+      "A purchase of office equipment debited to the purchases account",
+      "Interest received entered on the wrong side of the interest account only"
+    ],
+    "correctIndex": 3
+  }
+]

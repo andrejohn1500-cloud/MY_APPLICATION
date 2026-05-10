@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the complex number z satisfies |z - 2i| = |z + 4|, find the equation of the locus of z in the Argand plane.",
+    "options": [
+      "A. x + 3y - 3 = 0",
+      "B. 2x + y - 1 = 0",
+      "C. 2x - 3y + 6 = 0",
+      "D. x - 3y + 3 = 0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The general solution of the differential equation dy/dx + 2y = 4x is:",
+    "options": [
+      "A. y = 2x - 1 + Ce^(2x)",
+      "B. y = 2x - 1 + Ce^(-2x)",
+      "C. y = x - 2 + Ce^(-2x)",
+      "D. y = 2x + 1 + Ce^(-2x)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Given that f(x) = x\u00b3 - 6x\u00b2 + 11x - 6, which of the following is a complete factorization?",
+    "options": [
+      "A. (x-1)(x-2)(x-3)",
+      "B. (x+1)(x+2)(x+3)",
+      "C. (x-1)(x+2)(x-3)",
+      "D. (x-1)(x-2)(x+3)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The coefficient of x\u2074 in the expansion of (2 - x)\u2077 is:",
+    "options": [
+      "A. -280",
+      "B. 280",
+      "C. 560",
+      "D. -560"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If A is a 2\u00d72 matrix such that A\u00b2 - 5A + 6I = 0, which of the following must be true?",
+    "options": [
+      "A. The eigenvalues of A are 2 and 3",
+      "B. det(A) = 5",
+      "C. A is not invertible",
+      "D. The trace of A is 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Evaluate the integral \u222b\u2080^(\u03c0/2) sin\u00b2x cos\u00b2x dx.",
+    "options": [
+      "A. \u03c0/16",
+      "B. \u03c0/8",
+      "C. \u03c0/32",
+      "D. \u03c0/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The number of ways to arrange the letters of the word MATHEMATICS is:",
+    "options": [
+      "A. 4989600",
+      "B. 2494800",
+      "C. 39916800",
+      "D. 9979200"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is the correct expression for the sum to infinity of the series 1 - 1/3 + 1/9 - 1/27 + ...?",
+    "options": [
+      "A. 3/4",
+      "B. 2/3",
+      "C. 1/2",
+      "D. 4/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If the roots of 2x\u00b2 + kx + 3 = 0 are \u03b1 and \u03b2 such that \u03b1\u00b2 + \u03b2\u00b2 = 1/4, find the value of k.",
+    "options": [
+      "A. \u00b15",
+      "B. \u00b14",
+      "C. \u00b13",
+      "D. \u00b16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The gradient of the normal to the curve y = x\u00b3 - 3x at the point (2, 2) is:",
+    "options": [
+      "A. -1/9",
+      "B. 9",
+      "C. -9",
+      "D. 1/9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Using the substitution u = x\u00b2, evaluate \u222b x\u00b7e^(x\u00b2) dx.",
+    "options": [
+      "A. (1/2)e^(x\u00b2) + C",
+      "B. 2e^(x\u00b2) + C",
+      "C. e^(x\u00b2) + C",
+      "D. (1/4)e^(x\u00b2) + C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The range of the function f(x) = 3 + 2sin(x - \u03c0/4) is:",
+    "options": [
+      "A. [1, 5]",
+      "B. [-2, 2]",
+      "C. [2, 4]",
+      "D. [0, 6]"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If P(A) = 0.4, P(B) = 0.5 and P(A \u222a B) = 0.7, find P(A | B).",
+    "options": [
+      "A. 2/5",
+      "B. 1/2",
+      "C. 1/4",
+      "D. 3/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The position vectors of points A and B are a = 2i + j - k and b = i - 3j + 2k respectively. The magnitude of vector AB is:",
+    "options": [
+      "A. \u221a27",
+      "B. \u221a19",
+      "C. \u221a21",
+      "D. \u221a17"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The value of lim(x\u21920) (1 - cos 2x) / x\u00b2 is:",
+    "options": [
+      "A. 2",
+      "B. 0",
+      "C. 1",
+      "D. 4"
+    ],
+    "correctIndex": 0
+  }
+]

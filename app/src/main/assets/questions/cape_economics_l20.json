@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a two-sector Keynesian model, if the marginal propensity to consume (MPC) is 0.75, what is the value of the fiscal multiplier when government spending increases by $200 million?",
+    "options": [
+      "A. $600 million",
+      "B. $800 million",
+      "C. $750 million",
+      "D. $1000 million"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains the concept of 'crowding out' in macroeconomics?",
+    "options": [
+      "A. Increased government spending leads to higher taxes which reduce consumer spending",
+      "B. Increased government borrowing raises interest rates, reducing private sector investment",
+      "C. Higher imports crowd out domestic production causing unemployment",
+      "D. Monopolies crowd out competitive firms leading to market failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under a system of flexible exchange rates, a persistent current account deficit will most likely result in:",
+    "options": [
+      "A. An appreciation of the domestic currency",
+      "B. An increase in foreign exchange reserves",
+      "C. A depreciation of the domestic currency",
+      "D. A reduction in the money supply"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Heckscher-Ohlin theory of international trade predicts that a country will export goods that:",
+    "options": [
+      "A. Have the highest absolute advantage in production",
+      "B. Require intensive use of the country's relatively abundant factor of production",
+      "C. Have the lowest opportunity cost compared to all trading partners",
+      "D. Are produced using the most advanced technology available"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a central bank sells government securities in the open market, the immediate effect on the economy will be:",
+    "options": [
+      "A. An increase in commercial bank reserves and an expansion of the money supply",
+      "B. A decrease in commercial bank reserves and a contraction of the money supply",
+      "C. A decrease in interest rates stimulating aggregate demand",
+      "D. An increase in government revenue reducing the fiscal deficit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which condition must hold for a devaluation of the currency to improve a country's balance of trade according to the Marshall-Lerner condition?",
+    "options": [
+      "A. The sum of the price elasticities of demand for exports and imports must be less than one",
+      "B. The price elasticity of supply of exports must exceed the price elasticity of supply of imports",
+      "C. The sum of the absolute values of the price elasticities of demand for exports and imports must exceed one",
+      "D. The income elasticity of demand for imports must be greater than unity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A natural monopoly arises because:",
+    "options": [
+      "A. The firm owns all the natural resources required for production",
+      "B. Long-run average costs decline continuously over the entire range of market demand",
+      "C. The government grants exclusive rights to the firm to operate in the industry",
+      "D. Network externalities create barriers to entry for potential competitors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of game theory, a Nash Equilibrium is best described as a situation where:",
+    "options": [
+      "A. All players in the game achieve their maximum possible payoff simultaneously",
+      "B. No player can improve their payoff by unilaterally changing their strategy",
+      "C. Players cooperate to maximise joint profits above the competitive level",
+      "D. The dominant strategy of each player results in a Pareto-optimal outcome"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the concept of X-inefficiency as introduced by Harvey Leibenstein?",
+    "options": [
+      "A. The welfare loss to society from monopoly pricing above marginal cost",
+      "B. The failure of firms to minimise costs due to lack of competitive pressure",
+      "C. The inefficiency arising from externalities in production processes",
+      "D. The loss of economies of scale when firms grow beyond their optimal size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The J-curve effect in international economics refers to:",
+    "options": [
+      "A. The gradual improvement in the current account following a reduction in tariffs",
+      "B. The initial worsening followed by an eventual improvement in the trade balance after currency depreciation",
+      "C. The exponential growth in export revenue as terms of trade improve over time",
+      "D. The lag between changes in monetary policy and their effect on the inflation rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the Prebisch-Singer hypothesis, developing countries that specialise in primary commodity exports face a long-run deterioration in their terms of trade because:",
+    "options": [
+      "A. Developed countries impose prohibitive tariffs on processed goods from developing nations",
+      "B. The income elasticity of demand for primary commodities is less than one while manufactured goods exceed one",
+      "C. Primary commodity production is subject to diminishing returns reducing export volumes over time",
+      "D. Multinational corporations repatriate profits reducing net export earnings for developing countries"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the theory of second best, if one Pareto optimality condition cannot be satisfied, the appropriate policy response is to:",
+    "options": [
+      "A. Satisfy as many of the remaining Pareto conditions as possible",
+      "B. Not necessarily satisfy the remaining Pareto conditions as this may reduce welfare",
+      "C. Implement lump-sum transfers to compensate those adversely affected",
+      "D. Allow market forces to restore equilibrium without government intervention"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of Tobin's Q ratio is used to determine investment decisions. A firm will increase its capital stock when:",
+    "options": [
+      "A. Q is less than one because replacement cost exceeds market value of capital",
+      "B. Q equals one indicating the firm is at its optimal capital stock level",
+      "C. Q is greater than one because the market value of capital exceeds its replacement cost",
+      "D. Q is negative indicating the firm's liabilities exceed its assets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is the most accurate description of hysteresis in the context of unemployment?",
+    "options": [
+      "A. Unemployment rises during recessions and automatically falls when the economy recovers",
+      "B. The natural rate of unemployment increases permanently following a period of high cyclical unemployment",
+      "C. Structural unemployment is caused by technological change in capital-intensive industries",
+      "D. Frictional unemployment increases when information asymmetries exist in the labour market"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Stolper-Samuelson theorem predicts that in a two-factor two-good trade model, free trade will:",
+    "options": [
+      "A. Benefit both factors of production in both trading countries equally",
+      "B. Increase the real return to the abundant factor and decrease the real return to the scarce factor in each country",
+      "C. Lead to complete specialisation in production for both trading partners",
+      "D. Equalise the marginal products of capital and labour across all trading nations"
+    ],
+    "correctIndex": 1
+  }
+]

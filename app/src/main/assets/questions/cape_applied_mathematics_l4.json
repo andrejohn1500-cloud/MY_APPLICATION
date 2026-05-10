@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A random variable X follows a Poisson distribution with mean 3. What is P(X = 2)?",
+    "options": [
+      "A) 0.2240",
+      "B) 0.1494",
+      "C) 0.2241",
+      "D) 0.0498"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability density function of a continuous random variable X is f(x) = kx\u00b2 for 0 \u2264 x \u2264 3, and 0 otherwise. What is the value of k?",
+    "options": [
+      "A) 1/9",
+      "B) 1/27",
+      "C) 3",
+      "D) 1/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sample of size 64 is taken from a population with mean 50 and standard deviation 16. What is the standard error of the mean?",
+    "options": [
+      "A) 4",
+      "B) 2",
+      "C) 8",
+      "D) 1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a Type II error in hypothesis testing?",
+    "options": [
+      "A) Rejecting H\u2080 when it is true",
+      "B) Failing to reject H\u2080 when it is false",
+      "C) Accepting H\u2081 when it is true",
+      "D) Setting the significance level too high"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If X ~ N(\u03bc, \u03c3\u00b2) and Z = (X - \u03bc)/\u03c3, what is the distribution of Z?",
+    "options": [
+      "A) N(\u03bc, 1)",
+      "B) N(0, \u03c3\u00b2)",
+      "C) N(0, 1)",
+      "D) N(1, 0)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two events A and B are independent. P(A) = 0.4 and P(B) = 0.5. What is P(A \u222a B)?",
+    "options": [
+      "A) 0.90",
+      "B) 0.70",
+      "C) 0.20",
+      "D) 0.60"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 95% confidence interval for a population mean is constructed using a large sample. Which statement is correct?",
+    "options": [
+      "A) 95% of the population values lie within the interval",
+      "B) There is a 95% probability that \u03bc lies within this specific interval",
+      "C) If repeated samples were taken, 95% of such intervals would contain \u03bc",
+      "D) The sample mean lies within the interval 95% of the time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The correlation coefficient r between two variables is found to be \u22120.85. This indicates:",
+    "options": [
+      "A) A weak positive linear relationship",
+      "B) A strong positive linear relationship",
+      "C) A strong negative linear relationship",
+      "D) No linear relationship"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A discrete random variable X has E(X) = 5 and Var(X) = 4. What is E(3X \u2212 2)?",
+    "options": [
+      "A) 13",
+      "B) 11",
+      "C) 15",
+      "D) 17"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a binomial distribution with n = 10 and p = 0.3, what is the variance?",
+    "options": [
+      "A) 3.0",
+      "B) 2.1",
+      "C) 0.21",
+      "D) 1.45"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The least squares regression line of y on x passes through which point?",
+    "options": [
+      "A) (0, 0)",
+      "B) (x\u0304, 0)",
+      "C) (x\u0304, \u0233)",
+      "D) (0, \u0233)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A chi-squared test for independence is performed on a 3 \u00d7 4 contingency table. How many degrees of freedom does the test statistic have?",
+    "options": [
+      "A) 12",
+      "B) 6",
+      "C) 8",
+      "D) 11"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If X ~ B(20, 0.5), what is P(X = 10) approximately?",
+    "options": [
+      "A) 0.1762",
+      "B) 0.2500",
+      "C) 0.0796",
+      "D) 0.1404"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A manufacturer claims the mean lifetime of a bulb is 1000 hours. A sample of 36 bulbs gives a mean of 980 hours with standard deviation 60 hours. What is the value of the test statistic (z)?",
+    "options": [
+      "A) \u22122.00",
+      "B) \u22120.33",
+      "C) 2.00",
+      "D) \u22121.67"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The cumulative distribution function F(x) of a continuous random variable satisfies which property?",
+    "options": [
+      "A) F(x) is decreasing and bounded between \u22121 and 1",
+      "B) F(\u2212\u221e) = 1 and F(\u221e) = 0",
+      "C) F(x) is non-decreasing with F(\u2212\u221e) = 0 and F(\u221e) = 1",
+      "D) F(x) = f(x) for all x"
+    ],
+    "correctIndex": 2
+  }
+]

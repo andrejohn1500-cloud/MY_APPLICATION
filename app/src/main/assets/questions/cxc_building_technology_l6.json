@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a building constructed on soft, compressible soil where load-bearing capacity is poor?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Stepped foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a damp-proof course (DPC) in a building?",
+    "options": [
+      "To provide structural support to walls",
+      "To prevent moisture from rising through the walls",
+      "To improve thermal insulation",
+      "To act as a fire barrier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In brickwork, which bond is characterized by courses of alternating headers and stretchers?",
+    "options": [
+      "English bond",
+      "Flemish bond",
+      "Stretcher bond",
+      "Garden wall bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'setting out' refer to in building construction?",
+    "options": [
+      "Preparing the site for workers",
+      "Establishing the position and dimensions of a building on site",
+      "Calculating material quantities",
+      "Designing the structural layout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roofing material is classified as a thermoplastic membrane used in flat roof construction?",
+    "options": [
+      "Clay tiles",
+      "PVC membrane",
+      "Concrete tiles",
+      "Asphalt shingles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a lintel in a wall?",
+    "options": [
+      "To support the floor above",
+      "To span an opening and carry the load above it",
+      "To tie the wall to the foundation",
+      "To provide lateral stability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of timber defect is caused by the presence of a branch embedded in the wood?",
+    "options": [
+      "Shakes",
+      "Checks",
+      "Knots",
+      "Warping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, what is the purpose of a trap fitted below a sink?",
+    "options": [
+      "To regulate water pressure",
+      "To filter impurities from wastewater",
+      "To retain water and prevent foul gases from entering the building",
+      "To control the flow rate of water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard mix ratio for a concrete used in general structural work?",
+    "options": [
+      "1:1:2",
+      "1:2:4",
+      "1:3:6",
+      "2:4:8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which electrical wiring system uses a continuous loop that connects all lighting points before returning to the consumer unit?",
+    "options": [
+      "Radial circuit",
+      "Ring main circuit",
+      "Loop-in system",
+      "Spur circuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of saw is most appropriate for cutting curves in timber?",
+    "options": [
+      "Rip saw",
+      "Tenon saw",
+      "Coping saw",
+      "Panel saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In masonry construction, what is mortar primarily composed of?",
+    "options": [
+      "Cement, sand, and water",
+      "Cement, gravel, and water",
+      "Lime, gravel, and aggregate",
+      "Sand, bitumen, and water"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which document provides detailed graphical information about how a building is to be constructed, including dimensions and materials?",
+    "options": [
+      "Bill of Quantities",
+      "Specification",
+      "Working drawings",
+      "Schedule of works"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vapour barrier in wall construction?",
+    "options": [
+      "To allow moisture to pass freely through walls",
+      "To prevent condensation by stopping warm moist air from reaching cold surfaces",
+      "To increase the structural strength of the wall",
+      "To provide sound insulation between rooms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of staircase has a single flight that changes direction by 180 degrees with a landing halfway?",
+    "options": [
+      "Straight flight stair",
+      "Spiral stair",
+      "Dog-leg stair",
+      "Open well stair"
+    ],
+    "correctIndex": 2
+  }
+]

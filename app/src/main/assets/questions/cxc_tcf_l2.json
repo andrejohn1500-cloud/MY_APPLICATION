@@ -1,0 +1,153 @@
+[
+  {
+    "question": "What does the abbreviation 'PPE' stand for in the workplace?",
+    "options": [
+      "Personal Protective Equipment",
+      "Professional Practice Equipment",
+      "Primary Protection Essentials",
+      "Planned Protective Essentials"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Solar power",
+      "Petroleum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What tool is used to measure electrical current in a circuit?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter",
+      "Wattmeter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In woodworking, which joint is commonly used to join two pieces of wood at a right angle?",
+    "options": [
+      "Butt joint",
+      "Dovetail joint",
+      "Mortise and tenon joint",
+      "Lap joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the term 'scale' mean on a technical drawing?",
+    "options": [
+      "The colour used in the drawing",
+      "The ratio between the drawing size and the actual size",
+      "The type of paper used",
+      "The title of the drawing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following materials is a good conductor of electricity?",
+    "options": [
+      "Rubber",
+      "Plastic",
+      "Copper",
+      "Wood"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a circuit breaker?",
+    "options": [
+      "To increase voltage",
+      "To store electrical energy",
+      "To protect a circuit from overload",
+      "To convert AC to DC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hand tool is used to drive nails into wood?",
+    "options": [
+      "Chisel",
+      "Hammer",
+      "Screwdriver",
+      "Wrench"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of line is used to represent hidden edges in a technical drawing?",
+    "options": [
+      "Continuous thick line",
+      "Dotted or dashed line",
+      "Chain line",
+      "Wavy line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing, what is the purpose of a P-trap?",
+    "options": [
+      "To increase water pressure",
+      "To prevent sewer gases from entering a building",
+      "To filter water",
+      "To measure water flow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a ferrous metal?",
+    "options": [
+      "Aluminium",
+      "Copper",
+      "Steel",
+      "Brass"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'OHS' stand for in a work environment?",
+    "options": [
+      "Operational Handling Systems",
+      "Occupational Health and Safety",
+      "Organised Hazard Screening",
+      "Official Handling Standards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fastener is used to hold two pieces of metal together and can be removed and reused?",
+    "options": [
+      "Rivet",
+      "Bolt and nut",
+      "Nail",
+      "Staple"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "What is the unit used to measure electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 2,
+    "question": "What is the unit used to measure electrical resistance?"
+  },
+  {
+    "question": "Which type of saw is best suited for cutting curves in wood?",
+    "options": [
+      "Hacksaw",
+      "Coping saw",
+      "Rip saw",
+      "Tenon saw"
+    ],
+    "correctIndex": 1
+  }
+]

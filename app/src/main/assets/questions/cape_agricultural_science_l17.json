@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which hormone is primarily responsible for initiating parturition in cattle by causing luteolysis of the corpus luteum?",
+    "options": [
+      "Oxytocin",
+      "Prostaglandin F2\u03b1",
+      "Progesterone",
+      "Oestradiol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil science, the cation exchange capacity (CEC) of a soil is primarily determined by which two components?",
+    "options": [
+      "Sand and silt fractions",
+      "Clay minerals and organic matter",
+      "Iron oxides and calcium carbonate",
+      "Biological activity and pH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer notices that his maize crop shows interveinal chlorosis on older leaves first. Which nutrient deficiency is most likely responsible?",
+    "options": [
+      "Iron",
+      "Manganese",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the process of vernalization in crop plants?",
+    "options": [
+      "The acceleration of flowering by exposure to low temperatures",
+      "The process of seed germination triggered by light",
+      "The hardening of plants to drought conditions",
+      "The conversion of sucrose to starch in storage organs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In poultry production, the feed conversion ratio (FCR) is calculated as:",
+    "options": [
+      "Body weight gain divided by feed intake",
+      "Feed intake divided by body weight gain",
+      "Egg production divided by feed consumed",
+      "Metabolizable energy divided by crude protein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of gene action is responsible for heterosis (hybrid vigour) according to the dominance hypothesis?",
+    "options": [
+      "Additive gene action where alleles contribute equally",
+      "Dominance of favourable alleles masking deleterious recessive alleles",
+      "Epistatic interaction between non-allelic genes",
+      "Over-dominance where heterozygotes exceed both homozygotes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Penman-Monteith equation is used in agricultural science to estimate:",
+    "options": [
+      "Soil water holding capacity",
+      "Reference evapotranspiration",
+      "Nutrient uptake by plant roots",
+      "Crop photosynthetic rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pathogen causes Black Sigatoka disease in banana and plantain, and what is its classification?",
+    "options": [
+      "Mycosphaerella fijiensis \u2013 an ascomycete fungus",
+      "Fusarium oxysporum \u2013 a soil-borne fungus",
+      "Xanthomonas campestris \u2013 a gram-negative bacterium",
+      "Phytophthora infestans \u2013 an oomycete"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ruminant nutrition, the term 'bypass protein' refers to:",
+    "options": [
+      "Protein that is rapidly degraded in the rumen",
+      "Protein that escapes rumen degradation and is digested in the abomasum",
+      "Protein synthesized by rumen microorganisms",
+      "Non-protein nitrogen converted to ammonia in the rumen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes the principle behind integrated pest management (IPM) threshold known as the Economic Injury Level (EIL)?",
+    "options": [
+      "The pest density at which control measures should be initiated",
+      "The lowest pest population density that causes measurable economic damage",
+      "The maximum pest density that a crop can tolerate without yield loss",
+      "The point at which chemical control becomes economically viable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plant tissue culture, the process by which undifferentiated callus cells develop into organised structures such as shoots and roots is called:",
+    "options": [
+      "Micropropagation",
+      "Somatic embryogenesis",
+      "Organogenesis",
+      "Protoplast fusion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A soil has a bulk density of 1.4 g/cm\u00b3 and a particle density of 2.65 g/cm\u00b3. What is the approximate total porosity of this soil?",
+    "options": [
+      "34%",
+      "47%",
+      "53%",
+      "60%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the role of nitrogenase enzyme in biological nitrogen fixation?",
+    "options": [
+      "It converts nitrate to ammonium in the soil solution",
+      "It catalyses the reduction of atmospheric N\u2082 to NH\u2083 and is inactivated by oxygen",
+      "It oxidises ammonium to nitrite in the nitrification pathway",
+      "It facilitates the uptake of fixed nitrogen into legume root cells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock genetics, an animal's Expected Progeny Difference (EPD) is most accurately described as:",
+    "options": [
+      "The phenotypic superiority of the animal over the population mean",
+      "Half the breeding value, predicting the average performance of the animal's offspring",
+      "The variance in performance explained by additive genetic effects",
+      "The inbreeding coefficient relative to the base population"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which post-harvest technology uses a modified atmospheric environment with elevated CO\u2082 and reduced O\u2082 to extend the shelf life of fresh produce by inhibiting respiration?",
+    "options": [
+      "Blanching",
+      "Controlled atmosphere storage",
+      "Irradiation",
+      "Hypobaric storage"
+    ],
+    "correctIndex": 1
+  }
+]

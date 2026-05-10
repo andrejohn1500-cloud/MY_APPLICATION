@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which of the following best describes the concept of opportunity cost?",
+    "options": [
+      "The monetary price paid for a good or service",
+      "The value of the next best alternative foregone when making a choice",
+      "The total cost of producing an additional unit of output",
+      "The sunk cost associated with a previous decision"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the price elasticity of demand for a good is -0.4, the demand is best described as:",
+    "options": [
+      "Perfectly elastic",
+      "Unitary elastic",
+      "Inelastic",
+      "Elastic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a perfectly competitive market, a firm is a price taker because:",
+    "options": [
+      "It sells a differentiated product",
+      "It has significant market power",
+      "It produces a homogeneous product and is one of many sellers",
+      "It faces a downward-sloping demand curve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a positive externality?",
+    "options": [
+      "Air pollution from a factory",
+      "Noise pollution from an airport",
+      "The benefits received by neighbours when a homeowner maintains their garden",
+      "Traffic congestion caused by private car use"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "GDP measured using the expenditure approach is calculated as:",
+    "options": [
+      "C + I + G + (X - M)",
+      "C + I + G + (M - X)",
+      "W + R + I + P",
+      "C + S + T"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The multiplier effect in Keynesian economics refers to:",
+    "options": [
+      "The increase in interest rates following a rise in government spending",
+      "The proportional decrease in consumption when taxes increase",
+      "The process by which an initial injection of spending leads to a larger increase in national income",
+      "The reduction in private investment caused by government borrowing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A monopsonist in the labour market is best described as:",
+    "options": [
+      "A firm that sells its product in a monopoly market",
+      "A single buyer of labour in a particular market",
+      "A trade union that controls labour supply",
+      "A firm that pays workers above the equilibrium wage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which phase of the business cycle is characterised by rising unemployment and falling GDP?",
+    "options": [
+      "Expansion",
+      "Peak",
+      "Recession",
+      "Trough"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The law of diminishing marginal returns states that:",
+    "options": [
+      "Total output eventually falls as more capital is added, holding labour constant",
+      "As successive units of a variable factor are added to fixed factors, marginal product eventually decreases",
+      "Long-run average costs always fall as output increases",
+      "Total costs increase at a decreasing rate as output expands"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following policy tools is an example of contractionary fiscal policy?",
+    "options": [
+      "Reducing the reserve requirement for commercial banks",
+      "Increasing government expenditure on infrastructure",
+      "Lowering the central bank discount rate",
+      "Increasing income tax rates and reducing government spending"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The terms of trade for a country are calculated as:",
+    "options": [
+      "(Volume of exports / Volume of imports) x 100",
+      "(Index of export prices / Index of import prices) x 100",
+      "(Value of exports - Value of imports) x 100",
+      "(Current account balance / GDP) x 100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Price discrimination occurs when a firm:",
+    "options": [
+      "Sets a price equal to marginal cost for all consumers",
+      "Charges different prices for the same product to different consumers based on willingness to pay",
+      "Sells products in bulk at a lower per-unit price",
+      "Reduces price for all consumers when output increases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "command": "Which of the following best explains demand-pull inflation?",
+    "question": "Which of the following best explains demand-pull inflation?",
+    "options": [
+      "Rising production costs pushing up the general price level",
+      "An increase in aggregate demand exceeding the economy's productive capacity",
+      "A decrease in the money supply reducing purchasing power",
+      "Supply chain disruptions reducing the availability of goods"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of international trade, the theory of comparative advantage suggests that:",
+    "options": [
+      "Countries should only trade if they have an absolute advantage in production",
+      "A country should specialise in producing goods for which it has the lowest opportunity cost",
+      "Trade is only beneficial when both countries have equal factor endowments",
+      "Protectionist policies always improve a country's welfare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is most likely to cause the supply curve for a good to shift to the right?",
+    "options": [
+      "An increase in the price of the good",
+      "A decrease in consumer income",
+      "A reduction in the cost of raw materials used in production",
+      "An increase in the number of buyers in the market"
+    ],
+    "correctIndex": 2
+  }
+]

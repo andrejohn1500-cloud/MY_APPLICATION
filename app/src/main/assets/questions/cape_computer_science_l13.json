@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a binary tree with n nodes, what is the maximum possible height of the tree?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(n\u00b2)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the OSI model, which layer is responsible for end-to-end error detection and flow control between hosts?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the time complexity of the QuickSort algorithm in its worst case scenario?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes a race condition in concurrent programming?",
+    "options": [
+      "A condition where two processes finish at exactly the same time",
+      "A condition where the outcome depends on the non-deterministic ordering of events between threads",
+      "A condition where one process runs faster than another",
+      "A condition where two threads share the same priority level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In public key cryptography, if Alice wants to send a confidential message to Bob, which key does she use to encrypt the message?",
+    "options": [
+      "Alice's private key",
+      "Alice's public key",
+      "Bob's private key",
+      "Bob's public key"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which data structure is most appropriate for implementing a depth-first search (DFS) traversal of a graph?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Priority Queue",
+      "Hash Table"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the principle of referential integrity in relational databases enforce?",
+    "options": [
+      "That all primary keys must be unique",
+      "That foreign key values must match an existing primary key value or be null",
+      "That all attributes must be atomic",
+      "That no duplicate rows exist in any table"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In computer architecture, what is the function of the Memory Management Unit (MMU)?",
+    "options": [
+      "It manages the CPU cache hierarchy",
+      "It translates virtual addresses to physical addresses",
+      "It controls direct memory access operations",
+      "It manages input and output buffers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sorting algorithms is classified as stable AND has a guaranteed worst-case time complexity of O(n log n)?",
+    "options": [
+      "QuickSort",
+      "HeapSort",
+      "Merge Sort",
+      "Shell Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the key distinction between method overloading and method overriding?",
+    "options": [
+      "Overloading occurs at runtime while overriding occurs at compile time",
+      "Overloading defines multiple methods with the same name but different signatures in the same class, while overriding redefines a superclass method in a subclass",
+      "Overloading is only used in abstract classes while overriding applies to interfaces",
+      "Overloading and overriding are functionally identical concepts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which network topology provides the highest fault tolerance because the failure of any single node does not disrupt communication between other nodes?",
+    "options": [
+      "Bus topology",
+      "Star topology",
+      "Ring topology",
+      "Mesh topology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In SQL, what is the difference between the HAVING clause and the WHERE clause?",
+    "options": [
+      "HAVING filters rows before grouping; WHERE filters after grouping",
+      "WHERE filters rows before grouping; HAVING filters groups after the GROUP BY clause",
+      "They are interchangeable and perform the same function",
+      "HAVING can only be used with the COUNT aggregate function"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes a deadlock in an operating system, according to the Coffman conditions?",
+    "options": [
+      "A state where processes run indefinitely without producing output",
+      "A state where a set of processes are each waiting for a resource held by another process in the set, creating a circular wait",
+      "A state where the CPU scheduler assigns too many processes to a single core",
+      "A state where memory fragmentation prevents any process from executing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of algorithm complexity, what does it mean for a problem to be NP-Complete?",
+    "options": [
+      "The problem can be solved in polynomial time by a deterministic algorithm",
+      "The problem cannot be solved by any known algorithm",
+      "The problem is in NP and every other problem in NP can be polynomial-time reduced to it",
+      "The problem requires exponential space to solve"
+    ],
+    "correctIndex": 2
+  }
+]

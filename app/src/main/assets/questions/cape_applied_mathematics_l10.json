@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A random variable X follows a Poisson distribution with mean 3. What is P(X = 2)?",
+    "options": [
+      "A) 0.2240",
+      "B) 0.1494",
+      "C) 0.2241",
+      "D) 0.0498"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a linear programming problem, the objective function is Z = 5x + 4y. The feasible region has vertices at (0,0), (6,0), (4,3), and (0,5). What is the maximum value of Z?",
+    "options": [
+      "A) 30",
+      "B) 32",
+      "C) 20",
+      "D) 27"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "options": [
+      "A) 2/15",
+      "B) 4/25",
+      "C) 1/5",
+      "D) 8/45"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability distribution of X is given by P(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?",
+    "options": [
+      "A) 1/4",
+      "B) 1/10",
+      "C) 1/5",
+      "D) 1/6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle moves in a straight line with velocity v = 3t\u00b2 - 4t + 1 ms\u207b\u00b9. What is the acceleration when t = 2 seconds?",
+    "options": [
+      "A) 8 ms\u207b\u00b2",
+      "B) 9 ms\u207b\u00b2",
+      "C) 10 ms\u207b\u00b2",
+      "D) 7 ms\u207b\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is the correct formula for the mean of a binomial distribution with parameters n and p?",
+    "options": [
+      "A) np(1-p)",
+      "B) np",
+      "C) \u221a(np(1-p))",
+      "D) n(1-p)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A force of 10 N acts at an angle of 30\u00b0 to the horizontal. What is the horizontal component of the force?",
+    "options": [
+      "A) 5 N",
+      "B) 8.66 N",
+      "C) 7.07 N",
+      "D) 5.77 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a normal distribution, approximately what percentage of data falls within two standard deviations of the mean?",
+    "options": [
+      "A) 68%",
+      "B) 90%",
+      "C) 95%",
+      "D) 99.7%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car decelerates uniformly from 20 ms\u207b\u00b9 to rest in 5 seconds. What distance does it travel during this time?",
+    "options": [
+      "A) 40 m",
+      "B) 50 m",
+      "C) 60 m",
+      "D) 25 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.3 and P(A\u2229B) = 0.12. Are A and B independent?",
+    "options": [
+      "A) No, because P(A\u2229B) \u2260 P(A) + P(B)",
+      "B) Yes, because P(A\u2229B) = P(A) \u00d7 P(B)",
+      "C) No, because P(A\u222aB) is not equal to 1",
+      "D) Yes, because P(A) + P(B) < 1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A discrete random variable X has E(X) = 4 and Var(X) = 3. What is E(2X + 1)?",
+    "options": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle of mass 5 kg is on a smooth horizontal surface. A horizontal force of 20 N acts on it. What is the acceleration of the particle?",
+    "options": [
+      "A) 100 ms\u207b\u00b2",
+      "B) 25 ms\u207b\u00b2",
+      "C) 4 ms\u207b\u00b2",
+      "D) 0.25 ms\u207b\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a geometric distribution with probability of success p = 0.2, what is the probability that the first success occurs on the third trial?",
+    "options": [
+      "A) 0.128",
+      "B) 0.096",
+      "C) 0.032",
+      "D) 0.160"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The correlation coefficient between two variables is r = -0.85. Which statement best describes this relationship?",
+    "options": [
+      "A) Strong positive linear correlation",
+      "B) Weak negative linear correlation",
+      "C) Strong negative linear correlation",
+      "D) No linear correlation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A box contains 3 defective and 7 non-defective items. If 2 items are selected at random without replacement, what is the probability that exactly one is defective?",
+    "options": [
+      "A) 7/15",
+      "B) 42/100",
+      "C) 21/45",
+      "D) 6/30"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car accelerates uniformly from rest and travels 80 m in 8 s. What is the acceleration of the car?",
+    "options": [
+      "2.5 m/s\u00b2",
+      "1.25 m/s\u00b2",
+      "10 m/s\u00b2",
+      "5 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wire of length 2 m and cross-sectional area 4 \u00d7 10\u207b\u2076 m\u00b2 has a resistance of 5 \u03a9. What is the resistivity of the material?",
+    "options": [
+      "1 \u00d7 10\u207b\u2075 \u03a9\u00b7m",
+      "1 \u00d7 10\u207b\u2076 \u03a9\u00b7m",
+      "2.5 \u00d7 10\u207b\u2076 \u03a9\u00b7m",
+      "4 \u00d7 10\u207b\u2076 \u03a9\u00b7m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes a transverse wave?",
+    "options": [
+      "The oscillations are perpendicular to the direction of wave propagation",
+      "The oscillations are parallel to the direction of wave propagation",
+      "The wave requires a medium to travel",
+      "The wave travels in a longitudinal direction only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A photon has a frequency of 6 \u00d7 10\u00b9\u2074 Hz. What is the energy of the photon? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J\u00b7s)",
+    "options": [
+      "3.98 \u00d7 10\u207b\u00b9\u2079 J",
+      "3.98 \u00d7 10\u207b\u00b2\u00b9 J",
+      "9.0 \u00d7 10\u207b\u00b2\u2070 J",
+      "6.63 \u00d7 10\u207b\u00b2\u2070 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object of mass 5 kg is lifted to a height of 10 m. What is the gravitational potential energy gained? (g = 10 m/s\u00b2)",
+    "options": [
+      "500 J",
+      "50 J",
+      "5000 J",
+      "250 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two capacitors of capacitance 6 \u03bcF and 3 \u03bcF are connected in series. What is the total capacitance?",
+    "options": [
+      "2 \u03bcF",
+      "9 \u03bcF",
+      "4.5 \u03bcF",
+      "18 \u03bcF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about Newton's third law is correct?",
+    "options": [
+      "Action and reaction forces act on different objects and are equal and opposite",
+      "Action and reaction forces act on the same object",
+      "Action force is always greater than the reaction force",
+      "Reaction force only occurs when objects are in contact at rest"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A gas is compressed isothermally. Which statement correctly describes what happens?",
+    "options": [
+      "The pressure increases as the volume decreases at constant temperature",
+      "The temperature increases as the pressure increases",
+      "The volume increases as the pressure increases",
+      "The internal energy increases as work is done on the gas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The half-life of a radioactive isotope is 20 years. What fraction of the original sample remains after 60 years?",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/6",
+      "1/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A solenoid carries a current and produces a magnetic field. If the number of turns per unit length is doubled while the current remains constant, the magnetic field inside the solenoid will:",
+    "options": [
+      "Double",
+      "Remain the same",
+      "Halve",
+      "Quadruple"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wave has a speed of 340 m/s and a wavelength of 0.5 m. What is its frequency?",
+    "options": [
+      "680 Hz",
+      "170 Hz",
+      "340 Hz",
+      "850 Hz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which principle explains why a spinning top remains upright while rotating?",
+    "options": [
+      "Conservation of angular momentum",
+      "Conservation of linear momentum",
+      "Newton's second law of motion",
+      "Conservation of energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a simple d.c. circuit, a resistor of 10 \u03a9 is connected to a 20 V battery with internal resistance 2 \u03a9. What is the current flowing through the circuit?",
+    "options": [
+      "1.67 A",
+      "2.0 A",
+      "10 A",
+      "0.91 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When light passes from air into glass, which of the following quantities remains unchanged?",
+    "options": [
+      "Frequency",
+      "Wavelength",
+      "Speed",
+      "All of the above"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The photoelectric effect demonstrates which property of light?",
+    "options": [
+      "Light has particle-like properties (photons)",
+      "Light travels as a transverse wave",
+      "Light can be polarised",
+      "Light undergoes diffraction"
+    ],
+    "correctIndex": 0
+  }
+]

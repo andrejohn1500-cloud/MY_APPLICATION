@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the main focus of microeconomics?",
+    "options": [
+      "The study of individual markets and decision-making units",
+      "The study of the overall economy and national income",
+      "The study of international trade policies",
+      "The study of government fiscal policies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best defines Gross Domestic Product (GDP)?",
+    "options": [
+      "The total value of exports minus imports in a year",
+      "The total market value of all final goods and services produced within a country in a year",
+      "The total income earned by a country's citizens abroad",
+      "The total government spending in a year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the law of demand state?",
+    "options": [
+      "As price increases, quantity demanded increases, ceteris paribus",
+      "As price decreases, quantity demanded decreases, ceteris paribus",
+      "As price increases, quantity demanded decreases, ceteris paribus",
+      "As income increases, quantity demanded decreases, ceteris paribus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a positive externality?",
+    "options": [
+      "A factory polluting a nearby river",
+      "A neighbour playing loud music at night",
+      "A person receiving a vaccination that reduces disease spread to others",
+      "A car emitting carbon dioxide into the atmosphere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is opportunity cost?",
+    "options": [
+      "The monetary cost of purchasing a good or service",
+      "The value of the next best alternative forgone when making a decision",
+      "The total cost of producing all units of a good",
+      "The cost of importing goods from another country"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of unemployment occurs when workers are between jobs and searching for new employment?",
+    "options": [
+      "Structural unemployment",
+      "Cyclical unemployment",
+      "Frictional unemployment",
+      "Seasonal unemployment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is inflation?",
+    "options": [
+      "A decrease in the general price level over time",
+      "A sustained increase in the general price level over time",
+      "A decrease in the unemployment rate",
+      "An increase in the quantity of goods produced"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a perfectly competitive market?",
+    "options": [
+      "Few sellers with significant market power",
+      "Products that are highly differentiated",
+      "Many buyers and sellers with homogeneous products",
+      "High barriers to entry and exit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'balance of payments' refer to?",
+    "options": [
+      "The difference between government revenue and expenditure",
+      "A record of all economic transactions between a country and the rest of the world",
+      "The total amount of money in circulation in an economy",
+      "The ratio of exports to imports in a country"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a public good?",
+    "options": [
+      "A good produced by the government and sold at a profit",
+      "A good that is non-excludable and non-rival in consumption",
+      "A good with many close substitutes available in the market",
+      "A good that can only be consumed by one person at a time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Consumer Price Index (CPI) used to measure?",
+    "options": [
+      "The total output of goods and services in an economy",
+      "Changes in the price level of a basket of goods and services over time",
+      "The level of unemployment in an economy",
+      "The growth rate of a country's GDP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a direct tax?",
+    "options": [
+      "Value Added Tax (VAT)",
+      "Excise duty",
+      "Income tax",
+      "Import tariffs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What happens to the supply curve when the cost of production increases?",
+    "options": [
+      "The supply curve shifts to the right",
+      "The supply curve shifts to the left",
+      "The supply curve remains unchanged",
+      "The supply curve becomes perfectly elastic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which economic system is characterised by private ownership of resources and free market prices?",
+    "options": [
+      "Command economy",
+      "Mixed economy",
+      "Capitalist economy",
+      "Traditional economy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is monetary policy?",
+    "options": [
+      "Government decisions about taxation and public spending",
+      "Central bank actions to control the money supply and interest rates",
+      "Policies aimed at reducing income inequality",
+      "Government regulations on international trade"
+    ],
+    "correctIndex": 1
+  }
+]

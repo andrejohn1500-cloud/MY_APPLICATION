@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to the DSM-5, which of the following is a key distinction between Major Depressive Disorder and Persistent Depressive Disorder (Dysthymia)?",
+    "options": [
+      "Major Depressive Disorder requires a minimum duration of two years while Persistent Depressive Disorder requires only two weeks",
+      "Persistent Depressive Disorder is characterized by chronically depressed mood lasting at least two years, whereas Major Depressive Disorder episodes last at least two weeks",
+      "Major Depressive Disorder can only be diagnosed in adults while Persistent Depressive Disorder can be diagnosed in adolescents",
+      "Persistent Depressive Disorder always involves psychotic features while Major Depressive Disorder does not"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which theoretical framework best explains the phenomenon of 'learned helplessness' as a precursor to depression, and who originally proposed it?",
+    "options": [
+      "Albert Bandura through Social Learning Theory, emphasizing observational learning of helpless behaviors",
+      "Martin Seligman through his experiments with dogs exposed to inescapable electric shocks, later extended to human depression",
+      "Aaron Beck through Cognitive Theory, identifying negative automatic thoughts as the core mechanism",
+      "Ivan Pavlov through Classical Conditioning, demonstrating conditioned emotional responses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In research methodology, what is the primary advantage of a double-blind procedure over a single-blind procedure?",
+    "options": [
+      "It eliminates all confounding variables and guarantees internal validity",
+      "It controls for both participant expectancy effects and experimenter bias simultaneously, reducing demand characteristics and researcher influence on results",
+      "It ensures a larger sample size is used, increasing statistical power",
+      "It removes the need for a control group by balancing conditions equally"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A researcher finds a correlation of -0.85 between stress levels and immune system functioning. Which conclusion is most appropriate?",
+    "options": [
+      "High stress directly causes decreased immune functioning, with stress accounting for 85% of the variance",
+      "There is a strong negative relationship between stress and immune functioning, but causation cannot be inferred from correlation alone",
+      "The variables are unrelated because the correlation is negative",
+      "Immune functioning causes stress levels to decrease, explaining 72% of the shared variance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the 'weapon focus effect' and its implications for eyewitness testimony?",
+    "options": [
+      "Witnesses who carry weapons are more accurate in their testimonies because of heightened alertness",
+      "The presence of a weapon during a crime narrows attentional focus onto the weapon, reducing memory accuracy for peripheral details such as the perpetrator's face",
+      "Witnesses become more suggestible to leading questions when a weapon is present during police interviews",
+      "The weapon focus effect only applies to laboratory studies and has no ecological validity in real criminal cases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Bowlby's Attachment Theory, what is the 'internal working model' and how does it influence later relationships?",
+    "options": [
+      "A cognitive schema formed from early attachment experiences that serves as a template for expectations and behaviors in future relationships",
+      "A biological instinct that determines the type of attachment style a person will have regardless of caregiving quality",
+      "A therapeutic technique used to reconstruct early childhood memories of attachment figures",
+      "A neurological pathway in the prefrontal cortex activated during secure attachment interactions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ethical principle was most severely violated in Milgram's obedience studies, and what procedural safeguard would modern ethics committees most likely require?",
+    "options": [
+      "Confidentiality was violated; researchers would now be required to anonymize all participant data before publication",
+      "Protection from psychological harm was violated; modern ethics would require full informed consent about the true nature of the study and robust debriefing protocols",
+      "Random sampling was violated; modern ethics would require stratified sampling to ensure demographic representation",
+      "Beneficence was violated; researchers would now be required to provide financial compensation for all distress caused"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of Cognitive Behavioral Therapy (CBT), what is the function of a 'behavioral experiment' and how does it differ from traditional exposure therapy?",
+    "options": [
+      "A behavioral experiment tests a specific negative cognition by gathering empirical evidence through real-world experience, whereas exposure therapy primarily focuses on habituation to feared stimuli through repeated contact",
+      "A behavioral experiment involves role-playing past traumatic events, whereas exposure therapy focuses exclusively on future-oriented anxiety situations",
+      "Both techniques are functionally identical; the terms are interchangeable within the CBT framework",
+      "A behavioral experiment uses imaginal scenarios exclusively, while exposure therapy always requires in-vivo confrontation with feared stimuli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following accurately distinguishes between 'reliability' and 'validity' in psychological assessment?",
+    "options": [
+      "Reliability refers to whether a test measures what it claims to measure, while validity refers to the consistency of test scores across repeated administrations",
+      "Validity refers to whether a test measures what it claims to measure, while reliability refers to the consistency of scores across repeated administrations or raters",
+      "Reliability and validity are synonymous terms referring to the overall quality of a psychological instrument",
+      "A test can be valid without being reliable, but a reliable test is always valid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sternberg's Triarchic Theory of Intelligence proposes three sub-theories. Which combination correctly identifies all three?",
+    "options": [
+      "Componential, Experiential, and Contextual sub-theories",
+      "Fluid, Crystallized, and Spatial sub-theories",
+      "Linguistic, Logical-Mathematical, and Interpersonal sub-theories",
+      "Analytical, Creative, and Practical sub-theories corresponding to g, s, and k factors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In social psychology, the 'fundamental attribution error' refers to which systematic bias in causal reasoning?",
+    "options": [
+      "The tendency to attribute one's own failures to situational factors while attributing successes to dispositional factors",
+      "The tendency to overestimate the role of dispositional factors and underestimate situational factors when explaining other people's behavior",
+      "The tendency to assume that other people share the same attitudes, beliefs, and behaviors as oneself",
+      "The tendency to attribute negative outcomes to external factors and positive outcomes to internal factors regardless of the target"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which neurotransmitter system is most centrally implicated in the dopamine hypothesis of schizophrenia, and what evidence from pharmacology supports this hypothesis?",
+    "options": [
+      "The serotonergic system; SSRIs reduce positive symptoms of schizophrenia by increasing synaptic serotonin availability",
+      "The dopaminergic system; antipsychotic medications that block D2 receptors reduce positive symptoms, while drugs increasing dopamine activity such as amphetamines can induce psychotic symptoms",
+      "The GABAergic system; benzodiazepines reduce schizophrenic episodes by enhancing inhibitory neurotransmission",
+      "The noradrenergic system; beta-blockers consistently eliminate both positive and negative symptoms of schizophrenia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Vygotsky's sociocultural theory, what is the 'Zone of Proximal Development' (ZPD) and how does it differ from Piaget's concept of readiness?",
+    "options": [
+      "The ZPD refers to tasks a child can perform independently; Piaget similarly emphasizes that learning occurs only when the child is biologically ready regardless of social input",
+      "The ZPD is the gap between what a child can do independently and what they can achieve with skilled guidance, emphasizing social interaction as the driver of cognitive development, whereas Piaget emphasized biological maturation as the primary determinant of readiness",
+      "Both theorists agree that social scaffolding is essential and differ only on the age ranges at which cognitive stages occur",
+      "The ZPD is Vygotsky's term for Piaget's concrete operational stage, representing identical concepts with different cultural emphases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following research designs provides the strongest evidence for causal relationships between variables while also controlling for individual differences across all conditions?",
+    "options": [
+      "A between-subjects quasi-experimental design with matched pairs",
+      "A within-subjects repeated measures experimental design with counterbalancing to control for order effects",
+      "A prospective longitudinal correlational study with large sample sizes",
+      "A cross-sectional survey design using standardized psychometric instruments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of abnormal psychology, which of the following best describes the 'diathesis-stress model' of psychological disorder?",
+    "options": [
+      "A model proposing that psychological disorders result exclusively from biological vulnerabilities activated by genetic mutations",
+      "A model proposing that psychological disorders arise from an interaction between a pre-existing vulnerability or predisposition and environmental stressors that trigger the onset of the disorder",
+      "A model suggesting that stress alone is sufficient to cause any psychological disorder in any individual given sufficient intensity",
+      "A purely psychodynamic model in which childhood trauma creates unconscious diatheses resolved only through psychoanalysis"
+    ],
+    "correctIndex": 1
+  }
+]

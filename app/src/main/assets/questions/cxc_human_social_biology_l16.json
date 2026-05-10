@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "Primase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During aerobic respiration, the net gain of ATP molecules from the complete oxidation of one glucose molecule is approximately:",
+    "options": [
+      "2 ATP",
+      "8 ATP",
+      "38 ATP",
+      "100 ATP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the role of the Bundle of His in cardiac function?",
+    "options": [
+      "It initiates the heartbeat at the sinoatrial node",
+      "It conducts electrical impulses from the atrioventricular node to the ventricles",
+      "It prevents backflow of blood between the atria and ventricles",
+      "It supplies oxygenated blood to the myocardium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with blood type AB negative can receive blood from which of the following donors without risk of agglutination?",
+    "options": [
+      "AB positive only",
+      "Any ABO blood type but must be Rh negative",
+      "O negative only",
+      "Any blood type including all Rh factors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process by which the kidney regulates blood pH by excreting hydrogen ions and reabsorbing bicarbonate ions occurs primarily in the:",
+    "options": [
+      "Glomerulus",
+      "Loop of Henle",
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule and collecting duct"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following hormones is secreted by the anterior pituitary gland and directly stimulates the thyroid gland?",
+    "options": [
+      "Thyroxine",
+      "Thyroid-stimulating hormone (TSH)",
+      "Calcitonin",
+      "Antidiuretic hormone (ADH)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the process of meiosis, crossing over occurs during:",
+    "options": [
+      "Prophase I",
+      "Metaphase I",
+      "Anaphase II",
+      "Telophase II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements correctly describes the mechanism of action of a competitive inhibitor on an enzyme?",
+    "options": [
+      "It permanently binds to the active site and denatures the enzyme",
+      "It binds to the allosteric site and changes the shape of the active site",
+      "It competes with the substrate for the active site and its effect can be overcome by increasing substrate concentration",
+      "It breaks the peptide bonds within the enzyme structure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sickle cell anaemia is caused by a point mutation that results in the substitution of which amino acid in the haemoglobin beta chain?",
+    "options": [
+      "Glutamic acid is replaced by valine",
+      "Valine is replaced by glutamic acid",
+      "Glycine is replaced by alanine",
+      "Leucine is replaced by proline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The myelin sheath around a nerve fibre is formed by which type of cell in the peripheral nervous system?",
+    "options": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Microglia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the role of surfactant in the lungs?",
+    "options": [
+      "It increases the surface tension of alveolar walls to prevent collapse",
+      "It reduces surface tension in the alveoli to prevent them from collapsing during exhalation",
+      "It facilitates the transport of oxygen across the alveolar membrane into the blood",
+      "It filters pathogens entering the respiratory tract"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A heterozygous tall pea plant (Tt) is crossed with a homozygous short pea plant (tt). What is the expected phenotypic ratio of the offspring?",
+    "options": [
+      "3 tall : 1 short",
+      "1 tall : 1 short",
+      "All tall",
+      "1 tall : 3 short"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the correct sequence of events in the female menstrual cycle, starting from menstruation?",
+    "options": [
+      "Menstruation, proliferative phase, ovulation, secretory phase",
+      "Ovulation, secretory phase, menstruation, proliferative phase",
+      "Proliferative phase, secretory phase, ovulation, menstruation",
+      "Secretory phase, ovulation, proliferative phase, menstruation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The condition kwashiorkor is characterised by oedema primarily because protein deficiency leads to:",
+    "options": [
+      "Increased production of plasma proteins raising osmotic pressure",
+      "Decreased plasma protein concentration reducing blood osmotic pressure causing fluid to accumulate in tissues",
+      "Excess sodium retention by the kidneys",
+      "Increased capillary permeability due to vitamin deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following lymphocytes is responsible for the production of antibodies in the humoral immune response?",
+    "options": [
+      "Cytotoxic T cells",
+      "Helper T cells",
+      "B plasma cells",
+      "Natural killer cells"
+    ],
+    "correctIndex": 2
+  }
+]

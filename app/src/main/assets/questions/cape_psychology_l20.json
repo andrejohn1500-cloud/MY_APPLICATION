@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to the biopsychosocial model, which combination of factors best explains the etiology of schizophrenia?",
+    "options": [
+      "Genetic predisposition interacting with environmental stressors and psychological vulnerabilities",
+      "Exclusively neurochemical imbalances in dopaminergic pathways",
+      "Childhood trauma alone disrupting normal ego development",
+      "Social learning of maladaptive behaviors through reinforcement schedules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which research design would be most appropriate for establishing a causal relationship between cortisol levels and memory consolidation while controlling for individual differences?",
+    "options": [
+      "Correlational study with a large representative sample",
+      "Repeated-measures experimental design with counterbalancing",
+      "Cross-sectional survey using self-report measures",
+      "Naturalistic observation in real-world settings"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Tajfel and Turner's Social Identity Theory, which process directly motivates intergroup discrimination according to the theory?",
+    "options": [
+      "Cognitive dissonance reduction through projection onto outgroups",
+      "The desire to achieve positive distinctiveness for one's ingroup relative to relevant outgroups",
+      "Operant conditioning of prejudiced responses by authority figures",
+      "Frustration-aggression displacement onto minority groups"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A researcher finds a correlation of r = -0.78 between stress levels and immune function. Which interpretation is most accurate?",
+    "options": [
+      "High stress causes reduced immune function with 78% certainty",
+      "There is a strong negative association, but causation cannot be inferred from correlation alone",
+      "Immune function explains 78% of variance in stress levels",
+      "The relationship is weak because the value is negative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which neurotransmitter system is primarily implicated in the reward pathway and is central to understanding substance dependence according to neurobiological models?",
+    "options": [
+      "Serotonergic system in the raphe nuclei",
+      "Dopaminergic mesolimbic pathway from the ventral tegmental area to the nucleus accumbens",
+      "GABAergic inhibitory circuits in the cerebellum",
+      "Noradrenergic projections from the locus coeruleus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bowlby's attachment theory proposes an internal working model. How does a disorganized attachment style in infancy most likely manifest in adult romantic relationships?",
+    "options": [
+      "Secure and consistent emotional regulation with partners",
+      "Alternating fear and desire for closeness, often linked to unresolved trauma and relational instability",
+      "Avoidant dismissal of emotional intimacy with no anxiety about abandonment",
+      "Anxious preoccupation with partner availability but stable relationship functioning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In signal detection theory, a participant who frequently says 'yes' regardless of stimulus presence would be characterized as having which type of response bias?",
+    "options": [
+      "High d-prime reflecting superior sensitivity",
+      "Liberal criterion (low beta) resulting in high hit rates but also high false alarm rates",
+      "Conservative criterion (high beta) reflecting cautious decision-making",
+      "Perfect sensitivity with no criterion bias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ethical principle is MOST directly violated when a researcher deceives participants about the true purpose of a study without providing full debriefing afterward?",
+    "options": [
+      "Justice, because participants are not equitably selected",
+      "Informed consent and non-maleficence, because participants cannot protect themselves from psychological harm",
+      "Beneficence, because the study does not benefit society",
+      "Fidelity, because the researcher fails to publish accurate results"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Vygotsky's sociocultural theory, the Zone of Proximal Development (ZPD) is best defined as:",
+    "options": [
+      "The cognitive stage a child has fully mastered independently",
+      "The gap between what a learner can achieve independently and what they can achieve with guided assistance",
+      "The biological maturation threshold required before learning can occur",
+      "The range of tasks that are permanently beyond a child's cognitive capacity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The diathesis-stress model applied to depression suggests that:",
+    "options": [
+      "Stress alone is sufficient to cause clinical depression in all individuals",
+      "A biological or psychological predisposition interacts with environmental stressors to precipitate disorder",
+      "Genetic factors determine depression onset regardless of life circumstances",
+      "Cognitive distortions are the primary cause independent of biological vulnerability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Milgram's obedience studies, which variable produced the GREATEST reduction in obedience rates?",
+    "options": [
+      "Changing the experimenter's attire from a lab coat to casual clothing",
+      "Moving the experiment from Yale University to a run-down commercial building",
+      "Having the confederate victim in the same room as the participant (proximity condition)",
+      "Introducing a second participant who refused to continue at 150 volts"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which statistical test is most appropriate for comparing mean anxiety scores across three independent cultural groups when the data are normally distributed and variances are homogeneous?",
+    "options": [
+      "Pearson's r correlation coefficient",
+      "One-way between-subjects ANOVA",
+      "Chi-square test of independence",
+      "Wilcoxon signed-rank test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Erikson's psychosocial stage of 'Intimacy vs. Isolation' is characterized by the central conflict of:",
+    "options": [
+      "Establishing a stable sense of personal identity in adolescence",
+      "Forming deep committed relationships versus fear of vulnerability and social withdrawal in early adulthood",
+      "Reflecting on life achievements and accepting mortality in late adulthood",
+      "Developing autonomy and self-control versus shame and doubt in toddlerhood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'confirmation bias' in cognitive psychology refers to:",
+    "options": [
+      "The tendency to recall information that confirms one's emotional state at encoding",
+      "The tendency to search for, interpret, and favor information that confirms pre-existing beliefs",
+      "Overconfidence in one's ability to predict outcomes after they have occurred",
+      "The anchoring effect where initial information disproportionately influences judgments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which approach to psychotherapy is most directly grounded in classical and operant conditioning principles and focuses on modifying observable behavior rather than unconscious processes?",
+    "options": [
+      "Psychodynamic therapy emphasizing transference interpretation",
+      "Behavior therapy using techniques such as systematic desensitization and token economies",
+      "Humanistic person-centered therapy focusing on unconditional positive regard",
+      "Cognitive therapy targeting automatic negative thoughts and core schemas"
+    ],
+    "correctIndex": 1
+  }
+]

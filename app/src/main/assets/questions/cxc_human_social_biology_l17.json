@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for converting angiotensinogen to angiotensin I during blood pressure regulation?",
+    "options": [
+      "Renin",
+      "ACE",
+      "Aldosterone",
+      "Antidiuretic hormone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which molecule acts as the primary electron donor?",
+    "options": [
+      "NADPH",
+      "Water",
+      "Carbon dioxide",
+      "Glucose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A patient presents with hypersecretion of aldosterone. Which of the following physiological changes would most likely be observed?",
+    "options": [
+      "Decreased blood sodium and increased blood potassium",
+      "Increased blood sodium and decreased blood potassium",
+      "Decreased blood pressure and increased urine output",
+      "Increased urine glucose and decreased plasma volume"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the role of the corpus luteum in early pregnancy?",
+    "options": [
+      "It secretes FSH to maintain the endometrium",
+      "It secretes progesterone and oestrogen to maintain the endometrial lining",
+      "It produces hCG to stimulate ovulation",
+      "It degenerates immediately after fertilisation to prevent further ovulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which immunoglobulin class is primarily responsible for the secondary immune response and has the highest concentration in serum?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the cardiac cycle, which event corresponds to the closure of the atrioventricular valves?",
+    "options": [
+      "The beginning of ventricular diastole",
+      "The start of atrial systole",
+      "The first heart sound at the onset of ventricular systole",
+      "The second heart sound at the end of ventricular systole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following conditions results from the absence of the enzyme phenylalanine hydroxylase?",
+    "options": [
+      "Galactosaemia",
+      "Albinism",
+      "Phenylketonuria",
+      "Maple syrup urine disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A cross between two individuals heterozygous for sickle cell anaemia (HbA HbS \u00d7 HbA HbS) produces offspring. What is the probability that an offspring will have sickle cell trait (carrier) rather than full sickle cell anaemia?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why carbon monoxide is more dangerous than carbon dioxide as a respiratory poison?",
+    "options": [
+      "Carbon monoxide dissolves more readily in plasma than carbon dioxide",
+      "Carbon monoxide combines irreversibly with haemoglobin with an affinity approximately 250 times greater than oxygen",
+      "Carbon monoxide prevents the release of oxygen from oxyhaemoglobin by inhibiting carbonic anhydrase",
+      "Carbon monoxide directly destroys the alveolar epithelium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During muscle contraction, calcium ions released from the sarcoplasmic reticulum bind to which protein to expose active sites on actin?",
+    "options": [
+      "Myosin",
+      "Troponin",
+      "Tropomyosin",
+      "Titin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which region of the nephron is primarily responsible for the countercurrent multiplier mechanism that establishes the medullary osmotic gradient?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Glomerulus",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A person infected with HIV shows a dramatic drop in CD4+ T-lymphocyte count. Which of the following best explains the resulting susceptibility to opportunistic infections?",
+    "options": [
+      "HIV directly destroys all B-lymphocytes, eliminating antibody production",
+      "Loss of CD4+ T-helper cells impairs both cell-mediated and humoral immune responses",
+      "HIV destroys neutrophils, preventing phagocytosis",
+      "The loss of CD8+ cytotoxic T-cells removes the primary defence against bacteria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following hormones directly stimulates the reabsorption of water in the collecting duct of the nephron by increasing the permeability of the duct wall?",
+    "options": [
+      "Aldosterone",
+      "Antidiuretic hormone (ADH)",
+      "Atrial natriuretic peptide",
+      "Parathyroid hormone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an ECG trace, which wave represents ventricular repolarisation?",
+    "options": [
+      "P wave",
+      "QRS complex",
+      "T wave",
+      "U wave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the mechanism by which non-competitive inhibitors reduce enzyme activity?",
+    "options": [
+      "They bind to the active site and block substrate entry",
+      "They alter the shape of the active site by binding to an allosteric site, reducing enzyme-substrate affinity regardless of substrate concentration",
+      "They compete with the substrate for the active site and can be overcome by increasing substrate concentration",
+      "They permanently denature the enzyme by breaking peptide bonds"
+    ],
+    "correctIndex": 1
+  }
+]

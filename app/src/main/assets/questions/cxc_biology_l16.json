@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for catalyzing the addition of nucleotides to the growing DNA strand during replication?",
+    "options": [
+      "DNA ligase",
+      "DNA polymerase III",
+      "RNA primase",
+      "DNA helicase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which molecule acts as the primary electron donor?",
+    "options": [
+      "NADPH",
+      "ATP",
+      "Water",
+      "Carbon dioxide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A student observes that a plant wilts even though the soil is moist. Which explanation best accounts for this observation?",
+    "options": [
+      "Excessive transpiration has caused stomata to open wider",
+      "Root cells have a higher water potential than soil water due to high solute concentration",
+      "The xylem vessels are blocked preventing water transport",
+      "Chlorophyll is being broken down reducing turgor pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dihybrid cross between two individuals heterozygous for both traits (AaBb \u00d7 AaBb), what proportion of offspring would be expected to show both recessive phenotypes?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the role of the loop of Henle in kidney function?",
+    "options": [
+      "It filters blood by selective permeability",
+      "It reabsorbs glucose and amino acids by active transport",
+      "It creates an osmotic gradient in the medulla enabling water reabsorption",
+      "It secretes hydrogen ions to regulate blood pH directly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sickle cell anaemia is caused by a point mutation that results in which amino acid substitution in haemoglobin?",
+    "options": [
+      "Glutamic acid replaced by valine",
+      "Valine replaced by glutamic acid",
+      "Lysine replaced by arginine",
+      "Phenylalanine replaced by tyrosine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly explains why a respiratory quotient (RQ) greater than 1.0 indicates anaerobic respiration in a tissue?",
+    "options": [
+      "More oxygen is consumed than carbon dioxide produced",
+      "Carbon dioxide is produced without oxygen consumption raising the ratio above one",
+      "Water production exceeds carbon dioxide output",
+      "ATP yield per glucose molecule exceeds that of aerobic respiration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Hardy-Weinberg principle requires which set of conditions to maintain allele frequencies across generations?",
+    "options": [
+      "Small population, random mating, no mutation, no migration, natural selection present",
+      "Large population, random mating, no mutation, no migration, no natural selection",
+      "Large population, non-random mating, no mutation, migration allowed, no selection",
+      "Small population, random mating, mutation allowed, no migration, no selection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During meiosis, crossing over between non-sister chromatids occurs at which stage?",
+    "options": [
+      "Metaphase I",
+      "Anaphase I",
+      "Prophase I",
+      "Telophase II"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement correctly describes the mechanism of action of a competitive inhibitor on an enzyme?",
+    "options": [
+      "It permanently bonds to the active site preventing all substrate binding",
+      "It binds to the allosteric site changing the shape of the active site",
+      "It competes with the substrate for the active site and its effect can be overcome by increasing substrate concentration",
+      "It increases the activation energy by binding to the enzyme-substrate complex"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the nitrogen cycle, which process converts ammonium ions (NH4+) into nitrites and then nitrates?",
+    "options": [
+      "Nitrogen fixation",
+      "Denitrification",
+      "Nitrification",
+      "Ammonification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A nerve impulse travelling along a myelinated axon moves faster than along an unmyelinated axon because of which mechanism?",
+    "options": [
+      "More sodium channels are present along the entire length of the axon",
+      "The myelin sheath increases ion permeability between nodes",
+      "Saltatory conduction occurs where the impulse jumps between nodes of Ranvier",
+      "Schwann cells actively pump ions creating a stronger action potential"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the role of auxin in phototropism?",
+    "options": [
+      "Auxin is destroyed on the illuminated side causing cells there to shrink",
+      "Auxin accumulates on the shaded side causing greater cell elongation turning the shoot toward light",
+      "Auxin is equally distributed but sensitivity is higher on the illuminated side",
+      "Auxin activates chlorophyll production only on the illuminated side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an ecosystem where a top predator is removed, which ecological consequence is most likely to occur?",
+    "options": [
+      "Primary productivity decreases due to reduced nutrient cycling",
+      "Decomposer populations immediately decline",
+      "Prey populations increase leading to overgrazing and reduced plant diversity",
+      "Abiotic factors such as temperature and rainfall are directly altered"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which combination of characteristics correctly distinguishes arteries from veins?",
+    "options": [
+      "Arteries have valves, thin walls, and carry deoxygenated blood",
+      "Arteries have thick muscular walls, no valves, and carry blood away from the heart",
+      "Veins have thick walls, carry blood at high pressure, and have no valves",
+      "Arteries carry only oxygenated blood, have thin walls, and contain valves"
+    ],
+    "correctIndex": 1
+  }
+]

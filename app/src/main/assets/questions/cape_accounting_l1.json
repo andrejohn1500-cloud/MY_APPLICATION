@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which accounting concept states that a business is separate from its owner?",
+    "options": [
+      "Going Concern",
+      "Business Entity",
+      "Accruals",
+      "Consistency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the accounting equation?",
+    "options": [
+      "Assets = Liabilities + Capital",
+      "Assets + Liabilities = Capital",
+      "Capital = Assets + Liabilities",
+      "Liabilities = Assets + Capital"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a current asset?",
+    "options": [
+      "Motor Vehicle",
+      "Land",
+      "Inventory",
+      "Equipment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A credit entry on the bank account indicates:",
+    "options": [
+      "Money deposited into the bank",
+      "Money withdrawn from the bank",
+      "An increase in the bank balance",
+      "A payment received"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which financial statement shows a company's financial position at a specific date?",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Financial Position",
+      "Statement of Changes in Equity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Depreciation is best described as:",
+    "options": [
+      "The loss in market value of an asset",
+      "The allocation of the cost of an asset over its useful life",
+      "The repair cost of a fixed asset",
+      "The purchase price of an asset"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a liability?",
+    "options": [
+      "Cash at bank",
+      "Trade receivables",
+      "Bank loan",
+      "Motor vehicle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The straight-line method of depreciation calculates depreciation based on:",
+    "options": [
+      "The reducing balance of the asset",
+      "Equal amounts each year over the asset's useful life",
+      "The number of units produced",
+      "The market value of the asset"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which book of original entry is used to record credit sales?",
+    "options": [
+      "Cash Book",
+      "Purchases Journal",
+      "Sales Journal",
+      "General Journal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If a business has total assets of $50,000 and total liabilities of $20,000, what is the owner's equity?",
+    "options": [
+      "$70,000",
+      "$20,000",
+      "$30,000",
+      "$50,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'gross profit' mean?",
+    "options": [
+      "Net sales minus all expenses",
+      "Sales minus cost of goods sold",
+      "Net profit plus expenses",
+      "Total revenue minus tax"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a sole trader?",
+    "options": [
+      "A business owned by two or more people",
+      "A business owned and operated by one person",
+      "A business that issues shares to the public",
+      "A business registered as a company"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The principle that revenue should be recognized when it is earned is known as:",
+    "options": [
+      "Prudence",
+      "Consistency",
+      "Accruals",
+      "Materiality"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A trial balance is prepared to:",
+    "options": [
+      "Show the profit of the business",
+      "Check the arithmetic accuracy of the ledger accounts",
+      "Prepare the cash flow statement",
+      "Record daily transactions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following would be classified as capital expenditure?",
+    "options": [
+      "Payment of electricity bill",
+      "Purchase of office stationery",
+      "Purchase of a new delivery van",
+      "Payment of employees' wages"
+    ],
+    "correctIndex": 2
+  }
+]

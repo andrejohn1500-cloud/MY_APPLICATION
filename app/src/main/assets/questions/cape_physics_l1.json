@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Force",
+      "Speed",
+      "Acceleration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the acceleration due to gravity on the surface of the Earth?",
+    "options": [
+      "9.8 m/s",
+      "9.8 m/s\u00b2",
+      "9.8 N/kg\u00b2",
+      "9.8 ms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which law states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant volume?",
+    "options": [
+      "Boyle's Law",
+      "Charles' Law",
+      "Gay-Lussac's Law",
+      "Avogadro's Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of wave is a sound wave?",
+    "options": [
+      "Transverse",
+      "Electromagnetic",
+      "Longitudinal",
+      "Surface"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the term 'frequency' of a wave?",
+    "options": [
+      "The maximum displacement of particles from rest",
+      "The distance between two successive crests",
+      "The number of complete oscillations per second",
+      "The speed at which the wave travels"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the formula for electrical power?",
+    "options": [
+      "P = IV",
+      "P = I/V",
+      "P = V/I",
+      "P = I + V"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object is in equilibrium when the net force acting on it is:",
+    "options": [
+      "Maximum",
+      "Equal to gravity",
+      "Zero",
+      "Negative"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which particle in an atom has no charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Ion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does Ohm's Law state?",
+    "options": [
+      "Current is inversely proportional to resistance at constant temperature",
+      "Voltage is directly proportional to current at constant temperature",
+      "Power is equal to voltage times resistance",
+      "Resistance decreases as temperature increases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The unit of force in the SI system is:",
+    "options": [
+      "Joule",
+      "Pascal",
+      "Newton",
+      "Watt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of potential energy?",
+    "options": [
+      "A moving car",
+      "A spinning top",
+      "A stretched spring",
+      "Sound waves in air"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the relationship between wavelength, frequency and wave speed?",
+    "options": [
+      "v = f / \u03bb",
+      "v = \u03bb / f",
+      "v = f \u00d7 \u03bb",
+      "v = f + \u03bb"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of radiation has the greatest penetrating power?",
+    "options": [
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "Ultraviolet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the principle of conservation of energy?",
+    "options": [
+      "Energy can be created from matter",
+      "Energy can be destroyed when work is done",
+      "Energy cannot be created or destroyed, only transformed",
+      "Energy is always lost as heat"
+    ],
+    "correctIndex": 2
+  }
+]

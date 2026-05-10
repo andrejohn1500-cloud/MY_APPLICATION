@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for converting maltose into glucose during carbohydrate digestion?",
+    "options": [
+      "Amylase",
+      "Maltase",
+      "Sucrase",
+      "Lactase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A food technologist is analyzing the Maillard reaction in baked goods. Which two components are essential for this reaction to occur?",
+    "options": [
+      "Starch and water",
+      "Reducing sugars and amino acids",
+      "Lipids and vitamins",
+      "Cellulose and minerals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which method of heat transfer is primarily responsible for cooking food in a microwave oven?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Dielectric heating"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the context of food preservation, what is the primary purpose of blanching vegetables before freezing?",
+    "options": [
+      "To add color to the vegetables",
+      "To inactivate enzymes that cause deterioration",
+      "To increase water content",
+      "To reduce caloric value"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A patient with phenylketonuria (PKU) must avoid which amino acid?",
+    "options": [
+      "Tryptophan",
+      "Lysine",
+      "Phenylalanine",
+      "Methionine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which vitamin requires intrinsic factor for its absorption in the gastrointestinal tract?",
+    "options": [
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The smoke point of a fat is significant in food preparation because exceeding it causes:",
+    "options": [
+      "Enhanced flavor development",
+      "Decomposition producing toxic acrolein",
+      "Increased nutritional value",
+      "Better emulsification properties"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which lipid component is responsible for the characteristic rancid odor produced during oxidative rancidity?",
+    "options": [
+      "Triglycerides",
+      "Phospholipids",
+      "Free fatty acids and aldehydes",
+      "Sterols"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In food labeling, what does the term 'trans fat' refer to?",
+    "options": [
+      "Fats that dissolve in water",
+      "Unsaturated fats that have been partially hydrogenated",
+      "Saturated fats found naturally in dairy",
+      "Short-chain fatty acids in plant oils"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which micronutrient deficiency is most directly associated with the development of rickets in children?",
+    "options": [
+      "Iron",
+      "Vitamin A",
+      "Vitamin D",
+      "Zinc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The glycaemic index (GI) of a food measures:",
+    "options": [
+      "The total caloric content per gram",
+      "How quickly a carbohydrate food raises blood glucose levels",
+      "The amount of fiber in a food",
+      "The insulin production rate in the pancreas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the lacto-fermentation of vegetables, which microorganism is primarily responsible for the preservation process?",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Lactobacillus species",
+      "Aspergillus niger",
+      "Bacillus subtilis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cook notices that a hollandaise sauce has curdled. Which principle of emulsion science best explains why this occurred?",
+    "options": [
+      "The fat droplets were too large to remain suspended",
+      "Overheating caused protein denaturation and breakdown of the emulsion",
+      "Insufficient water was added to the mixture",
+      "The lecithin content in the egg yolk was too high"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the role of gluten in bread making?",
+    "options": [
+      "It provides sweetness and acts as a preservative",
+      "It forms an elastic network that traps carbon dioxide gas produced by yeast",
+      "It acts as an emulsifier to combine fat and water",
+      "It provides the brown color during baking through caramelization"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to HACCP principles, a Critical Control Point (CCP) in food safety management is best defined as:",
+    "options": [
+      "Any step in food production where a food safety hazard can be identified",
+      "A step in the process where control can be applied to prevent or eliminate a food safety hazard",
+      "The final inspection of a finished food product before packaging",
+      "A government regulation specifying safe internal cooking temperatures"
+    ],
+    "correctIndex": 1
+  }
+]

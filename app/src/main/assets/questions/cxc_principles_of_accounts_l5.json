@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which accounting concept states that a business is separate from its owner for accounting purposes?",
+    "options": [
+      "Going concern concept",
+      "Business entity concept",
+      "Accruals concept",
+      "Consistency concept"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A debtor owes $5,000. A provision for bad debts of 5% is created. What is the amount of the provision?",
+    "options": [
+      "$500",
+      "$250",
+      "$25",
+      "$2,500"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is classified as a capital expenditure?",
+    "options": [
+      "Payment of electricity bill",
+      "Purchase of office stationery",
+      "Purchase of a delivery van",
+      "Payment of wages"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The balance on a bank statement shows $2,000 credit. What does this mean from the bank's perspective?",
+    "options": [
+      "The business owes the bank $2,000",
+      "The bank owes the business $2,000",
+      "The business has overdrawn its account",
+      "The business has no funds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following would appear in the Trading Account?",
+    "options": [
+      "Discount allowed",
+      "Carriage inwards",
+      "Office expenses",
+      "Depreciation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If opening stock is $4,000, purchases are $20,000 and closing stock is $5,000, what is the cost of goods sold?",
+    "options": [
+      "$21,000",
+      "$19,000",
+      "$29,000",
+      "$9,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ledger contains the accounts of credit customers?",
+    "options": [
+      "General ledger",
+      "Purchases ledger",
+      "Sales ledger",
+      "Cash book"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Depreciation is best described as:",
+    "options": [
+      "The fall in market value of an asset",
+      "The allocation of the cost of an asset over its useful life",
+      "The cash set aside to replace an asset",
+      "The annual repair cost of an asset"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A trial balance has total debits of $85,000 and total credits of $83,000. Which of the following could explain the difference?",
+    "options": [
+      "A purchase of $1,000 was posted twice to the debit side",
+      "A sale of $2,000 was omitted entirely from the ledger",
+      "A payment of $1,000 was debited to the correct account but not credited",
+      "Rent expense of $2,000 was debited to the rent account correctly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a source document?",
+    "options": [
+      "Invoice",
+      "Receipt",
+      "Ledger account",
+      "Cheque counterfoil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under the straight-line method, an asset costing $10,000 with a residual value of $1,000 and a useful life of 9 years has an annual depreciation charge of:",
+    "options": [
+      "$1,111",
+      "$1,000",
+      "$900",
+      "$1,100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a liability?",
+    "options": [
+      "Bank balance",
+      "Motor vehicle",
+      "Creditors",
+      "Debtors"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The accruals concept requires that:",
+    "options": [
+      "Expenses are recorded when cash is paid",
+      "Revenue is recorded only when cash is received",
+      "Income and expenses are matched to the period in which they are earned or incurred",
+      "Assets are recorded at their original cost"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A business has current assets of $15,000 and current liabilities of $6,000. What is the working capital?",
+    "options": [
+      "$21,000",
+      "$6,000",
+      "$9,000",
+      "$15,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which book of original entry is used to record goods returned by customers?",
+    "options": [
+      "Sales journal",
+      "Purchases returns journal",
+      "Sales returns journal",
+      "General journal"
+    ],
+    "correctIndex": 2
+  }
+]

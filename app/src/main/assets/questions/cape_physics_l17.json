@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a uniform speed of 4 m/s. What is the magnitude of the centripetal acceleration of the particle?",
+    "options": [
+      "8 m/s\u00b2",
+      "16 m/s\u00b2",
+      "32 m/s\u00b2",
+      "4 m/s\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a double-slit experiment using light of wavelength 600 nm, the slits are separated by 0.3 mm and the screen is 1.5 m away. What is the fringe spacing?",
+    "options": [
+      "1.0 mm",
+      "2.0 mm",
+      "3.0 mm",
+      "0.5 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A photon has a frequency of 6.0 \u00d7 10\u00b9\u2074 Hz. Given that Planck's constant h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, what is the energy of the photon?",
+    "options": [
+      "3.98 \u00d7 10\u207b\u00b9\u2079 J",
+      "6.63 \u00d7 10\u207b\u00b3\u2074 J",
+      "1.10 \u00d7 10\u207b\u2074\u2078 J",
+      "9.95 \u00d7 10\u207b\u00b9\u2079 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A transformer has a primary coil of 500 turns and a secondary coil of 50 turns. If the primary voltage is 240 V, what is the secondary voltage?",
+    "options": [
+      "2400 V",
+      "24 V",
+      "240 V",
+      "48 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal expansion. Which of the following correctly describes what happens to the internal energy and the work done by the gas?",
+    "options": [
+      "Internal energy increases; work done by gas is positive",
+      "Internal energy remains constant; work done by gas is positive",
+      "Internal energy decreases; work done by gas is zero",
+      "Internal energy remains constant; work done by gas is zero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A radioactive nucleus undergoes alpha decay. Which of the following correctly describes the change in the nucleus?",
+    "options": [
+      "Mass number decreases by 4, atomic number decreases by 2",
+      "Mass number decreases by 2, atomic number decreases by 4",
+      "Mass number decreases by 4, atomic number decreases by 4",
+      "Mass number decreases by 2, atomic number decreases by 2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wire of length 2.0 m, cross-sectional area 1.0 \u00d7 10\u207b\u2076 m\u00b2, and resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9 m is connected to a 6 V battery of negligible internal resistance. What is the current through the wire?",
+    "options": [
+      "1.76 \u00d7 10\u2075 A",
+      "0.176 A",
+      "176 A",
+      "17.6 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An electron (mass 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, charge 1.6 \u00d7 10\u207b\u00b9\u2079 C) is accelerated through a potential difference of 500 V. What is the de Broglie wavelength of the electron?",
+    "options": [
+      "5.5 \u00d7 10\u207b\u00b9\u00b9 m",
+      "1.2 \u00d7 10\u207b\u00b9\u2070 m",
+      "5.5 \u00d7 10\u207b\u2078 m",
+      "1.2 \u00d7 10\u207b\u00b9\u00b9 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A capacitor of capacitance 100 \u03bcF is charged to a potential difference of 12 V. How much energy is stored in the capacitor?",
+    "options": [
+      "7.2 \u00d7 10\u207b\u00b3 J",
+      "1.44 \u00d7 10\u207b\u00b2 J",
+      "6.0 \u00d7 10\u207b\u00b3 J",
+      "1.2 \u00d7 10\u207b\u00b2 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A string of length 0.8 m is fixed at both ends and vibrates in its third harmonic. What is the frequency of vibration if the wave speed on the string is 240 m/s?",
+    "options": [
+      "150 Hz",
+      "300 Hz",
+      "450 Hz",
+      "600 Hz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the photoelectric effect, which of the following increases when only the intensity of incident light (above the threshold frequency) is increased?",
+    "options": [
+      "Maximum kinetic energy of emitted electrons",
+      "Threshold frequency",
+      "Number of emitted electrons per second",
+      "Work function of the metal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A satellite orbits Earth at a height where the gravitational field strength is 6.0 N/kg. If the radius of Earth is 6.4 \u00d7 10\u2076 m and g at the surface is 9.8 N/kg, approximately what is the orbital radius of the satellite?",
+    "options": [
+      "7.2 \u00d7 10\u2076 m",
+      "8.1 \u00d7 10\u2076 m",
+      "5.7 \u00d7 10\u2076 m",
+      "9.6 \u00d7 10\u2076 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle executes simple harmonic motion with amplitude 0.04 m and angular frequency 10 rad/s. What is the maximum acceleration of the particle?",
+    "options": [
+      "0.4 m/s\u00b2",
+      "4.0 m/s\u00b2",
+      "40 m/s\u00b2",
+      "400 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two point charges of +4 \u03bcC and \u22124 \u03bcC are placed 0.2 m apart in vacuum. What is the magnitude of the electrostatic force between them? (k = 9 \u00d7 10\u2079 N m\u00b2 C\u207b\u00b2)",
+    "options": [
+      "3.6 N",
+      "7.2 N",
+      "0.36 N",
+      "36 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about nuclear fusion is correct?",
+    "options": [
+      "Fusion releases energy because the products have greater binding energy per nucleon than the reactants",
+      "Fusion releases energy because the products have lower binding energy per nucleon than the reactants",
+      "Fusion requires no minimum temperature to initiate the reaction",
+      "Fusion reactions always produce alpha particles as by-products"
+    ],
+    "correctIndex": 0
+  }
+]

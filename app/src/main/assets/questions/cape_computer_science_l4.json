@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which data structure operates on a Last-In-First-Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a relational database, which normal form eliminates partial dependencies on a composite primary key?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the time complexity of a binary search algorithm on a sorted array of n elements?",
+    "options": [
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of an object-oriented programming language?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Inheritance",
+      "Sequential execution only"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In networking, which layer of the OSI model is responsible for end-to-end communication and error recovery?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sorting algorithm has a best-case time complexity of O(n) when the input is already sorted?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Bubble Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query Language",
+      "Standard Query Logic",
+      "Structured Question Language"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following IP addresses is a private address as defined by RFC 1918?",
+    "options": [
+      "172.16.0.1",
+      "200.100.50.25",
+      "8.8.8.8",
+      "130.45.20.1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Boolean algebra, which law states that A + (B \u00b7 C) = (A + B) \u00b7 (A + C)?",
+    "options": [
+      "De Morgan's Law",
+      "Associative Law",
+      "Distributive Law",
+      "Commutative Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which access modifier in Java makes a class member accessible only within the same class?",
+    "options": [
+      "public",
+      "protected",
+      "default",
+      "private"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a foreign key in a relational database?",
+    "options": [
+      "To uniquely identify each record in a table",
+      "To establish a link between two tables",
+      "To index the table for faster queries",
+      "To encrypt sensitive data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a deadlock in an operating system?",
+    "options": [
+      "A process that consumes 100% CPU",
+      "Two or more processes waiting indefinitely for resources held by each other",
+      "A process that has been terminated unexpectedly",
+      "Memory overflow caused by recursive functions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In computer architecture, what does the acronym ALU stand for?",
+    "options": [
+      "Arithmetic Logic Unit",
+      "Array Logic Unit",
+      "Automated Load Utility",
+      "Arithmetic Load Utility"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which protocol is used to assign IP addresses dynamically to devices on a network?",
+    "options": [
+      "DNS",
+      "FTP",
+      "DHCP",
+      "HTTP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the output of the binary addition 1011 + 0110?",
+    "options": [
+      "1111",
+      "10001",
+      "10100",
+      "10010"
+    ],
+    "correctIndex": 1
+  }
+]

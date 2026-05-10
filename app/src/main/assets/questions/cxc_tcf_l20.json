@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A refrigeration system operates on a vapour compression cycle. If the refrigerant enters the compressor as a saturated vapour at -10\u00b0C and leaves the condenser as a saturated liquid at 40\u00b0C, what is the primary function of the expansion valve in this cycle?",
+    "options": [
+      "To increase the pressure of the refrigerant before entering the evaporator",
+      "To reduce the pressure and temperature of the refrigerant, causing partial vaporisation",
+      "To superheat the refrigerant vapour before compression",
+      "To remove heat from the refrigerant in the high-pressure side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical wiring, a ring final circuit is protected by a 32A breaker. According to IEE wiring regulations, what is the maximum floor area that a single ring final circuit should serve in a domestic installation?",
+    "options": [
+      "100 square metres",
+      "75 square metres",
+      "50 square metres",
+      "25 square metres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A three-phase induction motor is connected in delta configuration to a 415V, 50Hz supply. If each winding has an impedance of 20 ohms, what is the line current drawn by the motor?",
+    "options": [
+      "20.75 A",
+      "35.94 A",
+      "12.0 A",
+      "41.5 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a compression ignition engine cycle, fuel injection typically begins before top dead centre. This advance in injection timing is primarily to compensate for which phenomenon?",
+    "options": [
+      "Thermal expansion of the piston",
+      "The ignition delay period before combustion starts",
+      "Increased volumetric efficiency at high speeds",
+      "Reduced compression ratio at operating temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of welding defect is characterised by a groove melted into the base metal alongside the weld bead, caused by excessive welding current or incorrect electrode angle?",
+    "options": [
+      "Porosity",
+      "Incomplete fusion",
+      "Undercut",
+      "Slag inclusion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, a 22mm copper pipe carries water at a velocity of 2 m/s. If the pipe length is 15 metres with a friction factor of 0.02, using the Darcy-Weisbach equation, what is the approximate head loss due to friction?",
+    "options": [
+      "2.75 m",
+      "5.51 m",
+      "1.38 m",
+      "8.26 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A CNC lathe program contains the block: G96 S180 M03. What does the G96 code specify?",
+    "options": [
+      "Constant feedrate in mm/min",
+      "Constant surface speed in m/min",
+      "Rapid traverse movement",
+      "Spindle speed in RPM"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In structural steelwork, a fillet weld has a leg length of 8mm. What is the effective throat thickness used for calculating the weld's load-bearing capacity?",
+    "options": [
+      "8.0 mm",
+      "6.4 mm",
+      "5.66 mm",
+      "4.0 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building's air conditioning system uses a chilled water loop. The chiller produces water at 7\u00b0C and it returns at 12\u00b0C. If the system flow rate is 10 litres per second, what is the cooling capacity in kilowatts? (Specific heat of water = 4.18 kJ/kg\u00b7K)",
+    "options": [
+      "209 kW",
+      "418 kW",
+      "150 kW",
+      "520 kW"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In automotive electronics, a lambda (oxygen) sensor produces a voltage that oscillates between approximately 0.1V and 0.9V in a correctly functioning closed-loop fuel management system. What condition is indicated if the sensor voltage remains constantly at 0.1V?",
+    "options": [
+      "The engine is running with a rich air-fuel mixture",
+      "The engine is running with a lean air-fuel mixture or the sensor has failed",
+      "The catalytic converter is operating efficiently",
+      "The engine is in open-loop mode during warm-up"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which masonry bond is specifically designed to increase lateral strength in walls subject to horizontal forces, by having all bricks laid as headers through the full thickness of the wall?",
+    "options": [
+      "Flemish bond",
+      "English bond",
+      "Rat-trap bond",
+      "Header bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A hydraulic press uses Pascal's principle. The input piston has a diameter of 20mm and the output piston has a diameter of 100mm. If a force of 500N is applied to the input piston, what is the theoretical output force?",
+    "options": [
+      "2,500 N",
+      "12,500 N",
+      "25,000 N",
+      "50,000 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In refrigeration and air conditioning, the coefficient of performance (COP) of a heat pump operating between a condenser temperature of 50\u00b0C and an evaporator temperature of 0\u00b0C (in Kelvin) under ideal Carnot conditions would be?",
+    "options": [
+      "6.46",
+      "5.46",
+      "7.46",
+      "4.46"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When installing a suspended timber floor, the sleeper walls must be provided with through ventilation. According to good building practice, which regulation primarily governs the minimum free ventilation area required to prevent timber decay?",
+    "options": [
+      "Building Regulations Part A \u2013 Structure",
+      "Building Regulations Part C \u2013 Site preparation and resistance to moisture",
+      "Building Regulations Part B \u2013 Fire safety",
+      "Building Regulations Part L \u2013 Conservation of fuel and power"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a PLC ladder logic program, a normally closed contact in series with a coil output means that the coil will energise under which condition?",
+    "options": [
+      "When the associated input signal is ON (logical 1)",
+      "When the associated input signal is OFF (logical 0)",
+      "When power is first applied to the PLC regardless of input state",
+      "When any other rung in the program is also TRUE"
+    ],
+    "correctIndex": 1
+  }
+]

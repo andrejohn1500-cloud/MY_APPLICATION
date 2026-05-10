@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of line is used to represent the outline of a visible edge in technical drawing?",
+    "options": [
+      "A thin continuous line",
+      "A thick continuous line",
+      "A dashed thin line",
+      "A chain line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first-angle orthographic projection, where is the front view (elevation) placed relative to the plan view?",
+    "options": [
+      "Below the plan view",
+      "Above the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the included angle of a standard metric screw thread (M-thread)?",
+    "options": [
+      "55 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which geometric construction method is used to bisect a given angle?",
+    "options": [
+      "Drawing a perpendicular from the vertex",
+      "Using equal arcs from each arm of the angle to locate the bisector",
+      "Drawing parallel lines from each arm",
+      "Extending one arm and measuring equal lengths"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In isometric drawing, the three principal axes are drawn at what angles to the horizontal?",
+    "options": [
+      "30\u00b0, 60\u00b0, and 90\u00b0",
+      "30\u00b0, 30\u00b0, and 90\u00b0",
+      "45\u00b0, 45\u00b0, and 90\u00b0",
+      "60\u00b0, 60\u00b0, and 90\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the abbreviation 'PCD' stand for in technical drawing?",
+    "options": [
+      "Partial Circle Diameter",
+      "Pitch Circle Diameter",
+      "Projected Centre Dimension",
+      "Primary Centre Distance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hexagonal prism is placed with its axis vertical. How many sides are visible in the plan view?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of section view is used when only half of the object is sectioned to show both interior and exterior features simultaneously?",
+    "options": [
+      "Full section",
+      "Removed section",
+      "Half section",
+      "Revolved section"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When constructing an ellipse using the concentric circles method, the two circles drawn have diameters equal to:",
+    "options": [
+      "The radius and diameter of the ellipse",
+      "The major and minor axes of the ellipse",
+      "Two equal radii of the ellipse",
+      "The perimeter and area of the ellipse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In third-angle orthographic projection, the right side view is placed:",
+    "options": [
+      "To the left of the front view",
+      "Below the front view",
+      "To the right of the front view",
+      "Above the front view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A regular hexagon can be constructed inside a circle by stepping off the circle's radius around the circumference. How many steps are required?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a development (surface development) in technical drawing?",
+    "options": [
+      "To show the hidden features of an object",
+      "To represent the true shape of a curved surface in a flat plane",
+      "To unfold the surfaces of a 3D object into a flat 2D pattern",
+      "To project an object onto an isometric grid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which auxiliary view is drawn to show the true shape of a surface that is inclined to the principal planes of projection?",
+    "options": [
+      "Sectional view",
+      "Primary auxiliary view",
+      "Isometric view",
+      "Oblique view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The scale 1:5 means that the drawing is:",
+    "options": [
+      "5 times larger than the actual object",
+      "The same size as the actual object",
+      "5 times smaller than the actual object",
+      "One-fifth of the drawing represents the full object"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When dimensioning a drawing, the dimension line for an angular measurement is drawn as:",
+    "options": [
+      "A straight line parallel to the angle",
+      "An arc centred at the vertex of the angle",
+      "A straight horizontal line",
+      "A zigzag line between the two arms"
+    ],
+    "correctIndex": 1
+  }
+]

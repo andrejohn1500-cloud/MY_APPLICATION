@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A bag contains 3 red balls and 5 blue balls. A ball is chosen at random. What is the probability that it is red?",
+    "options": [
+      "3/8",
+      "5/8",
+      "3/5",
+      "1/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of the numbers 4, 7, 9, 12, and 8 is:",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels 120 km in 2 hours. What is its average speed?",
+    "options": [
+      "60 km/h",
+      "50 km/h",
+      "70 km/h",
+      "80 km/h"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a measure of spread?",
+    "options": [
+      "Mean",
+      "Median",
+      "Standard deviation",
+      "Mode"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A particle moves with constant velocity 5 m/s. How far does it travel in 10 seconds?",
+    "options": [
+      "2 m",
+      "15 m",
+      "50 m",
+      "55 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The median of the data set {3, 7, 9, 11, 15} is:",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "15"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two events A and B are mutually exclusive. P(A) = 0.3 and P(B) = 0.4. What is P(A or B)?",
+    "options": [
+      "0.12",
+      "0.58",
+      "0.70",
+      "0.80"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A force of 10 N acts on a mass of 2 kg. What is the acceleration?",
+    "options": [
+      "2 m/s\u00b2",
+      "5 m/s\u00b2",
+      "12 m/s\u00b2",
+      "20 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mode of the data set {2, 3, 3, 5, 7, 7, 7, 9} is:",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A fair coin is tossed twice. What is the probability of getting two heads?",
+    "options": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object is dropped from rest. Using g = 10 m/s\u00b2, its velocity after 3 seconds is:",
+    "options": [
+      "10 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The range of the data set {4, 8, 15, 16, 23, 42} is:",
+    "options": [
+      "16",
+      "38",
+      "42",
+      "46"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A box contains 4 green, 3 yellow, and 5 red marbles. What is the probability of picking a yellow marble?",
+    "options": [
+      "1/4",
+      "3/12",
+      "4/12",
+      "5/12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle starts from rest and accelerates uniformly at 3 m/s\u00b2 for 4 seconds. What is its final velocity?",
+    "options": [
+      "7 m/s",
+      "9 m/s",
+      "12 m/s",
+      "16 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The lower quartile (Q1) of the ordered data set {2, 4, 6, 8, 10, 12, 14, 16} is:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1
+  }
+]

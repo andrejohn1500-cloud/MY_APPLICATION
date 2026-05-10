@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is the accounting equation?",
+    "options": [
+      "Assets = Liabilities + Capital",
+      "Assets + Liabilities = Capital",
+      "Capital = Assets + Liabilities",
+      "Liabilities = Assets + Capital"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of account is the Capital Account?",
+    "options": [
+      "Asset account",
+      "Liability account",
+      "Owner's equity account",
+      "Expense account"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which financial statement shows the financial position of a business at a specific date?",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Balance Sheet",
+      "Trial Balance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A credit entry on the left side of an account is known as a:",
+    "options": [
+      "Debit",
+      "Credit",
+      "Balance",
+      "Ledger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a current asset?",
+    "options": [
+      "Motor vehicle",
+      "Land",
+      "Inventory",
+      "Equipment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a Trial Balance?",
+    "options": [
+      "To calculate profit",
+      "To check the arithmetic accuracy of ledger entries",
+      "To prepare invoices",
+      "To record daily transactions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gross Profit is calculated as:",
+    "options": [
+      "Sales minus all expenses",
+      "Sales minus Cost of Goods Sold",
+      "Net Sales minus Operating Expenses",
+      "Revenue minus Tax"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which book of original entry is used to record credit purchases?",
+    "options": [
+      "Sales Day Book",
+      "Cash Book",
+      "Purchases Day Book",
+      "Journal Proper"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Depreciation is best described as:",
+    "options": [
+      "An increase in asset value over time",
+      "The wear and tear of a fixed asset over time",
+      "A method of paying for assets",
+      "An increase in liabilities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a liability?",
+    "options": [
+      "Cash at bank",
+      "Debtors",
+      "Creditors",
+      "Stock"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'debtor' mean?",
+    "options": [
+      "A person who owes money to the business",
+      "A person to whom the business owes money",
+      "A type of expense",
+      "An asset account"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is recorded in the Petty Cash Book?",
+    "options": [
+      "Large capital expenditures",
+      "Small everyday cash payments",
+      "Credit sales",
+      "Bank deposits"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Net Profit is calculated as:",
+    "options": [
+      "Gross Profit minus Operating Expenses",
+      "Sales minus Cost of Goods Sold",
+      "Total Revenue minus Total Assets",
+      "Capital plus Liabilities"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a source document used in accounting?",
+    "options": [
+      "A ledger account",
+      "An original record that provides evidence of a transaction",
+      "A financial statement",
+      "A balance sheet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes 'capital expenditure'?",
+    "options": [
+      "Money spent on day-to-day running expenses",
+      "Money spent on purchasing fixed assets",
+      "Money received from customers",
+      "Money paid to creditors"
+    ],
+    "correctIndex": 1
+  }
+]

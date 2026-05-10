@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following correctly describes the role of the enzyme RuBisCO in the Calvin cycle?",
+    "options": [
+      "It phosphorylates RuBP using ATP to form 3-PGA",
+      "It catalyses the fixation of CO2 onto RuBP to form two molecules of 3-PGA",
+      "It reduces 3-PGA to G3P using NADPH",
+      "It regenerates RuBP from G3P using ATP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During meiosis, crossing over occurs between non-sister chromatids of homologous chromosomes. What is the PRIMARY significance of this process?",
+    "options": [
+      "It ensures each gamete receives the correct number of chromosomes",
+      "It produces new combinations of alleles increasing genetic variation",
+      "It prevents non-disjunction during meiosis II",
+      "It allows DNA replication to occur before cell division"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A student measures the water potential of a plant cell as -800 kPa and the solute potential as -1200 kPa. What is the pressure potential of this cell?",
+    "options": [
+      "-2000 kPa",
+      "-400 kPa",
+      "400 kPa",
+      "2000 kPa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sequence correctly represents the flow of electrons during the light-dependent reactions of photosynthesis?",
+    "options": [
+      "H2O \u2192 Photosystem I \u2192 Photosystem II \u2192 NADP+",
+      "H2O \u2192 Photosystem II \u2192 electron transport chain \u2192 Photosystem I \u2192 NADP+",
+      "NADP+ \u2192 Photosystem I \u2192 Photosystem II \u2192 H2O",
+      "H2O \u2192 electron transport chain \u2192 Photosystem II \u2192 Photosystem I \u2192 NADP+"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A plant is exposed to a photoperiod of 14 hours of light per day. It fails to flower. If it is a short-day plant requiring a critical night length of 9 hours, which treatment would induce flowering?",
+    "options": [
+      "Increasing light intensity during the day period",
+      "Interrupting the dark period with a brief flash of red light",
+      "Extending the dark period to 10 hours by reducing the light period",
+      "Applying gibberellin to the leaves"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an experiment, a muscle fibre is treated with a drug that permanently binds to troponin and prevents its conformational change. What would be the effect on muscle contraction?",
+    "options": [
+      "Actin filaments would slide over myosin permanently causing tetanus",
+      "Tropomyosin would remain blocking the myosin-binding sites on actin preventing contraction",
+      "Calcium ions would accumulate in the sarcoplasm causing uncontrolled depolarisation",
+      "ATP hydrolysis by myosin would be permanently inhibited"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why facilitated diffusion differs from active transport across a cell membrane?",
+    "options": [
+      "Facilitated diffusion uses carrier proteins while active transport uses channel proteins",
+      "Facilitated diffusion moves substances down a concentration gradient without ATP while active transport moves substances against a gradient using ATP",
+      "Facilitated diffusion can only transport lipid-soluble molecules while active transport transports water-soluble molecules",
+      "Facilitated diffusion occurs faster than active transport at all substrate concentrations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A homozygous red-flowered plant (RR) is crossed with a homozygous white-flowered plant (rr) producing all pink offspring. When two pink-flowered plants are crossed, what phenotypic ratio is expected in the offspring?",
+    "options": [
+      "3 red : 1 white",
+      "1 red : 2 pink : 1 white",
+      "1 red : 1 white",
+      "3 pink : 1 red"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement correctly describes the role of the hypothalamus in osmoregulation?",
+    "options": [
+      "It produces aldosterone in response to low blood sodium levels",
+      "It detects changes in blood osmotic pressure and signals the posterior pituitary to release ADH",
+      "It directly produces ADH which acts on the loop of Henle to reabsorb water",
+      "It stimulates the adrenal cortex to produce ADH when blood pressure falls"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In aerobic respiration, oxidative phosphorylation produces the majority of ATP. Which of the following best describes the chemiosmotic mechanism by which ATP is synthesised?",
+    "options": [
+      "Electrons from NADH directly phosphorylate ADP to form ATP on the inner mitochondrial membrane",
+      "Protons pumped into the intermembrane space flow back through ATP synthase down their electrochemical gradient driving ATP synthesis",
+      "The Krebs cycle generates a proton gradient that drives substrate-level phosphorylation",
+      "FADH2 donates electrons directly to ATP synthase to produce ATP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A population of beetles lives on grey tree bark. Initially 60% are grey and 40% are green. A new predatory bird arrives that preferentially eats green beetles. After several generations, 95% of beetles are grey. This is an example of:",
+    "options": [
+      "Genetic drift due to the founder effect",
+      "Directional natural selection",
+      "Disruptive natural selection",
+      "Stabilising natural selection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the structure and function of the nephron loop of Henle?",
+    "options": [
+      "The descending limb is permeable to water and impermeable to salts, while the ascending limb actively transports NaCl out, creating a hypertonic medulla",
+      "The ascending limb is permeable to water allowing reabsorption while the descending limb pumps salts into the medulla",
+      "Both limbs are permeable to water but only the descending limb actively transports ions",
+      "The loop of Henle reabsorbs glucose by active transport to maintain blood glucose levels"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During the transmission of a nerve impulse, the absolute refractory period occurs because:",
+    "options": [
+      "All acetylcholine receptors are saturated at the synapse preventing depolarisation",
+      "Voltage-gated sodium channels are inactivated and cannot reopen regardless of stimulus strength",
+      "The sodium-potassium pump is actively restoring the resting potential consuming all available ATP",
+      "Potassium channels remain permanently open hyperpolarising the membrane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A scientist analyses a DNA sample and finds that 22% of the bases are thymine. What percentage of the bases would be guanine?",
+    "options": [
+      "22%",
+      "28%",
+      "44%",
+      "56%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about the immune response correctly distinguishes between the primary and secondary responses?",
+    "options": [
+      "The primary response produces IgG antibodies while the secondary response produces IgM antibodies",
+      "The secondary response is faster and produces higher antibody titres due to the proliferation of memory B cells",
+      "The primary response involves T cells while the secondary response involves only B cells",
+      "Both responses produce identical antibody concentrations but the secondary response lasts longer"
+    ],
+    "correctIndex": 1
+  }
+]

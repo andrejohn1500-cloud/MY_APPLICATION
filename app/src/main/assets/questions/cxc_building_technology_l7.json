@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a two-storey building constructed on soft, compressible soil?",
+    "options": [
+      "Strip foundation",
+      "Raft foundation",
+      "Pad foundation",
+      "Stepped foundation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a damp-proof course (DPC) in a wall?",
+    "options": [
+      "To increase the wall's load-bearing capacity",
+      "To prevent moisture from rising through the wall",
+      "To improve the thermal insulation of the wall",
+      "To provide a decorative finish to the wall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In reinforced concrete, what is the main role of the steel reinforcement?",
+    "options": [
+      "To resist compressive forces",
+      "To resist tensile forces",
+      "To reduce the weight of the structure",
+      "To improve the workability of the concrete mix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roofing material is commonly associated with a pitched roof in the Caribbean?",
+    "options": [
+      "Flat glass",
+      "Galvanized steel sheets",
+      "Polycarbonate panels",
+      "Reinforced concrete slabs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'setting out' refer to in building construction?",
+    "options": [
+      "Finishing and painting the building",
+      "Transferring the building design from drawings to the actual site",
+      "Calculating the total cost of materials",
+      "Selecting the type of foundation to be used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which bond is formed when bricks are laid so that alternate courses consist entirely of headers and stretchers respectively?",
+    "options": [
+      "English bond",
+      "Flemish bond",
+      "Stretcher bond",
+      "Garden wall bond"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A water-cement ratio that is too high in a concrete mix will result in:",
+    "options": [
+      "Increased workability and increased strength",
+      "Reduced workability and increased strength",
+      "Increased workability but reduced strength",
+      "Reduced workability and reduced strength"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a queen post roof truss?",
+    "options": [
+      "It has a single central vertical post",
+      "It has two vertical posts set apart to allow a wider span",
+      "It is only used for flat roofs",
+      "It requires no tie beam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard nominal size of a common clay brick used in Caribbean construction?",
+    "options": [
+      "215 mm x 102.5 mm x 65 mm",
+      "250 mm x 120 mm x 75 mm",
+      "200 mm x 100 mm x 50 mm",
+      "300 mm x 150 mm x 100 mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In plumbing systems, what is the function of a P-trap fitted beneath a sink?",
+    "options": [
+      "To increase water pressure at the outlet",
+      "To hold water and prevent sewer gases from entering the building",
+      "To filter impurities from the wastewater",
+      "To regulate the flow rate of water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following materials provides the best fire resistance in construction?",
+    "options": [
+      "Timber",
+      "Concrete",
+      "PVC",
+      "Glass"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of formwork in concrete construction?",
+    "options": [
+      "To reinforce the concrete against tension",
+      "To provide a temporary mould that supports wet concrete until it hardens",
+      "To waterproof the surface of the concrete",
+      "To add colour and texture to the concrete finish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which electrical wiring system uses a single cable containing both live and neutral conductors enclosed in a PVC sheath?",
+    "options": [
+      "Conduit wiring",
+      "Trunking wiring",
+      "Twin and earth cable wiring",
+      "Armoured cable wiring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A site plan drawn to a scale of 1:500 shows a building that measures 4 cm in length. What is the actual length of the building?",
+    "options": [
+      "4 m",
+      "20 m",
+      "200 m",
+      "2 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following defects in timber is caused by the separation of wood fibres along the grain due to rapid drying?",
+    "options": [
+      "Knots",
+      "Shakes",
+      "Warping",
+      "Decay"
+    ],
+    "correctIndex": 1
+  }
+]

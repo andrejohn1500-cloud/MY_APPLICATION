@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to Lazarus and Folkman's transactional model of stress, which cognitive process determines whether an event is appraised as stressful?",
+    "options": [
+      "Primary and secondary appraisal",
+      "Stimulus generalisation and discrimination",
+      "Operant conditioning and reinforcement",
+      "Habituation and sensitisation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which neuroimaging finding is most consistently associated with Major Depressive Disorder in adults?",
+    "options": [
+      "Enlarged lateral ventricles",
+      "Reduced activity in the prefrontal cortex and hippocampal volume loss",
+      "Increased dopamine receptor density in the striatum",
+      "Hypertrophy of the amygdala bilaterally"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Milgram's obedience studies, which variable produced the greatest reduction in obedience rates?",
+    "options": [
+      "Moving the experiment to a run-down office building",
+      "Increasing the number of confederates to three",
+      "Having the learner in the same room as the participant",
+      "Allowing the teacher to choose the shock level"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'schema' as used in Beck's Cognitive Triad refers to:",
+    "options": [
+      "Unconscious defence mechanisms protecting the ego",
+      "Stable cognitive structures that filter and interpret incoming information negatively",
+      "Neural pathways reinforced through classical conditioning",
+      "Developmental stages of moral reasoning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best distinguishes Type I from Type II errors in psychological research?",
+    "options": [
+      "Type I is failing to reject a false null hypothesis; Type II is rejecting a true null hypothesis",
+      "Type I is rejecting a true null hypothesis; Type II is failing to reject a false null hypothesis",
+      "Type I relates to sampling bias; Type II relates to measurement error",
+      "Type I occurs in correlational studies; Type II occurs only in experiments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Harlow's rhesus monkey studies challenged the behaviourist explanation of attachment by demonstrating that:",
+    "options": [
+      "Infants form attachments based solely on classical conditioning to the food source",
+      "Contact comfort is a more powerful basis for attachment than feeding",
+      "Social learning from peers is the primary driver of attachment behaviour",
+      "Reinforcement schedules determine the strength of mother-infant bonds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The biopsychosocial model of abnormality proposes that psychological disorders arise from:",
+    "options": [
+      "Purely neurochemical imbalances correctable by pharmacotherapy",
+      "An interaction of biological vulnerabilities, psychological factors, and social contexts",
+      "Unconscious conflicts originating in early childhood experiences alone",
+      "Learned maladaptive behaviours reinforced by the environment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Vygotsky's sociocultural theory, the Zone of Proximal Development (ZPD) is best defined as:",
+    "options": [
+      "The range of tasks a child can perform independently without assistance",
+      "The difference between what a learner can do without help and what they can achieve with guided support",
+      "The biological maturation threshold required before formal learning can begin",
+      "The cultural tools and symbols internalised through play"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which experimental design is most appropriate when participant variables are a major confound and there are sufficient participants for random allocation to groups?",
+    "options": [
+      "Within-participants (repeated measures) design",
+      "Matched participants design",
+      "Independent groups design",
+      "Single-case experimental design"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The diathesis-stress model applied to schizophrenia suggests that:",
+    "options": [
+      "Genetic predisposition alone is sufficient to cause the disorder",
+      "Environmental stressors combined with a biological or psychological vulnerability trigger the onset of symptoms",
+      "Childhood trauma directly causes dopamine dysregulation leading to psychosis",
+      "Expressed emotion in the family is the sole cause of schizophrenic episodes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kohlberg's post-conventional level of moral reasoning is characterised by:",
+    "options": [
+      "Obedience to authority figures to avoid punishment",
+      "Adherence to social norms to maintain group approval",
+      "Moral judgements based on universal ethical principles and social contracts",
+      "Egocentric reasoning focused on personal gain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the procedure and purpose of a double-blind trial in clinical psychology research?",
+    "options": [
+      "Only participants are unaware of group allocation to prevent demand characteristics",
+      "Both participants and experimenters are unaware of group allocation to control for placebo effects and experimenter bias",
+      "The researcher analyses data without knowledge of the hypothesis to prevent confirmation bias",
+      "Participants complete measures twice without knowledge of the first administration to assess test-retest reliability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Seligman's concept of 'learned helplessness' was derived from experiments showing that:",
+    "options": [
+      "Animals exposed to unavoidable shocks later failed to escape when escape became possible",
+      "Animals generalised conditioned fear responses to neutral stimuli after a single pairing",
+      "Human participants conformed to incorrect group judgements under social pressure",
+      "Cognitive dissonance following forced compliance changed participants' attitudes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ethical principle from the APA or BPS codes requires psychologists to ensure research participants have sufficient information to make a voluntary, informed decision about participation?",
+    "options": [
+      "Beneficence",
+      "Fidelity and responsibility",
+      "Informed consent",
+      "Justice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Ainsworth's Strange Situation, an infant classified as 'anxious-avoidant' (Type A) typically displays which pattern of behaviour upon reunion with the caregiver?",
+    "options": [
+      "Seeking immediate contact, being quickly soothed, and returning to exploration",
+      "Showing distress at separation, difficulty being comforted, and ambivalence on reunion",
+      "Showing little distress at separation and actively ignoring or avoiding the caregiver on reunion",
+      "Displaying disorganised, contradictory behaviours including freezing and fear of the caregiver"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a uniform speed of 4 m/s. What is the magnitude of the centripetal acceleration of the particle?",
+    "options": [
+      "8 m/s\u00b2",
+      "16 m/s\u00b2",
+      "32 m/s\u00b2",
+      "4 m/s\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A photon has a wavelength of 2.5 \u00d7 10\u207b\u00b9\u2070 m. What is the energy of this photon? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, c = 3 \u00d7 10\u2078 m/s)",
+    "options": [
+      "7.96 \u00d7 10\u207b\u00b9\u2076 J",
+      "7.96 \u00d7 10\u207b\u00b9\u2075 J",
+      "7.96 \u00d7 10\u207b\u00b9\u2077 J",
+      "7.96 \u00d7 10\u207b\u00b9\u2078 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a Young's double-slit experiment, the slit separation is 0.3 mm, the distance to the screen is 1.5 m, and the fringe width observed is 3 mm. What is the wavelength of the light used?",
+    "options": [
+      "400 nm",
+      "500 nm",
+      "600 nm",
+      "700 nm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A radioactive nucleus has a half-life of 8 days. What fraction of the original sample remains after 32 days?",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/32",
+      "1/4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A wire of length 2 m, cross-sectional area 1 \u00d7 10\u207b\u2076 m\u00b2, and resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9 m is used in a circuit. What is its resistance?",
+    "options": [
+      "0.034 \u03a9",
+      "0.034 m\u03a9",
+      "0.34 \u03a9",
+      "34 m\u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal expansion. Which of the following statements is correct?",
+    "options": [
+      "The internal energy of the gas increases",
+      "The temperature of the gas decreases",
+      "No heat is exchanged with the surroundings",
+      "The work done by the gas equals the heat absorbed from the surroundings"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A concave mirror has a focal length of 15 cm. An object is placed 45 cm from the mirror. What is the nature and position of the image?",
+    "options": [
+      "Real, inverted, 22.5 cm from mirror",
+      "Virtual, upright, 22.5 cm from mirror",
+      "Real, inverted, 45 cm from mirror",
+      "Real, inverted, 30 cm from mirror"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Bohr model of hydrogen predicts that the energy of the nth orbit is given by E\u2099 = -13.6/n\u00b2 eV. What is the wavelength of the photon emitted during a transition from n = 3 to n = 2? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, c = 3 \u00d7 10\u2078 m/s, 1 eV = 1.6 \u00d7 10\u207b\u00b9\u2079 J)",
+    "options": [
+      "656 nm",
+      "486 nm",
+      "434 nm",
+      "410 nm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A capacitor of capacitance 10 \u03bcF is charged to a potential difference of 200 V. What is the energy stored in the capacitor?",
+    "options": [
+      "0.1 J",
+      "0.2 J",
+      "0.4 J",
+      "1.0 J"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which phenomenon provides the best evidence that light has a wave nature?",
+    "options": [
+      "Photoelectric effect",
+      "Compton scattering",
+      "Diffraction through a narrow slit",
+      "Pair production"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A transformer has 500 turns in its primary coil and 50 turns in its secondary coil. If the primary voltage is 240 V and the current in the secondary is 10 A, what is the primary current assuming 100% efficiency?",
+    "options": [
+      "1 A",
+      "10 A",
+      "100 A",
+      "0.1 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A body of mass 2 kg is attached to a spring of spring constant 200 N/m and undergoes simple harmonic motion. What is the period of oscillation?",
+    "options": [
+      "\u03c0/5 s",
+      "2\u03c0/10 s",
+      "\u03c0/10 s",
+      "2\u03c0/5 s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An electron is accelerated through a potential difference of 50 V. What is the de Broglie wavelength of the electron? (m\u2091 = 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, e = 1.6 \u00d7 10\u207b\u00b9\u2079 C, h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s)",
+    "options": [
+      "1.73 \u00d7 10\u207b\u00b9\u2070 m",
+      "1.73 \u00d7 10\u207b\u2079 m",
+      "1.73 \u00d7 10\u207b\u00b9\u00b9 m",
+      "1.73 \u00d7 10\u207b\u00b9\u00b2 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A gravitational field of strength g = 9.81 N/kg exists at the Earth's surface. At what height above the Earth's surface (radius R = 6.4 \u00d7 10\u2076 m) would the gravitational field strength be reduced to g/4?",
+    "options": [
+      "6.4 \u00d7 10\u2076 m",
+      "12.8 \u00d7 10\u2076 m",
+      "3.2 \u00d7 10\u2076 m",
+      "19.2 \u00d7 10\u2076 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a p-n junction diode under reverse bias, which of the following correctly describes the behaviour of the depletion region?",
+    "options": [
+      "The depletion region narrows and large current flows",
+      "The depletion region widens and only a small leakage current flows",
+      "The depletion region disappears completely",
+      "The depletion region narrows and no current flows"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the role of the enzyme rubisco in the Calvin cycle?",
+    "options": [
+      "It catalyses the phosphorylation of RuBP using ATP",
+      "It catalyses the carboxylation of RuBP with CO2 to form two molecules of 3-PGA",
+      "It catalyses the reduction of 3-PGA to G3P using NADPH",
+      "It catalyses the regeneration of RuBP from G3P"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During aerobic respiration, the net gain of ATP molecules from the complete oxidation of one glucose molecule via substrate-level and oxidative phosphorylation is approximately:",
+    "options": [
+      "8 ATP",
+      "18 ATP",
+      "36\u201338 ATP",
+      "2 ATP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A student observes that a plant placed in a solution of high solute concentration loses turgor. Which term correctly describes the state of the plant cells?",
+    "options": [
+      "Turgid",
+      "Plasmolysed",
+      "Crenated",
+      "Haemolysed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements correctly distinguishes codominance from incomplete dominance?",
+    "options": [
+      "In codominance both alleles are expressed simultaneously, whereas in incomplete dominance neither allele is fully expressed",
+      "In codominance only one allele is expressed, whereas in incomplete dominance both are blended",
+      "In codominance one allele is masked, whereas in incomplete dominance one allele is dominant",
+      "In codominance the phenotype is intermediate, whereas in incomplete dominance both phenotypes appear"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Bohr effect describes which of the following phenomena?",
+    "options": [
+      "Increased pH causes haemoglobin to release more oxygen",
+      "Increased partial pressure of CO2 lowers pH and causes haemoglobin to release more oxygen",
+      "Increased temperature causes haemoglobin to bind more oxygen",
+      "Decreased CO2 concentration causes haemoglobin to release more oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the function of the loop of Henle in the mammalian kidney?",
+    "options": [
+      "It filters blood plasma under high pressure to produce the glomerular filtrate",
+      "It reabsorbs glucose and amino acids by active transport",
+      "It creates an osmotic gradient in the medulla that facilitates water reabsorption",
+      "It secretes antidiuretic hormone to regulate water potential"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dihybrid cross between two plants heterozygous for seed colour (Yy) and seed shape (Rr), what proportion of the offspring are expected to be homozygous recessive for both traits?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best explains why the inner mitochondrial membrane must be highly folded into cristae?",
+    "options": [
+      "To increase the volume available for storing the Krebs cycle intermediates",
+      "It provides a large surface area for the electron transport chain and ATP synthase complexes",
+      "It prevents the mixing of the matrix and the intermembrane space",
+      "It facilitates the direct transport of pyruvate into the matrix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The operon model proposed by Jacob and Monod explains gene regulation in prokaryotes. In the lac operon, which of the following correctly describes what happens when lactose is present?",
+    "options": [
+      "The repressor protein binds to the operator and prevents transcription",
+      "Lactose binds directly to RNA polymerase, activating transcription",
+      "Allolactose binds to the repressor, causing it to detach from the operator and allowing transcription",
+      "The promoter is methylated, preventing transcription"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement about meiosis is correct in relation to its role in generating genetic variation?",
+    "options": [
+      "Crossing over occurs during metaphase I and exchanges identical DNA segments",
+      "Independent assortment of homologous chromosomes occurs during anaphase II",
+      "Crossing over during prophase I and independent assortment during metaphase I both contribute to genetic variation",
+      "Meiosis II involves pairing of homologous chromosomes which increases variation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A nerve impulse is propagated along a myelinated axon by saltatory conduction. Which of the following best explains this phenomenon?",
+    "options": [
+      "The action potential travels continuously along the entire membrane of the axon",
+      "Depolarisation jumps from one node of Ranvier to the next, greatly increasing conduction speed",
+      "Myelin sheaths generate their own action potentials to speed transmission",
+      "Saltatory conduction decreases the refractory period, allowing more frequent impulses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the correct sequence of events during the light-dependent reactions of photosynthesis?",
+    "options": [
+      "Water is split \u2192 electrons enter PSII \u2192 ATP and NADPH are produced \u2192 electrons reduce NADP+",
+      "Light excites electrons in PSII \u2192 water is split \u2192 electrons pass through the electron transport chain \u2192 NADP+ is reduced to NADPH \u2192 ATP is synthesised by photophosphorylation",
+      "ATP is synthesised first \u2192 NADPH is produced \u2192 water is split \u2192 electrons enter PSI",
+      "Electrons from PSI reduce water \u2192 NADPH is produced \u2192 ATP is synthesised"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which phase of the cell cycle does DNA replication occur, and what enzyme is primarily responsible for synthesising the new DNA strand?",
+    "options": [
+      "G1 phase; DNA ligase",
+      "S phase; DNA polymerase",
+      "G2 phase; helicase",
+      "M phase; primase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why enzyme activity decreases sharply above the optimum temperature?",
+    "options": [
+      "Substrate molecules move too fast to bind to the active site",
+      "High temperature increases activation energy, slowing the reaction",
+      "Heat energy breaks hydrogen bonds and other non-covalent interactions, denaturing the enzyme and altering the shape of the active site",
+      "The enzyme becomes saturated with substrate at high temperatures"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ecological concept is illustrated when two species occupy the same niche and one eventually outcompetes and excludes the other?",
+    "options": [
+      "Mutualism",
+      "Competitive exclusion principle",
+      "Character displacement",
+      "Resource partitioning"
+    ],
+    "correctIndex": 1
+  }
+]

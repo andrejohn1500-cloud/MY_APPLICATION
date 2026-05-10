@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "options": [
+      "k = 12",
+      "k = 6",
+      "k = 4",
+      "k = 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a Markov chain with transition matrix P = [[0.6, 0.4],[0.3, 0.7]], what is the stationary distribution \u03c0 = (\u03c0\u2081, \u03c0\u2082)?",
+    "options": [
+      "\u03c0\u2081 = 3/7, \u03c0\u2082 = 4/7",
+      "\u03c0\u2081 = 0.5, \u03c0\u2082 = 0.5",
+      "\u03c0\u2081 = 0.6, \u03c0\u2082 = 0.4",
+      "\u03c0\u2081 = 0.4, \u03c0\u2082 = 0.6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle moves such that its velocity at time t is v(t) = 3t\u00b2 - 12t + 9 m/s. What is the total distance travelled from t = 0 to t = 4 seconds?",
+    "options": [
+      "16 m",
+      "12 m",
+      "20 m",
+      "8 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ Poisson(\u03bb) and P(X = 0) = e\u207b\u00b3, what is P(X \u2265 2)?",
+    "options": [
+      "1 - 4e\u207b\u00b3",
+      "1 - 3e\u207b\u00b3",
+      "e\u207b\u00b3(1 - 3)",
+      "4e\u207b\u00b3 - 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The joint probability density function of X and Y is f(x,y) = 2e\u207b\u02e3e\u207b\u00b2\u02b8 for x > 0, y > 0. What is P(X < Y)?",
+    "options": [
+      "1/3",
+      "2/3",
+      "1/2",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a two-sample hypothesis test, samples of sizes n\u2081 = 16 and n\u2082 = 25 are drawn from normal populations with unknown but equal variances. What are the degrees of freedom for the pooled t-test?",
+    "options": [
+      "39",
+      "41",
+      "40",
+      "38"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A projectile is launched with speed u at angle \u03b8 to the horizontal. Which expression gives the maximum range on a horizontal plane?",
+    "options": [
+      "u\u00b2sin(2\u03b8)/g",
+      "u\u00b2sin\u00b2(\u03b8)/g",
+      "2u\u00b2sin(\u03b8)cos(\u03b8)/g\u00b2 ",
+      "u\u00b2/g\u00b7sin(\u03b8)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "For a normal distribution N(\u03bc, \u03c3\u00b2), the moment generating function is M(t) = exp(\u03bct + \u03c3\u00b2t\u00b2/2). What is the kurtosis of the standard normal distribution?",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A force F = (3i + 4j) N acts on a particle displaced by d = (2i - j) m. What is the work done by F?",
+    "options": [
+      "2 J",
+      "14 J",
+      "10 J",
+      "5 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In linear programming, a basic feasible solution occurs when the number of non-zero variables equals the number of constraints. If a problem has 3 constraints and 5 variables, what is the maximum number of basic variables?",
+    "options": [
+      "3",
+      "5",
+      "2",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "X and Y are independent random variables where X ~ N(10, 9) and Y ~ N(6, 16). What is the distribution of 2X - Y?",
+    "options": [
+      "N(14, 52)",
+      "N(14, 34)",
+      "N(16, 52)",
+      "N(14, 25)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle of mass 5 kg rests on a rough inclined plane at 30\u00b0 to the horizontal. If the coefficient of friction is \u03bc = 1/\u221a3, what is the magnitude of the friction force acting on the particle? (g = 10 m/s\u00b2)",
+    "options": [
+      "25 N",
+      "25\u221a3 N",
+      "50/\u221a3 N",
+      "12.5 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The cumulative distribution function of X is F(x) = 1 - e\u207b\u00b2\u02e3 for x \u2265 0. What is E(X\u00b2)?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1",
+      "3/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 95% confidence interval for a population proportion p is constructed from a sample of 400 with sample proportion p\u0302 = 0.6. What is the margin of error? (z\u2080.\u2080\u2082\u2085 = 1.96)",
+    "options": [
+      "0.048",
+      "0.024",
+      "0.096",
+      "0.032"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a game, a player wins \u00a310 with probability 0.3, wins \u00a35 with probability 0.5, and loses \u00a38 with probability 0.2. What is the expected gain per game?",
+    "options": [
+      "\u00a34.90",
+      "\u00a35.10",
+      "\u00a33.90",
+      "\u00a36.00"
+    ],
+    "correctIndex": 0
+  }
+]

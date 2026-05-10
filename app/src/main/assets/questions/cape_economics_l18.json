@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a perfectly competitive market, a firm is said to be in long-run equilibrium when which of the following conditions holds simultaneously?",
+    "options": [
+      "P = MC = MR = AC at the minimum point of the AC curve",
+      "P > MC and P = MR at the minimum point of the AC curve",
+      "P = MC and MR > AC at the minimum point of the MC curve",
+      "TR = TC and MR > MC at any output level"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following BEST explains the concept of the J-curve effect following a currency depreciation?",
+    "options": [
+      "The trade balance improves immediately as export volumes rise faster than import prices",
+      "The trade balance initially worsens before improving, due to inelastic short-run demand for imports and exports",
+      "The trade balance improves only if the Marshall-Lerner condition is violated",
+      "The current account surplus widens instantaneously when the exchange rate falls"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A central bank pursuing an inflation-targeting framework raises the policy interest rate. Through the credit channel of monetary transmission, which sequence of events is MOST likely?",
+    "options": [
+      "Bank lending rates fall, investment increases, aggregate demand rises, inflation accelerates",
+      "Bank lending rates rise, cost of borrowing increases, investment contracts, aggregate demand falls, inflation moderates",
+      "Reserve requirements increase, money multiplier rises, broad money supply expands",
+      "Open market purchases reduce bond yields, stimulating consumption and net exports"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Stolper-Samuelson theorem predicts that, in a labour-abundant country opening to free trade, which outcome is MOST likely?",
+    "options": [
+      "The real wage of labour falls and the real return to capital rises",
+      "The real wage of labour rises and the real return to capital falls",
+      "Both factor returns rise proportionally with the terms of trade",
+      "Factor prices converge to the world average regardless of factor endowments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Keynesian cross model, if the marginal propensity to consume (MPC) is 0.75 and the government increases expenditure by $200 million, the equilibrium national income will increase by:",
+    "options": [
+      "$150 million",
+      "$200 million",
+      "$600 million",
+      "$800 million"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a DISTINGUISHING feature of an oligopoly market structure compared with monopolistic competition?",
+    "options": [
+      "Firms are price takers in the long run",
+      "There is strategic interdependence among the few dominant firms",
+      "Product differentiation is absent in all forms",
+      "Free entry and exit occur in the short run"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of X-inefficiency, introduced by Harvey Leibenstein, refers to:",
+    "options": [
+      "Productive inefficiency arising from operating at a point other than minimum average cost",
+      "The welfare loss to society caused by monopoly pricing above marginal cost",
+      "The failure of firms to minimise costs due to lack of competitive pressure, leading to organisational slack",
+      "The deadweight loss resulting from a per-unit excise tax imposed on a competitive market"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the IS-LM framework, a simultaneous expansionary fiscal policy and contractionary monetary policy will MOST likely result in:",
+    "options": [
+      "Higher national income and an ambiguous change in the interest rate",
+      "Higher interest rates and ambiguous change in national income",
+      "Lower interest rates and higher national income",
+      "Lower national income and lower interest rates"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which condition must hold for a third-degree price-discriminating monopolist to maximise profit across two separate markets?",
+    "options": [
+      "MR\u2081 = MR\u2082 = MC, where market 1 has higher elasticity and charges a lower price",
+      "MR\u2081 = MR\u2082 = MC, where the market with lower price elasticity pays a higher price",
+      "P\u2081 = P\u2082 = MC, with output split equally between the two markets",
+      "The monopolist equates TR in each market rather than MR to MC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the Heckscher-Ohlin theory, a country will export goods that intensively use its:",
+    "options": [
+      "Scarce factor of production, to earn higher world prices",
+      "Abundant factor of production, in which it has a comparative advantage",
+      "Most technologically advanced inputs, regardless of factor endowments",
+      "Imported intermediate inputs, reflecting global value chain integration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The 'impossible trinity' (trilemma) in international macroeconomics states that a country CANNOT simultaneously maintain:",
+    "options": [
+      "A fixed exchange rate, free capital mobility, and an independent monetary policy",
+      "A floating exchange rate, fiscal discipline, and price stability",
+      "A current account surplus, capital account deficit, and balanced budget",
+      "Full employment, price stability, and balanced trade simultaneously"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of Caribbean small open economies, Dutch Disease refers to:",
+    "options": [
+      "The contraction of the manufacturing sector following a boom in a primary commodity export sector that causes real exchange rate appreciation",
+      "The spread of inflation from a large trading partner to a small economy through import prices",
+      "The fiscal deterioration caused by excessive borrowing to fund natural resource extraction",
+      "The sudden reversal of capital flows leading to a balance of payments crisis in a resource-rich economy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the permanent income hypothesis developed by Milton Friedman, which fiscal policy action would have the GREATEST stimulative effect on consumption?",
+    "options": [
+      "A one-off temporary tax rebate announced as a single payment",
+      "A permanent reduction in income tax rates expected to last indefinitely",
+      "An increase in government transfer payments lasting only one quarter",
+      "A tax holiday applying to a single category of luxury goods for six months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In game theory, a Nash Equilibrium occurs when:",
+    "options": [
+      "Each player maximises joint payoffs given the strategies of all other players",
+      "Each player's strategy is the best response to the strategies chosen by all other players, and no player has an incentive to deviate unilaterally",
+      "One dominant firm sets price and all rivals follow, maximising industry profit",
+      "Players cooperate to achieve a Pareto-optimal outcome through binding agreements"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Gini coefficient measures income inequality on a scale from 0 to 1. Which of the following statements about this measure is CORRECT?",
+    "options": [
+      "A Gini coefficient of 0 indicates perfect inequality, where one individual earns all income",
+      "A Gini coefficient of 1 indicates perfect equality, where all individuals earn the same income",
+      "The Gini coefficient equals the ratio of the area between the Lorenz curve and the line of perfect equality to the total area under the line of perfect equality",
+      "A higher Gini coefficient indicates lower income inequality in the economy"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company purchased machinery for $80,000 on 1 January 2020. The machinery has a useful life of 5 years and a residual value of $5,000. Using the straight-line method, what is the carrying value of the machinery at 31 December 2022?",
+    "options": [
+      "$35,000",
+      "$45,000",
+      "$38,000",
+      "$32,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the matching principle in accounting?",
+    "options": [
+      "Assets must equal liabilities plus capital at all times",
+      "Expenses should be recognised in the same period as the revenues they help generate",
+      "All transactions must be recorded at their original cost",
+      "Financial statements must be prepared on a going concern basis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A trader's capital at the beginning of the year was $45,000. During the year, the owner withdrew $8,000 and introduced additional capital of $12,000. Net profit for the year was $18,000. What is the closing capital?",
+    "options": [
+      "$67,000",
+      "$63,000",
+      "$55,000",
+      "$71,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following information relates to a business: Opening inventory $12,000; Purchases $95,000; Carriage inwards $3,000; Closing inventory $15,000; Returns outwards $4,000. What is the cost of goods sold?",
+    "options": [
+      "$91,000",
+      "$87,000",
+      "$94,000",
+      "$83,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following errors would be detected by a trial balance?",
+    "options": [
+      "A transaction completely omitted from the books",
+      "A debit entry posted to the wrong account",
+      "A single entry where only one side of a transaction is recorded",
+      "An error of principle where a capital expenditure is treated as revenue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a partnership, if the partnership agreement is silent on the matter, how should profits be divided according to the Partnership Act?",
+    "options": [
+      "In proportion to their capital contributions",
+      "Equally among all partners",
+      "In proportion to their salary allocations",
+      "Based on the number of hours each partner works"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cheque for $540 received from a debtor was correctly entered in the cash book but posted to the debtor's account as $450. Which journal entry corrects this error?",
+    "options": [
+      "Debit Debtor's account $90; Credit Suspense account $90",
+      "Debit Suspense account $90; Credit Debtor's account $90",
+      "Debit Cash account $90; Credit Debtor's account $90",
+      "Debit Debtor's account $90; Credit Cash account $90"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following would appear as a liability in the balance sheet of a club or non-profit organisation?",
+    "options": [
+      "Subscription income received in advance",
+      "Life membership fees received",
+      "Accumulated fund",
+      "Surplus for the year"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company issues 5,000 shares at $4.00 each at a premium of $0.50 per share. How will this be recorded?",
+    "options": [
+      "Debit Bank $22,500; Credit Share Capital $22,500",
+      "Debit Bank $20,000; Credit Share Capital $20,000",
+      "Debit Bank $22,500; Credit Share Capital $20,000 and Share Premium $2,500",
+      "Debit Bank $20,000; Credit Share Capital $17,500 and Share Premium $2,500"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bank reconciliation statement shows: Balance as per cash book $3,200 (Dr); Unpresented cheques $1,500; Outstanding deposits $800; Bank charges not in cash book $200. What is the balance as per bank statement?",
+    "options": [
+      "$3,900",
+      "$4,500",
+      "$2,500",
+      "$3,500"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the reducing balance method of depreciation, which of the following statements is TRUE?",
+    "options": [
+      "The depreciation charge remains constant each year",
+      "The depreciation charge is higher in the earlier years of an asset's life",
+      "The carrying value of the asset eventually reaches zero",
+      "The depreciation charge is calculated on the original cost each year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A firm's debtors at year end are $40,000. The provision for doubtful debts is to be maintained at 5%. The existing provision is $1,500. What is the entry required to adjust the provision?",
+    "options": [
+      "Debit Provision for Doubtful Debts $500; Credit Income Statement $500",
+      "Debit Income Statement $500; Credit Provision for Doubtful Debts $500",
+      "Debit Income Statement $2,000; Credit Provision for Doubtful Debts $2,000",
+      "Debit Provision for Doubtful Debts $1,500; Credit Income Statement $1,500"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a capital expenditure?",
+    "options": [
+      "Payment of electricity bill for the business premises",
+      "Purchase of stationery for office use",
+      "Cost of installing a new production machine",
+      "Annual insurance premium on business vehicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Partners A, B and C share profits in the ratio 3:2:1. Partner B receives an annual salary of $6,000. The net profit before appropriations is $36,000. How much does Partner A receive from the profit share after the salary allocation?",
+    "options": [
+      "$15,000",
+      "$18,000",
+      "$12,500",
+      "$10,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which accounting concept requires that a business should use the same accounting methods and policies from one period to the next?",
+    "options": [
+      "Prudence concept",
+      "Accruals concept",
+      "Consistency concept",
+      "Business entity concept"
+    ],
+    "correctIndex": 2
+  }
+]

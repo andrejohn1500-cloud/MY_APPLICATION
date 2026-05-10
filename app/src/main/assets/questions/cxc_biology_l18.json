@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for joining Okazaki fragments during DNA replication?",
+    "options": [
+      "DNA polymerase III",
+      "DNA ligase",
+      "DNA helicase",
+      "Primase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which molecule acts as the final electron acceptor?",
+    "options": [
+      "Carbon dioxide",
+      "NADP+",
+      "ATP",
+      "Oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A plant cell is placed in a solution with a water potential of -600 kPa. If the cell's solute potential is -800 kPa and its pressure potential is 300 kPa, which direction will water move?",
+    "options": [
+      "Water moves into the cell because the cell's water potential is lower",
+      "Water moves out of the cell because the external solution has higher water potential",
+      "Water moves into the cell because the external solution has lower water potential",
+      "No net movement occurs as water potentials are equal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the role of cholesterol in the plasma membrane?",
+    "options": [
+      "It actively transports ions across the membrane",
+      "It increases membrane fluidity at all temperatures",
+      "It regulates membrane fluidity by preventing phospholipids from packing too closely at low temperatures",
+      "It forms the hydrophilic core of the lipid bilayer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a cross between two heterozygous individuals for a gene showing incomplete dominance, what phenotypic ratio is expected in the offspring?",
+    "options": [
+      "3:1",
+      "1:2:1",
+      "1:1",
+      "9:3:3:1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which process occurs during the oxidative decarboxylation of pyruvate?",
+    "options": [
+      "Pyruvate is converted to ethanol and carbon dioxide",
+      "Pyruvate is converted to acetyl CoA with the release of CO2 and production of NADH",
+      "Pyruvate is phosphorylated to form ATP",
+      "Pyruvate is converted to oxaloacetate in the mitochondrial matrix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary advantage of the countercurrent multiplier system in the loop of Henle?",
+    "options": [
+      "It directly filters blood under high pressure",
+      "It creates an osmotic gradient in the medulla that enables water reabsorption",
+      "It secretes urea into the filtrate to increase concentration",
+      "It actively transports glucose back into the blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement correctly distinguishes between primary and secondary immune responses?",
+    "options": [
+      "The primary response produces more antibodies than the secondary response",
+      "The secondary response is faster and produces more antibodies due to memory cells",
+      "The primary response involves T cells while the secondary involves only B cells",
+      "Both responses occur with equal speed and magnitude"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In meiosis, crossing over between non-sister chromatids occurs during which stage?",
+    "options": [
+      "Metaphase I",
+      "Prophase I",
+      "Anaphase II",
+      "Telophase I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A population of beetles shows a normal distribution of body size. After several generations in an environment where only intermediate-sized beetles survive, which type of natural selection has occurred?",
+    "options": [
+      "Directional selection",
+      "Disruptive selection",
+      "Stabilizing selection",
+      "Sexual selection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best explains why facilitated diffusion does not require ATP?",
+    "options": [
+      "It occurs along the concentration gradient using carrier or channel proteins",
+      "It uses chemical energy stored in carrier proteins",
+      "It pumps molecules against the electrochemical gradient",
+      "It relies on osmosis to move molecules across the membrane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the nitrogen cycle, which group of bacteria is responsible for converting nitrates back into atmospheric nitrogen?",
+    "options": [
+      "Nitrifying bacteria",
+      "Nitrogen-fixing bacteria",
+      "Denitrifying bacteria",
+      "Ammonifying bacteria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A researcher discovers a mutation in the lac operon of E. coli that permanently inactivates the repressor protein. What would be the expected outcome?",
+    "options": [
+      "The structural genes would never be transcribed",
+      "Lactose would be permanently unable to bind the operator",
+      "The structural genes would be continuously transcribed regardless of lactose presence",
+      "RNA polymerase would be unable to bind the promoter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the relationship between transpiration rate and guard cell turgor pressure?",
+    "options": [
+      "High turgor pressure closes stomata, reducing transpiration",
+      "High turgor pressure opens stomata, increasing transpiration",
+      "Low turgor pressure opens stomata, increasing transpiration",
+      "Turgor pressure has no effect on stomatal aperture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A student measures the rate of enzyme activity at various substrate concentrations and finds that increasing substrate concentration beyond a certain point does not increase the reaction rate. Which explanation best accounts for this observation?",
+    "options": [
+      "The enzyme has been denatured by the excess substrate",
+      "All active sites of the available enzyme molecules are saturated",
+      "The pH has changed due to the increased substrate concentration",
+      "Competitive inhibitors are blocking all active sites"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a building constructed on soft, compressible soil where load-bearing capacity is poor?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Stepped foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a damp proof course (DPC) in a wall construction?",
+    "options": [
+      "To provide structural support to the wall",
+      "To prevent moisture from rising through the wall by capillary action",
+      "To improve the thermal insulation of the wall",
+      "To act as a decorative feature at floor level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In reinforced concrete construction, what is the main function of the steel reinforcement bars?",
+    "options": [
+      "To resist compressive forces in the concrete",
+      "To resist tensile forces that concrete cannot withstand",
+      "To waterproof the concrete structure",
+      "To reduce the overall weight of the structure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roofing material is traditionally made from fired clay and is commonly used in Caribbean construction?",
+    "options": [
+      "Asphalt shingles",
+      "Galvanized steel sheets",
+      "Clay tiles",
+      "Fibre cement sheets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'setting out' refer to in building construction?",
+    "options": [
+      "The process of mixing concrete to the correct ratio",
+      "The procedure of establishing the exact position and dimensions of a building on site",
+      "The method of applying mortar to brickwork",
+      "The technique of finishing concrete surfaces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which bond pattern in brickwork is considered the strongest because bricks overlap in both directions?",
+    "options": [
+      "Stretcher bond",
+      "Header bond",
+      "English bond",
+      "Running bond"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended water-cement ratio range for producing workable and durable concrete?",
+    "options": [
+      "0.2 to 0.3",
+      "0.4 to 0.6",
+      "0.8 to 1.0",
+      "1.2 to 1.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In timber framing, what is the term for the horizontal member that sits on top of the wall studs and supports the roof structure?",
+    "options": [
+      "Sill plate",
+      "Wall plate",
+      "Noggin",
+      "Lintel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of pipe joint is most commonly used for PVC drainage pipes in buildings?",
+    "options": [
+      "Flanged joint",
+      "Solvent-welded or push-fit rubber ring joint",
+      "Compression joint",
+      "Lead wiped joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of an expansion joint in a concrete floor slab?",
+    "options": [
+      "To allow the slab to be separated for future demolition",
+      "To accommodate thermal expansion and contraction, preventing cracking",
+      "To provide drainage channels within the floor",
+      "To increase the load-bearing capacity of the slab"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used by a mason to check that a wall is perfectly vertical during construction?",
+    "options": [
+      "Builder's square",
+      "Spirit level and plumb bob",
+      "Profile board",
+      "Ranging line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard overlap required when laying corrugated galvanized steel roofing sheets to prevent water ingress?",
+    "options": [
+      "One corrugation",
+      "One and a half corrugations",
+      "Half a corrugation",
+      "Two and a half corrugations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical installations, what is the purpose of the earth wire in a three-core cable?",
+    "options": [
+      "To carry the main supply current to appliances",
+      "To return current to the supply source",
+      "To provide a safe path for fault current, protecting users from electric shock",
+      "To regulate voltage within the circuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mortar mix ratio (cement:sand) is generally recommended for general brickwork and blockwork in building construction?",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:6",
+      "1:8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a soffit board in roof construction?",
+    "options": [
+      "To provide a weatherproof covering over the ridge of the roof",
+      "To close the underside of the roof overhang between the fascia and the wall",
+      "To support the roof tiles along the eaves",
+      "To act as a gutter support bracket"
+    ],
+    "correctIndex": 1
+  }
+]

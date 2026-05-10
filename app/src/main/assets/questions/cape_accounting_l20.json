@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has a gearing ratio of 65% and an interest cover of 1.8 times. Which combination best describes the financial risk profile of this company?",
+    "options": [
+      "Low gearing, adequate interest cover",
+      "High gearing, dangerously low interest cover",
+      "Moderate gearing, strong interest cover",
+      "Low gearing, dangerously low interest cover"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 36 - Impairment of Assets, the recoverable amount of an asset is defined as:",
+    "options": [
+      "The higher of fair value less costs of disposal and value in use",
+      "The lower of fair value less costs of disposal and value in use",
+      "The carrying amount less accumulated depreciation",
+      "The replacement cost of the asset"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company issues 500,000 ordinary shares at $2.50 each at a premium of $0.75 per share. What is the correct journal entry to the Share Premium account?",
+    "options": [
+      "Debit Share Premium $375,000",
+      "Credit Share Premium $375,000",
+      "Credit Share Premium $1,250,000",
+      "Debit Share Premium $1,250,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly distinguishes a finance lease from an operating lease under IFRS 16?",
+    "options": [
+      "A finance lease transfers substantially all risks and rewards of ownership; an operating lease does not",
+      "An operating lease always involves immovable property; a finance lease does not",
+      "A finance lease is always short-term; an operating lease is long-term",
+      "An operating lease appears on the balance sheet; a finance lease does not"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following data relates to process costing: opening WIP 400 units (60% complete), units started 3,600, closing WIP 500 units (40% complete), normal loss 5%. Using the FIFO method, what are the equivalent units for conversion costs?",
+    "options": [
+      "3,560 units",
+      "3,660 units",
+      "3,460 units",
+      "3,760 units"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company's after-tax profit is $480,000, depreciation is $90,000, and working capital increased by $35,000. The tax paid was $120,000 less than the tax charge. What is the net cash from operating activities using the indirect method?",
+    "options": [
+      "$655,000",
+      "$535,000",
+      "$775,000",
+      "$415,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a public company limited by shares under Caribbean company law?",
+    "options": [
+      "It may offer shares to the general public",
+      "Its shares are freely transferable",
+      "It requires a minimum of two directors",
+      "It restricts the right to transfer shares"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In absorption costing, a favourable fixed overhead volume variance indicates:",
+    "options": [
+      "Actual output exceeded budgeted output",
+      "Actual fixed costs were less than budgeted fixed costs",
+      "Actual hours worked exceeded budgeted hours",
+      "Variable costs were under-absorbed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bond with a face value of $1,000,000 at 8% coupon rate is issued when the market rate is 10%. Using present value concepts, the bond will be issued at:",
+    "options": [
+      "Par value",
+      "A premium",
+      "A discount",
+      "An amount equal to the future value of coupons only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under IAS 12 - Income Taxes, a deferred tax liability arises when:",
+    "options": [
+      "The tax base of an asset exceeds its carrying amount",
+      "The carrying amount of an asset exceeds its tax base",
+      "The carrying amount of a liability exceeds its tax base",
+      "The tax base of a liability exceeds its carrying amount"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Zara Ltd acquires 75% of Alpha Ltd for $900,000. The fair value of Alpha's net assets at acquisition is $1,000,000. Using the proportionate share method for non-controlling interest, what is the goodwill on acquisition?",
+    "options": [
+      "$150,000",
+      "$250,000",
+      "$100,000",
+      "$650,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which transfer pricing method compares the price charged in a controlled transaction with the price charged in a comparable uncontrolled transaction?",
+    "options": [
+      "Cost Plus Method",
+      "Resale Price Method",
+      "Comparable Uncontrolled Price Method",
+      "Profit Split Method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The following information relates to a company: Sales $2,400,000; Gross Profit margin 35%; Operating expenses $450,000; Tax rate 30%. What is the net profit after tax?",
+    "options": [
+      "$189,000",
+      "$270,000",
+      "$441,000",
+      "$630,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the Conceptual Framework for Financial Reporting, which qualitative characteristic ensures that financial information represents the substance of an economic phenomenon rather than merely its legal form?",
+    "options": [
+      "Relevance",
+      "Faithful representation",
+      "Comparability",
+      "Timeliness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company uses Activity-Based Costing. The following data is available: Machine setups cost pool $240,000, number of setups 400; Product X requires 150 setups and produces 3,000 units. What is the setup cost per unit for Product X?",
+    "options": [
+      "$30.00",
+      "$60.00",
+      "$80.00",
+      "$90.00"
+    ],
+    "correctIndex": 0
+  }
+]

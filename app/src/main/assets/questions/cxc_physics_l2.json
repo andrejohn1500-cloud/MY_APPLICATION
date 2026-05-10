@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Pascal",
+      "Watt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Displacement",
+      "Speed",
+      "Force"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth's surface?",
+    "options": [
+      "9.8 m/s",
+      "9.8 m/s\u00b2",
+      "9.8 N",
+      "9.8 kg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of wave requires a medium to travel through?",
+    "options": [
+      "Radio wave",
+      "Light wave",
+      "Sound wave",
+      "X-ray"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the formula for density?",
+    "options": [
+      "Density = Mass \u00d7 Volume",
+      "Density = Volume / Mass",
+      "Density = Mass / Volume",
+      "Density = Mass + Volume"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A current of 2 A flows through a resistor of 5 ohms. What is the voltage across the resistor?",
+    "options": [
+      "2.5 V",
+      "7 V",
+      "10 V",
+      "3 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which color of visible light has the longest wavelength?",
+    "options": [
+      "Violet",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What happens to the pressure of a fixed mass of gas if its volume is halved at constant temperature?",
+    "options": [
+      "It halves",
+      "It doubles",
+      "It stays the same",
+      "It quadruples"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of potential energy?",
+    "options": [
+      "A moving car",
+      "A stretched spring",
+      "A spinning top",
+      "A flowing river"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Coulomb",
+      "Ohm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which law states that for every action there is an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Hooke's Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of mirror is used in car headlights to produce a parallel beam of light?",
+    "options": [
+      "Plane mirror",
+      "Concave mirror",
+      "Convex mirror",
+      "Curved mirror"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the frequency of a wave with a period of 0.5 seconds?",
+    "options": [
+      "0.5 Hz",
+      "1 Hz",
+      "2 Hz",
+      "4 Hz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which particle in the atom has no electric charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Ion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What form of heat transfer occurs through a vacuum?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Insulation"
+    ],
+    "correctIndex": 2
+  }
+]

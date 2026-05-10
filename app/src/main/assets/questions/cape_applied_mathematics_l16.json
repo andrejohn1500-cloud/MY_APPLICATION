@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "options": [
+      "k = 12",
+      "k = 6",
+      "k = 4",
+      "k = 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a Poisson process, events occur at a mean rate of 3 per hour. What is the probability that exactly 5 events occur in a 2-hour period?",
+    "options": [
+      "e\u207b\u2076(6\u2075/5!)",
+      "e\u207b\u00b3(3\u2075/5!)",
+      "e\u207b\u2076(3\u2075/5!)",
+      "e\u207b\u00b3(6\u2075/5!)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle moves with velocity v = 3t\u00b2 - 12t + 9 m/s. What is the total distance travelled in the interval 0 \u2264 t \u2264 4 seconds?",
+    "options": [
+      "20 m",
+      "16 m",
+      "12 m",
+      "24 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two independent random variables X ~ N(\u03bc\u2081, \u03c3\u2081\u00b2) and Y ~ N(\u03bc\u2082, \u03c3\u2082\u00b2). The distribution of 2X - 3Y is:",
+    "options": [
+      "N(2\u03bc\u2081 - 3\u03bc\u2082, 4\u03c3\u2081\u00b2 + 9\u03c3\u2082\u00b2)",
+      "N(2\u03bc\u2081 - 3\u03bc\u2082, 4\u03c3\u2081\u00b2 - 9\u03c3\u2082\u00b2)",
+      "N(2\u03bc\u2081 + 3\u03bc\u2082, 4\u03c3\u2081\u00b2 + 9\u03c3\u2082\u00b2)",
+      "N(2\u03bc\u2081 - 3\u03bc\u2082, 2\u03c3\u2081\u00b2 + 3\u03c3\u2082\u00b2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 95% confidence interval for a population mean is constructed from a sample of size 36 with sample mean 50 and known standard deviation 12. What is the confidence interval?",
+    "options": [
+      "(46.08, 53.92)",
+      "(47.08, 52.92)",
+      "(48.04, 51.96)",
+      "(45.12, 54.88)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A force F = (3i + 4j) N acts on a particle of mass 2 kg. What is the magnitude of the acceleration produced?",
+    "options": [
+      "2.5 m/s\u00b2",
+      "5 m/s\u00b2",
+      "3.5 m/s\u00b2",
+      "7 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In hypothesis testing, a Type II error occurs when:",
+    "options": [
+      "We fail to reject a false null hypothesis",
+      "We reject a true null hypothesis",
+      "We reject a false null hypothesis",
+      "We accept a true alternative hypothesis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The moment generating function of X is M(t) = e^(\u03bct + \u03c3\u00b2t\u00b2/2). This corresponds to which distribution?",
+    "options": [
+      "Normal distribution",
+      "Poisson distribution",
+      "Binomial distribution",
+      "Exponential distribution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A box contains 5 red, 4 blue, and 3 green balls. Two balls are drawn without replacement. What is the probability that both balls are the same colour?",
+    "options": [
+      "19/66",
+      "20/66",
+      "17/66",
+      "21/66"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle is projected at an angle \u03b8 to the horizontal with speed u. At maximum height, the speed of the particle is:",
+    "options": [
+      "u cos \u03b8",
+      "u sin \u03b8",
+      "u",
+      "u tan \u03b8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "For the regression line y = a + bx, the least squares estimate of b is:",
+    "options": [
+      "\u03a3(x\u1d62 - x\u0304)(y\u1d62 - \u0233) / \u03a3(x\u1d62 - x\u0304)\u00b2",
+      "\u03a3(x\u1d62 - x\u0304)(y\u1d62 - \u0233) / \u03a3(y\u1d62 - \u0233)\u00b2",
+      "\u03a3x\u1d62y\u1d62 / \u03a3x\u1d62\u00b2",
+      "\u03a3(y\u1d62 - \u0233)\u00b2 / \u03a3(x\u1d62 - x\u0304)\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A uniform rod AB of length 4 m and mass 10 kg rests horizontally on two supports at distances 0.5 m from each end. What is the reaction at each support?",
+    "options": [
+      "49 N",
+      "98 N",
+      "24.5 N",
+      "9.8 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ Bin(n, p), the variance of X is maximized when p equals:",
+    "options": [
+      "0.5",
+      "0.25",
+      "0.75",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car decelerates uniformly from 30 m/s to rest over a distance of 90 m. What is the deceleration?",
+    "options": [
+      "5 m/s\u00b2",
+      "3 m/s\u00b2",
+      "10 m/s\u00b2",
+      "15 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Spearman rank correlation coefficient is used instead of Pearson's when:",
+    "options": [
+      "Data is non-normal or ordinal",
+      "Sample size is large",
+      "Data follows a normal distribution",
+      "Variables are continuous and linear"
+    ],
+    "correctIndex": 0
+  }
+]

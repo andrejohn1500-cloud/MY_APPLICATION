@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for catalyzing the conversion of fibrinogen to fibrin during blood clotting?",
+    "options": [
+      "Thrombin",
+      "Prothrombin",
+      "Thromboplastin",
+      "Plasmin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, which molecule acts as the primary electron donor?",
+    "options": [
+      "NADPH",
+      "Water",
+      "Carbon dioxide",
+      "ATP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with blood type AB negative can receive blood from which of the following donors without risk of agglutination?",
+    "options": [
+      "AB positive only",
+      "O negative only",
+      "Any ABO group but Rh negative only",
+      "Any blood type"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the role of the loop of Henle in the nephron?",
+    "options": [
+      "It filters blood under high pressure to produce glomerular filtrate",
+      "It reabsorbs glucose and amino acids by active transport",
+      "It creates an osmotic gradient in the medulla that facilitates water reabsorption",
+      "It secretes hydrogen ions to regulate blood pH only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The condition phenylketonuria (PKU) results from the inability to convert phenylalanine to tyrosine. This is caused by a deficiency of which enzyme?",
+    "options": [
+      "Tyrosinase",
+      "Phenylalanine hydroxylase",
+      "Tryptophan synthetase",
+      "Homogentisate oxidase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which phase of mitosis is characterized by the alignment of chromosomes along the metaphase plate?",
+    "options": [
+      "Prophase",
+      "Anaphase",
+      "Metaphase",
+      "Telophase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During aerobic respiration, the net gain of ATP molecules from the complete oxidation of one molecule of glucose is approximately:",
+    "options": [
+      "2 ATP",
+      "8 ATP",
+      "36-38 ATP",
+      "24 ATP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following hormones stimulates the reabsorption of sodium ions in the distal convoluted tubule and collecting duct of the nephron?",
+    "options": [
+      "ADH (vasopressin)",
+      "Aldosterone",
+      "Renin",
+      "Atrial natriuretic peptide"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A child displays a genetic disorder that skips generations and predominantly affects males. This pattern of inheritance is most consistent with:",
+    "options": [
+      "Autosomal dominant inheritance",
+      "Autosomal recessive inheritance",
+      "X-linked recessive inheritance",
+      "Mitochondrial inheritance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best explains why carbon monoxide poisoning is life-threatening?",
+    "options": [
+      "It destroys the alveolar walls reducing surface area for gas exchange",
+      "It irreversibly binds to haemoglobin with a higher affinity than oxygen, preventing oxygen transport",
+      "It increases the viscosity of blood preventing normal circulation",
+      "It denatures enzymes involved in cellular respiration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process by which mRNA is synthesized from a DNA template is called transcription. Which enzyme is directly responsible for catalyzing this process?",
+    "options": [
+      "DNA polymerase",
+      "RNA primase",
+      "RNA polymerase",
+      "Reverse transcriptase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the human immune response, which type of T lymphocyte is primarily responsible for destroying body cells that have been infected by a virus?",
+    "options": [
+      "Helper T cells",
+      "Regulatory T cells",
+      "Memory T cells",
+      "Cytotoxic T cells"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "During the cardiac cycle, which event corresponds to the 'lub' sound heard through a stethoscope?",
+    "options": [
+      "Closure of the semilunar valves at the start of diastole",
+      "Closure of the atrioventricular valves at the start of ventricular systole",
+      "Opening of the aortic valve during ventricular systole",
+      "Contraction of the atria during atrial systole"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements correctly describes the mechanism of enzyme inhibition by a competitive inhibitor?",
+    "options": [
+      "It binds permanently to the active site and denatures the enzyme",
+      "It binds to the allosteric site changing the shape of the active site",
+      "It binds to the active site competing with the substrate and this inhibition can be overcome by increasing substrate concentration",
+      "It increases the activation energy required for the reaction to proceed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sickle cell anaemia is caused by a single point mutation in the gene encoding the beta-globin chain of haemoglobin. Which amino acid substitution causes this condition?",
+    "options": [
+      "Glutamic acid replaced by valine",
+      "Valine replaced by lysine",
+      "Glutamic acid replaced by glycine",
+      "Lysine replaced by glutamic acid"
+    ],
+    "correctIndex": 0
+  }
+]

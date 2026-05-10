@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which hormone is primarily responsible for initiating parturition in cattle by causing luteolysis of the corpus luteum?",
+    "options": [
+      "Oxytocin",
+      "Prostaglandin F2\u03b1",
+      "Progesterone",
+      "Luteinizing hormone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil science, the cation exchange capacity (CEC) of a soil is primarily determined by which two components?",
+    "options": [
+      "Sand and silt fractions",
+      "Clay minerals and organic matter",
+      "Iron oxides and calcium carbonate",
+      "Soil pH and bulk density"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer applies anhydrous ammonia to a waterlogged soil. Which microbial process would MOST likely result in significant nitrogen loss from this system?",
+    "options": [
+      "Nitrification",
+      "Ammonification",
+      "Denitrification",
+      "Nitrogen fixation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the principle of heterosis (hybrid vigour) in plant breeding?",
+    "options": [
+      "The offspring show traits intermediate between the two parents",
+      "The F1 hybrid outperforms the better parent due to increased homozygosity",
+      "The F1 hybrid exhibits superior performance compared to both parents due to increased heterozygosity",
+      "Repeated selfing leads to improved uniformity and yield"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Caribbean aquaculture, tilapia (Oreochromis niloticus) production is commonly affected by population explosion due to early maturation. Which management strategy MOST effectively addresses this problem?",
+    "options": [
+      "Increasing water salinity above 15 ppt",
+      "Monosex culture using hormone-treated fry",
+      "Reducing stocking density by 50%",
+      "Adding predatory fish such as snook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Law of the Minimum, as formulated by Justus von Liebig, states that:",
+    "options": [
+      "Plant growth is maximized when all nutrients are supplied in equal proportions",
+      "Plant growth is limited by the nutrient present in the lowest quantity relative to plant needs",
+      "The total yield is proportional to the sum of all available nutrients",
+      "Nutrient uptake follows a first-order kinetic relationship with soil concentration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pathological conditions in poultry is caused by Marek's Disease Virus, a herpesvirus, and is characterized by lymphomatous tumors and peripheral nerve lesions?",
+    "options": [
+      "Infectious Bursal Disease",
+      "Newcastle Disease",
+      "Marek's Disease",
+      "Avian Influenza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During meiosis, which stage involves the synapsis of homologous chromosomes and the potential exchange of genetic material through crossing over?",
+    "options": [
+      "Metaphase I",
+      "Prophase I",
+      "Anaphase II",
+      "Telophase I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A soil with a bulk density of 1.4 g/cm\u00b3 and a particle density of 2.65 g/cm\u00b3 has a total porosity of approximately:",
+    "options": [
+      "47.2%",
+      "52.8%",
+      "34.6%",
+      "62.1%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of integrated pest management (IPM) for sugarcane in the Caribbean, which biological control agent is used against the sugarcane moth borer (Diatraea saccharalis)?",
+    "options": [
+      "Bacillus thuringiensis var. israelensis",
+      "Cotesia flavipes (a parasitic wasp)",
+      "Trichoderma harzianum",
+      "Beauveria bassiana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why leguminous crops are commonly used in crop rotation systems?",
+    "options": [
+      "They produce allelochemicals that suppress weed germination",
+      "They fix atmospheric nitrogen through symbiosis with Rhizobium bacteria, enriching the soil",
+      "They have deep root systems that break up hardpan layers",
+      "They reduce soil pH, making micronutrients more available"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In ruminant nutrition, volatile fatty acids (VFAs) produced during microbial fermentation in the rumen are the primary energy source for the animal. Which VFA is produced in the greatest proportion under normal dietary conditions?",
+    "options": [
+      "Butyric acid",
+      "Propionic acid",
+      "Acetic acid",
+      "Valeric acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statistical design would be MOST appropriate for a field experiment where there is a known fertility gradient in one direction across the experimental area?",
+    "options": [
+      "Completely Randomized Design (CRD)",
+      "Randomized Complete Block Design (RCBD)",
+      "Latin Square Design",
+      "Factorial Design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of embryo transfer in cattle requires synchronization of oestrus in both donor and recipient animals. Which hormone combination is most commonly used to superovulate the donor cow?",
+    "options": [
+      "FSH administered with prostaglandin F2\u03b1",
+      "LH administered with progesterone",
+      "Oxytocin administered with oestrogen",
+      "GnRH administered alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In post-harvest technology, modified atmosphere packaging (MAP) extends the shelf life of fresh produce primarily by:",
+    "options": [
+      "Increasing oxygen concentration to inhibit anaerobic pathogens",
+      "Reducing ethylene production by lowering CO2 levels",
+      "Reducing respiration rate and microbial growth by altering O2 and CO2 concentrations",
+      "Increasing relative humidity to prevent moisture loss only"
+    ],
+    "correctIndex": 2
+  }
+]

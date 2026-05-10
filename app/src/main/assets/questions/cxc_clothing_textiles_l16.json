@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of fabric construction is produced by interlacing two or more sets of yarns at right angles to each other?",
+    "options": [
+      "Knitting",
+      "Weaving",
+      "Felting",
+      "Bonding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The warp yarns in a woven fabric run in which direction?",
+    "options": [
+      "Across the width of the fabric",
+      "Diagonally across the fabric",
+      "Along the length of the fabric",
+      "At a 45-degree angle to the selvage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which seam finish is most appropriate for sheer or lightweight fabrics to prevent fraying while maintaining a delicate appearance?",
+    "options": [
+      "Overlocked seam",
+      "French seam",
+      "Flat-felled seam",
+      "Bound seam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of fabric dyeing, what is the purpose of a mordant?",
+    "options": [
+      "To remove excess dye from the fabric",
+      "To fix the dye permanently to the fibre",
+      "To bleach the fabric before dyeing",
+      "To soften the fabric after dyeing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which natural fibre is obtained from the seed pod of a plant and is known for its high absorbency and conductivity of heat?",
+    "options": [
+      "Linen",
+      "Wool",
+      "Cotton",
+      "Silk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The bias grain of a fabric refers to which direction?",
+    "options": [
+      "Parallel to the selvage",
+      "Perpendicular to the selvage",
+      "At a 45-degree angle to both warp and weft",
+      "Along the crosswise grain only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of interfacing requires heat to bond it to the garment fabric?",
+    "options": [
+      "Sew-in interfacing",
+      "Fusible interfacing",
+      "Woven interfacing",
+      "Knitted interfacing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A trouser pattern requires a 'ease allowance'. What is the primary purpose of this allowance?",
+    "options": [
+      "To allow for shrinkage after washing",
+      "To provide comfort and freedom of movement",
+      "To account for seam allowances",
+      "To allow for pattern adjustments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which weave structure produces a fabric with a diagonal rib on its surface?",
+    "options": [
+      "Plain weave",
+      "Satin weave",
+      "Twill weave",
+      "Pile weave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When caring for a garment labelled with a single bar under the iron symbol on the care label, what does this indicate?",
+    "options": [
+      "The garment should be dry cleaned only",
+      "The garment requires a cool iron setting",
+      "The garment must not be ironed",
+      "The garment can withstand a hot iron"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which property of wool fibre enables it to be shaped by moisture and heat and retain that shape upon drying?",
+    "options": [
+      "Elasticity",
+      "Thermoplasticity",
+      "Hygroscopicity",
+      "Plasticity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A pattern instruction calls for 'stay stitching' on a curved neckline. What is the main function of this technique?",
+    "options": [
+      "To decorate the neckline edge",
+      "To prevent the curved seam allowance from stretching during construction",
+      "To join the neckline facing to the garment",
+      "To gather the neckline for a smocked effect"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which finishing process is applied to cotton fabric to improve its lustre, strength, and dye affinity by treating it with a strong caustic soda solution?",
+    "options": [
+      "Calendering",
+      "Mercerising",
+      "Sanforising",
+      "Tentering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In pattern grading, what process is being carried out?",
+    "options": [
+      "Reducing a pattern to a single standard size",
+      "Increasing or decreasing a pattern proportionally to create different sizes",
+      "Correcting fitting problems on a toile",
+      "Transferring pattern markings to fabric"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of stitch is formed by a single thread passing through the fabric in a series of loops, where each loop is locked by the next, commonly used in overlocking machines?",
+    "options": [
+      "Chain stitch",
+      "Lock stitch",
+      "Blind hem stitch",
+      "Overlock stitch"
+    ],
+    "correctIndex": 3
+  }
+]

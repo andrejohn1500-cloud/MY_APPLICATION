@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A business purchased machinery for $50,000 on 1 January 2020. The machinery has a useful life of 5 years and a residual value of $5,000. Using the straight-line method, what is the net book value of the machinery at the end of year 3?",
+    "options": [
+      "$23,000",
+      "$27,000",
+      "$20,000",
+      "$32,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the accruals concept in accounting?",
+    "options": [
+      "Revenue and expenses are recorded when cash is received or paid",
+      "Revenue and expenses are matched to the period in which they are earned or incurred, regardless of cash flow",
+      "Assets are recorded at their original cost",
+      "Financial statements must be prepared at the end of each year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has the following data: Opening inventory $12,000; Purchases $48,000; Closing inventory $9,000; Sales $85,000. What is the gross profit?",
+    "options": [
+      "$34,000",
+      "$37,000",
+      "$25,000",
+      "$40,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a partnership, the current account of Partner A shows: Opening balance $3,200 credit; Salary $8,000; Interest on capital $1,500; Drawings $6,500; Share of profit $4,800. What is the closing balance of Partner A's current account?",
+    "options": [
+      "$11,000 credit",
+      "$11,000 debit",
+      "$13,500 credit",
+      "$9,500 credit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following errors would be detected by a trial balance?",
+    "options": [
+      "Error of omission",
+      "Error of commission",
+      "A transaction posted to the wrong side of the correct account",
+      "Error of principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A debtor owed $4,000. A provision for doubtful debts of 5% was created. In the following year, the debtor balance increased to $5,500 and the provision rate remained at 5%. What is the adjustment required for the provision in year 2?",
+    "options": [
+      "Debit Profit and Loss $75; Credit Provision for Doubtful Debts $75",
+      "Debit Provision for Doubtful Debts $75; Credit Profit and Loss $75",
+      "Debit Profit and Loss $275; Credit Provision for Doubtful Debts $275",
+      "Debit Provision for Doubtful Debts $275; Credit Profit and Loss $275"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which financial statement shows the financial position of a business at a specific point in time?",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Statement of Financial Position",
+      "Statement of Changes in Equity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sole trader's capital at the start of the year was $25,000. During the year, the owner withdrew $7,000 and introduced additional capital of $3,000. The net profit for the year was $12,000. What is the closing capital?",
+    "options": [
+      "$33,000",
+      "$37,000",
+      "$30,000",
+      "$47,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a capital expenditure?",
+    "options": [
+      "Payment of electricity bill",
+      "Purchase of delivery van",
+      "Repair of office equipment",
+      "Purchase of stationery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a club's Income and Expenditure account, subscriptions received in advance are treated as:",
+    "options": [
+      "Income for the current period",
+      "A liability in the balance sheet",
+      "An asset in the balance sheet",
+      "A deduction from subscriptions income"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company uses the reducing balance method at 20% per annum for depreciation. An asset was purchased for $40,000. What is the depreciation charge in year 2?",
+    "options": [
+      "$8,000",
+      "$6,400",
+      "$7,200",
+      "$5,120"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes a contra entry in a three-column cash book?",
+    "options": [
+      "Cash received from a debtor is recorded on the debit side only",
+      "Cash is transferred between the cash column and bank column, affecting both sides of the cash book",
+      "A discount is allowed to a customer and recorded in the discount column",
+      "A cheque is issued to a creditor and recorded on the credit side only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Control accounts are used primarily to:",
+    "options": [
+      "Replace the need for individual debtor and creditor accounts",
+      "Provide a summary and check on the accuracy of the sales or purchases ledger",
+      "Record cash transactions separately from credit transactions",
+      "Prepare the final accounts of a business"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When a partnership is dissolved, the realization account is used to:",
+    "options": [
+      "Record the distribution of profits to partners",
+      "Record the sale of assets and settlement of liabilities to determine the profit or loss on dissolution",
+      "Show the balance of each partner's capital",
+      "Record drawings made by partners during the year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business has current assets of $45,000, current liabilities of $18,000, and non-current liabilities of $22,000. Non-current assets total $75,000. What is the working capital of the business?",
+    "options": [
+      "$27,000",
+      "$80,000",
+      "$35,000",
+      "$53,000"
+    ],
+    "correctIndex": 0
+  }
+]

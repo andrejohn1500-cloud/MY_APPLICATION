@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car accelerates uniformly from rest and travels 80 m in 8 s. What is the acceleration of the car?",
+    "options": [
+      "2.5 m/s\u00b2",
+      "2.0 m/s\u00b2",
+      "1.5 m/s\u00b2",
+      "1.0 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A body of mass 5 kg is moving at 4 m/s. What is its kinetic energy?",
+    "options": [
+      "40 J",
+      "20 J",
+      "80 J",
+      "10 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wave has a frequency of 200 Hz and a wavelength of 1.5 m. What is the speed of the wave?",
+    "options": [
+      "300 m/s",
+      "133 m/s",
+      "200 m/s",
+      "150 m/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the photoelectric effect?",
+    "options": [
+      "Electrons are emitted from a metal surface when light of sufficient frequency is incident on it",
+      "Electrons are emitted when a metal is heated to high temperatures",
+      "Photons are absorbed by electrons causing them to move to higher energy levels",
+      "Light is reflected from a metal surface with no change in energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A resistor of 10 \u03a9 is connected in parallel with a resistor of 15 \u03a9. What is the combined resistance?",
+    "options": [
+      "6 \u03a9",
+      "25 \u03a9",
+      "5 \u03a9",
+      "12.5 \u03a9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object is placed 30 cm from a converging lens of focal length 10 cm. What is the image distance?",
+    "options": [
+      "15 cm",
+      "10 cm",
+      "20 cm",
+      "30 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Coulomb",
+      "Ampere",
+      "Volt",
+      "Farad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A spring with spring constant 200 N/m is compressed by 0.05 m. What is the elastic potential energy stored?",
+    "options": [
+      "0.25 J",
+      "0.50 J",
+      "1.00 J",
+      "0.10 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement about a particle undergoing simple harmonic motion is correct?",
+    "options": [
+      "The acceleration is always directed towards the equilibrium position",
+      "The velocity is maximum at the extreme positions",
+      "The acceleration is constant throughout the motion",
+      "The displacement and velocity are always in phase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A nucleus of uranium-238 undergoes alpha decay. What are the mass number and atomic number of the daughter nucleus?",
+    "options": [
+      "Mass number 234, atomic number 90",
+      "Mass number 236, atomic number 91",
+      "Mass number 234, atomic number 92",
+      "Mass number 238, atomic number 88"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 100 W light bulb is switched on for 2 hours. How much electrical energy does it consume?",
+    "options": [
+      "720 000 J",
+      "360 000 J",
+      "200 000 J",
+      "144 000 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes Boyle's Law?",
+    "options": [
+      "At constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume",
+      "At constant pressure, the volume of a fixed mass of gas is directly proportional to its temperature",
+      "At constant volume, the pressure of a fixed mass of gas is directly proportional to its temperature",
+      "The product of pressure and temperature of a gas is constant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A proton moves perpendicular to a uniform magnetic field of flux density 0.5 T with a velocity of 2 \u00d7 10\u2076 m/s. What is the magnitude of the magnetic force on the proton? (charge of proton = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "options": [
+      "1.6 \u00d7 10\u207b\u00b9\u00b3 N",
+      "3.2 \u00d7 10\u207b\u00b9\u00b3 N",
+      "8.0 \u00d7 10\u207b\u00b9\u2074 N",
+      "6.4 \u00d7 10\u207b\u00b9\u00b3 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A transformer has 500 turns on its primary coil and 100 turns on its secondary coil. If the primary voltage is 230 V, what is the secondary voltage?",
+    "options": [
+      "46 V",
+      "1150 V",
+      "23 V",
+      "92 V"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly states the condition for total internal reflection?",
+    "options": [
+      "The angle of incidence must exceed the critical angle and light must travel from a denser to a less dense medium",
+      "The angle of incidence must exceed the critical angle and light must travel from a less dense to a denser medium",
+      "The angle of refraction must equal 90\u00b0 and light travels from a less dense medium",
+      "The refractive index of both media must be equal"
+    ],
+    "correctIndex": 0
+  }
+]

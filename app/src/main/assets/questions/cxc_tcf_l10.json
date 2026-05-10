@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at right angles using interlocking fingers?",
+    "options": [
+      "Butt joint",
+      "Box (finger) joint",
+      "Mortise and tenon joint",
+      "Dovetail joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical circuits, what does the unit 'Ohm' measure?",
+    "options": [
+      "Current",
+      "Voltage",
+      "Resistance",
+      "Power"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is the correct formula for calculating electrical power?",
+    "options": [
+      "P = V / I",
+      "P = V \u00d7 I",
+      "P = I / V",
+      "P = V + I"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a flux when soldering metal joints?",
+    "options": [
+      "To increase the melting point of solder",
+      "To prevent oxidation and improve adhesion",
+      "To harden the metal surface",
+      "To conduct electricity through the joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, what type of line is used to represent hidden edges of an object?",
+    "options": [
+      "Continuous thick line",
+      "Chain line",
+      "Dashed thin line",
+      "Continuous thin line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of fastener is designed to be used without a nut and screws directly into a material?",
+    "options": [
+      "Machine bolt",
+      "Carriage bolt",
+      "Wood screw",
+      "Stud bolt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of removing material from a workpiece using a rotating cutting tool on a milling machine?",
+    "options": [
+      "Turning",
+      "Drilling",
+      "Milling",
+      "Grinding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, which fitting is used to join two pipes of different diameters?",
+    "options": [
+      "Elbow",
+      "Tee",
+      "Reducer",
+      "Union"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which material property describes a material's ability to be drawn into wires without breaking?",
+    "options": [
+      "Malleability",
+      "Ductility",
+      "Brittleness",
+      "Hardness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a circuit breaker in an electrical installation?",
+    "options": [
+      "To increase voltage in the circuit",
+      "To measure current flow",
+      "To protect the circuit from overcurrent",
+      "To store electrical energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In masonry, what is the standard ratio of cement to sand used in a mortar mix for general brickwork?",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:5",
+      "1:8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hand tool is used to check if a surface is perfectly horizontal?",
+    "options": [
+      "Try square",
+      "Spirit level",
+      "Plumb bob",
+      "Steel rule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does CAD stand for in technical and vocational studies?",
+    "options": [
+      "Computer Aided Drafting",
+      "Construction And Design",
+      "Computer Assisted Development",
+      "Creative Architectural Drawing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of saw is best suited for cutting curves and irregular shapes in wood?",
+    "options": [
+      "Rip saw",
+      "Tenon saw",
+      "Coping saw",
+      "Cross-cut saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In metalwork, what is the process of heating metal to a high temperature and then rapidly cooling it in water or oil called?",
+    "options": [
+      "Annealing",
+      "Tempering",
+      "Quenching",
+      "Case hardening"
+    ],
+    "correctIndex": 2
+  }
+]

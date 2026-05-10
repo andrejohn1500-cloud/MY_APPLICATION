@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car accelerates uniformly from rest and reaches a velocity of 20 m/s in 5 seconds. What is the acceleration of the car?",
+    "options": [
+      "2 m/s\u00b2",
+      "4 m/s\u00b2",
+      "5 m/s\u00b2",
+      "10 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the term 'power' in physics?",
+    "options": [
+      "The total energy stored in a system",
+      "The rate at which work is done",
+      "The force applied over a distance",
+      "The product of mass and acceleration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A wave has a frequency of 50 Hz and a wavelength of 4 m. What is the speed of the wave?",
+    "options": [
+      "12.5 m/s",
+      "54 m/s",
+      "200 m/s",
+      "0.08 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An object of mass 5 kg is placed on a surface. If the gravitational field strength is 10 N/kg, what is the weight of the object?",
+    "options": [
+      "2 N",
+      "0.5 N",
+      "50 N",
+      "500 N"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of electromagnetic wave has the shortest wavelength?",
+    "options": [
+      "Radio waves",
+      "Visible light",
+      "X-rays",
+      "Gamma rays"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A resistor of 10 \u03a9 is connected to a 20 V battery. What current flows through the resistor?",
+    "options": [
+      "0.5 A",
+      "2 A",
+      "200 A",
+      "30 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The principle of conservation of energy states that energy can be:",
+    "options": [
+      "Created but not destroyed",
+      "Destroyed but not created",
+      "Neither created nor destroyed, only transformed",
+      "Created and destroyed in equal amounts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What happens to the pressure of a fixed mass of gas if its volume is halved while temperature remains constant?",
+    "options": [
+      "Pressure is halved",
+      "Pressure doubles",
+      "Pressure remains the same",
+      "Pressure is quadrupled"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A block of mass 2 kg is lifted to a height of 5 m. What is the gain in gravitational potential energy? (g = 10 N/kg)",
+    "options": [
+      "10 J",
+      "25 J",
+      "100 J",
+      "1000 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which phenomenon explains why a straw appears bent when placed in a glass of water?",
+    "options": [
+      "Reflection of light",
+      "Diffraction of light",
+      "Refraction of light",
+      "Dispersion of light"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel. What is their combined resistance?",
+    "options": [
+      "9 \u03a9",
+      "2 \u03a9",
+      "18 \u03a9",
+      "0.5 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a scalar quantity?",
+    "options": [
+      "Velocity",
+      "Force",
+      "Momentum",
+      "Speed"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A magnet is moved into a coil of wire. Which of the following best describes what happens?",
+    "options": [
+      "A current is induced in the coil",
+      "The coil becomes permanently magnetized",
+      "No effect is observed",
+      "The magnet loses its magnetism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which change of state occurs when a substance goes directly from solid to gas without passing through the liquid phase?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the half-life of a radioactive sample if its activity drops from 800 Bq to 100 Bq in 12 years?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "6 years"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following statements correctly describes the relationship between bond order and bond length in diatomic molecules?",
+    "options": [
+      "Higher bond order results in longer bond length",
+      "Higher bond order results in shorter bond length",
+      "Bond order has no effect on bond length",
+      "Lower bond order results in shorter bond length"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A buffer solution is prepared by mixing 0.1 mol of CH3COOH and 0.1 mol of CH3COONa in 1 litre of water. If the Ka of acetic acid is 1.8 \u00d7 10\u207b\u2075, what is the pH of the buffer?",
+    "options": [
+      "4.74",
+      "5.74",
+      "3.74",
+      "6.74"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the electrolysis of dilute sulfuric acid using platinum electrodes, which product is formed at the anode?",
+    "options": [
+      "Hydrogen gas",
+      "Sulfur dioxide",
+      "Oxygen gas",
+      "Sulfuric acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly explains why fluorine cannot act as a central atom in a molecule with an expanded octet?",
+    "options": [
+      "Fluorine has too many neutrons",
+      "Fluorine has no available d orbitals in its valence shell",
+      "Fluorine is too electronegative to form multiple bonds",
+      "Fluorine has a large atomic radius"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The standard electrode potential of Cu\u00b2\u207a/Cu is +0.34 V and that of Zn\u00b2\u207a/Zn is \u22120.76 V. What is the standard EMF of a cell constructed with these two electrodes?",
+    "options": [
+      "0.42 V",
+      "1.10 V",
+      "\u22120.42 V",
+      "\u22121.10 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about the rate-determining step in a reaction mechanism is correct?",
+    "options": [
+      "It is always the first step in the mechanism",
+      "It is the fastest step in the mechanism",
+      "It is the slowest step and determines the overall rate",
+      "It involves the highest activation energy only when it is the last step"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sample of a radioactive isotope has a half-life of 6 hours. What fraction of the original sample remains after 24 hours?",
+    "options": [
+      "1/2",
+      "1/8",
+      "1/16",
+      "1/4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of isomerism is exhibited by cis-platin and trans-platin?",
+    "options": [
+      "Optical isomerism",
+      "Chain isomerism",
+      "Geometric isomerism",
+      "Positional isomerism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a first-order reaction, if the initial concentration of reactant is doubled, what happens to the half-life?",
+    "options": [
+      "It doubles",
+      "It halves",
+      "It remains unchanged",
+      "It quadruples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly explains why diamond has a much higher melting point than iodine?",
+    "options": [
+      "Diamond has stronger van der Waals forces",
+      "Diamond has a giant covalent network structure with strong covalent bonds throughout, while iodine has weak intermolecular forces between I\u2082 molecules",
+      "Diamond contains ionic bonds while iodine contains covalent bonds",
+      "Diamond molecules are heavier than iodine molecules"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the oxidation state of chromium in the dichromate ion, Cr\u2082O\u2087\u00b2\u207b?",
+    "options": [
+      "+3",
+      "+6",
+      "+7",
+      "+4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following represents the correct order of increasing acid strength for the hydrohalic acids?",
+    "options": [
+      "HF < HCl < HBr < HI",
+      "HI < HBr < HCl < HF",
+      "HCl < HF < HBr < HI",
+      "HF < HI < HBr < HCl"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During the manufacture of ammonia by the Haber process, which conditions represent the best compromise between rate and yield?",
+    "options": [
+      "High temperature, low pressure, with iron catalyst",
+      "Low temperature, high pressure, with iron catalyst",
+      "High temperature, high pressure, with iron catalyst",
+      "Low temperature, low pressure, with iron catalyst"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An organic compound with molecular formula C\u2083H\u2087Br undergoes nucleophilic substitution. Which nucleophile would produce an amine as the product?",
+    "options": [
+      "OH\u207b",
+      "NH\u2083",
+      "CN\u207b",
+      "H\u2082O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements correctly distinguishes between SN1 and SN2 reaction mechanisms?",
+    "options": [
+      "SN1 reactions are second order overall while SN2 reactions are first order",
+      "SN1 reactions proceed via a carbocation intermediate and are favoured by tertiary halogenoalkanes, while SN2 reactions proceed via a concerted mechanism and are favoured by primary halogenoalkanes",
+      "SN2 reactions always produce racemic mixtures while SN1 reactions produce inversion of configuration",
+      "SN1 reactions require a strong nucleophile while SN2 reactions do not"
+    ],
+    "correctIndex": 1
+  }
+]

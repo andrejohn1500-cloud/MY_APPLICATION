@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a period of 2 s. What is the centripetal acceleration of the particle?",
+    "options": [
+      "\u03c0\u00b2 m s\u207b\u00b2",
+      "2\u03c0\u00b2 m s\u207b\u00b2",
+      "\u03c0/2 m s\u207b\u00b2",
+      "4\u03c0 m s\u207b\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A photon has a wavelength of 4.0 \u00d7 10\u207b\u2077 m. Given h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s and c = 3.0 \u00d7 10\u2078 m s\u207b\u00b9, what is the momentum of the photon?",
+    "options": [
+      "1.66 \u00d7 10\u207b\u00b2\u2077 kg m s\u207b\u00b9",
+      "4.97 \u00d7 10\u207b\u00b9\u2079 kg m s\u207b\u00b9",
+      "2.21 \u00d7 10\u207b\u00b2\u2077 kg m s\u207b\u00b9",
+      "5.52 \u00d7 10\u207b\u00b2\u2078 kg m s\u207b\u00b9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a double-slit experiment, the slit separation is 0.3 mm and the screen is 1.5 m away. If the fringe spacing is 3.0 mm, what is the wavelength of the light used?",
+    "options": [
+      "600 nm",
+      "400 nm",
+      "450 nm",
+      "500 nm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A radioactive isotope has a half-life of 8 days. What fraction of the original sample remains after 32 days?",
+    "options": [
+      "1/16",
+      "1/8",
+      "1/32",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal compression. Which of the following statements is correct?",
+    "options": [
+      "The internal energy of the gas remains constant and work is done on the gas",
+      "The internal energy increases and heat is released",
+      "The temperature increases and pressure decreases",
+      "The internal energy decreases as the gas is compressed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A transformer has 400 primary turns and 50 secondary turns. If the primary voltage is 240 V rms, what is the secondary voltage and what type of transformer is this?",
+    "options": [
+      "30 V rms; step-down transformer",
+      "1920 V rms; step-up transformer",
+      "30 V rms; step-up transformer",
+      "1920 V rms; step-down transformer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the photoelectric effect observation that contradicts classical wave theory?",
+    "options": [
+      "The maximum kinetic energy of photoelectrons is independent of the intensity of the incident light",
+      "Photoelectrons are emitted instantaneously regardless of intensity",
+      "There exists a threshold frequency below which no emission occurs",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A conducting sphere of radius 0.1 m carries a charge of 2 \u03bcC. What is the electric potential at the surface of the sphere? (\u03b5\u2080 = 8.85 \u00d7 10\u207b\u00b9\u00b2 F m\u207b\u00b9)",
+    "options": [
+      "1.80 \u00d7 10\u2075 V",
+      "3.60 \u00d7 10\u2075 V",
+      "9.00 \u00d7 10\u2074 V",
+      "1.80 \u00d7 10\u2076 V"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A mass-spring system has a spring constant of 200 N m\u207b\u00b9 and a mass of 0.5 kg. What is the angular frequency of oscillation?",
+    "options": [
+      "20 rad s\u207b\u00b9",
+      "10 rad s\u207b\u00b9",
+      "40 rad s\u207b\u00b9",
+      "400 rad s\u207b\u00b9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the Bohr model of the hydrogen atom, the electron transitions from n = 4 to n = 2. Which series does this emission belong to and what region of the spectrum is observed?",
+    "options": [
+      "Balmer series; visible light",
+      "Lyman series; ultraviolet",
+      "Paschen series; infrared",
+      "Brackett series; infrared"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wire of length 2 m carrying a current of 5 A is placed perpendicular to a uniform magnetic field of 0.3 T. What is the force on the wire?",
+    "options": [
+      "3.0 N",
+      "1.5 N",
+      "6.0 N",
+      "0.3 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A capacitor of capacitance 100 \u03bcF is charged to 12 V. What is the energy stored in the capacitor?",
+    "options": [
+      "7.2 \u00d7 10\u207b\u00b3 J",
+      "1.44 \u00d7 10\u207b\u00b2 J",
+      "6.0 \u00d7 10\u207b\u00b3 J",
+      "1.2 \u00d7 10\u207b\u00b2 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement correctly compares the drift velocities of electrons in two resistors connected in series, where resistor 1 has a larger cross-sectional area than resistor 2, but both are made of the same material?",
+    "options": [
+      "Electrons drift more slowly through resistor 1 than resistor 2",
+      "Electrons drift more quickly through resistor 1 than resistor 2",
+      "Electrons drift at the same speed through both resistors",
+      "The drift velocity depends only on the resistivity, not the area"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rocket of initial mass 2000 kg ejects gas at 500 m s\u207b\u00b9 relative to the rocket. If the rocket starts from rest and its final mass is 500 kg, what is the final velocity of the rocket? (Ignore gravity; use Tsiolkovsky equation: v = u ln(m\u2080/m_f))",
+    "options": [
+      "693 m s\u207b\u00b9",
+      "347 m s\u207b\u00b9",
+      "1386 m s\u207b\u00b9",
+      "500 m s\u207b\u00b9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an experiment measuring the specific heat capacity of a metal block of mass 1.5 kg, a heater supplies 300 W for 4 minutes and the temperature rises by 40 \u00b0C. Assuming no heat losses, what is the specific heat capacity of the metal?",
+    "options": [
+      "300 J kg\u207b\u00b9 K\u207b\u00b9",
+      "400 J kg\u207b\u00b9 K\u207b\u00b9",
+      "450 J kg\u207b\u00b9 K\u207b\u00b9",
+      "500 J kg\u207b\u00b9 K\u207b\u00b9"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "options": [
+      "k = 12",
+      "k = 6",
+      "k = 4",
+      "k = 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The number of customers arriving at a bank follows a Poisson distribution with mean 4 per hour. What is the probability that exactly 6 customers arrive in a 2-hour period?",
+    "options": [
+      "e\u207b\u2078 \u00d7 8\u2076/6!",
+      "e\u207b\u2074 \u00d7 4\u2076/6!",
+      "e\u207b\u2078 \u00d7 6\u2078/8!",
+      "e\u207b\u2074 \u00d7 6\u2074/4!"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle moves such that its displacement s metres at time t seconds is given by s = t\u00b3 - 6t\u00b2 + 9t. At what time(s) is the particle momentarily at rest?",
+    "options": [
+      "t = 1 and t = 3",
+      "t = 2 and t = 4",
+      "t = 3 only",
+      "t = 1 only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a linear programming problem, the feasible region is bounded by x + 2y \u2264 10, 3x + y \u2264 12, x \u2265 0, y \u2265 0. Which point maximises the objective function P = 5x + 4y?",
+    "options": [
+      "(2, 4) giving P = 26",
+      "(4, 0) giving P = 20",
+      "(0, 5) giving P = 20",
+      "(14/5, 18/5) giving P = 158/5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5 and P(A\u222aB) = 0.7. What is P(A|B)?",
+    "options": [
+      "0.4",
+      "0.6",
+      "0.3",
+      "0.5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sample of size n = 36 is drawn from a population with known variance \u03c3\u00b2 = 144. A 95% confidence interval for the population mean has width approximately:",
+    "options": [
+      "7.84",
+      "3.92",
+      "15.68",
+      "4.00"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The coefficient of x\u00b3 in the binomial expansion of (2 + x)\u2075 is:",
+    "options": [
+      "80",
+      "40",
+      "160",
+      "20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A force of 10 N acts at 30\u00b0 above the horizontal and another force of 8 N acts horizontally. What is the magnitude of the resultant force, to 2 decimal places?",
+    "options": [
+      "17.32 N",
+      "16.81 N",
+      "18.00 N",
+      "15.62 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A null hypothesis H\u2080: \u03bc = 50 is tested against H\u2081: \u03bc > 50 using a sample mean of 53, sample size 25, and population standard deviation 10. What is the test statistic z?",
+    "options": [
+      "1.50",
+      "3.00",
+      "0.30",
+      "1.06"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ N(\u03bc, \u03c3\u00b2) and P(X < 40) = 0.2119 and P(X < 60) = 0.9772, what are the values of \u03bc and \u03c3?",
+    "options": [
+      "\u03bc = 55, \u03c3 = 5",
+      "\u03bc = 50, \u03c3 = 10",
+      "\u03bc = 55, \u03c3 = 10",
+      "\u03bc = 50, \u03c3 = 5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle of mass 2 kg is connected by a light inextensible string over a smooth pulley to a particle of mass 3 kg. What is the acceleration of the system when released from rest?",
+    "options": [
+      "g/5 ms\u207b\u00b2",
+      "g/2 ms\u207b\u00b2",
+      "g/3 ms\u207b\u00b2",
+      "2g/5 ms\u207b\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Spearman's rank correlation coefficient for 6 pairs of data gives \u03a3d\u00b2 = 18. What is the value of rs?",
+    "options": [
+      "0.486",
+      "0.514",
+      "0.750",
+      "0.600"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A geometric distribution has P(X = 1) = 0.3. What is the mean and variance of X respectively?",
+    "options": [
+      "10/3 and 70/9",
+      "1/0.3 and 0.7/0.09",
+      "3.33 and 2.33",
+      "Both A and B are correct"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a chi-squared test for independence with a 3\u00d74 contingency table, the number of degrees of freedom is:",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A uniform rod AB of length 4 m and mass 10 kg rests horizontally on two supports at A and at a point C, 1 m from B. What is the reaction at C?",
+    "options": [
+      "75 N",
+      "25 N",
+      "50 N",
+      "100 N"
+    ],
+    "correctIndex": 0
+  }
+]

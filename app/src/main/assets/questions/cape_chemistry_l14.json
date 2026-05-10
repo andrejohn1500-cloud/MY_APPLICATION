@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best explains why the second ionization energy of sodium is significantly higher than its first ionization energy?",
+    "options": [
+      "The second electron is removed from a 2p orbital which is closer to the nucleus",
+      "The second electron is removed from a fully filled 2p subshell which is more stable",
+      "The second electron is removed from the 2s orbital of a noble gas configuration, requiring much more energy",
+      "The second electron experiences less shielding from inner core electrons than the first"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.15 mol of sodium ethanoate in 500 cm\u00b3 of solution. Given that Ka for ethanoic acid is 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of this buffer?",
+    "options": [
+      "4.62",
+      "4.62",
+      "4.62",
+      "4.87"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the reaction mechanism for the alkaline hydrolysis of a halogenoalkane proceeding via an SN2 pathway, which of the following statements is correct?",
+    "options": [
+      "The reaction proceeds through a carbocation intermediate and the rate depends only on the concentration of the halogenoalkane",
+      "The rate of reaction depends on the concentrations of both the halogenoalkane and the hydroxide ion, with inversion of configuration at the carbon centre",
+      "The reaction rate is independent of the hydroxide ion concentration and racemisation of the product occurs",
+      "The mechanism involves a free radical intermediate formed by homolytic fission of the C\u2013X bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following coordination compounds would exhibit geometric isomerism?",
+    "options": [
+      "[Co(NH3)6]\u00b3\u207a",
+      "[Pt(NH3)2Cl2] square planar",
+      "[CoCl4]\u00b2\u207b tetrahedral",
+      "[Ag(NH3)2]\u207a"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "For the equilibrium N2(g) + 3H2(g) \u21cc 2NH3(g), which expression correctly represents Kp in terms of partial pressures?",
+    "options": [
+      "Kp = p\u00b2(NH3) / [p(N2) \u00d7 p\u00b3(H2)]",
+      "Kp = [p(N2) \u00d7 p\u00b3(H2)] / p\u00b2(NH3)",
+      "Kp = p\u00b2(NH3) / [p(N2) \u00d7 p(H2)]",
+      "Kp = p(NH3) / [p(N2) \u00d7 p(H2)]"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sample of a radioactive isotope has a half-life of 5730 years. If a sample currently contains 25% of the original amount of the isotope, approximately how old is the sample?",
+    "options": [
+      "5730 years",
+      "11460 years",
+      "17190 years",
+      "22920 years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about the entropy change (\u0394S) for the reaction CaCO3(s) \u2192 CaO(s) + CO2(g) is correct?",
+    "options": [
+      "\u0394S is negative because a solid decomposes",
+      "\u0394S is negative because the products have lower lattice energy",
+      "\u0394S is positive because the number of moles of gas increases",
+      "\u0394S is zero because the total mass is conserved"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrophilic aromatic substitution, the nitration of benzene involves which electrophile attacking the aromatic ring?",
+    "options": [
+      "NO3\u207b",
+      "NO2\u207b",
+      "NO2\u207a (nitronium ion)",
+      "HNO3 molecule directly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the relationship between cell potential (E\u00b0cell) and the standard Gibbs free energy change (\u0394G\u00b0) for an electrochemical cell?",
+    "options": [
+      "\u0394G\u00b0 = nFE\u00b0cell",
+      "\u0394G\u00b0 = \u2212nFE\u00b0cell",
+      "\u0394G\u00b0 = nRT ln E\u00b0cell",
+      "\u0394G\u00b0 = \u2212RT ln(nFE\u00b0cell)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A weak acid HA has Ka = 4.0 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3. What is the percentage dissociation of a 0.10 mol dm\u207b\u00b3 solution of this acid?",
+    "options": [
+      "0.063%",
+      "0.63%",
+      "2.0%",
+      "6.3%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sequences correctly ranks the compounds in order of increasing boiling point: CH3OH, CH3CH3, CH3F, CH3CH2OH?",
+    "options": [
+      "CH3CH3 < CH3F < CH3OH < CH3CH2OH",
+      "CH3F < CH3CH3 < CH3OH < CH3CH2OH",
+      "CH3CH3 < CH3OH < CH3F < CH3CH2OH",
+      "CH3OH < CH3F < CH3CH3 < CH3CH2OH"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Born-Haber cycle for NaCl involves several energy terms. Which of the following correctly identifies the lattice enthalpy of NaCl?",
+    "options": [
+      "The energy required to convert Na(s) to Na(g)",
+      "The enthalpy change when one mole of NaCl(s) is formed from its gaseous ions under standard conditions",
+      "The energy required to remove one electron from gaseous Na atoms",
+      "The enthalpy change when NaCl dissolves in water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In nuclear magnetic resonance (NMR) spectroscopy, which of the following best explains why TMS (tetramethylsilane) is used as a reference standard?",
+    "options": [
+      "It has 12 chemically equivalent hydrogen atoms, is chemically inert, volatile, and gives a single sharp peak at a position assigned \u03b4 = 0",
+      "It has the highest chemical shift of all organic compounds, making it easy to identify",
+      "It contains no hydrogen atoms and therefore does not interfere with proton NMR spectra",
+      "It reacts with water to produce a stable reference compound with a known chemical shift"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about d-block transition metal ions acting as catalysts is most accurate?",
+    "options": [
+      "They catalyse reactions only by providing a surface for adsorption of reactant molecules",
+      "They are effective catalysts because they can exist in multiple oxidation states, allowing them to accept and donate electrons during reaction mechanisms",
+      "They act as catalysts by increasing the activation energy of the forward reaction",
+      "They catalyse reactions by forming permanent covalent bonds with reactants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "For a reaction that is first order in reactant A and second order in reactant B, if the concentration of A is doubled and the concentration of B is halved, what happens to the rate of reaction?",
+    "options": [
+      "The rate doubles",
+      "The rate is halved",
+      "The rate remains the same",
+      "The rate decreases to one quarter"
+    ],
+    "correctIndex": 1
+  }
+]

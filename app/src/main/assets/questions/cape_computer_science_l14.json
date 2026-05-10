@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a binary tree with n nodes, what is the maximum possible height of the tree?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(\u221an)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In TCP/IP networking, which layer is responsible for end-to-end communication and error recovery?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the time complexity of the QuickSort algorithm in the worst case?",
+    "options": [
+      "O(n log n)",
+      "O(n\u00b2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of an object-oriented programming paradigm?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Recursion",
+      "Inheritance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a Von Neumann architecture, what is the function of the Memory Address Register (MAR)?",
+    "options": [
+      "Stores the data to be written to or read from memory",
+      "Holds the address of the memory location to be accessed",
+      "Stores the current instruction being executed",
+      "Holds the result of arithmetic operations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hashing collision resolution technique uses a secondary hash function to calculate the step size?",
+    "options": [
+      "Linear Probing",
+      "Chaining",
+      "Double Hashing",
+      "Quadratic Probing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Boolean algebra, which law states that A + (B \u00b7 C) = (A + B) \u00b7 (A + C)?",
+    "options": [
+      "De Morgan's Law",
+      "Absorption Law",
+      "Distributive Law",
+      "Complement Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym ACID stand for in database transaction management?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Concurrency, Integrity, Dependency",
+      "Atomicity, Concurrency, Integration, Durability",
+      "Accuracy, Consistency, Isolation, Dependency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity and uses a divide-and-conquer approach by splitting into equal halves?",
+    "options": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In operating systems, which page replacement algorithm suffers from Belady's Anomaly?",
+    "options": [
+      "Least Recently Used (LRU)",
+      "Optimal Page Replacement",
+      "First-In First-Out (FIFO)",
+      "Most Recently Used (MRU)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic technique uses the same key for both encryption and decryption?",
+    "options": [
+      "RSA Encryption",
+      "Public Key Infrastructure",
+      "Symmetric Key Cryptography",
+      "Digital Signature Algorithm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a stack-based implementation, which expression form eliminates the need for parentheses and operator precedence rules?",
+    "options": [
+      "Infix Notation",
+      "Prefix (Polish) Notation",
+      "Mixed Notation",
+      "Standard Algebraic Notation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a semaphore in concurrent programming?",
+    "options": [
+      "To allocate memory dynamically to processes",
+      "To control access to shared resources and prevent race conditions",
+      "To schedule CPU time among competing processes",
+      "To handle input/output interrupts efficiently"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In compiler design, which phase converts a sequence of characters into a sequence of tokens?",
+    "options": [
+      "Syntax Analysis",
+      "Semantic Analysis",
+      "Lexical Analysis",
+      "Code Generation"
+    ],
+    "correctIndex": 2
+  }
+]

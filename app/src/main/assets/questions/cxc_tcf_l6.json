@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at a right angle by interlocking rectangular cuts?",
+    "options": [
+      "Dovetail joint",
+      "Butt joint",
+      "Dado joint",
+      "Box joint"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In electrical circuits, what does the term 'impedance' refer to?",
+    "options": [
+      "The total opposition to current flow in an AC circuit",
+      "The resistance of a conductor to heat",
+      "The voltage drop across a resistor",
+      "The power consumed by a capacitor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which material property describes the ability of a metal to be drawn into wire without breaking?",
+    "options": [
+      "Malleability",
+      "Ductility",
+      "Brittleness",
+      "Hardness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, what does the abbreviation 'ISO' stand for?",
+    "options": [
+      "Internal Standards Organization",
+      "International Organization for Standardization",
+      "Industrial Standards Office",
+      "Integrated Systems Output"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "options": [
+      "MIG welding",
+      "Stick welding",
+      "TIG welding",
+      "Flux-core welding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a P-trap installed under a sink?",
+    "options": [
+      "To increase water pressure",
+      "To prevent sewer gases from entering the building",
+      "To filter sediment from water",
+      "To regulate water temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In building construction, what is the purpose of a 'lintel'?",
+    "options": [
+      "To provide a waterproof membrane on roofs",
+      "To support the load above a door or window opening",
+      "To anchor foundation walls to the ground",
+      "To connect roof trusses together"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the correct formula for calculating electrical power?",
+    "options": [
+      "P = I / V",
+      "P = V \u00d7 R",
+      "P = V \u00d7 I",
+      "P = I\u00b2 / R"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of saw is best suited for cutting curves and irregular shapes in wood?",
+    "options": [
+      "Rip saw",
+      "Crosscut saw",
+      "Jigsaw",
+      "Tenon saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In metalwork, what process involves heating a metal to a specific temperature and then cooling it slowly to relieve internal stresses?",
+    "options": [
+      "Hardening",
+      "Tempering",
+      "Annealing",
+      "Case hardening"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which instrument is used to measure the internal diameter of a bore or hole accurately?",
+    "options": [
+      "Micrometer screw gauge",
+      "Vernier caliper",
+      "Engineer's square",
+      "Steel rule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing, what does the term 'potable water' mean?",
+    "options": [
+      "Water used for industrial cooling",
+      "Water that is safe for human consumption",
+      "Water stored in a holding tank",
+      "Recycled greywater"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of roof truss distributes load through triangular arrangements of members and is commonly used in residential construction?",
+    "options": [
+      "Flat truss",
+      "Arch truss",
+      "Fink truss",
+      "Cantilever truss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a capacitor in an electrical circuit?",
+    "options": [
+      "To convert AC to DC",
+      "To store and release electrical energy",
+      "To increase resistance in a circuit",
+      "To measure current flow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, a section view is used primarily to:",
+    "options": [
+      "Show the external dimensions of an object",
+      "Reveal internal features and details of an object",
+      "Indicate surface finish requirements",
+      "Display the object in pictorial form"
+    ],
+    "correctIndex": 1
+  }
+]

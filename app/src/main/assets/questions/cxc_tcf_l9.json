@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of joint is commonly used in woodworking to join two pieces of wood at right angles by interlocking fingers?",
+    "options": [
+      "Butt joint",
+      "Box joint",
+      "Lap joint",
+      "Mortise and tenon joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical circuits, what does the term 'resistance' measure?",
+    "options": [
+      "The rate of flow of electric charge",
+      "The opposition to the flow of electric current",
+      "The electrical potential difference between two points",
+      "The power consumed by a device"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which drawing view shows the front, top, and side of an object in a single projected view?",
+    "options": [
+      "Isometric view",
+      "Orthographic view",
+      "Sectional view",
+      "Exploded view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary purpose of a safety valve in a pressure vessel?",
+    "options": [
+      "To regulate temperature",
+      "To release excess pressure and prevent explosion",
+      "To control the flow of liquids",
+      "To measure internal pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which material is classified as a thermosetting plastic?",
+    "options": [
+      "Polyethylene",
+      "Polypropylene",
+      "Epoxy resin",
+      "Nylon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In masonry construction, what is the function of a 'lintel'?",
+    "options": [
+      "To provide a decorative finish above a wall",
+      "To support the load above an opening such as a door or window",
+      "To join two walls together at a corner",
+      "To waterproof the foundation of a wall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the acronym CAD stand for in technical drawing?",
+    "options": [
+      "Computer Aided Drafting",
+      "Calculated Architectural Design",
+      "Computer Automated Dimensions",
+      "Central Axis Drawing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which hand tool is used to measure and mark angles other than 90 degrees on a workpiece?",
+    "options": [
+      "Try square",
+      "Bevel gauge",
+      "Marking gauge",
+      "Combination square"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing, what is the purpose of a P-trap installed beneath a sink?",
+    "options": [
+      "To increase water pressure",
+      "To filter debris from drain water",
+      "To hold water that prevents sewer gases from entering the building",
+      "To regulate hot and cold water mixing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ohm's Law states that voltage equals current multiplied by which quantity?",
+    "options": [
+      "Power",
+      "Resistance",
+      "Capacitance",
+      "Frequency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of file cut is best suited for removing large amounts of material quickly?",
+    "options": [
+      "Smooth cut",
+      "Dead smooth cut",
+      "Bastard cut",
+      "Second cut"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the standard scale used on a drawing when it is described as 1:50?",
+    "options": [
+      "The drawing is 50 times larger than the actual object",
+      "The actual object is 50 times larger than the drawing",
+      "The drawing and object are the same size",
+      "The object is reduced to 1 millimetre for every 50 centimetres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of saw is most suitable for cutting curved shapes in thin timber?",
+    "options": [
+      "Rip saw",
+      "Tenon saw",
+      "Coping saw",
+      "Panel saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electronics, what is the function of a diode?",
+    "options": [
+      "To amplify electrical signals",
+      "To store electrical energy",
+      "To allow current to flow in one direction only",
+      "To resist changes in voltage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which concrete mix ratio (cement:sand:aggregate) is typically used for general structural work?",
+    "options": [
+      "1:2:3",
+      "1:4:8",
+      "1:6:12",
+      "2:5:10"
+    ],
+    "correctIndex": 0
+  }
+]

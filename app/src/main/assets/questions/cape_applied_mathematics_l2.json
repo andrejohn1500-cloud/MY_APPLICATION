@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is the correct formula for the mean of a probability distribution E(X)?",
+    "options": [
+      "E(X) = \u03a3x \u00b7 P(X = x)",
+      "E(X) = \u03a3x\u00b2 \u00b7 P(X = x)",
+      "E(X) = \u03a3[x - P(X = x)]",
+      "E(X) = \u03a3[x + P(X = x)]"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A random variable X follows a Binomial distribution with n = 10 and p = 0.3. What is E(X)?",
+    "options": [
+      "3",
+      "7",
+      "0.3",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements correctly describes a Poisson distribution?",
+    "options": [
+      "It models the number of events occurring in a fixed interval of time or space",
+      "It models continuous data only",
+      "It requires exactly two outcomes per trial",
+      "It has a mean that is always greater than its variance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ N(50, 25), what is the standard deviation of X?",
+    "options": [
+      "5",
+      "25",
+      "50",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability that a student passes an exam is 0.7. If 5 students sit the exam independently, what is the probability that exactly 3 pass?",
+    "options": [
+      "0.3087",
+      "0.3000",
+      "0.2100",
+      "0.5000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a normal distribution, approximately what percentage of data falls within one standard deviation of the mean?",
+    "options": [
+      "68%",
+      "95%",
+      "99.7%",
+      "50%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A continuous random variable X has a uniform distribution on the interval [2, 8]. What is the mean of X?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is NOT a property of the normal distribution?",
+    "options": [
+      "It is skewed to the right",
+      "It is symmetric about the mean",
+      "The mean, median and mode are equal",
+      "The total area under the curve is 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If P(A) = 0.4 and P(B) = 0.5 and A and B are mutually exclusive, what is P(A \u222a B)?",
+    "options": [
+      "0.9",
+      "0.2",
+      "0.1",
+      "0.7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the Central Limit Theorem state about the sampling distribution of the sample mean?",
+    "options": [
+      "It approaches a normal distribution as the sample size increases",
+      "It always has the same distribution as the population",
+      "It is always skewed",
+      "It only applies to populations that are already normal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A Type I error in hypothesis testing is defined as:",
+    "options": [
+      "Rejecting the null hypothesis when it is true",
+      "Accepting the null hypothesis when it is false",
+      "Rejecting the alternative hypothesis when it is false",
+      "Accepting the null hypothesis when it is true"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes a 95% confidence interval for a population mean?",
+    "options": [
+      "An interval that contains the true population mean 95% of the time in repeated sampling",
+      "An interval where 95% of the data values lie",
+      "An interval with a 5% probability of containing the mean",
+      "An interval that always contains the sample mean"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ Poisson(\u03bb = 4), what is the variance of X?",
+    "options": [
+      "4",
+      "2",
+      "16",
+      "8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The correlation coefficient r = 0 indicates:",
+    "options": [
+      "No linear relationship between the two variables",
+      "A perfect positive relationship",
+      "A perfect negative relationship",
+      "A weak positive relationship"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a linear regression equation \u0177 = a + bx, the value b represents:",
+    "options": [
+      "The gradient (slope) of the regression line",
+      "The y-intercept of the regression line",
+      "The correlation coefficient",
+      "The mean of the y values"
+    ],
+    "correctIndex": 0
+  }
+]

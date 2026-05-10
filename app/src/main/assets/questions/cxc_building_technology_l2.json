@@ -1,0 +1,153 @@
+[
+  {
+    "question": "What is the main purpose of a foundation in a building?",
+    "options": [
+      "To support and transfer the load of the structure to the ground",
+      "To provide a decorative base for the walls",
+      "To prevent moisture from entering the building",
+      "To connect the walls to the roof"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of bond is most commonly used in brick wall construction?",
+    "options": [
+      "Stack bond",
+      "Stretcher bond",
+      "Header bond",
+      "English bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'DPC' stand for in building construction?",
+    "options": [
+      "Damp Proof Course",
+      "Dry Portland Cement",
+      "Double Plaster Coat",
+      "Drain Pipe Connection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which material is commonly used to make roof tiles in the Caribbean?",
+    "options": [
+      "Aluminum",
+      "Concrete",
+      "Rubber",
+      "Glass"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a lintel?",
+    "options": [
+      "To drain water from the roof",
+      "To support the load above a door or window opening",
+      "To join two walls together",
+      "To provide ventilation in a room"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to check if a surface is perfectly horizontal?",
+    "options": [
+      "Plumb bob",
+      "Spirit level",
+      "Try square",
+      "Steel rule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "Which type of timber is produced from trees such as pine and cedar?",
+    "question": "Which type of timber is produced from trees such as pine and cedar?",
+    "options": [
+      "Hardwood",
+      "Softwood",
+      "Plywood",
+      "Chipboard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard size of a common brick in millimeters?",
+    "options": [
+      "200 x 100 x 75",
+      "215 x 102.5 x 65",
+      "250 x 120 x 80",
+      "180 x 90 x 60"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roof type has two slopes on each of its four sides?",
+    "options": [
+      "Gable roof",
+      "Flat roof",
+      "Hip roof",
+      "Shed roof"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is mortar made of?",
+    "options": [
+      "Cement, sand and water",
+      "Cement, gravel and water",
+      "Sand, lime and gravel",
+      "Cement, lime and aggregate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which instrument is used to measure angles in building construction?",
+    "options": [
+      "Steel tape",
+      "Protractor",
+      "Spirit level",
+      "Plumb bob"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vapour barrier in construction?",
+    "options": [
+      "To allow air to circulate freely",
+      "To prevent moisture from passing through walls and floors",
+      "To reflect heat from the sun",
+      "To strengthen the wall structure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a natural building material?",
+    "options": [
+      "PVC pipe",
+      "Reinforcing steel",
+      "Timber",
+      "Fiberglass"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the scale 1:50 mean on a building drawing?",
+    "options": [
+      "The drawing is 50 times larger than the actual building",
+      "1 unit on the drawing represents 50 units in real life",
+      "The building is 50 meters tall",
+      "There are 50 rooms in the building"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term used for the horizontal member at the top of a door or window frame?",
+    "options": [
+      "Sill",
+      "Jamb",
+      "Head",
+      "Threshold"
+    ],
+    "correctIndex": 2
+  }
+]

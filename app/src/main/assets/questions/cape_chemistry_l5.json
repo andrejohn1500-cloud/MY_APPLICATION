@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes a buffer solution?",
+    "options": [
+      "A solution that resists changes in pH when small amounts of acid or base are added",
+      "A solution with a pH of exactly 7",
+      "A solution that completely neutralises any added acid or base",
+      "A solution containing only a weak acid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the hybridisation of the carbon atoms in ethyne (C\u2082H\u2082)?",
+    "options": [
+      "sp\u00b3",
+      "sp\u00b2",
+      "sp",
+      "dsp\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The rate constant of a reaction has units of mol\u207b\u00b9 dm\u00b3 s\u207b\u00b9. What is the overall order of this reaction?",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of isomerism is exhibited by cis-but-2-ene and trans-but-2-ene?",
+    "options": [
+      "Chain isomerism",
+      "Positional isomerism",
+      "Geometric isomerism",
+      "Optical isomerism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which reagent is used to distinguish between an aldehyde and a ketone?",
+    "options": [
+      "Bromine water",
+      "Fehling's solution",
+      "Sodium hydroxide solution",
+      "Dilute hydrochloric acid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard enthalpy change of formation of an element in its standard state?",
+    "options": [
+      "Equal to its bond enthalpy",
+      "Equal to its lattice enthalpy",
+      "Zero",
+      "Equal to its ionisation energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the Born-Haber cycle for sodium chloride, which step represents the greatest energy requirement?",
+    "options": [
+      "Atomisation of sodium",
+      "Ionisation energy of sodium",
+      "Electron affinity of chlorine",
+      "Atomisation of chlorine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following oxides is amphoteric?",
+    "options": [
+      "Na\u2082O",
+      "SO\u2083",
+      "Al\u2082O\u2083",
+      "CaO"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The equilibrium constant Kc for a reaction is much greater than 1. This indicates that at equilibrium:",
+    "options": [
+      "The reaction is very slow",
+      "Products are favoured",
+      "Reactants are favoured",
+      "The reaction is at the halfway point"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of transition metals?",
+    "options": [
+      "They form coloured ions",
+      "They exhibit variable oxidation states",
+      "They act as catalysts",
+      "They have very low densities compared to main group metals"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What product is formed when ethanol undergoes oxidation with acidified potassium dichromate(VI) under reflux?",
+    "options": [
+      "Ethanal",
+      "Ethanoic acid",
+      "Ethene",
+      "Ethyl ethanoate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about SN1 and SN2 reactions is correct?",
+    "options": [
+      "SN2 reactions proceed via a carbocation intermediate",
+      "SN1 reactions involve inversion of configuration",
+      "SN2 reactions are favoured by tertiary halogenoalkanes",
+      "SN1 reactions are favoured by primary halogenoalkanes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The pH of a 0.01 mol dm\u207b\u00b3 solution of a strong monobasic acid is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes Le Chatelier's principle?",
+    "options": [
+      "A system at equilibrium will resist any changes imposed on it permanently",
+      "When a system at equilibrium is disturbed, it shifts to counteract the change and restore equilibrium",
+      "Increasing pressure always increases the yield of products",
+      "Temperature changes do not affect the position of equilibrium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrophilic addition to but-1-ene with HBr, what is the major product according to Markovnikov's rule?",
+    "options": [
+      "1-bromobutane",
+      "2-bromobutane",
+      "3-bromobutane",
+      "1,2-dibromobutane"
+    ],
+    "correctIndex": 1
+  }
+]

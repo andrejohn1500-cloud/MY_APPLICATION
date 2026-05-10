@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for in computing?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Utility",
+      "Central Program Unit",
+      "Core Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the base of the hexadecimal number system?",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "options": [
+      "Microsoft Word",
+      "Google Chrome",
+      "Linux",
+      "Adobe Photoshop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Transfer Markup Language",
+      "Hyper Text Management Language",
+      "High Text Markup Layout"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which gate outputs TRUE only when all inputs are TRUE?",
+    "options": [
+      "OR gate",
+      "NOT gate",
+      "AND gate",
+      "XOR gate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number 1010?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes RAM?",
+    "options": [
+      "Permanent storage for the operating system",
+      "Temporary storage used by the CPU during processing",
+      "Storage for long-term data",
+      "Read-only memory used at startup"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which programming paradigm treats computation as a series of mathematical functions?",
+    "options": [
+      "Object-Oriented Programming",
+      "Procedural Programming",
+      "Functional Programming",
+      "Event-Driven Programming"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a compiler?",
+    "options": [
+      "To execute code line by line",
+      "To translate high-level source code into machine code",
+      "To manage computer memory",
+      "To connect computers in a network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a primary key characteristic?",
+    "options": [
+      "It can contain NULL values",
+      "It can have duplicate values",
+      "It uniquely identifies each record in a table",
+      "It must be a numeric field"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Logic",
+      "Standard Question Language",
+      "Sequential Query List"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which topology connects all devices to a single central cable?",
+    "options": [
+      "Star topology",
+      "Ring topology",
+      "Bus topology",
+      "Mesh topology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is inheritance?",
+    "options": [
+      "The ability of a class to hide its internal data",
+      "The process of creating objects from a class",
+      "A mechanism where a class acquires properties of another class",
+      "The ability of a method to perform different tasks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following sorting algorithms has the simplest implementation and works by repeatedly swapping adjacent elements?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Insertion Sort"
+    ],
+    "correctIndex": 2
+  }
+]

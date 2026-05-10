@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a multi-storey building constructed on soft, compressible soil where load-bearing strata are located at considerable depth?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Pile foundation",
+      "Raft foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In reinforced concrete design, the term 'cover' refers to which of the following?",
+    "options": [
+      "The thickness of the formwork used during casting",
+      "The distance between the outer face of the concrete and the nearest surface of the reinforcement",
+      "The overlap length of steel bars at splices",
+      "The depth of the neutral axis from the compression face"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A builder notices that efflorescence has appeared on the face of a newly completed brick wall. What is the primary cause of this defect?",
+    "options": [
+      "Inadequate mortar mix proportions causing shrinkage cracks",
+      "Soluble salts within the masonry materials being carried to the surface by moisture movement",
+      "Thermal expansion of the bricks due to direct sunlight exposure",
+      "Incorrect brick bond causing stress concentrations at the wall face"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When designing a timber roof truss, the member that resists the horizontal outward thrust at the eaves and prevents the rafters from spreading is called the?",
+    "options": [
+      "Ridge board",
+      "Purlin",
+      "Collar tie",
+      "Tie beam"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following correctly describes the purpose of a damp proof course (DPC) in a cavity wall construction?",
+    "options": [
+      "To improve the thermal insulation properties of the wall",
+      "To prevent the upward migration of ground moisture into the wall structure",
+      "To provide structural continuity between the inner and outer leaves",
+      "To act as a fire barrier within the cavity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil mechanics, a Standard Penetration Test (SPT) is used primarily to determine which property of soil?",
+    "options": [
+      "Liquid limit and plasticity index",
+      "In-situ density and shear strength characteristics",
+      "Particle size distribution and grading",
+      "Permeability coefficient and drainage rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of bond is most commonly used for a 215 mm (one-brick) thick wall requiring maximum strength and structural integrity?",
+    "options": [
+      "Stretcher bond",
+      "English bond",
+      "Flemish bond",
+      "Header bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A quantity surveyor preparing a Bill of Quantities uses the 'Standard Method of Measurement' (SMM). What is the primary purpose of this document?",
+    "options": [
+      "To specify the quality of materials to be used on site",
+      "To provide a uniform basis for measuring and describing building work",
+      "To determine the construction programme and sequence of operations",
+      "To calculate the structural loads imposed on the foundation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing systems, a trap is installed beneath sanitary fittings. What is the critical dimension used to evaluate the effectiveness of a trap?",
+    "options": [
+      "The diameter of the trap outlet",
+      "The water seal depth, which must be a minimum of 50 mm",
+      "The length of the inlet arm connecting the fitting to the trap",
+      "The gradient of the waste pipe downstream of the trap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the structural behaviour of a simply supported beam under a uniformly distributed load?",
+    "options": [
+      "Maximum bending moment occurs at the supports, and shear force is zero at mid-span",
+      "Maximum bending moment occurs at mid-span, and shear force is zero at mid-span",
+      "Maximum bending moment occurs at mid-span, and maximum shear force occurs at the supports",
+      "Maximum bending moment and maximum shear force both occur at the supports"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical installations, the term 'ring final circuit' is used. Which statement most accurately describes this circuit configuration?",
+    "options": [
+      "A single cable run from the consumer unit to each socket outlet in series, terminating at the last outlet",
+      "Both ends of the circuit cable are connected to the same way in the consumer unit, forming a continuous loop",
+      "The circuit uses a radial layout with all sockets protected by a 32A circuit breaker",
+      "Each socket outlet is individually protected by its own fuse in the consumer unit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During concrete production, the water-cement ratio has a direct effect on concrete quality. An increase in the water-cement ratio will result in which of the following?",
+    "options": [
+      "Increased compressive strength and reduced workability",
+      "Reduced compressive strength and increased workability",
+      "Increased compressive strength and increased workability",
+      "Reduced compressive strength and reduced workability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A building contract includes a 'Retention Fund' clause. What is the primary purpose of the retention fund?",
+    "options": [
+      "To finance the purchase of materials at the start of the project",
+      "To provide a financial incentive for the contractor to complete snagging items and meet defects liability obligations",
+      "To cover the cost of variations ordered by the architect during construction",
+      "To compensate the client for any liquidated and ascertained damages imposed on the contractor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roof covering system relies on the principle of capillary action being broken by an upstand or anti-capillary groove to prevent water ingress at lapped joints?",
+    "options": [
+      "Clay pantiles",
+      "Corrugated fibre cement sheets",
+      "Single-ply membrane roofing",
+      "Built-up felt roofing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of construction project management, the Critical Path Method (CPM) is used. Which statement best defines the critical path?",
+    "options": [
+      "The sequence of activities that requires the greatest financial expenditure during the project",
+      "The longest sequence of dependent activities through the network that determines the minimum project duration",
+      "The path that identifies all activities with the highest risk of delay or failure",
+      "The shortest route through the project network connecting the start and finish milestones"
+    ],
+    "correctIndex": 1
+  }
+]

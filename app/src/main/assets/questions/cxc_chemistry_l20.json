@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best explains why fluorine is a stronger oxidising agent than chlorine?",
+    "options": [
+      "Fluorine has a smaller atomic radius and higher electronegativity, making it easier to gain electrons",
+      "Fluorine has more valence electrons than chlorine",
+      "Fluorine has a higher boiling point than chlorine",
+      "Fluorine forms longer bonds than chlorine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A buffer solution is prepared by mixing ethanoic acid and sodium ethanoate. What happens to the pH when a small amount of HCl is added?",
+    "options": [
+      "The pH increases significantly",
+      "The pH decreases significantly",
+      "The pH remains approximately constant because the ethanoate ions react with the added H\u207a ions",
+      "The pH becomes exactly 7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the electrolysis of concentrated aqueous sodium chloride, which product is formed at the anode?",
+    "options": [
+      "Oxygen gas",
+      "Hydrogen gas",
+      "Chlorine gas",
+      "Sodium metal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The rate of a chemical reaction is found to double when the concentration of reactant A is doubled, but remains unchanged when the concentration of reactant B is doubled. What is the overall order of the reaction?",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following compounds exhibits optical isomerism?",
+    "options": [
+      "CH\u2082ClBr",
+      "CHClBrF",
+      "CH\u2083CHClCH\u2083",
+      "CH\u2082Cl\u2082"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The standard electrode potential for Cu\u00b2\u207a/Cu is +0.34 V and for Zn\u00b2\u207a/Zn is -0.76 V. What is the standard EMF of a cell composed of these two half-cells?",
+    "options": [
+      "0.42 V",
+      "1.10 V",
+      "-0.42 V",
+      "-1.10 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of reaction occurs when bromine water is added to an alkene and the solution is decolourised?",
+    "options": [
+      "Substitution",
+      "Elimination",
+      "Electrophilic addition",
+      "Nucleophilic addition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following statements correctly describes Le Chatelier's principle applied to the Haber process (N\u2082 + 3H\u2082 \u21cc 2NH\u2083, \u0394H = -92 kJ/mol)?",
+    "options": [
+      "Increasing temperature increases yield of ammonia because the reaction is exothermic",
+      "Increasing pressure decreases yield of ammonia by favouring the side with more moles of gas",
+      "Increasing pressure increases yield of ammonia by favouring the side with fewer moles of gas",
+      "Removing ammonia shifts equilibrium to the left, increasing yield"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A compound has the molecular formula C\u2083H\u2086O and produces a silver mirror with Tollens' reagent. Which compound is it?",
+    "options": [
+      "Propanone",
+      "Propanal",
+      "Propan-1-ol",
+      "Propanoic acid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the bonding in a coordinate (dative covalent) bond?",
+    "options": [
+      "Both atoms contribute one electron each to the shared pair",
+      "One atom donates both electrons to form the shared pair",
+      "Electrons are completely transferred from one atom to another",
+      "The bond involves no sharing of electrons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the oxidation state of manganese in KMnO\u2084?",
+    "options": [
+      "+5",
+      "+6",
+      "+7",
+      "+4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following pairs of ions would produce a precipitate when their aqueous solutions are mixed?",
+    "options": [
+      "Na\u207a and Cl\u207b",
+      "K\u207a and NO\u2083\u207b",
+      "Ba\u00b2\u207a and SO\u2084\u00b2\u207b",
+      "NH\u2084\u207a and Br\u207b"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the reaction between an acid and an alcohol to form an ester, the mechanism is best described as:",
+    "options": [
+      "Nucleophilic substitution where the OH of the acid is replaced by the OR group of the alcohol",
+      "Electrophilic addition across a double bond",
+      "Free radical substitution initiated by UV light",
+      "Elimination of water from two alcohol molecules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement about the relative strengths of intermolecular forces is correct?",
+    "options": [
+      "London dispersion forces are always stronger than hydrogen bonds",
+      "Hydrogen bonds are weaker than permanent dipole-dipole interactions",
+      "London dispersion forces increase with increasing molecular mass and surface area",
+      "Hydrogen bonding only occurs between oxygen and hydrogen atoms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sample of radioactive isotope has a half-life of 8 days. What fraction of the original sample remains after 32 days?",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/4",
+      "1/32"
+    ],
+    "correctIndex": 1
+  }
+]

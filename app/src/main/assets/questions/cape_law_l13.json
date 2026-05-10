@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In the context of judicial precedent, which principle allows a court to avoid following a binding precedent by declaring it was decided per incuriam?",
+    "options": [
+      "A precedent decided without consideration of a relevant statute or binding authority",
+      "A precedent that was overruled by the Privy Council",
+      "A precedent that has been distinguished on its facts",
+      "A precedent that conflicts with natural justice principles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the doctrine of promissory estoppel as established in Central London Property Trust v High Trees House [1947], which of the following is an essential requirement?",
+    "options": [
+      "The promisee must provide fresh consideration for the modified promise",
+      "There must be a clear and unequivocal promise that strict legal rights will not be enforced",
+      "The promise must be supported by a deed to be legally binding",
+      "The promisor must have received an economic benefit from the waiver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'ultra vires' in Caribbean administrative law?",
+    "options": [
+      "A government minister acting without parliamentary approval on foreign policy",
+      "An administrative body acting beyond the powers conferred upon it by its enabling legislation",
+      "A court refusing to enforce a statute that conflicts with constitutional rights",
+      "A tribunal applying common law rules instead of statutory guidelines"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In criminal law, the M'Naghten Rules establish a defence of insanity. Which element is NOT required under these rules?",
+    "options": [
+      "The accused must have been suffering from a defect of reason",
+      "The defect of reason must arise from a disease of the mind",
+      "The accused must not have known the nature and quality of the act, or not known it was wrong",
+      "The accused must have been incapable of forming any specific intent at the time of the offence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The rule in Rylands v Fletcher [1868] imposes strict liability. Which of the following is a recognised defence to this tort?",
+    "options": [
+      "Contributory negligence by the claimant reducing damages by 50%",
+      "Act of a stranger whose actions the defendant could not have foreseen or controlled",
+      "Inevitable accident resulting from normal weather conditions",
+      "The defendant's compliance with all relevant statutory regulations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under the CARICOM Treaty framework, the Caribbean Court of Justice exercises which two distinct jurisdictions?",
+    "options": [
+      "Civil jurisdiction and criminal jurisdiction over member states",
+      "Original jurisdiction under the Revised Treaty of Chaguaramas and appellate jurisdiction replacing the Privy Council",
+      "Supervisory jurisdiction over CARICOM institutions and advisory jurisdiction to member state parliaments",
+      "Constitutional jurisdiction over fundamental rights and commercial arbitration jurisdiction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In contract law, which test is applied to determine the remoteness of damage in a breach of contract claim following Hadley v Baxendale [1854]?",
+    "options": [
+      "Whether the loss was a direct and natural consequence foreseeable by a reasonable person at the time of the tort",
+      "Whether the loss arose naturally from the breach or was in the reasonable contemplation of both parties at the time of contracting",
+      "Whether the defendant subjectively foresaw the specific type of loss that would result from the breach",
+      "Whether the claimant took all reasonable steps to mitigate their loss before bringing a claim"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which constitutional doctrine, fundamental to Caribbean constitutional law, was articulated in Hinds v The Queen [1977] by the Privy Council?",
+    "options": [
+      "The doctrine of parliamentary sovereignty prevents judicial review of Acts of Parliament",
+      "The separation of powers requires that judicial power cannot be conferred on bodies that are not courts in the constitutional sense",
+      "The doctrine of legitimate expectation binds the executive to prior representations",
+      "The principle of constitutional supremacy allows courts to strike down any delegated legislation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the law of tort, the 'neighbour principle' foundational to modern negligence law was first articulated by Lord Atkin in which landmark case?",
+    "options": [
+      "Donoghue v Stevenson [1932]",
+      "Caparo Industries plc v Dickman [1990]",
+      "Anns v Merton London Borough Council [1978]",
+      "Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964]"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under Caribbean evidence law, the principle of legal professional privilege protects communications between a lawyer and client. In which circumstance is this privilege typically overridden?",
+    "options": [
+      "Where the communication is made in the course of furthering a criminal purpose or fraud",
+      "Where the client has waived the privilege by disclosing the communication to one additional person",
+      "Where the court determines the communication is relevant to the central issue in dispute",
+      "Where the lawyer no longer represents the client at the time of the proceedings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The actus reus of murder in Caribbean jurisdictions requires an unlawful killing. Which of the following killings would most likely NOT be considered unlawful?",
+    "options": [
+      "Killing by a soldier acting in excess of his orders during lawful military operations",
+      "Killing by a person exercising reasonable force in legitimate self-defence where such force was necessary and proportionate",
+      "Killing resulting from gross negligence during the performance of a legal duty",
+      "Killing by a person who honestly but unreasonably believed deadly force was required"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In equity, the maxim 'He who comes to equity must come with clean hands' operates as a bar to equitable relief. Which scenario best illustrates this maxim being applied?",
+    "options": [
+      "A claimant seeking specific performance of a contract who has himself breached a material term of that same contract",
+      "A defendant raising the Limitation Act as a defence to a claim brought after the statutory period has expired",
+      "A claimant seeking damages at common law after fraudulently inducing the defendant to enter the contract",
+      "A trustee applying to the court for directions having made an innocent mistake in administering the trust"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the doctrine of parliamentary sovereignty as it applies in Westminster-model Caribbean constitutions, which statement is most accurate?",
+    "options": [
+      "Parliament is absolutely sovereign and may enact any law without constitutional limitation",
+      "Parliamentary sovereignty is modified by constitutional supremacy, meaning legislation inconsistent with the constitution may be struck down by the courts",
+      "Parliament may only be limited by obligations under international treaties that have been domestically incorporated",
+      "The executive controls parliamentary sovereignty through the doctrine of collective cabinet responsibility"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the law of trusts, a resulting trust arises in which of the following circumstances?",
+    "options": [
+      "Where a settlor expressly declares that property is to be held for charitable purposes in perpetuity",
+      "Where a trustee applies trust property for an unauthorised purpose benefiting a third party",
+      "Where a person pays the purchase price of property but legal title is taken in the name of another without explanation",
+      "Where a court constructs a trust to reverse unjust enrichment regardless of the parties' intentions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly states the rule in Salomon v Salomon & Co Ltd [1897] and its primary significance in Caribbean company law?",
+    "options": [
+      "A company may only be formed with a minimum of seven members to prevent fraudulent single-person enterprises",
+      "A registered company is a legal entity separate and distinct from its members, even where one person holds a controlling interest",
+      "Directors of a company are personally liable for all debts incurred during their tenure in office",
+      "A company cannot hold property in its own name where it is wholly owned by a single shareholder"
+    ],
+    "correctIndex": 1
+  }
+]

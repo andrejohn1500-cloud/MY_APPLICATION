@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the process of nitrogen fixation in agriculture?",
+    "options": [
+      "The conversion of atmospheric nitrogen into ammonia by microorganisms",
+      "The absorption of nitrates from soil by plant roots",
+      "The decomposition of organic matter releasing nitrogen compounds",
+      "The leaching of nitrogen from soil into groundwater"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In crop production, what is the primary purpose of crop rotation?",
+    "options": [
+      "To increase the use of chemical fertilizers",
+      "To break pest and disease cycles and maintain soil fertility",
+      "To reduce the need for irrigation",
+      "To speed up the harvesting process"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil texture has the highest water-holding capacity?",
+    "options": [
+      "Sandy soil",
+      "Loamy soil",
+      "Clay soil",
+      "Silty soil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended pH range for most agricultural crops?",
+    "options": [
+      "3.0 to 4.5",
+      "5.5 to 7.0",
+      "7.5 to 9.0",
+      "9.0 to 10.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a C4 plant?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Soybean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The term 'photoperiodism' in plants refers to:",
+    "options": [
+      "The rate at which plants absorb sunlight for photosynthesis",
+      "The response of plants to the relative lengths of day and night",
+      "The movement of plants toward a light source",
+      "The pigmentation changes in leaves during autumn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hormone is primarily responsible for fruit ripening in climacteric fruits?",
+    "options": [
+      "Auxin",
+      "Gibberellin",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In livestock production, what does the term 'estrus' refer to?",
+    "options": [
+      "The gestation period of a female animal",
+      "The period when a female animal is sexually receptive",
+      "The weaning of young animals from their mothers",
+      "The process of artificial insemination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the most accurate definition of 'carrying capacity' in pasture management?",
+    "options": [
+      "The maximum number of animals a pasture can support without degradation",
+      "The total weight of animals on a given area of land",
+      "The minimum stocking rate needed for economic viability",
+      "The rate at which pasture grasses regrow after grazing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main advantage of using drip irrigation over flood irrigation?",
+    "options": [
+      "Drip irrigation is cheaper to install",
+      "Drip irrigation delivers water directly to the root zone reducing water loss",
+      "Drip irrigation requires no maintenance",
+      "Drip irrigation can only be used for large-scale farms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pests is a major vector of the mosaic virus in sweet potato cultivation?",
+    "options": [
+      "Aphids",
+      "Whiteflies",
+      "Thrips",
+      "Mealybugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The 'law of the minimum' in plant nutrition states that:",
+    "options": [
+      "Plant growth is determined by the most abundant nutrient available",
+      "Plant growth is limited by the nutrient present in the smallest quantity relative to need",
+      "Plants require equal amounts of all essential nutrients",
+      "Excess nutrients always increase plant yield"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In animal genetics, the term 'heterosis' or hybrid vigour refers to:",
+    "options": [
+      "The expression of a recessive trait in offspring",
+      "The superior performance of crossbred offspring compared to the average of their parents",
+      "The selective breeding of animals with similar traits",
+      "The genetic mutation caused by inbreeding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which post-harvest technique involves removing field heat from fresh produce immediately after harvest?",
+    "options": [
+      "Curing",
+      "Pre-cooling",
+      "Blanching",
+      "Irradiation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes integrated pest management (IPM)?",
+    "options": [
+      "The exclusive use of chemical pesticides to eliminate all pests",
+      "A combination of biological, cultural, physical and chemical methods to manage pests economically",
+      "The use of genetically modified organisms to resist all pests",
+      "The complete elimination of all pest species from an ecosystem"
+    ],
+    "correctIndex": 1
+  }
+]

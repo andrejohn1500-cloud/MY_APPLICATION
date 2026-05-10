@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What type of line is used to represent the outline of an object in technical drawing?",
+    "options": [
+      "A thin continuous line",
+      "A thick continuous line",
+      "A dashed line",
+      "A chain line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure and draw angles in technical drawing?",
+    "options": [
+      "Compass",
+      "Set square",
+      "Protractor",
+      "Divider"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the abbreviation '\u00d8' represent in a technical drawing?",
+    "options": [
+      "Radius",
+      "Thickness",
+      "Diameter",
+      "Depth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In first angle orthographic projection, where is the front view placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of line is used to show hidden edges in an orthographic drawing?",
+    "options": [
+      "Thick continuous line",
+      "Thin continuous line",
+      "Short dashed line",
+      "Long chain line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the view that shows an object as seen from directly above?",
+    "options": [
+      "Front view",
+      "Side view",
+      "Plan view",
+      "Sectional view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A circle in isometric drawing appears as which shape?",
+    "options": [
+      "A true circle",
+      "An ellipse",
+      "A rectangle",
+      "A square"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What scale would reduce an object to half its actual size?",
+    "options": [
+      "2:1",
+      "1:1",
+      "1:2",
+      "1:4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a method of orthographic projection?",
+    "options": [
+      "Isometric projection",
+      "Oblique projection",
+      "First angle projection",
+      "Cabinet projection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a centre line in a technical drawing?",
+    "options": [
+      "To show the outline of an object",
+      "To indicate the axis of symmetry or centre of a circle",
+      "To show hidden features",
+      "To indicate a cutting plane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In isometric drawing, the three axes are drawn at which angle to the horizontal?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of triangle has all three sides of equal length?",
+    "options": [
+      "Scalene",
+      "Isosceles",
+      "Equilateral",
+      "Right-angled"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which instrument is used to draw circles and arcs in technical drawing?",
+    "options": [
+      "Ruler",
+      "Set square",
+      "Compass",
+      "Protractor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a sectional view show?",
+    "options": [
+      "The outside surface of an object",
+      "The internal features of an object by cutting through it",
+      "The top of an object",
+      "The shadow of an object"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In oblique drawing, the receding lines are typically drawn at which angle?",
+    "options": [
+      "30 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 1
+  }
+]

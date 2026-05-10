@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A discrete random variable X has the probability distribution P(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?",
+    "options": [
+      "1/10",
+      "1/8",
+      "1/6",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A committee of 3 is to be chosen from 5 men and 4 women. How many committees contain at least 1 woman?",
+    "options": [
+      "70",
+      "74",
+      "76",
+      "80"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The lengths of bolts produced by a machine are normally distributed with mean 5 cm and standard deviation 0.2 cm. What is the probability that a randomly selected bolt has a length between 4.8 cm and 5.4 cm?",
+    "options": [
+      "0.8186",
+      "0.7745",
+      "0.8413",
+      "0.9772"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5 and P(A \u222a B) = 0.7. What is P(A | B)?",
+    "options": [
+      "0.2",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle moves in a straight line such that its velocity at time t seconds is v = 3t\u00b2 \u2212 12t + 9 m/s. At what values of t is the particle at rest?",
+    "options": [
+      "t = 1 and t = 3",
+      "t = 2 and t = 4",
+      "t = 0 and t = 3",
+      "t = 1 and t = 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a sample of 200 items, the mean weight is 50 g and the standard deviation is 5 g. A 95% confidence interval for the population mean is approximately:",
+    "options": [
+      "(49.31, 50.69)",
+      "(49.00, 51.00)",
+      "(48.65, 51.35)",
+      "(47.50, 52.50)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The number of calls received at a call centre follows a Poisson distribution with mean 3 per hour. What is the probability of receiving exactly 2 calls in one hour?",
+    "options": [
+      "0.2240",
+      "0.1494",
+      "0.2241",
+      "0.4232"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car accelerates from rest. Its displacement s metres after t seconds is given by s = 2t\u00b3 \u2212 3t\u00b2. What is the acceleration when t = 2 seconds?",
+    "options": [
+      "18 m/s\u00b2",
+      "12 m/s\u00b2",
+      "6 m/s\u00b2",
+      "24 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "options": [
+      "2/15",
+      "4/25",
+      "1/6",
+      "2/9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The regression line of y on x is y = 2.5x + 1.3. If the mean of x is 4, what is the mean of y?",
+    "options": [
+      "11.3",
+      "10.5",
+      "9.8",
+      "12.0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A hypothesis test is conducted at the 5% significance level. The p-value obtained is 0.03. What is the correct conclusion?",
+    "options": [
+      "Reject the null hypothesis",
+      "Accept the null hypothesis",
+      "Increase the significance level",
+      "The test is inconclusive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle of mass 5 kg is acted upon by a resultant force of 20 N. What is its acceleration?",
+    "options": [
+      "4 m/s\u00b2",
+      "2 m/s\u00b2",
+      "100 m/s\u00b2",
+      "0.25 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is the correct formula for the variance of a binomial distribution with parameters n and p?",
+    "options": [
+      "np(1\u2212p)",
+      "np",
+      "n\u00b2p",
+      "np\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A box contains 10 items of which 3 are defective. If 2 items are selected at random without replacement, what is the probability that exactly 1 is defective?",
+    "options": [
+      "7/15",
+      "3/10",
+      "1/2",
+      "14/45"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two forces of magnitude 8 N and 6 N act at right angles to each other. What is the magnitude of their resultant?",
+    "options": [
+      "10 N",
+      "14 N",
+      "7 N",
+      "12 N"
+    ],
+    "correctIndex": 0
+  }
+]

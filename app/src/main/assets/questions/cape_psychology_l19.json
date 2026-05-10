@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to Bronfenbrenner's ecological systems theory, which system directly contains the developing individual and includes family, school, and peer groups?",
+    "options": [
+      "A. Macrosystem",
+      "B. Exosystem",
+      "C. Microsystem",
+      "D. Chronosystem"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In signal detection theory, a participant who reports detecting a signal when none is present is demonstrating which type of response?",
+    "options": [
+      "A. Hit",
+      "B. Correct rejection",
+      "C. Miss",
+      "D. False alarm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which neurotransmitter system is most implicated in the reward pathways associated with addiction, particularly through the mesolimbic dopamine pathway?",
+    "options": [
+      "A. Serotonergic system",
+      "B. Dopaminergic system",
+      "C. GABAergic system",
+      "D. Cholinergic system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rosenhan's (1973) 'On being sane in insane places' study primarily challenged which concept in abnormal psychology?",
+    "options": [
+      "A. The reliability and validity of psychiatric diagnosis",
+      "B. The effectiveness of drug therapy over psychotherapy",
+      "C. The genetic basis of schizophrenia",
+      "D. The role of the unconscious in mental illness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which research design is most appropriate for establishing a causal relationship between an independent variable and a dependent variable while controlling for extraneous variables?",
+    "options": [
+      "A. Cross-sectional study",
+      "B. Naturalistic observation",
+      "C. True randomised controlled experiment",
+      "D. Correlational study"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The James-Lange theory of emotion proposes that emotions occur as a result of:",
+    "options": [
+      "A. Cognitive appraisal of a stimulus followed by physiological arousal",
+      "B. Simultaneous physiological arousal and emotional experience",
+      "C. Physiological arousal that the brain then interprets as an emotion",
+      "D. Subcortical processing of stimuli before conscious awareness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Milgram's obedience studies, which condition produced the greatest reduction in obedience rates?",
+    "options": [
+      "A. Experimenter giving orders by telephone",
+      "B. Presence of a rebel confederate who refused to continue",
+      "C. Moving the experiment to a run-down office building",
+      "D. Participant and learner in the same room"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'schema' as used in cognitive psychology?",
+    "options": [
+      "A. A neural pathway strengthened through repetitive activation",
+      "B. An innate mental template for language acquisition",
+      "C. A mental framework that organises and interprets incoming information",
+      "D. A retrieval cue that links stored memories to environmental stimuli"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Harlow's studies with rhesus monkeys demonstrated that infant attachment is primarily driven by:",
+    "options": [
+      "A. Feeding and nutritional satisfaction",
+      "B. Contact comfort and physical warmth",
+      "C. Classical conditioning of the mother's voice",
+      "D. Operant reinforcement of approach behaviours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statistical test is most appropriate for comparing the means of three or more independent groups when the data meet parametric assumptions?",
+    "options": [
+      "A. Chi-square test",
+      "B. Pearson's r",
+      "C. Mann-Whitney U test",
+      "D. One-way analysis of variance (ANOVA)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The diathesis-stress model of psychopathology proposes that mental disorders arise from:",
+    "options": [
+      "A. Solely genetic predispositions expressed regardless of environment",
+      "B. An interaction between biological vulnerability and environmental stressors",
+      "C. Learned maladaptive behaviours reinforced over time",
+      "D. Unconscious conflicts that emerge during critical developmental periods"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Lazarus and Folkman's transactional model of stress, 'secondary appraisal' involves:",
+    "options": [
+      "A. Initial evaluation of whether a stimulus represents a threat, harm, or challenge",
+      "B. Assessment of one's resources and coping options available to deal with the stressor",
+      "C. Re-evaluation of the stressor after coping strategies have been applied",
+      "D. Physiological activation of the hypothalamic-pituitary-adrenal axis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of memory, the 'encoding specificity principle' (Tulving & Thomson, 1973) states that recall is best when:",
+    "options": [
+      "A. Information is rehearsed elaboratively rather than maintained through rote repetition",
+      "B. Retrieval cues match the contextual and semantic cues present during encoding",
+      "C. Memories are consolidated during REM sleep immediately after learning",
+      "D. Material is organised into hierarchical chunks at the time of study"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Kohlberg's post-conventional level of moral reasoning is characterised by:",
+    "options": [
+      "A. Avoidance of punishment and blind obedience to authority",
+      "B. Adherence to social rules to maintain group approval",
+      "C. Moral judgements based on universal ethical principles and social contracts",
+      "D. Concrete application of rules established by immediate authority figures"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best explains the phenomenon of 'inattentional blindness' as demonstrated by Simons and Chabris (1999)?",
+    "options": [
+      "A. The visual cortex suppresses peripheral stimuli to conserve metabolic resources",
+      "B. Focused attention on a primary task causes salient but unexpected stimuli to go unnoticed",
+      "C. Working memory capacity limitations prevent encoding of more than four items simultaneously",
+      "D. Top-down processing biases cause observers to misidentify novel objects in familiar scenes"
+    ],
+    "correctIndex": 1
+  }
+]

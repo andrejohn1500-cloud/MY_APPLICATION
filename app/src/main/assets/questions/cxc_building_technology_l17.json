@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a heavy structure built on soil with low bearing capacity?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Pile foundation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In reinforced concrete design, the term 'cover' refers to:",
+    "options": [
+      "The thickness of the concrete above the reinforcement",
+      "The distance from the outer surface of concrete to the nearest reinforcing bar",
+      "The ratio of cement to aggregate in the mix",
+      "The depth of the neutral axis in the beam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A Pratt truss is distinguished from a Howe truss by:",
+    "options": [
+      "Having diagonal members in tension under vertical loading",
+      "Having all members in compression",
+      "Using curved top chords",
+      "Having no vertical members"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which admixture is used in concrete to significantly reduce the water-cement ratio while maintaining workability?",
+    "options": [
+      "Accelerator",
+      "Air-entraining agent",
+      "Superplasticizer",
+      "Retarder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The bending moment at the fixed end of a cantilever beam of length L carrying a uniformly distributed load w per unit length is:",
+    "options": [
+      "wL\u00b2/8",
+      "wL\u00b2/2",
+      "wL/2",
+      "wL\u00b2/4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil mechanics, the Standard Penetration Test (SPT) N-value is used primarily to determine:",
+    "options": [
+      "Soil permeability",
+      "Relative density and bearing capacity of soil",
+      "Moisture content of soil",
+      "Plasticity index of clay"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which roofing material has the highest thermal mass and is best suited for passive cooling in tropical climates?",
+    "options": [
+      "Galvanized steel sheets",
+      "Concrete roof tiles",
+      "Asphalt shingles",
+      "Aluminum sheets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to building regulations, the minimum clear headroom required on a staircase is:",
+    "options": [
+      "1800 mm",
+      "2000 mm",
+      "2100 mm",
+      "2400 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process of post-tensioning in prestressed concrete involves:",
+    "options": [
+      "Stressing tendons before concrete is poured",
+      "Stressing tendons after concrete has gained sufficient strength",
+      "Adding extra reinforcement after construction",
+      "Heating the steel bars before placement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of bond in brickwork provides the greatest resistance to lateral forces and is commonly used in retaining walls?",
+    "options": [
+      "Stretcher bond",
+      "English bond",
+      "Flemish bond",
+      "Header bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a simply supported beam, the point of contra-flexure is located where:",
+    "options": [
+      "Shear force is maximum",
+      "Bending moment is maximum",
+      "Bending moment changes sign from positive to negative",
+      "Deflection is zero"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The primary purpose of a vapour barrier in building construction is to:",
+    "options": [
+      "Prevent air infiltration through walls",
+      "Prevent moisture migration that could cause condensation within the building fabric",
+      "Improve the fire resistance of the wall assembly",
+      "Increase the sound insulation of partitions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which form of corrosion occurs when two dissimilar metals are in electrical contact in the presence of an electrolyte?",
+    "options": [
+      "Crevice corrosion",
+      "Galvanic corrosion",
+      "Stress corrosion",
+      "Uniform corrosion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In critical path analysis, the float of a non-critical activity is defined as:",
+    "options": [
+      "The total duration of the project",
+      "The amount of time an activity can be delayed without delaying the project completion",
+      "The difference between earliest and latest start times of critical activities",
+      "The sum of all activity durations on the network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil classification is most prone to settlement under load due to its high compressibility and low shear strength when saturated?",
+    "options": [
+      "Dense gravel",
+      "Well-graded sand",
+      "Soft organic clay",
+      "Silty sand"
+    ],
+    "correctIndex": 2
+  }
+]

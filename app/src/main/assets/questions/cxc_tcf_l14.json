@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a three-phase AC circuit, if the line voltage is 415V, what is the approximate phase voltage in a star (Y) connected system?",
+    "options": [
+      "415V",
+      "240V",
+      "720V",
+      "830V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of transistor configuration provides the highest voltage gain but has a phase inversion between input and output?",
+    "options": [
+      "Common Base",
+      "Common Collector",
+      "Common Emitter",
+      "Darlington Pair"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A hydraulic system operates with a pump delivering oil at 200 bar pressure and a flow rate of 50 L/min. What is the approximate hydraulic power output in kilowatts?",
+    "options": [
+      "10 kW",
+      "16.67 kW",
+      "100 kW",
+      "166.7 kW"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which welding defect is caused by the electrode moving too quickly across the base metal, leaving an incomplete fusion?",
+    "options": [
+      "Porosity",
+      "Undercut",
+      "Lack of fusion",
+      "Slag inclusion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a PLC ladder logic program, which instruction is equivalent to a normally closed contact that activates an output when de-energized?",
+    "options": [
+      "XIC (Examine If Closed)",
+      "XIO (Examine If Open)",
+      "OTE (Output Energize)",
+      "ONS (One Shot)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Bernoulli's principle applied in pneumatic systems, what happens to fluid pressure when fluid velocity increases in a constricted pipe?",
+    "options": [
+      "Pressure increases",
+      "Pressure remains constant",
+      "Pressure decreases",
+      "Pressure doubles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A DC shunt motor is running at no load. If the field winding suddenly becomes open-circuited, what is the likely result?",
+    "options": [
+      "Motor stops immediately",
+      "Motor runs at reduced speed",
+      "Motor speed dangerously increases (runaway)",
+      "Motor reverses direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which CNC G-code is used to command a tool to move in a circular arc in the clockwise direction?",
+    "options": [
+      "G00",
+      "G01",
+      "G02",
+      "G03"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electronics, the ripple factor of a full-wave rectifier with a capacitor filter is primarily reduced by:",
+    "options": [
+      "Increasing load resistance and decreasing capacitance",
+      "Decreasing load resistance and increasing capacitance",
+      "Increasing both load resistance and inductance",
+      "Decreasing both load resistance and capacitance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a differential in an automotive drivetrain?",
+    "options": [
+      "To increase torque to the drive wheels",
+      "To allow drive wheels to rotate at different speeds when cornering",
+      "To convert engine torque to hydraulic pressure",
+      "To synchronize transmission gear changes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In refrigeration systems, the Coefficient of Performance (COP) is calculated as:",
+    "options": [
+      "Work input divided by heat rejected",
+      "Heat absorbed at evaporator divided by work input",
+      "Heat rejected at condenser divided by work input",
+      "Work input divided by heat absorbed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 10 kVA, 2000/200V single-phase transformer has a full-load secondary current of 50A. If the power factor is 0.8 lagging, what is the full-load output power?",
+    "options": [
+      "10 kW",
+      "8 kW",
+      "6 kW",
+      "12.5 kW"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which logic gate configuration forms the basis of a Set-Reset (SR) flip-flop when using NAND gates?",
+    "options": [
+      "Two NAND gates in series",
+      "Two NAND gates with cross-coupled feedback",
+      "Three NAND gates in cascade",
+      "Four NAND gates in a ring oscillator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In CAD/CAM, what does the term 'parametric design' mean?",
+    "options": [
+      "Designing parts using only 2D orthographic projections",
+      "Creating models where dimensions are driven by variables that control the geometry",
+      "Using raster images as the basis for technical drawings",
+      "Generating tool paths directly from surface models"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing a hydrostatic pressure test on a pipeline, the test pressure is typically set at what percentage above the maximum allowable operating pressure (MAOP)?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which of the following best describes a pentatonic scale?",
+    "options": [
+      "A scale with seven notes",
+      "A scale with five notes",
+      "A scale with twelve notes",
+      "A scale with eight notes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the time signature 6/8 commonly associated with?",
+    "options": [
+      "Simple duple time",
+      "Compound duple time",
+      "Simple triple time",
+      "Compound quadruple time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following instruments belongs to the chordophone family?",
+    "options": [
+      "Trumpet",
+      "Steel pan",
+      "Guitar",
+      "Flute"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The term 'allegro' in music indicates that a piece should be played at what tempo?",
+    "options": [
+      "Slowly and broadly",
+      "At a moderate walking pace",
+      "Fast and lively",
+      "Very slowly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Caribbean musical form is directly associated with the Rastafarian movement in Jamaica?",
+    "options": [
+      "Calypso",
+      "Reggae",
+      "Soca",
+      "Mento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In music notation, what does a fermata symbol indicate?",
+    "options": [
+      "Play the note softly",
+      "Hold the note longer than its written value",
+      "Repeat the section",
+      "Play the note staccato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly defines 'syncopation'?",
+    "options": [
+      "Accenting notes on the strong beats",
+      "A gradual increase in tempo",
+      "Placing emphasis on normally weak beats or off-beats",
+      "Playing all notes at equal volume"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The steelband instrument that plays the lowest notes is called the",
+    "options": [
+      "Tenor pan",
+      "Double seconds",
+      "Guitar pan",
+      "Bass pan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which term describes the distance in pitch between two notes?",
+    "options": [
+      "Timbre",
+      "Interval",
+      "Dynamics",
+      "Cadence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A perfect cadence consists of which chord progression?",
+    "options": [
+      "IV to I",
+      "II to V",
+      "V to I",
+      "VI to IV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "answer": "What is the function of the 'call and response' technique commonly found in African-derived Caribbean music?",
+    "options": [
+      "To modulate between keys",
+      "To create a dialogue between a leader and a group",
+      "To establish a steady rhythm",
+      "To indicate dynamic changes"
+    ],
+    "correctIndex": 1,
+    "question": "What is the function of the 'call and response' technique commonly found in African-derived Caribbean music?"
+  },
+  {
+    "question": "Which of the following describes the texture of a piece where one melody is accompanied by chords?",
+    "options": [
+      "Monophonic",
+      "Polyphonic",
+      "Homophonic",
+      "Heterophonic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of Caribbean music, the 'tassa' drum is most closely associated with which cultural tradition?",
+    "options": [
+      "African",
+      "Indigenous Amerindian",
+      "East Indian",
+      "European"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which musical term means a gradual decrease in volume?",
+    "options": [
+      "Crescendo",
+      "Sforzando",
+      "Diminuendo",
+      "Fortissimo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'ostinato' refer to in music?",
+    "options": [
+      "A sudden change in key",
+      "A repeated rhythmic or melodic pattern",
+      "A type of vocal ornamentation",
+      "A form of improvised solo"
+    ],
+    "correctIndex": 1
+  }
+]

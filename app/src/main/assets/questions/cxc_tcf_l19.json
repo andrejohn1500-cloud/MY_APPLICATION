@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a three-phase AC circuit, if the line voltage is 415V, what is the approximate phase voltage for a star (Y) connected system?",
+    "options": [
+      "415V",
+      "240V",
+      "720V",
+      "830V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of semiconductor device is primarily used for voltage regulation in power supply circuits?",
+    "options": [
+      "BJT transistor",
+      "Zener diode",
+      "Schottky diode",
+      "MOSFET"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A concrete mix ratio of 1:2:4 represents cement, sand, and aggregate respectively. If 50kg of cement is used, how much aggregate is required?",
+    "options": [
+      "100kg",
+      "150kg",
+      "200kg",
+      "250kg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In technical drawing, the symbol for a first-angle orthographic projection is best described as:",
+    "options": [
+      "A cone with the apex pointing toward the viewer on the right",
+      "A cone with the apex pointing away from the viewer on the left",
+      "A circle inside a square",
+      "Two overlapping triangles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "options": [
+      "SMAW",
+      "MIG",
+      "TIG",
+      "SAW"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a DC motor, the back EMF (electromotive force) is directly proportional to:",
+    "options": [
+      "Armature resistance",
+      "Motor speed and flux",
+      "Supply voltage only",
+      "Torque output only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a torque converter in an automatic transmission system?",
+    "options": [
+      "To increase fuel efficiency",
+      "To transfer and multiply engine torque to the transmission",
+      "To reduce engine speed",
+      "To regulate oil pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which building foundation type is most appropriate when constructing on expansive clay soil with low bearing capacity?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Pier foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electronics, the unit of electrical conductance is the:",
+    "options": [
+      "Ohm",
+      "Farad",
+      "Siemens",
+      "Henry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A steel beam has a cross-sectional area of 0.005 m\u00b2 and is subjected to a tensile force of 250 kN. What is the tensile stress?",
+    "options": [
+      "25 MPa",
+      "50 MPa",
+      "125 MPa",
+      "500 MPa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which networking device operates at the Data Link Layer (Layer 2) of the OSI model and uses MAC addresses to forward frames?",
+    "options": [
+      "Router",
+      "Hub",
+      "Switch",
+      "Repeater"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In refrigeration systems, the component responsible for absorbing heat from the refrigerated space is the:",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Expansion valve",
+      "Evaporator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When applying the superposition theorem to a circuit with multiple voltage sources, which condition must be applied to inactive voltage sources?",
+    "options": [
+      "They are replaced with open circuits",
+      "They are replaced with short circuits",
+      "They are set to their maximum value",
+      "They are reversed in polarity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plumbing, a P-trap is installed beneath a sink primarily to:",
+    "options": [
+      "Increase water pressure",
+      "Prevent sewer gases from entering the building",
+      "Filter debris from wastewater",
+      "Regulate flow rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cutting tool geometry angle directly affects the cutting efficiency and heat generation during a machining operation on a lathe?",
+    "options": [
+      "Nose radius",
+      "Rake angle",
+      "Relief angle",
+      "Cutting edge angle"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the hybridization of the carbon atoms in benzene?",
+    "options": [
+      "sp3",
+      "sp2",
+      "sp",
+      "sp3d"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the oxidation state of manganese in KMnO4?",
+    "options": [
+      "+5",
+      "+6",
+      "+7",
+      "+4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of isomerism is exhibited by [Co(en)2Cl2]+ where en = ethylenediamine?",
+    "options": [
+      "Linkage isomerism",
+      "Geometric isomerism",
+      "Ionisation isomerism",
+      "Coordination isomerism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rate equation for a reaction is: rate = k[A][B]2. If the concentration of B is doubled while [A] remains constant, the rate will increase by a factor of:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following compounds will show optical isomerism?",
+    "options": [
+      "2-bromopropane",
+      "1-bromopropane",
+      "bromobenzene",
+      "2-bromopropene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When excess ammonia is added to a solution of copper(II) sulfate, what is the colour of the resulting complex ion?",
+    "options": [
+      "Green",
+      "Pale blue",
+      "Dark blue",
+      "Purple"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Ksp of AgCl is 1.8 \u00d7 10\u221210 at 25\u00b0C. What is the molar solubility of AgCl in pure water?",
+    "options": [
+      "1.8 \u00d7 10\u221210 mol/L",
+      "3.6 \u00d7 10\u22125 mol/L",
+      "1.34 \u00d7 10\u22125 mol/L",
+      "9.0 \u00d7 10\u22126 mol/L"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes an electrophilic addition reaction?",
+    "options": [
+      "A nucleophile attacks a carbon\u2013carbon double bond",
+      "An electrophile attacks a carbon\u2013carbon double bond",
+      "A radical attacks a carbon\u2013carbon triple bond",
+      "A nucleophile substitutes a halogen on a benzene ring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Born-Haber cycle is used to calculate which of the following energy values?",
+    "options": [
+      "Bond dissociation energy",
+      "Lattice enthalpy",
+      "Enthalpy of combustion",
+      "Electron affinity of a covalent compound"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following amino acids contains a sulfur atom in its side chain?",
+    "options": [
+      "Glycine",
+      "Alanine",
+      "Cysteine",
+      "Serine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a voltaic cell, oxidation occurs at the:",
+    "options": [
+      "Cathode",
+      "Salt bridge",
+      "Anode",
+      "Reference electrode"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the IUPAC name of CH3CH(OH)CH2CH3?",
+    "options": [
+      "1-butanol",
+      "2-butanol",
+      "3-butanol",
+      "Butan-1-ol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about Le Chatelier's principle is correct?",
+    "options": [
+      "Increasing pressure always shifts equilibrium to the right",
+      "A catalyst shifts equilibrium to the right",
+      "Adding an inert gas at constant volume has no effect on equilibrium position",
+      "Decreasing temperature always increases the yield of products"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which reagent is used to distinguish between an aldehyde and a ketone?",
+    "options": [
+      "Brady's reagent (2,4-DNPH)",
+      "Fehling's solution",
+      "Sodium hydroxide solution",
+      "Bromine water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The half-life of a first-order reaction is 20 minutes. What fraction of the original reactant remains after 60 minutes?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/16"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a binary search tree, what is the worst-case time complexity for searching an element when the tree is completely unbalanced?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form requires that every non-prime attribute is fully functionally dependent on every candidate key, with no partial dependencies?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Third Normal Form (3NF)",
+      "Second Normal Form (2NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In TCP/IP networking, which layer is responsible for logical addressing and routing of packets between networks?",
+    "options": [
+      "Transport Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a pivot element to partition the array?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Heap Sort",
+      "Bubble Sort"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, which principle states that a subclass should be substitutable for its superclass without altering the correctness of the program?",
+    "options": [
+      "Open-Closed Principle",
+      "Interface Segregation Principle",
+      "Liskov Substitution Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the result of the Boolean expression A AND (NOT A OR B) simplified using Boolean algebra laws?",
+    "options": [
+      "A AND B",
+      "A OR B",
+      "NOT A",
+      "A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which data structure operates on a Last-In-First-Out (LIFO) principle and is commonly used in recursive function call management?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Heap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In computer architecture, what does the term 'pipelining' refer to?",
+    "options": [
+      "Storing multiple copies of data for redundancy",
+      "Executing multiple instructions simultaneously by overlapping their stages",
+      "Allocating memory dynamically during runtime",
+      "Compressing data before transmission"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which SQL command is used to remove all rows from a table without logging individual row deletions and without the ability to rollback?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "REMOVE",
+      "TRUNCATE"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In asymmetric cryptography, what is used to encrypt a message so that only the intended recipient can decrypt it?",
+    "options": [
+      "The sender's private key",
+      "The recipient's private key",
+      "The recipient's public key",
+      "A shared symmetric key"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which graph traversal algorithm uses a queue data structure and visits all neighbours of a node before moving to the next level?",
+    "options": [
+      "Depth-First Search",
+      "Dijkstra's Algorithm",
+      "Breadth-First Search",
+      "A* Search"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In operating systems, what is a deadlock condition that requires circular waiting among processes, each holding a resource needed by the next?",
+    "options": [
+      "Starvation",
+      "Race Condition",
+      "Livelock",
+      "Deadlock"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which programming paradigm treats computation as the evaluation of mathematical functions and avoids changing state or mutable data?",
+    "options": [
+      "Object-Oriented Programming",
+      "Procedural Programming",
+      "Functional Programming",
+      "Event-Driven Programming"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In floating-point representation using IEEE 754 single precision, how many bits are allocated to the exponent field?",
+    "options": [
+      "23",
+      "8",
+      "1",
+      "16"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which software development model is iterative and incremental, emphasising collaboration, adaptability, and delivering working software in short cycles called sprints?",
+    "options": [
+      "Waterfall Model",
+      "Spiral Model",
+      "Agile (Scrum) Model",
+      "Rapid Application Development"
+    ],
+    "correctIndex": 2
+  }
+]

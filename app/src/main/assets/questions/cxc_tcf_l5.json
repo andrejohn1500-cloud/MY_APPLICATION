@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of joint is most suitable for joining two pieces of timber end-to-end to increase their length?",
+    "options": [
+      "A mortise and tenon joint",
+      "A butt joint",
+      "A scarf joint",
+      "A dovetail joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical wiring, what does the term 'earthing' primarily protect against?",
+    "options": [
+      "Voltage fluctuations",
+      "Electric shock due to fault currents",
+      "Overloading of circuits",
+      "Short circuits between live and neutral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A drawing that shows the internal details of an object as if it were cut along a plane is called a:",
+    "options": [
+      "Isometric drawing",
+      "Sectional view",
+      "Exploded view",
+      "Orthographic projection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which material property describes a metal's ability to be drawn into wire without breaking?",
+    "options": [
+      "Malleability",
+      "Hardness",
+      "Ductility",
+      "Toughness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, a P-trap is installed beneath a sink primarily to:",
+    "options": [
+      "Increase water pressure",
+      "Prevent sewer gases from entering the building",
+      "Filter debris from wastewater",
+      "Regulate water flow rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a flux when soldering metal joints?",
+    "options": [
+      "To increase the melting point of the solder",
+      "To prevent oxidation and improve solder flow",
+      "To harden the base metal",
+      "To cool the joint rapidly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of saw is best suited for cutting curves in thin wood panels?",
+    "options": [
+      "Rip saw",
+      "Tenon saw",
+      "Coping saw",
+      "Crosscut saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In masonry construction, which bond pattern involves alternating courses of headers and stretchers?",
+    "options": [
+      "English bond",
+      "Flemish bond",
+      "Running bond",
+      "Stack bond"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the term 'RPM' refer to when discussing electric motors and drills?",
+    "options": [
+      "Resistance per metre",
+      "Revolutions per minute",
+      "Rate per measurement",
+      "Rotational power management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of cement is most commonly used in general construction work in the Caribbean?",
+    "options": [
+      "High alumina cement",
+      "Ordinary Portland cement",
+      "Rapid hardening cement",
+      "Sulphate resisting cement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A voltage of 240V is applied across a resistor of 60 ohms. What is the current flowing through the resistor?",
+    "options": [
+      "2 A",
+      "4 A",
+      "6 A",
+      "8 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, the scale 1:50 means that 1 unit on the drawing represents:",
+    "options": [
+      "50 units smaller on the actual object",
+      "50 units larger on the actual object",
+      "1 unit on the actual object",
+      "The drawing and object are the same size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hand tool is used to check that a surface is perfectly horizontal?",
+    "options": [
+      "Try square",
+      "Spirit level",
+      "Plumb bob",
+      "Steel rule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of removing excess metal from a workpiece using a file is known as:",
+    "options": [
+      "Turning",
+      "Milling",
+      "Filing",
+      "Drilling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In construction, damp proof course (DPC) is installed in walls primarily to:",
+    "options": [
+      "Improve thermal insulation",
+      "Prevent rising damp from ground moisture",
+      "Increase the structural strength of the wall",
+      "Allow for wall expansion and contraction"
+    ],
+    "correctIndex": 1
+  }
+]

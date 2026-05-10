@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of foundation is most suitable for a multi-storey building constructed on soft, compressible soil where bedrock is at a great depth?",
+    "options": [
+      "Strip foundation",
+      "Raft foundation",
+      "Pad foundation",
+      "Pile foundation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In reinforced concrete design, what is the primary purpose of providing shear links (stirrups) in a beam?",
+    "options": [
+      "To increase the compressive strength of the concrete",
+      "To resist diagonal tension caused by shear forces",
+      "To reduce the dead load of the beam",
+      "To improve the bond between concrete and longitudinal bars"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A building is described as having a 'curtain wall' system. What does this term specifically refer to?",
+    "options": [
+      "A load-bearing external masonry wall",
+      "A non-load-bearing external cladding system attached to the structural frame",
+      "An internal partition wall used for fire compartmentation",
+      "A retaining wall used to support earth pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the function of a 'damp-proof course' (DPC) installed at floor slab level in a building?",
+    "options": [
+      "To prevent heat loss through the floor",
+      "To prevent moisture rising from the ground into the walls",
+      "To act as a vapour barrier on the warm side of insulation",
+      "To provide a level surface for floor finishes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the critical path in a construction project network diagram?",
+    "options": [
+      "The shortest route through the network with maximum float",
+      "The longest sequence of dependent activities determining the minimum project duration",
+      "The path with the highest material cost",
+      "The sequence of activities with the most workers assigned"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In timber frame construction, what is the purpose of a 'sole plate'?",
+    "options": [
+      "To provide a horizontal bearing surface at the base of the stud wall transferring loads to the foundation",
+      "To cap the top of a stud wall transferring loads to the roof",
+      "To act as a diagonal bracing member within the stud wall",
+      "To provide lateral support to floor joists"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which property of concrete is measured by the slump test?",
+    "options": [
+      "Compressive strength",
+      "Workability",
+      "Water-cement ratio",
+      "Tensile strength"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What structural system is characterised by members that carry only axial tensile or compressive forces with no bending moments?",
+    "options": [
+      "Rigid portal frame",
+      "Space frame",
+      "Pin-jointed truss",
+      "Vierendeel truss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In building services, what is the function of a 'pressure-reducing valve' in a cold water supply system?",
+    "options": [
+      "To increase water pressure to upper floors",
+      "To maintain a safe working pressure within the internal pipework",
+      "To prevent backflow of contaminated water",
+      "To regulate water temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of bond in brickwork produces the greatest resistance to lateral forces because all perpendicular joints are broken in both the longitudinal and transverse directions?",
+    "options": [
+      "Stretcher bond",
+      "English bond",
+      "Flemish bond",
+      "Stack bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary reason for pre-stressing concrete structural members?",
+    "options": [
+      "To reduce the overall weight of the member",
+      "To eliminate or counteract tensile stresses that concrete cannot resist effectively",
+      "To increase the fire resistance of the member",
+      "To reduce the curing time of the concrete"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to building regulations, what is the main purpose of providing 'fire stops' within a concealed cavity of a building?",
+    "options": [
+      "To improve the thermal insulation of the cavity",
+      "To prevent the spread of fire and smoke through the cavity",
+      "To support the outer leaf of masonry",
+      "To reduce moisture penetration into the cavity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which surveying instrument is used to establish a true horizontal plane by using a rotating laser beam?",
+    "options": [
+      "Theodolite",
+      "Level (rotary laser level)",
+      "Total station",
+      "Dumpy level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil mechanics, what does the term 'angle of repose' refer to?",
+    "options": [
+      "The angle at which water drains most efficiently from soil",
+      "The maximum angle at which an unsupported slope of soil remains stable",
+      "The angle of friction between soil and a retaining wall",
+      "The angle of inclination of soil strata beneath a foundation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes the 'critical temperature' of structural steel in fire engineering?",
+    "options": [
+      "The temperature at which steel begins to oxidise on its surface",
+      "The temperature at which steel loses approximately 60% of its ambient yield strength, typically around 550\u00b0C",
+      "The temperature at which steel melts completely",
+      "The temperature at which passive fire protection activates"
+    ],
+    "correctIndex": 1
+  }
+]

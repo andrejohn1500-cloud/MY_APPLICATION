@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which accounting concept states that a business is separate from its owner for accounting purposes?",
+    "options": [
+      "Going Concern Concept",
+      "Business Entity Concept",
+      "Accrual Concept",
+      "Materiality Concept"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A debtor owes $5,000. A provision for bad debts of 5% is created. What is the amount of the provision?",
+    "options": [
+      "$500",
+      "$250",
+      "$50",
+      "$25"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is classified as a current liability?",
+    "options": [
+      "Bank Loan (5 years)",
+      "Motor Vehicle",
+      "Trade Creditors",
+      "Premises"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The trial balance of a business shows total debits of $45,000 and total credits of $43,000. What does this indicate?",
+    "options": [
+      "The accounts are balanced correctly",
+      "There is an error in the accounts",
+      "The business made a profit of $2,000",
+      "The business has more assets than liabilities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is recorded in the Sales Returns Journal?",
+    "options": [
+      "Goods returned to suppliers",
+      "Goods returned by customers",
+      "Cash sales returned",
+      "Discounts allowed to customers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Depreciation of a fixed asset is best described as:",
+    "options": [
+      "The market value decrease of an asset",
+      "The allocation of cost of an asset over its useful life",
+      "The replacement cost of an asset",
+      "The scrap value of an asset"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business purchases goods on credit for $2,000. Which journal entry correctly records this transaction?",
+    "options": [
+      "Debit Purchases $2,000; Credit Cash $2,000",
+      "Debit Purchases $2,000; Credit Creditors $2,000",
+      "Debit Creditors $2,000; Credit Purchases $2,000",
+      "Debit Cash $2,000; Credit Purchases $2,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cost of goods sold is calculated as:",
+    "options": [
+      "Opening Stock + Closing Stock - Purchases",
+      "Opening Stock + Purchases - Closing Stock",
+      "Sales - Gross Profit",
+      "Net Profit + Expenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a credit note?",
+    "options": [
+      "A document sent to a supplier to request a refund",
+      "A document sent to a customer acknowledging a reduction in amount owed",
+      "A note confirming payment has been received",
+      "A document requesting goods on credit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The balance sheet equation is best expressed as:",
+    "options": [
+      "Assets = Capital - Liabilities",
+      "Assets + Liabilities = Capital",
+      "Assets = Capital + Liabilities",
+      "Capital = Assets + Liabilities"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of capital expenditure?",
+    "options": [
+      "Payment of electricity bill",
+      "Purchase of a delivery van",
+      "Payment of salaries",
+      "Purchase of office stationery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a partnership, the interest on drawings is:",
+    "options": [
+      "A debit to the Profit and Loss Account",
+      "A credit to the partner's Current Account",
+      "A debit to the partner's Current Account",
+      "A credit to the Capital Account"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which account would appear in the Trading Account?",
+    "options": [
+      "Carriage Outwards",
+      "Discount Allowed",
+      "Carriage Inwards",
+      "Rent Expense"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The straight-line method of depreciation is calculated as:",
+    "options": [
+      "(Cost - Scrap Value) / Useful Life in Years",
+      "Cost x Depreciation Rate",
+      "Net Book Value x Depreciation Rate",
+      "(Cost + Scrap Value) / Useful Life"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following errors would be revealed by a trial balance?",
+    "options": [
+      "Error of omission",
+      "Error of commission",
+      "Error of principle",
+      "Single entry of a transaction"
+    ],
+    "correctIndex": 3
+  }
+]

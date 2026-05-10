@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of seam is most suitable for constructing a French seam on a sheer fabric garment?",
+    "options": [
+      "A plain seam stitched twice to enclose raw edges",
+      "A lapped seam with topstitching",
+      "A flat-felled seam with two rows of stitching",
+      "A welt seam reinforced with interfacing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When drafting a basic bodice block, which measurement is divided by four to determine the chest width on the pattern?",
+    "options": [
+      "Waist measurement",
+      "Bust measurement",
+      "Hip measurement",
+      "Back length measurement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A fabric with a thread count of 200 compared to one with 80 would most likely exhibit which characteristic?",
+    "options": [
+      "Greater absorbency and softer hand",
+      "Coarser texture and less durability",
+      "Finer texture, greater strength and smoother appearance",
+      "Increased elasticity and stretch recovery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which finishing process applied to cotton fabric causes the fibres to swell, increasing lustre and dye affinity?",
+    "options": [
+      "Calendering",
+      "Mercerization",
+      "Sanforizing",
+      "Beetling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of garment costing, which component is classified as an indirect cost of production?",
+    "options": [
+      "Fabric used for the garment",
+      "Buttons and zippers attached to the garment",
+      "Factory overhead expenses such as electricity",
+      "Thread used in construction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A designer wishes to create visual illusion of a longer torso on a petite figure. Which design principle would best achieve this?",
+    "options": [
+      "Horizontal lines and wide contrasting waistbands",
+      "Vertical seam lines and monochromatic colour schemes",
+      "Diagonal tucks across the bodice in contrasting fabric",
+      "Full gathered skirts with horizontal yokes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of interfacing is most appropriate for stabilizing the collar of a tailored wool jacket?",
+    "options": [
+      "Woven sew-in interfacing",
+      "Non-woven fusible interfacing",
+      "Knit fusible interfacing",
+      "Tricot interfacing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The term 'ease' in pattern making refers to which of the following?",
+    "options": [
+      "The amount of fabric added beyond body measurements for comfort and movement",
+      "The process of gathering fabric to fit a larger section to a smaller one",
+      "The adjustment made to correct the grain line on a slanted seam",
+      "The technique of stretching bias edges before stitching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fibre property is primarily responsible for wool's ability to felt when subjected to heat, moisture, and friction?",
+    "options": [
+      "Its high tensile strength and smooth surface",
+      "The overlapping scales on the fibre surface that interlock under agitation",
+      "Its natural crimp that creates air pockets for insulation",
+      "Its high moisture regain percentage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When applying a continuous bound placket to a sleeve, which step must be completed before attaching the binding strip?",
+    "options": [
+      "Clipping the placket slash to within 6mm of the end forming a V-shape",
+      "Applying fusible interfacing to both sides of the placket opening",
+      "Folding the sleeve seam allowance to the wrong side and pressing",
+      "Topstitching the placket opening before binding is attached"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In garment production, the term 'marker efficiency' relates to which concept?",
+    "options": [
+      "The speed at which a marker maker completes a lay plan",
+      "The percentage of fabric used relative to total fabric area in a lay plan",
+      "The number of garment sizes included in a single marker",
+      "The accuracy of seam allowances included on pattern pieces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the structural difference between a woven fabric and a knitted fabric?",
+    "options": [
+      "Woven fabrics use two sets of yarns interlaced at right angles while knitted fabrics are formed by interlocking loops of yarn",
+      "Woven fabrics are always made from natural fibres while knitted fabrics use synthetic fibres exclusively",
+      "Woven fabrics have greater stretch than knitted fabrics due to their construction method",
+      "Knitted fabrics require a higher thread count than woven fabrics to achieve durability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A consumer complaint reveals that a garment's dye has transferred onto other fabrics during washing. This problem is attributed to poor:",
+    "options": [
+      "Tensile strength of the fabric",
+      "Colorfastness of the dye used",
+      "Dimensional stability of the fabric",
+      "Abrasion resistance of the fibres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which method of sleeve setting produces the smoothest cap with minimal ease, making it most appropriate for tailored garments?",
+    "options": [
+      "The gathered ease method where cap ease is distributed evenly",
+      "The flat sleeve method where sleeve is set in before side seams are joined",
+      "The hand-basted ease method with the sleeve eased by hand before machine stitching",
+      "The stay-stitched method where cap is clipped before insertion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When evaluating the care label of a garment that reads 'Dry Clean Only,' which fibre composition would most likely require this care instruction?",
+    "options": [
+      "100% polyester with a plain weave construction",
+      "65% polyester and 35% cotton blend",
+      "100% viscose with embellishments and structured boning",
+      "100% cotton poplin without any lining"
+    ],
+    "correctIndex": 2
+  }
+]

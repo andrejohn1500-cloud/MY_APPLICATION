@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following correctly describes the relationship between bond order and bond length in diatomic molecules?",
+    "options": [
+      "Higher bond order results in longer bond length and weaker bond",
+      "Higher bond order results in shorter bond length and stronger bond",
+      "Bond order has no effect on bond length but affects bond energy",
+      "Lower bond order results in shorter bond length and stronger bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.15 mol of sodium ethanoate in 500 cm\u00b3 of solution. Given that Ka = 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of this buffer?",
+    "options": [
+      "4.62",
+      "4.87",
+      "4.62",
+      "4.49"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the Born-Haber cycle for the formation of MgCl\u2082, which energy term accounts for the removal of both electrons from a gaseous magnesium atom?",
+    "options": [
+      "First ionisation energy only",
+      "Sum of first and second ionisation energies",
+      "Electron affinity of magnesium",
+      "Lattice dissociation enthalpy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about entropy change (\u0394S) is correct for the reaction: CaCO\u2083(s) \u2192 CaO(s) + CO\u2082(g)?",
+    "options": [
+      "\u0394S is negative because a solid decomposes",
+      "\u0394S is positive because a gas is produced, increasing disorder",
+      "\u0394S is zero because mass is conserved",
+      "\u0394S is negative because two products form from one reactant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rate equation for a reaction is: rate = k[A]\u00b2[B]. If the concentration of A is doubled and the concentration of B is halved, the rate will:",
+    "options": [
+      "Remain the same",
+      "Double",
+      "Be halved",
+      "Be quadrupled"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly identifies the hybridisation and geometry of the SF\u2084 molecule?",
+    "options": [
+      "sp\u00b3 hybridisation, tetrahedral geometry",
+      "sp\u00b3d hybridisation, see-saw geometry",
+      "sp\u00b3d\u00b2 hybridisation, square planar geometry",
+      "sp\u00b3 hybridisation, trigonal pyramidal geometry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the electrolysis of dilute aqueous sulfuric acid using platinum electrodes, which product is formed at the anode?",
+    "options": [
+      "Hydrogen gas",
+      "Sulfur dioxide gas",
+      "Oxygen gas",
+      "Sulfate ions are discharged"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A compound has the molecular formula C\u2084H\u2088O and shows a carbonyl absorption at 1715 cm\u207b\u00b9 in its IR spectrum but does not give a silver mirror with Tollens' reagent. What is the most likely structure?",
+    "options": [
+      "Butanal",
+      "But-3-en-1-ol",
+      "Butanone",
+      "Butanoic acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly explains why the second ionisation energy of sodium is significantly higher than its first ionisation energy?",
+    "options": [
+      "The second electron is removed from a fully filled 2p subshell which is more stable",
+      "The second electron is removed from the same shell as the first",
+      "After losing one electron, sodium has a noble gas configuration with the next electron in a lower energy shell",
+      "The atomic radius increases after the first ionisation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a voltaic cell, the standard cell potential E\u00b0cell for the reaction Zn(s) + Cu\u00b2\u207a(aq) \u2192 Zn\u00b2\u207a(aq) + Cu(s) is calculated using E\u00b0(Cu\u00b2\u207a/Cu) = +0.34 V and E\u00b0(Zn\u00b2\u207a/Zn) = \u22120.76 V. What is E\u00b0cell?",
+    "options": [
+      "\u22120.42 V",
+      "\u22121.10 V",
+      "+0.42 V",
+      "+1.10 V"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which statement correctly describes the mechanism of nucleophilic addition in the reaction of HCN with propanone?",
+    "options": [
+      "The electrophilic CN\u207b attacks the partially positive carbon of the carbonyl group",
+      "The nucleophilic CN\u207b attacks the partially positive carbon of the carbonyl group, followed by protonation",
+      "The nucleophilic H\u207a attacks the oxygen of the carbonyl group first",
+      "The reaction proceeds via an SN2 mechanism at the carbonyl carbon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the oxidation state of chromium in the dichromate ion Cr\u2082O\u2087\u00b2\u207b?",
+    "options": [
+      "+3",
+      "+5",
+      "+6",
+      "+7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following pairs of compounds are positional isomers (position isomers)?",
+    "options": [
+      "1-bromopropane and 2-bromopropane",
+      "Propan-1-ol and methoxyethane",
+      "Propan-1-ol and propan-1-ol",
+      "Bromoethane and 1-bromopropane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Haber process operates at approximately 450\u00b0C and 200 atm. Which of the following correctly explains why a moderate temperature is used despite the reaction being exothermic?",
+    "options": [
+      "Higher temperature increases the equilibrium yield of ammonia",
+      "Lower temperature gives a faster rate but shifts equilibrium to the left",
+      "A moderate temperature balances an acceptable reaction rate with a reasonable equilibrium yield",
+      "Temperature has no effect on equilibrium position, only on rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In gel permeation chromatography (GPC) of a polymer sample, smaller polymer chains elute:",
+    "options": [
+      "First, because they pass through the pores of the stationary phase and take a longer path",
+      "Last, because they pass through the pores of the stationary phase and take a longer path",
+      "First, because they are less retained by the mobile phase",
+      "Last, because they cannot enter the pores and travel through the column faster"
+    ],
+    "correctIndex": 1
+  }
+]

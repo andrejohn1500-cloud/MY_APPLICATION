@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the role of ATP synthase during oxidative phosphorylation?",
+    "options": [
+      "It transfers electrons from NADH to oxygen",
+      "It uses the proton gradient across the inner mitochondrial membrane to synthesize ATP",
+      "It catalyzes the reduction of NAD+ to NADH",
+      "It pumps protons from the matrix into the intermembrane space using ATP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a typical eukaryotic cell, which organelle is primarily responsible for the modification, sorting, and packaging of proteins for secretion?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Lysosome",
+      "Golgi apparatus",
+      "Mitochondrion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During meiosis, crossing over (recombination) occurs between non-sister chromatids of homologous chromosomes. At which stage does this take place?",
+    "options": [
+      "Prophase II",
+      "Metaphase I",
+      "Prophase I",
+      "Anaphase I"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following statements correctly describes the action of a competitive inhibitor on an enzyme?",
+    "options": [
+      "It permanently binds to the active site and denatures the enzyme",
+      "It binds to the allosteric site and changes the shape of the active site",
+      "It binds reversibly to the active site, competing with the substrate, and its effect can be overcome by increasing substrate concentration",
+      "It cleaves the enzyme into subunits, reducing total enzyme concentration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the lac operon of Escherichia coli, what is the role of the repressor protein when lactose is absent?",
+    "options": [
+      "It binds to the promoter and activates transcription of structural genes",
+      "It binds to the operator and prevents RNA polymerase from transcribing the structural genes",
+      "It degrades lactose molecules in the cytoplasm",
+      "It phosphorylates the activator protein to initiate transcription"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the process of transpiration in plants?",
+    "options": [
+      "Water is actively pumped from the roots to the leaves using ATP",
+      "Water moves up the xylem due to root pressure alone, independent of evaporation",
+      "Loss of water vapour from aerial parts of the plant, creating tension that pulls water up the xylem",
+      "Water moves from the xylem into the phloem by active transport"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A student observes that red blood cells placed in a solution shrink (crenate). What type of solution were they placed in?",
+    "options": [
+      "Hypotonic solution",
+      "Isotonic solution",
+      "Hypertonic solution",
+      "Distilled water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a correct description of the role of DNA helicase during DNA replication?",
+    "options": [
+      "It synthesizes new nucleotide strands in the 5' to 3' direction",
+      "It joins Okazaki fragments on the lagging strand",
+      "It unwinds and separates the double helix by breaking hydrogen bonds between base pairs",
+      "It adds RNA primers to the template strand"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of population ecology, which of the following best defines 'carrying capacity'?",
+    "options": [
+      "The maximum rate of population increase under ideal conditions",
+      "The total number of individuals that have ever lived in a habitat",
+      "The maximum population size that an environment can sustain indefinitely given available resources",
+      "The minimum viable population needed to prevent inbreeding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary artery",
+      "Aorta",
+      "Vena cava",
+      "Pulmonary vein"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "During the light-dependent reactions of photosynthesis, what is the direct source of electrons used to replace those lost by chlorophyll?",
+    "options": [
+      "Carbon dioxide",
+      "NADPH",
+      "Glucose",
+      "Water"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of a density-dependent factor regulating population size?",
+    "options": [
+      "A volcanic eruption destroying a habitat",
+      "A sudden hurricane killing individuals indiscriminately",
+      "Increased competition for food as population density rises",
+      "A drought reducing water availability equally for all individuals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In codominance, when a red-flowered plant (RR) is crossed with a white-flowered plant (WW), the F1 offspring have both red and white patches. What would be the expected phenotypic ratio in the F2 generation from crossing two F1 plants?",
+    "options": [
+      "3 red : 1 white",
+      "1 red : 2 red-white : 1 white",
+      "1 red : 1 white",
+      "All red-white"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the function of the nephron loop (Loop of Henle) in the mammalian kidney?",
+    "options": [
+      "It is the primary site of filtration of blood under pressure",
+      "It secretes hormones that regulate blood pressure",
+      "It establishes a concentration gradient in the medulla that allows the collecting duct to produce concentrated urine",
+      "It is where most glucose is actively reabsorbed into the bloodstream"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which of the following ways does a virus differ fundamentally from a bacterium?",
+    "options": [
+      "Viruses contain genetic material while bacteria do not",
+      "Viruses are obligate intracellular parasites that lack their own ribosomes and metabolic machinery",
+      "Viruses have a cell wall made of peptidoglycan while bacteria do not",
+      "Viruses reproduce by binary fission while bacteria use budding"
+    ],
+    "correctIndex": 1
+  }
+]

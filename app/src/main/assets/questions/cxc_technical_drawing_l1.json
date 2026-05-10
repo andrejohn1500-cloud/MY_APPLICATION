@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the standard angle of a set square used to draw 45\u00b0 angles?",
+    "options": [
+      "30/60 set square",
+      "45/45 set square",
+      "60/90 set square",
+      "30/45 set square"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which line type is used to represent hidden edges in a technical drawing?",
+    "options": [
+      "Continuous thin line",
+      "Continuous thick line",
+      "Dashed thin line",
+      "Chain line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'orthographic projection' mean?",
+    "options": [
+      "Drawing objects in 3D perspective",
+      "Representing a 3D object using 2D views at right angles",
+      "Drawing objects using circles only",
+      "Representing objects using isometric axes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first angle orthographic projection, where is the front view placed?",
+    "options": [
+      "Top left",
+      "Top right",
+      "Bottom left",
+      "Centre top"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which instrument is used to measure and draw angles?",
+    "options": [
+      "Compass",
+      "Protractor",
+      "Set square",
+      "Ruler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the pictorial drawing method where all three axes are drawn at 120\u00b0 to each other?",
+    "options": [
+      "Perspective drawing",
+      "Oblique drawing",
+      "Isometric drawing",
+      "Orthographic drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a standard drawing sheet size?",
+    "options": [
+      "A1",
+      "A2",
+      "A3",
+      "A5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of line is used to show the centre of a circle in technical drawing?",
+    "options": [
+      "Continuous thick line",
+      "Dashed line",
+      "Chain line (centre line)",
+      "Wavy line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A drawing scale of 1:2 means the drawing is drawn at what size compared to the actual object?",
+    "options": [
+      "Twice the actual size",
+      "Half the actual size",
+      "Same as actual size",
+      "One quarter the actual size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which view in orthographic projection shows the object as seen from directly above?",
+    "options": [
+      "Front view",
+      "Side view",
+      "Plan view",
+      "End view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a title block on a technical drawing?",
+    "options": [
+      "To decorate the drawing sheet",
+      "To provide important information such as scale, title and date",
+      "To show the dimensions of the object only",
+      "To indicate the type of pencil used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pencil grade is hardest and most suitable for construction lines?",
+    "options": [
+      "HB",
+      "2B",
+      "4H",
+      "B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In oblique drawing, the front face of the object is drawn at what angle to the horizontal?",
+    "options": [
+      "30\u00b0",
+      "45\u00b0",
+      "60\u00b0",
+      "90\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the instrument used to draw circles and arcs?",
+    "options": [
+      "Protractor",
+      "Set square",
+      "Compass",
+      "T-square"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of projection shows three faces of an object in one view using 30\u00b0 axes?",
+    "options": [
+      "Orthographic projection",
+      "Isometric projection",
+      "First angle projection",
+      "Third angle projection"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which biogeochemical cycle is most directly affected by the process of denitrification carried out by anaerobic bacteria in waterlogged soils?",
+    "options": [
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Phosphorus cycle",
+      "Sulfur cycle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of the IPCC climate sensitivity parameter, what does a climate sensitivity of 3\u00b0C mean?",
+    "options": [
+      "Global temperatures will rise 3\u00b0C over the next century regardless of emissions",
+      "A doubling of atmospheric CO2 concentration will result in an equilibrium global temperature increase of approximately 3\u00b0C",
+      "Global temperatures will rise 3\u00b0C if all fossil fuel combustion ceases immediately",
+      "A 3\u00b0C rise will occur for every 100 ppm increase in CO2 concentration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'ecological stoichiometry' in nutrient cycling?",
+    "options": [
+      "The measurement of pollutant concentrations in aquatic ecosystems",
+      "The study of the balance of energy and multiple chemical elements in ecological interactions",
+      "The calculation of biomass ratios between trophic levels",
+      "The quantification of elemental inputs and outputs in geochemical reservoirs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Montreal Protocol was specifically designed to address which environmental issue?",
+    "options": [
+      "Transboundary acid deposition from sulfur dioxide emissions",
+      "Depletion of stratospheric ozone by chlorofluorocarbons and halons",
+      "Accumulation of persistent organic pollutants in marine food webs",
+      "Greenhouse gas emissions from industrialized nations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a marine ecosystem, which process is primarily responsible for the biological pump that sequesters carbon in the deep ocean?",
+    "options": [
+      "Upwelling of nutrient-rich cold water to the surface",
+      "Photosynthesis by phytoplankton and subsequent sinking of organic matter as marine snow",
+      "Thermocline stratification preventing CO2 exchange with the atmosphere",
+      "Carbonate dissolution in deep acidic waters releasing CO2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which combination of factors most accurately explains the formation of a thermal inversion that traps pollutants near the Earth's surface?",
+    "options": [
+      "High wind speeds combined with high humidity create a stable atmospheric layer",
+      "A layer of warm air overlying cooler denser air near the surface prevents vertical mixing and dispersal of pollutants",
+      "Strong convective currents heat the surface layer faster than the overlying atmosphere",
+      "Low pressure systems reduce atmospheric density allowing pollutants to rise and concentrate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary ecological significance of keystone species in maintaining biodiversity?",
+    "options": [
+      "They are the most abundant species in any given ecosystem and provide the greatest biomass",
+      "They disproportionately affect ecosystem structure and function relative to their biomass or abundance",
+      "They form the base of the food web and support all higher trophic levels",
+      "They exclusively occupy the apex predator niche and regulate prey populations by direct predation only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In conducting an Environmental Impact Assessment (EIA), which method is specifically used to assign weighted scores to predicted environmental impacts for comparative evaluation?",
+    "options": [
+      "Cost-benefit analysis",
+      "Leopold matrix with weighted criteria",
+      "Hazard quotient calculation",
+      "Life cycle assessment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'planetary boundaries' as proposed by Rockstr\u00f6m et al. identifies which of the following as a boundary that has already been transgressed beyond a safe operating space?",
+    "options": [
+      "Ocean acidification and freshwater use",
+      "Biodiversity loss and biogeochemical flows of nitrogen and phosphorus",
+      "Atmospheric aerosol loading and chemical pollution",
+      "Stratospheric ozone depletion and land-system change"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mechanism best explains biomagnification of persistent organic pollutants such as PCBs in aquatic food chains?",
+    "options": [
+      "Water solubility allows pollutants to accumulate directly in aquatic organisms through osmosis",
+      "Lipophilic nature of POPs causes concentration increases in fatty tissues at each successive trophic level due to incomplete metabolic breakdown",
+      "Bioavailability increases as POPs are converted to more soluble metabolites by microbial activity",
+      "POPs bind to dissolved organic matter and are selectively absorbed by filter feeders at the base of the food chain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of island biogeography theory proposed by MacArthur and Wilson, which island would be predicted to have the highest species richness at equilibrium?",
+    "options": [
+      "A small island far from the mainland",
+      "A large island far from the mainland",
+      "A large island close to the mainland",
+      "A small island close to the mainland"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process of eutrophication in freshwater bodies ultimately leads to hypoxic conditions primarily through which sequence of events?",
+    "options": [
+      "Increased nutrient loading \u2192 increased primary productivity \u2192 algal blooms \u2192 decomposition of organic matter by aerobic bacteria consuming dissolved oxygen",
+      "Increased sediment runoff \u2192 reduced light penetration \u2192 death of submerged vegetation \u2192 anaerobic decomposition releasing methane",
+      "Increased water temperature \u2192 reduced oxygen solubility \u2192 thermal stratification preventing oxygen mixing \u2192 fish mortality",
+      "Acidification from acid rain \u2192 dissolution of calcium carbonate sediments \u2192 nutrient release \u2192 excessive macrophyte growth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly distinguishes between mitigation and adaptation strategies in the context of climate change policy?",
+    "options": [
+      "Mitigation involves adjusting to current or expected climate impacts while adaptation reduces greenhouse gas emissions or enhances carbon sinks",
+      "Adaptation involves reducing the causes of climate change while mitigation addresses the consequences of climate change already underway",
+      "Mitigation involves reducing greenhouse gas emissions or enhancing carbon sinks while adaptation involves adjusting human or natural systems to actual or expected climate change",
+      "Mitigation and adaptation are synonymous terms used interchangeably in international climate agreements"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Tragedy of the Commons, as described by Garrett Hardin, most accurately applies to which environmental management scenario?",
+    "options": [
+      "Private landowners overexploiting renewable resources on their own property for maximum short-term economic gain",
+      "Individual users acting in rational self-interest deplete a shared common-pool resource to the detriment of all users",
+      "Government regulation of natural resources leading to economic inefficiency and resource underutilization",
+      "Market mechanisms failing to assign economic value to ecosystem services provided by natural habitats"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil science, which horizon is characterized by the illuviation of clay minerals, iron oxides, and organic matter leached from upper horizons?",
+    "options": [
+      "O horizon",
+      "A horizon",
+      "B horizon",
+      "C horizon"
+    ],
+    "correctIndex": 2
+  }
+]

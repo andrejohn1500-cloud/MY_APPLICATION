@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a two-sector Keynesian model, if the marginal propensity to consume (MPC) is 0.75, what is the value of the expenditure multiplier?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes 'crowding out' in macroeconomics?",
+    "options": [
+      "An increase in government spending leads to higher taxes which reduce consumer spending",
+      "Expansionary fiscal policy raises interest rates which reduce private investment",
+      "A rise in exports causes imports to fall due to exchange rate appreciation",
+      "Monetary tightening reduces government borrowing capacity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The J-curve effect suggests that following a currency depreciation, the current account balance will initially:",
+    "options": [
+      "Improve immediately due to cheaper exports",
+      "Worsen before eventually improving",
+      "Remain unchanged in the short run",
+      "Improve only if the Marshall-Lerner condition is not satisfied"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Marshall-Lerner condition states that a devaluation will improve the trade balance only if:",
+    "options": [
+      "The sum of the price elasticities of demand for exports and imports exceeds one",
+      "The income elasticity of demand for imports is greater than unity",
+      "The price elasticity of supply of exports is perfectly elastic",
+      "The marginal propensity to import is less than the marginal propensity to save"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of monopolistic competition, which of the following is TRUE in long-run equilibrium?",
+    "options": [
+      "Firms earn supernormal profit due to product differentiation",
+      "Firms produce at the minimum point of the average cost curve",
+      "Firms earn only normal profit but productive inefficiency exists",
+      "Price equals marginal cost ensuring allocative efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a consequence of a negative externality in production being ignored by the market?",
+    "options": [
+      "The good is underproduced and overpriced",
+      "The good is overproduced and underpriced",
+      "The good is underproduced and underpriced",
+      "The good is overproduced and overpriced"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Stagflation is best described as a period of:",
+    "options": [
+      "High inflation accompanied by rapid economic growth",
+      "Simultaneous occurrence of high inflation and high unemployment",
+      "Deflation combined with rising unemployment rates",
+      "High economic growth with falling price levels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under a fixed exchange rate system, if a country experiences a persistent balance of payments deficit, the central bank must:",
+    "options": [
+      "Raise domestic interest rates to attract capital inflows automatically",
+      "Sell foreign reserves to support the domestic currency",
+      "Allow the currency to depreciate to restore equilibrium",
+      "Increase the money supply to stimulate exports"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Lorenz curve and Gini coefficient are used to measure:",
+    "options": [
+      "The efficiency of resource allocation in an economy",
+      "The degree of income inequality within a country",
+      "The level of poverty relative to a national poverty line",
+      "Differences in standards of living between countries"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why public goods lead to market failure?",
+    "options": [
+      "They are overproduced because governments subsidize them heavily",
+      "Non-excludability and non-rivalry lead to free-rider problems preventing private provision",
+      "They generate significant positive externalities that raise social welfare",
+      "They are subject to the tragedy of the commons due to overuse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Solow growth model, the 'golden rule' level of capital accumulation refers to the steady state where:",
+    "options": [
+      "The savings rate equals the depreciation rate",
+      "Per capita consumption is maximized in the steady state",
+      "Economic growth is equal to population growth",
+      "Total factor productivity growth is at its maximum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Price discrimination is most profitable when markets can be separated and:",
+    "options": [
+      "The price elasticity of demand is identical in all markets",
+      "The price elasticity of demand differs across market segments",
+      "The marginal cost of production differs between markets",
+      "Consumers have perfect information about prices in all markets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following would shift the aggregate supply curve to the right in the long run?",
+    "options": [
+      "An increase in government expenditure on infrastructure and technology",
+      "A rise in nominal wages negotiated by trade unions",
+      "An increase in the price of imported raw materials",
+      "An expansionary monetary policy that lowers interest rates"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of 'moral hazard' in economics refers to:",
+    "options": [
+      "The tendency for adverse selection to occur in insurance markets",
+      "The increased risk-taking behaviour that occurs when individuals are protected from consequences",
+      "The exploitation of monopoly power in markets with asymmetric information",
+      "The underinvestment in public goods due to free-rider behaviour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a small open economy under a floating exchange rate regime, expansionary monetary policy is most effective because:",
+    "options": [
+      "Lower interest rates increase investment and shift aggregate demand rightward domestically",
+      "Currency depreciation boosts net exports thereby amplifying the expansionary effect",
+      "Higher money supply reduces inflation expectations improving competitiveness",
+      "Capital inflows triggered by lower rates appreciate the currency stimulating growth"
+    ],
+    "correctIndex": 1
+  }
+]

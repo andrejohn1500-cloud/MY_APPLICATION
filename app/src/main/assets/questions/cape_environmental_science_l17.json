@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which biogeochemical process is primarily responsible for converting atmospheric nitrogen into ammonia that can be used by plants?",
+    "options": [
+      "Nitrification by Nitrosomonas bacteria",
+      "Nitrogen fixation by Rhizobium bacteria",
+      "Denitrification by Pseudomonas bacteria",
+      "Ammonification by decomposers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of the IPCC carbon budget, which of the following best describes a 'carbon sink'?",
+    "options": [
+      "A reservoir that releases more carbon dioxide than it absorbs",
+      "A reservoir that absorbs more carbon dioxide than it releases",
+      "The total amount of carbon stored in fossil fuels",
+      "The rate at which carbon is emitted by industrial processes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why stratospheric ozone depletion is more severe over polar regions during spring?",
+    "options": [
+      "Higher ultraviolet radiation intensity at the poles accelerates photolysis",
+      "Polar stratospheric clouds provide surfaces for heterogeneous reactions that destroy ozone",
+      "Lower temperatures at the poles reduce ozone production rates",
+      "Polar winds transport ozone-depleting substances preferentially to high latitudes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'ecological footprint' measures which of the following?",
+    "options": [
+      "The total biodiversity found within a specific ecosystem",
+      "The biologically productive area required to sustain a population's resource consumption and absorb its waste",
+      "The rate of energy flow through trophic levels in an ecosystem",
+      "The carbon emissions generated per unit of GDP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which succession type begins on a substrate that has never previously supported life, such as bare volcanic rock?",
+    "options": [
+      "Secondary succession",
+      "Allogenic succession",
+      "Primary succession",
+      "Deflected succession"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the principle of competitive exclusion, what occurs when two species occupy exactly the same ecological niche?",
+    "options": [
+      "They evolve mutualistic relationships over time",
+      "One species will outcompete and eliminate or displace the other",
+      "They partition resources and coexist indefinitely",
+      "Both species decline due to intraspecific competition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which parameter is used to calculate the Human Development Index (HDI) in addition to life expectancy and education indices?",
+    "options": [
+      "Gross Domestic Product per capita at purchasing power parity",
+      "Annual carbon emissions per capita",
+      "Infant mortality rate",
+      "Access to clean water percentage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a photovoltaic solar cell, energy conversion occurs through which physical principle?",
+    "options": [
+      "Thermoelectric effect",
+      "Electromagnetic induction",
+      "Photoelectric effect in semiconductor materials",
+      "Piezoelectric effect"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following describes eutrophication in aquatic systems?",
+    "options": [
+      "The accumulation of toxic heavy metals in water sediments",
+      "Excessive nutrient enrichment leading to algal blooms, oxygen depletion, and biodiversity loss",
+      "The acidification of water bodies due to acid rain",
+      "The thermal stratification of deep lakes preventing oxygen mixing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary mechanism by which persistent organic pollutants (POPs) accumulate in organisms at higher trophic levels?",
+    "options": [
+      "Bioaccumulation through direct absorption from sediments",
+      "Biomagnification through the food chain due to lipophilic properties",
+      "Bioremediation of contaminated water sources",
+      "Bioconcentration from dissolved forms in water only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Montreal Protocol was specifically designed to address which environmental issue?",
+    "options": [
+      "Reduction of greenhouse gas emissions causing climate change",
+      "Phasing out substances that deplete the stratospheric ozone layer",
+      "Control of transboundary air pollution from sulfur dioxide",
+      "Regulation of marine plastic pollution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil horizon is characterized by the accumulation of leached minerals, particularly iron and aluminum oxides, deposited from upper layers?",
+    "options": [
+      "O horizon",
+      "A horizon",
+      "B horizon",
+      "C horizon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In environmental impact assessment (EIA), which step immediately follows the initial screening phase?",
+    "options": [
+      "Monitoring and auditing",
+      "Scoping to identify key impacts",
+      "Public consultation on mitigation measures",
+      "Preparation of the final EIA report"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the 'precautionary principle' in environmental management?",
+    "options": [
+      "Taking protective action against potential environmental harm even when scientific certainty is lacking",
+      "Requiring full scientific proof of harm before implementing environmental regulations",
+      "Prioritizing economic development over environmental protection until damage is proven",
+      "Applying existing technologies to solve environmental problems before researching new solutions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Coral bleaching occurs primarily as a result of which environmental stressor?",
+    "options": [
+      "Increased salinity levels disrupting osmotic balance in coral tissues",
+      "Elevated sea surface temperatures causing expulsion of symbiotic zooxanthellae",
+      "Ocean acidification dissolving calcium carbonate in coral skeletons",
+      "Reduced sunlight penetration due to increased turbidity"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In first-angle orthographic projection, where is the front view (elevation) placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A regular hexagonal prism is cut by an oblique plane. The true shape of the section is best obtained by using which method?",
+    "options": [
+      "Auxiliary plane projection perpendicular to the cutting plane",
+      "Rotating the cutting plane to a horizontal position",
+      "Projecting directly onto the vertical plane",
+      "Using a secondary auxiliary view from the end elevation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When developing the lateral surface of an oblique cone, which method is most appropriate?",
+    "options": [
+      "Parallel line development",
+      "Radial line development",
+      "Triangulation development",
+      "Zone method development"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A point P is located 40 mm above the HP, 25 mm in front of the VP, and 30 mm to the left of the PP. In which dihedral angle does this point lie?",
+    "options": [
+      "First dihedral angle",
+      "Second dihedral angle",
+      "Third dihedral angle",
+      "Fourth dihedral angle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The isometric drawing of a sphere of diameter 60 mm would appear as a circle of diameter:",
+    "options": [
+      "60 mm",
+      "52 mm",
+      "69 mm",
+      "75 mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When finding the line of intersection between a cylinder and a cone whose axes intersect at right angles, which construction technique is most efficient?",
+    "options": [
+      "Using cutting planes parallel to both axes simultaneously",
+      "Using horizontal cutting planes to generate circles on both solids",
+      "Using vertical cutting planes through the cone axis only",
+      "Using auxiliary planes perpendicular to the cylinder axis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a cam displacement diagram, a follower that rises with simple harmonic motion will trace a curve derived from:",
+    "options": [
+      "A parabola projected onto the time axis",
+      "Points projected from a semicircle divided into equal parts",
+      "An Archimedean spiral construction",
+      "Equal divisions of rise plotted at equal time intervals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The true length of a line inclined at 35\u00b0 to the HP and 25\u00b0 to the VP can be obtained in a single auxiliary view when the auxiliary plane is:",
+    "options": [
+      "Parallel to the line and perpendicular to the VP",
+      "Perpendicular to the line's projection on the HP",
+      "Parallel to the front view projection of the line and perpendicular to the HP",
+      "Inclined at the average of both angles to a reference plane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A helical spring of mean diameter 80 mm, wire diameter 10 mm and pitch 30 mm is drawn in orthographic projection. The helix angle \u03b1 is calculated as:",
+    "options": [
+      "tan \u03b1 = pitch / (\u03c0 \u00d7 mean diameter)",
+      "tan \u03b1 = (\u03c0 \u00d7 mean diameter) / pitch",
+      "tan \u03b1 = pitch / mean diameter",
+      "tan \u03b1 = mean diameter / (2 \u00d7 pitch)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When constructing an involute of a circle of radius r, the tangent length at any point equals:",
+    "options": [
+      "The arc length from the starting point to the point of tangency",
+      "The chord length from the starting point to the current point",
+      "The product of the radius and the angle subtended in radians",
+      "Half the circumference divided by the number of divisions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the development of a transition piece connecting a square base to a circular top (both centrally placed), the development uses:",
+    "options": [
+      "Parallel line method for the flat triangular portions only",
+      "Triangulation, dividing the surface into triangles from corners and intermediate circle points",
+      "Radial line method about a single apex",
+      "Zone method treating the surface as a truncated cone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An Archimedean spiral has a pitch of 30 mm. After two full revolutions the radius of the spiral is:",
+    "options": [
+      "30 mm",
+      "60 mm",
+      "90 mm",
+      "120 mm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In third-angle orthographic projection, the right-side view is placed:",
+    "options": [
+      "To the left of the front view",
+      "To the right of the front view",
+      "Above the front view",
+      "Below the front view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The angle of obliquity in a gear tooth profile refers to:",
+    "options": [
+      "The helix angle of the gear teeth on a helical gear",
+      "The angle between the common tangent to the pitch circles and the common normal at the contact point",
+      "The angle subtended by one tooth at the centre of the gear",
+      "The angle between the addendum circle and the pitch circle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "To determine the shortest distance between two skew lines in descriptive geometry, the most direct method requires drawing:",
+    "options": [
+      "A single auxiliary view parallel to one line",
+      "Two successive auxiliary views: one to show one line as a point, and one to show the true length of the connecting perpendicular",
+      "The plan and elevation and measuring directly",
+      "A single auxiliary view perpendicular to the plane containing both projections"
+    ],
+    "correctIndex": 1
+  }
+]

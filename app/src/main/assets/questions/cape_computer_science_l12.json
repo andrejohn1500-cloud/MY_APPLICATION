@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a binary tree with n nodes, what is the maximum possible height of the tree?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(sqrt(n))"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In TCP/IP networking, which layer is responsible for end-to-end communication and reliability?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the time complexity of the QuickSort algorithm in the worst case?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes a deadlock condition in an operating system?",
+    "options": [
+      "A process consuming 100% CPU",
+      "Two or more processes waiting indefinitely for resources held by each other",
+      "A process being terminated by the OS scheduler",
+      "A memory overflow causing system crash"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, which principle ensures that a subclass can be used wherever its superclass is expected without altering program correctness?",
+    "options": [
+      "Open/Closed Principle",
+      "Interface Segregation Principle",
+      "Liskov Substitution Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic algorithm is classified as an asymmetric encryption method?",
+    "options": [
+      "AES",
+      "DES",
+      "RSA",
+      "Blowfish"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In relational algebra, which operation returns all tuples that appear in both relations?",
+    "options": [
+      "Union",
+      "Difference",
+      "Intersection",
+      "Cartesian Product"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'thrashing' refer to in the context of virtual memory management?",
+    "options": [
+      "Excessive context switching between threads",
+      "A situation where a computer spends more time swapping pages than executing processes",
+      "Fragmentation of the hard disk causing slow reads",
+      "Cache memory being overwritten too frequently"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data structure is most appropriate for implementing a breadth-first search (BFS) algorithm?",
+    "options": [
+      "Stack",
+      "Priority Queue",
+      "Queue",
+      "Linked List"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of software engineering, what does McCabe's Cyclomatic Complexity measure?",
+    "options": [
+      "The number of lines of code in a module",
+      "The number of independent paths through a program's source code",
+      "The memory consumption of a program at runtime",
+      "The number of classes and objects in a system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of SQL JOIN returns all records from the left table and matched records from the right table, with NULLs where there is no match?",
+    "options": [
+      "INNER JOIN",
+      "RIGHT OUTER JOIN",
+      "FULL OUTER JOIN",
+      "LEFT OUTER JOIN"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In computer architecture, what is the primary function of the Memory Management Unit (MMU)?",
+    "options": [
+      "Executing floating-point arithmetic operations",
+      "Translating virtual addresses to physical addresses",
+      "Managing I/O device interrupts",
+      "Controlling the clock speed of the CPU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sorting algorithms has the best average-case time complexity and is also a stable sort?",
+    "options": [
+      "Heap Sort",
+      "Quick Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of network security, what does a 'man-in-the-middle' attack involve?",
+    "options": [
+      "An attacker flooding a server with requests to cause denial of service",
+      "An attacker secretly intercepting and potentially altering communications between two parties",
+      "An attacker gaining physical access to a server room",
+      "An attacker using brute force to crack password hashes"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a three-phase AC circuit, the relationship between line voltage (V_L) and phase voltage (V_Ph) in a delta-connected system is:",
+    "options": [
+      "V_L = \u221a3 \u00d7 V_Ph",
+      "V_L = V_Ph",
+      "V_L = V_Ph / \u221a3",
+      "V_L = 3 \u00d7 V_Ph"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hydraulic press has a small piston of area 0.005 m\u00b2 and a large piston of area 0.5 m\u00b2. If a force of 200 N is applied to the small piston, what force is exerted by the large piston?",
+    "options": [
+      "2000 N",
+      "20000 N",
+      "200 N",
+      "10000 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the function of a commutator in a DC motor?",
+    "options": [
+      "It increases the voltage supplied to the armature",
+      "It converts alternating current in the armature coils into direct current in the external circuit",
+      "It regulates the speed of the motor by varying field strength",
+      "It reduces eddy current losses in the armature core"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a PLC ladder diagram, a normally closed (NC) contact is energized when:",
+    "options": [
+      "The corresponding input signal is HIGH (ON)",
+      "The corresponding input signal is LOW (OFF)",
+      "The output coil is de-energized",
+      "The timer preset value is reached"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which material property describes the ability of a metal to be drawn into wire without fracturing?",
+    "options": [
+      "Malleability",
+      "Ductility",
+      "Toughness",
+      "Hardness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a transistor configured as a common-emitter amplifier, the output signal is taken from the:",
+    "options": [
+      "Base terminal",
+      "Emitter terminal",
+      "Collector terminal",
+      "Gate terminal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Bernoulli equation in fluid mechanics states that for an ideal fluid in steady flow, which of the following remains constant along a streamline?",
+    "options": [
+      "Velocity only",
+      "Pressure only",
+      "The sum of pressure energy, kinetic energy, and potential energy per unit volume",
+      "The product of pressure and velocity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following welding defects is most likely caused by excessive welding current and travel speed being too slow?",
+    "options": [
+      "Porosity",
+      "Undercut",
+      "Incomplete fusion",
+      "Slag inclusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A transformer has a primary winding of 500 turns connected to 240 V AC. If the secondary winding has 50 turns, what is the secondary voltage?",
+    "options": [
+      "2400 V",
+      "24 V",
+      "48 V",
+      "120 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In CNC machining, the G-code G02 instructs the machine to perform:",
+    "options": [
+      "Rapid positioning",
+      "Circular interpolation in a clockwise direction",
+      "Circular interpolation in a counter-clockwise direction",
+      "Linear interpolation at feed rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The primary purpose of a differential in an automotive drivetrain is to:",
+    "options": [
+      "Increase torque output from the engine",
+      "Allow driven wheels to rotate at different speeds when cornering",
+      "Reduce the rotational speed from the gearbox",
+      "Provide four-wheel drive capability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In digital electronics, a JK flip-flop toggles its output when both J and K inputs are:",
+    "options": [
+      "J=0, K=0",
+      "J=1, K=0",
+      "J=0, K=1",
+      "J=1, K=1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which heat treatment process involves heating steel above its critical temperature and then cooling it slowly in a furnace to relieve internal stresses and improve machinability?",
+    "options": [
+      "Hardening",
+      "Tempering",
+      "Annealing",
+      "Normalizing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an AC circuit containing only a capacitor, the relationship between current and voltage is:",
+    "options": [
+      "Current lags voltage by 90\u00b0",
+      "Current is in phase with voltage",
+      "Current leads voltage by 90\u00b0",
+      "Current leads voltage by 45\u00b0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ISO surface finish symbol Ra represents:",
+    "options": [
+      "The maximum peak-to-valley height of the surface profile",
+      "The arithmetic mean deviation of the assessed surface profile from the mean line",
+      "The root mean square roughness of the surface",
+      "The total height of the roughness profile"
+    ],
+    "correctIndex": 1
+  }
+]

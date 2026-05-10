@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A transformer has 500 turns in its primary coil and 2000 turns in its secondary coil. If the primary voltage is 120 V and the primary current is 4 A, what is the secondary current assuming 100% efficiency?",
+    "options": [
+      "A. 16 A",
+      "B. 1 A",
+      "C. 8 A",
+      "D. 0.5 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A radioactive isotope has a half-life of 8 days. What fraction of the original sample remains after 32 days?",
+    "options": [
+      "A. 1/8",
+      "B. 1/16",
+      "C. 1/32",
+      "D. 1/4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An object is placed 30 cm from a converging lens of focal length 10 cm. What is the nature and position of the image?",
+    "options": [
+      "A. Virtual, erect, 15 cm on same side as object",
+      "B. Real, inverted, 15 cm on opposite side",
+      "C. Real, inverted, 30 cm on opposite side",
+      "D. Virtual, erect, 30 cm on same side as object"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A sound wave travels from air into water. Which property of the wave remains unchanged?",
+    "options": [
+      "A. Speed",
+      "B. Wavelength",
+      "C. Frequency",
+      "D. Amplitude"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wire of length 2 m carries a current of 5 A in a uniform magnetic field of flux density 0.4 T. The wire is perpendicular to the field. What is the force on the wire?",
+    "options": [
+      "A. 2 N",
+      "B. 4 N",
+      "C. 8 N",
+      "D. 1 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why a p-n junction diode allows current to flow in only one direction?",
+    "options": [
+      "A. The depletion layer widens under forward bias, preventing current flow",
+      "B. Under forward bias the potential barrier is reduced, allowing majority carriers to cross",
+      "C. Minority carriers are responsible for current in both directions",
+      "D. The resistance of the diode is zero under reverse bias"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A ball of mass 0.5 kg is dropped from a height of 20 m. Ignoring air resistance, what is its kinetic energy just before hitting the ground? (g = 10 m/s\u00b2)",
+    "options": [
+      "A. 50 J",
+      "B. 200 J",
+      "C. 100 J",
+      "D. 10 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a photoelectric effect experiment, increasing the intensity of the incident light while keeping the frequency constant will:",
+    "options": [
+      "A. Increase the maximum kinetic energy of emitted electrons",
+      "B. Increase the number of emitted electrons per second",
+      "C. Increase the threshold frequency",
+      "D. Decrease the stopping voltage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel across a 12 V battery with negligible internal resistance. What is the total current drawn from the battery?",
+    "options": [
+      "A. 2 A",
+      "B. 4 A",
+      "C. 6 A",
+      "D. 1.33 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement correctly describes the relationship between pressure and depth in a static fluid?",
+    "options": [
+      "A. Pressure decreases linearly with depth",
+      "B. Pressure is independent of the density of the fluid",
+      "C. Pressure increases linearly with depth and depends on fluid density",
+      "D. Pressure at a given depth depends on the shape of the container"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An electron is accelerated through a potential difference of 200 V. Given that the charge on an electron is 1.6 \u00d7 10\u207b\u00b9\u2079 C and its mass is 9.1 \u00d7 10\u207b\u00b3\u00b9 kg, what is its approximate final speed?",
+    "options": [
+      "A. 8.4 \u00d7 10\u2076 m/s",
+      "B. 4.2 \u00d7 10\u2076 m/s",
+      "C. 1.6 \u00d7 10\u2077 m/s",
+      "D. 2.1 \u00d7 10\u2076 m/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A gas is compressed isothermally. Which of the following statements is correct according to Boyle's Law?",
+    "options": [
+      "A. The temperature of the gas increases proportionally to the pressure",
+      "B. The volume of the gas increases as pressure increases",
+      "C. The product of pressure and volume remains constant",
+      "D. The density of the gas remains unchanged"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes what happens to the period of a simple pendulum if its length is quadrupled?",
+    "options": [
+      "A. The period is halved",
+      "B. The period is doubled",
+      "C. The period is quadrupled",
+      "D. The period remains the same"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A nucleus of uranium-238 undergoes alpha decay. What are the mass number and atomic number of the daughter nucleus?",
+    "options": [
+      "A. Mass number 234, atomic number 90",
+      "B. Mass number 236, atomic number 91",
+      "C. Mass number 234, atomic number 92",
+      "D. Mass number 238, atomic number 89"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car of mass 1000 kg accelerates from rest to 20 m/s in 10 s on a level road. If the driving force is 2500 N, what is the average resistive force acting on the car?",
+    "options": [
+      "A. 500 N",
+      "B. 1000 N",
+      "C. 1500 N",
+      "D. 2000 N"
+    ],
+    "correctIndex": 0
+  }
+]

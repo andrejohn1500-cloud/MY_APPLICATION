@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which hormone is primarily responsible for initiating parturition in cattle?",
+    "options": [
+      "Progesterone",
+      "Oxytocin",
+      "Estrogen",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In soil science, the term 'cation exchange capacity' (CEC) refers to:",
+    "options": [
+      "The ability of soil to retain and exchange negatively charged ions",
+      "The ability of soil to retain and exchange positively charged ions",
+      "The rate at which water moves through soil pores",
+      "The total amount of organic matter in the soil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer notices that his maize crop shows interveinal chlorosis on older leaves first. This symptom is most likely caused by a deficiency of:",
+    "options": [
+      "Nitrogen",
+      "Iron",
+      "Magnesium",
+      "Calcium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the process of nitrification in the nitrogen cycle?",
+    "options": [
+      "Conversion of atmospheric nitrogen to ammonia by bacteria",
+      "Conversion of ammonia to nitrites and then nitrates by bacteria",
+      "Conversion of nitrates to atmospheric nitrogen by anaerobic bacteria",
+      "Conversion of organic nitrogen to ammonia by decomposers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The F1 generation of a cross between a homozygous dominant (TT) tall plant and a homozygous recessive (tt) dwarf plant will produce offspring with which genotype and phenotype?",
+    "options": [
+      "All tt, all dwarf",
+      "All Tt, all tall",
+      "50% TT and 50% tt, mixed phenotype",
+      "25% TT, 50% Tt, 25% tt, all tall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following crop rotation sequences would most effectively improve soil nitrogen levels while managing root-knot nematodes?",
+    "options": [
+      "Maize followed by sugarcane followed by tomato",
+      "Legume followed by non-host crop followed by susceptible vegetable",
+      "Continuous monoculture of soybean",
+      "Cassava followed by potato followed by sweet pepper"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In livestock nutrition, the biological value (BV) of a protein is determined by:",
+    "options": [
+      "The total percentage of protein in the feed ingredient",
+      "The proportion of absorbed nitrogen retained in the body for growth and maintenance",
+      "The digestibility coefficient of crude protein in the gastrointestinal tract",
+      "The amino acid score relative to a reference protein standard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tillage practice is most associated with reducing soil erosion while maintaining crop residue on the soil surface?",
+    "options": [
+      "Conventional tillage",
+      "Deep ploughing",
+      "Conservation tillage (no-till)",
+      "Subsoiling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The economic injury level (EIL) in Integrated Pest Management (IPM) is defined as:",
+    "options": [
+      "The pest population density at which control measures must be applied to prevent economic damage",
+      "The lowest pest population that causes any measurable crop damage",
+      "The point at which the cost of pest control equals the value of the crop",
+      "The maximum tolerable pest density before complete crop failure occurs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following hormones in poultry is directly responsible for stimulating egg production by acting on the ovary to cause follicle development?",
+    "options": [
+      "Luteinizing hormone (LH)",
+      "Follicle-stimulating hormone (FSH)",
+      "Progesterone",
+      "Testosterone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A soil with a pH of 5.0 is considered acidic. Which amendment would be most appropriate to raise the pH to the optimum range for most crops?",
+    "options": [
+      "Ammonium sulfate",
+      "Agricultural lime (calcium carbonate)",
+      "Superphosphate",
+      "Muriate of potash"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The term 'heterosis' or hybrid vigour refers to:",
+    "options": [
+      "The increased uniformity observed in inbred lines after several generations",
+      "The superiority of F1 hybrids over their parents in traits such as yield and growth",
+      "The transfer of desirable genes from a wild species to a cultivated variety",
+      "The reduction in fitness observed after repeated self-pollination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pest management strategy involves the release of sterile male insects into a wild population to reduce reproduction?",
+    "options": [
+      "Biological control using parasitoids",
+      "Sterile Insect Technique (SIT)",
+      "Pheromone mass trapping",
+      "Autocidal control using pathogens"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a farm financial analysis, if total revenue is $85,000, variable costs are $40,000, and fixed costs are $25,000, what is the farm's net profit?",
+    "options": [
+      "$45,000",
+      "$20,000",
+      "$60,000",
+      "$25,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes the role of mycorrhizal fungi in plant nutrition?",
+    "options": [
+      "They fix atmospheric nitrogen directly into plant-available forms",
+      "They extend the root surface area, enhancing uptake of phosphorus and water",
+      "They decompose organic matter to release potassium into the soil",
+      "They produce growth hormones that stimulate root cell division"
+    ],
+    "correctIndex": 1
+  }
+]

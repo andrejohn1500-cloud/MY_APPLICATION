@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which enzyme is responsible for the initial digestion of starch in the mouth?",
+    "options": [
+      "A. Pepsin",
+      "B. Salivary amylase",
+      "C. Lipase",
+      "D. Trypsin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person consuming a diet deficient in Vitamin C over a prolonged period would most likely develop which condition?",
+    "options": [
+      "A. Rickets",
+      "B. Pellagra",
+      "C. Scurvy",
+      "D. Beriberi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the Maillard reaction in food preparation?",
+    "options": [
+      "A. The breakdown of fats by heat causing rancidity",
+      "B. The browning reaction between amino acids and reducing sugars when heated",
+      "C. The caramelization of sucrose at high temperatures",
+      "D. The coagulation of proteins in the presence of acid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When calculating the energy value of a food that contains 10g protein, 15g carbohydrate and 8g fat, what is the total energy in kilocalories?",
+    "options": [
+      "A. 212 kcal",
+      "B. 218 kcal",
+      "C. 236 kcal",
+      "D. 198 kcal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which method of heat transfer is primarily responsible for cooking food in a microwave oven?",
+    "options": [
+      "A. Conduction",
+      "B. Convection",
+      "C. Radiation",
+      "D. Dielectric heating"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Dietary Reference Values (DRVs) include which of the following components?",
+    "options": [
+      "A. Estimated Average Requirement, Reference Nutrient Intake, and Lower Reference Nutrient Intake",
+      "B. Recommended Daily Allowance, Tolerable Upper Intake Level, and Adequate Intake",
+      "C. Basal Metabolic Rate, Physical Activity Level, and Total Energy Expenditure",
+      "D. Protein Efficiency Ratio, Net Protein Utilization, and Biological Value"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In food preservation, which principle does freeze-drying (lyophilization) primarily rely upon to extend shelf life?",
+    "options": [
+      "A. Destruction of microorganisms through high temperature",
+      "B. Prevention of enzymatic activity through acidification",
+      "C. Removal of water through sublimation preventing microbial growth",
+      "D. Creation of anaerobic conditions to inhibit aerobic bacteria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following fatty acids is classified as an omega-3 essential fatty acid?",
+    "options": [
+      "A. Oleic acid",
+      "B. Linoleic acid",
+      "C. Arachidonic acid",
+      "D. Alpha-linolenic acid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A food label states that a product contains hydrogenated vegetable oil. This process is significant nutritionally because it",
+    "options": [
+      "A. Increases the unsaturated fat content making the product healthier",
+      "B. Converts unsaturated fats to saturated trans fats potentially increasing cardiovascular risk",
+      "C. Removes cholesterol from the product completely",
+      "D. Increases the omega-3 fatty acid content of the product"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which condition is correctly matched with its causative nutritional deficiency?",
+    "options": [
+      "A. Kwashiorkor \u2014 deficiency of total caloric intake",
+      "B. Marasmus \u2014 deficiency of protein with adequate calories",
+      "C. Osteomalacia \u2014 deficiency of Vitamin D in adults",
+      "D. Anaemia \u2014 deficiency of Vitamin A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the HACCP system used in food safety management, which of the following correctly defines a Critical Control Point (CCP)?",
+    "options": [
+      "A. Any step in food preparation where a food safety hazard could occur",
+      "B. A step at which control can be applied to prevent, eliminate or reduce a food safety hazard to acceptable levels",
+      "C. The final inspection stage before food is served to consumers",
+      "D. A monitoring procedure used to verify that temperature logs are accurate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why legumes are considered an incomplete protein source when consumed alone?",
+    "options": [
+      "A. They contain all essential amino acids but in quantities too low to meet daily requirements",
+      "B. They are deficient in the essential amino acids methionine and cysteine",
+      "C. They lack the essential amino acids lysine and threonine",
+      "D. They contain anti-nutritional factors that prevent all protein absorption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The glycaemic index (GI) of a food measures which of the following?",
+    "options": [
+      "A. The total amount of carbohydrate present per serving of the food",
+      "B. The rate at which insulin is secreted in response to food consumption",
+      "C. The relative ability of a carbohydrate food to raise blood glucose compared to a reference food",
+      "D. The digestibility coefficient of starch molecules in the small intestine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following changes occurs when egg white is beaten to form a foam, and what functional property of protein does this demonstrate?",
+    "options": [
+      "A. Coagulation \u2014 protein molecules solidify upon mechanical action",
+      "B. Denaturation and foam formation \u2014 proteins unfold and trap air demonstrating aeration",
+      "C. Gelatinization \u2014 protein granules absorb water and swell",
+      "D. Hydrolysis \u2014 peptide bonds are broken releasing amino acids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A consumer notices that canned food has a bulging lid. This is most likely caused by which of the following and what action should be taken?",
+    "options": [
+      "A. Normal pressure changes during transport; the food is safe to consume after refrigeration",
+      "B. Gas production by Clostridium botulinum or other microorganisms indicating spoilage; the can should be discarded",
+      "C. Incomplete vacuum sealing during manufacturing; the food can be used immediately after opening",
+      "D. Chemical reaction between the food acids and the can lining producing harmless gases"
+    ],
+    "correctIndex": 1
+  }
+]

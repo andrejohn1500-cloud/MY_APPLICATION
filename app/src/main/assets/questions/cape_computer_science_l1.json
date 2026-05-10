@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is the correct definition of an algorithm?",
+    "options": [
+      "A set of rules for operating a computer",
+      "A step-by-step procedure for solving a problem",
+      "A programming language used to write software",
+      "A type of computer hardware"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number system uses only the digits 0 and 1?",
+    "options": [
+      "Decimal",
+      "Octal",
+      "Hexadecimal",
+      "Binary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number 1010?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of application software?",
+    "options": [
+      "Operating System",
+      "Device Driver",
+      "Microsoft Word",
+      "BIOS"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of memory loses its contents when the computer is switched off?",
+    "options": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Flash Drive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which gate produces an output of 1 only when all its inputs are 1?",
+    "options": [
+      "OR gate",
+      "NOT gate",
+      "AND gate",
+      "XOR gate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Transfer Markup Language",
+      "Hyper Text Management Language",
+      "High Text Markup Layout"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a high-level programming language?",
+    "options": [
+      "Machine code",
+      "Assembly language",
+      "Python",
+      "Binary code"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "options": [
+      "To browse the internet",
+      "To manage hardware and software resources",
+      "To create spreadsheets",
+      "To design graphics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which storage device uses magnetic technology to store data?",
+    "options": [
+      "CD-ROM",
+      "USB Flash Drive",
+      "Hard Disk Drive",
+      "Solid State Drive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'bit' refer to in computing?",
+    "options": [
+      "A group of 8 binary digits",
+      "The smallest unit of data, either 0 or 1",
+      "A unit equal to 1024 bytes",
+      "A type of computer virus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a Local Area Network (LAN)?",
+    "options": [
+      "A network spanning multiple countries",
+      "A network connecting devices in a small geographic area",
+      "A network that only connects two computers",
+      "A network that uses satellite communication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a flowchart, which shape is used to represent a decision?",
+    "options": [
+      "Rectangle",
+      "Oval",
+      "Parallelogram",
+      "Diamond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the hexadecimal equivalent of the decimal number 16?",
+    "options": [
+      "10",
+      "1F",
+      "FF",
+      "0F"
+    ],
+    "correctIndex": 0
+  }
+]

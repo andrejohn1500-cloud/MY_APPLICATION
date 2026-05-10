@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car travels 60 km north and then 80 km east. What is the magnitude of the resultant displacement?",
+    "options": [
+      "100 km",
+      "140 km",
+      "20 km",
+      "120 km"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Speed",
+      "Mass",
+      "Force",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A stone is dropped from rest and falls freely for 3 seconds. What is its velocity just before hitting the ground? (g = 10 m/s\u00b2)",
+    "options": [
+      "10 m/s",
+      "20 m/s",
+      "30 m/s",
+      "40 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to Newton's Second Law, if a net force of 20 N acts on a 4 kg object, what is the acceleration of the object?",
+    "options": [
+      "80 m/s\u00b2",
+      "5 m/s\u00b2",
+      "0.2 m/s\u00b2",
+      "16 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of wave requires a medium to travel through?",
+    "options": [
+      "Radio waves",
+      "Light waves",
+      "Sound waves",
+      "X-rays"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A resistor of 10 \u03a9 is connected to a 20 V source. What current flows through the resistor?",
+    "options": [
+      "0.5 A",
+      "2 A",
+      "200 A",
+      "10 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Watt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the process of convection?",
+    "options": [
+      "Transfer of heat by electromagnetic waves",
+      "Transfer of heat through direct contact",
+      "Transfer of heat by movement of fluid particles",
+      "Transfer of heat through a vacuum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 5 kg object is lifted 4 m vertically. What is the gravitational potential energy gained? (g = 10 m/s\u00b2)",
+    "options": [
+      "9 J",
+      "200 J",
+      "20 J",
+      "50 J"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel. What is their combined resistance?",
+    "options": [
+      "9 \u03a9",
+      "3 \u03a9",
+      "2 \u03a9",
+      "18 \u03a9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following describes the law of conservation of energy?",
+    "options": [
+      "Energy can be created from nothing under special conditions",
+      "Energy can be destroyed when converted to mass",
+      "The total energy in an isolated system remains constant",
+      "Kinetic energy is always equal to potential energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wave has a frequency of 50 Hz and a wavelength of 2 m. What is its speed?",
+    "options": [
+      "25 m/s",
+      "100 m/s",
+      "0.04 m/s",
+      "52 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which phenomenon explains why a straw appears bent when placed in a glass of water?",
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Interference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the half-life of a radioactive substance if its activity falls to one-quarter of its original value in 20 years?",
+    "options": [
+      "5 years",
+      "10 years",
+      "20 years",
+      "40 years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A machine has a power output of 500 W. How much work does it do in 10 seconds?",
+    "options": [
+      "50 J",
+      "510 J",
+      "5000 J",
+      "5 J"
+    ],
+    "correctIndex": 2
+  }
+]

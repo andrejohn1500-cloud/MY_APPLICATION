@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has a gearing ratio of 60% and an interest cover of 2.5 times. If EBIT increases by 20%, what is the new interest cover, assuming interest charges remain constant?",
+    "options": [
+      "A. 3.0 times",
+      "B. 3.5 times",
+      "C. 3.8 times",
+      "D. 4.0 times"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under IAS 36 (Impairment of Assets), the recoverable amount of an asset is defined as:",
+    "options": [
+      "A. The higher of fair value less costs of disposal and value in use",
+      "B. The lower of fair value less costs of disposal and value in use",
+      "C. The carrying amount less accumulated depreciation",
+      "D. The replacement cost of the asset"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the concept of 'substance over form' in financial reporting?",
+    "options": [
+      "A. Transactions should be accounted for in accordance with their legal form rather than economic reality",
+      "B. Transactions should be recorded based on their economic substance rather than their legal form",
+      "C. Financial statements should reflect only legally completed transactions",
+      "D. Assets should be recorded at their nominal value regardless of economic benefit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A firm has total assets of $500,000, current liabilities of $80,000, long-term liabilities of $120,000, and equity of $300,000. Calculate the return on capital employed (ROCE) if net profit before interest and tax is $60,000.",
+    "options": [
+      "A. 12%",
+      "B. 14.3%",
+      "C. 20%",
+      "D. 15%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under the perpetual inventory system, which journal entry correctly records the cost of goods sold?",
+    "options": [
+      "A. Debit Sales Revenue; Credit Inventory",
+      "B. Debit Cost of Goods Sold; Credit Inventory",
+      "C. Debit Inventory; Credit Cost of Goods Sold",
+      "D. Debit Purchases; Credit Inventory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A manufacturing company uses absorption costing. Fixed production overhead is $240,000, budgeted production is 40,000 units, and actual production is 45,000 units. What is the fixed overhead volume variance?",
+    "options": [
+      "A. $30,000 Adverse",
+      "B. $30,000 Favourable",
+      "C. $24,000 Favourable",
+      "D. $24,000 Adverse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about deferred taxation under IAS 12 is correct?",
+    "options": [
+      "A. Deferred tax liabilities arise from deductible temporary differences",
+      "B. Deferred tax assets arise from taxable temporary differences",
+      "C. Deferred tax liabilities arise from taxable temporary differences",
+      "D. Deferred tax is never recognised for temporary differences relating to goodwill"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a partnership dissolution, the Garner v Murray rule applies when:",
+    "options": [
+      "A. A partner has a credit balance in their capital account and the firm is insolvent",
+      "B. A partner is unable to meet a debit balance in their capital account",
+      "C. Partners disagree on the valuation of goodwill during dissolution",
+      "D. A partner retires and goodwill must be written off"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company issues 100,000 ordinary shares at $3.50 each with a par value of $1.00 each. Which of the following correctly records this transaction?",
+    "options": [
+      "A. Debit Bank $350,000; Credit Share Capital $350,000",
+      "B. Debit Bank $350,000; Credit Share Capital $100,000; Credit Share Premium $250,000",
+      "C. Debit Bank $100,000; Credit Share Capital $100,000; Debit Share Premium $250,000",
+      "D. Debit Share Capital $350,000; Credit Bank $350,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a relevant cost for decision-making purposes?",
+    "options": [
+      "A. It must be a future cost",
+      "B. It must be a differential cost",
+      "C. It must be a cash flow",
+      "D. It must be a sunk cost"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Under IFRS 15 (Revenue from Contracts with Customers), at what point should revenue be recognised for a long-term construction contract where performance obligations are satisfied over time?",
+    "options": [
+      "A. Only when the contract is fully completed",
+      "B. Progressively, as performance obligations are satisfied over the duration of the contract",
+      "C. At the point when the customer makes the final payment",
+      "D. At the inception of the contract when it is signed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business has a break-even point of 8,000 units and budgeted sales of 10,000 units. The selling price is $25 per unit and variable cost is $15 per unit. What is the margin of safety expressed as a percentage of budgeted sales?",
+    "options": [
+      "A. 10%",
+      "B. 15%",
+      "C. 20%",
+      "D. 25%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of consolidated financial statements, which method is used to account for associates under IAS 28?",
+    "options": [
+      "A. Full consolidation method",
+      "B. Proportionate consolidation method",
+      "C. Equity method",
+      "D. Cost method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company's quick ratio is 1.4 and its current ratio is 2.1. If current liabilities are $50,000, what is the value of inventory?",
+    "options": [
+      "A. $35,000",
+      "B. $70,000",
+      "C. $45,000",
+      "D. $25,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the treatment of a revaluation surplus under IAS 16 (Property, Plant and Equipment) when the revalued asset is subsequently sold?",
+    "options": [
+      "A. The revaluation surplus is transferred to the income statement as a gain on disposal",
+      "B. The revaluation surplus is transferred directly to retained earnings and is not recognised in profit or loss",
+      "C. The revaluation surplus is reversed and recognised as a loss in the income statement",
+      "D. The revaluation surplus remains permanently in other comprehensive income and cannot be transferred"
+    ],
+    "correctIndex": 1
+  }
+]

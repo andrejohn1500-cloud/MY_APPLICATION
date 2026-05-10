@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the term 'tempo' in music?",
+    "options": [
+      "The loudness of the music",
+      "The speed of the music",
+      "The pitch of the music",
+      "The key of the music"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the dynamic marking 'forte' (f) mean?",
+    "options": [
+      "Soft",
+      "Very soft",
+      "Loud",
+      "Very loud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many beats are in a bar of 3/4 time?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which instrument belongs to the woodwind family?",
+    "options": [
+      "Trumpet",
+      "Violin",
+      "Flute",
+      "Trombone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a melody?",
+    "options": [
+      "A combination of chords played together",
+      "A single sequence of musical notes forming a tune",
+      "The rhythmic pattern of a piece",
+      "The harmony underneath a song"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a percussion instrument?",
+    "options": [
+      "Clarinet",
+      "Bass guitar",
+      "Cello",
+      "Steel pan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the term 'piano' (p) indicate in music?",
+    "options": [
+      "Fast",
+      "Loud",
+      "Soft",
+      "Slow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many semitones are in an octave?",
+    "options": [
+      "8",
+      "10",
+      "14",
+      "12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which note value receives one beat in common time (4/4)?",
+    "options": [
+      "Whole note",
+      "Half note",
+      "Quarter note",
+      "Eighth note"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the clef most commonly used for treble instruments?",
+    "options": [
+      "Bass clef",
+      "Alto clef",
+      "Treble clef",
+      "Tenor clef"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The calypso musical genre originated in which region?",
+    "options": [
+      "West Africa",
+      "North America",
+      "The Caribbean",
+      "South America"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which term describes the texture of music that has one melody with no accompaniment?",
+    "options": [
+      "Homophony",
+      "Polyphony",
+      "Monophony",
+      "Heterophony"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a chord?",
+    "options": [
+      "A single musical note",
+      "A type of rhythm pattern",
+      "Three or more notes played simultaneously",
+      "A musical scale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following describes 'staccato'?",
+    "options": [
+      "Notes played smoothly and connected",
+      "Notes played short and detached",
+      "Notes played very loudly",
+      "Notes played very slowly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a time signature tell the performer?",
+    "options": [
+      "The key of the piece",
+      "The tempo of the piece",
+      "The number of beats per bar and the value of each beat",
+      "The dynamic level of the piece"
+    ],
+    "correctIndex": 2
+  }
+]

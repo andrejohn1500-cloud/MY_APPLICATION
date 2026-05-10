@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A discrete random variable X has the probability distribution P(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?",
+    "options": [
+      "A) 1/10",
+      "B) 1/4",
+      "C) 1/5",
+      "D) 2/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The lengths of bolts produced by a machine are normally distributed with mean 5 cm and standard deviation 0.1 cm. What is the probability that a randomly selected bolt is longer than 5.2 cm?",
+    "options": [
+      "A) 0.9772",
+      "B) 0.0456",
+      "C) 0.0228",
+      "D) 0.1587"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sample of size 36 is taken from a population with mean \u03bc and standard deviation 12. The 95% confidence interval for \u03bc has half-width (margin of error) of:",
+    "options": [
+      "A) 3.92",
+      "B) 2.00",
+      "C) 4.80",
+      "D) 1.96"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two events A and B are independent with P(A) = 0.4 and P(B) = 0.5. What is P(A \u222a B)?",
+    "options": [
+      "A) 0.90",
+      "B) 0.70",
+      "C) 0.20",
+      "D) 0.45"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle moves in a straight line. Its velocity at time t seconds is v = 3t\u00b2 \u2212 12t + 9 m/s. At what value of t is the particle momentarily at rest (t > 0, smallest positive value)?",
+    "options": [
+      "A) t = 1",
+      "B) t = 2",
+      "C) t = 3",
+      "D) t = 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The linear correlation coefficient between two variables X and Y is calculated to be r = \u22120.92. Which statement best describes this relationship?",
+    "options": [
+      "A) Strong positive linear relationship",
+      "B) Weak negative linear relationship",
+      "C) Strong negative linear relationship",
+      "D) No linear relationship"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A random variable X ~ B(10, 0.3). What is the mean and variance of X?",
+    "options": [
+      "A) Mean = 3, Variance = 2.1",
+      "B) Mean = 3, Variance = 3",
+      "C) Mean = 7, Variance = 2.1",
+      "D) Mean = 0.3, Variance = 0.21"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A force of 20 N acts on a particle of mass 4 kg on a smooth horizontal plane. What is the acceleration of the particle?",
+    "options": [
+      "A) 80 m/s\u00b2",
+      "B) 5 m/s\u00b2",
+      "C) 0.2 m/s\u00b2",
+      "D) 16 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a hypothesis test, the null hypothesis is rejected when it is actually true. This is called:",
+    "options": [
+      "A) A Type II error",
+      "B) A correct decision",
+      "C) A Type I error",
+      "D) The power of the test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Poisson random variable X has mean \u03bb = 4. What is P(X = 2)?",
+    "options": [
+      "A) 0.1465",
+      "B) 0.0916",
+      "C) 0.2381",
+      "D) 0.0183"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle of mass 5 kg is on a rough inclined plane at 30\u00b0 to the horizontal. The coefficient of friction is 0.2. What is the friction force acting on the particle when it is on the verge of sliding? (g = 10 m/s\u00b2)",
+    "options": [
+      "A) 8.66 N",
+      "B) 10.00 N",
+      "C) 1.73 N",
+      "D) 5.00 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The regression line of Y on X is given by Y = 2 + 3X. If the mean of X is 4, what is the mean of Y?",
+    "options": [
+      "A) 14",
+      "B) 10",
+      "C) 12",
+      "D) 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle starts from rest and accelerates uniformly at 4 m/s\u00b2 for 6 seconds. How far does it travel in this time?",
+    "options": [
+      "A) 48 m",
+      "B) 72 m",
+      "C) 24 m",
+      "D) 96 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Given that P(A|B) = 0.6 and P(B) = 0.5, what is P(A \u2229 B)?",
+    "options": [
+      "A) 0.30",
+      "B) 0.10",
+      "C) 1.10",
+      "D) 0.60"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A significance test uses a 5% significance level. Which of the following correctly states the meaning of this level?",
+    "options": [
+      "A) There is a 5% probability the alternative hypothesis is true",
+      "B) There is a 5% probability of rejecting H\u2080 when H\u2080 is true",
+      "C) There is a 95% probability the null hypothesis is false",
+      "D) There is a 5% probability of accepting H\u2080 when H\u2081 is true"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which financial statement shows a company's financial position at a specific point in time?",
+    "options": [
+      "Income Statement",
+      "Statement of Financial Position",
+      "Cash Flow Statement",
+      "Statement of Changes in Equity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'depreciation' refer to in accounting?",
+    "options": [
+      "An increase in the value of an asset",
+      "The allocation of the cost of a tangible asset over its useful life",
+      "The total cost of purchasing an asset",
+      "The market value of an asset"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is classified as a current liability?",
+    "options": [
+      "Long-term bank loan",
+      "Mortgage payable",
+      "Trade payables",
+      "Plant and equipment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The accounting equation is best expressed as:",
+    "options": [
+      "Assets = Liabilities + Owner's Equity",
+      "Assets = Liabilities - Owner's Equity",
+      "Assets + Owner's Equity = Liabilities",
+      "Liabilities = Assets + Owner's Equity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which costing method assumes that the first items purchased are the first items sold?",
+    "options": [
+      "LIFO",
+      "Weighted Average Cost",
+      "FIFO",
+      "Specific Identification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a 'subsidiary ledger' used for?",
+    "options": [
+      "Recording all transactions of a business",
+      "Providing detailed information supporting a control account",
+      "Preparing the trial balance",
+      "Recording only cash transactions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a partnership, the Capital Account records:",
+    "options": [
+      "Only the profits earned by partners",
+      "Permanent investments made by partners",
+      "Day-to-day drawings of partners",
+      "Only loans made to the partnership"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes 'goodwill' in accounting?",
+    "options": [
+      "A tangible asset owned by the business",
+      "An intangible asset representing the excess of purchase price over fair value of net assets",
+      "The total value of inventory held",
+      "The market value of shares issued"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A debit entry to the bank account indicates:",
+    "options": [
+      "Money owed to the bank",
+      "A decrease in the bank balance",
+      "An increase in the bank balance",
+      "A bank charge applied"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a capital expenditure?",
+    "options": [
+      "Payment of electricity bill",
+      "Purchase of office stationery",
+      "Purchase of a delivery vehicle",
+      "Payment of employee salaries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a bank reconciliation statement?",
+    "options": [
+      "To record all credit sales",
+      "To reconcile differences between the cash book balance and the bank statement balance",
+      "To prepare the income statement",
+      "To calculate depreciation on assets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a company's income statement, gross profit is calculated as:",
+    "options": [
+      "Revenue minus all operating expenses",
+      "Revenue minus cost of goods sold",
+      "Net profit minus taxation",
+      "Revenue minus depreciation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes the concept of 'going concern'?",
+    "options": [
+      "A business will be liquidated in the near future",
+      "A business is assumed to continue operating for the foreseeable future",
+      "All assets must be valued at market price",
+      "Only cash transactions are recorded"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A limited company issues shares to raise finance. Which account is credited when shares are issued at par value?",
+    "options": [
+      "Cash Account",
+      "Share Premium Account",
+      "Share Capital Account",
+      "Retained Earnings Account"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ratio measures a company's ability to meet its short-term obligations using its most liquid assets?",
+    "options": [
+      "Gross Profit Margin",
+      "Current Ratio",
+      "Acid Test Ratio",
+      "Return on Capital Employed"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In the context of the doctrine of judicial precedent, which principle allows a court to decline to follow a previous decision of the same court without overruling it?",
+    "options": [
+      "Distinguishing",
+      "Overruling",
+      "Reversing",
+      "Per incuriam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the legal effect of a 'void' contract as opposed to a 'voidable' contract?",
+    "options": [
+      "A void contract is unenforceable from inception while a voidable contract remains valid until rescinded by one party",
+      "A void contract can be ratified while a voidable contract cannot",
+      "A voidable contract has no legal effect from the outset while a void contract can be enforced by either party",
+      "Both void and voidable contracts are treated identically by courts of equity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the Caribbean Court of Justice (CCJ) Agreement, which jurisdiction grants the CCJ exclusive compulsory jurisdiction over disputes between Contracting Parties?",
+    "options": [
+      "Appellate jurisdiction",
+      "Original jurisdiction",
+      "Advisory jurisdiction",
+      "Supervisory jurisdiction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the tort of negligence, the House of Lords decision in Caparo Industries plc v Dickman [1990] established a three-part test for duty of care. Which of the following correctly states all three elements?",
+    "options": [
+      "Proximity, reasonable foreseeability, and that it is fair just and reasonable to impose a duty",
+      "Causation, remoteness, and voluntary assumption of responsibility",
+      "Foreseeability, breach, and damage",
+      "Proximity, causation, and public policy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which doctrine in constitutional law provides that Parliament cannot bind its successors, reflecting the principle of continuing parliamentary sovereignty?",
+    "options": [
+      "The doctrine of implied repeal",
+      "The enrolled bill rule",
+      "The doctrine of legitimate expectation",
+      "Separation of powers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the law of contract, which of the following statements accurately reflects the rule in Pinnel's Case (1602) as affirmed in Foakes v Beer (1884)?",
+    "options": [
+      "Payment of a lesser sum cannot satisfy a debt for a greater sum unless there is additional consideration",
+      "Part payment by a third party discharges a debt in full",
+      "Promissory estoppel always extinguishes contractual rights permanently",
+      "A creditor who accepts part payment is estopped from claiming the balance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In criminal law, the defence of duress by threats requires the defendant to demonstrate which of the following essential elements?",
+    "options": [
+      "The threat must be of death or serious injury, sufficiently grave and directed at the defendant or someone close, and a sober person of reasonable firmness would have responded similarly",
+      "The threat must relate only to property damage and must be imminent",
+      "The defendant must have reported the threat to police before committing the offence",
+      "The threat must come from a state actor and cannot apply to non-state threats"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Vienna Convention on the Law of Treaties 1969 provides that a treaty shall be interpreted in good faith in accordance with the ordinary meaning of its terms in their context. Which article codifies this general rule of interpretation?",
+    "options": [
+      "Article 31",
+      "Article 26",
+      "Article 53",
+      "Article 46"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly distinguishes larceny from obtaining by false pretences under traditional Caribbean criminal law?",
+    "options": [
+      "Larceny involves the taking of property without consent at the time of taking, while obtaining by false pretences involves consent obtained through a false statement of existing fact",
+      "Larceny requires mens rea of dishonesty while false pretences does not",
+      "False pretences applies only to real property while larceny applies only to personal property",
+      "Both offences are identical except for the value of the property taken"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In equity, the maxim 'He who comes to equity must come with clean hands' operates as which type of bar to equitable relief?",
+    "options": [
+      "A discretionary bar that prevents a claimant whose conduct is inequitable from obtaining equitable remedies",
+      "A complete statutory bar operating identically in common law and equity",
+      "A procedural bar applicable only in specific performance claims",
+      "An absolute bar that permanently removes all legal rights of the claimant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the doctrine of separation of powers as applied in Westminster-model Caribbean constitutions, which branch of government is primarily responsible for scrutinising executive action through the prerogative writ of certiorari?",
+    "options": [
+      "The judiciary",
+      "The legislature",
+      "The executive",
+      "The Privy Council exclusively"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements most accurately describes the legal position regarding automatism as a defence in criminal law?",
+    "options": [
+      "Sane automatism arising from an external cause results in an outright acquittal, while insane automatism arising from a disease of the mind results in a special verdict of not guilty by reason of insanity",
+      "Automatism is only available where the defendant can prove voluntary intoxication",
+      "Both sane and insane automatism result in an outright acquittal",
+      "Automatism is a partial defence that reduces murder to manslaughter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the law of tort, the principle established in Rylands v Fletcher (1868) imposes strict liability. Which element distinguishes this tort from ordinary negligence?",
+    "options": [
+      "The defendant must have made a non-natural use of land by bringing onto it something likely to do mischief if it escapes, and liability attaches regardless of fault",
+      "The claimant must prove the defendant owed a duty of care and breached it",
+      "The principle applies only where the defendant intentionally causes the escape",
+      "The tort requires proof of actual financial loss rather than physical damage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under international human rights law, which instrument establishes the Inter-American Court of Human Rights and grants it contentious and advisory jurisdiction?",
+    "options": [
+      "The American Convention on Human Rights 1969",
+      "The Universal Declaration of Human Rights 1948",
+      "The Inter-American Charter on Social Guarantees 1948",
+      "The OAS Charter 1948"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best explains the legal distinction between 'express' and 'implied' terms in a contract under Caribbean common law?",
+    "options": [
+      "Express terms are explicitly agreed upon by the parties either orally or in writing, while implied terms are inserted by courts by operation of law, custom, or to give business efficacy to the contract",
+      "Express terms always override statute while implied terms can never be excluded",
+      "Implied terms arise only from statute and cannot be implied at common law",
+      "Express terms are enforceable only if in writing while implied terms require no formality"
+    ],
+    "correctIndex": 0
+  }
+]

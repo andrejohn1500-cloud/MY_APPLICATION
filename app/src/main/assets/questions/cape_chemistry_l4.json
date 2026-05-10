@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes a buffer solution?",
+    "options": [
+      "A solution that resists changes in pH when small amounts of acid or base are added",
+      "A solution with a pH of exactly 7",
+      "A solution that completely neutralises any added acid or base",
+      "A solution containing only a strong acid and its salt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the hybridisation of the carbon atoms in benzene?",
+    "options": [
+      "sp3",
+      "sp2",
+      "sp",
+      "sp3d"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rate constant of a reaction has units of mol\u207b\u00b9 dm\u00b3 s\u207b\u00b9. What is the order of this reaction?",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which reagent is used to distinguish between an aldehyde and a ketone?",
+    "options": [
+      "Brady's reagent",
+      "Tollens' reagent",
+      "Bromine water",
+      "Acidified potassium dichromate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an electrochemical cell, oxidation occurs at the:",
+    "options": [
+      "Cathode",
+      "Anode",
+      "Salt bridge",
+      "Reference electrode"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following compounds exhibits geometrical (cis-trans) isomerism?",
+    "options": [
+      "But-1-ene",
+      "But-2-ene",
+      "Propene",
+      "Ethene"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The enthalpy change of formation of an element in its standard state is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Variable"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which quantum number describes the shape of an atomic orbital?",
+    "options": [
+      "Principal quantum number (n)",
+      "Azimuthal quantum number (l)",
+      "Magnetic quantum number (ml)",
+      "Spin quantum number (ms)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the IUPAC name of CH3CH(OH)CH2CH3?",
+    "options": [
+      "Butan-1-ol",
+      "Butan-2-ol",
+      "2-methylpropan-1-ol",
+      "Butan-3-ol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le Chatelier's principle states that if a system at equilibrium is subjected to a change, the system will:",
+    "options": [
+      "Reach a new equilibrium with a different equilibrium constant",
+      "Shift to counteract the imposed change and restore equilibrium",
+      "Increase the rate of the forward reaction only",
+      "Remain unaffected by external changes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic property of transition metals?",
+    "options": [
+      "They form only one stable ion",
+      "They are all diamagnetic",
+      "They exhibit variable oxidation states",
+      "They do not form complex ions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the titration of a weak acid with a strong base, the pH at the equivalence point is:",
+    "options": [
+      "Equal to 7",
+      "Less than 7",
+      "Greater than 7",
+      "Equal to the pKa of the acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of isomerism is exhibited by [Co(NH3)4Cl2]\u207a?",
+    "options": [
+      "Optical isomerism",
+      "Geometrical isomerism",
+      "Chain isomerism",
+      "Positional isomerism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process by which a radioactive nucleus emits a helium-4 nucleus is called:",
+    "options": [
+      "Beta decay",
+      "Gamma emission",
+      "Alpha decay",
+      "Electron capture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following statements about the SN2 mechanism is correct?",
+    "options": [
+      "It proceeds through a carbocation intermediate",
+      "It involves inversion of configuration at the carbon centre",
+      "It is favoured by tertiary substrates",
+      "It proceeds with retention of configuration"
+    ],
+    "correctIndex": 1
+  }
+]

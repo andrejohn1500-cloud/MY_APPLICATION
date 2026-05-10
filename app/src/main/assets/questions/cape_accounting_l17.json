@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has the following data: Sales $500,000; Variable costs $300,000; Fixed costs $120,000; Tax rate 30%. Calculate the degree of operating leverage (DOL).",
+    "options": [
+      "A. 2.50",
+      "B. 1.67",
+      "C. 2.00",
+      "D. 3.33"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under IAS 36, an impairment loss for a cash-generating unit (CGU) is allocated in which order?",
+    "options": [
+      "A. Pro-rata to all assets in the CGU",
+      "B. First to goodwill, then pro-rata to other assets",
+      "C. First to the asset with the highest carrying amount, then to goodwill",
+      "D. Equally among all tangible assets, excluding goodwill"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the concept of 'substance over form' as applied in financial reporting?",
+    "options": [
+      "A. Transactions are recorded based on their legal structure rather than economic reality",
+      "B. Financial statements reflect the economic substance of transactions regardless of legal form",
+      "C. Assets are always recorded at their historical cost irrespective of fair value",
+      "D. Revenue is recognized only when cash is received"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company issues $1,000,000 of 8% bonds at a price of 95, with a 5-year term. Using the effective interest method, which statement is correct?",
+    "options": [
+      "A. Interest expense each year equals $80,000 throughout the bond's life",
+      "B. The discount is amortized so that interest expense exceeds the coupon payment each year",
+      "C. The carrying value of the bond decreases over time",
+      "D. The effective interest rate equals the coupon rate of 8%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a partnership dissolution, after all liabilities are paid, a partner's capital account shows a debit balance. Under the Garner v Murray rule, this deficiency is borne by:",
+    "options": [
+      "A. All partners equally regardless of their capital balances",
+      "B. The solvent partners in proportion to their last agreed capital balances",
+      "C. The solvent partners in their profit-sharing ratio",
+      "D. The partner with the highest capital balance absorbs the entire deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the treatment of a finance lease in the books of a lessee under IFRS 16?",
+    "options": [
+      "A. The asset and liability are recognized at the lower of fair value or present value of minimum lease payments",
+      "B. Only the asset is recognized; lease payments reduce retained earnings directly",
+      "C. A right-of-use asset and corresponding lease liability are recognized at commencement",
+      "D. Lease payments are expensed on a straight-line basis over the lease term"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A firm's weighted average cost of capital (WACC) is 12%. It is evaluating a project with an IRR of 14% and an NPV of $50,000. Which statement is MOST accurate?",
+    "options": [
+      "A. The project should be rejected because WACC exceeds 12%",
+      "B. The project should be accepted as IRR exceeds WACC and NPV is positive",
+      "C. NPV and IRR always give conflicting recommendations, so WACC is irrelevant",
+      "D. The project breaks even at a discount rate of 12%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 12, a deferred tax liability arises when:",
+    "options": [
+      "A. The carrying amount of an asset is less than its tax base",
+      "B. The carrying amount of a liability exceeds its tax base",
+      "C. The carrying amount of an asset exceeds its tax base",
+      "D. A tax loss carryforward is available but not yet recognized"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which ratio BEST measures a company's ability to meet short-term obligations using only its most liquid assets, excluding inventory?",
+    "options": [
+      "A. Current ratio",
+      "B. Cash ratio",
+      "C. Quick (acid-test) ratio",
+      "D. Working capital ratio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a standard absorption costing system, an adverse volume efficiency variance indicates that:",
+    "options": [
+      "A. Actual fixed overheads exceeded budgeted fixed overheads",
+      "B. Actual labour hours worked exceeded standard hours for actual output",
+      "C. Standard hours for actual output exceeded actual hours worked",
+      "D. Selling price was lower than the standard price"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A holding company acquires 75% of a subsidiary. Under IFRS 3, if the non-controlling interest (NCI) is measured at fair value, the goodwill calculated will be:",
+    "options": [
+      "A. Lower than if NCI is measured at proportionate share of net identifiable assets",
+      "B. Higher than if NCI is measured at proportionate share of net identifiable assets",
+      "C. The same regardless of the NCI measurement method chosen",
+      "D. Negative (a bargain purchase gain) in all cases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a perfect capital market as assumed in Modigliani-Miller's dividend irrelevance theory?",
+    "options": [
+      "A. Taxes and transaction costs exist but are minimal",
+      "B. Information asymmetry exists between managers and investors",
+      "C. There are no taxes, transaction costs, or flotation costs",
+      "D. Dividends are taxed at a higher rate than capital gains"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company's statement of cash flows shows: Net profit $80,000; Depreciation $20,000; Increase in receivables $15,000; Decrease in payables $10,000; Gain on disposal of asset $5,000. What is the net cash from operating activities using the indirect method?",
+    "options": [
+      "A. $70,000",
+      "B. $80,000",
+      "C. $90,000",
+      "D. $75,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the Companies Act applicable in the Caribbean, which of the following is NOT a statutory book that a company is required to maintain?",
+    "options": [
+      "A. Register of members",
+      "B. Register of directors and secretaries",
+      "C. Register of major customers and suppliers",
+      "D. Minutes of general meetings"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The break-even point in sales revenue for a multi-product firm is calculated as:",
+    "options": [
+      "A. Fixed costs divided by the weighted average contribution margin ratio",
+      "B. Fixed costs divided by the selling price per unit",
+      "C. Total variable costs divided by the contribution per unit",
+      "D. Fixed costs multiplied by the profit-volume ratio"
+    ],
+    "correctIndex": 0
+  }
+]

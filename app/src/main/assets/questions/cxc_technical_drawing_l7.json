@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of line is used to represent hidden edges in an orthographic drawing?",
+    "options": [
+      "A continuous thin line",
+      "A dashed thin line",
+      "A chain line",
+      "A continuous thick line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first angle projection, where is the front view placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the included angle of a standard metric thread (ISO)?",
+    "options": [
+      "55 degrees",
+      "60 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which scale would make a drawing larger than the actual object?",
+    "options": [
+      "1:2",
+      "1:5",
+      "2:1",
+      "1:10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A regular hexagon is a polygon with how many equal sides?",
+    "options": [
+      "Five",
+      "Seven",
+      "Eight",
+      "Six"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In third angle projection, the right side view is placed on which side of the front view?",
+    "options": [
+      "Left side",
+      "Right side",
+      "Above",
+      "Below"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What instrument is used to measure and transfer angles in technical drawing?",
+    "options": [
+      "Set square",
+      "Compass",
+      "Protractor",
+      "Dividers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of drawing shows all three dimensions of an object in a single view using 30-degree angles to the horizontal?",
+    "options": [
+      "Oblique drawing",
+      "Isometric drawing",
+      "Orthographic drawing",
+      "Perspective drawing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The development of a cylinder when unrolled produces which flat shape?",
+    "options": [
+      "A triangle",
+      "A circle",
+      "A rectangle",
+      "A trapezium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an isometric drawing, the three axes are drawn at what angles to each other?",
+    "options": [
+      "90 degrees",
+      "45 degrees",
+      "120 degrees",
+      "60 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which line type is used to indicate a centre line on a technical drawing?",
+    "options": [
+      "Continuous thick line",
+      "Long chain thin line",
+      "Short dashed thin line",
+      "Continuous thin line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'tolerance' mean in engineering drawing?",
+    "options": [
+      "The exact size of a component",
+      "The permissible variation in a dimension",
+      "The scale of the drawing",
+      "The type of projection used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cabinet oblique drawing is drawn with receding lines at which angle to the horizontal?",
+    "options": [
+      "30 degrees",
+      "60 degrees",
+      "90 degrees",
+      "45 degrees"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which geometric construction method is used to bisect a straight line?",
+    "options": [
+      "Drawing arcs from each endpoint and joining the intersection points",
+      "Drawing a perpendicular from one endpoint only",
+      "Using a protractor to measure 90 degrees",
+      "Measuring the line with a ruler and marking the midpoint by eye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "On a drawing, the symbol for a countersunk hole is represented by which symbol?",
+    "options": [
+      "A circle with a cross inside",
+      "A filled circle",
+      "A circle with a V-shaped symbol",
+      "A dashed circle"
+    ],
+    "correctIndex": 2
+  }
+]

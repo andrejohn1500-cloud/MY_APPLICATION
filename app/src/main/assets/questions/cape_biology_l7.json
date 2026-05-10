@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which organelle is responsible for the synthesis of ATP through oxidative phosphorylation in eukaryotic cells?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During meiosis, crossing over occurs between non-sister chromatids at structures known as:",
+    "options": [
+      "Centromeres",
+      "Chiasmata",
+      "Spindle fibres",
+      "Kinetochores"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the role of the sodium-potassium pump in nerve cells?",
+    "options": [
+      "It generates the action potential by opening voltage-gated channels",
+      "It actively transports 3 Na+ out and 2 K+ into the cell per cycle",
+      "It passively allows ions to flow down concentration gradients",
+      "It pumps 2 Na+ out and 3 K+ into the cell per cycle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the light-dependent reactions of photosynthesis, the splitting of water molecules to release electrons, protons, and oxygen is called:",
+    "options": [
+      "Carbon fixation",
+      "Chemiosmosis",
+      "Photolysis",
+      "Cyclic photophosphorylation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of mutation involves the insertion of a nucleotide into a DNA sequence, altering the reading frame?",
+    "options": [
+      "Silent mutation",
+      "Missense mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The enzyme responsible for unwinding the double helix during DNA replication is:",
+    "options": [
+      "DNA polymerase III",
+      "Primase",
+      "Helicase",
+      "Ligase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which component of the immune system produces antibodies?",
+    "options": [
+      "Cytotoxic T cells",
+      "Natural killer cells",
+      "Plasma cells",
+      "Neutrophils"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dihybrid cross between two individuals heterozygous for both traits (AaBb \u00d7 AaBb), what is the expected phenotypic ratio of offspring assuming independent assortment?",
+    "options": [
+      "1:2:1",
+      "3:1",
+      "9:3:3:1",
+      "1:1:1:1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the process of translocation in the phloem of plants?",
+    "options": [
+      "Movement of water from roots to leaves via xylem vessels",
+      "Active loading of sucrose into sieve elements creating a pressure gradient",
+      "Passive diffusion of minerals from soil into root hair cells",
+      "Movement of oxygen from leaves to roots through air spaces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The breakdown of glucose to pyruvate during glycolysis occurs in the:",
+    "options": [
+      "Mitochondrial matrix",
+      "Inner mitochondrial membrane",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which ecological term describes the number of individuals of a particular species per unit area?",
+    "options": [
+      "Biodiversity",
+      "Population density",
+      "Species richness",
+      "Carrying capacity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Hardy-Weinberg equation p\u00b2 + 2pq + q\u00b2 = 1, the term 2pq represents the:",
+    "options": [
+      "Frequency of homozygous dominant individuals",
+      "Frequency of homozygous recessive individuals",
+      "Frequency of heterozygous individuals",
+      "Frequency of the dominant allele"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hormone stimulates the reabsorption of water in the collecting duct of the nephron?",
+    "options": [
+      "Aldosterone",
+      "Insulin",
+      "Antidiuretic hormone",
+      "Glucagon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process by which messenger RNA is synthesised from a DNA template is called:",
+    "options": [
+      "Translation",
+      "Replication",
+      "Transcription",
+      "Transduction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which structural adaptation of the alveoli maximises efficient gas exchange in the mammalian lung?",
+    "options": [
+      "Thick walls composed of multiple cell layers",
+      "Large surface area and moist, thin epithelium with rich capillary network",
+      "Presence of cartilage rings to maintain rigidity",
+      "High concentration of mucus-secreting goblet cells"
+    ],
+    "correctIndex": 1
+  }
+]

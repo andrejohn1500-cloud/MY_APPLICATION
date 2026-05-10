@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which of the following best explains why the first ionization energy of oxygen is lower than that of nitrogen, despite oxygen having a higher nuclear charge?",
+    "options": [
+      "Oxygen has a larger atomic radius than nitrogen",
+      "Oxygen has a paired electron in a 2p orbital which experiences greater electron-electron repulsion",
+      "Oxygen's 2p electrons are less shielded by the 1s electrons",
+      "Nitrogen has a completely filled 2p subshell providing extra stability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.15 mol of sodium ethanoate in 1.00 dm\u00b3 of solution. Given that Ka = 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of this buffer?",
+    "options": [
+      "4.62",
+      "4.87",
+      "4.57",
+      "5.12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the Born-Haber cycle for sodium chloride, which enthalpy change is defined as the energy required to convert one mole of gaseous chlorine molecules into two moles of gaseous chlorine atoms?",
+    "options": [
+      "Electron affinity of chlorine",
+      "Bond dissociation enthalpy of chlorine",
+      "Lattice enthalpy of sodium chloride",
+      "Enthalpy of atomisation of chlorine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "For the reaction N\u2082O\u2084(g) \u21cc 2NO\u2082(g), Kp = 0.40 atm at a certain temperature. If the total pressure is 1.0 atm, what is the mole fraction of NO\u2082 at equilibrium?",
+    "options": [
+      "0.55",
+      "0.45",
+      "0.60",
+      "0.40"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement correctly describes the relationship between cell potential and Gibbs free energy change for an electrochemical cell?",
+    "options": [
+      "\u0394G\u00b0 = nFE\u00b0, where n is moles of electrons and F is Faraday's constant",
+      "\u0394G\u00b0 = \u2212nFE\u00b0, where n is moles of electrons and F is Faraday's constant",
+      "\u0394G\u00b0 = nRTE\u00b0, where R is the gas constant",
+      "\u0394G\u00b0 = \u2212nRTE\u00b0, where R is the gas constant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A compound has the molecular formula C\u2084H\u2088O and shows a strong absorption near 1715 cm\u207b\u00b9 in its infrared spectrum but gives a negative Tollens' test. Which compound is most likely?",
+    "options": [
+      "Butanal",
+      "But-3-en-1-ol",
+      "Butanone",
+      "2-Methylpropanal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly ranks the acidity of the following compounds in decreasing order: phenol, ethanol, chloroethanoic acid, ethanoic acid?",
+    "options": [
+      "Chloroethanoic acid > Ethanoic acid > Phenol > Ethanol",
+      "Ethanoic acid > Chloroethanoic acid > Phenol > Ethanol",
+      "Chloroethanoic acid > Phenol > Ethanoic acid > Ethanol",
+      "Ethanol > Phenol > Ethanoic acid > Chloroethanoic acid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The rate equation for a reaction is: rate = k[A]\u00b2[B]. If the concentration of A is doubled and the concentration of B is halved, by what factor does the rate change?",
+    "options": [
+      "Doubles",
+      "Halves",
+      "Remains the same",
+      "Quadruples"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In electrophilic aromatic substitution of methylbenzene (toluene), the methyl group directs incoming electrophiles predominantly to the ortho and para positions because it is:",
+    "options": [
+      "An electron-withdrawing group by induction only",
+      "An electron-donating group by hyperconjugation and inductive effects, stabilising the arenium ion intermediate at ortho/para positions",
+      "A deactivating group that destabilises the meta position",
+      "An electron-withdrawing group by resonance that stabilises ortho/para attack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "command": "",
+    "question": "Which of the following statements about transition metal complexes is correct?",
+    "options": [
+      "All transition metal complexes are coloured due to d-d electronic transitions, and the colour depends on the crystal field splitting energy \u0394",
+      "Transition metal complexes are coloured only when the metal is in the +2 oxidation state",
+      "The colour of a transition metal complex is independent of the nature of the ligands",
+      "All transition metal ions are paramagnetic regardless of their d-electron configuration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Calculate the standard enthalpy change for the reaction: C(graphite) + 2H\u2082(g) \u2192 CH\u2084(g), given: \u0394Hf\u00b0[CO\u2082(g)] = \u2212394 kJ mol\u207b\u00b9, \u0394Hf\u00b0[H\u2082O(l)] = \u2212286 kJ mol\u207b\u00b9, \u0394Hc\u00b0[CH\u2084(g)] = \u2212890 kJ mol\u207b\u00b9.",
+    "options": [
+      "-74 kJ mol\u207b\u00b9",
+      "+74 kJ mol\u207b\u00b9",
+      "-890 kJ mol\u207b\u00b9",
+      "-966 kJ mol\u207b\u00b9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which reagent would distinguish between 1-bromopropane and 2-bromopropane based on the predominant mechanism of their reactions with aqueous potassium hydroxide?",
+    "options": [
+      "Acidified potassium dichromate solution",
+      "Silver nitrate solution in ethanol \u2014 primary produces precipitate faster because SN2 is favoured, while secondary favours E2 under reflux",
+      "Hot concentrated ethanolic KOH \u2014 primarily causes elimination in 2-bromopropane (E2) and substitution in 1-bromopropane (SN2) under different conditions",
+      "Bromine water, which decolourises faster with secondary halogenoalkanes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 0.100 mol dm\u207b\u00b3 solution of a weak acid HA has a pH of 3.00. What is the percentage dissociation of the acid?",
+    "options": [
+      "0.10%",
+      "1.00%",
+      "10.0%",
+      "0.01%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the mechanism by which benzene undergoes nitration with a mixture of concentrated nitric and sulphuric acids?",
+    "options": [
+      "Free radical substitution, where the nitronium ion (NO\u2082\u207a) acts as the radical",
+      "Nucleophilic aromatic substitution, where the NO\u2082\u207b ion attacks the ring",
+      "Electrophilic aromatic substitution, where the nitronium ion (NO\u2082\u207a) acts as the electrophile and attacks the \u03c0 system",
+      "Electrophilic addition, where NO\u2082\u207a adds across the double bond permanently"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following statements about entropy changes is correct for the reaction: CaCO\u2083(s) \u2192 CaO(s) + CO\u2082(g)?",
+    "options": [
+      "\u0394S is negative because a solid is decomposing",
+      "\u0394S is positive because the number of moles of gas increases, increasing disorder",
+      "\u0394S is zero because the total number of moles of substance is conserved",
+      "\u0394S is negative because the reaction is endothermic"
+    ],
+    "correctIndex": 1
+  }
+]

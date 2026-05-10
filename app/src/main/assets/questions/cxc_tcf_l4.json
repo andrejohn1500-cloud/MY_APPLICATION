@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of drawing shows all three dimensions of an object in a single view using 30-degree angles from the horizontal?",
+    "options": [
+      "Orthographic projection",
+      "Isometric drawing",
+      "Oblique drawing",
+      "Perspective drawing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical circuits, what is the unit of electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hand tool is specifically used to cut external threads on a metal rod?",
+    "options": [
+      "Tap",
+      "Die",
+      "Hacksaw",
+      "File"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the acronym CAD stand for in technical drawing and design?",
+    "options": [
+      "Computer Aided Drafting",
+      "Computer Assisted Design",
+      "Computer Aided Design",
+      "Computerized Automatic Drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When using Ohm's Law, if the voltage across a resistor is 12V and the current flowing through it is 3A, what is the resistance?",
+    "options": [
+      "36 Ohms",
+      "4 Ohms",
+      "0.25 Ohms",
+      "9 Ohms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of foundation is most suitable for constructing a building on soft or waterlogged soil?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Pile foundation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In woodworking, which joint is commonly used to join two pieces of wood at right angles and is often used in box construction?",
+    "options": [
+      "Mortise and tenon joint",
+      "Dovetail joint",
+      "Butt joint",
+      "Lap joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a capacitor in an electrical circuit?",
+    "options": [
+      "To increase voltage",
+      "To store electrical charge",
+      "To convert AC to DC",
+      "To reduce current flow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of valve controls fluid flow by rotating a disc a quarter turn to open or close?",
+    "options": [
+      "Gate valve",
+      "Globe valve",
+      "Ball valve",
+      "Check valve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In masonry, what is the standard ratio of cement to sand for a general purpose mortar mix?",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:4",
+      "1:5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mechanism converts rotary motion into linear motion in many mechanical systems?",
+    "options": [
+      "Gear train",
+      "Pulley system",
+      "Rack and pinion",
+      "Belt drive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of saw is best suited for cutting curves and irregular shapes in thin wood?",
+    "options": [
+      "Rip saw",
+      "Crosscut saw",
+      "Coping saw",
+      "Tenon saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, what is the purpose of a P-trap installed beneath a sink?",
+    "options": [
+      "To increase water pressure",
+      "To filter impurities from water",
+      "To prevent sewer gases from entering the building",
+      "To regulate hot and cold water mixing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which safety symbol indicates that personal protective equipment must be worn in a specific area?",
+    "options": [
+      "A red circle with a diagonal line",
+      "A yellow triangle with a black border",
+      "A blue circle with a white symbol",
+      "A green rectangle with white text"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'tolerance' mean in engineering manufacturing?",
+    "options": [
+      "The maximum load a material can withstand",
+      "The acceptable range of variation in a dimension",
+      "The hardness rating of a material",
+      "The temperature at which metal becomes malleable"
+    ],
+    "correctIndex": 1
+  }
+]

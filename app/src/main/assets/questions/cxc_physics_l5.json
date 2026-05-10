@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A car accelerates uniformly from rest and reaches a speed of 20 m/s in 5 seconds. What is the acceleration of the car?",
+    "options": [
+      "2 m/s\u00b2",
+      "4 m/s\u00b2",
+      "10 m/s\u00b2",
+      "100 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Speed",
+      "Mass",
+      "Temperature",
+      "Velocity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A force of 50 N is applied to an object with a mass of 10 kg. What is the acceleration produced?",
+    "options": [
+      "500 m/s\u00b2",
+      "5 m/s\u00b2",
+      "0.2 m/s\u00b2",
+      "60 m/s\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An object of mass 2 kg is lifted to a height of 5 m. What is its gravitational potential energy? (g = 10 m/s\u00b2)",
+    "options": [
+      "10 J",
+      "25 J",
+      "100 J",
+      "1000 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of wave requires a medium for propagation?",
+    "options": [
+      "Gamma rays",
+      "Radio waves",
+      "Sound waves",
+      "X-rays"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Coulomb",
+      "Ohm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A resistor of 10 \u03a9 is connected across a 20 V supply. What is the current flowing through it?",
+    "options": [
+      "200 A",
+      "0.5 A",
+      "2 A",
+      "30 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the process by which heat is transferred through a vacuum?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is its speed?",
+    "options": [
+      "735 m/s",
+      "0.00136 m/s",
+      "340 m/s",
+      "1000 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the law of conservation of energy, which statement is correct?",
+    "options": [
+      "Energy can be created from nothing",
+      "Energy can be destroyed completely",
+      "The total energy of an isolated system remains constant",
+      "Energy always increases over time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "At which point in the swing of a pendulum is the kinetic energy greatest?",
+    "options": [
+      "At the highest point",
+      "At the lowest point",
+      "Halfway between highest and lowest",
+      "At the point of release"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What happens to the pressure of a fixed mass of gas if its volume is halved while temperature remains constant?",
+    "options": [
+      "Pressure halves",
+      "Pressure remains the same",
+      "Pressure doubles",
+      "Pressure quadruples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which particle in the atom carries a negative charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Nucleus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During nuclear fission, a heavy nucleus splits into smaller nuclei and releases energy. Which element is commonly used in nuclear fission reactors?",
+    "options": [
+      "Carbon-12",
+      "Uranium-235",
+      "Hydrogen-1",
+      "Helium-4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 60 W light bulb is left on for 2 hours. How much electrical energy does it consume?",
+    "options": [
+      "120 J",
+      "432 000 J",
+      "216 000 J",
+      "30 J"
+    ],
+    "correctIndex": 1
+  }
+]

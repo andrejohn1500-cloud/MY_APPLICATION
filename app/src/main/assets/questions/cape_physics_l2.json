@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the unit of electric charge in the SI system?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a transverse wave?",
+    "options": [
+      "A wave in which particles vibrate parallel to the direction of wave travel",
+      "A wave in which particles vibrate perpendicular to the direction of wave travel",
+      "A wave that can only travel through a vacuum",
+      "A wave that does not transfer energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the half-life of a radioactive substance?",
+    "options": [
+      "The time for all nuclei to decay",
+      "The time for the activity to double",
+      "The time for half the nuclei in a sample to decay",
+      "The time for the substance to lose half its mass"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which law states that the induced EMF in a circuit is proportional to the rate of change of magnetic flux linkage?",
+    "options": [
+      "Ampere's Law",
+      "Lenz's Law",
+      "Faraday's Law",
+      "Coulomb's Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The work function of a metal in the photoelectric effect is best described as:",
+    "options": [
+      "The maximum kinetic energy of emitted electrons",
+      "The minimum energy required to remove an electron from the metal surface",
+      "The frequency of incident light",
+      "The wavelength of emitted electrons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a simple transformer, if the primary coil has 200 turns and the secondary coil has 50 turns, and the primary voltage is 240 V, what is the secondary voltage?",
+    "options": [
+      "960 V",
+      "120 V",
+      "60 V",
+      "480 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following particles has zero charge and approximately zero rest mass?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Neutrino"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the area under a velocity-time graph represent?",
+    "options": [
+      "Acceleration",
+      "Displacement",
+      "Speed",
+      "Force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which equation correctly expresses Einstein's mass-energy equivalence?",
+    "options": [
+      "E = mc",
+      "E = m/c\u00b2",
+      "E = mc\u00b2",
+      "E = m\u00b2c"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an RC circuit, the time constant \u03c4 is given by:",
+    "options": [
+      "\u03c4 = R/C",
+      "\u03c4 = RC",
+      "\u03c4 = R + C",
+      "\u03c4 = C/R"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of spectrum is produced when white light passes through a cool gas?",
+    "options": [
+      "Continuous spectrum",
+      "Emission line spectrum",
+      "Absorption line spectrum",
+      "Band spectrum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The de Broglie wavelength of a particle is given by \u03bb = h/p. What does p represent?",
+    "options": [
+      "Power",
+      "Pressure",
+      "Momentum",
+      "Potential energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a correct statement about nuclear fission?",
+    "options": [
+      "A heavy nucleus splits into two lighter nuclei releasing energy",
+      "Two light nuclei combine to form a heavier nucleus",
+      "A nucleus emits an alpha particle spontaneously",
+      "A nucleus absorbs a gamma ray and becomes unstable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What happens to the resistance of a metal conductor as its temperature increases?",
+    "options": [
+      "It decreases",
+      "It remains constant",
+      "It increases",
+      "It first increases then decreases"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which property of electromagnetic waves allows them to travel through a vacuum?",
+    "options": [
+      "They require a medium of transmission",
+      "They are mechanical waves",
+      "They are transverse waves that do not require a medium",
+      "They travel slower in a vacuum than in air"
+    ],
+    "correctIndex": 2
+  }
+]

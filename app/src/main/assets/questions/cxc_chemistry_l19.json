@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best explains why the boiling point of water is significantly higher than that of hydrogen sulfide (H\u2082S)?",
+    "options": [
+      "Water has a higher molar mass than H\u2082S",
+      "Water molecules form extensive hydrogen bonds due to the high electronegativity of oxygen",
+      "Water has stronger London dispersion forces than H\u2082S",
+      "Water undergoes ionic bonding between its molecules"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 0.1 mol/dm\u00b3 solution of a weak acid HA has a pH of 3. What is the acid dissociation constant (Ka) of HA?",
+    "options": [
+      "1.0 \u00d7 10\u207b\u00b3",
+      "1.0 \u00d7 10\u207b\u2075",
+      "1.0 \u00d7 10\u207b\u2074",
+      "1.0 \u00d7 10\u207b\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Contact Process for manufacturing sulfuric acid, the catalyst used in the oxidation of SO\u2082 to SO\u2083 is:",
+    "options": [
+      "Iron(III) oxide",
+      "Platinum",
+      "Vanadium(V) oxide",
+      "Manganese dioxide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which observation confirms that a redox reaction has occurred between zinc and copper(II) sulfate solution?",
+    "options": [
+      "The solution becomes more acidic",
+      "A blue precipitate forms in the solution",
+      "The blue color of the solution fades and a pink/orange solid deposits on the zinc",
+      "The zinc dissolves and colorless gas is evolved"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The standard electrode potential for Cu\u00b2\u207a/Cu is +0.34 V and for Zn\u00b2\u207a/Zn is \u22120.76 V. What is the standard cell potential (E\u00b0cell) for a zinc-copper electrochemical cell?",
+    "options": [
+      "\u22121.10 V",
+      "0.42 V",
+      "\u22120.42 V",
+      "1.10 V"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following compounds exhibits both optical and geometric isomerism?",
+    "options": [
+      "2-butene",
+      "2-bromobutane",
+      "But-2-enedioic acid (maleic/fumaric acid)",
+      "2-chloro-2-methylpropane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During the electrolysis of concentrated aqueous sodium chloride, which product is obtained at the anode?",
+    "options": [
+      "Oxygen gas",
+      "Hydrogen gas",
+      "Sodium metal",
+      "Chlorine gas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A buffer solution is best described as a solution that:",
+    "options": [
+      "Has a pH of exactly 7 at all times",
+      "Resists changes in pH when small amounts of acid or base are added",
+      "Neutralizes all acids and bases added to it",
+      "Maintains a constant concentration of H\u207a ions regardless of dilution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The addition of bromine water to an unknown organic compound causes immediate decolorization without UV light. Which functional group is most likely present?",
+    "options": [
+      "Hydroxyl group (\u2212OH)",
+      "Carboxyl group (\u2212COOH)",
+      "Carbon-carbon double bond (C=C)",
+      "Amine group (\u2212NH\u2082)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the IUPAC name of the compound CH\u2083CH(OH)CH\u2082CH\u2083?",
+    "options": [
+      "1-methylpropan-1-ol",
+      "Butan-2-ol",
+      "2-methylpropan-1-ol",
+      "Butan-1-ol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the Haber Process, increasing pressure favors greater ammonia yield because:",
+    "options": [
+      "The reaction is endothermic and pressure raises temperature",
+      "There are fewer moles of gas on the product side than the reactant side",
+      "Higher pressure increases the activation energy of the reaction",
+      "Pressure decreases the rate of the reverse reaction only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pairs of ions would produce a white precipitate insoluble in excess sodium hydroxide solution but soluble in dilute hydrochloric acid?",
+    "options": [
+      "Fe\u00b3\u207a",
+      "Al\u00b3\u207a",
+      "Ca\u00b2\u207a",
+      "Zn\u00b2\u207a"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The empirical formula of a compound is CH\u2082O and its molar mass is 180 g/mol. What is its molecular formula?",
+    "options": [
+      "C\u2083H\u2086O\u2083",
+      "C\u2086H\u2081\u2082O\u2086",
+      "C\u2084H\u2088O\u2084",
+      "C\u2082H\u2084O\u2082"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement about the rate of a chemical reaction is correct according to collision theory?",
+    "options": [
+      "All collisions between reactant molecules result in products",
+      "Only collisions with sufficient energy and correct orientation lead to products",
+      "Increasing temperature decreases the number of effective collisions",
+      "A catalyst increases activation energy to speed up the reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the difference between addition polymerization and condensation polymerization?",
+    "options": [
+      "Addition polymerization requires a catalyst while condensation polymerization does not",
+      "Addition polymerization produces a small molecule as a by-product while condensation polymerization does not",
+      "Condensation polymerization produces a small molecule such as water as a by-product while addition polymerization does not",
+      "Addition polymerization only occurs with aromatic monomers"
+    ],
+    "correctIndex": 2
+  }
+]

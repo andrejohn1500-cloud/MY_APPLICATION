@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a constant speed of 4 m/s. What is the centripetal acceleration of the particle?",
+    "options": [
+      "8 m/s\u00b2",
+      "16 m/s\u00b2",
+      "32 m/s\u00b2",
+      "4 m/s\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A transformer has 200 turns in the primary coil and 50 turns in the secondary coil. If the primary voltage is 240 V, what is the secondary voltage?",
+    "options": [
+      "960 V",
+      "120 V",
+      "60 V",
+      "480 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the relationship between the half-life of a radioactive isotope and its decay constant \u03bb?",
+    "options": [
+      "T\u00bd = \u03bb / ln2",
+      "T\u00bd = ln2 / \u03bb",
+      "T\u00bd = 1 / \u03bb",
+      "T\u00bd = \u03bb \u00d7 ln2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gas occupies 3.0 L at 300 K and 100 kPa. Using the ideal gas law, what volume will it occupy at 600 K and 200 kPa?",
+    "options": [
+      "6.0 L",
+      "3.0 L",
+      "1.5 L",
+      "12.0 L"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An object is placed 30 cm from a converging lens of focal length 10 cm. What is the image distance?",
+    "options": [
+      "7.5 cm",
+      "15 cm",
+      "20 cm",
+      "45 cm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A proton moves with velocity 3 \u00d7 10\u2076 m/s perpendicular to a magnetic field of 0.2 T. What is the magnitude of the magnetic force on the proton? (charge of proton = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "options": [
+      "9.6 \u00d7 10\u207b\u00b9\u2074 N",
+      "6.4 \u00d7 10\u207b\u00b9\u2074 N",
+      "3.2 \u00d7 10\u207b\u00b9\u2074 N",
+      "1.6 \u00d7 10\u207b\u00b9\u2074 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which graph correctly represents the relationship between the pressure P and volume V of an ideal gas at constant temperature?",
+    "options": [
+      "A straight line with positive gradient passing through the origin",
+      "A hyperbola showing P inversely proportional to V",
+      "A straight horizontal line",
+      "A parabola opening upward"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A body of mass 2 kg is lifted vertically through 5 m in 4 seconds. What is the power developed? (g = 10 m/s\u00b2)",
+    "options": [
+      "100 W",
+      "50 W",
+      "25 W",
+      "200 W"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the photoelectric effect, if the frequency of incident light is doubled while keeping the metal the same, what happens to the maximum kinetic energy of the emitted electrons?",
+    "options": [
+      "It doubles",
+      "It quadruples",
+      "It more than doubles",
+      "It remains the same"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two waves have frequencies 400 Hz and 404 Hz. What is the beat frequency heard when they are sounded together?",
+    "options": [
+      "804 Hz",
+      "4 Hz",
+      "2 Hz",
+      "402 Hz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 5 \u03a9 and a 20 \u03a9 resistor are connected in parallel. What is the equivalent resistance?",
+    "options": [
+      "25 \u03a9",
+      "4 \u03a9",
+      "10 \u03a9",
+      "2.5 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which nuclear equation correctly represents alpha decay of Uranium-238 (\u00b2\u00b3\u2078\u2089\u2082U)?",
+    "options": [
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2080Th + \u2074\u2082He",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2077\u2089\u2081Pa + \u00b9\u2081H",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2078\u2089\u2083Np + \u2070\u208b\u2081e",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2082U + \u2074\u2080He"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sound wave travels from air into water. Which property of the wave remains unchanged?",
+    "options": [
+      "Speed",
+      "Wavelength",
+      "Frequency",
+      "Amplitude"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An electron is accelerated through a potential difference of 1000 V. What is the kinetic energy gained by the electron? (e = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "options": [
+      "1.6 \u00d7 10\u207b\u00b9\u2076 J",
+      "1.6 \u00d7 10\u207b\u00b9\u2079 J",
+      "1.6 \u00d7 10\u207b\u00b2\u00b2 J",
+      "1.0 \u00d7 10\u00b3 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wire of length 2 m carrying a current of 5 A is placed perpendicular to a uniform magnetic field of 0.3 T. What is the force on the wire?",
+    "options": [
+      "3 N",
+      "1.5 N",
+      "0.3 N",
+      "30 N"
+    ],
+    "correctIndex": 0
+  }
+]

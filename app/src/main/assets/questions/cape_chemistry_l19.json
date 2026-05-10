@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best explains why the second ionisation energy of sodium is significantly higher than its first ionisation energy?",
+    "options": [
+      "The second electron is removed from a 2p orbital which is closer to the nucleus",
+      "The second electron is removed from a fully filled 2p subshell with extra stability",
+      "The second electron is removed from the n=2 shell, which is closer to the nucleus and experiences greater nuclear charge with no shielding from the n=3 shell",
+      "The second electron experiences increased electron-electron repulsion making it harder to remove"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.10 mol of sodium ethanoate in 1.00 dm\u00b3 of solution. Given that Ka for ethanoic acid is 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of this buffer?",
+    "options": [
+      "4.44",
+      "4.74",
+      "5.04",
+      "3.74"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the Born-Haber cycle for magnesium oxide, which two energy terms together account for the large magnitude of the lattice enthalpy?",
+    "options": [
+      "High electron affinity of oxygen and low ionisation energy of magnesium",
+      "High charge density of Mg\u00b2\u207a and O\u00b2\u207b ions leading to strong electrostatic attractions",
+      "Large atomic radius of oxygen and small atomic radius of magnesium",
+      "High enthalpy of atomisation of magnesium and high electron affinity of oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement correctly describes the mechanism of the reaction between bromine and ethene?",
+    "options": [
+      "Free radical addition initiated by UV light forming a carbocation intermediate",
+      "Electrophilic addition proceeding through a cyclic bromonium ion intermediate",
+      "Nucleophilic addition proceeding through a carbanion intermediate",
+      "Electrophilic substitution proceeding through a sigma complex"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The standard electrode potential for Cu\u00b2\u207a/Cu is +0.34 V and for Zn\u00b2\u207a/Zn is \u22120.76 V. What is the standard EMF of the electrochemical cell Zn|Zn\u00b2\u207a||Cu\u00b2\u207a|Cu and what reaction occurs at the zinc electrode?",
+    "options": [
+      "EMF = +0.42 V; zinc is reduced",
+      "EMF = +1.10 V; zinc is oxidised",
+      "EMF = \u22121.10 V; zinc is oxidised",
+      "EMF = +1.10 V; zinc is reduced"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following compounds will show optical isomerism?",
+    "options": [
+      "2-bromopropane",
+      "2-bromobutane",
+      "1-bromopropane",
+      "2-methylpropan-2-ol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the Haber process, the equilibrium N\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g) \u0394H = \u221292 kJ mol\u207b\u00b9 is established. Which set of conditions would shift the equilibrium to produce more ammonia but is NOT used industrially?",
+    "options": [
+      "High pressure and low temperature",
+      "Low pressure and high temperature",
+      "Very low temperature and very high pressure",
+      "High temperature and high pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A compound has the molecular formula C\u2084H\u2088O and shows a single peak in its \u00b9H NMR spectrum. Which structure is consistent with these data?",
+    "options": [
+      "Butanal",
+      "Cyclobutanol",
+      "Oxetane (trimethylene oxide) with four equivalent CH\u2082 groups",
+      "Cyclobutanone"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following correctly ranks the carbocations in order of increasing stability (least stable to most stable)?",
+    "options": [
+      "Methyl < primary < secondary < tertiary",
+      "Primary < methyl < secondary < tertiary",
+      "Tertiary < secondary < primary < methyl",
+      "Secondary < primary < methyl < tertiary"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the oxidation state of chromium in the dichromate ion Cr\u2082O\u2087\u00b2\u207b?",
+    "options": [
+      "+3",
+      "+5",
+      "+6",
+      "+7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement about the reaction of sodium with water versus sodium with ethanol is correct?",
+    "options": [
+      "Both reactions produce hydrogen gas; the reaction with water is slower because water is less polar than ethanol",
+      "Both reactions produce hydrogen gas; the reaction with ethanol is slower because ethanol is a weaker acid than water",
+      "The reaction with water produces sodium oxide while the reaction with ethanol produces sodium ethoxide",
+      "Both reactions produce oxygen gas; the reaction with ethanol produces a different salt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In gel permeation chromatography of a polymer sample, smaller molecules elute later than larger molecules because:",
+    "options": [
+      "Smaller molecules have higher affinity for the stationary phase packing material",
+      "Smaller molecules can penetrate into the pores of the gel beads and thus travel a longer effective path",
+      "Larger molecules diffuse faster through the solvent",
+      "Smaller molecules have lower molecular mass and therefore lower boiling points"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rate equation for a reaction is rate = k[A]\u00b2[B]. If the concentration of A is doubled and the concentration of B is halved, by what factor does the rate change?",
+    "options": [
+      "Increases by a factor of 2",
+      "Decreases by a factor of 2",
+      "Remains the same",
+      "Increases by a factor of 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements about the period 3 oxides is correct?",
+    "options": [
+      "Na\u2082O is amphoteric, Al\u2082O\u2083 is acidic, and SO\u2083 is basic",
+      "Na\u2082O is basic, Al\u2082O\u2083 is amphoteric, and SO\u2083 is acidic",
+      "All period 3 oxides dissolve in water to form acidic solutions",
+      "MgO is amphoteric and reacts with both acids and alkalis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Benzene does not undergo electrophilic addition reactions readily but undergoes electrophilic substitution. The best explanation for this behaviour is:",
+    "options": [
+      "Benzene has localised double bonds that are sterically hindered",
+      "The delocalised \u03c0 electron system gives benzene extra thermodynamic stability which would be lost upon addition",
+      "Benzene lacks \u03c0 electrons and therefore cannot act as an electrophile",
+      "Addition reactions would produce compounds with lower molecular mass than benzene"
+    ],
+    "correctIndex": 1
+  }
+]

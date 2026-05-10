@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A random variable X follows a Poisson distribution with mean 3. What is P(X = 2)?",
+    "options": [
+      "A. 0.2240",
+      "B. 0.1494",
+      "C. 0.2241",
+      "D. 0.3996"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.3, and P(A \u222a B) = 0.58. What is P(A \u2229 B)?",
+    "options": [
+      "A. 0.12",
+      "B. 0.10",
+      "C. 0.14",
+      "D. 0.70"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2 for 0 \u2264 x \u2264 3, and 0 otherwise. What is the value of k?",
+    "options": [
+      "A. 1/9",
+      "B. 1/27",
+      "C. 3/27",
+      "D. 1/3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mean of a sample of 50 observations is 24.6 and the standard deviation is 5.2. What is the 95% confidence interval for the population mean?",
+    "options": [
+      "A. (23.16, 26.04)",
+      "B. (22.44, 26.76)",
+      "C. (23.60, 25.60)",
+      "D. (24.16, 25.04)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A linear programming problem has objective function Z = 3x + 5y. At which vertex of the feasible region is Z maximised if the vertices are (0,0), (4,0), (2,3), and (0,4)?",
+    "options": [
+      "A. (0,4)",
+      "B. (2,3)",
+      "C. (4,0)",
+      "D. (0,0)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle moves in a straight line such that its velocity at time t seconds is v = 3t\u00b2 \u2212 6t + 2 m/s. What is the displacement of the particle from t = 0 to t = 2?",
+    "options": [
+      "A. 0 m",
+      "B. 2 m",
+      "C. 4 m",
+      "D. 8 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The normal distribution N(50, 16) is used to model a dataset. What is the probability P(X > 54)?",
+    "options": [
+      "A. 0.1587",
+      "B. 0.3413",
+      "C. 0.8413",
+      "D. 0.6827"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a hypothesis test, the p-value obtained is 0.03. At a significance level of 5%, what is the correct conclusion?",
+    "options": [
+      "A. Reject the null hypothesis",
+      "B. Accept the null hypothesis",
+      "C. Increase the sample size",
+      "D. The test is inconclusive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A project network has activities with the following durations (days): A=3, B=5, C=4, D=2, with A and B starting simultaneously, C depends on A, and D depends on both B and C. What is the minimum project completion time?",
+    "options": [
+      "A. 9 days",
+      "B. 10 days",
+      "C. 11 days",
+      "D. 12 days"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "options": [
+      "A. 5/14",
+      "B. 25/64",
+      "C. 15/56",
+      "D. 5/28"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The regression line of y on x is y = 2.5 + 1.8x. What is the predicted value of y when x = 6?",
+    "options": [
+      "A. 13.3",
+      "B. 12.8",
+      "C. 11.5",
+      "D. 10.8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A force of 12 N acts on a body of mass 4 kg on a smooth horizontal surface. What is the acceleration of the body?",
+    "options": [
+      "A. 3 m/s\u00b2",
+      "B. 4 m/s\u00b2",
+      "C. 48 m/s\u00b2",
+      "D. 2 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Spearman rank correlation coefficient for a dataset is calculated as rs = 1 \u2212 (6\u03a3d\u00b2)/(n(n\u00b2\u22121)). If \u03a3d\u00b2 = 20 and n = 7, what is rs?",
+    "options": [
+      "A. 0.643",
+      "B. 0.357",
+      "C. 0.714",
+      "D. 0.500"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A binomial distribution has n = 10 and p = 0.4. What is the variance of the distribution?",
+    "options": [
+      "A. 2.4",
+      "B. 4.0",
+      "C. 1.6",
+      "D. 2.0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle is projected vertically upward with an initial velocity of 20 m/s. Taking g = 10 m/s\u00b2, what is the maximum height reached?",
+    "options": [
+      "A. 20 m",
+      "B. 40 m",
+      "C. 10 m",
+      "D. 30 m"
+    ],
+    "correctIndex": 0
+  }
+]

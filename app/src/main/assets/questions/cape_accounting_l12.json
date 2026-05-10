@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has a contribution margin ratio of 40% and fixed costs of $120,000. What is the breakeven point in sales revenue?",
+    "options": [
+      "$48,000",
+      "$300,000",
+      "$200,000",
+      "$480,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IAS 36, an asset is considered impaired when its carrying amount exceeds its recoverable amount. The recoverable amount is defined as:",
+    "options": [
+      "The higher of fair value less costs of disposal and value in use",
+      "The lower of fair value less costs of disposal and value in use",
+      "The asset's net book value",
+      "The asset's replacement cost"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A manufacturing company uses absorption costing. If fixed overhead absorption rate is $8 per unit and 2,000 more units were produced than sold, the profit under absorption costing compared to marginal costing would be:",
+    "options": [
+      "$16,000 higher",
+      "$16,000 lower",
+      "The same",
+      "$8,000 higher"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the treatment of a finance lease in the books of the lessee under IFRS 16?",
+    "options": [
+      "The asset and liability are recognized at the present value of future lease payments; depreciation and interest are charged separately",
+      "Only lease payments are expensed as incurred",
+      "The asset is recorded at fair value and no liability is recognized",
+      "The full lease payment is capitalized as an intangible asset"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has the following data: Net profit $80,000; Depreciation $20,000; Increase in receivables $15,000; Decrease in payables $10,000; Increase in inventory $5,000. What is the net cash flow from operating activities using the indirect method?",
+    "options": [
+      "$70,000",
+      "$90,000",
+      "$100,000",
+      "$50,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under the weighted average cost method, a company has opening inventory of 200 units at $5 each, purchases of 300 units at $7 each, and sells 400 units. What is the value of closing inventory?",
+    "options": [
+      "$600",
+      "$610",
+      "$620",
+      "$580"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a limited liability company as opposed to a partnership?",
+    "options": [
+      "Members have unlimited personal liability for company debts",
+      "Legal personality separate from its members",
+      "Shares can be transferred",
+      "Directors manage the company on behalf of shareholders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bond with a face value of $100,000 and a coupon rate of 6% is issued when the market rate is 8%. The bond will be issued at:",
+    "options": [
+      "A discount to face value",
+      "A premium to face value",
+      "Face value",
+      "Cannot be determined without maturity date"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following ratios best measures a company's ability to meet short-term obligations using only its most liquid assets?",
+    "options": [
+      "Acid test ratio",
+      "Current ratio",
+      "Inventory turnover ratio",
+      "Debt to equity ratio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under IAS 2, which of the following costs should be included in the cost of inventory?",
+    "options": [
+      "Import duties and transport costs to bring inventory to its present location",
+      "Selling and distribution costs",
+      "Administrative overheads unrelated to production",
+      "Abnormal wastage of materials"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company issues 10,000 ordinary shares of $2 par value at $5 per share. What is the journal entry to record the share premium?",
+    "options": [
+      "Debit Cash $50,000; Credit Share Capital $20,000; Credit Share Premium $30,000",
+      "Debit Cash $50,000; Credit Share Capital $50,000",
+      "Debit Share Premium $30,000; Credit Share Capital $30,000",
+      "Debit Cash $20,000; Credit Share Capital $20,000; Debit Share Premium $30,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In process costing, normal loss is defined as:",
+    "options": [
+      "The expected level of loss arising from the production process, which is absorbed into the cost of good output",
+      "Any loss that occurs unexpectedly during production",
+      "Loss that is credited to the process account at full cost",
+      "Loss that creates an abnormal gain account entry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which statement is TRUE regarding deferred taxation under IAS 12?",
+    "options": [
+      "Deferred tax liabilities arise when the tax base of an asset exceeds its carrying amount",
+      "Deferred tax assets arise when the carrying amount of an asset exceeds its tax base",
+      "Deferred tax liabilities arise when the carrying amount of an asset exceeds its tax base",
+      "Deferred tax is always classified as a current liability"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company with an operating cycle of 18 months classifies its assets and liabilities. Which of the following is CORRECTLY classified as a current asset?",
+    "options": [
+      "Inventory expected to be sold within 18 months as part of the normal operating cycle",
+      "A long-term investment held for more than 12 months",
+      "Plant and equipment depreciated over 5 years",
+      "Goodwill arising from a business combination"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following information relates to a joint venture: Sales $500,000; Variable costs $300,000; Fixed costs $150,000; Investment $400,000. Using the residual income method with a cost of capital of 10%, what is the residual income?",
+    "options": [
+      "$10,000",
+      "$50,000",
+      "$30,000",
+      "$40,000"
+    ],
+    "correctIndex": 0
+  }
+]

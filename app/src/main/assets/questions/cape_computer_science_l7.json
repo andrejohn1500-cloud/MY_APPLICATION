@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what is the term for a class that inherits properties and methods from another class?",
+    "options": [
+      "Superclass",
+      "Abstract class",
+      "Subclass",
+      "Interface"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following sorting algorithms has the best average-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Logic",
+      "Sequential Query List",
+      "Standard Question Language"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a binary number system, what is the decimal equivalent of 1011?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "13"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which network topology connects all devices to a single central hub or switch?",
+    "options": [
+      "Ring",
+      "Mesh",
+      "Bus",
+      "Star"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of a compiler?",
+    "options": [
+      "To execute code line by line",
+      "To translate high-level source code into machine code",
+      "To manage memory allocation",
+      "To debug runtime errors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a relational database?",
+    "options": [
+      "Data stored in tables",
+      "Use of primary keys",
+      "Hierarchical parent-child structure as the main model",
+      "Support for SQL queries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does RAM stand for in computer architecture?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Application Memory",
+      "Read And Modify"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which algorithm traversal visits the root node before its children?",
+    "options": [
+      "In-order",
+      "Post-order",
+      "Pre-order",
+      "Breadth-first"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Python, which keyword is used to define a function?",
+    "options": [
+      "function",
+      "define",
+      "fun",
+      "def"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which OSI model layer is responsible for logical addressing and routing?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of normalization in database design?",
+    "options": [
+      "To increase data redundancy for backup purposes",
+      "To reduce data redundancy and improve data integrity",
+      "To speed up all types of database queries",
+      "To encrypt sensitive data fields"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of symmetric key encryption?",
+    "options": [
+      "RSA",
+      "Diffie-Hellman",
+      "AES",
+      "ECC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of algorithms, what does O(1) time complexity mean?",
+    "options": [
+      "The algorithm's runtime grows linearly with input size",
+      "The algorithm takes constant time regardless of input size",
+      "The algorithm's runtime doubles with each additional input",
+      "The algorithm has no loops"
+    ],
+    "correctIndex": 1
+  }
+]

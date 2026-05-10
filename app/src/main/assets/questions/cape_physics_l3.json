@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes a scalar quantity?",
+    "options": [
+      "A quantity with both magnitude and direction",
+      "A quantity with magnitude only",
+      "A quantity measured in newtons",
+      "A quantity that depends on a reference frame"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the acceleration due to gravity at the Earth's surface approximately equal to?",
+    "options": [
+      "9.8 m/s\u00b2",
+      "6.7 m/s\u00b2",
+      "3.4 m/s\u00b2",
+      "12.0 m/s\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which law states that the total electric flux through a closed surface is proportional to the enclosed electric charge?",
+    "options": [
+      "Faraday's Law",
+      "Ampere's Law",
+      "Gauss's Law",
+      "Coulomb's Law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of wave is a sound wave?",
+    "options": [
+      "Transverse wave",
+      "Electromagnetic wave",
+      "Longitudinal wave",
+      "Surface wave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which particle has a positive charge?",
+    "options": [
+      "Electron",
+      "Neutron",
+      "Proton",
+      "Photon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the relationship between frequency f and period T of a wave?",
+    "options": [
+      "f = T",
+      "f = 1/T",
+      "f = T\u00b2",
+      "f = 2T"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Newton's First Law of Motion, an object at rest will remain at rest unless acted upon by what?",
+    "options": [
+      "Gravity",
+      "A net external force",
+      "Friction",
+      "An internal force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of mirror is used in a car's rear-view mirror?",
+    "options": [
+      "Concave mirror",
+      "Plane mirror",
+      "Convex mirror",
+      "Parabolic mirror"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does Ohm's Law state?",
+    "options": [
+      "Voltage is inversely proportional to current",
+      "Current is proportional to resistance",
+      "Voltage is directly proportional to current at constant resistance",
+      "Power equals current times resistance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a renewable energy source?",
+    "options": [
+      "Coal",
+      "Natural gas",
+      "Nuclear fission",
+      "Solar energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the formula for kinetic energy?",
+    "options": [
+      "KE = mgh",
+      "KE = \u00bdmv\u00b2",
+      "KE = mv",
+      "KE = Fd"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which phenomenon causes a ray of light to bend when it passes from one medium to another?",
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Interference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the half-life of a radioactive substance?",
+    "options": [
+      "The time for all atoms to decay",
+      "The time for half the radioactive atoms to decay",
+      "The time for the substance to lose half its mass",
+      "The time for the radiation to halve in energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly states the law of conservation of energy?",
+    "options": [
+      "Energy can be created but not destroyed",
+      "Energy can be destroyed but not created",
+      "Energy can neither be created nor destroyed, only transformed",
+      "Energy is always lost as heat"
+    ],
+    "correctIndex": 2
+  }
+]

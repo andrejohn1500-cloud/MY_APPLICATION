@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a period of 2 s. What is the centripetal acceleration of the particle?",
+    "options": [
+      "\u03c0\u00b2/2 m s\u207b\u00b2",
+      "\u03c0\u00b2 m s\u207b\u00b2",
+      "2\u03c0\u00b2 m s\u207b\u00b2",
+      "4\u03c0\u00b2 m s\u207b\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A transformer has 500 primary turns and 2000 secondary turns. If the primary current is 8 A, what is the secondary current assuming 100% efficiency?",
+    "options": [
+      "2 A",
+      "32 A",
+      "4 A",
+      "16 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A photon has a wavelength of 400 nm. What is the energy of this photon? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, c = 3 \u00d7 10\u2078 m s\u207b\u00b9)",
+    "options": [
+      "4.97 \u00d7 10\u207b\u00b9\u2079 J",
+      "3.32 \u00d7 10\u207b\u00b9\u2079 J",
+      "1.66 \u00d7 10\u207b\u00b9\u2079 J",
+      "6.63 \u00d7 10\u207b\u00b9\u2079 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the photoelectric effect?",
+    "options": [
+      "Electrons are emitted from a metal surface when electromagnetic radiation of sufficient frequency is incident upon it",
+      "Electrons are emitted from a metal when it is heated to a high temperature",
+      "Photons are produced when electrons decelerate rapidly",
+      "Electrons are scattered by photons without any change in wavelength"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A standing wave is formed on a string of length 1.2 m fixed at both ends. What is the wavelength of the third harmonic?",
+    "options": [
+      "0.8 m",
+      "0.6 m",
+      "1.2 m",
+      "0.4 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal expansion. Which statement correctly describes this process?",
+    "options": [
+      "Internal energy remains constant and the gas does work on its surroundings",
+      "Internal energy increases as the gas expands",
+      "Temperature increases while pressure decreases",
+      "No heat exchange occurs between the gas and surroundings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two point charges of +4 \u03bcC and -4 \u03bcC are separated by a distance of 0.2 m. What is the electric force between them? (k = 9 \u00d7 10\u2079 N m\u00b2 C\u207b\u00b2)",
+    "options": [
+      "3.6 N attractive",
+      "3.6 N repulsive",
+      "7.2 N attractive",
+      "1.8 N repulsive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A radioactive nucleus undergoes beta-minus decay. Which of the following correctly describes the change in the nucleus?",
+    "options": [
+      "A neutron is converted to a proton, emitting an electron and an antineutrino",
+      "A proton is converted to a neutron, emitting a positron and a neutrino",
+      "An alpha particle is emitted reducing the mass number by 4",
+      "A neutron is emitted reducing the mass number by 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object of mass 2 kg is attached to a spring of spring constant 50 N m\u207b\u00b9. What is the angular frequency of simple harmonic oscillation?",
+    "options": [
+      "5 rad s\u207b\u00b9",
+      "25 rad s\u207b\u00b9",
+      "10 rad s\u207b\u00b9",
+      "2.5 rad s\u207b\u00b9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which experiment provided the first direct evidence for the nuclear model of the atom?",
+    "options": [
+      "Geiger-Marsden alpha particle scattering experiment",
+      "Millikan oil-drop experiment",
+      "Photoelectric effect experiment by Hertz",
+      "Thomson cathode ray experiment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A conductor of length 0.3 m carrying a current of 5 A is placed perpendicular to a magnetic field of flux density 0.4 T. What is the force on the conductor?",
+    "options": [
+      "0.6 N",
+      "6 N",
+      "0.06 N",
+      "2.0 N"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The half-life of a radioactive isotope is 4 years. What fraction of the original sample remains after 16 years?",
+    "options": [
+      "1/16",
+      "1/8",
+      "1/4",
+      "1/32"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the relationship between electric field strength E and electric potential V?",
+    "options": [
+      "E = -dV/dx",
+      "E = dV/dx",
+      "E = V/x\u00b2",
+      "E = -d\u00b2V/dx\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle of charge 1.6 \u00d7 10\u207b\u00b9\u2079 C and mass 9.1 \u00d7 10\u207b\u00b3\u00b9 kg moves with velocity 2 \u00d7 10\u2076 m s\u207b\u00b9 perpendicular to a magnetic field of 0.01 T. What is the radius of its circular orbit?",
+    "options": [
+      "1.14 \u00d7 10\u207b\u00b3 m",
+      "2.28 \u00d7 10\u207b\u00b3 m",
+      "5.7 \u00d7 10\u207b\u2074 m",
+      "4.55 \u00d7 10\u207b\u00b3 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a double-slit interference experiment, the fringe spacing is 2 mm when the slit separation is 0.5 mm and the screen is 2 m away. What is the wavelength of the light used?",
+    "options": [
+      "500 nm",
+      "250 nm",
+      "1000 nm",
+      "750 nm"
+    ],
+    "correctIndex": 0
+  }
+]

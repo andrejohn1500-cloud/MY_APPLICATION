@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A plane makes angles of 30\u00b0 with the HP and 60\u00b0 with the VP. What is the true shape of the section when a cone is cut by this plane?",
+    "options": [
+      "A circle",
+      "An ellipse",
+      "A parabola",
+      "A hyperbola"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first-angle orthographic projection, if the front view shows a hexagonal prism standing upright, where is the plan (top view) positioned?",
+    "options": [
+      "Above the front view",
+      "Below the front view",
+      "To the left of the front view",
+      "To the right of the front view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A right circular cone with base diameter 60 mm and height 75 mm is cut by a plane parallel to one of its generators. The resulting conic section is:",
+    "options": [
+      "An ellipse",
+      "A circle",
+      "A parabola",
+      "A hyperbola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When developing the lateral surface of an oblique cylinder, which method is most appropriate?",
+    "options": [
+      "Parallel line development",
+      "Radial line development",
+      "Triangulation development",
+      "Approximate development"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In isometric drawing, the angle between any two isometric axes is:",
+    "options": [
+      "90\u00b0",
+      "60\u00b0",
+      "120\u00b0",
+      "45\u00b0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A helical spring has a pitch of 30 mm and a mean coil diameter of 50 mm. If the wire diameter is 6 mm, the outside coil diameter is:",
+    "options": [
+      "44 mm",
+      "56 mm",
+      "62 mm",
+      "38 mm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The locus of a point that moves so that its distance from a fixed point (focus) is equal to its distance from a fixed line (directrix) describes which curve?",
+    "options": [
+      "Ellipse",
+      "Hyperbola",
+      "Parabola",
+      "Cycloid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which auxiliary view technique is used to find the true length of a line that is oblique to all principal planes of projection?",
+    "options": [
+      "First auxiliary projection perpendicular to the front view",
+      "A single auxiliary projection parallel to the line",
+      "Two successive auxiliary projections",
+      "Isometric projection of the line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A pentagonal pyramid with base edge 40 mm and height 70 mm is cut by a plane inclined at 45\u00b0 to the base passing through the midpoint of the axis. The development of the remaining lower frustum uses which method?",
+    "options": [
+      "Parallel line development",
+      "Triangulation development",
+      "Radial line development",
+      "Approximate development"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the construction of an ellipse using the trammel method, the semi-major axis measures 60 mm and the semi-minor axis measures 35 mm. The distance between the two foci is:",
+    "options": [
+      "Approximately 49.6 mm",
+      "Approximately 70 mm",
+      "Approximately 99.2 mm",
+      "Approximately 35 mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When two unequal diameter cylinders with parallel axes interpenetrate, the curve of interpenetration on the orthographic view is best plotted using:",
+    "options": [
+      "Radial lines from a common apex",
+      "Horizontal cutting planes to generate points on both surfaces",
+      "Triangulation of the surfaces",
+      "Direct projection from an isometric view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cam with a base circle radius of 25 mm lifts a follower through 40 mm with uniform velocity during 120\u00b0 of cam rotation, then dwells for 60\u00b0, then returns with simple harmonic motion during 120\u00b0, then dwells for the remainder. The total angle of the dwell periods combined is:",
+    "options": [
+      "60\u00b0",
+      "80\u00b0",
+      "120\u00b0",
+      "180\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In oblique (cavalier) projection, receding lines are drawn at 45\u00b0 to the horizontal. How are measurements along the receding axis treated compared to true length?",
+    "options": [
+      "Reduced to half true length",
+      "Drawn at full true length",
+      "Reduced to three-quarters true length",
+      "Doubled in length"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A regular hexagonal prism (across flats = 50 mm, height = 80 mm) lies with one rectangular face on the HP with its axis parallel to the VP. In the front view (first-angle projection), the outline shows:",
+    "options": [
+      "A rectangle 50 mm wide and 80 mm tall",
+      "A hexagon",
+      "A rectangle 80 mm wide and 50 mm tall",
+      "A rectangle 57.7 mm wide and 80 mm tall"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When constructing a true shape of an oblique section through a prism using the auxiliary plane method, the auxiliary plane must be set up:",
+    "options": [
+      "Perpendicular to the VP and parallel to the cutting plane",
+      "Parallel to the cutting plane and projected from the view showing the cutting plane as an edge",
+      "Perpendicular to both the HP and VP simultaneously",
+      "At 45\u00b0 to the cutting plane"
+    ],
+    "correctIndex": 1
+  }
+]

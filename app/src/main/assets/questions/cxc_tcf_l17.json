@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A hydraulic press operates with a master cylinder diameter of 5 cm and a slave cylinder diameter of 25 cm. If a force of 200 N is applied to the master cylinder, what is the output force at the slave cylinder?",
+    "options": [
+      "1000 N",
+      "5000 N",
+      "2500 N",
+      "4000 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a three-phase AC system, the relationship between line voltage (V_L) and phase voltage (V_Ph) in a star (Y) connection is:",
+    "options": [
+      "V_L = V_Ph",
+      "V_L = \u221a3 \u00d7 V_Ph",
+      "V_L = 3 \u00d7 V_Ph",
+      "V_L = V_Ph / \u221a3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding defect is characterised by a groove melted into the base metal adjacent to the weld toe that is left unfilled by weld metal?",
+    "options": [
+      "Porosity",
+      "Slag inclusion",
+      "Undercut",
+      "Overlap"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A gear train has a driving gear with 20 teeth and a driven gear with 80 teeth. If the driving gear rotates at 1200 RPM, what is the output speed and torque relationship?",
+    "options": [
+      "300 RPM with torque multiplied by 4",
+      "4800 RPM with torque divided by 4",
+      "300 RPM with torque divided by 4",
+      "4800 RPM with torque multiplied by 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In refrigeration systems, the purpose of the expansion valve is to:",
+    "options": [
+      "Compress the refrigerant to high pressure",
+      "Remove heat from the refrigerant",
+      "Reduce the pressure and temperature of the refrigerant before entering the evaporator",
+      "Condense the refrigerant from gas to liquid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of concrete mix design method uses the water-cement ratio as the primary parameter for determining compressive strength?",
+    "options": [
+      "Absolute volume method",
+      "ACI method",
+      "Trial mix method",
+      "Fineness modulus method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electronics, a MOSFET operating in the saturation region is primarily used as:",
+    "options": [
+      "A voltage regulator",
+      "An amplifier or switch",
+      "A rectifier",
+      "A filter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A mild steel beam has a second moment of area (I) of 4\u00d710\u207b\u2075 m\u2074 and a span of 6 m. If E = 200 GPa, what property does EI represent in beam deflection calculations?",
+    "options": [
+      "Shear stiffness",
+      "Flexural rigidity",
+      "Torsional stiffness",
+      "Axial stiffness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which plumbing fitting is specifically designed to allow pipes to expand and contract due to thermal changes without causing stress on the pipeline?",
+    "options": [
+      "Union coupling",
+      "Expansion joint",
+      "Gate valve",
+      "Elbow fitting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In AutoCAD drafting, the command used to create an exact copy of an object at a specified distance and direction is:",
+    "options": [
+      "MIRROR",
+      "ARRAY",
+      "OFFSET",
+      "COPY"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A single-phase transformer has 500 primary turns and 100 secondary turns. If the primary voltage is 2500 V, the secondary current is 50 A, and assuming 100% efficiency, what is the primary current?",
+    "options": [
+      "250 A",
+      "10 A",
+      "25 A",
+      "5 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In masonry construction, which bond pattern provides the greatest lateral strength by ensuring no continuous vertical joints exist in adjacent courses?",
+    "options": [
+      "Stack bond",
+      "English bond",
+      "Running bond",
+      "Flemish bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of annealing steel involves:",
+    "options": [
+      "Rapid quenching in oil or water to increase hardness",
+      "Heating to a critical temperature then slow cooling to relieve internal stresses and reduce hardness",
+      "Case hardening the surface while keeping the core soft",
+      "Heating and then quenching followed by tempering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an Otto cycle (ideal gasoline engine), thermal efficiency is given by \u03b7 = 1 - (1/r^(\u03b3-1)). If the compression ratio r = 8 and \u03b3 = 1.4, the thermal efficiency is approximately:",
+    "options": [
+      "46.5%",
+      "56.5%",
+      "36.5%",
+      "66.5%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of electrical fault in a motor results in a very high current draw at startup but the motor fails to rotate, indicating the rotor is mechanically locked?",
+    "options": [
+      "Open circuit fault",
+      "Locked rotor condition",
+      "Ground fault",
+      "Phase reversal fault"
+    ],
+    "correctIndex": 1
+  }
+]

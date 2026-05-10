@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Choisissez la forme correcte du subjonctif dans la phrase suivante: Il faut que nous _____ partir avant minuit.",
+    "options": [
+      "devons",
+      "devions",
+      "devrons",
+      "devions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quelle est la signification de l'expression idiomatique 'avoir le cafard'?",
+    "options": [
+      "\u00catre tr\u00e8s fatigu\u00e9",
+      "Avoir peur des insectes",
+      "Se sentir d\u00e9prim\u00e9",
+      "\u00catre en col\u00e8re"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Compl\u00e9tez la phrase avec le pronom relatif correct: C'est le livre _____ je t'ai parl\u00e9 hier.",
+    "options": [
+      "que",
+      "qui",
+      "dont",
+      "lequel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lequel des temps suivants est utilis\u00e9 pour d\u00e9crire une action qui \u00e9tait en cours quand une autre action s'est produite?",
+    "options": [
+      "Le pass\u00e9 compos\u00e9",
+      "L'imparfait",
+      "Le plus-que-parfait",
+      "Le futur ant\u00e9rieur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Choisissez la traduction correcte de: 'She had already left when he arrived.'",
+    "options": [
+      "Elle a d\u00e9j\u00e0 parti quand il est arriv\u00e9.",
+      "Elle \u00e9tait d\u00e9j\u00e0 partie quand il est arriv\u00e9.",
+      "Elle avait d\u00e9j\u00e0 parti quand il arrivait.",
+      "Elle avait d\u00e9j\u00e0 parti\u00e9 quand il \u00e9tait arriv\u00e9."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quel est le genre du mot 'cravate' en fran\u00e7ais?",
+    "options": [
+      "Masculin",
+      "F\u00e9minin",
+      "Neutre",
+      "Variable selon le contexte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Compl\u00e9tez avec la bonne forme du verbe 'vouloir' au conditionnel pr\u00e9sent: Si j'avais de l'argent, je _____ voyager autour du monde.",
+    "options": [
+      "voudrais",
+      "voulais",
+      "veuille",
+      "voudrai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quelle est la forme passive correcte de: 'Le professeur corrige les examens'?",
+    "options": [
+      "Les examens ont \u00e9t\u00e9 corrig\u00e9s par le professeur.",
+      "Les examens sont corrig\u00e9s par le professeur.",
+      "Les examens \u00e9taient corrig\u00e9s par le professeur.",
+      "Les examens seront corrig\u00e9s par le professeur."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dans la phrase 'Elle se souvient de ses vacances en France', quel type de verbe est 'se souvenir'?",
+    "options": [
+      "Un verbe transitif direct",
+      "Un verbe intransitif",
+      "Un verbe pronominal",
+      "Un verbe impersonnel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choisissez la phrase qui utilise correctement le discours indirect: Elle a dit: 'Je viendrai demain.'",
+    "options": [
+      "Elle a dit qu'elle viendrait le lendemain.",
+      "Elle a dit qu'elle vient demain.",
+      "Elle a dit qu'elle venait le lendemain.",
+      "Elle a dit qu'elle viendra le lendemain."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quelle est la diff\u00e9rence principale entre 'depuis' et 'il y a' dans une phrase?",
+    "options": [
+      "'Depuis' indique une dur\u00e9e continue jusqu'au pr\u00e9sent; 'il y a' indique un moment pr\u00e9cis dans le pass\u00e9.",
+      "'Depuis' est utilis\u00e9 avec le pass\u00e9 compos\u00e9; 'il y a' avec l'imparfait.",
+      "Il n'y a aucune diff\u00e9rence entre les deux expressions.",
+      "'Depuis' est formel; 'il y a' est familier."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Choisissez la n\u00e9gation correcte pour une phrase au pass\u00e9 compos\u00e9: Il _____ jamais _____ \u00e0 Paris.",
+    "options": [
+      "n'a / all\u00e9",
+      "ne / a all\u00e9",
+      "n'a / all\u00e9 pas",
+      "n'est / jamais all\u00e9"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quel mot de liaison exprime le mieux une concession dans cette phrase: _____ il pleuvait, ils sont sortis se promener.",
+    "options": [
+      "Parce que",
+      "Bien que",
+      "Puisque",
+      "Alors que"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Identifiez l'emploi correct du subjonctif: Le directeur exige que les employ\u00e9s _____ \u00e0 l'heure.",
+    "options": [
+      "arrivent",
+      "arriveront",
+      "arrivent toujours",
+      "sont arriv\u00e9s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quelle phrase illustre correctement l'utilisation du futur ant\u00e9rieur?",
+    "options": [
+      "Quand tu arriveras, je partirai.",
+      "Quand tu seras arriv\u00e9, je partirai.",
+      "Quand tu arrives, je serai parti.",
+      "Quand tu arrivais, j'avais parti."
+    ],
+    "correctIndex": 1
+  }
+]

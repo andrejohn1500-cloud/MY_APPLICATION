@@ -1,0 +1,152 @@
+[
+  {
+    "question": "According to the biopsychosocial model, which combination best explains the onset of schizophrenia?",
+    "options": [
+      "Genetic vulnerability, dopamine dysregulation, and chronic psychosocial stress",
+      "Purely neurochemical imbalances without environmental input",
+      "Childhood trauma alone triggering psychotic episodes",
+      "Social isolation as the primary and sufficient cause"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Milgram's obedience studies, which variable produced the GREATEST reduction in obedience rates?",
+    "options": [
+      "Conducting the experiment in a run-down office building",
+      "Having the confederate in the same room as the participant",
+      "Introducing two additional confederates who refused to continue",
+      "Giving the participant full control over shock level selection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best distinguishes crystallized intelligence from fluid intelligence according to Cattell's theory?",
+    "options": [
+      "Crystallized intelligence declines sharply after age 30 while fluid intelligence increases",
+      "Crystallized intelligence reflects accumulated knowledge and skills; fluid intelligence reflects novel problem-solving capacity",
+      "Fluid intelligence is measured exclusively by verbal reasoning tasks",
+      "Crystallized intelligence is entirely genetically determined and not influenced by education"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A researcher uses a double-blind procedure in a drug efficacy study. What is the PRIMARY methodological advantage of this approach?",
+    "options": [
+      "It eliminates all demand characteristics from the study permanently",
+      "It controls for both participant expectation effects and experimenter bias simultaneously",
+      "It ensures the sample is fully representative of the target population",
+      "It removes the need for a control group in the experimental design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bowlby's concept of the 'internal working model' suggests that early attachment experiences influence later relationships because they:",
+    "options": [
+      "Are biologically encoded in the limbic system and cannot be modified",
+      "Form cognitive schemas about self-worth and expectations of others that guide future relationships",
+      "Only affect romantic relationships but not peer or professional relationships",
+      "Are entirely replaced by new experiences once the child reaches formal operational stage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Lazarus and Folkman's transactional model of stress, 'secondary appraisal' refers to:",
+    "options": [
+      "The initial evaluation of whether a stimulus constitutes a threat or challenge",
+      "An individual's assessment of available coping resources relative to the perceived demand",
+      "The physiological activation of the hypothalamic-pituitary-adrenal axis",
+      "Social comparison with others facing similar stressors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ethical principle is MOST directly violated when a researcher publishes fabricated data as genuine findings?",
+    "options": [
+      "Confidentiality",
+      "Informed consent",
+      "Scientific integrity and honesty",
+      "Debriefing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The heritability coefficient for intelligence has been estimated at approximately 0.50 in childhood and rises to approximately 0.80 in adulthood. Which interpretation is most accurate?",
+    "options": [
+      "Genes become more influential relative to shared environment as individuals self-select their environments over time",
+      "Intelligence becomes entirely genetic by adulthood with no environmental contribution",
+      "Shared environmental factors become more powerful as individuals age",
+      "The estimate means 80% of an individual's intelligence is directly caused by their genes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Festinger's cognitive dissonance theory, which condition produces the GREATEST attitude change following counter-attitudinal behaviour?",
+    "options": [
+      "Receiving a large monetary reward for performing the behaviour",
+      "Performing the behaviour under high external coercion",
+      "Performing the behaviour with minimal justification and perceiving free choice",
+      "Having prior awareness that the behaviour contradicts existing beliefs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which neurotransmitter system is most centrally implicated in the reward pathway dysfunction associated with substance use disorders, according to contemporary neurobiological models?",
+    "options": [
+      "Serotonergic projections from the raphe nuclei to the prefrontal cortex",
+      "Dopaminergic projections from the ventral tegmental area to the nucleus accumbens",
+      "GABAergic inhibition within the basolateral amygdala",
+      "Noradrenergic activity in the locus coeruleus modulating arousal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A psychologist administers the same IQ test to the same group of participants twice, six months apart, and obtains a correlation of r = 0.91. This finding primarily reflects:",
+    "options": [
+      "High concurrent validity of the instrument",
+      "High test-retest reliability of the instrument",
+      "Strong predictive validity against external criteria",
+      "Adequate content validity of the item pool"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Vygotsky's concept of the Zone of Proximal Development (ZPD) has which of the following key implications for educational psychology?",
+    "options": [
+      "Children should be assessed only on tasks they can complete entirely independently",
+      "Optimal learning occurs when tasks slightly exceed current independent ability but are achievable with skilled guidance",
+      "Cognitive development follows a universal sequence unaffected by cultural or social interaction",
+      "Peer collaboration impedes individual cognitive growth by creating dependency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following represents a Type II error in hypothesis testing?",
+    "options": [
+      "Rejecting a null hypothesis that is actually true",
+      "Failing to reject a null hypothesis that is actually false",
+      "Setting an alpha level that is too stringent for the sample size",
+      "Reporting a statistically significant result without calculating effect size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rosenhan's 'On Being Sane in Insane Places' study is most fundamentally a critique of:",
+    "options": [
+      "The pharmacological treatment of psychiatric disorders in institutional settings",
+      "The reliability and validity of psychiatric diagnosis and the power of diagnostic labels",
+      "The ethics of using deception in psychological research with vulnerable populations",
+      "Deinstitutionalisation policies adopted in the 1970s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to Seligman's learned helplessness model and its reformulation by Abramson, Seligman and Teasdale, which attributional style is most strongly associated with vulnerability to depression?",
+    "options": [
+      "External, unstable, and specific attributions for negative events",
+      "Internal, stable, and global attributions for negative events combined with external, unstable, and specific attributions for positive events",
+      "External, stable, and global attributions for positive events only",
+      "Internal, unstable, and specific attributions for both positive and negative events equally"
+    ],
+    "correctIndex": 1
+  }
+]

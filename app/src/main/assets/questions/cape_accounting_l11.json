@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A company has a gearing ratio of 60% and an interest cover of 2.5 times. If operating profit increases by 20%, what is the new interest cover, assuming interest charges remain constant?",
+    "options": [
+      "A. 3.0 times",
+      "B. 3.5 times",
+      "C. 4.0 times",
+      "D. 2.0 times"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Under IAS 36, when should an entity test goodwill acquired in a business combination for impairment?",
+    "options": [
+      "A. Only when there is an indication of impairment",
+      "B. Annually, regardless of whether there is any indication of impairment",
+      "C. Every five years regardless of indicators",
+      "D. Only when the subsidiary reports a loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company issues 10,000 convertible bonds at $100 each with a coupon rate of 5% per annum. The market rate for similar non-convertible bonds is 8%. Using the effective interest method, what is the initial carrying amount of the liability component? (PV annuity factor 8%, 5 years = 3.993; PV factor 8%, 5 years = 0.681)",
+    "options": [
+      "A. $880,350",
+      "B. $1,000,000",
+      "C. $760,650",
+      "D. $919,650"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the treatment of a revaluation surplus when a revalued asset is disposed of under IAS 16?",
+    "options": [
+      "A. The revaluation surplus is transferred to retained earnings and recognised in profit or loss",
+      "B. The revaluation surplus may be transferred directly to retained earnings but is NOT recognised in profit or loss",
+      "C. The revaluation surplus must remain in equity indefinitely",
+      "D. The revaluation surplus is reversed through other comprehensive income upon disposal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In preparing a consolidated statement of financial position, a parent acquired 75% of a subsidiary for $450,000 when the subsidiary's net assets were $500,000 and the fair value of the non-controlling interest was $140,000. Using the full goodwill method, what is the goodwill recognised?",
+    "options": [
+      "A. $90,000",
+      "B. $215,000",
+      "C. $140,000",
+      "D. $215,000 \u2013 NCI share of net assets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under IFRS 15, which of the following is the correct sequence for recognising revenue from contracts with customers?",
+    "options": [
+      "A. Identify contract, identify performance obligations, determine transaction price, allocate transaction price, recognise revenue",
+      "B. Determine transaction price, identify contract, identify performance obligations, allocate, recognise",
+      "C. Identify performance obligations, identify contract, determine price, allocate, recognise",
+      "D. Identify contract, determine transaction price, identify performance obligations, allocate, recognise"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has the following data: Sales $2,000,000; Variable costs 60% of sales; Fixed costs $500,000; Tax rate 30%. What is the degree of operating leverage (DOL) at the current sales level?",
+    "options": [
+      "A. 1.6 times",
+      "B. 2.67 times",
+      "C. 4.0 times",
+      "D. 1.33 times"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about deferred tax under IAS 12 is CORRECT?",
+    "options": [
+      "A. Deferred tax liabilities must always be discounted to present value",
+      "B. A deferred tax asset is recognised only to the extent that it is probable that future taxable profit will be available",
+      "C. Deferred tax is recognised on all temporary differences including those arising from initial recognition of goodwill",
+      "D. Deferred tax assets and liabilities may only be offset when they relate to the same tax authority and the entity has a legal right"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In activity-based costing, an overhead absorption rate is calculated per cost driver. A company has setup costs of $120,000 and 400 setups. Product X requires 60 setups and produces 1,200 units. What is the setup overhead cost per unit of Product X?",
+    "options": [
+      "A. $15.00",
+      "B. $18.00",
+      "C. $300.00",
+      "D. $6.00"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A partnership has the following profit-sharing arrangements: salary to Partner A of $30,000, interest on capital of 5% (A: $100,000; B: $80,000), and residual profits shared 3:2. Net profit for the year is $95,000. What is Partner B's total share of profit?",
+    "options": [
+      "A. $21,000",
+      "B. $25,000",
+      "C. $29,000",
+      "D. $33,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under IAS 37, a provision should be recognised when which of the following conditions are ALL met?",
+    "options": [
+      "A. A present obligation exists, an outflow of resources is possible, and the amount can be estimated",
+      "B. A present obligation exists, an outflow of resources is probable, and a reliable estimate can be made",
+      "C. A constructive obligation exists, an outflow of resources is certain, and the timing is known",
+      "D. A legal obligation exists, an outflow of resources is probable, and the amount is material"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company uses the Economic Order Quantity (EOQ) model. Annual demand is 36,000 units, ordering cost is $50 per order, and holding cost is $2 per unit per annum. What is the EOQ?",
+    "options": [
+      "A. 1,342 units",
+      "B. 1,500 units",
+      "C. 1,897 units",
+      "D. 950 units"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a hire purchase transaction, a buyer acquires an asset with a cash price of $80,000, paying a deposit of $20,000 and four annual instalments of $18,000. Using the sum-of-digits method for allocating finance charges, what is the finance charge allocated to Year 1?",
+    "options": [
+      "A. $8,000",
+      "B. $7,200",
+      "C. $9,600",
+      "D. $6,400"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a finance lease under IFRS 16?",
+    "options": [
+      "A. The lease transfers ownership of the asset to the lessee by the end of the lease term",
+      "B. The lessee has the option to purchase the asset at a price expected to be sufficiently lower than fair value",
+      "C. The present value of lease payments amounts to substantially all of the fair value of the asset",
+      "D. The lessor retains substantially all the risks and rewards incidental to ownership of the asset"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company is considering a project with an initial investment of $500,000. Expected net cash inflows are $150,000 per year for 5 years. The cost of capital is 10%. The NPV annuity factor at 10% for 5 years is 3.791 and at 15% is 3.352. What is the approximate IRR of the project?",
+    "options": [
+      "A. 12.4%",
+      "B. 14.0%",
+      "C. 15.6%",
+      "D. 10.8%"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A hexagonal prism is cut by an oblique plane. Which method is most appropriate for finding the true shape of the section?",
+    "options": [
+      "Auxiliary view projection",
+      "Rabatment method",
+      "Development by triangulation",
+      "Orthographic rotation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When drawing an involute of a circle with radius r, the tangent at any point is always:",
+    "options": [
+      "Parallel to the base circle",
+      "Perpendicular to the radius drawn to the point of tangency on the base circle",
+      "At 45\u00b0 to the base circle",
+      "Parallel to the generating line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A right cone with base diameter 80mm and height 100mm is cut by a plane parallel to the slant side. The resulting curve of intersection is a:",
+    "options": [
+      "Ellipse",
+      "Parabola",
+      "Hyperbola",
+      "Circle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first-angle orthographic projection, if the front view shows a rectangle and the plan view shows a circle, the object is most likely a:",
+    "options": [
+      "Rectangular prism",
+      "Cone",
+      "Cylinder",
+      "Hemisphere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The transition piece connecting a circular duct of diameter 60mm to a rectangular duct 80mm \u00d7 40mm is best developed using:",
+    "options": [
+      "Parallel line development",
+      "Radial line development",
+      "Triangulation development",
+      "Oblique projection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which conic section is produced when the cutting plane makes an angle with the base of a cone that is greater than the semi-vertical angle but less than 90\u00b0?",
+    "options": [
+      "Parabola",
+      "Circle",
+      "Ellipse",
+      "Hyperbola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When two cylinders of equal diameter intersect at right angles, the curve of intersection is:",
+    "options": [
+      "An ellipse",
+      "Two straight lines",
+      "A parabola",
+      "Two semi-ellipses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In isometric drawing, all measurements along the three isometric axes are drawn at what scale relative to true lengths?",
+    "options": [
+      "Reduced by a factor of cos 30\u00b0",
+      "Full scale (1:1)",
+      "Reduced by the isometric scale factor of 0.816",
+      "Enlarged by a factor of sin 45\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A helical spring of pitch 30mm and mean coil diameter 50mm is to be drawn. The helix is constructed by dividing both the:",
+    "options": [
+      "Circumference and the pitch into equal parts and projecting corresponding points",
+      "Diameter and the height into 12 equal parts only",
+      "Base circle into 6 parts and plotting at equal vertical intervals",
+      "Mean diameter and pitch into different number of parts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The development of the lateral surface of an oblique cone is best achieved by:",
+    "options": [
+      "Parallel line development",
+      "Radial line development using true lengths of all generators",
+      "Triangulation using the true lengths of triangle sides",
+      "Zone method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a cam and follower system, the displacement diagram for uniform acceleration and retardation produces a follower displacement curve that is:",
+    "options": [
+      "A straight line",
+      "A sine curve",
+      "A parabola",
+      "A cycloid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which auxiliary projection technique is used to find the true length of an oblique line that appears foreshortened in all principal views?",
+    "options": [
+      "Second auxiliary view perpendicular to the first auxiliary view",
+      "First auxiliary view with the projection plane parallel to the oblique line",
+      "Direct rotation of the oblique line into the frontal plane",
+      "Cabinet oblique projection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When constructing an Archimedean spiral, the relationship between the radius vector and the angle turned through is:",
+    "options": [
+      "Exponential",
+      "Logarithmic",
+      "Directly proportional (linear)",
+      "Inversely proportional"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A square pyramid with base 60mm \u00d7 60mm and height 80mm is interpenetrated by a horizontal square prism 30mm \u00d7 30mm passing centrally through it. The curve of intersection between them is found using:",
+    "options": [
+      "Cutting planes parallel to the base of the pyramid",
+      "Cutting planes perpendicular to the axis of the prism only",
+      "Auxiliary elevation views",
+      "Radial line development of the pyramid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In descriptive geometry, the shortest distance between two skew lines is found by drawing a line that is simultaneously:",
+    "options": [
+      "Parallel to both lines in the plan view",
+      "Perpendicular to both skew lines, found via auxiliary views showing one line as a point",
+      "Perpendicular to the frontal plane only",
+      "Tangent to both lines when viewed in elevation"
+    ],
+    "correctIndex": 1
+  }
+]

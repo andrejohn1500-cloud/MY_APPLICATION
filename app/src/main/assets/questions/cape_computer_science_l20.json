@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In the context of algorithm complexity, which notation provides the tightest upper bound that is also a lower bound, meaning it describes both the best and worst case simultaneously?",
+    "options": [
+      "Big-O notation",
+      "Big-Omega notation",
+      "Big-Theta notation",
+      "Little-o notation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A relational database table has 10,000 rows and a B-tree index is built on a column with high cardinality. Approximately how many disk accesses are needed to find a single record using the index, assuming each node holds 100 keys?",
+    "options": [
+      "10,000",
+      "100",
+      "3",
+      "50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes the difference between a process and a thread in an operating system?",
+    "options": [
+      "A thread has its own memory space while a process shares memory with others",
+      "A process has its own memory space while threads within the same process share memory",
+      "Threads cannot run concurrently on multi-core processors but processes can",
+      "A process is a subset of a thread in modern operating systems"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In TCP/IP networking, which layer is responsible for logical addressing and routing of packets across multiple networks?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Consider a binary search tree where the insertion order is 50, 30, 70, 20, 40, 60, 80. What is the height of this tree?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cryptographic principle ensures that a sender cannot deny having sent a message?",
+    "options": [
+      "Confidentiality",
+      "Integrity",
+      "Non-repudiation",
+      "Authentication"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of normalisation, a relation is in Boyce-Codd Normal Form (BCNF) if and only if for every non-trivial functional dependency X \u2192 Y:",
+    "options": [
+      "Y is a prime attribute",
+      "X is a superkey",
+      "X is a foreign key",
+      "Y is a non-prime attribute"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements about IPv6 compared to IPv4 is INCORRECT?",
+    "options": [
+      "IPv6 uses 128-bit addresses instead of 32-bit addresses",
+      "IPv6 eliminates the need for NAT due to its large address space",
+      "IPv6 includes built-in IPSec support as mandatory in the original specification",
+      "IPv6 uses a checksum field in its header for error detection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In object-oriented programming, which SOLID principle states that software entities should be open for extension but closed for modification?",
+    "options": [
+      "Single Responsibility Principle",
+      "Liskov Substitution Principle",
+      "Open/Closed Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A CPU uses pipelining with 5 stages. If one instruction takes 5 ns per stage, what is the throughput improvement for executing 100 instructions compared to a non-pipelined CPU?",
+    "options": [
+      "Approximately 5 times faster",
+      "Approximately 20 times faster",
+      "Approximately 100 times faster",
+      "No improvement; pipelining only reduces latency not throughput"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sorting algorithm has a worst-case time complexity of O(n log n) regardless of input data?",
+    "options": [
+      "Quick Sort",
+      "Insertion Sort",
+      "Heap Sort",
+      "Bubble Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a finite state machine (FSM) used for pattern recognition, what distinguishes a Mealy machine from a Moore machine?",
+    "options": [
+      "A Mealy machine has output dependent on both the current state and input, while a Moore machine output depends only on the current state",
+      "A Moore machine has output dependent on both state and input while a Mealy machine depends only on the current state",
+      "A Mealy machine cannot model regular languages while a Moore machine can",
+      "A Moore machine requires fewer states than a Mealy machine for the same task"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a correct characteristic of a deadlock in an operating system?",
+    "options": [
+      "At least one process must be in the running state",
+      "All four Coffman conditions must hold simultaneously: mutual exclusion, hold and wait, no preemption, and circular wait",
+      "Deadlocks can only occur with two processes competing for one resource",
+      "Deadlock can be resolved by simply terminating the operating system kernel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In public-key cryptography, if Alice wants to send an encrypted message to Bob that only Bob can read, which key does Alice use to encrypt the message?",
+    "options": [
+      "Alice's private key",
+      "Alice's public key",
+      "Bob's private key",
+      "Bob's public key"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the output of the following pseudocode?\nFUNCTION mystery(n)\n  IF n <= 1 THEN RETURN n\n  RETURN mystery(n-1) + mystery(n-2)\nEND FUNCTION\nOUTPUT mystery(7)",
+    "options": [
+      "13",
+      "21",
+      "8",
+      "34"
+    ],
+    "correctIndex": 0
+  }
+]

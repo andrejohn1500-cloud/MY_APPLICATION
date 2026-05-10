@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In the context of algorithm complexity, which notation provides an asymptotic upper bound on the growth rate of a function?",
+    "options": [
+      "Theta notation (\u0398)",
+      "Big-O notation (O)",
+      "Omega notation (\u03a9)",
+      "Little-o notation (o)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which normal form eliminates transitive dependencies among non-key attributes in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a binary tree, if the inorder traversal yields A, B, C, D, E and the preorder traversal yields B, A, D, C, E, what is the root of the tree?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which scheduling algorithm can lead to starvation of low-priority processes in an operating system?",
+    "options": [
+      "Round Robin",
+      "First Come First Served",
+      "Priority Scheduling",
+      "Shortest Job First (non-preemptive)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, which principle states that objects of a subclass should be substitutable for objects of the superclass without altering correctness?",
+    "options": [
+      "Open/Closed Principle",
+      "Dependency Inversion Principle",
+      "Liskov Substitution Principle",
+      "Interface Segregation Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A hash table uses linear probing for collision resolution. If the table has 10 slots and keys 14, 24, and 34 are inserted (hash function: key mod 10), which slot does 34 occupy?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic protocol uses asymmetric encryption to exchange a symmetric session key during the SSL/TLS handshake?",
+    "options": [
+      "AES",
+      "RSA",
+      "SHA-256",
+      "MD5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In SQL, which isolation level prevents dirty reads and non-repeatable reads but still allows phantom reads?",
+    "options": [
+      "Read Uncommitted",
+      "Read Committed",
+      "Repeatable Read",
+      "Serializable"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a network using CIDR notation, what is the number of usable host addresses in the subnet 192.168.10.0/26?",
+    "options": [
+      "30",
+      "62",
+      "126",
+      "254"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sorting algorithm has a best-case time complexity of O(n) when the input array is already sorted?",
+    "options": [
+      "Merge Sort",
+      "Heap Sort",
+      "Quick Sort",
+      "Insertion Sort"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the context of formal languages, which type of grammar in the Chomsky hierarchy generates context-free languages?",
+    "options": [
+      "Type 0",
+      "Type 1",
+      "Type 2",
+      "Type 3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which deadlock handling strategy allows deadlock to occur but recovers from it by terminating processes or preempting resources?",
+    "options": [
+      "Deadlock Prevention",
+      "Deadlock Avoidance",
+      "Deadlock Detection and Recovery",
+      "Banker's Algorithm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Boolean algebra, which expression is the simplified form of AB + A'B + AB'?",
+    "options": [
+      "A + B",
+      "A'B'",
+      "AB",
+      "A XOR B"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which data structure is most appropriate for implementing a compiler's syntax analysis phase to evaluate arithmetic expressions respecting operator precedence?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Search Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the software development life cycle, which testing technique derives test cases from the internal structure and logic of the source code?",
+    "options": [
+      "Black-box testing",
+      "Regression testing",
+      "White-box testing",
+      "Acceptance testing"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which biogeochemical cycle is most directly disrupted by the combustion of fossil fuels, leading to ocean acidification?",
+    "options": [
+      "A. The nitrogen cycle",
+      "B. The phosphorus cycle",
+      "C. The carbon cycle",
+      "D. The sulfur cycle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a terrestrial ecosystem, which trophic level contains the greatest amount of biomass under normal pyramid of biomass conditions?",
+    "options": [
+      "A. Primary consumers",
+      "B. Secondary consumers",
+      "C. Producers",
+      "D. Tertiary consumers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Montreal Protocol was specifically designed to address which environmental threat?",
+    "options": [
+      "A. Global warming caused by carbon dioxide emissions",
+      "B. Depletion of stratospheric ozone by chlorofluorocarbons",
+      "C. Acid rain caused by sulfur dioxide emissions",
+      "D. Marine pollution from oil spills"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which process in the nitrogen cycle converts nitrates back into atmospheric nitrogen gas?",
+    "options": [
+      "A. Nitrification",
+      "B. Ammonification",
+      "C. Nitrogen fixation",
+      "D. Denitrification"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A population exhibiting a J-shaped growth curve is best described as experiencing which type of growth?",
+    "options": [
+      "A. Logistic growth approaching carrying capacity",
+      "B. Exponential growth with no limiting factors",
+      "C. Declining growth due to predation",
+      "D. Oscillating growth around an equilibrium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why DDT accumulates to lethal concentrations in apex predators through a process called biomagnification?",
+    "options": [
+      "A. DDT is water-soluble and concentrates in body fluids at higher trophic levels",
+      "B. DDT is lipid-soluble and is stored in fatty tissues, concentrating with each trophic transfer",
+      "C. DDT binds to DNA and replicates within organisms at higher trophic levels",
+      "D. DDT is produced de novo by organisms at higher trophic levels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of ENSO, which atmospheric and oceanic condition characterizes a La Ni\u00f1a event in the Pacific Ocean?",
+    "options": [
+      "A. Weakened trade winds and warm surface waters in the central and eastern Pacific",
+      "B. Strengthened trade winds and cooler than average sea surface temperatures in the eastern Pacific",
+      "C. Reversal of the Walker circulation and flooding in coastal Peru",
+      "D. Increased upwelling of warm water along the South American coast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil horizon is characterized by the accumulation of minerals and organic matter leached from layers above it?",
+    "options": [
+      "A. O horizon",
+      "B. A horizon",
+      "C. B horizon",
+      "D. C horizon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'ecological footprint' measures which of the following?",
+    "options": [
+      "A. The total number of species in a given habitat",
+      "B. The biologically productive area required to sustain a population's resource use and absorb its waste",
+      "C. The rate of carbon dioxide emissions per capita in a country",
+      "D. The percentage of land converted to agricultural use"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement most accurately describes the difference between point source and non-point source water pollution?",
+    "options": [
+      "A. Point source pollution originates from multiple diffuse areas while non-point source comes from a single identifiable location",
+      "B. Point source pollution originates from a single identifiable location while non-point source comes from diffuse, widespread areas",
+      "C. Point source pollution only affects freshwater ecosystems while non-point source only affects marine ecosystems",
+      "D. Point source pollution is always natural while non-point source is always anthropogenic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the role of keystone species in an ecosystem?",
+    "options": [
+      "A. A species that is the most abundant in an ecosystem and dominates biomass",
+      "B. A species whose impact on the ecosystem is disproportionately large relative to its abundance",
+      "C. A species that occupies the highest trophic level in a food web",
+      "D. A species that is endemic to a specific geographic region"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In environmental impact assessment, what does the term 'mitigation hierarchy' refer to?",
+    "options": [
+      "A. The legal ranking of different environmental laws from most to least enforceable",
+      "B. A sequential approach prioritizing avoidance, minimization, remediation, and offsetting of environmental impacts",
+      "C. The classification of ecosystems by their sensitivity to human disturbance",
+      "D. The order in which government agencies review environmental impact statements"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Eutrophication in aquatic ecosystems primarily leads to hypoxic conditions through which sequence of events?",
+    "options": [
+      "A. Nutrient enrichment \u2192 algal bloom \u2192 algal decomposition by bacteria \u2192 oxygen depletion",
+      "B. Nutrient depletion \u2192 reduced photosynthesis \u2192 increased respiration \u2192 oxygen surplus",
+      "C. Thermal stratification \u2192 sediment disturbance \u2192 toxin release \u2192 fish death",
+      "D. Increased salinity \u2192 osmotic stress on algae \u2192 reduced plant growth \u2192 anoxia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following renewable energy technologies has the highest capacity factor under optimal conditions, making it most reliable for baseload power generation?",
+    "options": [
+      "A. Photovoltaic solar panels",
+      "B. Onshore wind turbines",
+      "C. Geothermal power plants",
+      "D. Tidal stream generators"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of island biogeography theory, which combination of island characteristics would support the greatest species richness at equilibrium?",
+    "options": [
+      "A. Small island located far from the mainland",
+      "B. Large island located far from the mainland",
+      "C. Large island located close to the mainland",
+      "D. Small island located close to the mainland"
+    ],
+    "correctIndex": 2
+  }
+]

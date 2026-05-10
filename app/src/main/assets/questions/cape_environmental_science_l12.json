@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the concept of ecological stoichiometry in nutrient cycling?",
+    "options": [
+      "The study of how the ratio of elements like carbon, nitrogen, and phosphorus affects ecosystem processes and organism fitness",
+      "The measurement of total biomass production per unit area per year",
+      "The process by which decomposers break down organic matter into inorganic nutrients",
+      "The transfer of energy between trophic levels in a food web"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A catchment area receives 1200 mm of rainfall annually. If evapotranspiration accounts for 65% and surface runoff accounts for 20%, what is the approximate volume of water entering groundwater storage per hectare per year?",
+    "options": [
+      "1800 m\u00b3",
+      "1200 m\u00b3",
+      "500 m\u00b3",
+      "780 m\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of the IPCC climate sensitivity parameter, a doubling of atmospheric CO\u2082 concentration from pre-industrial levels is estimated to produce a global mean temperature increase of approximately:",
+    "options": [
+      "1.0\u20131.5\u00b0C",
+      "1.5\u20134.5\u00b0C",
+      "5.0\u20137.0\u00b0C",
+      "0.5\u20131.0\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which mechanism is primarily responsible for the formation of photochemical smog in urban environments?",
+    "options": [
+      "Sulfur dioxide reacting with water vapour to form sulfuric acid aerosols",
+      "Nitrogen oxides and volatile organic compounds reacting under UV radiation to produce tropospheric ozone",
+      "Carbon monoxide binding to haemoglobin reducing oxygen transport",
+      "Particulate matter PM2.5 scattering solar radiation and reducing visibility"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Montreal Protocol was specifically designed to address which environmental problem, and through what primary mechanism?",
+    "options": [
+      "Acid rain, by limiting sulfur dioxide emissions from coal-fired power stations",
+      "Stratospheric ozone depletion, by phasing out the production and use of chlorofluorocarbons and other ozone-depleting substances",
+      "Marine pollution, by restricting the dumping of persistent organic pollutants at sea",
+      "Tropical deforestation, by establishing carbon credit systems for forest conservation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly ranks soil horizons from the surface downward in a mature temperate forest soil profile?",
+    "options": [
+      "O \u2192 A \u2192 E \u2192 B \u2192 C \u2192 R",
+      "A \u2192 O \u2192 B \u2192 E \u2192 C \u2192 R",
+      "E \u2192 O \u2192 A \u2192 B \u2192 C \u2192 R",
+      "O \u2192 E \u2192 A \u2192 B \u2192 C \u2192 R"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a Caribbean coastal mangrove ecosystem, which biogeochemical process carried out by anaerobic bacteria under waterlogged sediment conditions produces hydrogen sulfide as a by-product?",
+    "options": [
+      "Nitrification",
+      "Denitrification",
+      "Sulfate reduction",
+      "Methanogenesis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'planetary boundaries' proposed by Rockstr\u00f6m et al. identifies nine Earth-system processes. Which of the following boundaries had already been transgressed into the high-risk zone as of the most recent assessments?",
+    "options": [
+      "Ocean acidification and stratospheric ozone depletion",
+      "Biosphere integrity loss, biogeochemical flows disruption, and climate change",
+      "Freshwater use and atmospheric aerosol loading",
+      "Novel entities and land-system change only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under the UNFCCC framework, Nationally Determined Contributions (NDCs) differ from the Kyoto Protocol's approach primarily because:",
+    "options": [
+      "NDCs are legally binding emission reduction targets enforced by international courts",
+      "NDCs allow each country to self-determine its own mitigation commitments rather than having targets assigned by international negotiation",
+      "NDCs apply only to developed Annex I nations unlike the Kyoto Protocol which covered all signatories",
+      "NDCs focus exclusively on adaptation measures rather than mitigation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the difference between first-order and second-order kinetics in the context of pollutant degradation in the environment?",
+    "options": [
+      "First-order degradation rate depends on the square of the pollutant concentration, while second-order depends linearly on concentration",
+      "First-order degradation rate is proportional to the pollutant concentration, giving a constant half-life, while second-order rate depends on the product of two reactant concentrations",
+      "First-order kinetics applies only to biological degradation, while second-order applies only to photolytic breakdown",
+      "First-order processes are faster than second-order processes regardless of concentration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Bioaccumulation differs from biomagnification in that:",
+    "options": [
+      "Bioaccumulation refers to the increase in contaminant concentration across successive trophic levels, while biomagnification refers to accumulation within a single organism over its lifetime",
+      "Biomagnification refers to the increase in contaminant concentration across successive trophic levels, while bioaccumulation refers to the net accumulation within an individual organism exceeding the rate of elimination",
+      "Bioaccumulation applies only to heavy metals, while biomagnification applies only to persistent organic pollutants",
+      "Biomagnification occurs only in aquatic systems, while bioaccumulation occurs only in terrestrial systems"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Integrated Coastal Zone Management (ICZM) approach is considered superior to single-sector coastal management primarily because:",
+    "options": [
+      "It focuses exclusively on economic exploitation of coastal resources to maximise GDP contribution",
+      "It coordinates across administrative boundaries and stakeholder groups addressing the interconnected social, ecological, and economic dimensions of coastal systems simultaneously",
+      "It replaces all existing environmental legislation with a single unified coastal law",
+      "It prioritises hard engineering structures such as seawalls over ecosystem-based adaptation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In life cycle assessment (LCA), the 'functional unit' serves what specific purpose?",
+    "options": [
+      "It identifies the geographic boundary within which environmental impacts are assessed",
+      "It provides a quantified reference basis against which all inputs and outputs of a product system are normalised, enabling meaningful comparisons between alternative systems",
+      "It categorises the types of environmental impact categories to be evaluated in the impact assessment phase",
+      "It defines the cut-off criteria for excluding minor material and energy flows from the inventory analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which combination of factors most accurately explains the disproportionate vulnerability of Small Island Developing States (SIDS) such as those in the Caribbean to climate change impacts?",
+    "options": [
+      "High elevation, dense forest cover, and proximity to cold ocean currents providing natural buffering",
+      "Low adaptive capacity due to economic dependence on climate-sensitive sectors, limited land area, exposure to sea-level rise and intensified hurricanes, and constrained financial resources",
+      "Large population size creating high per capita emissions and consequent feedback warming effects",
+      "Strong institutional capacity but insufficient international climate finance due to middle-income status"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Environmental Kuznets Curve (EKC) hypothesis proposes a relationship between economic development and environmental degradation. Which statement most accurately critiques this hypothesis?",
+    "options": [
+      "The EKC is universally supported by empirical data across all pollutants and all countries confirming that growth always leads to environmental improvement",
+      "While the EKC relationship holds for some local pollutants like sulfur dioxide in certain contexts, it does not reliably hold for global pollutants like CO\u2082, and the turning point may occur at income levels beyond the reach of developing nations",
+      "The EKC demonstrates that environmental degradation increases monotonically with GDP per capita with no eventual improvement",
+      "The EKC applies only to biodiversity loss and has no relevance to atmospheric pollution indicators"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "options": [
+      "A. 12",
+      "B. 6",
+      "C. 4",
+      "D. 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a queuing system with Poisson arrivals at rate \u03bb = 4 per hour and exponential service times with rate \u03bc = 6 per hour, what is the average number of customers in the system (L)?",
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. 4/3",
+      "D. 2/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A linear programming problem has objective function Z = 5x + 4y subject to constraints 6x + 4y \u2264 24, x + 2y \u2264 6, x \u2265 0, y \u2265 0. What is the maximum value of Z?",
+    "options": [
+      "A. 21",
+      "B. 24",
+      "C. 20",
+      "D. 18"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5, and P(A \u222a B) = 0.7. What is P(A | B)?",
+    "options": [
+      "A. 0.4",
+      "B. 0.5",
+      "C. 0.6",
+      "D. 0.3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The random variable X follows a Poisson distribution with mean \u03bb. If P(X = 0) = e\u207b\u00b3, find P(X \u2265 2).",
+    "options": [
+      "A. 1 - 4e\u207b\u00b3",
+      "B. 1 - 3e\u207b\u00b3",
+      "C. 1 - e\u207b\u00b3 - 3e\u207b\u00b3",
+      "D. e\u207b\u00b3 + 3e\u207b\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sample of size n = 100 is drawn from a population with unknown mean \u03bc and known variance \u03c3\u00b2 = 25. The sample mean is 47.2. What is the 95% confidence interval for \u03bc?",
+    "options": [
+      "A. (46.22, 48.18)",
+      "B. (45.84, 48.56)",
+      "C. (46.50, 47.90)",
+      "D. (45.22, 49.18)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "For a transportation problem, the initial basic feasible solution obtained by Vogel's Approximation Method is being tested for optimality using the MODI method. An entering variable is identified when its opportunity cost is:",
+    "options": [
+      "A. Negative",
+      "B. Positive",
+      "C. Zero",
+      "D. Greater than the largest basic variable cost"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability generating function of a discrete random variable X is G(t) = (0.3 + 0.7t)\u2075. What is the variance of X?",
+    "options": [
+      "A. 1.05",
+      "B. 2.45",
+      "C. 3.50",
+      "D. 0.21"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A hypothesis test is conducted at the 5% significance level. The test statistic is z = 2.10 for a two-tailed test. Which conclusion is correct?",
+    "options": [
+      "A. Reject H\u2080 since |z| = 2.10 > 1.96",
+      "B. Fail to reject H\u2080 since z = 2.10 < 2.33",
+      "C. Reject H\u2080 since z = 2.10 > 1.645",
+      "D. Fail to reject H\u2080 since z = 2.10 < 2.576"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle moves along a straight line with velocity v = 3t\u00b2 - 12t + 9 m/s. What is the total distance travelled by the particle from t = 0 to t = 3 seconds?",
+    "options": [
+      "A. 10 m",
+      "B. 9 m",
+      "C. 6 m",
+      "D. 12 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a network analysis problem, the critical path has a total duration of 28 days with a variance of 9 days\u00b2. What is the probability that the project will be completed within 31 days?",
+    "options": [
+      "A. 0.8413",
+      "B. 0.9772",
+      "C. 0.9332",
+      "D. 0.8944"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A force of magnitude 10 N acts at an angle of 30\u00b0 above the horizontal on a block of mass 5 kg on a rough horizontal surface with coefficient of friction \u03bc = 0.3. What is the acceleration of the block? (g = 10 m/s\u00b2)",
+    "options": [
+      "A. (10cos30\u00b0 - 0.3(50 - 10sin30\u00b0))/5",
+      "B. (10cos30\u00b0 - 0.3 \u00d7 50)/5",
+      "C. (10 - 0.3 \u00d7 50)/5",
+      "D. (10cos30\u00b0 + 0.3(50 + 10sin30\u00b0))/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If X ~ N(\u03bc, \u03c3\u00b2) and a sample of size 36 is taken, the standard error of the mean is 2. If the population mean is 50 and the sample mean is 54, what is the value of the test statistic z?",
+    "options": [
+      "A. 2",
+      "B. 4",
+      "C. 1",
+      "D. 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The correlation coefficient between two variables X and Y is r = 0.85. What percentage of variation in Y is explained by X?",
+    "options": [
+      "A. 72.25%",
+      "B. 85%",
+      "C. 42.5%",
+      "D. 92.2%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A committee of 4 is to be chosen from 6 men and 5 women. What is the probability that the committee contains at least 2 women?",
+    "options": [
+      "A. 50/99",
+      "B. 45/99",
+      "C. 60/99",
+      "D. 40/99"
+    ],
+    "correctIndex": 0
+  }
+]

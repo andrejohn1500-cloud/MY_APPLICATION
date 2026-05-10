@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which type of line is used to represent hidden edges in orthographic projection?",
+    "options": [
+      "A continuous thin line",
+      "A dashed thin line",
+      "A chain thin line",
+      "A continuous thick line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In first angle orthographic projection, where is the front view placed relative to the plan view?",
+    "options": [
+      "Above the plan view",
+      "Below the plan view",
+      "To the right of the plan view",
+      "To the left of the plan view"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the included angle of a standard metric thread?",
+    "options": [
+      "55 degrees",
+      "45 degrees",
+      "60 degrees",
+      "75 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which scale would be used to draw an object twice its actual size?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "1:4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When constructing an ellipse using the concentric circle method, the ellipse is inscribed within two circles where the diameters represent which dimensions?",
+    "options": [
+      "The radius and diameter of the ellipse",
+      "The major and minor axes of the ellipse",
+      "The perimeter and area of the ellipse",
+      "The focal points and directrix of the ellipse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the abbreviation 'R' followed by a number indicate on an engineering drawing?",
+    "options": [
+      "The diameter of a circle",
+      "The radius of an arc or circle",
+      "The length of a rectangle",
+      "The ratio of a scale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In isometric drawing, the three axes are drawn at what angles to the horizontal?",
+    "options": [
+      "30 degrees, 60 degrees, and 90 degrees",
+      "30 degrees, 30 degrees, and 90 degrees",
+      "45 degrees, 45 degrees, and 90 degrees",
+      "60 degrees, 60 degrees, and 90 degrees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of projection shows the true shape of all faces of an object by unfolding them into a single plane?",
+    "options": [
+      "Isometric projection",
+      "Oblique projection",
+      "Orthographic projection",
+      "Development drawing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A chamfer on a bolt is best described as?",
+    "options": [
+      "A threaded section at the end of the bolt",
+      "A tapered or bevelled edge at the end of the bolt",
+      "A hexagonal head on the bolt",
+      "A washer fitted under the bolt head"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which geometric construction method is used to bisect a given straight line?",
+    "options": [
+      "Drawing arcs from each endpoint with equal radii greater than half the line length and connecting the intersection points",
+      "Drawing a perpendicular from one endpoint only",
+      "Measuring the midpoint with a ruler and marking it",
+      "Extending the line and dividing it into equal segments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In third angle orthographic projection, where is the right side view positioned?",
+    "options": [
+      "To the left of the front view",
+      "To the right of the front view",
+      "Above the front view",
+      "Below the front view"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a section view in technical drawing?",
+    "options": [
+      "To show the external shape of an object from multiple angles",
+      "To reveal internal features of an object by cutting through it",
+      "To provide an enlarged detail of a small area",
+      "To show the object in a pictorial three-dimensional form"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which conic section is produced when a plane cuts a cone parallel to one of its slant sides?",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of fit exists when there is always a clearance between a shaft and a hole?",
+    "options": [
+      "Interference fit",
+      "Transition fit",
+      "Clearance fit",
+      "Force fit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When drawing a helix, which two measurements are essential to define it?",
+    "options": [
+      "The diameter and the pitch",
+      "The length and the thread angle",
+      "The circumference and the included angle",
+      "The radius and the thread depth"
+    ],
+    "correctIndex": 0
+  }
+]

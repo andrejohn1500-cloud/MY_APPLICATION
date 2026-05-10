@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle undergoes simple harmonic motion with amplitude A and angular frequency \u03c9. What is the magnitude of the particle's acceleration when its displacement is A/2?",
+    "options": [
+      "\u03c9\u00b2A/4",
+      "\u03c9\u00b2A/2",
+      "\u03c9A/2",
+      "\u03c9\u00b2A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two conducting spheres of radii r and 2r are connected by a long conducting wire after being charged. Which statement correctly describes the final charge distribution?",
+    "options": [
+      "The larger sphere has twice the surface charge density of the smaller sphere",
+      "The smaller sphere has twice the surface charge density of the larger sphere",
+      "Both spheres have equal surface charge densities",
+      "Both spheres have equal total charges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A photon of wavelength 200 nm strikes a metal surface with work function 4.5 eV. What is the maximum kinetic energy of the emitted photoelectron? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, c = 3 \u00d7 10\u2078 m/s, 1 eV = 1.6 \u00d7 10\u207b\u00b9\u2079 J)",
+    "options": [
+      "1.72 eV",
+      "2.55 eV",
+      "6.22 eV",
+      "4.50 eV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a Young's double-slit experiment, the slit separation is doubled and the distance to the screen is halved. How does the fringe spacing change?",
+    "options": [
+      "Increases by a factor of 4",
+      "Decreases by a factor of 4",
+      "Remains the same",
+      "Decreases by a factor of 2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A transformer has 500 turns on the primary and 2000 turns on the secondary. If the primary current is 8 A and the transformer is ideal, what is the secondary current?",
+    "options": [
+      "32 A",
+      "2 A",
+      "4 A",
+      "0.5 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gas expands isothermally at 300 K, doubling its volume. What is the change in internal energy of an ideal gas during this process?",
+    "options": [
+      "Q = nRT ln 2",
+      "Zero",
+      "\u2212nRT ln 2",
+      "nRT"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An electron moves with velocity 3 \u00d7 10\u2076 m/s perpendicular to a magnetic field of 0.02 T. What is the radius of the circular path? (mass of electron = 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, charge = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "options": [
+      "8.54 mm",
+      "0.854 mm",
+      "85.4 cm",
+      "0.0854 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the relationship between the de Broglie wavelength \u03bb and the kinetic energy Ek of a particle of mass m?",
+    "options": [
+      "\u03bb = h/\u221a(2mEk)",
+      "\u03bb = h\u221a(2mEk)",
+      "\u03bb = \u221a(2mEk)/h",
+      "\u03bb = h/(2mEk)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A radioactive isotope has a half-life of 6 hours. What fraction of the original sample remains after 24 hours?",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/4",
+      "1/32"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A capacitor of capacitance C is connected in series with a resistor R. If the time constant is \u03c4, which expression gives the charge on the capacitor as a function of time t during charging from a battery of EMF \u03b5?",
+    "options": [
+      "Q = C\u03b5(1 \u2212 e^(\u2212t/RC))",
+      "Q = C\u03b5\u00b7e^(\u2212t/RC)",
+      "Q = (\u03b5/R)e^(\u2212t/RC)",
+      "Q = C\u03b5(e^(t/RC) \u2212 1)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The binding energy per nucleon of helium-4 is approximately 7.1 MeV. What is the total binding energy of a helium-4 nucleus?",
+    "options": [
+      "14.2 MeV",
+      "28.4 MeV",
+      "7.1 MeV",
+      "21.3 MeV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A standing wave is set up in a pipe closed at one end and open at the other. If the length of the pipe is L, what is the wavelength of the fundamental mode?",
+    "options": [
+      "4L",
+      "2L",
+      "L",
+      "L/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A satellite orbits Earth at a height h above the surface. If the radius of Earth is R and surface gravitational field strength is g, what is the orbital speed of the satellite?",
+    "options": [
+      "v = \u221a(gR\u00b2/(R+h))",
+      "v = \u221a(g(R+h))",
+      "v = \u221a(gR)",
+      "v = \u221a(gR/(R+h))"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When monochromatic light passes from a medium of refractive index n\u2081 into a medium of refractive index n\u2082 > n\u2081, which of the following quantities does NOT change?",
+    "options": [
+      "Frequency",
+      "Wavelength",
+      "Speed",
+      "All three change"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A p-n junction diode is forward biased. Which of the following best describes what happens to the depletion region and the potential barrier?",
+    "options": [
+      "Depletion region widens and potential barrier increases",
+      "Depletion region narrows and potential barrier decreases",
+      "Depletion region narrows and potential barrier increases",
+      "Depletion region widens and potential barrier decreases"
+    ],
+    "correctIndex": 1
+  }
+]

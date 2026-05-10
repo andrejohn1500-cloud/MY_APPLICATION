@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which hormone is primarily responsible for initiating parturition in cattle by causing luteolysis of the corpus luteum?",
+    "options": [
+      "Oxytocin",
+      "Prostaglandin F2\u03b1",
+      "Progesterone",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a dihybrid cross between two heterozygous parents (AaBb \u00d7 AaBb), what proportion of the offspring would be expected to exhibit both dominant phenotypes?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "12/16"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which soil horizon is characterized by the accumulation of illuviated clay, iron, and aluminum oxides, often forming a hardpan that restricts root penetration?",
+    "options": [
+      "A horizon",
+      "B horizon",
+      "C horizon",
+      "O horizon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The cation exchange capacity (CEC) of a soil is primarily determined by the presence of which soil components?",
+    "options": [
+      "Sand particles and gravel",
+      "Clay minerals and organic matter",
+      "Silt particles and calcium carbonate",
+      "Iron oxides and quartz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which metabolic pathway is exclusively responsible for the fixation of atmospheric nitrogen into ammonia by free-living soil bacteria such as Azotobacter?",
+    "options": [
+      "Nitrification pathway",
+      "Denitrification pathway",
+      "Nitrogen fixation via nitrogenase enzyme complex",
+      "Ammonification pathway"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In ruminant digestion, which volatile fatty acid produced in the rumen is the primary precursor for glucose synthesis via gluconeogenesis in the liver?",
+    "options": [
+      "Acetic acid",
+      "Propionic acid",
+      "Butyric acid",
+      "Lactic acid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of applying a systemic fungicide such as triazole to crop plants, and how does it achieve its effect?",
+    "options": [
+      "It forms a physical barrier on the leaf surface preventing spore germination",
+      "It inhibits ergosterol biosynthesis in the fungal cell membrane, disrupting membrane integrity",
+      "It stimulates the plant's systemic acquired resistance through salicylic acid pathways",
+      "It destroys fungal spores by oxidizing their cell walls upon contact"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which breeding method involves the crossing of two inbred lines to exploit heterosis, commonly used in commercial maize production?",
+    "options": [
+      "Mass selection",
+      "Backcross breeding",
+      "Single cross hybridization",
+      "Recurrent selection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The pH of a soil solution directly affects nutrient availability. At which pH range is phosphorus most available to plant roots in mineral soils?",
+    "options": [
+      "Below 5.0",
+      "5.5 to 7.0",
+      "7.5 to 8.5",
+      "Above 9.0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In integrated pest management (IPM), the economic threshold (ET) is best defined as which of the following?",
+    "options": [
+      "The pest population level at which the crop yield loss equals zero",
+      "The pest population density at which control measures must be applied to prevent economic injury",
+      "The maximum pest density a crop can sustain without any visible damage",
+      "The density at which natural enemies provide complete biological control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which physiological process in plants is responsible for the loss of approximately 97-99% of water absorbed by roots, and occurs primarily through stomata?",
+    "options": [
+      "Guttation",
+      "Transpiration",
+      "Osmosis",
+      "Plasmolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In animal nutrition, which of the following amino acids is classified as conditionally essential for growing piglets under stress conditions and is a precursor for nitric oxide synthesis?",
+    "options": [
+      "Lysine",
+      "Methionine",
+      "Arginine",
+      "Threonine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of soil erosion is characterized by the removal of a relatively uniform thin layer of soil from a large area, often undetected until significant topsoil loss has occurred?",
+    "options": [
+      "Rill erosion",
+      "Gully erosion",
+      "Sheet erosion",
+      "Splash erosion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The F2 generation of a monohybrid cross between a black-feathered chicken (BB) and a white-feathered chicken (bb) produces offspring in a 1:2:1 ratio of BB:Bb:bb. If feather color shows incomplete dominance, what phenotypic ratio would be observed in F2?",
+    "options": [
+      "3 black : 1 white",
+      "1 black : 2 grey : 1 white",
+      "1 black : 1 white",
+      "All offspring grey"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which post-harvest technology uses a controlled atmosphere with elevated CO2 and reduced O2 levels to extend the shelf life of climacteric fruits by inhibiting ethylene-mediated ripening?",
+    "options": [
+      "Blanching",
+      "Controlled atmosphere storage",
+      "Irradiation",
+      "Vacuum packaging"
+    ],
+    "correctIndex": 1
+  }
+]

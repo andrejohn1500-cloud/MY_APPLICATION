@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A particle moves in a circle of radius 0.5 m with a constant speed of 4 m/s. What is the magnitude of the centripetal acceleration of the particle?",
+    "options": [
+      "8 m/s\u00b2",
+      "16 m/s\u00b2",
+      "32 m/s\u00b2",
+      "2 m/s\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A photon has a wavelength of 4.0 \u00d7 10\u207b\u2077 m. Given that Planck's constant h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s and the speed of light c = 3.0 \u00d7 10\u2078 m/s, what is the energy of the photon?",
+    "options": [
+      "4.97 \u00d7 10\u207b\u00b9\u2079 J",
+      "3.32 \u00d7 10\u207b\u00b9\u2079 J",
+      "1.66 \u00d7 10\u207b\u00b9\u2079 J",
+      "9.94 \u00d7 10\u207b\u00b9\u2079 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two long parallel wires carry currents of 3 A and 5 A in the same direction and are separated by 0.2 m. Using \u03bc\u2080 = 4\u03c0 \u00d7 10\u207b\u2077 T m/A, what is the force per unit length between the wires?",
+    "options": [
+      "1.5 \u00d7 10\u207b\u2075 N/m attractive",
+      "7.5 \u00d7 10\u207b\u2076 N/m repulsive",
+      "1.5 \u00d7 10\u207b\u2075 N/m repulsive",
+      "7.5 \u00d7 10\u207b\u2076 N/m attractive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal gas undergoes an isothermal expansion. Which of the following statements is correct?",
+    "options": [
+      "The internal energy increases and work is done by the gas",
+      "The internal energy remains constant and work is done by the gas",
+      "The internal energy decreases and work is done on the gas",
+      "The internal energy remains constant and no net work is done"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the photoelectric effect, which of the following changes would increase the maximum kinetic energy of emitted photoelectrons?",
+    "options": [
+      "Increasing the intensity of the incident light",
+      "Decreasing the frequency of the incident light",
+      "Increasing the frequency of the incident light",
+      "Increasing the surface area of the metal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A standing wave is formed on a string of length 1.2 m fixed at both ends. If the wave speed in the string is 240 m/s, what is the frequency of the third harmonic?",
+    "options": [
+      "100 Hz",
+      "200 Hz",
+      "300 Hz",
+      "400 Hz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A capacitor of capacitance 100 \u03bcF is charged to a potential difference of 12 V. What is the energy stored in the capacitor?",
+    "options": [
+      "7.2 \u00d7 10\u207b\u00b3 J",
+      "1.44 \u00d7 10\u207b\u00b2 J",
+      "3.6 \u00d7 10\u207b\u00b3 J",
+      "1.2 \u00d7 10\u207b\u00b2 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which nuclear equation correctly represents alpha decay of Uranium-238 (\u00b2\u00b3\u2078\u2089\u2082U)?",
+    "options": [
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2080Th + \u2074\u2082He",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2077\u2089\u2081Pa + \u00b9\u2081H",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2082U + \u2074\u2080n",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2078\u2089\u2083Np + \u2070\u208b\u2081e"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An object of mass 2 kg is connected to a spring of spring constant 50 N/m and undergoes simple harmonic motion. What is the period of oscillation?",
+    "options": [
+      "0.63 s",
+      "1.26 s",
+      "2.51 s",
+      "0.32 s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A ray of light travels from glass (refractive index 1.5) into air. What is the critical angle for total internal reflection?",
+    "options": [
+      "41.8\u00b0",
+      "33.6\u00b0",
+      "48.2\u00b0",
+      "56.4\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a transformer, the primary coil has 500 turns and the secondary coil has 2000 turns. If the primary is connected to a 120 V AC supply, what is the secondary voltage, and what type of transformer is this?",
+    "options": [
+      "480 V; step-up transformer",
+      "30 V; step-down transformer",
+      "480 V; step-down transformer",
+      "30 V; step-up transformer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A proton (charge +e, mass m\u209a) enters a uniform magnetic field B perpendicularly with velocity v. What is the radius of its circular path?",
+    "options": [
+      "r = m\u209av / (eB)",
+      "r = eB / (m\u209av)",
+      "r = m\u209aeB / v",
+      "r = v / (m\u209aeB)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the first law of thermodynamics, if 500 J of heat is added to a system and the system does 200 J of work on its surroundings, what is the change in internal energy of the system?",
+    "options": [
+      "700 J",
+      "300 J",
+      "\u2212300 J",
+      "\u2212700 J"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two coherent light sources separated by 0.5 mm produce an interference pattern on a screen 2.0 m away. If the fringe spacing is 2.4 mm, what is the wavelength of the light used?",
+    "options": [
+      "400 nm",
+      "600 nm",
+      "480 nm",
+      "720 nm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An electron makes a transition from the n = 4 energy level to the n = 2 energy level in a hydrogen atom. If the ground state energy is \u221213.6 eV, what is the energy of the emitted photon?",
+    "options": [
+      "2.55 eV",
+      "0.85 eV",
+      "3.40 eV",
+      "12.75 eV"
+    ],
+    "correctIndex": 0
+  }
+]

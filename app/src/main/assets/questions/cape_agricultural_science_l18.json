@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following best describes the process of nitrogen fixation in leguminous plants?",
+    "options": [
+      "Conversion of nitrates to atmospheric nitrogen by denitrifying bacteria in root nodules",
+      "Conversion of atmospheric nitrogen to ammonia by Rhizobium bacteria in root nodules",
+      "Absorption of nitrates from soil by root hairs and conversion to amino acids",
+      "Conversion of ammonium ions to nitrites by Nitrosomonas bacteria in root nodules"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A farmer applies 200 kg/ha of a 15:15:15 NPK fertilizer to a crop. How many kilograms of elemental nitrogen per hectare are being applied?",
+    "options": [
+      "15 kg/ha",
+      "30 kg/ha",
+      "45 kg/ha",
+      "60 kg/ha"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which soil structure type is considered most ideal for crop production due to its balance of pore space, water retention, and aeration?",
+    "options": [
+      "Platy",
+      "Columnar",
+      "Granular",
+      "Massive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plant breeding, a testcross is performed primarily to determine the",
+    "options": [
+      "phenotypic ratio of F2 offspring",
+      "genotype of an individual showing a dominant phenotype",
+      "heritability index of a quantitative trait",
+      "polyploidy level of a hybrid organism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following hormones is primarily responsible for stimulating milk letdown in dairy cattle?",
+    "options": [
+      "Prolactin",
+      "Estrogen",
+      "Oxytocin",
+      "Progesterone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The coefficient of variation (CV) in an agricultural experiment is used to",
+    "options": [
+      "measure the average yield across treatments",
+      "assess the relative variability of experimental data",
+      "determine the correlation between two crop variables",
+      "calculate the heritability of a quantitative trait"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the term 'cation exchange capacity' (CEC) in soils?",
+    "options": [
+      "The ability of soil to retain and supply anions to plant roots",
+      "The total amount of cations that a soil can hold in its pore spaces",
+      "The ability of soil to adsorb and exchange cations with soil solution",
+      "The rate at which cations leach from the A horizon to the B horizon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In livestock production, the term 'dystocia' refers to",
+    "options": [
+      "a metabolic disorder caused by low blood calcium after parturition",
+      "difficult or abnormal parturition requiring assistance",
+      "an infectious reproductive disease causing spontaneous abortion",
+      "inflammation of the mammary gland in lactating animals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pest management strategies exemplifies the 'augmentation' approach in biological control?",
+    "options": [
+      "Introducing a new exotic predator to permanently establish in an ecosystem",
+      "Releasing mass-reared parasitoids periodically to suppress pest populations",
+      "Preserving natural enemy habitat through conservation tillage",
+      "Applying microbial pesticides derived from Bacillus thuringiensis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During grain storage, aflatoxin contamination is primarily produced by which of the following organisms?",
+    "options": [
+      "Fusarium oxysporum",
+      "Aspergillus flavus",
+      "Rhizoctonia solani",
+      "Penicillium digitatum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The economic threshold in integrated pest management is best defined as the pest density at which",
+    "options": [
+      "the pest population causes complete crop failure",
+      "control measures must be applied to prevent losses exceeding the cost of control",
+      "the natural enemy population is unable to regulate the pest",
+      "the pest population first becomes detectable in the field"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following accurately describes the difference between incomplete dominance and codominance?",
+    "options": [
+      "Incomplete dominance results in a blended phenotype while codominance results in both parental phenotypes expressed simultaneously",
+      "Incomplete dominance occurs only in polyploid organisms while codominance is restricted to diploids",
+      "Incomplete dominance involves three alleles while codominance involves only two alleles",
+      "Incomplete dominance is sex-linked while codominance is autosomal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A soil sample has a bulk density of 1.4 g/cm\u00b3 and a particle density of 2.65 g/cm\u00b3. What is the approximate total porosity of this soil?",
+    "options": [
+      "34%",
+      "47%",
+      "53%",
+      "66%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the primary mechanism by which conservation tillage systems reduce soil erosion?",
+    "options": [
+      "Increasing soil bulk density to resist raindrop impact",
+      "Maintaining crop residue on the soil surface to dissipate raindrop energy and reduce runoff",
+      "Incorporating large amounts of lime to improve soil aggregate stability",
+      "Reducing soil organic matter decomposition by limiting microbial activity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a randomized complete block design (RCBD), blocking is used primarily to",
+    "options": [
+      "increase the number of replications in each treatment",
+      "control for a known source of variability in the experimental area",
+      "eliminate the need for statistical analysis of treatment effects",
+      "reduce the number of treatments required in the experiment"
+    ],
+    "correctIndex": 1
+  }
+]

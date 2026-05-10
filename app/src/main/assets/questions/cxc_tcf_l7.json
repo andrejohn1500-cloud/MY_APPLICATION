@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which type of joint is commonly used in woodworking to connect two pieces of wood at a right angle by interlocking rectangular cuts?",
+    "options": [
+      "Dovetail joint",
+      "Mortise and tenon joint",
+      "Box (finger) joint",
+      "Butt joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical wiring, what does the abbreviation 'RCD' stand for?",
+    "options": [
+      "Residual Current Device",
+      "Resistance Control Distributor",
+      "Relay Circuit Disconnector",
+      "Regulated Current Detector"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following materials is classified as a thermosetting plastic?",
+    "options": [
+      "Polyethylene",
+      "Polypropylene",
+      "Epoxy resin",
+      "Polystyrene"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a flux when soldering electrical components?",
+    "options": [
+      "To increase the melting point of solder",
+      "To prevent oxidation and improve solder flow",
+      "To strengthen the mechanical bond",
+      "To conduct electricity between components"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In building construction, which foundation type is most suitable for a structure built on weak or waterlogged soil?",
+    "options": [
+      "Strip foundation",
+      "Pad foundation",
+      "Raft foundation",
+      "Pile foundation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When reading an engineering drawing, what does a dashed hidden line represent?",
+    "options": [
+      "A centre line of a component",
+      "An edge or outline not visible from the viewing direction",
+      "A cutting plane line",
+      "A dimension line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure the internal diameter of a pipe or hole accurately?",
+    "options": [
+      "Micrometer screw gauge",
+      "Outside calipers",
+      "Inside calipers",
+      "Vernier caliper set to outside measurement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In metalwork, what process involves heating steel to a high temperature and then rapidly cooling it in water or oil?",
+    "options": [
+      "Annealing",
+      "Tempering",
+      "Hardening",
+      "Case hardening"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes Ohm's Law?",
+    "options": [
+      "Power equals current multiplied by resistance",
+      "Voltage equals current multiplied by resistance",
+      "Current equals voltage multiplied by resistance",
+      "Resistance equals voltage multiplied by current"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of saw is best suited for cutting curves and irregular shapes in thin wood or metal?",
+    "options": [
+      "Hacksaw",
+      "Rip saw",
+      "Coping saw",
+      "Cross-cut saw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In technical drawing, which line type is used to indicate the axis of symmetry of a component?",
+    "options": [
+      "Continuous thick line",
+      "Long chain thin line (centre line)",
+      "Dashed thin line",
+      "Continuous thin line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which safety device is installed in a circuit to protect against overloading by breaking the circuit when current exceeds a set value?",
+    "options": [
+      "Capacitor",
+      "Circuit breaker",
+      "Transformer",
+      "Relay"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "",
+    "question": "When mixing concrete, what is the correct ratio of cement, sand, and aggregate for general structural work?",
+    "options": [
+      "1:2:4",
+      "1:3:6",
+      "1:1:2",
+      "2:4:8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of screw thread is designed to transmit power and motion in machine tools such as a lathe?",
+    "options": [
+      "Whitworth thread",
+      "Unified thread",
+      "Acme (trapezoidal) thread",
+      "Metric thread"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In plumbing, which fitting is used to change the direction of a pipe by 90 degrees?",
+    "options": [
+      "Tee fitting",
+      "Union fitting",
+      "Elbow fitting",
+      "Coupling fitting"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A satellite orbits Earth at a radius r from the centre. If the radius is increased to 4r, how does the orbital period change?",
+    "options": [
+      "It increases by a factor of 8",
+      "It increases by a factor of 4",
+      "It increases by a factor of 2",
+      "It remains the same"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle undergoes simple harmonic motion with amplitude A and angular frequency \u03c9. What is the maximum acceleration of the particle?",
+    "options": [
+      "\u03c9\u00b2A",
+      "\u03c9A",
+      "\u03c9\u00b2A\u00b2",
+      "2\u03c9A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal gas is compressed isothermally to half its original volume. Which statement correctly describes the outcome?",
+    "options": [
+      "The pressure doubles and internal energy remains constant",
+      "The pressure doubles and internal energy doubles",
+      "The pressure halves and temperature doubles",
+      "The pressure remains constant and volume halves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which phenomenon provides the strongest evidence that light has a wave nature?",
+    "options": [
+      "Diffraction and interference",
+      "The photoelectric effect",
+      "Compton scattering",
+      "Pair production"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A proton moves perpendicular to a uniform magnetic field B with velocity v. The radius of its circular path is r. If the velocity is doubled, what happens to the radius?",
+    "options": [
+      "It doubles",
+      "It halves",
+      "It quadruples",
+      "It remains the same"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a transformer with 500 turns in the primary coil and 50 turns in the secondary coil, a primary voltage of 240 V produces a secondary current of 10 A. Assuming 100% efficiency, what is the primary current?",
+    "options": [
+      "1 A",
+      "10 A",
+      "100 A",
+      "24 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The half-life of a radioactive substance is 20 days. What fraction of the original sample remains after 80 days?",
+    "options": [
+      "1/16",
+      "1/4",
+      "1/8",
+      "1/32"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the photoelectric effect?",
+    "options": [
+      "Electrons are emitted only when the frequency of incident light exceeds a threshold frequency, regardless of intensity",
+      "Electrons are emitted only when the intensity of light is above a minimum value",
+      "Electrons are emitted with energy proportional to the intensity of light",
+      "Electrons are emitted when any frequency of light strikes a metal surface"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A concave mirror has a focal length of 15 cm. An object is placed 10 cm in front of the mirror. What is the nature of the image formed?",
+    "options": [
+      "Virtual, upright and magnified",
+      "Real, inverted and magnified",
+      "Real, inverted and diminished",
+      "Virtual, inverted and diminished"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two resistors, 6 \u03a9 and 3 \u03a9, are connected in parallel and then connected in series with a 4 \u03a9 resistor. The combination is connected to a 12 V battery. What is the total current drawn from the battery?",
+    "options": [
+      "2 A",
+      "3 A",
+      "1.5 A",
+      "4 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which nuclear equation correctly represents alpha decay of Uranium-238?",
+    "options": [
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2080Th + \u2074\u2082He",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2077\u2089\u2081Pa + \u00b9\u2081H",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2074\u2089\u2082U + \u2074\u2080n",
+      "\u00b2\u00b3\u2078\u2089\u2082U \u2192 \u00b2\u00b3\u2078\u2089\u2083Np + \u2070\u208b\u2081e"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wave travels from a medium of refractive index 1.5 into air. At what minimum angle of incidence will total internal reflection occur? (sin\u207b\u00b9(2/3) \u2248 41.8\u00b0)",
+    "options": [
+      "41.8\u00b0",
+      "48.2\u00b0",
+      "33.6\u00b0",
+      "56.4\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An electron and a proton are accelerated through the same potential difference. Which particle has the greater de Broglie wavelength?",
+    "options": [
+      "The electron, because it has smaller mass and therefore greater wavelength for the same kinetic energy",
+      "The proton, because it has greater momentum",
+      "They have equal wavelengths since they gain the same kinetic energy",
+      "The electron, because it has greater speed only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A uniform electric field E exists between two parallel plates separated by distance d. A charge q is moved from the negative plate to the positive plate. What is the work done against the electric field?",
+    "options": [
+      "qEd",
+      "qE/d",
+      "qd/E",
+      "Eq/d"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The efficiency of a heat engine operating between a hot reservoir at 600 K and a cold reservoir at 300 K is at most:",
+    "options": [
+      "50%",
+      "25%",
+      "75%",
+      "100%"
+    ],
+    "correctIndex": 0
+  }
+]

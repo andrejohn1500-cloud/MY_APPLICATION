@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A hexagonal prism is cut by an oblique plane. Which method is most appropriate for developing the lateral surface of the truncated prism?",
+    "options": [
+      "Radial line development",
+      "Parallel line development",
+      "Triangulation development",
+      "Approximate development"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When drawing a true shape of an oblique section through a cylinder, which auxiliary view technique is required?",
+    "options": [
+      "First angle projection auxiliary view perpendicular to the cutting plane",
+      "Third angle projection with a partial view",
+      "Rabatment of the section plane about its trace",
+      "Revolution of the cylinder axis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A cone is cut by a plane parallel to one of its generators. The resulting curve of intersection is a:",
+    "options": [
+      "Circle",
+      "Ellipse",
+      "Parabola",
+      "Hyperbola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In orthographic projection, the angle between the projection plane and the projectors in first angle projection is:",
+    "options": [
+      "45 degrees",
+      "60 degrees",
+      "90 degrees",
+      "180 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes a right helical spring in a technical drawing context?",
+    "options": [
+      "The helix advances to the right when viewed axially, rotating clockwise",
+      "The helix is wound such that it appears to rise from left to right",
+      "The helix pitch equals its outside diameter",
+      "The helix lead equals half the pitch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "To find the shortest distance between two skew lines using descriptive geometry, which pair of views is required?",
+    "options": [
+      "Front view and side view only",
+      "An elevation showing one line as a point and a related plan view",
+      "A plan view showing both lines parallel and a front elevation",
+      "A true length view of both lines simultaneously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When developing the surface of an oblique cone by triangulation, the first step is to:",
+    "options": [
+      "Divide the base circle into equal parts and find true lengths of all triangular elements",
+      "Draw the slant height as a true length line in the front view",
+      "Project the apex onto the base plane",
+      "Develop the base ellipse using the trammel method"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sphere of diameter 60 mm intersects a cylinder of diameter 40 mm whose axis passes through the centre of the sphere. The curve of intersection in the front view appears as:",
+    "options": [
+      "Two straight horizontal lines",
+      "Two ellipses",
+      "Two circles",
+      "Two parabolas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In isometric drawing, a circle of 50 mm diameter is represented as an ellipse. The major axis of this isometric ellipse is approximately:",
+    "options": [
+      "50 mm",
+      "57.7 mm",
+      "43.3 mm",
+      "70.7 mm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement about interpenetration of two cylinders of equal diameter with axes at right angles is correct?",
+    "options": [
+      "The curve of intersection is a true ellipse in all views",
+      "The curve of intersection appears as two straight lines in the view where both axes are visible",
+      "The curve of intersection is a circle in the view perpendicular to both axes",
+      "The curve of intersection projects as two straight lines in the view showing one cylinder end-on"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A point P is 30 mm above the HP and 20 mm in front of the VP. In first angle projection, point P lies in:",
+    "options": [
+      "The first quadrant",
+      "The second quadrant",
+      "The third quadrant",
+      "The fourth quadrant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When using the parallelogram method to construct an ellipse given the major and minor axes, the construction is based on:",
+    "options": [
+      "Dividing the circumscribing rectangle into equal proportional strips",
+      "Drawing concentric circles of major and minor radii and plotting intersections",
+      "Using a trammel set to half the major and minor axes",
+      "Rotating the major axis through 90 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the development of a transition piece connecting a square base to a circular top, the method used is:",
+    "options": [
+      "Parallel line development for all surfaces",
+      "Radial line development from the circular end",
+      "Triangulation, dividing the surface into triangular elements",
+      "Approximate development using gore sections"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A plane is said to be a profile plane when it is:",
+    "options": [
+      "Parallel to both the HP and VP simultaneously",
+      "Perpendicular to both the HP and VP",
+      "Inclined to the HP and perpendicular to the VP",
+      "Inclined to the VP and perpendicular to the HP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When determining the true length of a line by the rotation method in descriptive geometry, the line is rotated about:",
+    "options": [
+      "A vertical axis through one of its endpoints until it is parallel to a projection plane",
+      "A horizontal axis through the midpoint of the line",
+      "An axis perpendicular to both projection planes",
+      "The ground line XY until the line becomes a point"
+    ],
+    "correctIndex": 0
+  }
+]
