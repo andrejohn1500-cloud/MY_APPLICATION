@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does the term 'piano' (p) indicate in music?",
+    "options": [
+      "Play loudly",
+      "Play softly",
+      "Play quickly",
+      "Play slowly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a woodwind instrument?",
+    "options": [
+      "Trumpet",
+      "Violin",
+      "Flute",
+      "Trombone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many beats are in a bar of 3/4 time?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the symbol placed at the beginning of a staff to indicate pitch?",
+    "options": [
+      "Time signature",
+      "Key signature",
+      "Clef",
+      "Bar line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which term describes the speed of a piece of music?",
+    "options": [
+      "Dynamics",
+      "Tempo",
+      "Timbre",
+      "Texture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a chord?",
+    "options": [
+      "A single note played alone",
+      "Three or more notes played simultaneously",
+      "A type of musical scale",
+      "A rhythmic pattern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes 'calypso'?",
+    "options": [
+      "A genre of music originating from Jamaica",
+      "A genre of music originating from Trinidad and Tobago",
+      "A classical European dance form",
+      "A type of blues music from America"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'forte' (f) mean in music?",
+    "options": [
+      "Soft",
+      "Slow",
+      "Loud",
+      "Fast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many semitones are in an octave?",
+    "options": [
+      "8",
+      "10",
+      "14",
+      "12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which voice type is the highest female singing voice?",
+    "options": [
+      "Alto",
+      "Mezzo-soprano",
+      "Soprano",
+      "Contralto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for music performed by a single instrument without accompaniment?",
+    "options": [
+      "Duet",
+      "Solo",
+      "Ensemble",
+      "Chorus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following describes 'reggae' music?",
+    "options": [
+      "A music style from Cuba with complex polyrhythms",
+      "A music style from Jamaica with a characteristic offbeat rhythm",
+      "A music style from Brazil based on samba",
+      "A music style from Barbados featuring tuk drums"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the musical term for gradually getting louder?",
+    "options": [
+      "Diminuendo",
+      "Staccato",
+      "Crescendo",
+      "Legato"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which instrument family does the violin belong to?",
+    "options": [
+      "Brass",
+      "Woodwind",
+      "Percussion",
+      "Strings"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a scale?",
+    "options": [
+      "A sequence of notes in ascending or descending order",
+      "A type of rhythm pattern",
+      "The loudness of a musical piece",
+      "A group of musicians performing together"
+    ],
+    "correctIndex": 0
+  }
+]
