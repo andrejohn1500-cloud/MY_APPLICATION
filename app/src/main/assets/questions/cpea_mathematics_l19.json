@@ -1,0 +1,153 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, find f'(x) and evaluate f'(4).",
+    "options": [
+      "f'(x) = 6x - 5, f'(4) = 19",
+      "f'(x) = 6x - 5, f'(4) = 21",
+      "f'(x) = 3x - 5, f'(4) = 7",
+      "f'(x) = 6x\u00b2, f'(4) = 96"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve the system of equations: 2x + 3y = 12 and 4x - y = 5.",
+    "options": [
+      "x = 3, y = 2",
+      "x = 2, y = 3",
+      "x = 1, y = 4",
+      "x = 2.5, y = 5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A geometric sequence has first term 5 and common ratio 3. What is the sum of the first 6 terms?",
+    "options": [
+      "1820",
+      "1820",
+      "1823",
+      "1092",
+      "1820"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the equation of the line perpendicular to 2x - 4y = 8 passing through (4, -1).",
+    "options": [
+      "y = -2x + 7",
+      "y = 2x - 9",
+      "y = -2x - 7",
+      "y = \u00bdx - 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability that event A occurs is 0.4 and event B occurs is 0.3. If A and B are independent, find P(A \u222a B).",
+    "options": [
+      "0.58",
+      "0.70",
+      "0.12",
+      "0.65"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simplify: (2x\u00b3y\u00b2)\u00b3 \u00f7 (4x\u00b2y).",
+    "options": [
+      "2x\u2077y\u2075",
+      "2x\u2075y\u2075",
+      "4x\u2077y\u2075",
+      "2x\u2077y\u2076"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has equation x\u00b2 + y\u00b2 - 6x + 4y - 12 = 0. What are the coordinates of the centre and the radius?",
+    "options": [
+      "Centre (3, -2), radius 5",
+      "Centre (-3, 2), radius 5",
+      "Centre (3, -2), radius 25",
+      "Centre (6, -4), radius 5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If log\u2082(x) + log\u2082(x - 6) = 4, find x.",
+    "options": [
+      "x = 8",
+      "x = 2",
+      "x = 10",
+      "x = -2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A triangle has vertices A(1,2), B(5,2) and C(3,6). Find the area of the triangle.",
+    "options": [
+      "8 square units",
+      "10 square units",
+      "12 square units",
+      "16 square units"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Evaluate the definite integral \u222b\u2081\u00b3 (2x + 1) dx.",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Factorise completely: 6x\u00b3 - 54x.",
+    "options": [
+      "6x(x - 3)(x + 3)",
+      "6x(x\u00b2 - 9)",
+      "3x(2x\u00b2 - 18)",
+      "6(x\u00b3 - 9x)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a class of 30 students, the mean score is 72 and the standard deviation is 8. How many students are expected to score between 64 and 80?",
+    "options": [
+      "Approximately 20",
+      "Approximately 24",
+      "Approximately 15",
+      "Approximately 28"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the value of x if 3\u00b2\u02e3\u207b\u00b9 = 27\u02e3\u207b\u00b2.",
+    "options": [
+      "x = 5",
+      "x = 3",
+      "x = 7",
+      "x = 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A function is defined as f(x) = (x\u00b2 - 9)/(x - 3) for x \u2260 3. What is the limit of f(x) as x approaches 3?",
+    "options": [
+      "6",
+      "0",
+      "3",
+      "Undefined"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The nth term of an arithmetic sequence is given by T\u2099 = 4n - 1. Find the sum of the first 20 terms.",
+    "options": [
+      "820",
+      "800",
+      "840",
+      "780"
+    ],
+    "correctIndex": 0
+  }
+]

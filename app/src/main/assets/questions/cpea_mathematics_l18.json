@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, what is the value of f(-2)?",
+    "options": [
+      "A. 24",
+      "B. 20",
+      "C. 16",
+      "D. 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
+    "options": [
+      "A. 1540 cm\u00b3",
+      "B. 1440 cm\u00b3",
+      "C. 1320 cm\u00b3",
+      "D. 1260 cm\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 2x\u00b2 - 7x + 3 = 0",
+    "options": [
+      "A. x = 3 or x = \u00bd",
+      "B. x = 3 or x = -\u00bd",
+      "C. x = -3 or x = \u00bd",
+      "D. x = 2 or x = \u00be"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The sum of the interior angles of a polygon is 1440\u00b0. How many sides does the polygon have?",
+    "options": [
+      "A. 10",
+      "B. 9",
+      "C. 8",
+      "D. 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the gradient of the line passing through the points (-3, 4) and (5, -2)?",
+    "options": [
+      "A. -3/4",
+      "B. 3/4",
+      "C. -4/3",
+      "D. 4/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car travels 240 km in 3 hours. If it continues at the same speed, how long will it take to travel a total of 400 km?",
+    "options": [
+      "A. 5 hours",
+      "B. 4.5 hours",
+      "C. 6 hours",
+      "D. 5.5 hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simplify: (2x\u00b3y\u00b2)\u00b3 \u00f7 (4x\u00b2y)",
+    "options": [
+      "A. 2x\u2077y\u2075",
+      "B. 4x\u2077y\u2075",
+      "C. 2x\u2075y\u2075",
+      "D. 8x\u2077y\u2075"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A shopkeeper buys an article for $450 and sells it for $540. What is the percentage profit?",
+    "options": [
+      "A. 20%",
+      "B. 16.7%",
+      "C. 18%",
+      "D. 25%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If sin \u03b8 = 5/13 and \u03b8 is acute, what is the value of cos \u03b8?",
+    "options": [
+      "A. 12/13",
+      "B. 5/12",
+      "C. 13/12",
+      "D. 8/13"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of five numbers is 14. Four of the numbers are 10, 12, 18, and 16. What is the fifth number?",
+    "options": [
+      "A. 14",
+      "B. 12",
+      "C. 16",
+      "D. 10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Factorise completely: 6x\u00b2 - 54",
+    "options": [
+      "A. 6(x - 3)(x + 3)",
+      "B. 6(x\u00b2 - 9)",
+      "C. 3(2x - 6)(x + 3)",
+      "D. (6x - 18)(x + 3)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a triangle ABC, angle A = 65\u00b0 and angle B = 48\u00b0. What is the value of angle C?",
+    "options": [
+      "A. 67\u00b0",
+      "B. 57\u00b0",
+      "C. 77\u00b0",
+      "D. 47\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the value of 3\u207b\u00b2 + 4\u2070 - 2\u207b\u00b9?",
+    "options": [
+      "A. 17/18",
+      "B. 1",
+      "C. 7/9",
+      "D. 5/6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangle has a length of (3x + 5) cm and a width of (2x - 1) cm. If the perimeter is 58 cm, what is the value of x?",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 6",
+      "D. 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability that it rains on any given day is 0.35. What is the probability that it does NOT rain on two consecutive days?",
+    "options": [
+      "A. 0.4225",
+      "B. 0.1225",
+      "C. 0.65",
+      "D. 0.3775"
+    ],
+    "correctIndex": 0
+  }
+]

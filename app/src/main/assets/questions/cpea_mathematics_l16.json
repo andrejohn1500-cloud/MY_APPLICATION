@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A shopkeeper buys an article for $240 and sells it at a profit of 35%. What is the selling price?",
+    "options": [
+      "$275.00",
+      "$324.00",
+      "$288.00",
+      "$312.00"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simplify: 3x\u00b2 + 5x - 2x\u00b2 - 3x + 7",
+    "options": [
+      "x\u00b2 + 2x + 7",
+      "5x\u00b2 + 8x + 7",
+      "x\u00b2 - 2x + 7",
+      "5x\u00b2 + 2x - 7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangle has a length of (2x + 3) cm and a width of (x - 1) cm. What is the area in terms of x?",
+    "options": [
+      "2x\u00b2 - 2x + 3x - 3",
+      "2x\u00b2 + x - 3",
+      "2x\u00b2 + 5x - 3",
+      "3x\u00b2 + x - 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The ratio of boys to girls in a school is 3:5. If there are 120 boys, how many students are there altogether?",
+    "options": [
+      "200",
+      "240",
+      "320",
+      "160"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of 2\u00b3 \u00d7 3\u00b2 \u00f7 6?",
+    "options": [
+      "12",
+      "24",
+      "6",
+      "18"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
+    "options": [
+      "1540 cm\u00b3",
+      "2200 cm\u00b3",
+      "4400 cm\u00b3",
+      "770 cm\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 3(2x - 4) = 2(x + 6)",
+    "options": [
+      "x = 6",
+      "x = 5",
+      "x = 3",
+      "x = 7.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the simple interest on $2500 for 3 years is $375, what is the rate of interest per annum?",
+    "options": [
+      "4%",
+      "5%",
+      "6%",
+      "3%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A triangle has vertices at coordinates (0,0), (4,0) and (0,3). What is the area of the triangle?",
+    "options": [
+      "12 sq units",
+      "6 sq units",
+      "7 sq units",
+      "10 sq units"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 15% of 360 added to 25% of 200?",
+    "options": [
+      "94",
+      "100",
+      "104",
+      "154"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels 180 km in 2.5 hours. What is its average speed in km/h?",
+    "options": [
+      "68 km/h",
+      "70 km/h",
+      "72 km/h",
+      "75 km/h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Factorise completely: 6x\u00b2 - 9x",
+    "options": [
+      "3(2x\u00b2 - 3x)",
+      "3x(2x - 3)",
+      "6x(x - 3)",
+      "2x(3x - 9)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The angles of a quadrilateral are in the ratio 2:3:4:6. What is the size of the largest angle?",
+    "options": [
+      "120\u00b0",
+      "144\u00b0",
+      "108\u00b0",
+      "160\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A data set has values: 12, 15, 18, 22, 18, 14, 18, 20. What is the mode?",
+    "options": [
+      "18",
+      "15",
+      "20",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If f(x) = 3x\u00b2 - 2x + 1, what is f(-2)?",
+    "options": [
+      "9",
+      "17",
+      "13",
+      "21"
+    ],
+    "correctIndex": 1
+  }
+]

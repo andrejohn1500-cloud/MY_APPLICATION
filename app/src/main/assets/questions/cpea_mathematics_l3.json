@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the value of 345 + 278?",
+    "options": [
+      "623",
+      "613",
+      "633",
+      "603"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 7 \u00d7 8?",
+    "options": [
+      "54",
+      "56",
+      "58",
+      "64"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fraction is equivalent to 1/2?",
+    "options": [
+      "2/6",
+      "3/6",
+      "4/10",
+      "5/12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the perimeter of a square with side length 5 cm?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 900 - 364?",
+    "options": [
+      "546",
+      "536",
+      "636",
+      "526"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number is a multiple of 6?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "26"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of a rectangle with length 8 cm and width 3 cm?",
+    "options": [
+      "11 cm\u00b2",
+      "22 cm\u00b2",
+      "24 cm\u00b2",
+      "32 cm\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 4/5 written as a decimal?",
+    "options": [
+      "0.45",
+      "0.54",
+      "0.80",
+      "0.85"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an odd number?",
+    "options": [
+      "42",
+      "36",
+      "57",
+      "80"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 72 \u00f7 9?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bag has 3 red balls, 2 blue balls and 5 green balls. How many balls are there altogether?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of the digit 4 in the number 3,402?",
+    "options": [
+      "4",
+      "40",
+      "400",
+      "4000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which shape has exactly 3 sides?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a shirt costs $15.50 and you pay with $20.00, how much change will you receive?",
+    "options": [
+      "$4.00",
+      "$4.50",
+      "$5.00",
+      "$5.50"
+    ],
+    "correctIndex": 1
+  }
+]

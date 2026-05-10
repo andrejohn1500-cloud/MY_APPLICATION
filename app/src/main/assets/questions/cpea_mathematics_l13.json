@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, find f(-2).",
+    "options": [
+      "A. 24",
+      "B. 20",
+      "C. 16",
+      "D. 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has radius 7 cm and height 15 cm. What is its volume? (Use \u03c0 \u2248 22/7)",
+    "options": [
+      "A. 2310 cm\u00b3",
+      "B. 1540 cm\u00b3",
+      "C. 3080 cm\u00b3",
+      "D. 2100 cm\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 2x\u00b2 - 7x + 3 = 0",
+    "options": [
+      "A. x = 3 or x = \u00bd",
+      "B. x = -3 or x = -\u00bd",
+      "C. x = 3 or x = -\u00bd",
+      "D. x = -3 or x = \u00bd"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The sum of the interior angles of a polygon is 1440\u00b0. How many sides does the polygon have?",
+    "options": [
+      "A. 10",
+      "B. 9",
+      "C. 8",
+      "D. 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If the simple interest on $8000 for 3 years is $1440, what is the annual rate of interest?",
+    "options": [
+      "A. 6%",
+      "B. 5%",
+      "C. 7%",
+      "D. 4%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Express 0.000345 in standard form.",
+    "options": [
+      "A. 3.45 \u00d7 10\u207b\u2074",
+      "B. 34.5 \u00d7 10\u207b\u2075",
+      "C. 3.45 \u00d7 10\u2074",
+      "D. 0.345 \u00d7 10\u207b\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A triangle has sides of length 5 cm, 12 cm, and 13 cm. What is its area?",
+    "options": [
+      "A. 30 cm\u00b2",
+      "B. 60 cm\u00b2",
+      "C. 26 cm\u00b2",
+      "D. 32.5 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the gradient of the line passing through the points (2, -3) and (-4, 9)?",
+    "options": [
+      "A. -2",
+      "B. 2",
+      "C. -\u00bd",
+      "D. \u00bd"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Expand and simplify: (2x + 3)(3x - 4)",
+    "options": [
+      "A. 6x\u00b2 + x - 12",
+      "B. 6x\u00b2 - x - 12",
+      "C. 6x\u00b2 + x + 12",
+      "D. 6x\u00b2 - x + 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 4 red, 5 blue, and 3 green balls. If one ball is selected at random, what is the probability it is NOT blue?",
+    "options": [
+      "A. 7/12",
+      "B. 5/12",
+      "C. 7/11",
+      "D. 5/7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Factorise completely: 3x\u00b2 - 27",
+    "options": [
+      "A. 3(x - 3)(x + 3)",
+      "B. 3(x - 3)\u00b2",
+      "C. (3x - 9)(x + 3)",
+      "D. 3(x\u00b2 - 9)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The bearing of point B from point A is 065\u00b0. What is the bearing of A from B?",
+    "options": [
+      "A. 245\u00b0",
+      "B. 295\u00b0",
+      "C. 115\u00b0",
+      "D. 155\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 3^(2x-1) = 27, find x.",
+    "options": [
+      "A. 2",
+      "B. 1",
+      "C. 3",
+      "D. 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A shopkeeper buys goods for $450 and sells them for $540. What is the percentage profit?",
+    "options": [
+      "A. 20%",
+      "B. 16.7%",
+      "C. 25%",
+      "D. 18%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a right-angled triangle, one acute angle is 35\u00b0. If the hypotenuse is 12 cm, find the length of the side opposite the 35\u00b0 angle. (sin 35\u00b0 \u2248 0.574)",
+    "options": [
+      "A. 6.89 cm",
+      "B. 9.83 cm",
+      "C. 7.24 cm",
+      "D. 5.74 cm"
+    ],
+    "correctIndex": 0
+  }
+]

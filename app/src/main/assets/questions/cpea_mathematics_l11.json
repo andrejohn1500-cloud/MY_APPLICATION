@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, find f'(x) and evaluate it at x = 3.",
+    "options": [
+      "A. 13",
+      "B. 18",
+      "C. 23",
+      "D. 27"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve the quadratic equation 2x\u00b2 - 7x + 3 = 0 and find the sum of its roots.",
+    "options": [
+      "A. 7/2",
+      "B. 3/2",
+      "C. -7/2",
+      "D. -3/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has the equation x\u00b2 + y\u00b2 - 6x + 8y - 11 = 0. What is the radius of this circle?",
+    "options": [
+      "A. 6",
+      "B. 5",
+      "C. 36",
+      "D. 11"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the value of log\u2083(81) - log\u2082(32).",
+    "options": [
+      "A. -1",
+      "B. 1",
+      "C. 9",
+      "D. -9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A geometric series has first term 4 and common ratio 3. Find the sum of the first 5 terms.",
+    "options": [
+      "A. 484",
+      "B. 364",
+      "C. 242",
+      "D. 120"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two vectors are given as a = (3, -1, 2) and b = (1, 4, -2). Calculate the dot product a \u00b7 b.",
+    "options": [
+      "A. -5",
+      "B. 5",
+      "C. 3",
+      "D. -3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the area of a triangle with vertices at A(1, 2), B(4, 6), and C(7, 2).",
+    "options": [
+      "A. 12",
+      "B. 18",
+      "C. 9",
+      "D. 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If matrix A = [[2, 3],[1, 4]], find the determinant of A.",
+    "options": [
+      "A. 5",
+      "B. 11",
+      "C. -5",
+      "D. 8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Evaluate the definite integral \u222b(from 1 to 3) (2x + 1) dx.",
+    "options": [
+      "A. 10",
+      "B. 8",
+      "C. 12",
+      "D. 14"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The probability that event A occurs is 0.4 and the probability that event B occurs is 0.5. If A and B are independent, find P(A \u222a B).",
+    "options": [
+      "A. 0.70",
+      "B. 0.90",
+      "C. 0.45",
+      "D. 0.20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 3^(2x-1) = 27^(x-2).",
+    "options": [
+      "A. x = 5",
+      "B. x = -5",
+      "C. x = 3",
+      "D. x = -3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An arithmetic progression has a first term of 7 and a common difference of 4. Which term of the progression is 79?",
+    "options": [
+      "A. 19th",
+      "B. 18th",
+      "C. 20th",
+      "D. 17th"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the equation of the tangent to the curve y = x\u00b3 - 4x + 1 at the point where x = 2.",
+    "options": [
+      "A. y = 8x - 15",
+      "B. y = 8x + 15",
+      "C. y = 4x - 7",
+      "D. y = 4x + 7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 5 red, 3 blue, and 2 green balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "options": [
+      "A. 2/9",
+      "B. 1/4",
+      "C. 1/5",
+      "D. 1/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the general solution of the differential equation dy/dx = 4x\u00b3 - 2x, given that y = 3 when x = 1.",
+    "options": [
+      "A. y = x\u2074 - x\u00b2 + 3",
+      "B. y = x\u2074 - x\u00b2 + 2",
+      "C. y = x\u2074 - x\u00b2 - 3",
+      "D. y = 4x\u00b3 - 2"
+    ],
+    "correctIndex": 0
+  }
+]

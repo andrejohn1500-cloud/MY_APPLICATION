@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, what is the value of f(-2)?",
+    "options": [
+      "A. 24",
+      "B. 20",
+      "C. 16",
+      "D. 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has an equation x\u00b2 + y\u00b2 - 6x + 4y - 12 = 0. What are the coordinates of the centre?",
+    "options": [
+      "A. (3, -2)",
+      "B. (-3, 2)",
+      "C. (6, -4)",
+      "D. (-6, 4)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the sum of the interior angles of a decagon?",
+    "options": [
+      "A. 1440\u00b0",
+      "B. 1260\u00b0",
+      "C. 1800\u00b0",
+      "D. 1080\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: log\u2082(x + 3) + log\u2082(x - 1) = 5",
+    "options": [
+      "A. x = 5",
+      "B. x = 4",
+      "C. x = 6",
+      "D. x = 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A geometric series has first term 4 and common ratio 3. What is the sum of the first 6 terms?",
+    "options": [
+      "A. 1456",
+      "B. 1296",
+      "C. 1024",
+      "D. 2916"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If sin \u03b8 = 5/13 and \u03b8 is in the first quadrant, what is the value of tan \u03b8?",
+    "options": [
+      "A. 5/12",
+      "B. 12/13",
+      "C. 5/13",
+      "D. 13/12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the derivative of y = x\u00b3 ln x?",
+    "options": [
+      "A. x\u00b2(3 ln x + 1)",
+      "B. 3x\u00b2 ln x",
+      "C. x\u00b2(ln x + 3)",
+      "D. 3x\u00b2 + x\u00b2ln x"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The probability that event A occurs is 0.4 and the probability that event B occurs is 0.5. If A and B are independent, what is P(A \u222a B)?",
+    "options": [
+      "A. 0.70",
+      "B. 0.20",
+      "C. 0.90",
+      "D. 0.45"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the remainder when 2x\u00b3 - 3x\u00b2 + x - 5 is divided by (x - 2)?",
+    "options": [
+      "A. 1",
+      "B. -1",
+      "C. 3",
+      "D. -3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A right circular cone has a base radius of 6 cm and a slant height of 10 cm. What is the total surface area of the cone?",
+    "options": [
+      "A. 48\u03c0 cm\u00b2",
+      "B. 96\u03c0 cm\u00b2",
+      "C. 60\u03c0 cm\u00b2",
+      "D. 36\u03c0 cm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is the solution set of |2x - 3| \u2264 7?",
+    "options": [
+      "A. -2 \u2264 x \u2264 5",
+      "B. x \u2264 -2 or x \u2265 5",
+      "C. -5 \u2264 x \u2264 2",
+      "D. x \u2264 -5 or x \u2265 2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the area enclosed between y = x\u00b2 and y = x + 6.",
+    "options": [
+      "A. 125/6",
+      "B. 20/3",
+      "C. 36",
+      "D. 18"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the nth term of the sequence: 2, 6, 12, 20, 30, ...?",
+    "options": [
+      "A. n(n + 1)",
+      "B. n\u00b2 + 1",
+      "C. 2n\u00b2",
+      "D. n\u00b2 + n - 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Two vectors are given as a = 3i + 4j and b = i - 2j. What is the angle between vectors a and b?",
+    "options": [
+      "A. cos\u207b\u00b9(-1/\u221a125)",
+      "B. cos\u207b\u00b9(1/\u221a125)",
+      "C. cos\u207b\u00b9(5/\u221a125)",
+      "D. cos\u207b\u00b9(-5/\u221a50)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The matrix A = [[2, 1], [5, 3]]. What is A\u207b\u00b9?",
+    "options": [
+      "A. [[3, -1], [-5, 2]]",
+      "B. [[-3, 1], [5, -2]]",
+      "C. [[3, 1], [5, 2]]",
+      "D. [[2, -1], [-5, 3]]"
+    ],
+    "correctIndex": 0
+  }
+]

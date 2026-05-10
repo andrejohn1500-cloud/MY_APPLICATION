@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If f(x) = 3x\u00b2 - 5x + 2, what is the value of f(-2)?",
+    "options": [
+      "A) 24",
+      "B) 20",
+      "C) 16",
+      "D) 28"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has a diameter of 14 cm. What is the area of the circle? (Use \u03c0 \u2248 22/7)",
+    "options": [
+      "A) 154 cm\u00b2",
+      "B) 44 cm\u00b2",
+      "C) 616 cm\u00b2",
+      "D) 308 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: 2x\u00b2 - 7x - 15 = 0",
+    "options": [
+      "A) x = 5 or x = -3/2",
+      "B) x = -5 or x = 3/2",
+      "C) x = 5 or x = 3",
+      "D) x = -5 or x = -3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The simple interest on $4,500 at 8% per annum for 3 years is:",
+    "options": [
+      "A) $1,080",
+      "B) $1,800",
+      "C) $360",
+      "D) $900"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the gradient of the line passing through the points (3, -1) and (-1, 7)?",
+    "options": [
+      "A) -2",
+      "B) 2",
+      "C) -1/2",
+      "D) 1/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 5 red, 4 blue and 3 green marbles. If one marble is chosen at random, what is the probability it is NOT red?",
+    "options": [
+      "A) 7/12",
+      "B) 5/12",
+      "C) 7/7",
+      "D) 5/7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Expand and simplify: (2x - 3)(3x + 4)",
+    "options": [
+      "A) 6x\u00b2 - x - 12",
+      "B) 6x\u00b2 + x - 12",
+      "C) 6x\u00b2 - x + 12",
+      "D) 5x\u00b2 - x - 12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The volume of a cylinder with radius 5 cm and height 10 cm is: (Use \u03c0 \u2248 3.14)",
+    "options": [
+      "A) 785 cm\u00b3",
+      "B) 157 cm\u00b3",
+      "C) 314 cm\u00b3",
+      "D) 1570 cm\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 3^(x+1) = 81, what is the value of x?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 2",
+      "D) 5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A shopkeeper buys an item for $240 and sells it for $300. What is the percentage profit?",
+    "options": [
+      "A) 25%",
+      "B) 20%",
+      "C) 60%",
+      "D) 80%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the sum of the interior angles of a hexagon?",
+    "options": [
+      "A) 720\u00b0",
+      "B) 540\u00b0",
+      "C) 900\u00b0",
+      "D) 360\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simplify: (4x\u00b3y\u00b2) \u00f7 (2xy\u2074)",
+    "options": [
+      "A) 2x\u00b2/y\u00b2",
+      "B) 2x\u00b2y\u00b2",
+      "C) 2xy\u00b2",
+      "D) 4x\u00b2/y\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of 6 numbers is 12. If five of the numbers are 10, 14, 8, 15, and 11, what is the sixth number?",
+    "options": [
+      "A) 14",
+      "B) 12",
+      "C) 16",
+      "D) 10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a right-angled triangle, the two shorter sides are 9 cm and 12 cm. What is the length of the hypotenuse?",
+    "options": [
+      "A) 15 cm",
+      "B) 18 cm",
+      "C) 21 cm",
+      "D) 13 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Factorise completely: 6x\u00b2 - 54",
+    "options": [
+      "A) 6(x - 3)(x + 3)",
+      "B) 6(x - 9)(x + 1)",
+      "C) 3(x - 3)(x + 3)",
+      "D) 6(x\u00b2 - 9)"
+    ],
+    "correctIndex": 0
+  }
+]

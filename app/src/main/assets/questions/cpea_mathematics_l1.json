@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is 345 + 278?",
+    "options": [
+      "623",
+      "613",
+      "633",
+      "603"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 900 - 364?",
+    "options": [
+      "536",
+      "546",
+      "436",
+      "526"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following numbers is even?",
+    "options": [
+      "47",
+      "83",
+      "62",
+      "91"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 6 \u00d7 7?",
+    "options": [
+      "42",
+      "36",
+      "48",
+      "54"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 56 \u00f7 8?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the value of the digit 4 in the number 3,472?",
+    "options": [
+      "4",
+      "40",
+      "400",
+      "4000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fraction is equivalent to one half?",
+    "options": [
+      "2/3",
+      "3/4",
+      "4/8",
+      "5/9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the perimeter of a square with sides of 5 cm?",
+    "options": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of a rectangle that is 4 cm long and 3 cm wide?",
+    "options": [
+      "7 sq cm",
+      "14 sq cm",
+      "12 sq cm",
+      "10 sq cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many minutes are in one hour?",
+    "options": [
+      "30",
+      "45",
+      "100",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What shape has 3 sides and 3 angles?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Circle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which number comes next in the pattern: 5, 10, 15, 20, ___?",
+    "options": [
+      "24",
+      "25",
+      "26",
+      "30"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": [
+      "20",
+      "25",
+      "40",
+      "15"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If a bag of apples costs $3.50 and you pay with a $5.00 bill, how much change will you receive?",
+    "options": [
+      "$1.00",
+      "$1.50",
+      "$2.00",
+      "$2.50"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the line of symmetry in a shape?",
+    "options": [
+      "A line that makes the shape bigger",
+      "A line that divides the shape into two equal halves",
+      "A line that goes around the shape",
+      "A line that measures the length of the shape"
+    ],
+    "correctIndex": 1
+  }
+]

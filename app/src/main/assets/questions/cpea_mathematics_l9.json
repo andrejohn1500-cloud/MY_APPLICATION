@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the value of 3\u00b2 + 4\u00b2?",
+    "options": [
+      "A. 14",
+      "B. 25",
+      "C. 49",
+      "D. 7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its area?",
+    "options": [
+      "A. 38 cm\u00b2",
+      "B. 84 cm\u00b2",
+      "C. 96 cm\u00b2",
+      "D. 19 cm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solve for x: 3x - 7 = 14",
+    "options": [
+      "A. x = 3",
+      "B. x = 9",
+      "C. x = 7",
+      "D. x = 21"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a prime number?",
+    "options": [
+      "A. 27",
+      "B. 33",
+      "C. 41",
+      "D. 49"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "A. 25",
+      "B. 30",
+      "C. 35",
+      "D. 40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A triangle has angles of 55\u00b0 and 75\u00b0. What is the third angle?",
+    "options": [
+      "A. 40\u00b0",
+      "B. 50\u00b0",
+      "C. 60\u00b0",
+      "D. 70\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Simplify: 4a + 3b - 2a + 5b",
+    "options": [
+      "A. 2a + 8b",
+      "B. 6a + 8b",
+      "C. 2a + 2b",
+      "D. 6a + 2b"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the median of the data set: 4, 7, 9, 11, 15?",
+    "options": [
+      "A. 7",
+      "B. 9",
+      "C. 11",
+      "D. 15"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels 240 km in 3 hours. What is its average speed?",
+    "options": [
+      "A. 60 km/h",
+      "B. 70 km/h",
+      "C. 80 km/h",
+      "D. 90 km/h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of (-3) \u00d7 (-4) + 2?",
+    "options": [
+      "A. 10",
+      "B. 12",
+      "C. 14",
+      "D. 16"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which expression is equivalent to 2(3x + 5)?",
+    "options": [
+      "A. 6x + 5",
+      "B. 6x + 10",
+      "C. 5x + 10",
+      "D. 3x + 10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shop reduces a $80 jacket by 25%. What is the sale price?",
+    "options": [
+      "A. $55",
+      "B. $60",
+      "C. $65",
+      "D. $70"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the LCM of 8 and 12?",
+    "options": [
+      "A. 16",
+      "B. 20",
+      "C. 24",
+      "D. 32"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The circumference of a circle with diameter 14 cm is closest to: (use \u03c0 \u2248 22/7)",
+    "options": [
+      "A. 22 cm",
+      "B. 44 cm",
+      "C. 88 cm",
+      "D. 154 cm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a bag contains 3 red, 5 blue, and 2 green marbles, what is the probability of picking a blue marble?",
+    "options": [
+      "A. 1/2",
+      "B. 1/5",
+      "C. 3/10",
+      "D. 2/5"
+    ],
+    "correctIndex": 0
+  }
+]
