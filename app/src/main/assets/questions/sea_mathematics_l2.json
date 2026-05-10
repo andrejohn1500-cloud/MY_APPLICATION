@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the value of 3,456 + 2,789?",
+    "options": [
+      "6,245",
+      "6,145",
+      "6,235",
+      "6,345"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 8,000 - 3,256?",
+    "options": [
+      "4,744",
+      "4,854",
+      "4,644",
+      "5,744"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 24 \u00d7 7?",
+    "options": [
+      "168",
+      "148",
+      "178",
+      "158"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 144 \u00f7 12?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fraction is equivalent to 1/2?",
+    "options": [
+      "4/8",
+      "3/7",
+      "2/5",
+      "5/9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 10 cm and width 5 cm?",
+    "options": [
+      "30 cm",
+      "25 cm",
+      "50 cm",
+      "20 cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the area of a square with side length 6 cm?",
+    "options": [
+      "36 cm\u00b2",
+      "24 cm\u00b2",
+      "12 cm\u00b2",
+      "30 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 25% of 200?",
+    "options": [
+      "50",
+      "25",
+      "75",
+      "100"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the value of the digit 7 in the number 4,738?",
+    "options": [
+      "700",
+      "70",
+      "7",
+      "7,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A shopkeeper had 150 mangoes and sold 87. How many mangoes are left?",
+    "options": [
+      "63",
+      "73",
+      "53",
+      "83"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the next number in the pattern: 5, 10, 15, 20, ___?",
+    "options": [
+      "25",
+      "24",
+      "30",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many minutes are in 3 hours?",
+    "options": [
+      "180",
+      "120",
+      "160",
+      "200"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 3/4 + 1/4?",
+    "options": [
+      "1",
+      "4/8",
+      "2/4",
+      "1/2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If one dozen eggs costs $6.00, how much do 3 dozen eggs cost?",
+    "options": [
+      "$18.00",
+      "$12.00",
+      "$24.00",
+      "$9.00"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the average of 10, 20, and 30?",
+    "options": [
+      "20",
+      "15",
+      "25",
+      "30"
+    ],
+    "correctIndex": 0
+  }
+]

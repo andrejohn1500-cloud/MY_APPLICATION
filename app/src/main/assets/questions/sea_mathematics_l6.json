@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the value of 3\u00b2 + 4\u00b2?",
+    "options": [
+      "14",
+      "25",
+      "20",
+      "18"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its perimeter?",
+    "options": [
+      "84 cm",
+      "38 cm",
+      "19 cm",
+      "42 cm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following fractions is equivalent to 3/4?",
+    "options": [
+      "6/10",
+      "9/12",
+      "4/5",
+      "8/14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shopkeeper bought 40 items for $200 and sold them all for $280. What was the profit per item?",
+    "options": [
+      "$1.50",
+      "$2.50",
+      "$2.00",
+      "$3.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 15% of 240?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "40"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The average of five numbers is 18. If four of the numbers are 14, 20, 16, and 22, what is the fifth number?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. Using \u03c0 = 22/7, what is its volume?",
+    "options": [
+      "1540 cm\u00b3",
+      "1450 cm\u00b3",
+      "1640 cm\u00b3",
+      "1400 cm\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Simplify: 4x + 3y \u2212 2x + 5y",
+    "options": [
+      "2x + 8y",
+      "6x + 8y",
+      "2x \u2212 8y",
+      "6x \u2212 2y"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A map has a scale of 1:50 000. If two towns are 6 cm apart on the map, what is the actual distance in kilometres?",
+    "options": [
+      "3 km",
+      "30 km",
+      "300 km",
+      "0.3 km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Lowest Common Multiple (LCM) of 8 and 12?",
+    "options": [
+      "48",
+      "24",
+      "36",
+      "96"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 4 red, 3 blue, and 5 green marbles. If one marble is picked at random, what is the probability it is blue?",
+    "options": [
+      "1/3",
+      "1/4",
+      "3/12",
+      "3/4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solve for x: 3x \u2212 7 = 14",
+    "options": [
+      "x = 5",
+      "x = 7",
+      "x = 9",
+      "x = 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A triangle has a base of 10 cm and a height of 6 cm. What is its area?",
+    "options": [
+      "60 cm\u00b2",
+      "16 cm\u00b2",
+      "30 cm\u00b2",
+      "20 cm\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of the digit 7 in the number 3 472 856?",
+    "options": [
+      "70 000",
+      "700 000",
+      "7 000",
+      "7 000 000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A train travels at 90 km/h. How long will it take to travel 270 km?",
+    "options": [
+      "2 hours",
+      "2.5 hours",
+      "3 hours",
+      "3.5 hours"
+    ],
+    "correctIndex": 2
+  }
+]
