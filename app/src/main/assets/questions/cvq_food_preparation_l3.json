@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does HACCP stand for?",
+    "options": [
+      "Hazard Analysis and Critical Control Points",
+      "Health And Cleanliness Control Procedures",
+      "Hazard Assessment and Catering Control Points",
+      "Health Analysis and Critical Cooking Procedures"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which cooking method involves submerging food completely in hot oil?",
+    "options": [
+      "Shallow frying",
+      "Poaching",
+      "Deep frying",
+      "Braising"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct internal temperature for cooked poultry to be considered safe to eat?",
+    "options": [
+      "63\u00b0C",
+      "72\u00b0C",
+      "75\u00b0C",
+      "85\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a raising agent used in baking?",
+    "options": [
+      "Salt",
+      "Baking powder",
+      "Cream of tartar",
+      "Cornstarch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What term describes cutting vegetables into thin, uniform matchstick shapes?",
+    "options": [
+      "Brunoise",
+      "Julienne",
+      "Chiffonade",
+      "Mirepoix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which nutrient is the primary source of energy for the body?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrates",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the temperature danger zone for bacterial growth in food?",
+    "options": [
+      "0\u00b0C to 10\u00b0C",
+      "5\u00b0C to 63\u00b0C",
+      "10\u00b0C to 75\u00b0C",
+      "20\u00b0C to 80\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sauce is made from butter and egg yolks and is a classic emulsion sauce?",
+    "options": [
+      "B\u00e9chamel",
+      "Velout\u00e9",
+      "Hollandaise",
+      "Espagnole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of knife is best suited for peeling and trimming small fruits and vegetables?",
+    "options": [
+      "Chef's knife",
+      "Bread knife",
+      "Paring knife",
+      "Boning knife"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which method of cooking uses moist heat and is suitable for tougher cuts of meat?",
+    "options": [
+      "Grilling",
+      "Roasting",
+      "Braising",
+      "Saut\u00e9ing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of gluten in bread making?",
+    "options": [
+      "To add sweetness",
+      "To provide structure and elasticity",
+      "To speed up fermentation",
+      "To add colour to the crust"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a complete protein food?",
+    "options": [
+      "White rice",
+      "Lentils",
+      "Eggs",
+      "Bread"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'mise en place' mean in professional cooking?",
+    "options": [
+      "A French dessert",
+      "Everything in its place",
+      "A cooking technique",
+      "A type of garnish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which preservation method removes moisture from food to prevent bacterial growth?",
+    "options": [
+      "Refrigeration",
+      "Pickling",
+      "Dehydration",
+      "Blanching"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct hand washing duration recommended to remove bacteria effectively?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "20 seconds",
+      "60 seconds"
+    ],
+    "correctIndex": 2
+  }
+]

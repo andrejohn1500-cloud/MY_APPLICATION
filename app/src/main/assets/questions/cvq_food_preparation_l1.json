@@ -1,0 +1,153 @@
+[
+  {
+    "question": "What does FIFO stand for in food storage?",
+    "options": [
+      "First In First Out",
+      "First In Final Out",
+      "Food In Food Out",
+      "Fresh In Fresh Out"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which temperature range is known as the 'danger zone' for bacterial growth in food?",
+    "options": [
+      "0\u00b0C to 5\u00b0C",
+      "5\u00b0C to 63\u00b0C",
+      "63\u00b0C to 100\u00b0C",
+      "100\u00b0C to 150\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct internal temperature for cooked chicken to be considered safe to eat?",
+    "options": [
+      "65\u00b0C",
+      "70\u00b0C",
+      "75\u00b0C",
+      "80\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which knife is best used for peeling and trimming vegetables?",
+    "options": [
+      "Chef's knife",
+      "Bread knife",
+      "Paring knife",
+      "Boning knife"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'mise en place' mean in the kitchen?",
+    "options": [
+      "Clean as you go",
+      "Everything in its place",
+      "Cook quickly",
+      "Serve immediately"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a root vegetable?",
+    "options": [
+      "Broccoli",
+      "Spinach",
+      "Carrot",
+      "Zucchini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of contamination occurs when bacteria transfer from raw meat to ready-to-eat food?",
+    "options": [
+      "Chemical contamination",
+      "Physical contamination",
+      "Cross-contamination",
+      "Biological oxidation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cooking method involves submerging food completely in hot oil?",
+    "options": [
+      "Grilling",
+      "Steaming",
+      "Deep frying",
+      "Poaching"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "function": "Which colour chopping board is typically used for raw red meat?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "question": "Which colour chopping board is typically used for raw red meat?"
+  },
+  {
+    "question": "What is the purpose of blanching vegetables before freezing?",
+    "options": [
+      "To add flavour",
+      "To stop enzyme activity and preserve quality",
+      "To make them softer",
+      "To remove salt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a dry heat cooking method?",
+    "options": [
+      "Boiling",
+      "Steaming",
+      "Roasting",
+      "Poaching"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What should you do immediately after handling raw poultry?",
+    "options": [
+      "Wipe hands on a cloth",
+      "Wash hands thoroughly with soap and water",
+      "Put on gloves",
+      "Continue cooking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which nutrient is the main energy source for the body?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'al dente' mean when cooking pasta?",
+    "options": [
+      "Very soft",
+      "Overcooked",
+      "Firm to the bite",
+      "Completely raw"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which piece of equipment is used to measure the temperature of cooked food?",
+    "options": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Scale"
+    ],
+    "correctIndex": 0
+  }
+]

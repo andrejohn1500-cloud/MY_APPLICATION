@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which cooking method involves submerging food completely in hot fat or oil at temperatures between 175\u00b0C and 195\u00b0C?",
+    "options": [
+      "A. Shallow frying",
+      "B. Deep frying",
+      "C. Saut\u00e9ing",
+      "D. Stir frying"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of blanching vegetables before freezing?",
+    "options": [
+      "A. To enhance colour and flavour during cooking",
+      "B. To destroy harmful bacteria completely",
+      "C. To inactivate enzymes that cause deterioration",
+      "D. To reduce cooking time when reheated"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which stock is produced by roasting bones before simmering them with mirepoix and bouquet garni?",
+    "options": [
+      "A. White stock",
+      "B. Fish stock",
+      "C. Vegetable stock",
+      "D. Brown stock"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The HACCP system in a professional kitchen primarily focuses on:",
+    "options": [
+      "A. Reducing food costs and wastage",
+      "B. Identifying and controlling food safety hazards",
+      "C. Training kitchen staff in cooking techniques",
+      "D. Maintaining kitchen equipment records"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'mise en place' mean in professional cooking?",
+    "options": [
+      "A. A classical French sauce",
+      "B. Everything in its place \u2013 advance preparation before service",
+      "C. A method of presenting food on the plate",
+      "D. The order of courses in a formal meal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sauce is made from a combination of egg yolks, butter and lemon juice using the emulsification process?",
+    "options": [
+      "A. B\u00e9chamel",
+      "B. Velout\u00e9",
+      "C. Hollandaise",
+      "D. Espagnole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The temperature danger zone for bacterial growth in food is generally accepted as:",
+    "options": [
+      "A. 0\u00b0C to 10\u00b0C",
+      "B. 5\u00b0C to 63\u00b0C",
+      "C. 10\u00b0C to 50\u00b0C",
+      "D. 20\u00b0C to 80\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which knife cut produces small cubes of approximately 3mm x 3mm x 3mm?",
+    "options": [
+      "A. Julienne",
+      "B. Brunoise",
+      "C. Chiffonade",
+      "D. Jardini\u00e8re"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct internal temperature for safely cooked poultry as recommended by food safety guidelines?",
+    "options": [
+      "A. 65\u00b0C",
+      "B. 70\u00b0C",
+      "C. 75\u00b0C",
+      "D. 80\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a derivative of the classical brown sauce Espagnole?",
+    "options": [
+      "A. Mornay sauce",
+      "B. Demi-glace",
+      "C. Supr\u00eame sauce",
+      "D. Velout\u00e9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In pastry production, what is the function of resting or relaxing short pastry dough in the refrigerator before baking?",
+    "options": [
+      "A. To develop gluten for a stronger structure",
+      "B. To prevent shrinkage during baking by relaxing gluten",
+      "C. To allow yeast fermentation to occur",
+      "D. To increase the fat content of the pastry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which preservation method uses salt to draw moisture out of food through osmosis?",
+    "options": [
+      "A. Pickling",
+      "B. Smoking",
+      "C. Curing",
+      "D. Dehydration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main difference between a cream soup and a pur\u00e9e soup?",
+    "options": [
+      "A. Cream soups are always cold while pur\u00e9e soups are served hot",
+      "B. Cream soups are finished with cream and have a velvet texture; pur\u00e9e soups are thickened by the starchy content of the main ingredient",
+      "C. Pur\u00e9e soups always contain dairy products while cream soups do not",
+      "D. Cream soups use a roux while pur\u00e9e soups use eggs as a thickener"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which dietary requirement must be observed when preparing food for a lacto-vegetarian guest?",
+    "options": [
+      "A. Exclude all animal products including dairy and eggs",
+      "B. Exclude meat, poultry and fish but allow dairy products",
+      "C. Exclude only red meat from the menu",
+      "D. Exclude gluten-containing grains from all dishes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When using the FIFO (First In, First Out) stock rotation system, which practice is correct?",
+    "options": [
+      "A. Newer stock is placed at the front and older stock moved to the back",
+      "B. Oldest stock is used first by placing newer deliveries behind existing stock",
+      "C. Stock is rotated based on weight rather than delivery date",
+      "D. Frozen items are always used before refrigerated items regardless of date"
+    ],
+    "correctIndex": 1
+  }
+]

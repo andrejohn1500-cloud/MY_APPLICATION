@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which cooking method involves submerging food in oil heated between 160\u00b0C and 190\u00b0C to achieve a crispy exterior through the Maillard reaction?",
+    "options": [
+      "A. Braising",
+      "B. Deep frying",
+      "C. Poaching",
+      "D. Steaming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When preparing a classical French mother sauce, which of the following is the correct ratio of fat to flour for a standard roux?",
+    "options": [
+      "A. 1 part fat to 2 parts flour by weight",
+      "B. 1 part fat to 1 part flour by weight",
+      "C. 2 parts fat to 1 part flour by weight",
+      "D. 3 parts fat to 1 part flour by weight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the HACCP system, which temperature range is considered the 'danger zone' in which bacterial growth is most rapid?",
+    "options": [
+      "A. 0\u00b0C to 5\u00b0C",
+      "B. 5\u00b0C to 63\u00b0C",
+      "C. 63\u00b0C to 75\u00b0C",
+      "D. 75\u00b0C to 100\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "cooking",
+    "question": "Which emulsifying agent found in egg yolks is responsible for stabilising a classic hollandaise sauce?",
+    "options": [
+      "A. Albumin",
+      "B. Lecithin",
+      "C. Casein",
+      "D. Gluten"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cook is preparing a consomm\u00e9. Which clarification process is used to achieve the characteristic crystal-clear appearance?",
+    "options": [
+      "A. Straining through a fine chinois only",
+      "B. Adding a raft of lean ground meat, egg whites, and mirepoix",
+      "C. Reducing the stock to concentrate proteins",
+      "D. Adding arrowroot as a thickening agent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the process of 'nappe' in sauce making?",
+    "options": [
+      "A. The sauce is reduced until it coats the back of a spoon evenly",
+      "B. The sauce is strained through a muslin cloth",
+      "C. The sauce is emulsified with cold butter off the heat",
+      "D. The sauce is seasoned with acid to balance flavour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During the preparation of bread dough, gluten development is maximised by which combination of factors?",
+    "options": [
+      "A. High-protein flour, adequate hydration, and mechanical kneading",
+      "B. Low-protein flour, minimal water, and resting without kneading",
+      "C. Adding baking powder and limiting mixing time",
+      "D. Using cake flour and warm water only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which internal cooking temperature must poultry reach to be considered safe for consumption according to food safety standards?",
+    "options": [
+      "A. 63\u00b0C",
+      "B. 70\u00b0C",
+      "C. 74\u00b0C",
+      "D. 82\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A chef wants to prepare a classical beurre blanc sauce. Which acid is traditionally used as the reduction base for this sauce?",
+    "options": [
+      "A. Lemon juice and cream",
+      "B. White wine and white wine vinegar",
+      "C. Red wine and shallots",
+      "D. Champagne vinegar and mustard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In garde manger, which curing agent is primarily responsible for the characteristic pink colour and preservation of cured meats such as bacon?",
+    "options": [
+      "A. Sodium chloride",
+      "B. Sodium nitrite",
+      "C. Potassium sorbate",
+      "D. Citric acid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When butchering a whole lamb, which primal cut yields the rack of lamb?",
+    "options": [
+      "A. The leg",
+      "B. The shoulder",
+      "C. The forequarter rib section",
+      "D. The saddle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the process of 'en papillote' cooking?",
+    "options": [
+      "A. Cooking food submerged in clarified butter at a low temperature",
+      "B. Cooking food sealed in a parchment or foil parcel using steam generated from the food itself",
+      "C. Cooking food in a vacuum-sealed bag submerged in a temperature-controlled water bath",
+      "D. Cooking food on a griddle with direct radiant heat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of knife cut produces a fine dice measuring approximately 3mm x 3mm x 3mm?",
+    "options": [
+      "A. Jardini\u00e8re",
+      "B. Brunoise",
+      "C. Julienne",
+      "D. Chiffonade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A pastry chef is making p\u00e2te \u00e0 choux. What is the primary leavening mechanism that causes the pastry to rise and hollow out during baking?",
+    "options": [
+      "A. Yeast fermentation producing carbon dioxide",
+      "B. Chemical leaveners reacting with acidic ingredients",
+      "C. Steam generated from the high water content of the dough",
+      "D. Mechanical aeration from creaming butter and sugar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food allergen legislation requires food businesses to declare 14 major allergens when present in dishes sold to consumers?",
+    "options": [
+      "A. Food Safety Act 1990",
+      "B. EU Food Information for Consumers Regulation No 1169/2011",
+      "C. COSHH Regulations 2002",
+      "D. Health and Safety at Work Act 1974"
+    ],
+    "correctIndex": 1
+  }
+]
