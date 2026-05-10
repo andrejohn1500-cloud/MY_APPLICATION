@@ -98,5 +98,105 @@
       "f'(x) cannot be factored"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Find the area enclosed between y = x\u00b2 and y = x + 2.",
+    "options": [
+      "Area = 3",
+      "Intersections: x\u00b2=x+2; x\u00b2-x-2=0; (x-2)(x+1)=0; x=-1,2; Area=\u222b\u208b\u2081\u00b2(x+2-x\u00b2)dx=[x\u00b2/2+2x-x\u00b3/3]\u208b\u2081\u00b2 = (2+4-8/3)-( 1/2-2+1/3) = 10/3+13/6=9/2",
+      "Area = 6",
+      "Area = 4.5 square units"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mean of 5 numbers is 12. Four of the numbers are 10, 14, 9, 15. Find the fifth.",
+    "options": [
+      "14",
+      "8",
+      "10",
+      "Sum = 5\u00d712 = 60; fifth = 60 - (10+14+9+15) = 60 - 48 = 12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Find the inverse of f(x) = 2x + 3.",
+    "options": [
+      "f\u207b\u00b9(x) = 1/(2x+3)",
+      "f\u207b\u00b9(x) = 2x - 3",
+      "f\u207b\u00b9(x) = (x+3)/2",
+      "f\u207b\u00b9(x) = (x-3)/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The heights of 1000 students are normally distributed with mean 165cm and SD 8cm. Estimate how many students are taller than 181cm.",
+    "options": [
+      "About 100 students",
+      "About 50 students",
+      "z = (181-165)/8 = 2; P(Z>2) \u2248 0.0228; 1000 \u00d7 0.0228 \u2248 23 students",
+      "About 5 students"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Maximise P = 3x + 5y subject to x + 2y \u2264 12, 2x + y \u2264 10, x \u2265 0, y \u2265 0. Find the optimal solution.",
+    "options": [
+      "Maximum P = 30 at (0,6)",
+      "Vertices: (0,0) P=0; (5,0) P=15; (8/3, 14/3) P=8+70/3\u224831.3; (0,6) P=30; maximum at (8/3, 14/3) \u2248 31.3",
+      "Maximum P = 25 at (5,0)",
+      "Maximum P = 36 at (3,5)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solve: |2x - 3| = 7.",
+    "options": [
+      "2x - 3 = 7 gives x = 5; 2x - 3 = -7 gives x = -2; solutions x = 5 or x = -2",
+      "x = 5 only",
+      "x = -2 only",
+      "x = 2 or x = -5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If P(A) = 0.5, P(B) = 0.4 and A and B are mutually exclusive, find P(A\u222aB).",
+    "options": [
+      "P(A\u222aB) = P(A) + P(B) = 0.5 + 0.4 = 0.9",
+      "P = 0.1",
+      "P = 0.2",
+      "P = 1.0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find \u222b(3x\u00b2 + 2x) dx.",
+    "options": [
+      "3x\u00b3 + 2x\u00b2 + C",
+      "6x + 2 + C",
+      "x\u00b3 + x + C",
+      "x\u00b3 + x\u00b2 + C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A die is rolled twice. Find P(sum = 7).",
+    "options": [
+      "P = 1/12",
+      "P = 7/36",
+      "6 favourable outcomes out of 36: P = 6/36 = 1/6",
+      "P = 1/36"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A straight line has gradient -2 and passes through (1, 4). Find its equation.",
+    "options": [
+      "y - 4 = -2(x - 1); y = -2x + 6",
+      "y = -2x - 6",
+      "y = -2x + 2",
+      "y = 2x + 2"
+    ],
+    "correctIndex": 0
   }
 ]

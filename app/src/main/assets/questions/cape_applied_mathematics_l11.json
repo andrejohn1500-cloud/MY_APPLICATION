@@ -148,5 +148,55 @@
       "P(A\u222aB) = 0.4 \u00d7 0.3 = 0.12"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "The mean of 5 numbers is 12. Four of the numbers are 10, 14, 9, 15. Find the fifth.",
+    "options": [
+      "14",
+      "10",
+      "Sum = 5\u00d712 = 60; fifth = 60 - (10+14+9+15) = 60 - 48 = 12",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If P(A) = 0.5, P(B) = 0.4 and A and B are mutually exclusive, find P(A\u222aB).",
+    "options": [
+      "P(A\u222aB) = P(A) + P(B) = 0.5 + 0.4 = 0.9",
+      "P = 0.2",
+      "P = 0.1",
+      "P = 1.0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the stationary point of y = x\u00b2 - 4x + 7.",
+    "options": [
+      "dy/dx = 2x - 4 = 0; x = 2; y = 4 - 8 + 7 = 3; stationary point (2,3)",
+      "(2, -3)",
+      "(4, 7)",
+      "(-2, 3)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Given A = [[1,2],[3,4]] and B = [[5,6],[7,8]], find AB.",
+    "options": [
+      "[[6,8],[10,12]]",
+      "[[5,12],[21,32]]",
+      "AB = [[1\u00d75+2\u00d77, 1\u00d76+2\u00d78],[3\u00d75+4\u00d77, 3\u00d76+4\u00d78]] = [[19,22],[43,50]]",
+      "[[19,22],[41,48]]"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A straight line has gradient -2 and passes through (1, 4). Find its equation.",
+    "options": [
+      "y = -2x + 2",
+      "y = -2x - 6",
+      "y = 2x + 2",
+      "y - 4 = -2(x - 1); y = -2x + 6"
+    ],
+    "correctIndex": 3
   }
 ]

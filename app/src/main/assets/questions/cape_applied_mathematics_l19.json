@@ -98,5 +98,105 @@
       "Test vertices of feasible region: (0,40): P=320; (30,20): P=310; (50,0): P=250; maximum profit = $320 at x=0, y=40"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "A sequence is defined by u\u2099\u208a\u2081 = 3u\u2099 - 4 with u\u2081 = 3. Find u\u2081, u\u2082, u\u2083, u\u2084 and the general term.",
+    "options": [
+      "u\u2081=3, u\u2082=5, u\u2083=11, u\u2084=29; the sequence is not simply geometric; general term u\u2099 = 2\u00d73\u207f\u207b\u00b9 + 1 verified by substitution",
+      "u\u2099 = 3n - 4",
+      "u\u2099 = 3\u207f",
+      "u\u2099 = 2n + 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the sum to infinity of the series 1 + 1/3 + 1/9 + ...",
+    "options": [
+      "S\u221e = 1",
+      "S\u221e = 2",
+      "S\u221e = 3",
+      "a = 1, r = 1/3; S\u221e = 1/(1-1/3) = 1/(2/3) = 3/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A die is rolled twice. Find P(sum = 7).",
+    "options": [
+      "6 favourable outcomes out of 36: P = 6/36 = 1/6",
+      "P = 1/12",
+      "P = 7/36",
+      "P = 1/36"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve the matrix equation AX = B where A = [[2,1],[5,3]] and B = [[4],[7]].",
+    "options": [
+      "X = [[2],[3]]",
+      "det(A) = 6-5 = 1; A\u207b\u00b9 = [[3,-1],[-5,2]]; X = A\u207b\u00b9B = [[3\u00d74+(-1)\u00d77],[-5\u00d74+2\u00d77]] = [[5],[-6]]",
+      "X = [[1],[2]]",
+      "X = [[4],[7]]"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Given f(x) = x\u00b3 - 6x + 4, find the intervals where f is increasing and decreasing.",
+    "options": [
+      "Decreasing for all x > 0",
+      "Increasing everywhere",
+      "f'(x) = 3x\u00b2 - 6 = 3(x\u00b2-2) = 0 at x = \u00b1\u221a2; increasing for x < -\u221a2 and x > \u221a2; decreasing for -\u221a2 < x < \u221a2",
+      "Increasing only for x > 0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find \u222b(3x\u00b2 + 2x) dx.",
+    "options": [
+      "x\u00b3 + x + C",
+      "x\u00b3 + x\u00b2 + C",
+      "6x + 2 + C",
+      "3x\u00b3 + 2x\u00b2 + C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A factory produces items where 2% are defective. In a batch of 500, find the expected number of defective items and the standard deviation using binomial distribution.",
+    "options": [
+      "E(X) = np = 500\u00d70.02 = 10; Var(X) = np(1-p) = 500\u00d70.02\u00d70.98 = 9.8; SD = \u221a9.8 \u2248 3.13",
+      "E(X) = 10, SD = 10",
+      "E(X) = 5, SD = 2.5",
+      "E(X) = 100, SD = 9.8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the inverse of f(x) = 2x + 3.",
+    "options": [
+      "f\u207b\u00b9(x) = (x-3)/2",
+      "f\u207b\u00b9(x) = (x+3)/2",
+      "f\u207b\u00b9(x) = 1/(2x+3)",
+      "f\u207b\u00b9(x) = 2x - 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of 5 numbers is 12. Four of the numbers are 10, 14, 9, 15. Find the fifth.",
+    "options": [
+      "14",
+      "8",
+      "10",
+      "Sum = 5\u00d712 = 60; fifth = 60 - (10+14+9+15) = 60 - 48 = 12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Two vectors are a = 2i + 3j and b = \u03bbi + 6j. Find \u03bb if a and b are parallel.",
+    "options": [
+      "\u03bb = 3",
+      "\u03bb = 6",
+      "\u03bb = 2",
+      "For parallel vectors a\u00d7b = 0; 2\u00d76 - 3\u00d7\u03bb = 0; 12 = 3\u03bb; \u03bb = 4"
+    ],
+    "correctIndex": 3
   }
 ]

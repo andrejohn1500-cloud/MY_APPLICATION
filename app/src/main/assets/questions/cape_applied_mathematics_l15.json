@@ -148,5 +148,55 @@
       "S\u221e = 2"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Find the inverse of f(x) = 2x + 3.",
+    "options": [
+      "f\u207b\u00b9(x) = 1/(2x+3)",
+      "f\u207b\u00b9(x) = (x+3)/2",
+      "f\u207b\u00b9(x) = 2x - 3",
+      "f\u207b\u00b9(x) = (x-3)/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Find the stationary point of y = x\u00b2 - 4x + 7.",
+    "options": [
+      "(-2, 3)",
+      "(2, -3)",
+      "dy/dx = 2x - 4 = 0; x = 2; y = 4 - 8 + 7 = 3; stationary point (2,3)",
+      "(4, 7)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A die is rolled twice. Find P(sum = 7).",
+    "options": [
+      "P = 1/36",
+      "P = 1/12",
+      "P = 7/36",
+      "6 favourable outcomes out of 36: P = 6/36 = 1/6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Given A = [[1,2],[3,4]] and B = [[5,6],[7,8]], find AB.",
+    "options": [
+      "[[19,22],[41,48]]",
+      "AB = [[1\u00d75+2\u00d77, 1\u00d76+2\u00d78],[3\u00d75+4\u00d77, 3\u00d76+4\u00d78]] = [[19,22],[43,50]]",
+      "[[6,8],[10,12]]",
+      "[[5,12],[21,32]]"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If P(A) = 0.5, P(B) = 0.4 and A and B are mutually exclusive, find P(A\u222aB).",
+    "options": [
+      "P = 0.1",
+      "P = 1.0",
+      "P = 0.2",
+      "P(A\u222aB) = P(A) + P(B) = 0.5 + 0.4 = 0.9"
+    ],
+    "correctIndex": 3
   }
 ]
