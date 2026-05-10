@@ -1,156 +1,152 @@
-{
-  "category": "CXC Physical Education",
-  "level": 1,
-  "questions": [
-    {
-      "q": "What does BMI stand for?",
-      "options": [
-        "Body Mass Index",
-        "Body Muscle Indicator",
-        "Basic Metabolic Index",
-        "Body Measurement Index"
-      ],
-      "answer": 0
-    },
-    {
-      "q": "The body's preferred energy source during exercise is",
-      "options": [
-        "Fats",
-        "Proteins",
-        "Vitamins",
-        "Carbohydrates"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Which is a component of physical fitness?",
-      "options": [
-        "Height",
-        "Weight",
-        "Cardiovascular endurance",
-        "Age"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which is a principle of training?",
-      "options": [
-        "Rest",
-        "Sleep",
-        "Overload",
-        "Diet"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "FITT stands for Frequency, Intensity, Time and",
-      "options": [
-        "Training",
-        "Technique",
-        "Type",
-        "Timing"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "A sprain is an injury to a",
-      "options": [
-        "Muscle",
-        "Bone",
-        "Tendon",
-        "Ligament"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Heart rate when the body is at complete rest is called",
-      "options": [
-        "Maximum heart rate",
-        "Recovery heart rate",
-        "Resting heart rate",
-        "Working heart rate"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many players are on a standard basketball team on the court?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which bone is found in the human leg?",
-      "options": [
-        "Humerus",
-        "Radius",
-        "Femur",
-        "Ulna"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "First aid for a minor burn is to",
-      "options": [
-        "Apply butter",
-        "Run cool water over it for 10 minutes",
-        "Cover with a bandage immediately",
-        "Apply ice directly"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The range of motion available at a joint is called",
-      "options": [
-        "Strength",
-        "Speed",
-        "Flexibility",
-        "Power"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Aerobic exercise best describes",
-      "options": [
-        "Short bursts of high intensity activity",
-        "Exercise requiring oxygen over a sustained period",
-        "Weightlifting",
-        "Sprinting"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which body system transports oxygen to working muscles?",
-      "options": [
-        "Nervous system",
-        "Digestive system",
-        "Circulatory system",
-        "Respiratory system"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many touches per team are allowed in volleyball before returning?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which vitamin is produced when skin is exposed to sunlight?",
-      "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin D"
-      ],
-      "answer": 3
-    }
-  ]
-}
+[
+  {
+    "question": "What does 'Physical Education' aim to develop?",
+    "options": [
+      "Only sports skills",
+      "Physical fitness, motor skills, health knowledge and social skills",
+      "Only academic knowledge",
+      "Only teamwork"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'aerobic exercise'?",
+    "options": [
+      "Exercise without oxygen",
+      "Sustained exercise requiring oxygen like running and swimming",
+      "Weightlifting only",
+      "Stretching only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the skeletal system?",
+    "options": [
+      "Only movement",
+      "Support, protection of organs, movement and blood cell production",
+      "Only protection",
+      "Only storing minerals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'flexibility' in fitness?",
+    "options": [
+      "Being able to run fast",
+      "Range of motion available at a joint",
+      "Muscular strength",
+      "Cardiovascular endurance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'warm-up'?",
+    "options": [
+      "Drinking hot water",
+      "Light activity preparing the body for exercise by increasing heart rate and loosening muscles",
+      "The cooling down phase",
+      "Only stretching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the heart rate measure?",
+    "options": [
+      "Blood pressure",
+      "Number of times the heart beats per minute",
+      "Breathing rate",
+      "Body temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'muscular endurance'?",
+    "options": [
+      "Maximum strength of a muscle",
+      "Ability of a muscle to repeat contractions over a period of time",
+      "Speed of movement",
+      "Flexibility"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main muscle used in breathing?",
+    "options": [
+      "Bicep",
+      "Heart",
+      "Diaphragm",
+      "Quadriceps"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does FITT stand for in exercise planning?",
+    "options": [
+      "Fast Intense Total Training",
+      "Frequency Intensity Time Type",
+      "Fitness Interval Training Technique",
+      "Full Intensity Timed Training"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'cool-down' after exercise?",
+    "options": [
+      "Drinking cold water",
+      "Gentle activity gradually lowering heart rate and stretching muscles after exercise",
+      "Taking a cold shower",
+      "Resting immediately"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'sportsmanship'?",
+    "options": [
+      "Only winning",
+      "Fair, ethical and generous behaviour in sport",
+      "Aggressive play",
+      "Only following rules"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'cardiovascular fitness'?",
+    "options": [
+      "Strength of muscles",
+      "Efficiency of the heart and lungs in delivering oxygen during sustained exercise",
+      "Flexibility",
+      "Balance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'sprain'?",
+    "options": [
+      "A broken bone",
+      "Injury to a ligament caused by overstretching",
+      "A muscle tear",
+      "A skin cut"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'BMI'?",
+    "options": [
+      "Body Mass Index \u2014 ratio of weight to height used to assess healthy weight",
+      "Best Muscle Indicator",
+      "Body Measurement Index",
+      "Basic Movement Indicator"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is a benefit of regular physical activity?",
+    "options": [
+      "Weakens the heart",
+      "Reduces risk of chronic diseases and improves mental health",
+      "Decreases flexibility",
+      "Weakens bones"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,156 +1,152 @@
-{
-  "category": "CXC English B",
-  "level": 1,
-  "questions": [
-    {
-      "q": "The central conflict is introduced during which part of a story?",
-      "options": [
-        "Exposition",
-        "Rising action",
-        "Climax",
-        "Resolution"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "When a character's words mean the opposite of what is said, this is",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Verbal irony",
-        "Hyperbole"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "A narrator who uses 'I' and is a character in the story uses which point of view?",
-      "options": [
-        "Third person",
-        "Second person",
-        "First person",
-        "Omniscient"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "A soliloquy is when a character",
-      "options": [
-        "Speaks to another character",
-        "Speaks thoughts aloud alone",
-        "Whispers to the audience",
-        "Writes a letter"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "'The trees whispered secrets to the wind' is an example of",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Personification",
-        "Alliteration"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many lines does a sonnet have?",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Who wrote 'A House for Mr. Biswas'?",
-      "options": [
-        "Derek Walcott",
-        "Samuel Selvon",
-        "V.S. Naipaul",
-        "George Lamming"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "'She's as brave as a lion' is an example of",
-      "options": [
-        "Metaphor",
-        "Simile",
-        "Personification",
-        "Hyperbole"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The atmosphere or feeling created by a piece of writing is called",
-      "options": [
-        "Theme",
-        "Tone",
-        "Mood",
-        "Style"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Derek Walcott won the Nobel Prize in which field?",
-      "options": [
-        "Peace",
-        "Economics",
-        "Literature",
-        "Medicine"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The repetition of initial consonant sounds is called",
-      "options": [
-        "Assonance",
-        "Alliteration",
-        "Rhyme",
-        "Rhythm"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The main message or central idea of a literary work is its",
-      "options": [
-        "Plot",
-        "Setting",
-        "Theme",
-        "Conflict"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "A story's climax is",
-      "options": [
-        "The beginning",
-        "The turning point of greatest tension",
-        "The resolution",
-        "The falling action"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "'The Lonely Londoners' is set in which city?",
-      "options": [
-        "New York",
-        "Toronto",
-        "London",
-        "Paris"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Repetition of initial consonant sounds in 'Season of mists and mellow fruitfulness' is",
-      "options": [
-        "Assonance",
-        "Onomatopoeia",
-        "Alliteration",
-        "Rhyme"
-      ],
-      "answer": 2
-    }
-  ]
-}
+[
+  {
+    "question": "What is 'prose'?",
+    "options": [
+      "Writing in verse",
+      "Ordinary written or spoken language without a regular metrical pattern",
+      "Only fiction",
+      "Only poetry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the 'narrator' of a story?",
+    "options": [
+      "The main character",
+      "The person or voice telling the story",
+      "The villain",
+      "The author always"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'theme' in literature?",
+    "options": [
+      "The setting of a story",
+      "The central idea or message explored in a literary work",
+      "The main character",
+      "The title"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'characterisation'?",
+    "options": [
+      "Listing characters",
+      "Methods an author uses to create and develop characters",
+      "The setting",
+      "The plot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'conflict' in a story?",
+    "options": [
+      "A peaceful moment",
+      "The struggle between opposing forces driving the plot",
+      "The ending",
+      "The introduction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'point of view' mean in literature?",
+    "options": [
+      "An opinion",
+      "The perspective from which a story is told",
+      "The setting",
+      "The theme"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'first person' narration?",
+    "options": [
+      "The third person telling the story",
+      "Story told using 'I' by a character within the story",
+      "Story with no narrator",
+      "Only used in poetry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'foreshadowing'?",
+    "options": [
+      "Describing the weather",
+      "Hints or clues about events that will happen later in the story",
+      "Describing a character",
+      "The ending of a story"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'irony'?",
+    "options": [
+      "A type of rhyme",
+      "When the intended meaning differs from the literal meaning or expectation",
+      "A type of character",
+      "A story structure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the 'climax' of a story?",
+    "options": [
+      "The beginning",
+      "The point of highest tension or turning point in the plot",
+      "The setting",
+      "The first paragraph"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'symbol' in literature?",
+    "options": [
+      "A punctuation mark",
+      "An object, person or place representing something beyond its literal meaning",
+      "A character's name",
+      "A type of setting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'tone' mean in literature?",
+    "options": [
+      "The sound of reading",
+      "The author's attitude toward the subject conveyed through word choice",
+      "The volume",
+      "The pace"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'dialogue' in a literary work?",
+    "options": [
+      "Description of setting",
+      "Conversation between characters",
+      "Internal thoughts",
+      "The narrator's voice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'short story'?",
+    "options": [
+      "A poem",
+      "A brief fictional prose narrative with few characters and a single main event",
+      "A chapter of a novel",
+      "A play"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'imagery' in literature?",
+    "options": [
+      "Photographs in a book",
+      "Descriptive language that appeals to the senses",
+      "A type of character",
+      "The plot structure"
+    ],
+    "correctIndex": 1
+  }
+]

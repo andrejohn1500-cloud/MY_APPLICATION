@@ -1,156 +1,152 @@
-{
-  "category": "CXC English A",
-  "level": 1,
-  "questions": [
-    {
-      "q": "What is the purpose of a topic sentence?",
-      "options": [
-        "End the paragraph",
-        "Introduce the main idea",
-        "Add details",
-        "Provide evidence"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "'Affect' and 'effect' are examples of",
-      "options": [
-        "Synonyms",
-        "Antonyms",
-        "Homophones",
-        "Homonyms"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which punctuation mark introduces a list?",
-      "options": [
-        "Semicolon",
-        "Comma",
-        "Colon",
-        "Dash"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which is an example of a metaphor?",
-      "options": [
-        "She runs like the wind",
-        "Life is a journey",
-        "The wind howled",
-        "As brave as a lion"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which is a compound sentence?",
-      "options": [
-        "She ran quickly",
-        "She ran quickly and arrived on time",
-        "Because she ran",
-        "Running fast"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "A summary should be written",
-      "options": [
-        "Word for word",
-        "In your own words and shorter",
-        "Longer than original",
-        "With new ideas"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "In 'The principal called the students', what is the object?",
-      "options": [
-        "The principal",
-        "Called",
-        "The students",
-        "Principal"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which word is correctly spelled?",
-      "options": [
-        "Recieve",
-        "Achieve",
-        "Beleive",
-        "Freind"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "A formal letter to a principal begins with",
-      "options": [
-        "Hello Sir",
-        "Dear Sir/Madam",
-        "Good day",
-        "To whom it may concern"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Neither the teacher nor the students ___ ready",
-      "options": [
-        "was",
-        "is",
-        "were",
-        "are being"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Writing that aims to convince the reader is called",
-      "options": [
-        "Narrative",
-        "Descriptive",
-        "Persuasive",
-        "Expository"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "'Students were advised to study' is in which voice?",
-      "options": [
-        "Active",
-        "Passive",
-        "Future",
-        "Present"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "'Benevolent' means",
-      "options": [
-        "Cruel",
-        "Kind and generous",
-        "Intelligent",
-        "Brave"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which sentence is correctly punctuated?",
-      "options": [
-        "Its a lovely day",
-        "It's a lovely day, isn't it?",
-        "Its a lovely day isnt it",
-        "It's a lovely day isnt it"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which sentence contains a dangling modifier?",
-      "options": [
-        "She ran fast",
-        "Running fast the bus was caught by John",
-        "John ran and caught the bus",
-        "The bus left quickly"
-      ],
-      "answer": 1
-    }
-  ]
-}
+[
+  {
+    "question": "What is the purpose of a topic sentence?",
+    "options": [
+      "To end a paragraph",
+      "To introduce the main idea of a paragraph",
+      "To provide evidence",
+      "To ask a question"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which punctuation mark introduces a list?",
+    "options": [
+      "Comma",
+      "Full stop",
+      "Colon",
+      "Semicolon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a 'metaphor'?",
+    "options": [
+      "A direct comparison using like or as",
+      "A direct comparison stating one thing IS another",
+      "A type of rhyme",
+      "A question form"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'compound sentence'?",
+    "options": [
+      "A sentence with one clause",
+      "Two or more independent clauses joined by a conjunction",
+      "A very long sentence",
+      "A question"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the word 'affect' mean?",
+    "options": [
+      "Result or outcome",
+      "To have an influence on something",
+      "A false emotion",
+      "A type of writing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the object in 'The teacher marked the papers'?",
+    "options": [
+      "The teacher",
+      "Marked",
+      "The papers",
+      "Teacher"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is correctly spelled?",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receve",
+      "Receeve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'formal letter' used for?",
+    "options": [
+      "Writing to friends",
+      "Official communication such as to employers or authorities",
+      "Personal messages",
+      "Shopping lists"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'synonyms'?",
+    "options": [
+      "Words with opposite meanings",
+      "Words with similar meanings",
+      "Words that rhyme",
+      "Made-up words"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a summary?",
+    "options": [
+      "To copy a text exactly",
+      "To present the main ideas of a text in your own words concisely",
+      "To add your opinion",
+      "To ask questions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does an 'adverb' modify?",
+    "options": [
+      "A noun",
+      "A verb, adjective or another adverb",
+      "Only nouns",
+      "Only adjectives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'active voice'?",
+    "options": [
+      "Loud reading",
+      "Sentence where the subject performs the action",
+      "Sentence where subject receives action",
+      "A type of punctuation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is an example of 'alliteration'?",
+    "options": [
+      "She runs fast",
+      "Peter Piper picked peppers",
+      "The sun set slowly",
+      "It was a dark night"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'thesis statement'?",
+    "options": [
+      "The title of an essay",
+      "A sentence stating the main argument of an essay",
+      "The conclusion",
+      "A supporting detail"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'register' in language use?",
+    "options": [
+      "A list of names",
+      "The level of formality appropriate to a situation",
+      "A type of punctuation",
+      "A grammar rule"
+    ],
+    "correctIndex": 1
+  }
+]

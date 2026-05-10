@@ -1,156 +1,152 @@
-{
-  "category": "CXC IT",
-  "level": 1,
-  "questions": [
-    {
-      "q": "What does HTTP stand for?",
-      "options": [
-        "High Text Transfer Protocol",
-        "HyperText Transfer Protocol",
-        "Hybrid Transfer Text Protocol",
-        "Host Transfer Text Protocol"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Malicious software designed to damage a computer is called",
-      "options": [
-        "Firewall",
-        "Antivirus",
-        "Virus",
-        "Browser"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The main function of a firewall is to",
-      "options": [
-        "Speed up internet",
-        "Store files",
-        "Block unauthorised network access",
-        "Create passwords"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which network covers the largest geographic area?",
-      "options": [
-        "LAN",
-        "MAN",
-        "PAN",
-        "WAN"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Which is an example of application software?",
-      "options": [
-        "Windows 11",
-        "Linux",
-        "Microsoft Excel",
-        "BIOS"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What does URL stand for?",
-      "options": [
-        "Universal Resource Link",
-        "Uniform Resource Locator",
-        "Universal Remote Login",
-        "Unique Resource Locator"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "A collection of related records in a database is called a",
-      "options": [
-        "Field",
-        "Record",
-        "Table",
-        "Query"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What does CPU stand for?",
-      "options": [
-        "Central Processing Unit",
-        "Computer Processing Unit",
-        "Central Program Unit",
-        "Core Processing Utility"
-      ],
-      "answer": 0
-    },
-    {
-      "q": "Which is an output device?",
-      "options": [
-        "Keyboard",
-        "Scanner",
-        "Mouse",
-        "Projector"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Which is an input device?",
-      "options": [
-        "Monitor",
-        "Printer",
-        "Keyboard",
-        "Speaker"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which storage device has no moving parts and is fastest?",
-      "options": [
-        "CD-ROM",
-        "Hard Disk Drive",
-        "USB Drive",
-        "Solid State Drive"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "What is the binary equivalent of decimal 10?",
-      "options": [
-        "1100",
-        "1010",
-        "1001",
-        "1110"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "What does RAM stand for?",
-      "options": [
-        "Read Access Memory",
-        "Random Access Memory",
-        "Rapid Access Memory",
-        "Read And Modify"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which is an example of an operating system?",
-      "options": [
-        "Microsoft Word",
-        "Google Chrome",
-        "Windows 11",
-        "Microsoft Excel"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What file extension is associated with a spreadsheet?",
-      "options": [
-        ".DOCX",
-        ".PPTX",
-        ".XLSX",
-        ".PDF"
-      ],
-      "answer": 2
-    }
-  ]
-}
+[
+  {
+    "question": "What does 'hardware' refer to in computing?",
+    "options": [
+      "Computer programs",
+      "Physical components of a computer",
+      "Internet connections",
+      "Data files"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'software' mean?",
+    "options": [
+      "Physical computer parts",
+      "Programs and applications that run on a computer",
+      "The computer screen",
+      "The keyboard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of an operating system?",
+    "options": [
+      "Play music",
+      "Manage computer hardware and software resources",
+      "Only run games",
+      "Store documents"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": [
+      "Computer Processing Unit",
+      "Central Processing Unit",
+      "Core Program Utility",
+      "Computer Program Unit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'data'?",
+    "options": [
+      "Only numbers",
+      "Raw facts and figures that can be processed by a computer",
+      "Finished reports",
+      "Computer programs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'input' mean in computing?",
+    "options": [
+      "Data produced by the computer",
+      "Data entered into the computer for processing",
+      "Storing data",
+      "Displaying results"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'database'?",
+    "options": [
+      "A type of network",
+      "Organised collection of structured data for easy access and management",
+      "A programming language",
+      "A type of hardware"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'email'?",
+    "options": [
+      "A type of hardware",
+      "Electronic mail \u2014 messages sent and received over the internet",
+      "A programming language",
+      "A social media platform"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'http' stand for?",
+    "options": [
+      "Home Transfer Text Protocol",
+      "HyperText Transfer Protocol",
+      "High Traffic Transfer Protocol",
+      "HyperText Technical Process"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'virus' in computing?",
+    "options": [
+      "A helpful program",
+      "Malicious software that can damage files and spread to other computers",
+      "A type of hardware",
+      "An internet connection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'RAM'?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory \u2014 temporary working memory",
+      "Remote Access Module",
+      "Rapid Application Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'output' mean in computing?",
+    "options": [
+      "Data entered by user",
+      "Results produced by the computer after processing",
+      "Storing information",
+      "Programs running"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'spreadsheet'?",
+    "options": [
+      "A type of printer",
+      "Software organising data in rows and columns for calculation",
+      "A word processor",
+      "A database program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'backup'?",
+    "options": [
+      "Going backwards",
+      "Creating a copy of data to protect against loss",
+      "Deleting files",
+      "Formatting a drive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the internet?",
+    "options": [
+      "A single large computer",
+      "A global network of interconnected computers",
+      "A type of software",
+      "A company"
+    ],
+    "correctIndex": 1
+  }
+]

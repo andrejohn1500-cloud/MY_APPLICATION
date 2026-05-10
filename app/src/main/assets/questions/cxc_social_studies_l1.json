@@ -1,156 +1,152 @@
-{
-  "category": "CXC Social Studies",
-  "level": 1,
-  "questions": [
-    {
-      "q": "Which institution is responsible for making laws in most Caribbean countries?",
-      "options": [
-        "The Cabinet",
-        "The Parliament",
-        "The Judiciary",
-        "The Police"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The Universal Declaration of Human Rights was adopted in which year?",
-      "options": [
-        "1945",
-        "1948",
-        "1950",
-        "1955"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "SVG gained independence from Britain in which year?",
-      "options": [
-        "1975",
-        "1978",
-        "1979",
-        "1981"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The head of government in a Westminster system is the",
-      "options": [
-        "President",
-        "Governor General",
-        "Prime Minister",
-        "King"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which of the following is a function of the family?",
-      "options": [
-        "Making laws",
-        "Socialisation of children",
-        "Collecting taxes",
-        "Defending the country"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "CARICOM was established in which year?",
-      "options": [
-        "1968",
-        "1970",
-        "1973",
-        "1975"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which best defines 'culture'?",
-      "options": [
-        "A country's laws",
-        "The way of life of a group of people",
-        "A type of music",
-        "Government policy"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The process by which a person learns the norms of their society is called",
-      "options": [
-        "Education",
-        "Training",
-        "Socialisation",
-        "Migration"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which of the following is a civil right?",
-      "options": [
-        "Right to food",
-        "Right to vote",
-        "Right to shelter",
-        "Right to work"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which of the following is a non-governmental organisation (NGO)?",
-      "options": [
-        "The Police",
-        "The Parliament",
-        "The Red Cross",
-        "The Army"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "A person who enters a country to live permanently is called an",
-      "options": [
-        "Tourist",
-        "Emigrant",
-        "Refugee",
-        "Immigrant"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "The main purpose of a constitution is to",
-      "options": [
-        "Collect taxes",
-        "Outline fundamental laws and rights",
-        "Manage the economy",
-        "Control the police"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which of the following is an example of social mobility?",
-      "options": [
-        "Moving to a new house",
-        "A farmer's child becoming a doctor",
-        "Changing jobs",
-        "Going on holiday"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The main export of most Caribbean economies has traditionally been",
-      "options": [
-        "Oil",
-        "Tobacco",
-        "Sugar",
-        "Cotton"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which of the following is NOT a function of government?",
-      "options": [
-        "Making laws",
-        "Providing services",
-        "Socialising children",
-        "Defending the country"
-      ],
-      "answer": 2
-    }
-  ]
-}
+[
+  {
+    "question": "What is the definition of culture?",
+    "options": [
+      "Only music and art",
+      "The way of life of a group of people",
+      "Government rules",
+      "Religious beliefs only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a primary socialisation agent?",
+    "options": [
+      "School",
+      "Family",
+      "Media",
+      "Church"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'democracy' mean?",
+    "options": [
+      "Rule by the military",
+      "Rule by one person",
+      "Government by the people",
+      "Rule by religion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of the family?",
+    "options": [
+      "To pay taxes",
+      "To nurture and socialise children",
+      "To make laws",
+      "To build roads"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these best describes a 'society'?",
+    "options": [
+      "A type of school",
+      "A group of people sharing a territory and culture",
+      "A government building",
+      "A single family unit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'gender'?",
+    "options": [
+      "Biological sex only",
+      "Social and cultural roles assigned to males and females",
+      "A school subject",
+      "A type of work"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'migration' mean?",
+    "options": [
+      "Growing crops",
+      "Moving from one place to another to live",
+      "Celebrating a festival",
+      "Trading goods"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a social institution?",
+    "options": [
+      "A mountain",
+      "The family",
+      "A river",
+      "A car"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'nation'?",
+    "options": [
+      "Only a government",
+      "A group of people sharing identity, history and often territory",
+      "A type of economy",
+      "A religious group only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'social class' refer to?",
+    "options": [
+      "School classes",
+      "Grouping of people based on wealth, education or occupation",
+      "Age groups",
+      "Family size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is an example of cultural diffusion?",
+    "options": [
+      "A family eating together",
+      "Adopting another culture's food or music",
+      "Going to school",
+      "Paying taxes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'discrimination'?",
+    "options": [
+      "Treating everyone equally",
+      "Unfair treatment of people based on race, gender or other characteristics",
+      "A type of tax",
+      "A government policy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'socialisation' mean?",
+    "options": [
+      "Making friends only",
+      "Process by which people learn the norms and values of their society",
+      "Going to parties",
+      "Joining clubs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a human right?",
+    "options": [
+      "Right to unlimited wealth",
+      "Right to a fair trial",
+      "Right to own others",
+      "Right to break laws"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the role of government?",
+    "options": [
+      "To control citizens completely",
+      "To make and enforce laws and provide services for the people",
+      "To run private businesses",
+      "To teach in schools"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,156 +1,152 @@
-{
-  "category": "Sports",
-  "level": 1,
-  "questions": [
-    {
-      "q": "Which Caribbean nation is famous for its Winter Olympics bobsled team?",
-      "options": [
-        "Trinidad",
-        "Barbados",
-        "Jamaica",
-        "Guyana"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Chris Gayle is associated with which Caribbean cricket team?",
-      "options": [
-        "Barbados",
-        "Trinidad",
-        "Jamaica",
-        "Guyana"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The Summer Olympic Games are held every how many years?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many events are in a Decathlon?",
-      "options": [
-        "7",
-        "8",
-        "10",
-        "12"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many players per team on a basketball court?",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Usain Bolt is from which country?",
-      "options": [
-        "Trinidad",
-        "Barbados",
-        "Jamaica",
-        "Antigua"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What is the tennis score when both players are at 40?",
-      "options": [
-        "Tie",
-        "Draw",
-        "Deuce",
-        "Level"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which country won the FIFA World Cup 2022?",
-      "options": [
-        "Brazil",
-        "France",
-        "Argentina",
-        "Germany"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "How many holes are in a standard round of golf?",
-      "options": [
-        "9",
-        "12",
-        "18",
-        "21"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which sport uses a shuttlecock?",
-      "options": [
-        "Tennis",
-        "Badminton",
-        "Squash",
-        "Volleyball"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which team has won the most Cricket World Cups?",
-      "options": [
-        "West Indies",
-        "India",
-        "England",
-        "Australia"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "What colour jersey does the Tour de France leader wear?",
-      "options": [
-        "Green",
-        "White",
-        "Red",
-        "Yellow"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "In which country was cricket invented?",
-      "options": [
-        "Australia",
-        "India",
-        "England",
-        "South Africa"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Shot Put is a discipline in which sport?",
-      "options": [
-        "Swimming",
-        "Athletics",
-        "Gymnastics",
-        "Cycling"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Serena Williams is celebrated for which sport?",
-      "options": [
-        "Golf",
-        "Tennis",
-        "Basketball",
-        "Athletics"
-      ],
-      "answer": 1
-    }
-  ]
-}
+[
+  {
+    "question": "How many players are in a football (soccer) team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Caribbean nation is famous for producing world-class sprinters?",
+    "options": [
+      "Barbados",
+      "Jamaica",
+      "Trinidad",
+      "Guyana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What sport is played at Kensington Oval in Barbados?",
+    "options": [
+      "Football",
+      "Tennis",
+      "Cricket",
+      "Athletics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many points is a try worth in rugby union?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is the governing body of world football?",
+    "options": [
+      "ICC",
+      "FIFA",
+      "IAAF",
+      "NBA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the length of an Olympic swimming pool?",
+    "options": [
+      "25 metres",
+      "50 metres",
+      "75 metres",
+      "100 metres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many players are on a basketball team on court at one time?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who won the most Olympic gold medals in sprinting representing Jamaica?",
+    "options": [
+      "Asafa Powell",
+      "Yohan Blake",
+      "Usain Bolt",
+      "Donald Quarrie"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the distance of a standard marathon race?",
+    "options": [
+      "21.1 km",
+      "26.2 miles (42.2 km)",
+      "30 km",
+      "50 km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cricket, how many balls are in a standard over?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a Caribbean sporting competition?",
+    "options": [
+      "Copa America",
+      "Caribbean Games",
+      "CARIFTA Games",
+      "Pan-African Games"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What sport does Brian Lara represent the Caribbean in?",
+    "options": [
+      "Football",
+      "Athletics",
+      "Tennis",
+      "Cricket"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "How high is a regulation basketball hoop from the floor?",
+    "options": [
+      "8 feet",
+      "10 feet",
+      "12 feet",
+      "9 feet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'hat-trick' in football?",
+    "options": [
+      "A special kick",
+      "Scoring three goals in one match",
+      "Saving three penalties",
+      "Three yellow cards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country hosts the annual Tour de France cycling race?",
+    "options": [
+      "Italy",
+      "Spain",
+      "France",
+      "Belgium"
+    ],
+    "correctIndex": 2
+  }
+]

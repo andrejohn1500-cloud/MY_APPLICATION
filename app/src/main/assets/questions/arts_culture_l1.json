@@ -1,156 +1,152 @@
-{
-  "category": "Arts & Culture",
-  "level": 1,
-  "questions": [
-    {
-      "q": "Who wrote 'A House for Mr Biswas'?",
-      "options": [
-        "Derek Walcott",
-        "Samuel Selvon",
-        "V.S. Naipaul",
-        "George Lamming"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "In which decade did reggae music rise to prominence?",
-      "options": [
-        "1950s",
-        "1960s",
-        "1970s",
-        "1980s"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The Crop Over festival is celebrated in which Caribbean island?",
-      "options": [
-        "Jamaica",
-        "Trinidad",
-        "Barbados",
-        "St. Lucia"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Who wrote the dystopian novel '1984'?",
-      "options": [
-        "Aldous Huxley",
-        "George Orwell",
-        "Ray Bradbury",
-        "H.G. Wells"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which artist is known for cutting off his own ear?",
-      "options": [
-        "Pablo Picasso",
-        "Leonardo Da Vinci",
-        "Vincent Van Gogh",
-        "Salvador Dali"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The Louvre Museum is located in which city?",
-      "options": [
-        "London",
-        "Rome",
-        "Paris",
-        "Berlin"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Who painted the Mona Lisa?",
-      "options": [
-        "Michelangelo",
-        "Leonardo Da Vinci",
-        "Raphael",
-        "Botticelli"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The Booker Prize is awarded for excellence in which field?",
-      "options": [
-        "Music",
-        "Film",
-        "Literature",
-        "Architecture"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Bob Marley was from which country?",
-      "options": [
-        "Trinidad",
-        "Barbados",
-        "Jamaica",
-        "Haiti"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which Shakespeare play contains 'To be or not to be'?",
-      "options": [
-        "Macbeth",
-        "Romeo and Juliet",
-        "Hamlet",
-        "Othello"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which music genre was pioneered in Trinidad and Tobago?",
-      "options": [
-        "Reggae",
-        "Soca",
-        "Calypso",
-        "Dancehall"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Who directed 'Black Panther'?",
-      "options": [
-        "Spike Lee",
-        "Jordan Peele",
-        "Ryan Coogler",
-        "Ava DuVernay"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which Caribbean writer won the Nobel Prize in Literature in 1992?",
-      "options": [
-        "V.S. Naipaul",
-        "Samuel Selvon",
-        "George Lamming",
-        "Derek Walcott"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Soca music is most associated with which country?",
-      "options": [
-        "Jamaica",
-        "Barbados",
-        "Trinidad and Tobago",
-        "St. Lucia"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What instrument is at the heart of Caribbean Steelpan music?",
-      "options": [
-        "Drums",
-        "Guitar",
-        "Steel Drum Pan",
-        "Bass"
-      ],
-      "answer": 2
-    }
-  ]
-}
+[
+  {
+    "question": "What is 'calypso' music?",
+    "options": [
+      "A type of classical music",
+      "Caribbean musical form originating in Trinidad with topical, often humorous lyrics",
+      "A type of jazz",
+      "European folk music"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a building designed for viewing plays and performances?",
+    "options": [
+      "Museum",
+      "Library",
+      "Theatre",
+      "Gallery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Picasso"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 'reggae' music associated with?",
+    "options": [
+      "Trinidad",
+      "Barbados",
+      "Jamaica",
+      "Cuba"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 'sculpture'?",
+    "options": [
+      "Painting on canvas",
+      "Three-dimensional artwork created by carving, molding or assembling materials",
+      "Photography",
+      "Drawing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'carnival' in the Caribbean?",
+    "options": [
+      "Only a fairground",
+      "A major cultural festival involving music, costumes and street parades",
+      "A religious ceremony only",
+      "A sports event"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'mural'?",
+    "options": [
+      "A small painting",
+      "A large artwork painted directly on a wall",
+      "A type of sculpture",
+      "A digital artwork"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'steelpan'?",
+    "options": [
+      "A kitchen utensil",
+      "A musical instrument invented in Trinidad from oil drums",
+      "A type of drum from Africa",
+      "A wind instrument"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'literature' include?",
+    "options": [
+      "Only novels",
+      "Written works including fiction, poetry, drama and non-fiction",
+      "Only poetry",
+      "Only newspapers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'batik'?",
+    "options": [
+      "A type of dance",
+      "A wax-resist fabric dyeing technique producing patterned textiles",
+      "A musical style",
+      "A painting technique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'choreography'?",
+    "options": [
+      "Writing music",
+      "The art of designing and arranging dance movements",
+      "Painting a scene",
+      "Writing a play"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'folk tale'?",
+    "options": [
+      "A news article",
+      "A traditional story passed down orally through generations",
+      "A modern novel",
+      "A historical document"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Sistine Chapel famous for?",
+    "options": [
+      "Its architecture only",
+      "Michelangelo's ceiling paintings depicting biblical scenes",
+      "Being the largest church",
+      "Its location"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'soca' music?",
+    "options": [
+      "A type of American jazz",
+      "An energetic Caribbean music genre evolving from calypso",
+      "A type of reggae",
+      "Classical Caribbean music"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'indigenous art' refer to?",
+    "options": [
+      "Art from Europe",
+      "Artworks created by the original peoples of a region",
+      "Modern digital art",
+      "Only pottery"
+    ],
+    "correctIndex": 1
+  }
+]

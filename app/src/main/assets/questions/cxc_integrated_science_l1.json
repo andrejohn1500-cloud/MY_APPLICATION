@@ -1,156 +1,152 @@
-{
-  "category": "CXC Integrated Science",
-  "level": 1,
-  "questions": [
-    {
-      "q": "Sound travels fastest through which medium?",
-      "options": [
-        "Air",
-        "Water",
-        "Wood",
-        "Steel"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "What is the chemical symbol for water?",
-      "options": [
-        "WA",
-        "HO",
-        "H2O",
-        "W2O"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What is the unit of electric current?",
-      "options": [
-        "Volt",
-        "Watt",
-        "Ampere",
-        "Ohm"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What is the process of water turning into vapour called?",
-      "options": [
-        "Condensation",
-        "Evaporation",
-        "Precipitation",
-        "Transpiration"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which organ pumps blood around the body?",
-      "options": [
-        "Lungs",
-        "Kidney",
-        "Liver",
-        "Heart"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Which material is a good conductor of electricity?",
-      "options": [
-        "Rubber",
-        "Plastic",
-        "Copper",
-        "Wood"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What is the chemical formula for table salt?",
-      "options": [
-        "NaOH",
-        "NaCl",
-        "KCl",
-        "CaCl"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Blood vessels that carry blood away from the heart are called",
-      "options": [
-        "Veins",
-        "Capillaries",
-        "Arteries",
-        "Ventricles"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which nutrient provides the most energy per gram?",
-      "options": [
-        "Proteins",
-        "Carbohydrates",
-        "Vitamins",
-        "Fats"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "What type of energy does the sun produce for photosynthesis?",
-      "options": [
-        "Heat energy",
-        "Sound energy",
-        "Light energy",
-        "Chemical energy"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What is the pH of a neutral solution?",
-      "options": [
-        "0",
-        "5",
-        "7",
-        "14"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which of the following is NOT a renewable energy source?",
-      "options": [
-        "Solar",
-        "Wind",
-        "Natural gas",
-        "Hydroelectric"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "What force pulls objects towards Earth's centre?",
-      "options": [
-        "Friction",
-        "Magnetism",
-        "Gravity",
-        "Tension"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which part of the cell controls its activities?",
-      "options": [
-        "Cell wall",
-        "Cytoplasm",
-        "Nucleus",
-        "Membrane"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which gas do plants absorb during photosynthesis?",
-      "options": [
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide",
-        "Hydrogen"
-      ],
-      "answer": 2
-    }
-  ]
-}
+[
+  {
+    "question": "What is matter?",
+    "options": [
+      "Only solids",
+      "Anything that has mass and takes up space",
+      "Only liquids and gases",
+      "Only living things"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the three states of matter?",
+    "options": [
+      "Hot, warm and cold",
+      "Solid, liquid and gas",
+      "Hard, soft and fluid",
+      "Heavy, medium and light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is photosynthesis?",
+    "options": [
+      "Animals breathing",
+      "Process where plants produce food using sunlight, water and carbon dioxide",
+      "Plants drinking water",
+      "Animals eating plants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the heart do?",
+    "options": [
+      "Digest food",
+      "Pump blood throughout the body",
+      "Filter waste",
+      "Produce hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is an atom?",
+    "options": [
+      "The largest particle",
+      "The smallest unit of a chemical element",
+      "A type of molecule",
+      "A compound"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What force keeps planets orbiting the sun?",
+    "options": [
+      "Magnetism",
+      "Electricity",
+      "Gravity",
+      "Wind"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 'reproduction' in living things?",
+    "options": [
+      "Getting food",
+      "Process by which organisms produce offspring",
+      "Growing larger",
+      "Moving around"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "WA",
+      "HO",
+      "H2O",
+      "W2O"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 'energy'?",
+    "options": [
+      "A type of matter",
+      "The capacity to do work or cause change",
+      "Only electricity",
+      "Only heat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are 'vertebrates'?",
+    "options": [
+      "Animals without a backbone",
+      "Animals with a backbone or spinal column",
+      "Only mammals",
+      "Only fish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the lungs?",
+    "options": [
+      "Pump blood",
+      "Exchange oxygen and carbon dioxide during breathing",
+      "Digest food",
+      "Filter blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'friction'?",
+    "options": [
+      "A type of energy",
+      "Force that opposes motion between two surfaces in contact",
+      "A type of wave",
+      "Magnetic force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 'nutrition' in biology?",
+    "options": [
+      "Only eating",
+      "Process of obtaining and using food for energy, growth and repair",
+      "Only drinking water",
+      "Only breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a 'food chain'?",
+    "options": [
+      "A restaurant chain",
+      "Sequence showing how energy passes from one organism to another through feeding",
+      "A type of ecosystem",
+      "A farming method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'biodegradable' mean?",
+    "options": [
+      "Never breaks down",
+      "Can be broken down naturally by bacteria or other living organisms",
+      "Only plastic",
+      "Only metal"
+    ],
+    "correctIndex": 1
+  }
+]

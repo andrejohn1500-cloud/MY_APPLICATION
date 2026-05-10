@@ -1,156 +1,152 @@
-{
-  "category": "Caribbean History",
-  "level": 1,
-  "questions": [
-    {
-      "q": "The West Indies Federation was dissolved in which year?",
-      "options": [
-        "1958",
-        "1960",
-        "1962",
-        "1965"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The 1831 Baptist War rebellion took place in which island?",
-      "options": [
-        "Barbados",
-        "Trinidad",
-        "Jamaica",
-        "St. Vincent"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The Morant Bay Rebellion of 1865 took place in which country?",
-      "options": [
-        "Barbados",
-        "Trinidad",
-        "Guyana",
-        "Jamaica"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Toussaint Louverture led the revolution in which country?",
-      "options": [
-        "Cuba",
-        "Barbados",
-        "Haiti",
-        "Jamaica"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which was the first Caribbean nation to gain independence?",
-      "options": [
-        "Jamaica",
-        "Barbados",
-        "Trinidad",
-        "Haiti"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Slavery officially ended in the British Caribbean in which year?",
-      "options": [
-        "1833",
-        "1838",
-        "1845",
-        "1850"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which European power first colonized Trinidad?",
-      "options": [
-        "Britain",
-        "France",
-        "Spain",
-        "Netherlands"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Marcus Garvey was born in which country?",
-      "options": [
-        "Barbados",
-        "Trinidad",
-        "Haiti",
-        "Jamaica"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "CARICOM was formally established in which year?",
-      "options": [
-        "1968",
-        "1970",
-        "1973",
-        "1975"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Which country is known as the 'Land of Wood and Water'?",
-      "options": [
-        "Barbados",
-        "Trinidad",
-        "Guyana",
-        "Jamaica"
-      ],
-      "answer": 3
-    },
-    {
-      "q": "Which was the first Caribbean island colonized by the British?",
-      "options": [
-        "Barbados",
-        "Jamaica",
-        "St. Kitts",
-        "Antigua"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "Haiti declared independence from France in which year?",
-      "options": [
-        "1800",
-        "1804",
-        "1810",
-        "1815"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "The 1970 Black Power Revolution took place in which Caribbean nation?",
-      "options": [
-        "Jamaica",
-        "Barbados",
-        "Trinidad and Tobago",
-        "Guyana"
-      ],
-      "answer": 2
-    },
-    {
-      "q": "The Caribbean Community was established by which treaty?",
-      "options": [
-        "Treaty of Bridgetown",
-        "Treaty of Chaguaramas",
-        "Treaty of Basseterre",
-        "Treaty of Kingston"
-      ],
-      "answer": 1
-    },
-    {
-      "q": "Which country hosts the CARICOM Secretariat?",
-      "options": [
-        "Barbados",
-        "Jamaica",
-        "Trinidad",
-        "Guyana"
-      ],
-      "answer": 3
-    }
-  ]
-}
+[
+  {
+    "question": "Who were the first known inhabitants of the Caribbean?",
+    "options": [
+      "Europeans",
+      "African slaves",
+      "Arawak and Carib indigenous peoples",
+      "Chinese immigrants"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In what year did Christopher Columbus arrive in the Caribbean?",
+    "options": [
+      "1392",
+      "1492",
+      "1592",
+      "1692"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What was the main purpose of the plantation system?",
+    "options": [
+      "Growing food for locals",
+      "Producing cash crops for export using enslaved labour",
+      "Building cities",
+      "Trading with indigenous peoples"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "From where were enslaved Africans brought to the Caribbean?",
+    "options": [
+      "Europe",
+      "Asia",
+      "West Africa",
+      "North America"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What was 'emancipation'?",
+    "options": [
+      "A type of crop",
+      "The freeing of enslaved people",
+      "A colonial tax",
+      "A type of ship"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which year was slavery abolished in British Caribbean colonies?",
+    "options": [
+      "1808",
+      "1833",
+      "1838",
+      "1865"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What was the 'Middle Passage'?",
+    "options": [
+      "A mountain route",
+      "The sea journey of enslaved Africans across the Atlantic",
+      "A trade route for spices",
+      "A type of plantation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which country colonised Jamaica?",
+    "options": [
+      "France",
+      "Spain then Britain",
+      "Portugal",
+      "Netherlands"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What were 'indentured workers'?",
+    "options": [
+      "Free workers",
+      "Workers brought on fixed contracts mainly from India after emancipation",
+      "Enslaved people",
+      "European farmers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What was the Haitian Revolution?",
+    "options": [
+      "A peaceful election",
+      "The first successful slave revolt leading to Haiti's independence in 1804",
+      "A European invasion",
+      "A trade agreement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What crops were mainly grown on Caribbean plantations?",
+    "options": [
+      "Wheat and corn",
+      "Sugar, coffee, tobacco and cotton",
+      "Rice and potatoes",
+      "Fruits and vegetables"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What was 'colonialism'?",
+    "options": [
+      "A farming method",
+      "Control of one country by a more powerful nation",
+      "A type of trade",
+      "A religious movement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which European countries colonised the Caribbean?",
+    "options": [
+      "Russia and China",
+      "Britain, France, Spain, Netherlands and others",
+      "Only Britain",
+      "Only Spain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What was the significance of 1962 for Jamaica and Trinidad?",
+    "options": [
+      "They joined CARICOM",
+      "They gained independence from Britain",
+      "They were colonised",
+      "They abolished slavery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What was the West Indies Federation?",
+    "options": [
+      "A cricket team",
+      "A political union of British Caribbean territories that lasted 1958\u20131962",
+      "A trade agreement",
+      "A cultural organisation"
+    ],
+    "correctIndex": 1
+  }
+]
