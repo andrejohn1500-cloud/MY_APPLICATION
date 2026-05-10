@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern follows: 2, 6, 18, 54, ___, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "324"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 360 km in 4 hours. How long will it take to travel 540 km at the same speed?",
+    "options": [
+      "5 hours",
+      "6 hours",
+      "6.5 hours",
+      "7 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is most opposite in meaning to TRANSIENT?",
+    "options": [
+      "Fleeting",
+      "Permanent",
+      "Temporary",
+      "Elusive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If A = 1, B = 2, C = 3 ... Z = 26, what is the value of the word MIND?",
+    "options": [
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A square has a perimeter of 64 cm. What is its area?",
+    "options": [
+      "196 sq cm",
+      "225 sq cm",
+      "256 sq cm",
+      "289 sq cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which figure completes the analogy? Circle is to Sphere as Square is to ___",
+    "options": [
+      "Cone",
+      "Cylinder",
+      "Cube",
+      "Pyramid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the odd one out: Sonata, Symphony, Concerto, Fresco",
+    "options": [
+      "Sonata",
+      "Symphony",
+      "Concerto",
+      "Fresco"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If 5x - 3 = 2x + 12, what is the value of x?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A map has a scale of 1:50000. If two towns are 8 cm apart on the map, what is the actual distance in km?",
+    "options": [
+      "2 km",
+      "4 km",
+      "6 km",
+      "8 km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which number should replace the question mark? 7, 13, 21, 31, 43, ?",
+    "options": [
+      "53",
+      "55",
+      "57",
+      "59"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "METICULOUS most nearly means:",
+    "options": [
+      "Careless",
+      "Precise",
+      "Hasty",
+      "Vague"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
+    "options": [
+      "1540 cu cm",
+      "1440 cu cm",
+      "1640 cu cm",
+      "1340 cu cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If all Bolds are Strongs, and some Strongs are Fasts, which conclusion is definitely true?",
+    "options": [
+      "All Bolds are Fasts",
+      "Some Bolds are Fasts",
+      "No Bolds are Fasts",
+      "All Fasts are Bolds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pair of words has the same relationship as AUTHOR : NOVEL?",
+    "options": [
+      "Teacher : School",
+      "Composer : Symphony",
+      "Singer : Stage",
+      "Doctor : Hospital"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shopkeeper buys an item for \u20a6800 and sells it at a 35% profit. What is the selling price?",
+    "options": [
+      "\u20a61,000",
+      "\u20a61,050",
+      "\u20a61,080",
+      "\u20a61,100"
+    ],
+    "correctIndex": 2
+  }
+]

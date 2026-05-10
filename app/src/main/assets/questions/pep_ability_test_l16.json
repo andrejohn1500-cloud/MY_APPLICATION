@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern follows: 2, 6, 18, 54, ___, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "324"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 360 km in 4 hours. How long will it take to travel 540 km at the same speed?",
+    "options": [
+      "5 hours",
+      "6 hours",
+      "6.5 hours",
+      "7 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Sonata, Symphony, Concerto, Anthology?",
+    "options": [
+      "Sonata",
+      "Symphony",
+      "Concerto",
+      "Anthology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, which statement must be true?",
+    "options": [
+      "All Lazzies are Bloops",
+      "All Bloops are Lazzies",
+      "All Razzies are Bloops",
+      "Some Lazzies are not Razzies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a perimeter of 54 cm. If the length is twice the width, what is the area of the rectangle?",
+    "options": [
+      "162 cm\u00b2",
+      "108 cm\u00b2",
+      "81 cm\u00b2",
+      "243 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number should replace the question mark? 7, 13, 25, 49, 97, ?",
+    "options": [
+      "145",
+      "193",
+      "181",
+      "169"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "DEPARTURE is to ARRIVAL as EXPORT is to:",
+    "options": [
+      "Shipment",
+      "Import",
+      "Trade",
+      "Freight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shopkeeper buys goods for $480 and sells them at a 35% profit. What is the selling price?",
+    "options": [
+      "$628",
+      "$648",
+      "$636",
+      "$618"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which figure completes the sequence if the pattern alternates between rotating 90\u00b0 clockwise and adding one side to a shape: Triangle, Square, Triangle rotated, Pentagon, ?",
+    "options": [
+      "Square rotated",
+      "Pentagon rotated",
+      "Hexagon",
+      "Triangle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If 5x - 3y = 22 and x + y = 10, what is the value of x?",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "OPAQUE is to TRANSPARENT as CACOPHONY is to:",
+    "options": [
+      "Silence",
+      "Harmony",
+      "Noise",
+      "Melody"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Three workers can complete a job in 12 days. How many days would it take 9 workers to complete the same job?",
+    "options": [
+      "3 days",
+      "4 days",
+      "6 days",
+      "2 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word cannot be made from the letters of DEMONSTRATE?",
+    "options": [
+      "MONSTER",
+      "REMOTE",
+      "STATED",
+      "MODERN"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A cube has a surface area of 294 cm\u00b2. What is the volume of the cube?",
+    "options": [
+      "216 cm\u00b3",
+      "343 cm\u00b3",
+      "512 cm\u00b3",
+      "729 cm\u00b3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a class of 40 students, 55% are girls. If 4 girls leave and 6 boys join, what percentage of the new class are boys?",
+    "options": [
+      "45%",
+      "48%",
+      "50%",
+      "52%"
+    ],
+    "correctIndex": 2
+  }
+]

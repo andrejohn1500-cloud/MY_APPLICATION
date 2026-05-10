@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern is 2, 6, 18, 54, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "270"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. How long will it take to travel 400 km at the same speed?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "4.5 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Robin, Eagle, Sparrow, Salmon, Hawk?",
+    "options": [
+      "Eagle",
+      "Robin",
+      "Salmon",
+      "Hawk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If ALL squares are rectangles and SOME rectangles are rhombuses, which statement must be true?",
+    "options": [
+      "All rectangles are squares",
+      "Some squares may be rhombuses",
+      "All rhombuses are squares",
+      "No square is a rhombus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 35% of 280?",
+    "options": [
+      "84",
+      "96",
+      "98",
+      "105"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Complete the analogy: Book is to Library as Painting is to ___?",
+    "options": [
+      "Artist",
+      "Canvas",
+      "Gallery",
+      "Museum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a class of 40 students, 60% are girls. How many boys are in the class?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "24"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which number comes next in the sequence: 1, 4, 9, 16, 25, ___?",
+    "options": [
+      "30",
+      "36",
+      "49",
+      "35"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If COLD is coded as DPME, how is WARM coded?",
+    "options": [
+      "XBSO",
+      "XBSN",
+      "WBSN",
+      "VBQM"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a perimeter of 36 cm. If its length is 11 cm, what is its width?",
+    "options": [
+      "5 cm",
+      "6 cm",
+      "7 cm",
+      "8 cm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Three workers can complete a job in 12 days. How many days would it take 4 workers to complete the same job?",
+    "options": [
+      "8 days",
+      "9 days",
+      "10 days",
+      "16 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which shape has exactly 5 faces, 9 edges, and 6 vertices?",
+    "options": [
+      "Cube",
+      "Triangular prism",
+      "Square pyramid",
+      "Triangular pyramid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If today is Wednesday, what day will it be 100 days from now?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the missing value: 7 : 49 :: 9 : ___?",
+    "options": [
+      "63",
+      "81",
+      "72",
+      "54"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shopkeeper buys an item for $80 and sells it for $100. What is the percentage profit?",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "30%"
+    ],
+    "correctIndex": 1
+  }
+]

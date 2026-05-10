@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern is 2, 6, 18, 54, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "324"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. How long will it take to travel 400 km at the same speed?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "4.5 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Robin, Eagle, Sparrow, Salmon, Hawk?",
+    "options": [
+      "Eagle",
+      "Robin",
+      "Salmon",
+      "Hawk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If ALL doctors are professionals, and SOME professionals are wealthy, which conclusion must be true?",
+    "options": [
+      "All doctors are wealthy",
+      "Some doctors are wealthy",
+      "No doctors are wealthy",
+      "Some professionals are doctors"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 15% of 360?",
+    "options": [
+      "48",
+      "54",
+      "60",
+      "45"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a perimeter of 54 cm and a width of 9 cm. What is its area?",
+    "options": [
+      "162 sq cm",
+      "324 sq cm",
+      "216 sq cm",
+      "180 sq cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number should replace the question mark? 4, 9, 16, 25, ?",
+    "options": [
+      "30",
+      "36",
+      "34",
+      "49"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "BOOK is to LIBRARY as PAINTING is to:",
+    "options": [
+      "Artist",
+      "Canvas",
+      "Gallery",
+      "Museum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If a shirt costs $45 after a 10% discount, what was the original price?",
+    "options": [
+      "$48",
+      "$49.50",
+      "$50",
+      "$55"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which shape has exactly 5 sides?",
+    "options": [
+      "Hexagon",
+      "Quadrilateral",
+      "Pentagon",
+      "Octagon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the missing number: 7, 14, 28, ?, 112",
+    "options": [
+      "42",
+      "56",
+      "49",
+      "64"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Three friends share $270 in the ratio 2:3:4. How much does the person with the largest share receive?",
+    "options": [
+      "$90",
+      "$100",
+      "$120",
+      "$150"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If FLAME is coded as GIBNF, how is WATER coded?",
+    "options": [
+      "XBUFS",
+      "VZSDS",
+      "XBVDS",
+      "XBTES"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car depreciates in value by 20% each year. If it is worth $25,000 now, what will it be worth after 2 years?",
+    "options": [
+      "$15,000",
+      "$16,000",
+      "$18,000",
+      "$20,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a prime number?",
+    "options": [
+      "37",
+      "41",
+      "51",
+      "43"
+    ],
+    "correctIndex": 2
+  }
+]

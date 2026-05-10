@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern is 2, 6, 18, 54, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "270"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its area?",
+    "options": [
+      "38 cm\u00b2",
+      "84 cm\u00b2",
+      "76 cm\u00b2",
+      "96 cm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Apple, Mango, Carrot, Orange?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Carrot",
+      "Orange"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If 5x - 3 = 22, what is the value of x?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. What is its average speed?",
+    "options": [
+      "70 km/h",
+      "80 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which number comes next in the sequence: 1, 4, 9, 16, 25, __?",
+    "options": [
+      "30",
+      "36",
+      "42",
+      "49"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a shirt costs $45 and is discounted by 20%, what is the sale price?",
+    "options": [
+      "$34",
+      "$36",
+      "$38",
+      "$40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Choose the word most similar in meaning to 'Benevolent':",
+    "options": [
+      "Cruel",
+      "Kind",
+      "Lazy",
+      "Brave"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 3 red balls, 5 blue balls, and 2 green balls. What is the probability of picking a blue ball?",
+    "options": [
+      "1/2",
+      "1/5",
+      "3/10",
+      "2/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which shape has exactly 6 faces, 12 edges, and 8 vertices?",
+    "options": [
+      "Cone",
+      "Cylinder",
+      "Cube",
+      "Pyramid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If it takes 4 workers 6 days to complete a job, how many days will it take 8 workers to complete the same job?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Choose the word that best completes the analogy: Book is to Library as Painting is to __?",
+    "options": [
+      "Canvas",
+      "Museum",
+      "Artist",
+      "Brush"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A clock shows 3:45. What is the angle between the hour hand and the minute hand?",
+    "options": [
+      "157.5\u00b0",
+      "172.5\u00b0",
+      "180\u00b0",
+      "165\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a prime number?",
+    "options": [
+      "51",
+      "57",
+      "59",
+      "63"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What comes next in the pattern: 2, 4, 6, 8, ?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which shape has exactly 3 sides?",
+    "options": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If there are 5 apples and you eat 2, how many apples are left?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word means the opposite of 'big'?",
+    "options": [
+      "Large",
+      "Tall",
+      "Small",
+      "Heavy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 3 + 7?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals can fly?",
+    "options": [
+      "Dog",
+      "Fish",
+      "Bird",
+      "Cat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What comes next in the sequence: Monday, Tuesday, Wednesday, ?",
+    "options": [
+      "Friday",
+      "Sunday",
+      "Thursday",
+      "Saturday"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which number is the largest?",
+    "options": [
+      "15",
+      "9",
+      "21",
+      "18"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If a pencil costs 4 cents and a pen costs 6 cents, how much do they cost together?",
+    "options": [
+      "8 cents",
+      "9 cents",
+      "10 cents",
+      "11 cents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which picture would complete the pattern: circle, square, circle, square, ?",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Rectangle",
+      "Square"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the missing number: 10, 8, 6, ?, 2",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a fruit?",
+    "options": [
+      "Carrot",
+      "Potato",
+      "Mango",
+      "Onion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many sides does a rectangle have?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If today is Thursday, what day was it yesterday?",
+    "options": [
+      "Friday",
+      "Wednesday",
+      "Tuesday",
+      "Monday"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Tall"
+    ],
+    "correctIndex": 3
+  }
+]

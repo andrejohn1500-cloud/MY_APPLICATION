@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern is 2, 6, 18, 54, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "270"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. How long will it take to travel 400 km at the same speed?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "4.5 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Oak, Maple, Rose, Pine, Birch?",
+    "options": [
+      "Oak",
+      "Rose",
+      "Pine",
+      "Birch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If A = 1, B = 2, C = 3 and so on, what is the value of the word CAB?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its area?",
+    "options": [
+      "38 cm\u00b2",
+      "84 cm\u00b2",
+      "96 cm\u00b2",
+      "76 cm\u00b2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Complete the analogy: Book is to Library as Painting is to ___",
+    "options": [
+      "Artist",
+      "Canvas",
+      "Gallery",
+      "Museum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which shape has exactly 8 edges?",
+    "options": [
+      "Cube",
+      "Triangular prism",
+      "Square pyramid",
+      "Tetrahedron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If today is Wednesday, what day will it be 100 days from now?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the missing number: 3, 7, 13, 21, 31, ___",
+    "options": [
+      "40",
+      "41",
+      "43",
+      "45"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A shop sells apples for $0.75 each. Sarah buys 8 apples and pays with a $10 note. How much change does she receive?",
+    "options": [
+      "$3.00",
+      "$3.50",
+      "$4.00",
+      "$4.50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a prime number?",
+    "options": [
+      "51",
+      "57",
+      "61",
+      "63"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Complete the sequence: AZ, BY, CX, DW, ___",
+    "options": [
+      "EU",
+      "EV",
+      "FU",
+      "FV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cylindrical tank has a radius of 5 m and a height of 10 m. Using \u03c0 \u2248 3.14, what is its volume?",
+    "options": [
+      "785 m\u00b3",
+      "628 m\u00b3",
+      "157 m\u00b3",
+      "1570 m\u00b3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 5 workers can complete a job in 12 days, how many days will 3 workers take to complete the same job?",
+    "options": [
+      "16 days",
+      "18 days",
+      "20 days",
+      "24 days"
+    ],
+    "correctIndex": 2
+  }
+]

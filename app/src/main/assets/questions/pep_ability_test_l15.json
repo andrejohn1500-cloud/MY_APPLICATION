@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern follows: 2, 6, 18, 54, ___, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "324"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. How long will it take to travel 400 km at the same speed?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "6.5 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Sonnet, Haiku, Limerick, Anthology, Ballad?",
+    "options": [
+      "Sonnet",
+      "Haiku",
+      "Anthology",
+      "Ballad"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If all Bloops are Razzles and all Razzles are Lazzles, which statement must be true?",
+    "options": [
+      "All Lazzles are Bloops",
+      "All Bloops are Lazzles",
+      "All Razzles are Bloops",
+      "Some Lazzles are not Razzles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a perimeter of 54 cm. If the length is twice the width, what is the area?",
+    "options": [
+      "162 cm\u00b2",
+      "81 cm\u00b2",
+      "108 cm\u00b2",
+      "54 cm\u00b2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number does not belong: 4, 9, 16, 25, 35, 49?",
+    "options": [
+      "16",
+      "25",
+      "35",
+      "49"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "ARCHITECT is to BUILDING as COMPOSER is to ___?",
+    "options": [
+      "Orchestra",
+      "Symphony",
+      "Instrument",
+      "Concert"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a shop reduces a price by 20% and then increases the reduced price by 25%, what is the net change?",
+    "options": [
+      "5% increase",
+      "5% decrease",
+      "No change",
+      "10% increase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the analogy: Petal is to Flower as Spoke is to ___?",
+    "options": [
+      "Handle",
+      "Wheel",
+      "Bicycle",
+      "Axle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Find the missing number: 3, 7, 13, 21, 31, ___",
+    "options": [
+      "41",
+      "43",
+      "44",
+      "45"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If HOLIDAY is coded as IPTMEBZ, what is the code for TRAVEL?",
+    "options": [
+      "USBWFM",
+      "USBWEM",
+      "VTBWFM",
+      "URAWFM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A container holds 3/4 of a tank of water. After using 1/3 of what is in the container, what fraction of the full tank remains?",
+    "options": [
+      "1/2",
+      "5/12",
+      "7/12",
+      "1/4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which figure comes next in the sequence: triangle with 1 dot, square with 2 dots, pentagon with 3 dots, hexagon with 4 dots?",
+    "options": [
+      "Heptagon with 4 dots",
+      "Heptagon with 5 dots",
+      "Octagon with 5 dots",
+      "Pentagon with 5 dots"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A team wins 60% of its first 20 games. How many of the remaining 30 games must it win to achieve an overall 70% win rate?",
+    "options": [
+      "25",
+      "27",
+      "24",
+      "23"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which word best completes the sentence: The professor's lecture was so _____ that even the most attentive students struggled to follow his reasoning?",
+    "options": [
+      "Eloquent",
+      "Abstruse",
+      "Compelling",
+      "Succinct"
+    ],
+    "correctIndex": 1
+  }
+]

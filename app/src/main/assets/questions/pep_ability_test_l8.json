@@ -1,0 +1,152 @@
+[
+  {
+    "question": "If the pattern continues: 2, 6, 18, 54, ___, what is the next number?",
+    "options": [
+      "108",
+      "162",
+      "216",
+      "270"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A shop sells apples at $3 for every 5 apples. How much will 20 apples cost?",
+    "options": [
+      "$10",
+      "$12",
+      "$15",
+      "$18"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is the odd one out: Robin, Eagle, Sparrow, Salmon, Parrot?",
+    "options": [
+      "Eagle",
+      "Sparrow",
+      "Salmon",
+      "Parrot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If PENCIL is coded as QFODJM, how would PAPER be coded?",
+    "options": [
+      "QBQFS",
+      "RCRG\u0422",
+      "PAPFR",
+      "QAQES"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its area?",
+    "options": [
+      "38 cm\u00b2",
+      "76 cm\u00b2",
+      "84 cm\u00b2",
+      "96 cm\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the word that best completes the analogy: Book is to Library as Painting is to ___",
+    "options": [
+      "Artist",
+      "Canvas",
+      "Gallery",
+      "Frame"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What fraction of 60 is 15?",
+    "options": [
+      "1/3",
+      "1/4",
+      "1/5",
+      "1/6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Three friends share a pizza. John eats 1/3, Mary eats 1/4, and Tom eats the rest. What fraction did Tom eat?",
+    "options": [
+      "5/12",
+      "7/12",
+      "1/2",
+      "5/6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which number does NOT belong in this group: 16, 25, 36, 42, 49?",
+    "options": [
+      "25",
+      "36",
+      "42",
+      "49"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A train travels 240 km in 3 hours. At the same speed, how far will it travel in 5 hours?",
+    "options": [
+      "360 km",
+      "400 km",
+      "420 km",
+      "480 km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Choose the pair that shows the same relationship as: Glove : Hand",
+    "options": [
+      "Hat : Head",
+      "Coat : Warm",
+      "Shoe : Leather",
+      "Sock : Cotton"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If today is Wednesday, what day will it be 100 days from now?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Friday",
+      "Saturday"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the missing number: 5, 11, 23, 47, ___",
+    "options": [
+      "89",
+      "93",
+      "95",
+      "99"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular tank is 50 cm long, 30 cm wide, and 20 cm deep. What is its volume in litres? (1 litre = 1000 cm\u00b3)",
+    "options": [
+      "25 litres",
+      "30 litres",
+      "35 litres",
+      "40 litres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which statement best describes a characteristic shared by Mercury, Venus, Earth and Mars?",
+    "options": [
+      "They all have rings",
+      "They are all gas giants",
+      "They are all inner rocky planets",
+      "They all have more than one moon"
+    ],
+    "correctIndex": 2
+  }
+]

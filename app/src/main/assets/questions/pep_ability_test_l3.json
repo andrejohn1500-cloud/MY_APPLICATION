@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is 15 + 27?",
+    "options": [
+      "42",
+      "41",
+      "43",
+      "40"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which shape has exactly 4 equal sides and 4 right angles?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Rhombus",
+      "Trapezoid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What comes next in the pattern: 2, 4, 6, 8, ?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word is a synonym for 'happy'?",
+    "options": [
+      "Sad",
+      "Angry",
+      "Joyful",
+      "Tired"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many days are in a week?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which number is the largest?",
+    "options": [
+      "45",
+      "54",
+      "44",
+      "49"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If a bag has 10 apples and you take away 3, how many are left?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a mammal?",
+    "options": [
+      "Eagle",
+      "Shark",
+      "Dog",
+      "Frog"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the opposite of 'tall'?",
+    "options": [
+      "Big",
+      "Short",
+      "Thin",
+      "Heavy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fraction is equal to one half?",
+    "options": [
+      "1/3",
+      "2/5",
+      "3/6",
+      "1/4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If today is Monday, what day will it be in 3 days?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Tuesday"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 8 multiplied by 3?",
+    "options": [
+      "21",
+      "24",
+      "18",
+      "27"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Rose",
+      "Tulip",
+      "Oak",
+      "Daisy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A clock shows 3:00. What angle do the hands form?",
+    "options": [
+      "180 degrees",
+      "45 degrees",
+      "60 degrees",
+      "90 degrees"
+    ],
+    "correctIndex": 3
+  }
+]
