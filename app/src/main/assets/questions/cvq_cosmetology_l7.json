@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which layer of the hair is responsible for giving it strength and elasticity?",
+    "options": [
+      "A. Cuticle",
+      "B. Cortex",
+      "C. Medulla",
+      "D. Epidermis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a patch test before chemical services?",
+    "options": [
+      "A. To check the hair porosity",
+      "B. To determine the correct processing time",
+      "C. To test for allergic reactions to the product",
+      "D. To assess the natural hair color"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which pH range is considered alkaline and commonly used in permanent wave solutions?",
+    "options": [
+      "A. 1\u20133",
+      "B. 4\u20136",
+      "C. 7\u20139",
+      "D. 10\u201314"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process of neutralizing a permanent wave stops the waving action by doing which of the following?",
+    "options": [
+      "A. Breaking disulfide bonds",
+      "B. Rebuilding disulfide bonds",
+      "C. Softening the cuticle layer",
+      "D. Adding moisture to the cortex"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hair condition is characterized by dry, brittle hair with a lack of natural oil?",
+    "options": [
+      "A. Hypertrichosis",
+      "B. Trichorrhexis nodosa",
+      "C. Seborrhea",
+      "D. Fragilitas crinium"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When performing a scalp massage during a shampoo service, which movement involves a circular motion?",
+    "options": [
+      "A. Effleurage",
+      "B. Tapotement",
+      "C. Petrissage",
+      "D. Friction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of hair coloring lifts the natural pigment and deposits artificial color simultaneously?",
+    "options": [
+      "A. Semi-permanent color",
+      "B. Temporary color",
+      "C. Permanent color",
+      "D. Demi-permanent color"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'porosity' refer to in relation to the hair?",
+    "options": [
+      "A. The diameter of the hair strand",
+      "B. The hair's ability to absorb and retain moisture",
+      "C. The natural curl pattern of the hair",
+      "D. The elasticity of the hair under tension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which disinfection method is appropriate for non-electrical metal implements in a salon?",
+    "options": [
+      "A. Autoclaving",
+      "B. Ultraviolet radiation",
+      "C. Immersion in an EPA-registered disinfectant solution",
+      "D. Dry heat sterilization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a corrective color situation, what is the purpose of a color filler?",
+    "options": [
+      "A. To pre-lighten the hair before applying toner",
+      "B. To equalize porosity and replace missing pigment before coloring",
+      "C. To remove artificial color from the hair shaft",
+      "D. To deposit a toner after bleaching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which facial shape is considered the ideal shape in cosmetology, as it serves as the standard for hairstyling?",
+    "options": [
+      "A. Round",
+      "B. Square",
+      "C. Heart",
+      "D. Oval"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended angle for cutting hair to create a one-length or blunt haircut?",
+    "options": [
+      "A. 0 degrees",
+      "B. 45 degrees",
+      "C. 90 degrees",
+      "D. 180 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which chemical is the active ingredient in most thioglycolate-based relaxers?",
+    "options": [
+      "A. Sodium hydroxide",
+      "B. Ammonium thioglycolate",
+      "C. Hydrogen peroxide",
+      "D. Guanidine carbonate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "command": "question",
+    "question": "Which skin condition is caused by a fungal infection and is characterized by circular, scaly patches?",
+    "options": [
+      "A. Psoriasis",
+      "B. Tinea capitis",
+      "C. Alopecia areata",
+      "D. Eczema"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the arrector pili muscle in the skin?",
+    "options": [
+      "A. To produce melanin in the hair follicle",
+      "B. To regulate sebum secretion from the sebaceous gland",
+      "C. To cause the hair to stand erect when contracted",
+      "D. To carry nutrients to the hair papilla"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which layer of the hair contains the melanin granules responsible for natural hair color?",
+    "options": [
+      "Medulla",
+      "Cuticle",
+      "Cortex",
+      "Dermal papilla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During a chemical relaxer service, sodium hydroxide relaxers work primarily by breaking which bonds in the hair?",
+    "options": [
+      "Hydrogen bonds",
+      "Salt bonds",
+      "Disulfide bonds",
+      "Peptide bonds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A client presents with alopecia areata. Which characteristic best identifies this condition?",
+    "options": [
+      "Gradual thinning along the hairline",
+      "Patchy, coin-shaped areas of hair loss with no scarring",
+      "Permanent hair loss with visible scarring on the scalp",
+      "Diffuse shedding throughout the entire scalp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In permanent wave chemistry, the neutralizer stops the waving process by re-forming disulfide bonds through which process?",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Saponification",
+      "Hydrolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which color theory principle explains why applying a red-violet tint over a green cast in the hair will neutralize the unwanted tone?",
+    "options": [
+      "Analogous color harmony",
+      "Law of complementary colors",
+      "Monochromatic color scheme",
+      "Simultaneous contrast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Fitzpatrick scale is used in cosmetology primarily to assess which client characteristic?",
+    "options": [
+      "Hair porosity level",
+      "Scalp elasticity",
+      "Skin phototype and sensitivity to UV exposure",
+      "Natural hair texture classification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When performing a virgin hair lightening service, the application should begin at which section for optimal results?",
+    "options": [
+      "At the scalp, working toward the ends",
+      "At the mid-shaft, then the scalp, then the ends",
+      "At the ends first, then move to the scalp",
+      "Uniformly from scalp to ends simultaneously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ingredient in nail enhancement products is classified as a known allergen and requires careful handling to prevent sensitization?",
+    "options": [
+      "Ethyl acetate",
+      "Methyl methacrylate (MMA)",
+      "Dimethicone",
+      "Cetyl alcohol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In skin care, a Fitzpatrick Type VI client receiving a chemical peel is at greatest risk for which complication?",
+    "options": [
+      "Telangiectasia",
+      "Post-inflammatory hyperpigmentation",
+      "Solar elastosis",
+      "Milia formation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The eumelanin and pheomelanin ratio in hair determines which visual characteristic?",
+    "options": [
+      "Hair tensile strength",
+      "Degree of natural curl pattern",
+      "Natural hair color tone and warmth",
+      "Hair shaft diameter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which haircut technique involves holding the hair at 90 degrees elevation all around the head to create a uniform layer?",
+    "options": [
+      "One-length cut",
+      "Low elevation blunt cut",
+      "Graduated cut",
+      "Uniform layer cut"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Trichorrhexis nodosa is a hair condition characterized by which structural defect?",
+    "options": [
+      "Incomplete keratinization causing white bands on the hair shaft",
+      "Nodes along the hair shaft where cortical cells have fractured",
+      "Spiral twisting causing the hair to tangle easily",
+      "Cuticle scales lifting permanently from the cortex"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which OSHA standard requires cosmetology professionals to have access to information about hazardous chemicals used in the salon?",
+    "options": [
+      "MSDS under the Bloodborne Pathogens Standard",
+      "Safety Data Sheets under the Hazard Communication Standard",
+      "EPA Clean Air Act compliance sheets",
+      "NIOSH exposure limit documentation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "function": "color",
+    "question": "When formulating a hair color to achieve a level 7 warm golden blonde from a level 5 natural base, the colorist must account for which underlying pigment exposed during the lifting process?",
+    "options": [
+      "Red-violet",
+      "Orange-yellow",
+      "Yellow-green",
+      "Blue-violet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In scalp massage techniques, the petrissage movement is best described as which action?",
+    "options": [
+      "Light, gliding strokes performed with the fingertips",
+      "Kneading and compression movements that lift and roll the tissue",
+      "Rapid tapping or percussion movements with the fingertips",
+      "Deep circular friction applied with firm pressure"
+    ],
+    "correctIndex": 1
+  }
+]
