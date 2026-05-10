@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A student measures the current through a resistor as 0.5 A and the voltage across it as 12 V. What is the resistance of the resistor?",
+    "options": [
+      "6 \u03a9",
+      "24 \u03a9",
+      "0.04 \u03a9",
+      "12 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which organelle is responsible for producing ATP through aerobic respiration in eukaryotic cells?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondrion",
+      "Chloroplast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A metal object has a mass of 200 g and is heated from 20\u00b0C to 70\u00b0C. If the specific heat capacity of the metal is 400 J/kg\u00b0C, how much heat energy was absorbed?",
+    "options": [
+      "4000 J",
+      "400 J",
+      "40000 J",
+      "8000 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which process describes the movement of water molecules from a region of higher water potential to a region of lower water potential through a partially permeable membrane?",
+    "options": [
+      "Active transport",
+      "Diffusion",
+      "Osmosis",
+      "Transpiration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wave has a frequency of 50 Hz and a wavelength of 4 m. What is the speed of the wave?",
+    "options": [
+      "12.5 m/s",
+      "200 m/s",
+      "54 m/s",
+      "0.08 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During meiosis, crossing over occurs between non-sister chromatids of homologous chromosomes. What is the main significance of this process?",
+    "options": [
+      "It doubles the chromosome number",
+      "It produces genetically identical daughter cells",
+      "It increases genetic variation in offspring",
+      "It separates sister chromatids"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following correctly describes what happens during electrolysis of dilute sulfuric acid?",
+    "options": [
+      "Oxygen is produced at the cathode and hydrogen at the anode",
+      "Hydrogen is produced at the cathode and oxygen at the anode",
+      "Sulfur dioxide is produced at both electrodes",
+      "Sulfate ions are discharged at the cathode"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A force of 30 N is applied to an object of mass 6 kg. What is the acceleration of the object, assuming no friction?",
+    "options": [
+      "180 m/s\u00b2",
+      "0.2 m/s\u00b2",
+      "5 m/s\u00b2",
+      "36 m/s\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of rock is formed when magma cools and solidifies below the Earth's surface, resulting in large crystals?",
+    "options": [
+      "Sedimentary",
+      "Metamorphic",
+      "Extrusive igneous",
+      "Intrusive igneous"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a food chain, only about 10% of energy is transferred from one trophic level to the next. If producers store 10,000 kJ of energy, how much energy is available to secondary consumers?",
+    "options": [
+      "1000 kJ",
+      "100 kJ",
+      "10 kJ",
+      "500 kJ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A solution has a pH of 2. Which statement best describes this solution?",
+    "options": [
+      "It is a weak base with few hydroxide ions",
+      "It is a strong acid with a high concentration of hydrogen ions",
+      "It is a neutral solution",
+      "It is a weak acid with few hydrogen ions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best explains why noble gases are chemically unreactive?",
+    "options": [
+      "They have very high boiling points",
+      "They have a complete outermost electron shell",
+      "They are all gases at room temperature",
+      "They have very low densities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A transformer has 200 turns on the primary coil and 50 turns on the secondary coil. If the primary voltage is 240 V, what is the secondary voltage?",
+    "options": [
+      "960 V",
+      "120 V",
+      "60 V",
+      "480 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hormone is secreted by the pancreas in response to high blood glucose levels, and what is its primary action?",
+    "options": [
+      "Glucagon; stimulates glycogen breakdown in the liver",
+      "Adrenaline; increases heart rate",
+      "Insulin; promotes uptake of glucose by cells and conversion to glycogen",
+      "Thyroxine; regulates metabolic rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A student investigates the rate of photosynthesis by measuring oxygen production. Which combination of conditions would produce the highest rate of photosynthesis?",
+    "options": [
+      "Low light intensity, high CO\u2082 concentration, 10\u00b0C",
+      "High light intensity, low CO\u2082 concentration, 25\u00b0C",
+      "High light intensity, high CO\u2082 concentration, 35\u00b0C",
+      "High light intensity, high CO\u2082 concentration, 25\u00b0C"
+    ],
+    "correctIndex": 3
+  }
+]
