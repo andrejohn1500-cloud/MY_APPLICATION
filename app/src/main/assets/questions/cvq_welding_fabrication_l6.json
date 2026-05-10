@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "options": [
+      "SMAW",
+      "GMAW",
+      "GTAW",
+      "FCAW"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'root penetration' refer to in a welded joint?",
+    "options": [
+      "The depth of fusion at the face of the weld",
+      "The degree to which the weld metal extends into the root of the joint",
+      "The width of the heat-affected zone",
+      "The distance between the two base metal pieces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which destructive test is used to determine the maximum load a welded specimen can withstand before fracture?",
+    "options": [
+      "Bend test",
+      "Hardness test",
+      "Tensile test",
+      "Impact test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In blueprint reading, what does a dashed line typically represent?",
+    "options": [
+      "A cutting plane",
+      "A hidden edge or feature",
+      "A center line",
+      "A dimension line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of preheating base metal before welding?",
+    "options": [
+      "To increase the deposition rate",
+      "To reduce the risk of hydrogen-induced cracking and distortion",
+      "To improve arc stability",
+      "To clean the surface of contaminants"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of joint configuration is formed when two pieces of metal are placed end-to-end in the same plane?",
+    "options": [
+      "Lap joint",
+      "T-joint",
+      "Corner joint",
+      "Butt joint"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the abbreviation 'HAZ' stand for in welding?",
+    "options": [
+      "High Alloy Zone",
+      "Heat-Affected Zone",
+      "Horizontal Arc Zone",
+      "Hard Application Zone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which shielding gas is most commonly used in MIG welding of carbon steel?",
+    "options": [
+      "Pure argon",
+      "Pure helium",
+      "A mixture of argon and carbon dioxide",
+      "Pure nitrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In oxy-fuel cutting, which gas is used as the cutting agent to oxidize the metal?",
+    "options": [
+      "Acetylene",
+      "Propane",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of weld discontinuity is characterized by a groove melted into the base metal adjacent to the weld toe that is not filled by weld metal?",
+    "options": [
+      "Porosity",
+      "Undercut",
+      "Overlap",
+      "Incomplete fusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to welding symbols, what does a filled circle at the intersection of the arrow line and reference line indicate?",
+    "options": [
+      "A field weld",
+      "A weld-all-around",
+      "A flush contour",
+      "A convex contour"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes residual stress in a welded structure?",
+    "options": [
+      "Stress applied by external loads during service",
+      "Internal stress remaining in the material after welding has cooled",
+      "Stress caused by vibration of the welding machine",
+      "Thermal stress only present while welding is in progress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct sequence of layers when applying a multi-pass weld in a groove joint?",
+    "options": [
+      "Cap pass, fill passes, root pass",
+      "Root pass, fill passes, cap pass",
+      "Fill passes, root pass, cap pass",
+      "Cap pass, root pass, fill passes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which non-destructive testing method uses high-frequency sound waves to detect internal defects in a weld?",
+    "options": [
+      "Radiographic testing",
+      "Magnetic particle testing",
+      "Liquid penetrant testing",
+      "Ultrasonic testing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When fabricating a structural frame, which technique is most effective in minimizing overall distortion during welding?",
+    "options": [
+      "Welding all joints in one continuous direction",
+      "Using a backstep or balanced welding sequence",
+      "Increasing the heat input on all passes",
+      "Allowing each weld to fully cool before starting the next"
+    ],
+    "correctIndex": 1
+  }
+]

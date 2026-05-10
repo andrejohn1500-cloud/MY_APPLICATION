@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does PPE stand for in a welding workshop?",
+    "options": [
+      "Personal Protective Equipment",
+      "Professional Power Equipment",
+      "Protective Production Essentials",
+      "Personal Production Equipment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of fire extinguisher is most suitable for electrical fires in a welding shop?",
+    "options": [
+      "Water extinguisher",
+      "Foam extinguisher",
+      "CO2 extinguisher",
+      "Dry powder extinguisher"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a welding helmet?",
+    "options": [
+      "To protect the welder from sparks only",
+      "To protect the eyes and face from UV radiation and sparks",
+      "To keep the welder cool",
+      "To hold the electrode in place"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which gas is commonly used in MIG welding as a shielding gas?",
+    "options": [
+      "Hydrogen",
+      "Argon or CO2",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does OAW stand for?",
+    "options": [
+      "Oxy-Acetylene Welding",
+      "Open Arc Welding",
+      "Oxygen-Argon Welding",
+      "Overhead Arc Welding"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct color code for an oxygen cylinder used in gas welding?",
+    "options": [
+      "Red",
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding process uses a consumable electrode coated with flux?",
+    "options": [
+      "TIG welding",
+      "MIG welding",
+      "SMAW (Stick welding)",
+      "Plasma welding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What tool is used to measure angles accurately in fabrication?",
+    "options": [
+      "Hacksaw",
+      "Try square",
+      "Chisel",
+      "File"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is tack welding used for?",
+    "options": [
+      "To complete a full weld",
+      "To temporarily hold pieces in position before final welding",
+      "To clean the metal surface",
+      "To cut metal into pieces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which metal is most commonly welded in basic fabrication workshops?",
+    "options": [
+      "Titanium",
+      "Mild steel",
+      "Gold",
+      "Platinum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'fusion' mean in welding?",
+    "options": [
+      "Cutting metal apart",
+      "Joining metals by melting them together",
+      "Bending metal into shape",
+      "Polishing the metal surface"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of flux in welding?",
+    "options": [
+      "To cool the weld quickly",
+      "To protect the weld pool from atmospheric contamination",
+      "To increase the voltage",
+      "To speed up the cutting process"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hand tool is used to remove slag from a weld bead?",
+    "options": [
+      "Wire brush only",
+      "Chipping hammer",
+      "Hacksaw",
+      "Centre punch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a right angle measure?",
+    "options": [
+      "45 degrees",
+      "180 degrees",
+      "90 degrees",
+      "360 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a safety hazard specific to welding operations?",
+    "options": [
+      "Loud music",
+      "Ultraviolet radiation from the arc",
+      "Bright overhead lighting",
+      "Using a pencil to mark metal"
+    ],
+    "correctIndex": 1
+  }
+]

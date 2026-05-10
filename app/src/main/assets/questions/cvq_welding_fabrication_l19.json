@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding position is designated as 6G in pipe welding and what makes it particularly challenging?",
+    "options": [
+      "Flat position; the pipe is horizontal and can be rotated",
+      "Fixed 45-degree inclined position; the pipe cannot be rotated and all positions must be welded",
+      "Vertical position; the pipe is fixed vertically requiring upward progression",
+      "Overhead position; the pipe is fixed above the welder's head"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing a bend test on a butt weld specimen, a root bend failure typically indicates a defect in which zone?",
+    "options": [
+      "The heat-affected zone on the face side",
+      "The weld root or root fusion area",
+      "The weld cap reinforcement",
+      "The parent metal away from the weld"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In SMAW welding, what is the primary function of the flux coating on a low-hydrogen electrode such as E7018?",
+    "options": [
+      "To increase arc voltage and amperage",
+      "To provide shielding gas, deoxidizers, and a slag blanket that prevents hydrogen absorption",
+      "To add alloying elements exclusively for increased tensile strength",
+      "To reduce the arc length and improve deposition rate only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which destructive test method is used to determine the ductility of a weld and its heat-affected zone by measuring the elongation of a specimen?",
+    "options": [
+      "Charpy impact test",
+      "Tensile test",
+      "Nick break test",
+      "Guided bend test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of preheating high-carbon steel before welding?",
+    "options": [
+      "To increase the cooling rate and promote martensite formation",
+      "To slow the cooling rate, reduce hydrogen cracking risk, and minimise hardness in the HAZ",
+      "To eliminate the need for post-weld heat treatment entirely",
+      "To increase the interpass temperature above 350\u00b0C for better fusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In MIG/MAG welding (GMAW), spray transfer mode is characterised by which of the following?",
+    "options": [
+      "Large droplets transferred at low voltage causing spatter",
+      "Fine droplets propelled axially across the arc at high voltage and current above the transition current",
+      "Short-circuiting of the wire to the weld pool at low current",
+      "Pulsing of current to alternate between spray and short-circuit transfer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to AWS D1.1 structural welding code, what is the minimum preheat temperature required for A36 steel with a thickness greater than 38 mm (1.5 in)?",
+    "options": [
+      "None required",
+      "66\u00b0C (150\u00b0F)",
+      "107\u00b0C (225\u00b0F)",
+      "149\u00b0C (300\u00b0F)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which non-destructive testing method is most effective for detecting subsurface laminar cracks in steel plate?",
+    "options": [
+      "Liquid penetrant testing",
+      "Magnetic particle testing",
+      "Ultrasonic testing",
+      "Visual inspection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In TIG welding (GTAW) of aluminium, which current type and polarity is recommended and why?",
+    "options": [
+      "DCEN (straight polarity); it provides deep penetration and stable arc",
+      "DCEP (reverse polarity); it maximises heat input at the electrode",
+      "AC (alternating current); the DCEP half-cycle provides cathodic cleaning of the oxide layer while DCEN provides penetration",
+      "High-frequency DC; it eliminates oxide without affecting penetration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the preheat interpass temperature control primarily prevent in hardenable alloy steel welds?",
+    "options": [
+      "Porosity caused by nitrogen absorption",
+      "Solidification cracking in the weld metal centreline",
+      "Hydrogen-induced cold cracking in the heat-affected zone",
+      "Distortion due to differential thermal expansion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When interpreting a welding symbol, the weld symbol placed below the reference line indicates the weld is on which side?",
+    "options": [
+      "The other side of the joint from the arrow",
+      "The arrow side of the joint",
+      "Both sides simultaneously",
+      "The field weld side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of joint design is most suitable for full-penetration welding of thick plate (over 25 mm) from one side only, without back gouging?",
+    "options": [
+      "Square butt joint",
+      "Single-V groove joint with ceramic backing",
+      "Double-V groove joint",
+      "Fillet joint with full reinforcement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Stress relief post-weld heat treatment (PWHT) for carbon steel is typically performed at what temperature range?",
+    "options": [
+      "150\u00b0C to 200\u00b0C",
+      "250\u00b0C to 300\u00b0C",
+      "595\u00b0C to 650\u00b0C",
+      "900\u00b0C to 950\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In submerged arc welding (SAW), what is the primary role of the flux used in the process?",
+    "options": [
+      "To act as a filler metal and increase deposition rate",
+      "To provide shielding, stabilise the arc, add alloying elements, and form a slag that protects the weld pool",
+      "To preheat the base metal ahead of the arc",
+      "To prevent distortion by mechanically restraining the plates"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which formula correctly represents the heat input calculation in welding, and what are its variables?",
+    "options": [
+      "HI = (A \u00d7 V) / (1000 \u00d7 S); where A is amperage, V is voltage, and S is travel speed in mm/s, giving kJ/mm",
+      "HI = (V \u00d7 S) / (1000 \u00d7 A); where V is voltage, S is travel speed, and A is amperage",
+      "HI = (A \u00d7 S) / (1000 \u00d7 V); where A is amperage, S is travel speed, and V is voltage",
+      "HI = (A + V) \u00d7 S / 1000; giving the total energy per unit time"
+    ],
+    "correctIndex": 0
+  }
+]

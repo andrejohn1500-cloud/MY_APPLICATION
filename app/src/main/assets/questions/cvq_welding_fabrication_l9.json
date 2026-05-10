@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding process uses a continuous wire electrode fed through a welding gun and is shielded by an externally supplied gas?",
+    "options": [
+      "Shielded Metal Arc Welding (SMAW)",
+      "Gas Metal Arc Welding (GMAW)",
+      "Gas Tungsten Arc Welding (GTAW)",
+      "Submerged Arc Welding (SAW)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'duty cycle' refer to in welding equipment?",
+    "options": [
+      "The maximum amperage a machine can produce",
+      "The percentage of time in a 10-minute period a welder can operate at a given output",
+      "The frequency of electrode replacement",
+      "The number of weld passes required per joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing an oxyacetylene weld, a neutral flame is characterized by:",
+    "options": [
+      "An excess of oxygen producing a short, blue inner cone",
+      "Equal proportions of oxygen and acetylene with a well-defined inner cone",
+      "An excess of acetylene producing a feathery outer envelope",
+      "A bright yellow inner cone with heavy smoke"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of weld joint is formed when two pieces of metal are placed edge to edge in the same plane?",
+    "options": [
+      "Lap joint",
+      "T-joint",
+      "Butt joint",
+      "Corner joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of preheating base metal before welding?",
+    "options": [
+      "To increase the welding speed",
+      "To reduce the risk of cracking by minimizing thermal gradients",
+      "To eliminate the need for post-weld heat treatment",
+      "To increase the hardness of the weld zone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In blueprint reading for fabrication, a hidden line is represented by:",
+    "options": [
+      "A solid continuous line",
+      "A series of long dashes alternating with short dashes",
+      "A dashed line",
+      "A chain line with two short dashes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which destructive test method is used to evaluate the ductility and soundness of a weld by bending the specimen around a mandrel?",
+    "options": [
+      "Tensile test",
+      "Charpy impact test",
+      "Guided bend test",
+      "Hardness test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct way to identify the electrode E7018 in SMAW?",
+    "options": [
+      "70 ksi tensile strength, all-position, low-hydrogen, iron powder coating",
+      "70 ksi tensile strength, flat position only, cellulosic coating",
+      "7 ksi tensile strength, all-position, rutile coating",
+      "70 ksi tensile strength, vertical-down only, iron oxide coating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Porosity in a weld is primarily caused by:",
+    "options": [
+      "Excessive preheat temperature",
+      "Gas entrapment in the molten weld pool during solidification",
+      "Incorrect post-weld heat treatment",
+      "Using too slow a travel speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which non-destructive testing method uses high-frequency sound waves to detect internal weld defects?",
+    "options": [
+      "Radiographic Testing (RT)",
+      "Magnetic Particle Testing (MT)",
+      "Ultrasonic Testing (UT)",
+      "Liquid Penetrant Testing (PT)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In GTAW (TIG) welding of stainless steel, which shielding gas is most commonly used?",
+    "options": [
+      "100% Carbon Dioxide",
+      "Argon-Oxygen mixture (Ar-2% O2)",
+      "100% Argon",
+      "Helium-Carbon Dioxide mixture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the weld symbol tail in a welding symbol drawing indicate?",
+    "options": [
+      "The size of the weld",
+      "The welding process or specification to be used",
+      "The finish method for the weld face",
+      "The length of the weld"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Undercutting in a weld joint is best described as:",
+    "options": [
+      "A groove melted into the base metal adjacent to the weld toe that is not filled by weld metal",
+      "Excessive weld metal deposited above the base metal surface",
+      "Incomplete fusion between weld passes",
+      "A crack running parallel to the weld axis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When cutting mild steel using plasma arc cutting, the gas used to form the plasma is typically:",
+    "options": [
+      "Pure nitrogen only",
+      "Compressed air or argon-hydrogen mixture",
+      "Pure carbon dioxide",
+      "Acetylene and oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which personal protective equipment (PPE) is specifically required to protect a welder from ultraviolet and infrared radiation during arc welding?",
+    "options": [
+      "Safety glasses with side shields",
+      "A welding helmet with an appropriate shade lens",
+      "A face shield with clear visor",
+      "Safety goggles with impact-resistant lenses"
+    ],
+    "correctIndex": 1
+  }
+]

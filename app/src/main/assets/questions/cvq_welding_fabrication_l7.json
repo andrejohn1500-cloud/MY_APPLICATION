@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "options": [
+      "Shielded Metal Arc Welding (SMAW)",
+      "Gas Tungsten Arc Welding (GTAW)",
+      "Flux-Cored Arc Welding (FCAW)",
+      "Submerged Arc Welding (SAW)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'heat-affected zone' (HAZ) refer to in welding?",
+    "options": [
+      "The area of the base metal that has been melted during welding",
+      "The region of base metal whose mechanical properties have been altered by welding heat without melting",
+      "The zone where filler metal is deposited",
+      "The area covered by the shielding gas during welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of joint is formed when two pieces of metal are placed end-to-end in the same plane?",
+    "options": [
+      "Lap joint",
+      "T-joint",
+      "Butt joint",
+      "Corner joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In MIG welding, what is the primary function of the shielding gas?",
+    "options": [
+      "To preheat the base metal",
+      "To protect the weld pool from atmospheric contamination",
+      "To increase the electrical conductivity of the wire",
+      "To cool the weld rapidly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of preheating before welding high-carbon steel?",
+    "options": [
+      "To increase the hardness of the weld",
+      "To reduce the risk of hydrogen-induced cracking",
+      "To speed up the welding process",
+      "To eliminate the need for post-weld heat treatment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which electrode classification is suitable for all-position welding with a low-hydrogen coating?",
+    "options": [
+      "E6010",
+      "E6013",
+      "E7018",
+      "E7024"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What nondestructive testing method uses high-frequency sound waves to detect internal defects?",
+    "options": [
+      "Magnetic particle testing",
+      "Dye penetrant testing",
+      "Ultrasonic testing",
+      "Visual inspection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of weld distortion occurs when two plates of a butt weld rotate about the weld axis, causing angular change?",
+    "options": [
+      "Longitudinal shrinkage",
+      "Transverse shrinkage",
+      "Angular distortion",
+      "Buckling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a welding symbol with a flag on the reference line indicate?",
+    "options": [
+      "The weld is to be ground flush",
+      "The weld is a field or site weld",
+      "The weld requires preheat",
+      "The weld is to be done all-around"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which gas mixture is commonly used in MIG welding of mild steel to provide good penetration and reduce spatter?",
+    "options": [
+      "100% Argon",
+      "75% Argon / 25% CO2",
+      "100% CO2",
+      "50% Argon / 50% Helium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plasma arc cutting, what role does the constricting nozzle play?",
+    "options": [
+      "It cools the electrode to prevent overheating",
+      "It constricts the arc to increase energy density and cutting efficiency",
+      "It supplies additional oxygen to the cut",
+      "It regulates the travel speed of the torch"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the minimum overlap recommended for a lap joint in structural steel fabrication?",
+    "options": [
+      "1 times the thinnest member thickness",
+      "3 times the thinnest member thickness",
+      "5 times the thinnest member thickness",
+      "Equal to the weld throat size"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which welding defect is characterized by a groove melted into the base metal adjacent to the weld toe and left unfilled?",
+    "options": [
+      "Porosity",
+      "Undercutting",
+      "Incomplete fusion",
+      "Overlap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a root pass in a multi-pass weld?",
+    "options": [
+      "To provide a cosmetic finish on the weld face",
+      "To fill the weld joint in a single operation",
+      "To fuse the base metal at the root of the joint and establish a sound foundation",
+      "To preheat the joint before main welding begins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to OSHA and general safety standards, what is the minimum shade number recommended for a welding filter lens when performing GMAW at currents between 150\u2013500 amperes?",
+    "options": [
+      "Shade 8",
+      "Shade 10",
+      "Shade 12",
+      "Shade 14"
+    ],
+    "correctIndex": 2
+  }
+]

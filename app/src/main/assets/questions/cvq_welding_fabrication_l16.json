@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding process is most suitable for joining thin gauge stainless steel components requiring minimal distortion and high aesthetic quality?",
+    "options": [
+      "Shielded Metal Arc Welding (SMAW)",
+      "Gas Tungsten Arc Welding (GTAW/TIG)",
+      "Flux-Cored Arc Welding (FCAW)",
+      "Submerged Arc Welding (SAW)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing a destructive bend test on a butt weld, a crack appearing on the tension face that is greater than what length is considered a failure according to standard welding codes?",
+    "options": [
+      "1/8 inch (3mm)",
+      "1/4 inch (6mm)",
+      "3/8 inch (9mm)",
+      "1/2 inch (12mm)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In AWS D1.1 Structural Welding Code, what is the minimum preheat temperature required for welding A514 steel with a thickness greater than 2.5 inches?",
+    "options": [
+      "50\u00b0F (10\u00b0C)",
+      "125\u00b0F (52\u00b0C)",
+      "200\u00b0F (93\u00b0C)",
+      "225\u00b0F (107\u00b0C)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A welder is producing a GMAW weld and notices excessive spatter and a convex bead profile. Which combination of parameter adjustments would most likely correct this issue?",
+    "options": [
+      "Decrease voltage and increase wire feed speed",
+      "Increase voltage and decrease wire feed speed",
+      "Increase both voltage and wire feed speed",
+      "Decrease both voltage and wire feed speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of post-weld heat treatment (PWHT) applied to pressure vessel welds?",
+    "options": [
+      "To increase the hardness of the weld metal",
+      "To relieve residual stresses and reduce hydrogen-induced cracking susceptibility",
+      "To improve the visual appearance of the weld bead",
+      "To increase the carbon content of the heat-affected zone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plasma arc cutting, the difference between transferred arc and non-transferred arc modes is best described as:",
+    "options": [
+      "In transferred arc mode, the arc is established between the electrode and the nozzle; in non-transferred, between electrode and workpiece",
+      "In transferred arc mode, the arc is established between the electrode and the workpiece; in non-transferred, between electrode and nozzle",
+      "Transferred arc uses a pilot arc only, while non-transferred uses a main arc only",
+      "There is no functional difference between the two modes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of weld joint discontinuity is characterized by an unfused area between weld passes or between weld metal and base metal that does not extend to the surface?",
+    "options": [
+      "Porosity",
+      "Incomplete fusion (lack of fusion)",
+      "Undercut",
+      "Overlap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When interpreting a welding symbol, a weld symbol placed below the reference line indicates:",
+    "options": [
+      "The weld is on the far side of the joint",
+      "The weld is on the arrow side of the joint",
+      "The weld is a back weld",
+      "The weld requires full penetration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which non-destructive examination (NDE) method is most effective for detecting subsurface planar discontinuities such as lack of fusion in a thick-section weld?",
+    "options": [
+      "Liquid penetrant testing (PT)",
+      "Magnetic particle testing (MT)",
+      "Ultrasonic testing (UT)",
+      "Visual inspection (VT)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In oxyfuel gas welding, the carburizing (reducing) flame is identified by which characteristic?",
+    "options": [
+      "A sharp, well-defined inner cone with no intermediate feather",
+      "An intermediate feather between the inner cone and outer envelope",
+      "A large, soft outer envelope with a barely visible inner cone",
+      "A loud hissing sound and blue coloration throughout the flame"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the heat input formula used in welding engineering, if voltage is 28V, current is 180A, and travel speed is 6 inches per minute (converted appropriately), what is the heat input in kJ/inch?",
+    "options": [
+      "Approximately 25.2 kJ/inch",
+      "Approximately 50.4 kJ/inch",
+      "Approximately 12.6 kJ/inch",
+      "Approximately 8.4 kJ/inch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary metallurgical reason that austenitic stainless steels can experience sensitization in the heat-affected zone during welding?",
+    "options": [
+      "Chromium carbides precipitate at grain boundaries, depleting adjacent areas of chromium below 12%",
+      "Nickel carbides form in the weld metal reducing corrosion resistance",
+      "The ferrite content increases above 20% causing stress corrosion cracking",
+      "Carbon diffuses into the weld metal causing embrittlement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In FCAW-G (gas-shielded flux-cored arc welding), which shielding gas mixture provides the best balance between arc stability, penetration, and reduced spatter for welding carbon steel?",
+    "options": [
+      "100% Argon",
+      "100% CO2",
+      "75% Argon / 25% CO2",
+      "50% Argon / 50% Helium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A fabricator is required to qualify a new Welding Procedure Specification (WPS) per ASME Section IX. Which of the following changes would require a complete re-qualification of the procedure?",
+    "options": [
+      "Changing the shielding gas flow rate by 5 CFH",
+      "Changing the base metal P-Number from P-1 to P-8",
+      "Changing the interpass temperature within the qualified range",
+      "Changing the weld bead sequence within the same joint design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing radiographic testing (RT) of a weld, the image quality indicator (IQI) or penetrameter is placed on the source side of the weld. What does this placement verify?",
+    "options": [
+      "The geometric unsharpness of the radiographic image",
+      "That the required sensitivity and density of the radiograph meet acceptance criteria",
+      "The distance from the source to the film",
+      "The travel speed used during welding"
+    ],
+    "correctIndex": 1
+  }
+]

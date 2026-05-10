@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding process uses a consumable electrode wire fed continuously through a welding gun, shielded by an externally supplied gas?",
+    "options": [
+      "Shielded Metal Arc Welding (SMAW)",
+      "Gas Metal Arc Welding (GMAW)",
+      "Gas Tungsten Arc Welding (GTAW)",
+      "Submerged Arc Welding (SAW)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'duty cycle' refer to in welding equipment?",
+    "options": [
+      "The number of electrodes used per hour",
+      "The percentage of a 10-minute period a welder can arc without overheating the machine",
+      "The amperage setting required for a specific electrode",
+      "The frequency at which the welding machine cycles current"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When reading a welding symbol, where is the reference line located?",
+    "options": [
+      "Above the arrow",
+      "Horizontally connected to the arrow",
+      "Vertically beside the tail",
+      "Inside the weld bead symbol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of joint is formed when two pieces of metal are placed end to end in the same plane?",
+    "options": [
+      "Lap joint",
+      "T-joint",
+      "Butt joint",
+      "Corner joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a root pass in a multi-pass weld?",
+    "options": [
+      "To provide the final cosmetic appearance",
+      "To fuse the base of the joint and establish penetration",
+      "To reduce distortion in thick plates",
+      "To apply flux at the bottom of the groove"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which electrode classification is represented by E7018?",
+    "options": [
+      "High cellulose sodium, AC/DC+",
+      "Low hydrogen potassium, AC/DC+",
+      "Iron oxide, DC- only",
+      "High cellulose potassium, AC only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What causes porosity in a weld?",
+    "options": [
+      "Excessive preheat temperature",
+      "Trapped gases in the solidifying weld metal",
+      "Incorrect electrode polarity",
+      "Insufficient amperage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In GTAW (TIG) welding, which gas is most commonly used for shielding when welding stainless steel?",
+    "options": [
+      "Carbon dioxide (CO2)",
+      "Pure oxygen",
+      "Argon",
+      "Helium-oxygen mixture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which destructive test method is used to determine the ductility and soundness of a weld by bending the specimen?",
+    "options": [
+      "Radiographic test",
+      "Guided bend test",
+      "Magnetic particle test",
+      "Hardness test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct personal protective equipment (PPE) for a welder working in a confined space?",
+    "options": [
+      "Only a welding helmet and gloves",
+      "Welding helmet, gloves, fire-resistant clothing, and supplied air respirator",
+      "Safety glasses and leather apron only",
+      "Face shield and cotton coveralls"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the acronym HAZ stand for in welding metallurgy?",
+    "options": [
+      "High Amperage Zone",
+      "Heat Affected Zone",
+      "Hardened Alloy Zone",
+      "Horizontal Arc Zone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cutting process uses a high-velocity jet of ionized gas to cut electrically conductive metals?",
+    "options": [
+      "Oxy-fuel cutting",
+      "Plasma arc cutting",
+      "Laser beam cutting",
+      "Air carbon arc cutting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When setting up an oxy-acetylene outfit, which regulator should be opened first?",
+    "options": [
+      "Oxygen regulator",
+      "Acetylene regulator",
+      "Both simultaneously",
+      "Either one; order does not matter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of flux in Shielded Metal Arc Welding (SMAW)?",
+    "options": [
+      "To increase the electrical conductivity of the electrode",
+      "To shield the molten weld pool from atmospheric contamination and stabilize the arc",
+      "To lower the melting point of the base metal",
+      "To add alloying elements that increase voltage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which distortion control technique involves placing weld joints in an opposite direction to the anticipated distortion before welding?",
+    "options": [
+      "Backstep welding",
+      "Preheating",
+      "Presetting (pre-distortion)",
+      "Peening"
+    ],
+    "correctIndex": 2
+  }
+]

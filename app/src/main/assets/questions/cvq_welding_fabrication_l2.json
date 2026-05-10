@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does PPE stand for in a welding environment?",
+    "options": [
+      "Personal Protective Equipment",
+      "Professional Practice Equipment",
+      "Personal Performance Evaluation",
+      "Protective Performance Ensemble"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of flame is used for welding mild steel with oxy-acetylene equipment?",
+    "options": [
+      "Carburising flame",
+      "Oxidising flame",
+      "Neutral flame",
+      "Reducing flame"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of flux in welding?",
+    "options": [
+      "To increase heat input",
+      "To prevent oxidation of the weld pool",
+      "To cool the weld quickly",
+      "To add filler material"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode?",
+    "options": [
+      "MIG welding",
+      "TIG welding",
+      "MMA welding",
+      "Flux-cored arc welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What colour is the oxygen cylinder commonly used in oxy-acetylene welding?",
+    "options": [
+      "Red",
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'amperage' refer to in welding?",
+    "options": [
+      "The voltage of the welding arc",
+      "The speed of the electrode",
+      "The electrical current used",
+      "The gas flow rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a common joint type used in fabrication?",
+    "options": [
+      "Circular joint",
+      "Butt joint",
+      "Oval joint",
+      "Round joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a welding mask or helmet?",
+    "options": [
+      "To keep the welder cool",
+      "To protect the eyes and face from arc radiation and sparks",
+      "To hold the electrode in place",
+      "To filter welding fumes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In MIG welding, what does MIG stand for?",
+    "options": [
+      "Metal Inert Gas",
+      "Manual Iron Grounding",
+      "Melted Inert Groove",
+      "Metal Internal Gas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which tool is used to remove slag from a weld after welding?",
+    "options": [
+      "Wire brush only",
+      "Angle grinder only",
+      "Chipping hammer",
+      "Clamp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct action if you discover a gas leak in the welding area?",
+    "options": [
+      "Continue welding carefully",
+      "Ventilate the area and report it immediately",
+      "Cover the leak with tape",
+      "Increase gas pressure to seal the leak"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which position is described as welding performed on a horizontal surface looking downward?",
+    "options": [
+      "Vertical position",
+      "Overhead position",
+      "Flat position",
+      "Horizontal position"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a regulator do on a gas cylinder?",
+    "options": [
+      "It fills the cylinder with gas",
+      "It reduces and controls the gas pressure",
+      "It measures the weight of the cylinder",
+      "It heats the gas before use"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following metals is commonly used in sheet metal fabrication?",
+    "options": [
+      "Cast iron",
+      "Mild steel",
+      "Tungsten",
+      "Titanium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of tack welding in fabrication?",
+    "options": [
+      "To complete the final weld",
+      "To temporarily hold parts in position before full welding",
+      "To test the strength of a joint",
+      "To remove excess metal"
+    ],
+    "correctIndex": 1
+  }
+]

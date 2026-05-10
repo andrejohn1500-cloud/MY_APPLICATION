@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When welding high-strength low-alloy (HSLA) steel, which preheat consideration is most critical to prevent hydrogen-induced cracking?",
+    "options": [
+      "Maintaining interpass temperature below 50\u00b0C",
+      "Calculating preheat based on carbon equivalent (CE) formula",
+      "Using only DCEP polarity regardless of process",
+      "Applying post-weld heat treatment before removing clamps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A welder is performing a Charpy V-notch impact test on a weld sample. What property of the weld metal does this test primarily evaluate?",
+    "options": [
+      "Tensile strength at elevated temperatures",
+      "Toughness and resistance to brittle fracture",
+      "Hardness across the heat-affected zone",
+      "Fatigue life under cyclic loading"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In GTAW (TIG) welding of austenitic stainless steel, which shielding gas mixture provides the best arc stability and weld quality while avoiding sensitization?",
+    "options": [
+      "100% CO2",
+      "Argon with 2% oxygen",
+      "Argon with 75% helium",
+      "100% nitrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which discontinuity is most likely detected by radiographic testing (RT) but would be missed by dye penetrant testing (PT)?",
+    "options": [
+      "Surface porosity",
+      "Lack of fusion at the root",
+      "Undercutting along the weld toe",
+      "Surface cracks in the heat-affected zone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When fabricating a pressure vessel in accordance with ASME Section VIII, what is the primary purpose of the post-weld heat treatment (PWHT)?",
+    "options": [
+      "To increase the hardness of the weld metal",
+      "To relieve residual stresses and reduce susceptibility to stress corrosion cracking",
+      "To improve the visual appearance of the weld bead",
+      "To increase tensile strength beyond the base metal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A flux-cored arc welding (FCAW) procedure requires an E71T-1C electrode. What does the designation '1C' signify?",
+    "options": [
+      "Single-pass only weld with DCEN polarity",
+      "All-position capability with CO2 shielding gas",
+      "Flat and horizontal position with mixed gas shielding",
+      "Vertical-down progression with argon shielding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During submerged arc welding (SAW), what is the main function of the flux in relation to the arc and weld pool?",
+    "options": [
+      "It acts as a filler material replacing the electrode wire",
+      "It shields the arc, provides alloying elements, and forms a protective slag over the molten pool",
+      "It generates shielding gas to prevent atmospheric contamination only",
+      "It controls amperage by varying electrical resistance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In structural steel fabrication, which welding symbol annotation on a drawing indicates that the weld is to be made in the field rather than in the shop?",
+    "options": [
+      "A contour finish symbol above the reference line",
+      "A filled circle at the junction of the reference line and arrow",
+      "A tail with a specification note",
+      "An all-around symbol on the reference line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing ultrasonic testing (UT) on a weld, a technician uses a 70\u00b0 angle beam transducer. What type of internal discontinuity is this angle best suited to detect?",
+    "options": [
+      "Laminations parallel to the plate surface",
+      "Vertical planar discontinuities such as cracks and lack of fusion",
+      "Surface porosity open to the weld face",
+      "Compositional segregation in the base metal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which metallurgical phenomenon occurs in the heat-affected zone (HAZ) of austenitic stainless steel welded without adequate controls, leading to intergranular corrosion?",
+    "options": [
+      "Martensite transformation",
+      "Sensitization due to chromium carbide precipitation at grain boundaries",
+      "Sigma phase embrittlement at low temperatures",
+      "Hydrogen embrittlement from dissolved hydrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A fabricator must join a 25 mm thick carbon steel plate using SMAW. According to AWS D1.1, which joint design would typically require a full penetration groove weld verified by non-destructive examination?",
+    "options": [
+      "A fillet weld in the flat position",
+      "A complete joint penetration (CJP) butt weld in a primary structural tension member",
+      "A partial joint penetration groove weld under compressive loading",
+      "A lap joint with intermittent fillet welds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In plasma arc cutting (PAC), what is the role of the secondary (shield) gas surrounding the plasma stream?",
+    "options": [
+      "It initiates the pilot arc between electrode and nozzle",
+      "It constricts the plasma and protects the cut surface from oxidation",
+      "It cools the work piece to prevent distortion",
+      "It provides additional electrical conductivity to the arc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When evaluating weld distortion in a fabricated T-joint assembly, which technique is most effective for controlling angular distortion before welding begins?",
+    "options": [
+      "Increasing travel speed significantly",
+      "Pre-setting or pre-cambering the joint at an angle opposite to expected distortion",
+      "Applying a higher heat input to slow the cooling rate",
+      "Using DCEN polarity to reduce penetration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which destructive test method is used to assess the ductility of a weld and its heat-affected zone by bending the specimen through a specified angle over a mandrel?",
+    "options": [
+      "Macro examination test",
+      "Guided bend test",
+      "Nick break test",
+      "Vickers hardness test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When welding duplex stainless steel (e.g., 2205), what is the most critical parameter to control to maintain the correct austenite-to-ferrite phase balance in the weld metal?",
+    "options": [
+      "Shielding gas dew point below \u221240\u00b0C",
+      "Heat input and interpass temperature within the procedure-specified range",
+      "Use of DCEN polarity only",
+      "Post-weld pickling and passivation immediately after welding"
+    ],
+    "correctIndex": 1
+  }
+]

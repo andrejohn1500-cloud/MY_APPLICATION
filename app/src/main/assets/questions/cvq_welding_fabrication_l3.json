@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does PPE stand for in a welding environment?",
+    "options": [
+      "Personal Protective Equipment",
+      "Professional Practice Evaluation",
+      "Protective Process Engineering",
+      "Personal Process Evaluation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of flame is used when welding mild steel with oxy-acetylene equipment?",
+    "options": [
+      "Carburising flame",
+      "Oxidising flame",
+      "Neutral flame",
+      "Reducing flame"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of flux in welding?",
+    "options": [
+      "To increase the melting point of the base metal",
+      "To prevent oxidation of the weld pool",
+      "To add colour to the weld bead",
+      "To cool the weld quickly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding process uses a non-consumable tungsten electrode?",
+    "options": [
+      "MIG welding",
+      "TIG welding",
+      "Stick welding",
+      "Flux-cored arc welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the abbreviation MIG stand for in MIG welding?",
+    "options": [
+      "Metal Inert Gas",
+      "Metal Inner Groove",
+      "Mechanical Inert Gas",
+      "Metal Integrated Grounding"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which gas is commonly used as a shielding gas in MIG welding of mild steel?",
+    "options": [
+      "Pure oxygen",
+      "Hydrogen",
+      "Argon and carbon dioxide mixture",
+      "Nitrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of preheating a workpiece before welding?",
+    "options": [
+      "To make the metal softer permanently",
+      "To reduce the risk of cracking and distortion",
+      "To increase the carbon content",
+      "To improve the colour of the weld"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to measure the angle of a weld joint preparation?",
+    "options": [
+      "Micrometer",
+      "Vernier caliper",
+      "Bevel protractor",
+      "Spirit level"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of joint is formed when two pieces of metal are placed end to end in the same plane?",
+    "options": [
+      "Lap joint",
+      "T-joint",
+      "Butt joint",
+      "Corner joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does OCV stand for in arc welding equipment?",
+    "options": [
+      "Open Circuit Voltage",
+      "Outer Core Voltage",
+      "Operational Circuit Value",
+      "Output Current Variable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which electrode classification is commonly used for welding mild steel in SMAW?",
+    "options": [
+      "E6013",
+      "E7018-A1",
+      "E309L",
+      "E4043"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is distortion in welding?",
+    "options": [
+      "The colour change of metal after welding",
+      "The unwanted deformation of the workpiece due to heat",
+      "The increase in hardness of the weld",
+      "The porosity found in the weld bead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which safety symbol indicates mandatory use of eye protection?",
+    "options": [
+      "A red circle with a cross",
+      "A blue circle with goggles icon",
+      "A yellow triangle",
+      "A green square"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a tack weld used for?",
+    "options": [
+      "To permanently join two pieces of metal",
+      "To temporarily hold workpieces in position before final welding",
+      "To test the strength of the base metal",
+      "To fill large gaps in the joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'polarity' refer to in arc welding?",
+    "options": [
+      "The temperature of the welding arc",
+      "The direction of current flow in the welding circuit",
+      "The speed of the electrode movement",
+      "The thickness of the base metal"
+    ],
+    "correctIndex": 1
+  }
+]

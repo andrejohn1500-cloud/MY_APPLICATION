@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which welding position is designated as 6G in pipe welding?",
+    "options": [
+      "Flat position with pipe rotating",
+      "Horizontal fixed position",
+      "45-degree inclined fixed position",
+      "Vertical position with pipe fixed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of preheat in welding high-carbon steel?",
+    "options": [
+      "To increase the deposition rate of the weld",
+      "To prevent hydrogen-induced cracking and reduce hardness",
+      "To improve the appearance of the weld bead",
+      "To reduce the cost of welding consumables"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which destructive test is used to evaluate the ductility and soundness of a weld by bending the specimen?",
+    "options": [
+      "Charpy impact test",
+      "Tensile test",
+      "Bend test",
+      "Hardness test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In SMAW, what does the 'E' in electrode classification E7018 represent?",
+    "options": [
+      "Electrode efficiency rating",
+      "Arc energy level",
+      "Electric arc welding electrode",
+      "Elongation factor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of joint preparation is most suitable for welding thick plates requiring full penetration from one side?",
+    "options": [
+      "Square butt joint",
+      "Single V-groove joint",
+      "Lap joint",
+      "T-joint with no preparation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which gas mixture is commonly used in GMAW for welding carbon steel to produce good mechanical properties and reduced spatter?",
+    "options": [
+      "100% argon",
+      "100% CO2",
+      "75% argon and 25% CO2",
+      "50% helium and 50% argon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of flux in submerged arc welding (SAW)?",
+    "options": [
+      "To provide shielding gas only",
+      "To cool the weld pool rapidly",
+      "To protect the weld pool, stabilize the arc, and add alloying elements",
+      "To clean the base metal before welding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which non-destructive testing (NDT) method is most effective for detecting internal volumetric defects such as porosity in welds?",
+    "options": [
+      "Magnetic particle testing",
+      "Liquid penetrant testing",
+      "Visual inspection",
+      "Radiographic testing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of excessive heat input on the heat-affected zone (HAZ) of a weld?",
+    "options": [
+      "It refines the grain structure and improves toughness",
+      "It reduces residual stresses in the material",
+      "It causes grain growth and reduces toughness",
+      "It eliminates the need for post-weld heat treatment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In fabrication, what is the purpose of an orthographic drawing?",
+    "options": [
+      "To show a 3D pictorial view of a component",
+      "To represent a component in two or more flat 2D views at right angles",
+      "To indicate the sequence of welding operations",
+      "To display only the material specifications"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of electrode coating produces a low-hydrogen weld deposit and requires storage in a heated oven?",
+    "options": [
+      "Cellulosic coated electrodes",
+      "Rutile coated electrodes",
+      "Iron oxide coated electrodes",
+      "Basic or low-hydrogen coated electrodes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What welding defect is caused by the failure of the weld metal to fuse properly with the base metal or adjacent weld passes?",
+    "options": [
+      "Porosity",
+      "Undercut",
+      "Lack of fusion",
+      "Overlap"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When performing post-weld heat treatment (PWHT), what is the main objective?",
+    "options": [
+      "To increase the hardness of the weld zone",
+      "To relieve residual stresses and improve material properties",
+      "To add alloying elements to the weld metal",
+      "To remove excess weld reinforcement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cutting process uses a concentrated plasma arc to cut electrically conductive materials and is particularly effective on stainless steel and aluminum?",
+    "options": [
+      "Oxy-fuel cutting",
+      "Air carbon arc cutting",
+      "Plasma arc cutting",
+      "Laser beam cutting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In welding procedure qualification, what document records the actual welding variables used during production and verifies compliance with the approved WPS?",
+    "options": [
+      "Welding Procedure Specification (WPS)",
+      "Procedure Qualification Record (PQR)",
+      "Welder Qualification Test Record (WQTR)",
+      "Material Test Report (MTR)"
+    ],
+    "correctIndex": 1
+  }
+]
