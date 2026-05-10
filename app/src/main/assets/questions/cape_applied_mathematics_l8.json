@@ -1,152 +1,202 @@
 [
   {
-    "question": "A random variable X follows a Poisson distribution with mean 4. What is P(X = 2)?",
+    "question": "What is a unit vector?",
     "options": [
-      "A) 0.1465",
-      "B) 0.1353",
-      "C) 0.0916",
-      "D) 0.2381"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5, and P(A \u222a B) = 0.7. What is P(A \u2229 B)?",
-    "options": [
-      "A) 0.3",
-      "B) 0.2",
-      "C) 0.1",
-      "D) 0.4"
+      "A vector in the positive x direction only",
+      "A vector with magnitude 1 used to show direction",
+      "Any vector divided by 2",
+      "A vector with magnitude 0"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A particle moves in a straight line with velocity v = 3t\u00b2 - 6t + 2 m/s. What is the acceleration of the particle when t = 2 seconds?",
+    "question": "What is a Venn diagram used for?",
     "options": [
-      "A) 4 m/s\u00b2",
-      "B) 6 m/s\u00b2",
-      "C) 8 m/s\u00b2",
-      "D) 2 m/s\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A discrete random variable X has the probability distribution P(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?",
-    "options": [
-      "A) 1/10",
-      "B) 1/8",
-      "C) 1/12",
-      "D) 1/6"
+      "To visually represent sets and their relationships including unions intersections and complements",
+      "To represent a probability tree",
+      "To plot a linear function",
+      "To show the frequency of data values"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The lengths of bolts produced by a machine are normally distributed with mean 5 cm and standard deviation 0.1 cm. What is the probability that a randomly selected bolt has length greater than 5.2 cm?",
+    "question": "What is conditional probability?",
     "options": [
-      "A) 0.0228",
-      "B) 0.0456",
-      "C) 0.9772",
-      "D) 0.1587"
+      "The probability of event A given that event B has already occurred: P(A|B) = P(A\u2229B)/P(B)",
+      "The probability of two independent events",
+      "The probability of either A or B occurring",
+      "The complement of P(A)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A force of 12 N and a force of 5 N act at right angles to each other. What is the magnitude of the resultant force?",
+    "question": "What is integration used for?",
     "options": [
-      "A) 17 N",
-      "B) 7 N",
-      "C) 13 N",
-      "D) 15 N"
+      "To solve linear equations",
+      "To find the maximum of a function only",
+      "To find the area under a curve and to reverse differentiation",
+      "To find the gradient at a point"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a regression analysis, the regression line of y on x passes through (2, 5) and has gradient 3. What is the equation of the regression line?",
+    "question": "What is the determinant of a 2x2 matrix?",
     "options": [
-      "A) y = 3x + 1",
-      "B) y = 3x - 1",
-      "C) y = 3x + 5",
-      "D) y = 3x + 2"
+      "ab - cd",
+      "For matrix [[a,b],[c,d]], the determinant is ad - bc",
+      "ac + bd",
+      "a + d"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A box contains 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "question": "What is the inverse of a 2x2 matrix?",
     "options": [
-      "A) 2/15",
-      "B) 4/25",
-      "C) 1/5",
-      "D) 2/25"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle of mass 3 kg is placed on a smooth inclined plane at 30\u00b0 to the horizontal. What is the component of the weight acting along the plane?",
-    "options": [
-      "A) 14.7 N",
-      "B) 25.46 N",
-      "C) 29.4 N",
-      "D) 12.73 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The mean of a sample of 10 values is 8 and the standard deviation is 2. What is the 95% confidence interval for the population mean? (Use z = 1.96)",
-    "options": [
-      "A) (6.76, 9.24)",
-      "B) (7.02, 8.98)",
-      "C) (6.08, 9.92)",
-      "D) (7.24, 8.76)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A ball is projected horizontally from a height of 20 m with speed 15 m/s. How long does it take to reach the ground? (g = 10 m/s\u00b2)",
-    "options": [
-      "A) 1 s",
-      "B) 3 s",
-      "C) 4 s",
-      "D) 2 s"
+      "The matrix with all signs changed",
+      "The transpose of the matrix",
+      "The matrix divided by its determinant only",
+      "(1/det) \u00d7 [[d,-b],[-c,a]] where det = ad-bc"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If X ~ B(10, 0.3), what is E(X) and Var(X) respectively?",
+    "question": "What is the multiplication rule for independent events?",
     "options": [
-      "A) 3 and 2.1",
-      "B) 3 and 0.3",
-      "C) 7 and 2.1",
-      "D) 3 and 3"
+      "P(A\u2229B) = P(A) + P(B)",
+      "P(A\u2229B) = P(A) - P(B)",
+      "P(A\u2229B) = P(A) \u00d7 P(B)",
+      "P(A\u2229B) = P(A) / P(B)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the magnitude of a vector?",
+    "options": [
+      "The length of the vector calculated as \u221a(x\u00b2 + y\u00b2) for vector (x,y)",
+      "The direction of the vector",
+      "The product of the components",
+      "The sum of the components"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A Spearman rank correlation coefficient of -0.85 between two variables indicates:",
+    "question": "What is a probability tree diagram?",
     "options": [
-      "A) A strong positive relationship",
-      "B) No relationship between the variables",
-      "C) A strong negative relationship",
-      "D) A weak negative relationship"
+      "A graph of a cumulative frequency",
+      "A diagram showing set relationships",
+      "A diagram showing all possible outcomes of sequential events and their probabilities",
+      "A bar chart of probability values"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A particle starts from rest and moves with constant acceleration 4 m/s\u00b2. What is the distance travelled in the first 5 seconds?",
+    "question": "What is a cumulative frequency curve used for?",
     "options": [
-      "A) 25 m",
-      "B) 50 m",
-      "C) 100 m",
-      "D) 20 m"
+      "To show the mode of a data set",
+      "To calculate the mean of grouped data",
+      "To estimate medians, quartiles and percentiles from grouped data",
+      "To compare two data sets directly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the interquartile range?",
+    "options": [
+      "The difference between the upper quartile Q3 and lower quartile Q1",
+      "Half of the range",
+      "The difference between the maximum and minimum values",
+      "The average of the quartiles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the nth term of a geometric sequence?",
+    "options": [
+      "a \u00d7 n + r",
+      "r^n only",
+      "a + (n-1)d",
+      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a linear programming problem?",
+    "options": [
+      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
+      "A problem finding the gradient of a line",
+      "A problem involving quadratic functions",
+      "A problem with no constraints"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the quadratic formula?",
+    "options": [
+      "x = -b/2a only",
+      "x = (a+b)/c",
+      "x = b\u00b2 - 4ac",
+      "x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a for ax\u00b2 + bx + c = 0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a scatter diagram used for?",
+    "options": [
+      "To show the relationship or correlation between two variables",
+      "To show cumulative totals",
+      "To show the frequency of one variable",
+      "To display data in sectors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is standard deviation?",
+    "options": [
+      "The difference between max and min values",
+      "The middle value of the data",
+      "A measure of how spread out data values are from the mean",
+      "The average of the data set"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the discriminant tell us about a quadratic equation?",
+    "options": [
+      "It gives the value of the roots directly",
+      "It measures the gradient of the quadratic",
+      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots",
+      "It only tells us if the parabola opens up or down"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a position vector?",
+    "options": [
+      "A vector showing only magnitude",
+      "A vector that describes the position of a point relative to the origin",
+      "A unit vector",
+      "A vector with no direction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A hypothesis test uses a significance level of 5%. The null hypothesis is rejected when the p-value is:",
+    "question": "How do you add two vectors?",
     "options": [
-      "A) Greater than 0.05",
-      "B) Equal to 0.05 only",
-      "C) Less than 0.05",
-      "D) Greater than 0.95"
+      "Subtract corresponding components",
+      "Multiply the magnitudes",
+      "Add the angles only",
+      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "How do you find the equation of a line given two points?",
+    "options": [
+      "Add the x and y values of both points",
+      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c",
+      "Multiply the two coordinates together",
+      "Use the quadratic formula"
+    ],
+    "correctIndex": 1
   }
 ]

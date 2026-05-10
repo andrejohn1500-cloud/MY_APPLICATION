@@ -1,152 +1,202 @@
 [
   {
-    "question": "A discrete random variable X has the probability distribution P(X = x) = kx for x = 1, 2, 3, 4. Find the value of k.",
+    "question": "What is the determinant of a 2x2 matrix?",
     "options": [
-      "k = 1/10",
-      "k = 1/4",
-      "k = 1/6",
-      "k = 1/8"
+      "For matrix [[a,b],[c,d]], the determinant is ad - bc",
+      "ab - cd",
+      "ac + bd",
+      "a + d"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The marks of 200 students are normally distributed with mean 65 and standard deviation 10. How many students scored more than 75?",
+    "question": "What is a cumulative frequency curve used for?",
     "options": [
-      "32",
-      "28",
-      "40",
-      "16"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A committee of 3 is to be chosen from 5 men and 4 women. In how many ways can the committee be formed if it must contain at least 1 woman?",
-    "options": [
-      "74",
-      "70",
-      "80",
-      "84"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5 and P(A \u222a B) = 0.7. Find P(A | B).",
-    "options": [
-      "0.4",
-      "0.3",
-      "0.5",
-      "0.2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The regression line of y on x is given by y = 3x + 2. If the mean of x is 4, what is the mean of y?",
-    "options": [
-      "14",
-      "10",
-      "12",
-      "16"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle moves in a straight line such that its velocity at time t seconds is v = 3t\u00b2 \u2212 4t + 1 m/s. Find the displacement from t = 0 to t = 2.",
-    "options": [
-      "2 m",
-      "4 m",
-      "6 m",
-      "3 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A force of 10 N acts at an angle of 30\u00b0 to the horizontal. What is the horizontal component of the force?",
-    "options": [
-      "5\u221a3 N",
-      "5 N",
-      "10\u221a3 N",
-      "10 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Poisson distribution has mean \u03bb = 3. Find P(X = 2) correct to 3 decimal places.",
-    "options": [
-      "0.224",
-      "0.149",
-      "0.199",
-      "0.423"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a binomial distribution with n = 10 and p = 0.3, find P(X = 3) correct to 3 decimal places.",
-    "options": [
-      "0.267",
-      "0.233",
-      "0.300",
-      "0.150"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A box contains 4 red and 6 blue balls. Two balls are drawn without replacement. Find the probability that both are red.",
-    "options": [
-      "2/15",
-      "4/25",
-      "6/25",
-      "1/6"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle of mass 5 kg is pulled up a smooth incline of 30\u00b0 by a force of 40 N parallel to the incline. Find the acceleration of the particle. (g = 10 m/s\u00b2)",
-    "options": [
-      "3.5 m/s\u00b2",
-      "4.0 m/s\u00b2",
-      "2.5 m/s\u00b2",
-      "5.0 m/s\u00b2"
+      "To compare two data sets directly",
+      "To calculate the mean of grouped data",
+      "To estimate medians, quartiles and percentiles from grouped data",
+      "To show the mode of a data set"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The product moment correlation coefficient between two variables is r = \u22120.85. Which statement best describes this relationship?",
+    "question": "What is matrix addition?",
     "options": [
-      "Strong negative linear correlation",
-      "Weak negative linear correlation",
-      "Strong positive linear correlation",
-      "No correlation"
+      "Finding the determinant",
+      "Adding corresponding elements of two matrices of the same dimensions",
+      "Transposing the matrix",
+      "Multiplying rows by columns"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the discriminant tell us about a quadratic equation?",
+    "options": [
+      "It measures the gradient of the quadratic",
+      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots",
+      "It gives the value of the roots directly",
+      "It only tells us if the parabola opens up or down"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the interquartile range?",
+    "options": [
+      "The average of the quartiles",
+      "The difference between the maximum and minimum values",
+      "Half of the range",
+      "The difference between the upper quartile Q3 and lower quartile Q1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a linear programming problem?",
+    "options": [
+      "A problem finding the gradient of a line",
+      "A problem with no constraints",
+      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
+      "A problem involving quadratic functions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is differentiation used for?",
+    "options": [
+      "To solve quadratic equations",
+      "To find the inverse of a function",
+      "To find the area under a curve",
+      "To find the rate of change of a function and the gradient at any point"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a scatter diagram used for?",
+    "options": [
+      "To show cumulative totals",
+      "To display data in sectors",
+      "To show the frequency of one variable",
+      "To show the relationship or correlation between two variables"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the inverse of a 2x2 matrix?",
+    "options": [
+      "The transpose of the matrix",
+      "(1/det) \u00d7 [[d,-b],[-c,a]] where det = ad-bc",
+      "The matrix divided by its determinant only",
+      "The matrix with all signs changed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do you add two vectors?",
+    "options": [
+      "Subtract corresponding components",
+      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)",
+      "Add the angles only",
+      "Multiply the magnitudes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is integration used for?",
+    "options": [
+      "To find the area under a curve and to reverse differentiation",
+      "To solve linear equations",
+      "To find the gradient at a point",
+      "To find the maximum of a function only"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Given the linear programming problem: Maximise P = 5x + 3y subject to x + y \u2264 6, x \u2265 0, y \u2265 0. What is the maximum value of P?",
+    "question": "What defines the feasible region in linear programming?",
     "options": [
-      "30",
-      "18",
-      "28",
-      "24"
+      "The region where the objective function is maximised",
+      "The region satisfying all the constraints in the problem",
+      "The region outside all constraints",
+      "The x and y axes only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a Venn diagram used for?",
+    "options": [
+      "To represent a probability tree",
+      "To show the frequency of data values",
+      "To visually represent sets and their relationships including unions intersections and complements",
+      "To plot a linear function"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the quadratic formula?",
+    "options": [
+      "x = b\u00b2 - 4ac",
+      "x = -b/2a only",
+      "x = (a+b)/c",
+      "x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a for ax\u00b2 + bx + c = 0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a position vector?",
+    "options": [
+      "A unit vector",
+      "A vector showing only magnitude",
+      "A vector that describes the position of a point relative to the origin",
+      "A vector with no direction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is conditional probability?",
+    "options": [
+      "The complement of P(A)",
+      "The probability of either A or B occurring",
+      "The probability of event A given that event B has already occurred: P(A|B) = P(A\u2229B)/P(B)",
+      "The probability of two independent events"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the addition rule of probability?",
+    "options": [
+      "P(A\u222aB) = P(A) + P(B) always",
+      "P(A\u222aB) = P(A) - P(B)",
+      "P(A\u222aB) = P(A) + P(B) - P(A\u2229B)",
+      "P(A\u222aB) = P(A) \u00d7 P(B)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a unit vector?",
+    "options": [
+      "A vector with magnitude 1 used to show direction",
+      "A vector with magnitude 0",
+      "Any vector divided by 2",
+      "A vector in the positive x direction only"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A particle is projected horizontally with speed 20 m/s from a height of 45 m. How long does it take to reach the ground? (g = 10 m/s\u00b2)",
+    "question": "How do you find the equation of a line given two points?",
     "options": [
-      "3 s",
-      "4.5 s",
-      "2 s",
-      "\u221a45 s"
+      "Use the quadratic formula",
+      "Multiply the two coordinates together",
+      "Add the x and y values of both points",
+      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The mean of a sample of 8 values is 12 and the sum of squares of deviations from the mean is 56. Find the standard deviation.",
+    "question": "What is the nth term of a geometric sequence?",
     "options": [
-      "\u221a7",
-      "\u221a8",
-      "7",
-      "2\u221a2"
+      "a \u00d7 n + r",
+      "a + (n-1)d",
+      "r^n only",
+      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

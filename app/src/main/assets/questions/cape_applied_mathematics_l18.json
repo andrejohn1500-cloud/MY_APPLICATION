@@ -1,152 +1,102 @@
 [
   {
-    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "question": "A ball is thrown upward with position s(t) = 20t - 5t\u00b2. Find the maximum height and the time it takes to reach it.",
     "options": [
-      "A. 12",
-      "B. 6",
-      "C. 4",
-      "D. 8"
+      "s'(t) = 20 - 10t = 0 gives t = 2 seconds; s(2) = 40 - 20 = 20 metres",
+      "Maximum height = 25m at t=3s",
+      "Maximum height = 20m at t=3s",
+      "Maximum height = 40m at t=2s"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a queuing system with Poisson arrivals at rate \u03bb = 4 per hour and exponential service times with rate \u03bc = 6 per hour, what is the average number of customers in the system (L)?",
+    "question": "Solve the system using matrices: 2x + y = 7, x + 3y = 11.",
     "options": [
-      "A. 2",
-      "B. 1",
-      "C. 4/3",
-      "D. 2/3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A linear programming problem has objective function Z = 5x + 4y subject to constraints 6x + 4y \u2264 24, x + 2y \u2264 6, x \u2265 0, y \u2265 0. What is the maximum value of Z?",
-    "options": [
-      "A. 21",
-      "B. 24",
-      "C. 20",
-      "D. 18"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5, and P(A \u222a B) = 0.7. What is P(A | B)?",
-    "options": [
-      "A. 0.4",
-      "B. 0.5",
-      "C. 0.6",
-      "D. 0.3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The random variable X follows a Poisson distribution with mean \u03bb. If P(X = 0) = e\u207b\u00b3, find P(X \u2265 2).",
-    "options": [
-      "A. 1 - 4e\u207b\u00b3",
-      "B. 1 - 3e\u207b\u00b3",
-      "C. 1 - e\u207b\u00b3 - 3e\u207b\u00b3",
-      "D. e\u207b\u00b3 + 3e\u207b\u00b3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A sample of size n = 100 is drawn from a population with unknown mean \u03bc and known variance \u03c3\u00b2 = 25. The sample mean is 47.2. What is the 95% confidence interval for \u03bc?",
-    "options": [
-      "A. (46.22, 48.18)",
-      "B. (45.84, 48.56)",
-      "C. (46.50, 47.90)",
-      "D. (45.22, 49.18)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "For a transportation problem, the initial basic feasible solution obtained by Vogel's Approximation Method is being tested for optimality using the MODI method. An entering variable is identified when its opportunity cost is:",
-    "options": [
-      "A. Negative",
-      "B. Positive",
-      "C. Zero",
-      "D. Greater than the largest basic variable cost"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The probability generating function of a discrete random variable X is G(t) = (0.3 + 0.7t)\u2075. What is the variance of X?",
-    "options": [
-      "A. 1.05",
-      "B. 2.45",
-      "C. 3.50",
-      "D. 0.21"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A hypothesis test is conducted at the 5% significance level. The test statistic is z = 2.10 for a two-tailed test. Which conclusion is correct?",
-    "options": [
-      "A. Reject H\u2080 since |z| = 2.10 > 1.96",
-      "B. Fail to reject H\u2080 since z = 2.10 < 2.33",
-      "C. Reject H\u2080 since z = 2.10 > 1.645",
-      "D. Fail to reject H\u2080 since z = 2.10 < 2.576"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle moves along a straight line with velocity v = 3t\u00b2 - 12t + 9 m/s. What is the total distance travelled by the particle from t = 0 to t = 3 seconds?",
-    "options": [
-      "A. 10 m",
-      "B. 9 m",
-      "C. 6 m",
-      "D. 12 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a network analysis problem, the critical path has a total duration of 28 days with a variance of 9 days\u00b2. What is the probability that the project will be completed within 31 days?",
-    "options": [
-      "A. 0.8413",
-      "B. 0.9772",
-      "C. 0.9332",
-      "D. 0.8944"
+      "x=3, y=2",
+      "x=4, y=1",
+      "Matrix form: [[2,1],[1,3]][[x],[y]] = [[7],[11]]; det=5; inverse=(1/5)[[3,-1],[-1,2]]; solution: x=2, y=3",
+      "x=1, y=5"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A force of magnitude 10 N acts at an angle of 30\u00b0 above the horizontal on a block of mass 5 kg on a rough horizontal surface with coefficient of friction \u03bc = 0.3. What is the acceleration of the block? (g = 10 m/s\u00b2)",
+    "question": "The first three terms of a sequence are 2, 6, 18. Find the sum of the first 8 terms.",
     "options": [
-      "A. (10cos30\u00b0 - 0.3(50 - 10sin30\u00b0))/5",
-      "B. (10cos30\u00b0 - 0.3 \u00d7 50)/5",
-      "C. (10 - 0.3 \u00d7 50)/5",
-      "D. (10cos30\u00b0 + 0.3(50 + 10sin30\u00b0))/5"
+      "S8 = 3280",
+      "S8 = 13122",
+      "Geometric with a=2, r=3; S8 = 2(3\u2078-1)/(3-1) = 2(6561-1)/2 = 6560",
+      "S8 = 4374"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company manufactures x units of product A and y units of product B. Profit = 5x + 8y. Constraints: 2x + 3y \u2264 120, x + y \u2264 50, x \u2265 0, y \u2265 0. Find the maximum profit.",
+    "options": [
+      "Maximum profit = $250 at x=50",
+      "Maximum profit = $400",
+      "Test vertices of feasible region: (0,40): P=320; (30,20): P=310; (50,0): P=250; maximum profit = $320 at x=0, y=40",
+      "Maximum profit = $310"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Given vectors p = 3i + 4j and q = i - 2j, find the angle between them.",
+    "options": [
+      "\u03b8 = 45\u00b0",
+      "\u03b8 = 90\u00b0",
+      "\u03b8 = 63.4\u00b0",
+      "cos \u03b8 = (p\u00b7q)/(|p||q|) = (3-8)/(5\u00d7\u221a5) = -5/(5\u221a5) = -1/\u221a5; \u03b8 = arccos(-1/\u221a5) \u2248 116.6\u00b0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a class of 40 students, 25 play cricket, 20 play football, and 8 play both. A student is chosen at random. Find P(plays cricket but not football).",
+    "options": [
+      "Cricket only = 25 - 8 = 17; P = 17/40",
+      "P = 8/40",
+      "P = 17/32",
+      "P = 25/40"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If X ~ N(\u03bc, \u03c3\u00b2) and a sample of size 36 is taken, the standard error of the mean is 2. If the population mean is 50 and the sample mean is 54, what is the value of the test statistic z?",
+    "question": "Prove that the sum of the first n terms of a geometric series is Sn = a(1-r\u207f)/(1-r).",
     "options": [
-      "A. 2",
-      "B. 4",
-      "C. 1",
-      "D. 3"
+      "The proof requires calculus",
+      "Sn = a(r\u207f-1)/(r-1) is a different formula with no connection",
+      "The formula cannot be proven algebraically",
+      "Let Sn = a + ar + ar\u00b2 +...+ ar\u207f\u207b\u00b9; multiply by r: rSn = ar + ar\u00b2 +...+ ar\u207f; subtract: Sn(1-r) = a(1-r\u207f); divide: Sn = a(1-r\u207f)/(1-r)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A random variable X has the following distribution: P(X=1)=0.2, P(X=2)=0.5, P(X=3)=0.3. Find E(X) and Var(X).",
+    "options": [
+      "E(X) = 1(0.2)+2(0.5)+3(0.3) = 0.2+1.0+0.9 = 2.1; E(X\u00b2) = 1(0.2)+4(0.5)+9(0.3) = 4.9; Var(X) = 4.9 - 2.1\u00b2 = 4.9 - 4.41 = 0.49",
+      "E(X) = 2.1, Var(X) = 2.1",
+      "E(X) = 3, Var(X) = 0.5",
+      "E(X) = 2, Var(X) = 1"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The correlation coefficient between two variables X and Y is r = 0.85. What percentage of variation in Y is explained by X?",
+    "question": "A data set has mean 50 and standard deviation 10. Using normal distribution, find P(40 < X < 60).",
     "options": [
-      "A. 72.25%",
-      "B. 85%",
-      "C. 42.5%",
-      "D. 92.2%"
+      "P = 50%",
+      "P = 99.7%",
+      "P = 95%",
+      "Standardise: z = (40-50)/10 = -1 and z = (60-50)/10 = 1; P(-1 < Z < 1) \u2248 0.6827 or 68.27%"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A committee of 4 is to be chosen from 6 men and 5 women. What is the probability that the committee contains at least 2 women?",
+    "question": "Given f(x) = x\u00b3 - 3x\u00b2 - 9x + 5, find all stationary points and determine their nature.",
     "options": [
-      "A. 50/99",
-      "B. 45/99",
-      "C. 60/99",
-      "D. 40/99"
+      "f'(x) cannot be factored",
+      "f'(x) = 3x\u00b2-6x-9 = 3(x-3)(x+1) = 0; x=3 or x=-1; f''(x)=6x-6; at x=3: f''=12>0 minimum; at x=-1: f''=-12<0 maximum",
+      "Only one stationary point at x=3",
+      "Stationary points at x=1 and x=-3"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

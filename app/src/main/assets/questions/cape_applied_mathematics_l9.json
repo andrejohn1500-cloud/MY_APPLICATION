@@ -1,152 +1,202 @@
 [
   {
-    "question": "A discrete random variable X has the probability distribution P(X = x) = kx for x = 1, 2, 3, 4. What is the value of k?",
+    "question": "What is a Venn diagram used for?",
     "options": [
-      "1/10",
-      "1/8",
-      "1/6",
-      "1/4"
+      "To visually represent sets and their relationships including unions intersections and complements",
+      "To show the frequency of data values",
+      "To represent a probability tree",
+      "To plot a linear function"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A committee of 3 is to be chosen from 5 men and 4 women. How many committees contain at least 1 woman?",
+    "question": "How do you add two vectors?",
     "options": [
-      "70",
-      "74",
-      "76",
-      "80"
+      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)",
+      "Add the angles only",
+      "Multiply the magnitudes",
+      "Subtract corresponding components"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a unit vector?",
+    "options": [
+      "A vector with magnitude 0",
+      "A vector in the positive x direction only",
+      "A vector with magnitude 1 used to show direction",
+      "Any vector divided by 2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the interquartile range?",
+    "options": [
+      "The average of the quartiles",
+      "The difference between the upper quartile Q3 and lower quartile Q1",
+      "Half of the range",
+      "The difference between the maximum and minimum values"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The lengths of bolts produced by a machine are normally distributed with mean 5 cm and standard deviation 0.2 cm. What is the probability that a randomly selected bolt has a length between 4.8 cm and 5.4 cm?",
+    "question": "What is the multiplication rule for independent events?",
     "options": [
-      "0.8186",
-      "0.7745",
-      "0.8413",
-      "0.9772"
+      "P(A\u2229B) = P(A) + P(B)",
+      "P(A\u2229B) = P(A) - P(B)",
+      "P(A\u2229B) = P(A) \u00d7 P(B)",
+      "P(A\u2229B) = P(A) / P(B)"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5 and P(A \u222a B) = 0.7. What is P(A | B)?",
+    "question": "What is a probability tree diagram?",
     "options": [
-      "0.2",
-      "0.4",
-      "0.5",
-      "0.6"
+      "A graph of a cumulative frequency",
+      "A bar chart of probability values",
+      "A diagram showing set relationships",
+      "A diagram showing all possible outcomes of sequential events and their probabilities"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What defines the feasible region in linear programming?",
+    "options": [
+      "The x and y axes only",
+      "The region satisfying all the constraints in the problem",
+      "The region where the objective function is maximised",
+      "The region outside all constraints"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A particle moves in a straight line such that its velocity at time t seconds is v = 3t\u00b2 \u2212 12t + 9 m/s. At what values of t is the particle at rest?",
+    "question": "What is a scatter diagram used for?",
     "options": [
-      "t = 1 and t = 3",
-      "t = 2 and t = 4",
-      "t = 0 and t = 3",
-      "t = 1 and t = 4"
+      "To show the frequency of one variable",
+      "To display data in sectors",
+      "To show the relationship or correlation between two variables",
+      "To show cumulative totals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the addition rule of probability?",
+    "options": [
+      "P(A\u222aB) = P(A) + P(B) - P(A\u2229B)",
+      "P(A\u222aB) = P(A) - P(B)",
+      "P(A\u222aB) = P(A) + P(B) always",
+      "P(A\u222aB) = P(A) \u00d7 P(B)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a sample of 200 items, the mean weight is 50 g and the standard deviation is 5 g. A 95% confidence interval for the population mean is approximately:",
+    "question": "What is standard deviation?",
     "options": [
-      "(49.31, 50.69)",
-      "(49.00, 51.00)",
-      "(48.65, 51.35)",
-      "(47.50, 52.50)"
+      "The middle value of the data",
+      "The average of the data set",
+      "A measure of how spread out data values are from the mean",
+      "The difference between max and min values"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is matrix addition?",
+    "options": [
+      "Adding corresponding elements of two matrices of the same dimensions",
+      "Transposing the matrix",
+      "Finding the determinant",
+      "Multiplying rows by columns"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The number of calls received at a call centre follows a Poisson distribution with mean 3 per hour. What is the probability of receiving exactly 2 calls in one hour?",
+    "question": "What is differentiation used for?",
     "options": [
-      "0.2240",
-      "0.1494",
-      "0.2241",
-      "0.4232"
+      "To find the inverse of a function",
+      "To find the rate of change of a function and the gradient at any point",
+      "To find the area under a curve",
+      "To solve quadratic equations"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the nth term of an arithmetic sequence?",
+    "options": [
+      "a + nd",
+      "n \u00d7 a + d",
+      "a + (n-1)d where a is the first term and d is the common difference",
+      "a \u00d7 r^(n-1)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the nth term of a geometric sequence?",
+    "options": [
+      "a \u00d7 n + r",
+      "a + (n-1)d",
+      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio",
+      "r^n only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a linear programming problem?",
+    "options": [
+      "A problem involving quadratic functions",
+      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
+      "A problem finding the gradient of a line",
+      "A problem with no constraints"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a cumulative frequency curve used for?",
+    "options": [
+      "To calculate the mean of grouped data",
+      "To show the mode of a data set",
+      "To compare two data sets directly",
+      "To estimate medians, quartiles and percentiles from grouped data"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "How do you find the equation of a line given two points?",
+    "options": [
+      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c",
+      "Multiply the two coordinates together",
+      "Add the x and y values of both points",
+      "Use the quadratic formula"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A car accelerates from rest. Its displacement s metres after t seconds is given by s = 2t\u00b3 \u2212 3t\u00b2. What is the acceleration when t = 2 seconds?",
+    "question": "What does the discriminant tell us about a quadratic equation?",
     "options": [
-      "18 m/s\u00b2",
-      "12 m/s\u00b2",
-      "6 m/s\u00b2",
-      "24 m/s\u00b2"
+      "It gives the value of the roots directly",
+      "It only tells us if the parabola opens up or down",
+      "It measures the gradient of the quadratic",
+      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A bag contains 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both balls are red?",
+    "question": "What is the quadratic formula?",
     "options": [
-      "2/15",
-      "4/25",
-      "1/6",
-      "2/9"
+      "x = b\u00b2 - 4ac",
+      "x = -b/2a only",
+      "x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a for ax\u00b2 + bx + c = 0",
+      "x = (a+b)/c"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The regression line of y on x is y = 2.5x + 1.3. If the mean of x is 4, what is the mean of y?",
+    "question": "What is the magnitude of a vector?",
     "options": [
-      "11.3",
-      "10.5",
-      "9.8",
-      "12.0"
+      "The product of the components",
+      "The length of the vector calculated as \u221a(x\u00b2 + y\u00b2) for vector (x,y)",
+      "The sum of the components",
+      "The direction of the vector"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A hypothesis test is conducted at the 5% significance level. The p-value obtained is 0.03. What is the correct conclusion?",
-    "options": [
-      "Reject the null hypothesis",
-      "Accept the null hypothesis",
-      "Increase the significance level",
-      "The test is inconclusive"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle of mass 5 kg is acted upon by a resultant force of 20 N. What is its acceleration?",
-    "options": [
-      "4 m/s\u00b2",
-      "2 m/s\u00b2",
-      "100 m/s\u00b2",
-      "0.25 m/s\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is the correct formula for the variance of a binomial distribution with parameters n and p?",
-    "options": [
-      "np(1\u2212p)",
-      "np",
-      "n\u00b2p",
-      "np\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A box contains 10 items of which 3 are defective. If 2 items are selected at random without replacement, what is the probability that exactly 1 is defective?",
-    "options": [
-      "7/15",
-      "3/10",
-      "1/2",
-      "14/45"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two forces of magnitude 8 N and 6 N act at right angles to each other. What is the magnitude of their resultant?",
-    "options": [
-      "10 N",
-      "14 N",
-      "7 N",
-      "12 N"
-    ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

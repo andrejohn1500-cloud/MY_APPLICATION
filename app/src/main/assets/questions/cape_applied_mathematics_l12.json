@@ -1,151 +1,151 @@
 [
   {
-    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "question": "Solve the quadratic equation x\u00b2 - 5x + 6 = 0.",
     "options": [
-      "k = 12",
-      "k = 6",
-      "k = 4",
-      "k = 8"
+      "x = 5 or x = 6",
+      "x = 1 or x = 6",
+      "x = 2 or x = 3 by factoring (x-2)(x-3) = 0",
+      "x = -2 or x = -3"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The number of customers arriving at a bank follows a Poisson distribution with mean 4 per hour. What is the probability that exactly 6 customers arrive in a 2-hour period?",
+    "question": "A geometric series has first term 4 and common ratio 0.5. Find the sum to infinity.",
     "options": [
-      "e\u207b\u2078 \u00d7 8\u2076/6!",
-      "e\u207b\u2074 \u00d7 4\u2076/6!",
-      "e\u207b\u2078 \u00d7 6\u2078/8!",
-      "e\u207b\u2074 \u00d7 6\u2074/4!"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle moves such that its displacement s metres at time t seconds is given by s = t\u00b3 - 6t\u00b2 + 9t. At what time(s) is the particle momentarily at rest?",
-    "options": [
-      "t = 1 and t = 3",
-      "t = 2 and t = 4",
-      "t = 3 only",
-      "t = 1 only"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a linear programming problem, the feasible region is bounded by x + 2y \u2264 10, 3x + y \u2264 12, x \u2265 0, y \u2265 0. Which point maximises the objective function P = 5x + 4y?",
-    "options": [
-      "(2, 4) giving P = 26",
-      "(4, 0) giving P = 20",
-      "(0, 5) giving P = 20",
-      "(14/5, 18/5) giving P = 158/5"
+      "S\u221e = 16",
+      "S\u221e = 2",
+      "S\u221e = 4",
+      "S\u221e = a/(1-r) = 4/(1-0.5) = 4/0.5 = 8"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Two events A and B are such that P(A) = 0.4, P(B) = 0.5 and P(A\u222aB) = 0.7. What is P(A|B)?",
+    "question": "Given f(x) = 3x\u00b2 - 4x + 1, find f'(x).",
     "options": [
-      "0.4",
-      "0.6",
-      "0.3",
-      "0.5"
+      "f'(x) = 3x - 4",
+      "f'(x) = 9x - 4",
+      "f'(x) = 6x - 4",
+      "f'(x) = 6x\u00b2 - 4"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "A sample of size n = 36 is drawn from a population with known variance \u03c3\u00b2 = 144. A 95% confidence interval for the population mean has width approximately:",
+    "question": "Find the turning point of f(x) = x\u00b2 - 6x + 11.",
     "options": [
-      "7.84",
-      "3.92",
-      "15.68",
-      "4.00"
+      "Turning point is (6, 11)",
+      "Turning point is (-3, 2)",
+      "f'(x) = 2x - 6 = 0 gives x = 3; f(3) = 9 - 18 + 11 = 2; turning point is (3, 2) \u2014 a minimum",
+      "Turning point is (3, 3)"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The coefficient of x\u00b3 in the binomial expansion of (2 + x)\u2075 is:",
+    "question": "The sum of the first n terms of an arithmetic series is Sn = n/2(2a + (n-1)d). Find S10 when a=3 and d=2.",
     "options": [
-      "80",
-      "40",
-      "160",
-      "20"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A force of 10 N acts at 30\u00b0 above the horizontal and another force of 8 N acts horizontally. What is the magnitude of the resultant force, to 2 decimal places?",
-    "options": [
-      "17.32 N",
-      "16.81 N",
-      "18.00 N",
-      "15.62 N"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A null hypothesis H\u2080: \u03bc = 50 is tested against H\u2081: \u03bc > 50 using a sample mean of 53, sample size 25, and population standard deviation 10. What is the test statistic z?",
-    "options": [
-      "1.50",
-      "3.00",
-      "0.30",
-      "1.06"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If X ~ N(\u03bc, \u03c3\u00b2) and P(X < 40) = 0.2119 and P(X < 60) = 0.9772, what are the values of \u03bc and \u03c3?",
-    "options": [
-      "\u03bc = 55, \u03c3 = 5",
-      "\u03bc = 50, \u03c3 = 10",
-      "\u03bc = 55, \u03c3 = 10",
-      "\u03bc = 50, \u03c3 = 5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle of mass 2 kg is connected by a light inextensible string over a smooth pulley to a particle of mass 3 kg. What is the acceleration of the system when released from rest?",
-    "options": [
-      "g/5 ms\u207b\u00b2",
-      "g/2 ms\u207b\u00b2",
-      "g/3 ms\u207b\u00b2",
-      "2g/5 ms\u207b\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Spearman's rank correlation coefficient for 6 pairs of data gives \u03a3d\u00b2 = 18. What is the value of rs?",
-    "options": [
-      "0.486",
-      "0.514",
-      "0.750",
-      "0.600"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A geometric distribution has P(X = 1) = 0.3. What is the mean and variance of X respectively?",
-    "options": [
-      "10/3 and 70/9",
-      "1/0.3 and 0.7/0.09",
-      "3.33 and 2.33",
-      "Both A and B are correct"
+      "S10 = 60",
+      "S10 = 150",
+      "S10 = 100",
+      "S10 = 10/2(6 + 18) = 5 \u00d7 24 = 120"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a chi-squared test for independence with a 3\u00d74 contingency table, the number of degrees of freedom is:",
+    "question": "Find the area under y = x\u00b2 between x = 0 and x = 3.",
     "options": [
-      "6",
-      "12",
-      "8",
-      "9"
+      "3 square units",
+      "\u222b\u2080\u00b3 x\u00b2 dx = [x\u00b3/3]\u2080\u00b3 = 9 - 0 = 9 square units",
+      "6 square units",
+      "27 square units"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A linear programming problem has constraints x + y \u2264 10, x \u2265 2, y \u2265 3. Find the vertices of the feasible region.",
+    "options": [
+      "The feasible region has no vertices",
+      "Vertices are (2,3), (7,3) and (2,8) found by solving constraint boundary intersections",
+      "Vertices are (0,0), (10,0) and (0,10)",
+      "Vertices are (2,2) and (10,10)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn without replacement. Find P(both red).",
+    "options": [
+      "P = (5/8) \u00d7 (5/8) = 25/64",
+      "P = 10/8",
+      "P = 5/8 + 4/7",
+      "P = (5/8) \u00d7 (4/7) = 20/56 = 5/14"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Vectors a = (3,4) and b = (1,2). Find |a - b|.",
+    "options": [
+      "5",
+      "\u221a5",
+      "a - b = (2,2); |a-b| = \u221a(4+4) = \u221a8 = 2\u221a2",
+      "\u221a20"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two events A and B have P(A) = 0.4, P(B) = 0.3, P(A\u2229B) = 0.1. Find P(A\u222aB).",
+    "options": [
+      "P(A\u222aB) = 0.4 \u00d7 0.3 = 0.12",
+      "P(A\u222aB) = 0.4 + 0.3 = 0.7",
+      "P(A\u222aB) = 0.1",
+      "P(A\u222aB) = 0.4 + 0.3 - 0.1 = 0.6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The probability that a student passes Maths is 0.7 and passes English is 0.6. If independent, find P(passes both).",
+    "options": [
+      "P(M\u2229E) = 0.7 \u00d7 0.6 = 0.42",
+      "P = 0.7/0.6",
+      "P = 0.7 - 0.6 = 0.1",
+      "P = 0.7 + 0.6 = 1.3"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A uniform rod AB of length 4 m and mass 10 kg rests horizontally on two supports at A and at a point C, 1 m from B. What is the reaction at C?",
+    "question": "Find the correlation coefficient interpretation: r = -0.92.",
     "options": [
-      "75 N",
-      "25 N",
-      "50 N",
-      "100 N"
+      "No correlation between variables",
+      "Weak positive correlation",
+      "Strong negative correlation \u2014 as one variable increases the other decreases",
+      "Perfect negative correlation where all points lie exactly on a line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the equation of the line passing through (2,3) and (4,7).",
+    "options": [
+      "y = 3x - 1",
+      "Gradient = (7-3)/(4-2) = 2; y - 3 = 2(x - 2); y = 2x - 1",
+      "y = x + 1",
+      "y = 2x + 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a group of 30 students: 18 study Maths, 15 study Science, 7 study both. How many study neither?",
+    "options": [
+      "2 students",
+      "8 students",
+      "n(M\u222aS) = 18 + 15 - 7 = 26; neither = 30 - 26 = 4",
+      "6 students"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Given matrix A = [[2,1],[3,4]], find the determinant and inverse.",
+    "options": [
+      "det = 2\u00d74 - 1\u00d73 = 5; inverse = (1/5)[[4,-1],[-3,2]]",
+      "det = 5; inverse = [[4,1],[-3,2]]",
+      "det = 11; no inverse exists",
+      "det = 8; inverse = [[4,1],[3,2]]"
     ],
     "correctIndex": 0
   }

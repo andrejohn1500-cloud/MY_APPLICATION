@@ -1,151 +1,101 @@
 [
   {
-    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1-x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "question": "A company manufactures x units of product A and y units of product B. Profit = 5x + 8y. Constraints: 2x + 3y \u2264 120, x + y \u2264 50, x \u2265 0, y \u2265 0. Find the maximum profit.",
     "options": [
-      "k = 12",
-      "k = 6",
-      "k = 4",
-      "k = 8"
+      "Maximum profit = $400",
+      "Test vertices of feasible region: (0,40): P=320; (30,20): P=310; (50,0): P=250; maximum profit = $320 at x=0, y=40",
+      "Maximum profit = $250 at x=50",
+      "Maximum profit = $310"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A random variable X has the following distribution: P(X=1)=0.2, P(X=2)=0.5, P(X=3)=0.3. Find E(X) and Var(X).",
+    "options": [
+      "E(X) = 2, Var(X) = 1",
+      "E(X) = 3, Var(X) = 0.5",
+      "E(X) = 2.1, Var(X) = 2.1",
+      "E(X) = 1(0.2)+2(0.5)+3(0.3) = 0.2+1.0+0.9 = 2.1; E(X\u00b2) = 1(0.2)+4(0.5)+9(0.3) = 4.9; Var(X) = 4.9 - 2.1\u00b2 = 4.9 - 4.41 = 0.49"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A ball is thrown upward with position s(t) = 20t - 5t\u00b2. Find the maximum height and the time it takes to reach it.",
+    "options": [
+      "Maximum height = 20m at t=3s",
+      "Maximum height = 25m at t=3s",
+      "Maximum height = 40m at t=2s",
+      "s'(t) = 20 - 10t = 0 gives t = 2 seconds; s(2) = 40 - 20 = 20 metres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a class of 40 students, 25 play cricket, 20 play football, and 8 play both. A student is chosen at random. Find P(plays cricket but not football).",
+    "options": [
+      "P = 25/40",
+      "P = 8/40",
+      "Cricket only = 25 - 8 = 17; P = 17/40",
+      "P = 17/32"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve the system using matrices: 2x + y = 7, x + 3y = 11.",
+    "options": [
+      "x=1, y=5",
+      "x=4, y=1",
+      "Matrix form: [[2,1],[1,3]][[x],[y]] = [[7],[11]]; det=5; inverse=(1/5)[[3,-1],[-1,2]]; solution: x=2, y=3",
+      "x=3, y=2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Given vectors p = 3i + 4j and q = i - 2j, find the angle between them.",
+    "options": [
+      "cos \u03b8 = (p\u00b7q)/(|p||q|) = (3-8)/(5\u00d7\u221a5) = -5/(5\u221a5) = -1/\u221a5; \u03b8 = arccos(-1/\u221a5) \u2248 116.6\u00b0",
+      "\u03b8 = 63.4\u00b0",
+      "\u03b8 = 90\u00b0",
+      "\u03b8 = 45\u00b0"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a Poisson process, events occur at a mean rate of 3 per hour. What is the probability that exactly 5 events occur in a 2-hour period?",
+    "question": "Prove that the sum of the first n terms of a geometric series is Sn = a(1-r\u207f)/(1-r).",
     "options": [
-      "e\u207b\u2076(6\u2075/5!)",
-      "e\u207b\u00b3(3\u2075/5!)",
-      "e\u207b\u2076(3\u2075/5!)",
-      "e\u207b\u00b3(6\u2075/5!)"
+      "The formula cannot be proven algebraically",
+      "Let Sn = a + ar + ar\u00b2 +...+ ar\u207f\u207b\u00b9; multiply by r: rSn = ar + ar\u00b2 +...+ ar\u207f; subtract: Sn(1-r) = a(1-r\u207f); divide: Sn = a(1-r\u207f)/(1-r)",
+      "The proof requires calculus",
+      "Sn = a(r\u207f-1)/(r-1) is a different formula with no connection"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A particle moves with velocity v = 3t\u00b2 - 12t + 9 m/s. What is the total distance travelled in the interval 0 \u2264 t \u2264 4 seconds?",
+    "question": "A data set has mean 50 and standard deviation 10. Using normal distribution, find P(40 < X < 60).",
     "options": [
-      "20 m",
-      "16 m",
-      "12 m",
-      "24 m"
+      "P = 99.7%",
+      "P = 50%",
+      "P = 95%",
+      "Standardise: z = (40-50)/10 = -1 and z = (60-50)/10 = 1; P(-1 < Z < 1) \u2248 0.6827 or 68.27%"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Two independent random variables X ~ N(\u03bc\u2081, \u03c3\u2081\u00b2) and Y ~ N(\u03bc\u2082, \u03c3\u2082\u00b2). The distribution of 2X - 3Y is:",
+    "question": "The first three terms of a sequence are 2, 6, 18. Find the sum of the first 8 terms.",
     "options": [
-      "N(2\u03bc\u2081 - 3\u03bc\u2082, 4\u03c3\u2081\u00b2 + 9\u03c3\u2082\u00b2)",
-      "N(2\u03bc\u2081 - 3\u03bc\u2082, 4\u03c3\u2081\u00b2 - 9\u03c3\u2082\u00b2)",
-      "N(2\u03bc\u2081 + 3\u03bc\u2082, 4\u03c3\u2081\u00b2 + 9\u03c3\u2082\u00b2)",
-      "N(2\u03bc\u2081 - 3\u03bc\u2082, 2\u03c3\u2081\u00b2 + 3\u03c3\u2082\u00b2)"
+      "S8 = 13122",
+      "S8 = 4374",
+      "S8 = 3280",
+      "Geometric with a=2, r=3; S8 = 2(3\u2078-1)/(3-1) = 2(6561-1)/2 = 6560"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A 95% confidence interval for a population mean is constructed from a sample of size 36 with sample mean 50 and known standard deviation 12. What is the confidence interval?",
+    "question": "Given f(x) = x\u00b3 - 3x\u00b2 - 9x + 5, find all stationary points and determine their nature.",
     "options": [
-      "(46.08, 53.92)",
-      "(47.08, 52.92)",
-      "(48.04, 51.96)",
-      "(45.12, 54.88)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A force F = (3i + 4j) N acts on a particle of mass 2 kg. What is the magnitude of the acceleration produced?",
-    "options": [
-      "2.5 m/s\u00b2",
-      "5 m/s\u00b2",
-      "3.5 m/s\u00b2",
-      "7 m/s\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In hypothesis testing, a Type II error occurs when:",
-    "options": [
-      "We fail to reject a false null hypothesis",
-      "We reject a true null hypothesis",
-      "We reject a false null hypothesis",
-      "We accept a true alternative hypothesis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The moment generating function of X is M(t) = e^(\u03bct + \u03c3\u00b2t\u00b2/2). This corresponds to which distribution?",
-    "options": [
-      "Normal distribution",
-      "Poisson distribution",
-      "Binomial distribution",
-      "Exponential distribution"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A box contains 5 red, 4 blue, and 3 green balls. Two balls are drawn without replacement. What is the probability that both balls are the same colour?",
-    "options": [
-      "19/66",
-      "20/66",
-      "17/66",
-      "21/66"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle is projected at an angle \u03b8 to the horizontal with speed u. At maximum height, the speed of the particle is:",
-    "options": [
-      "u cos \u03b8",
-      "u sin \u03b8",
-      "u",
-      "u tan \u03b8"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "For the regression line y = a + bx, the least squares estimate of b is:",
-    "options": [
-      "\u03a3(x\u1d62 - x\u0304)(y\u1d62 - \u0233) / \u03a3(x\u1d62 - x\u0304)\u00b2",
-      "\u03a3(x\u1d62 - x\u0304)(y\u1d62 - \u0233) / \u03a3(y\u1d62 - \u0233)\u00b2",
-      "\u03a3x\u1d62y\u1d62 / \u03a3x\u1d62\u00b2",
-      "\u03a3(y\u1d62 - \u0233)\u00b2 / \u03a3(x\u1d62 - x\u0304)\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A uniform rod AB of length 4 m and mass 10 kg rests horizontally on two supports at distances 0.5 m from each end. What is the reaction at each support?",
-    "options": [
-      "49 N",
-      "98 N",
-      "24.5 N",
-      "9.8 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If X ~ Bin(n, p), the variance of X is maximized when p equals:",
-    "options": [
-      "0.5",
-      "0.25",
-      "0.75",
-      "1"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A car decelerates uniformly from 30 m/s to rest over a distance of 90 m. What is the deceleration?",
-    "options": [
-      "5 m/s\u00b2",
-      "3 m/s\u00b2",
-      "10 m/s\u00b2",
-      "15 m/s\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Spearman rank correlation coefficient is used instead of Pearson's when:",
-    "options": [
-      "Data is non-normal or ordinal",
-      "Sample size is large",
-      "Data follows a normal distribution",
-      "Variables are continuous and linear"
+      "f'(x) = 3x\u00b2-6x-9 = 3(x-3)(x+1) = 0; x=3 or x=-1; f''(x)=6x-6; at x=3: f''=12>0 minimum; at x=-1: f''=-12<0 maximum",
+      "Stationary points at x=1 and x=-3",
+      "Only one stationary point at x=3",
+      "f'(x) cannot be factored"
     ],
     "correctIndex": 0
   }

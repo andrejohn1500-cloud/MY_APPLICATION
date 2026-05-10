@@ -1,151 +1,201 @@
 [
   {
-    "question": "A bag contains 3 red balls and 5 blue balls. A ball is chosen at random. What is the probability that it is red?",
+    "question": "What is a vector?",
     "options": [
-      "3/8",
-      "5/8",
-      "3/5",
-      "1/2"
+      "A quantity that has both magnitude and direction",
+      "A type of matrix",
+      "A scalar quantity",
+      "A quantity with only magnitude"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The mean of the numbers 4, 7, 9, 12, and 8 is:",
+    "question": "What is the complement of a set?",
     "options": [
-      "7",
-      "8",
-      "9",
-      "10"
+      "The universal set itself",
+      "All elements in the universal set that are not in the set",
+      "All elements in the set",
+      "The empty set"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A car travels 120 km in 2 hours. What is its average speed?",
+    "question": "What is probability?",
     "options": [
-      "60 km/h",
-      "50 km/h",
-      "70 km/h",
-      "80 km/h"
+      "A measure of how likely an event is to occur expressed as a value between 0 and 1",
+      "The ratio of successful outcomes to total trials only",
+      "A measure of data spread",
+      "The number of times an event occurs"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a measure of spread?",
+    "question": "What is a prime number?",
     "options": [
-      "Mean",
-      "Median",
-      "Standard deviation",
-      "Mode"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A particle moves with constant velocity 5 m/s. How far does it travel in 10 seconds?",
-    "options": [
-      "2 m",
-      "15 m",
-      "50 m",
-      "55 m"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The median of the data set {3, 7, 9, 11, 15} is:",
-    "options": [
-      "7",
-      "9",
-      "11",
-      "15"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Two events A and B are mutually exclusive. P(A) = 0.3 and P(B) = 0.4. What is P(A or B)?",
-    "options": [
-      "0.12",
-      "0.58",
-      "0.70",
-      "0.80"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A force of 10 N acts on a mass of 2 kg. What is the acceleration?",
-    "options": [
-      "2 m/s\u00b2",
-      "5 m/s\u00b2",
-      "12 m/s\u00b2",
-      "20 m/s\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The mode of the data set {2, 3, 3, 5, 7, 7, 7, 9} is:",
-    "options": [
-      "3",
-      "5",
-      "7",
-      "9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A fair coin is tossed twice. What is the probability of getting two heads?",
-    "options": [
-      "1/4",
-      "1/2",
-      "3/4",
-      "1"
+      "A number greater than 1 that has only two factors: 1 and itself",
+      "Any odd number",
+      "A number with more than two factors",
+      "A number divisible by 2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "An object is dropped from rest. Using g = 10 m/s\u00b2, its velocity after 3 seconds is:",
+    "question": "What is a factor of a number?",
     "options": [
-      "10 m/s",
-      "20 m/s",
-      "30 m/s",
-      "40 m/s"
+      "A decimal part of a number",
+      "A number greater than the original",
+      "A number that divides exactly into another number",
+      "A number added to another"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The range of the data set {4, 8, 15, 16, 23, 42} is:",
+    "question": "What is the y-intercept of a graph?",
     "options": [
-      "16",
-      "38",
-      "42",
-      "46"
+      "The gradient of the line",
+      "The point where the graph crosses the y-axis where x = 0",
+      "The point where the graph crosses the x-axis",
+      "The maximum point of the graph"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A box contains 4 green, 3 yellow, and 5 red marbles. What is the probability of picking a yellow marble?",
+    "question": "What is the range of a data set?",
     "options": [
-      "1/4",
-      "3/12",
-      "4/12",
-      "5/12"
+      "The difference between the highest and lowest values",
+      "The middle value",
+      "The average of the data",
+      "The most common value"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A particle starts from rest and accelerates uniformly at 3 m/s\u00b2 for 4 seconds. What is its final velocity?",
+    "question": "What is the mode?",
     "options": [
-      "7 m/s",
-      "9 m/s",
-      "12 m/s",
-      "16 m/s"
+      "The range of the data",
+      "The average value",
+      "The value that occurs most frequently in a data set",
+      "The middle value"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The lower quartile (Q1) of the ordered data set {2, 4, 6, 8, 10, 12, 14, 16} is:",
+    "question": "What is a quadratic function?",
     "options": [
-      "4",
-      "5",
-      "6",
-      "8"
+      "A function with no turning point",
+      "A function of the form f(x) = mx + c",
+      "A function involving cube roots",
+      "A function of the form f(x) = ax\u00b2 + bx + c where a \u2260 0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a subset?",
+    "options": [
+      "A set with no elements",
+      "A set equal to another set",
+      "A set whose elements are all contained in another set",
+      "A set with more elements than another"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a sample space?",
+    "options": [
+      "The set of favourable outcomes only",
+      "The number of trials in an experiment",
+      "The set of all possible outcomes of an experiment",
+      "The probability of an event"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the range of a function?",
+    "options": [
+      "The set of all possible output values",
+      "The minimum value of the function",
+      "The set of all input values",
+      "The y-intercept of the function"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a set?",
+    "options": [
+      "A type of equation",
+      "A well-defined collection of distinct objects",
+      "A graph of a function",
+      "A list of numbers in order"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a geometric sequence?",
+    "options": [
+      "A random sequence of numbers",
+      "A sequence with a constant difference between terms",
+      "A sequence where each term is multiplied by a constant ratio",
+      "A sequence of square numbers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the gradient of a line?",
+    "options": [
+      "The y-intercept of the line",
+      "The measure of steepness calculated as rise over run",
+      "The length of the line",
+      "The x-intercept of the line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the median?",
+    "options": [
+      "The middle value when data is arranged in order",
+      "The highest minus the lowest value",
+      "The average of all values",
+      "The most common value"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the intersection of two sets?",
+    "options": [
+      "Elements in neither set",
+      "Elements that are in both set A and set B",
+      "All elements in either set",
+      "Elements in A only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is an arithmetic sequence?",
+    "options": [
+      "A sequence with no pattern",
+      "A sequence where each term differs from the previous by a constant amount called the common difference",
+      "A sequence where each term is multiplied by a constant",
+      "A sequence of prime numbers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the mean of a data set?",
+    "options": [
+      "The sum of all values divided by the number of values",
+      "The most frequently occurring value",
+      "The middle value when data is ordered",
+      "The difference between the highest and lowest values"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a linear function?",
+    "options": [
+      "A function with no x-intercept",
+      "A function whose graph is a straight line with equation y = mx + c",
+      "A function that only has positive values",
+      "A function whose graph is a curve"
     ],
     "correctIndex": 1
   }

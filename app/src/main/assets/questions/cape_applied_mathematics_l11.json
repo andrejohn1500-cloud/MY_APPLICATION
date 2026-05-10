@@ -1,152 +1,152 @@
 [
   {
-    "question": "A random variable X follows a Poisson distribution with mean \u03bb. If P(X = 2) = P(X = 3), find the value of \u03bb.",
+    "question": "A geometric series has first term 4 and common ratio 0.5. Find the sum to infinity.",
     "options": [
-      "A. \u03bb = 2",
-      "B. \u03bb = 3",
-      "C. \u03bb = 4",
-      "D. \u03bb = 6"
+      "S\u221e = 2",
+      "S\u221e = 4",
+      "S\u221e = a/(1-r) = 4/(1-0.5) = 4/0.5 = 8",
+      "S\u221e = 16"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A continuous random variable X has probability density function f(x) = kx\u00b2(1 - x) for 0 \u2264 x \u2264 1, and 0 otherwise. What is the value of k?",
+    "question": "Solve the quadratic equation x\u00b2 - 5x + 6 = 0.",
     "options": [
-      "A. k = 6",
-      "B. k = 8",
-      "C. k = 10",
-      "D. k = 12"
+      "x = 5 or x = 6",
+      "x = 1 or x = 6",
+      "x = -2 or x = -3",
+      "x = 2 or x = 3 by factoring (x-2)(x-3) = 0"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a linear programming problem, the objective function Z = 3x + 5y is to be maximized subject to constraints x + y \u2264 10, x \u2265 2, y \u2265 3, and 2x + y \u2264 18. What is the maximum value of Z?",
+    "question": "The sum of the first n terms of an arithmetic series is Sn = n/2(2a + (n-1)d). Find S10 when a=3 and d=2.",
     "options": [
-      "A. 44",
-      "B. 46",
-      "C. 48",
-      "D. 50"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Two events A and B are such that P(A) = 0.6, P(B) = 0.5, and P(A \u222a B) = 0.8. Determine whether A and B are independent.",
-    "options": [
-      "A. They are independent because P(A \u2229 B) = 0.3 = P(A)\u00b7P(B)",
-      "B. They are not independent because P(A \u2229 B) = 0.3 \u2260 P(A)\u00b7P(B) = 0.30",
-      "C. They are independent because P(A|B) = P(A)",
-      "D. They are not independent because P(A \u2229 B) = 0.3 but P(A)\u00b7P(B) = 0.30, confirming independence only by coincidence"
+      "S10 = 10/2(6 + 18) = 5 \u00d7 24 = 120",
+      "S10 = 60",
+      "S10 = 100",
+      "S10 = 150"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The lifetimes (in hours) of a sample of 8 batteries are: 12, 15, 14, 10, 13, 16, 11, 9. A 95% confidence interval for the population mean lifetime is constructed using the t-distribution. What is the correct degrees of freedom to use?",
+    "question": "Find the turning point of f(x) = x\u00b2 - 6x + 11.",
     "options": [
-      "A. 6",
-      "B. 7",
-      "C. 8",
-      "D. 9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A particle moves in a straight line with velocity v = 3t\u00b2 - 12t + 9 m/s. At what time(s) does the particle change direction?",
-    "options": [
-      "A. t = 1 s and t = 3 s",
-      "B. t = 2 s only",
-      "C. t = 1 s only",
-      "D. t = 3 s only"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A binomial random variable X ~ B(20, 0.3). Using the normal approximation with continuity correction, find the approximate probability P(X \u2264 7).",
-    "options": [
-      "A. P(Z \u2264 0.33)",
-      "B. P(Z \u2264 0.54)",
-      "C. P(Z \u2264 0.65)",
-      "D. P(Z \u2264 0.87)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A force of magnitude 50 N acts at an angle of 30\u00b0 above the horizontal on a box of mass 10 kg. If the coefficient of friction is 0.2, find the acceleration of the box. (Take g = 10 m/s\u00b2)",
-    "options": [
-      "A. 2.45 m/s\u00b2",
-      "B. 2.83 m/s\u00b2",
-      "C. 3.16 m/s\u00b2",
-      "D. 3.54 m/s\u00b2"
+      "Turning point is (-3, 2)",
+      "Turning point is (6, 11)",
+      "f'(x) = 2x - 6 = 0 gives x = 3; f(3) = 9 - 18 + 11 = 2; turning point is (3, 2) \u2014 a minimum",
+      "Turning point is (3, 3)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "For a hypothesis test H\u2080: \u03bc = 50 vs H\u2081: \u03bc \u2260 50 using a sample of n = 36, x\u0304 = 53, \u03c3 = 12, what is the value of the test statistic?",
+    "question": "Find the area under y = x\u00b2 between x = 0 and x = 3.",
     "options": [
-      "A. z = 1.25",
-      "B. z = 1.50",
-      "C. z = 1.75",
-      "D. z = 2.00"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A projectile is launched from ground level at 60\u00b0 to the horizontal with initial speed 40 m/s. Taking g = 10 m/s\u00b2, what is the range of the projectile?",
-    "options": [
-      "A. 80\u221a3 m",
-      "B. 120 m",
-      "C. 160 m",
-      "D. 80 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The cumulative distribution function of a continuous random variable X is F(x) = 1 - e^(-2x) for x \u2265 0. What is the median of X?",
-    "options": [
-      "A. ln2",
-      "B. (ln2)/2",
-      "C. 1/2",
-      "D. 2ln2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a Spearman's rank correlation coefficient calculation for 10 pairs of data, \u03a3d\u00b2 = 33. What is the value of r\u209b?",
-    "options": [
-      "A. 0.80",
-      "B. 0.85",
-      "C. 0.90",
-      "D. 0.95"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle of mass 5 kg is attached to two strings making angles of 30\u00b0 and 60\u00b0 with the vertical respectively. The system is in equilibrium. What is the tension in the string making 30\u00b0 with the vertical? (Take g = 10 m/s\u00b2)",
-    "options": [
-      "A. 25 N",
-      "B. 25\u221a3 N",
-      "C. 50/\u221a3 N",
-      "D. 50 N"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a regression analysis, the regression line of y on x is \u0177 = 2.4 + 1.6x and the regression line of x on y is x\u0302 = 1.2 + 0.4y. What is the value of the product moment correlation coefficient r?",
-    "options": [
-      "A. 0.64",
-      "B. 0.80",
-      "C. -0.80",
-      "D. 0.40"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A committee of 5 is to be selected from 6 men and 4 women. If the committee must contain at least 2 women, how many different committees are possible?",
-    "options": [
-      "A. 106",
-      "B. 116",
-      "C. 126",
-      "D. 136"
+      "6 square units",
+      "3 square units",
+      "\u222b\u2080\u00b3 x\u00b2 dx = [x\u00b3/3]\u2080\u00b3 = 9 - 0 = 9 square units",
+      "27 square units"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Find the equation of the line passing through (2,3) and (4,7).",
+    "options": [
+      "Gradient = (7-3)/(4-2) = 2; y - 3 = 2(x - 2); y = 2x - 1",
+      "y = 3x - 1",
+      "y = 2x + 3",
+      "y = x + 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Given f(x) = 3x\u00b2 - 4x + 1, find f'(x).",
+    "options": [
+      "f'(x) = 6x - 4",
+      "f'(x) = 3x - 4",
+      "f'(x) = 6x\u00b2 - 4",
+      "f'(x) = 9x - 4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a group of 30 students: 18 study Maths, 15 study Science, 7 study both. How many study neither?",
+    "options": [
+      "8 students",
+      "6 students",
+      "n(M\u222aS) = 18 + 15 - 7 = 26; neither = 30 - 26 = 4",
+      "2 students"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A linear programming problem has constraints x + y \u2264 10, x \u2265 2, y \u2265 3. Find the vertices of the feasible region.",
+    "options": [
+      "Vertices are (0,0), (10,0) and (0,10)",
+      "Vertices are (2,2) and (10,10)",
+      "The feasible region has no vertices",
+      "Vertices are (2,3), (7,3) and (2,8) found by solving constraint boundary intersections"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Given matrix A = [[2,1],[3,4]], find the determinant and inverse.",
+    "options": [
+      "det = 2\u00d74 - 1\u00d73 = 5; inverse = (1/5)[[4,-1],[-3,2]]",
+      "det = 8; inverse = [[4,1],[3,2]]",
+      "det = 5; inverse = [[4,1],[-3,2]]",
+      "det = 11; no inverse exists"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn without replacement. Find P(both red).",
+    "options": [
+      "P = (5/8) \u00d7 (5/8) = 25/64",
+      "P = (5/8) \u00d7 (4/7) = 20/56 = 5/14",
+      "P = 10/8",
+      "P = 5/8 + 4/7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The probability that a student passes Maths is 0.7 and passes English is 0.6. If independent, find P(passes both).",
+    "options": [
+      "P = 0.7 + 0.6 = 1.3",
+      "P(M\u2229E) = 0.7 \u00d7 0.6 = 0.42",
+      "P = 0.7 - 0.6 = 0.1",
+      "P = 0.7/0.6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Find the correlation coefficient interpretation: r = -0.92.",
+    "options": [
+      "Weak positive correlation",
+      "Strong negative correlation \u2014 as one variable increases the other decreases",
+      "Perfect negative correlation where all points lie exactly on a line",
+      "No correlation between variables"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Vectors a = (3,4) and b = (1,2). Find |a - b|.",
+    "options": [
+      "\u221a20",
+      "\u221a5",
+      "a - b = (2,2); |a-b| = \u221a(4+4) = \u221a8 = 2\u221a2",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two events A and B have P(A) = 0.4, P(B) = 0.3, P(A\u2229B) = 0.1. Find P(A\u222aB).",
+    "options": [
+      "P(A\u222aB) = 0.4 + 0.3 = 0.7",
+      "P(A\u222aB) = 0.4 + 0.3 - 0.1 = 0.6",
+      "P(A\u222aB) = 0.1",
+      "P(A\u222aB) = 0.4 \u00d7 0.3 = 0.12"
+    ],
+    "correctIndex": 1
   }
 ]

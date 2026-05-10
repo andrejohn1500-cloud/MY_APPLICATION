@@ -1,151 +1,151 @@
 [
   {
-    "question": "A random variable X follows a Poisson distribution with mean \u03bb. If P(X = 2) = P(X = 3), find the value of \u03bb.",
+    "question": "The sum of the first n terms of an arithmetic series is Sn = n/2(2a + (n-1)d). Find S10 when a=3 and d=2.",
     "options": [
-      "A. 2",
-      "B. 3",
-      "C. 4",
-      "D. 6"
+      "S10 = 60",
+      "S10 = 10/2(6 + 18) = 5 \u00d7 24 = 120",
+      "S10 = 150",
+      "S10 = 100"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a linear programming problem, the feasible region is bounded by x + 2y \u2264 14, 3x + y \u2264 14, x \u2265 0, y \u2265 0. The maximum value of the objective function P = 5x + 4y occurs at which vertex?",
+    "question": "Find the correlation coefficient interpretation: r = -0.92.",
     "options": [
-      "A. (0, 7)",
-      "B. (14/5, 28/5)",
-      "C. (4, 2)",
-      "D. (14/3, 0)"
+      "No correlation between variables",
+      "Weak positive correlation",
+      "Strong negative correlation \u2014 as one variable increases the other decreases",
+      "Perfect negative correlation where all points lie exactly on a line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A continuous random variable X has probability density function f(x) = kx(4 - x) for 0 \u2264 x \u2264 4, and 0 otherwise. What is the value of k?",
+    "question": "Find the turning point of f(x) = x\u00b2 - 6x + 11.",
     "options": [
-      "A. 3/32",
-      "B. 3/16",
-      "C. 1/8",
-      "D. 3/64"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two events A and B are such that P(A) = 0.5, P(B) = 0.4, and P(A \u222a B) = 0.7. Which statement is correct?",
-    "options": [
-      "A. A and B are mutually exclusive and independent",
-      "B. A and B are neither mutually exclusive nor independent",
-      "C. A and B are mutually exclusive but not independent",
-      "D. A and B are independent but not mutually exclusive"
+      "Turning point is (-3, 2)",
+      "f'(x) = 2x - 6 = 0 gives x = 3; f(3) = 9 - 18 + 11 = 2; turning point is (3, 2) \u2014 a minimum",
+      "Turning point is (3, 3)",
+      "Turning point is (6, 11)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The differential equation dy/dx + 2y = 4x has an integrating factor of:",
+    "question": "Solve the quadratic equation x\u00b2 - 5x + 6 = 0.",
     "options": [
-      "A. e^x",
-      "B. e^(2x)",
-      "C. e^(-2x)",
-      "D. 2e^x"
+      "x = -2 or x = -3",
+      "x = 2 or x = 3 by factoring (x-2)(x-3) = 0",
+      "x = 1 or x = 6",
+      "x = 5 or x = 6"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A sample of size n = 100 is drawn from a population with known standard deviation \u03c3 = 15. A 95% confidence interval for the population mean has width approximately:",
+    "question": "Find the area under y = x\u00b2 between x = 0 and x = 3.",
     "options": [
-      "A. 2.94",
-      "B. 5.88",
-      "C. 4.41",
-      "D. 3.92"
+      "27 square units",
+      "\u222b\u2080\u00b3 x\u00b2 dx = [x\u00b3/3]\u2080\u00b3 = 9 - 0 = 9 square units",
+      "3 square units",
+      "6 square units"
     ],
     "correctIndex": 1
   },
   {
-    "question": "For a chi-squared goodness-of-fit test with 6 categories and all parameters estimated from the data (2 parameters estimated), the degrees of freedom are:",
+    "question": "Given matrix A = [[2,1],[3,4]], find the determinant and inverse.",
     "options": [
-      "A. 5",
-      "B. 4",
-      "C. 3",
-      "D. 6"
+      "det = 5; inverse = [[4,1],[-3,2]]",
+      "det = 11; no inverse exists",
+      "det = 8; inverse = [[4,1],[3,2]]",
+      "det = 2\u00d74 - 1\u00d73 = 5; inverse = (1/5)[[4,-1],[-3,2]]"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Find the equation of the line passing through (2,3) and (4,7).",
+    "options": [
+      "y = 2x + 3",
+      "y = x + 1",
+      "Gradient = (7-3)/(4-2) = 2; y - 3 = 2(x - 2); y = 2x - 1",
+      "y = 3x - 1"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A project activity network has the following critical path activities with durations (weeks): A(3), C(5), F(4), H(2). What is the minimum project completion time?",
+    "question": "A linear programming problem has constraints x + y \u2264 10, x \u2265 2, y \u2265 3. Find the vertices of the feasible region.",
     "options": [
-      "A. 12 weeks",
-      "B. 14 weeks",
-      "C. 11 weeks",
-      "D. 16 weeks"
+      "Vertices are (0,0), (10,0) and (0,10)",
+      "Vertices are (2,3), (7,3) and (2,8) found by solving constraint boundary intersections",
+      "The feasible region has no vertices",
+      "Vertices are (2,2) and (10,10)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The mean and variance of a binomial distribution B(n, p) are 6 and 2.4 respectively. What are the values of n and p?",
+    "question": "The probability that a student passes Maths is 0.7 and passes English is 0.6. If independent, find P(passes both).",
     "options": [
-      "A. n = 10, p = 0.6",
-      "B. n = 12, p = 0.5",
-      "C. n = 15, p = 0.4",
-      "D. n = 8, p = 0.75"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A queue at a service point has customers arriving at a Poisson rate of 4 per hour and service times that are exponentially distributed with mean 10 minutes. What is the traffic intensity (\u03c1)?",
-    "options": [
-      "A. 0.40",
-      "B. 0.67",
-      "C. 1.50",
-      "D. 2.50"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The general solution of the differential equation d\u00b2y/dx\u00b2 - 5(dy/dx) + 6y = 0 is:",
-    "options": [
-      "A. y = Ae^(2x) + Be^(3x)",
-      "B. y = Ae^(-2x) + Be^(-3x)",
-      "C. y = (A + Bx)e^(3x)",
-      "D. y = e^(2x)(A cos 3x + B sin 3x)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A hypothesis test is conducted at the 5% significance level (two-tailed). The test statistic z = 2.10. Which conclusion is correct?",
-    "options": [
-      "A. Reject H\u2080 since |z| > 1.645",
-      "B. Fail to reject H\u2080 since |z| < 2.576",
-      "C. Reject H\u2080 since |z| > 1.960",
-      "D. Fail to reject H\u2080 since |z| < 1.960"
+      "P = 0.7 - 0.6 = 0.1",
+      "P = 0.7 + 0.6 = 1.3",
+      "P(M\u2229E) = 0.7 \u00d7 0.6 = 0.42",
+      "P = 0.7/0.6"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a transportation problem, a basic feasible solution is degenerate when the number of allocated cells is:",
+    "question": "Given f(x) = 3x\u00b2 - 4x + 1, find f'(x).",
     "options": [
-      "A. Equal to m + n - 1, where m = rows and n = columns",
-      "B. Less than m + n - 1",
-      "C. Greater than m + n - 1",
-      "D. Equal to m \u00d7 n"
+      "f'(x) = 3x - 4",
+      "f'(x) = 9x - 4",
+      "f'(x) = 6x\u00b2 - 4",
+      "f'(x) = 6x - 4"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn without replacement. Find P(both red).",
+    "options": [
+      "P = 5/8 + 4/7",
+      "P = (5/8) \u00d7 (4/7) = 20/56 = 5/14",
+      "P = 10/8",
+      "P = (5/8) \u00d7 (5/8) = 25/64"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The coefficient of determination R\u00b2 = 0.81 for a regression of Y on X. Which statement is most accurate?",
+    "question": "In a group of 30 students: 18 study Maths, 15 study Science, 7 study both. How many study neither?",
     "options": [
-      "A. 81% of the variation in X is explained by Y",
-      "B. The correlation coefficient r = 0.66",
-      "C. 81% of the variation in Y is explained by the linear regression on X",
-      "D. The slope of the regression line is 0.81"
+      "8 students",
+      "2 students",
+      "6 students",
+      "n(M\u222aS) = 18 + 15 - 7 = 26; neither = 30 - 26 = 4"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Vectors a = (3,4) and b = (1,2). Find |a - b|.",
+    "options": [
+      "\u221a20",
+      "\u221a5",
+      "5",
+      "a - b = (2,2); |a-b| = \u221a(4+4) = \u221a8 = 2\u221a2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Two events A and B have P(A) = 0.4, P(B) = 0.3, P(A\u2229B) = 0.1. Find P(A\u222aB).",
+    "options": [
+      "P(A\u222aB) = 0.4 + 0.3 = 0.7",
+      "P(A\u222aB) = 0.1",
+      "P(A\u222aB) = 0.4 + 0.3 - 0.1 = 0.6",
+      "P(A\u222aB) = 0.4 \u00d7 0.3 = 0.12"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A continuous random variable X is uniformly distributed over [a, b]. If E(X) = 5 and Var(X) = 3, what are the values of a and b?",
+    "question": "A geometric series has first term 4 and common ratio 0.5. Find the sum to infinity.",
     "options": [
-      "A. a = 2, b = 8",
-      "B. a = 1, b = 9",
-      "C. a = 3, b = 7",
-      "D. a = 2, b = 10"
+      "S\u221e = a/(1-r) = 4/(1-0.5) = 4/0.5 = 8",
+      "S\u221e = 4",
+      "S\u221e = 16",
+      "S\u221e = 2"
     ],
     "correctIndex": 0
   }
