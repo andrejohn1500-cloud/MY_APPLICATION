@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary purpose of a vehicle's differential gear assembly?",
+    "options": [
+      "To increase engine torque to the wheels",
+      "To allow drive wheels to rotate at different speeds when cornering",
+      "To reduce the overall gear ratio of the transmission",
+      "To lock both drive wheels together for maximum traction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a four-stroke petrol engine, what occurs during the compression stroke?",
+    "options": [
+      "The fuel-air mixture is ignited by the spark plug",
+      "Both intake and exhaust valves are open",
+      "The piston moves upward compressing the fuel-air mixture with both valves closed",
+      "The piston moves downward drawing in the fuel-air mixture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of brake system uses hydraulic fluid pressure to actuate the brake shoes or pads?",
+    "options": [
+      "Mechanical brake system",
+      "Electromagnetic brake system",
+      "Hydraulic brake system",
+      "Pneumatic brake system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'valve timing' refer to in engine technology?",
+    "options": [
+      "The time taken for the fuel injector to open and close",
+      "The precise moment when intake and exhaust valves open and close relative to piston position",
+      "The interval between successive ignition events",
+      "The duration of the power stroke in the combustion cycle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle's battery rated at 12V, 60Ah can theoretically supply a current of 6A for how long?",
+    "options": [
+      "6 hours",
+      "10 hours",
+      "60 hours",
+      "12 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an automatic transmission, what component connects the engine to the transmission and allows slip during acceleration?",
+    "options": [
+      "Clutch plate",
+      "Torque converter",
+      "Planetary gear set",
+      "Valve body"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a catalytic converter in a vehicle's exhaust system?",
+    "options": [
+      "To increase exhaust gas velocity for better engine performance",
+      "To reduce noise levels from the exhaust system",
+      "To convert harmful exhaust gases into less harmful substances",
+      "To filter particulate matter from diesel exhaust"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which component in an alternator is responsible for converting AC current to DC current?",
+    "options": [
+      "Rotor winding",
+      "Voltage regulator",
+      "Stator winding",
+      "Rectifier diodes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the crankshaft position sensor (CKP) in a modern engine management system?",
+    "options": [
+      "To measure the oxygen content of exhaust gases",
+      "To provide ignition timing and fuel injection timing signals to the ECU",
+      "To monitor coolant temperature for the radiator fan control",
+      "To detect knock and retard ignition timing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a MacPherson strut suspension system, which component acts as both the suspension spring support and the steering pivot?",
+    "options": [
+      "Control arm",
+      "Anti-roll bar",
+      "Strut assembly",
+      "Tie rod end"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the purpose of a vehicle's engine coolant thermostat?",
+    "options": [
+      "To regulate the flow of coolant to maintain optimal engine operating temperature",
+      "To prevent coolant from boiling by increasing system pressure",
+      "To circulate coolant through the heater core only",
+      "To measure coolant temperature and send signals to the ECU"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of fault would cause a diesel engine to produce excessive black smoke from the exhaust?",
+    "options": [
+      "Lean air-fuel mixture caused by blocked injectors",
+      "Rich air-fuel mixture caused by over-fuelling or restricted air intake",
+      "Low compression due to worn piston rings",
+      "A faulty glow plug causing incomplete warm-up"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a power steering system, what is the function of the rack and pinion assembly?",
+    "options": [
+      "To amplify steering effort using hydraulic or electric assist",
+      "To convert rotary steering wheel motion into linear motion to turn the wheels",
+      "To maintain wheel alignment during suspension travel",
+      "To provide feedback of road conditions to the driver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When measuring electrical resistance in a circuit using a digital multimeter, what condition must the circuit be in?",
+    "options": [
+      "The circuit must be powered on with normal operating voltage",
+      "The circuit must have maximum current flowing",
+      "The circuit must be de-energised and isolated from the power source",
+      "The circuit must have the load connected in parallel with the meter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary advantage of a common rail direct injection (CRDI) diesel fuel system over conventional diesel injection systems?",
+    "options": [
+      "It eliminates the need for a fuel filter in the system",
+      "It maintains high fuel pressure independently of engine speed allowing precise injection control",
+      "It uses a mechanical governor to control fuel delivery at all speeds",
+      "It requires lower fuel pressure resulting in reduced pump wear"
+    ],
+    "correctIndex": 1
+  }
+]

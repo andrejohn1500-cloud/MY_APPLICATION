@@ -1,0 +1,152 @@
+[
+  {
+    "question": "During a cylinder leakage test on a four-cylinder engine, cylinder 3 shows 35% leakage with air escaping from the air filter. What does this indicate?",
+    "options": [
+      "Leaking exhaust valves in cylinder 3",
+      "Leaking intake valves in cylinder 3",
+      "Worn piston rings in cylinder 3",
+      "A blown head gasket between cylinders 2 and 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle equipped with a common rail direct injection (CRDI) diesel system experiences poor cold starting. The technician measures injector return flow and finds it significantly above specification. What is the most likely cause?",
+    "options": [
+      "Blocked fuel filter restricting supply pressure",
+      "Worn injector nozzle needle causing excessive leakage past the control valve",
+      "Faulty glow plugs reducing combustion chamber temperature",
+      "Defective high-pressure fuel pump losing prime"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When diagnosing an ABS fault, the scan tool displays wheel speed sensor data showing the left rear wheel reads 0 km/h while all others read normal vehicle speed. Resistance of the sensor measures 1,850 ohms, which is within specification. What is the most probable fault?",
+    "options": [
+      "Open circuit in the wiring harness to the sensor",
+      "Damaged reluctor ring with missing or damaged teeth",
+      "Failed ABS control module channel",
+      "Excessive air gap between sensor and reluctor ring"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An automatic transmission performs normal upshifts but will not downshift under heavy acceleration (kick-down). The transmission fluid level and condition are acceptable. Which component is most likely at fault?",
+    "options": [
+      "Throttle valve cable or throttle position sensor signal to TCU",
+      "Worn clutch packs inside the transmission",
+      "Faulty governor valve causing incorrect pressure regulation",
+      "Defective torque converter clutch solenoid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A technician is performing a four-wheel alignment and finds that the right front wheel has excessive positive camber that cannot be corrected within factory specifications. The vehicle has not been in a collision. What is the most likely cause?",
+    "options": [
+      "Worn tie rod end on the right side",
+      "Collapsed or worn strut bearing plate",
+      "Bent steering knuckle or control arm",
+      "Incorrect tyre pressure affecting ride height"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An oscilloscope trace of a crankshaft position sensor (CKP) signal shows a consistent dropout of signal at one point per revolution. The engine exhibits a slight misfire and hard starting. What is the most likely diagnosis?",
+    "options": [
+      "Faulty ignition module interrupting the CKP signal",
+      "A missing or damaged tooth on the reluctor wheel",
+      "ECM internal fault causing signal processing error",
+      "Electromagnetic interference from the alternator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle with electronic stability control (ESC) has a warning light illuminated. The scan tool shows a fault code for the yaw rate sensor. How does a faulty yaw rate sensor most directly affect ESC operation?",
+    "options": [
+      "It prevents the system from detecting individual wheel slip during braking",
+      "It disables the system's ability to measure actual vehicle rotation and compare it to driver input, preventing corrective intervention",
+      "It causes false activation of the ABS system during normal cornering",
+      "It prevents brake pressure modulation by disabling the hydraulic control unit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During engine rebuilding, a technician measures a main bearing journal and finds it is 0.04 mm undersize and out of round by 0.025 mm. The maximum allowable out-of-round specification is 0.010 mm. What corrective action is required?",
+    "options": [
+      "Install undersize bearings to compensate for the journal diameter",
+      "Polish the journal surface to remove surface irregularities",
+      "Regrind the crankshaft to the next undersize and fit the corresponding undersize bearings",
+      "Replace the crankshaft assembly entirely as regrinding is not permitted"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A hybrid electric vehicle (HEV) is brought in with a fault code indicating excessive self-discharge of the high-voltage traction battery. Which of the following is the MOST appropriate initial diagnostic step?",
+    "options": [
+      "Disconnect the 12V auxiliary battery to isolate the HV system",
+      "Measure the insulation resistance of the HV battery pack using a megohmmeter after following HV isolation procedures",
+      "Replace the battery management system (BMS) module",
+      "Perform a full charge cycle and measure state of charge with a standard multimeter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician performs a fuel trim analysis and finds long-term fuel trim (LTFT) at +22% on a port-injected petrol engine. Short-term fuel trim (STFT) is oscillating normally around 0%. What does this data most likely indicate?",
+    "options": [
+      "A rich running condition caused by leaking fuel injectors",
+      "A lean condition that the ECM has compensated for by adding fuel, indicating a persistent vacuum leak or low fuel pressure",
+      "A faulty upstream oxygen sensor providing an incorrect rich signal",
+      "Exhaust gas recirculation (EGR) valve stuck open causing dilution of intake charge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a vehicle's multiplexed CAN bus network, a technician measures the voltage between CAN High and CAN Low wires. At rest (recessive state), both lines measure approximately 2.5V. During transmission (dominant state), CAN High measures 3.5V and CAN Low measures 1.0V. What does this confirm?",
+    "options": [
+      "A short circuit between the CAN High and CAN Low lines",
+      "A faulty terminating resistor causing signal reflection",
+      "Normal CAN bus operation with correct differential voltage of 2.5V in dominant state",
+      "Loss of network termination causing both lines to float"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A diesel engine with a variable geometry turbocharger (VGT) exhibits low power at all engine speeds with excessive black smoke at high load. Boost pressure is significantly lower than specified. The VGT actuator moves freely through its full range when commanded by the scan tool. What is the most likely cause?",
+    "options": [
+      "Wastegate valve stuck in the open position reducing exhaust gas energy",
+      "Carbon buildup on the variable vanes preventing them from closing to their boost-generating position",
+      "Boost pressure sensor fault causing the ECM to reduce fuel delivery",
+      "Intercooler restriction reducing charge air volume reaching the intake manifold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When carrying out a brake caliper overhaul, a technician notices the caliper piston is seized and the dust boot is torn and contaminated with moisture. After the piston is freed, what is the correct and complete procedure?",
+    "options": [
+      "Clean the piston, lubricate with brake fluid, install a new dust boot, and reassemble",
+      "Discard the caliper and piston assembly and replace with a new or remanufactured unit if the bore is corroded beyond honing limits; if within limits, hone the bore, fit a new seal kit including dust boot and bleed thoroughly",
+      "Replace only the dust boot seal kit and reuse the original piston and bore",
+      "Clean and reassemble the caliper, install new brake pads, and monitor for recurrence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rear-wheel-drive vehicle exhibits a vibration that increases with vehicle speed but is unaffected by engine load or gear selection. The vibration disappears when the vehicle coasts in neutral. Under which condition does the vibration disappear and what component group is MOST likely responsible?",
+    "options": [
+      "The vibration is driveline-related; suspect an unbalanced or damaged propeller shaft or worn universal joints",
+      "The vibration is engine-related; suspect a misfiring cylinder at a specific RPM range",
+      "The vibration is tyre-related; suspect out-of-balance or out-of-round tyres or wheels",
+      "The vibration is transmission-related; suspect worn output shaft bearings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An engine management system uses a MAP sensor in speed-density fuel calculation. If the MAP sensor reads a value 10 kPa lower than the actual manifold pressure under all conditions, what will be the effect on the fuel delivery and how will the oxygen sensor respond?",
+    "options": [
+      "The ECM will calculate a lower air mass, deliver less fuel causing a lean condition; the O2 sensor will indicate lean and STFT will increase positively",
+      "The ECM will calculate a higher air mass, deliver more fuel causing a rich condition; the O2 sensor will indicate rich and STFT will decrease negatively",
+      "Fuel delivery will be unaffected as the oxygen sensor closed-loop feedback will fully correct any error without limit",
+      "The engine will enter open-loop operation and default to a fixed fuel map, causing stalling"
+    ],
+    "correctIndex": 0
+  }
+]

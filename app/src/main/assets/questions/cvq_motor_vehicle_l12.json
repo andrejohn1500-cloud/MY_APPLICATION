@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a common rail direct injection (CRDI) diesel system, what is the primary function of the high-pressure accumulator rail?",
+    "options": [
+      "To filter fuel before injection",
+      "To maintain a constant high fuel pressure available for all injectors simultaneously",
+      "To regulate the quantity of fuel delivered per stroke",
+      "To cool the fuel before it reaches the injectors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When diagnosing an ABS fault, the wheel speed sensor signal shows a flat line on the oscilloscope during wheel rotation. Which fault is MOST likely indicated?",
+    "options": [
+      "Intermittent open circuit in the ABS control module",
+      "Complete loss of signal due to excessive air gap or open circuit in the sensor",
+      "A shorted tone ring causing signal inversion",
+      "Incorrect reluctor ring tooth count programmed in the ECU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle equipped with a Variable Valve Timing (VVT) system shows a fault code for 'camshaft position over-retarded'. Which component failure would MOST likely cause this condition?",
+    "options": [
+      "A faulty crankshaft position sensor",
+      "A blocked oil control valve (OCV) solenoid preventing oil flow to the phaser",
+      "A worn timing chain causing excessive stretch advancing the cam",
+      "A failed throttle position sensor providing incorrect load data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a four-wheel alignment procedure, the technician finds excessive negative camber on one front wheel with all other angles within specification. Which component is MOST likely worn or damaged?",
+    "options": [
+      "Tie rod end on the affected side",
+      "Strut bearing plate on the affected side",
+      "Lower control arm ball joint on the affected side",
+      "Rack and pinion steering gear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an electronically controlled automatic transmission, the torque converter clutch (TCC) fails to engage at highway speeds. After confirming normal line pressure, which system should be checked NEXT?",
+    "options": [
+      "The governor valve spring tension",
+      "The TCC solenoid duty cycle signal and TCC solenoid resistance",
+      "The pump output pressure at idle",
+      "The planetary gear set end-play clearance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician performing a cylinder leakage test finds 45% leakage on cylinder 3, with air escaping from the radiator filler neck. What does this MOST likely indicate?",
+    "options": [
+      "Worn piston rings on cylinder 3",
+      "A cracked exhaust valve on cylinder 3",
+      "A blown head gasket between cylinder 3 and a coolant passage",
+      "A cracked cylinder wall causing combustion gas ingestion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following BEST describes the function of the lambda (oxygen) sensor in a closed-loop engine management system?",
+    "options": [
+      "It measures the mass of air entering the intake manifold to calculate injection duration",
+      "It provides feedback to the ECU to correct the air-fuel ratio toward stoichiometry by detecting residual oxygen in exhaust gases",
+      "It directly controls injector pulse width based on throttle position",
+      "It monitors coolant temperature to enrich the mixture during warm-up"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A brake pedal sinks slowly to the floor under steady pressure but returns to normal height when released. The most probable cause is:",
+    "options": [
+      "Air in the brake hydraulic system",
+      "A seized brake caliper piston",
+      "An internal leak past the master cylinder secondary cup seal",
+      "Contaminated brake fluid reducing boiling point"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a rack and pinion power steering system with electro-hydraulic assistance, the steering feels heavy at low speeds but normal at high speeds. The MOST likely cause is:",
+    "options": [
+      "A faulty vehicle speed sensor sending incorrect data to the power steering control module",
+      "Low power steering fluid level causing cavitation only under full lock",
+      "A worn rack and pinion causing excessive mechanical friction at low loads",
+      "A defective steering angle sensor causing over-correction at high speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When testing a piezoelectric fuel injector using a lab scope, the technician observes a missing voltage spike at the end of the injection event on one injector. This indicates:",
+    "options": [
+      "The injector is opening correctly but closing too slowly",
+      "The piezoelectric stack is not discharging properly, suggesting internal injector failure",
+      "Excessive rail pressure forcing the injector closed prematurely",
+      "A faulty injector driver circuit causing delayed opening"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle with a dual-mass flywheel (DMF) exhibits a rattling noise at idle that disappears above 1200 RPM. This symptom MOST likely indicates:",
+    "options": [
+      "Worn clutch friction disc lining",
+      "Failure of the DMF spring and damper mechanism losing torsional damping at resonance frequency",
+      "A loose exhaust heat shield resonating at idle",
+      "Worn transmission input shaft bearing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a charging system test, the alternator output voltage is 13.1V at 2000 RPM with all loads on. The battery voltage is 12.4V at rest. What condition does this MOST accurately describe?",
+    "options": [
+      "Normal charging system operation under heavy load",
+      "An undercharging condition likely caused by a worn carbon brush assembly or faulty voltage regulator",
+      "An overcharging condition that will damage the battery",
+      "Normal open-circuit voltage indicating a fully charged battery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician is diagnosing an EVAP system for a large leak (P0455). After pressurizing the system with a smoke machine, smoke is observed coming from the purge solenoid valve. The NEXT correct diagnostic step is:",
+    "options": [
+      "Replace the charcoal canister immediately",
+      "Command the purge solenoid open using a scan tool and retest to determine if the leak is through or around the solenoid",
+      "Replace the fuel filler cap as it is the most common EVAP leak point",
+      "Clear the code and perform a drive cycle to confirm the fault"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a semi-trailing arm independent rear suspension, excessive toe-out on one side during braking is MOST likely caused by:",
+    "options": [
+      "Worn front control arm bushings",
+      "Deteriorated semi-trailing arm pivot bushings allowing geometry change under longitudinal load",
+      "Incorrect rear wheel static toe setting",
+      "A bent rear axle stub shaft"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hybrid electric vehicle's high-voltage battery management system (BMS) isolates the battery pack and sets a fault code for 'isolation loss'. What is the CORRECT initial safety procedure before beginning diagnosis?",
+    "options": [
+      "Remove the 12V auxiliary battery to disable all systems",
+      "Locate and remove the high-voltage service disconnect plug and verify zero voltage using a CAT III rated multimeter before touching any HV components",
+      "Simply clear the fault code and test drive the vehicle to see if the fault returns",
+      "Discharge the HV battery by turning the vehicle on and off several times"
+    ],
+    "correctIndex": 1
+  }
+]

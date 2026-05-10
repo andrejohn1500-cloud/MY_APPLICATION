@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a common rail diesel injection system, what is the primary function of the pressure accumulator (rail)?",
+    "options": [
+      "To filter fuel before injection",
+      "To maintain constant high fuel pressure regardless of engine demand",
+      "To regulate fuel temperature",
+      "To measure fuel quantity delivered to injectors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When diagnosing an ABS fault, the wheel speed sensor signal shows intermittent dropout on one wheel. What is the MOST likely cause?",
+    "options": [
+      "Faulty ABS control module",
+      "Excessive air gap between sensor and tone ring",
+      "Worn brake pads on that wheel",
+      "Low brake fluid level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle fitted with a variable valve timing (VVT) system exhibits poor low-end torque but acceptable high-speed performance. Which component is MOST likely at fault?",
+    "options": [
+      "Camshaft position sensor",
+      "Oil control valve (OCV) stuck in the advanced position",
+      "Crankshaft position sensor",
+      "Throttle position sensor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a compression test on a four-cylinder engine, cylinders 2 and 3 show low compression that improves significantly with oil added. What does this indicate?",
+    "options": [
+      "Blown head gasket between cylinders 2 and 3",
+      "Worn or damaged piston rings in cylinders 2 and 3",
+      "Burnt exhaust valves in cylinders 2 and 3",
+      "Worn camshaft lobes for cylinders 2 and 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an electronically controlled automatic transmission, what is the purpose of the torque converter clutch (TCC) solenoid?",
+    "options": [
+      "To increase hydraulic pressure in the torque converter",
+      "To mechanically lock the torque converter impeller and turbine to eliminate slip",
+      "To control the shift timing between gear ratios",
+      "To regulate transmission fluid temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle with an independent rear suspension using trailing arms experiences oversteer during cornering. Which alignment adjustment would MOST effectively correct this?",
+    "options": [
+      "Increasing front toe-in",
+      "Adjusting rear camber to a more negative value",
+      "Increasing rear toe-in to improve directional stability",
+      "Decreasing caster angle at the front"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "On a petrol engine with a mass airflow (MAF) sensor, the long-term fuel trim (LTFT) reads +18%. What is the MOST probable diagnosis?",
+    "options": [
+      "Rich mixture caused by leaking fuel injectors",
+      "Lean mixture likely caused by a vacuum leak or faulty MAF sensor",
+      "Retarded ignition timing",
+      "Faulty lambda sensor reading rich continuously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which principle governs the operation of a hydraulic brake system, ensuring equal pressure distribution to all wheel cylinders?",
+    "options": [
+      "Bernoulli's principle",
+      "Pascal's law",
+      "Boyle's law",
+      "Newton's third law"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician measures 0.8 volts on a zirconia oxygen sensor at idle. This reading indicates the exhaust mixture is:",
+    "options": [
+      "Lean, with excess oxygen present",
+      "Stoichiometric at 14.7:1 AFR",
+      "Rich, with insufficient oxygen present",
+      "Faulty sensor requiring replacement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a dual-clutch transmission (DCT), what is the primary advantage of having two separate clutch packs?",
+    "options": [
+      "It allows all-wheel drive engagement without a transfer case",
+      "It enables pre-selection of the next gear for near-seamless gear changes",
+      "It provides regenerative braking capability",
+      "It eliminates the need for a flywheel assembly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing a four-wheel alignment, a vehicle exhibits a 'dog-tracking' condition. What does this describe?",
+    "options": [
+      "The vehicle pulls strongly to one side during braking",
+      "The rear axle is not parallel to the front axle, causing the vehicle to travel at an angle",
+      "Excessive bump steer caused by incorrect tie rod geometry",
+      "Unequal caster angles causing steering wheel off-centre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a modern CAN bus network, what happens when two nodes transmit simultaneously causing a collision?",
+    "options": [
+      "Both nodes cease transmission permanently until reset",
+      "The node transmitting the lower priority (higher ID number) message backs off and retransmits",
+      "The ECU with highest voltage output takes priority",
+      "Both messages are discarded and a fault code is stored"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician suspects a failing catalytic converter. Which test would MOST accurately confirm catalytic converter efficiency?",
+    "options": [
+      "Measuring exhaust back pressure at idle only",
+      "Comparing upstream and downstream oxygen sensor switching frequency and voltage patterns",
+      "Performing a cylinder power balance test",
+      "Checking exhaust gas temperature at the tailpipe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a MacPherson strut front suspension, the strut bearing serves which critical function?",
+    "options": [
+      "It only provides vertical damping for the strut piston",
+      "It allows the strut assembly to rotate with the steering input while supporting the vehicle load",
+      "It connects the anti-roll bar to the strut housing",
+      "It adjusts camber angle during suspension travel"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A refrigerant recovery machine indicates that an R-134a air conditioning system has 30% non-condensable gas contamination. What is the CORRECT procedure?",
+    "options": [
+      "Add more refrigerant to dilute the contamination",
+      "Recover all refrigerant, evacuate the system to below 500 microns, and recharge with virgin refrigerant",
+      "Flush the system with nitrogen and recharge without evacuation",
+      "Replace the receiver-drier and recharge to manufacturer specification without evacuation"
+    ],
+    "correctIndex": 1
+  }
+]

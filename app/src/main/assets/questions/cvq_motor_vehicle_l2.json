@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary function of the engine cooling system?",
+    "options": [
+      "To lubricate engine components",
+      "To maintain the engine at its optimum operating temperature",
+      "To provide fuel to the combustion chamber",
+      "To filter exhaust gases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of battery is most commonly used in modern motor vehicles?",
+    "options": [
+      "Nickel-cadmium battery",
+      "Lithium-ion battery",
+      "Lead-acid battery",
+      "Alkaline battery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym 'TDC' stand for in engine terminology?",
+    "options": [
+      "Total Displacement Capacity",
+      "Top Dead Centre",
+      "Timed Drive Cycle",
+      "Thermal Drive Control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a component of the vehicle's braking system?",
+    "options": [
+      "Alternator",
+      "Brake caliper",
+      "Fuel injector",
+      "Camshaft"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of engine oil in a motor vehicle?",
+    "options": [
+      "To cool the exhaust system",
+      "To lubricate moving engine parts and reduce friction",
+      "To mix with fuel for combustion",
+      "To clean the air filter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a radiator do in a vehicle's cooling system?",
+    "options": [
+      "Stores coolant when not in use",
+      "Pumps coolant around the engine",
+      "Dissipates heat from the coolant into the air",
+      "Filters impurities from the coolant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which component converts the reciprocating motion of the pistons into rotary motion?",
+    "options": [
+      "Camshaft",
+      "Crankshaft",
+      "Flywheel",
+      "Gearbox shaft"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the alternator in a motor vehicle?",
+    "options": [
+      "To start the engine",
+      "To generate electrical power and recharge the battery while the engine runs",
+      "To control ignition timing",
+      "To regulate fuel pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of tyre construction is most commonly used on modern passenger vehicles?",
+    "options": [
+      "Cross-ply tyres",
+      "Bias-ply tyres",
+      "Radial tyres",
+      "Diagonal tyres"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's differential?",
+    "options": [
+      "To change gear ratios",
+      "To allow wheels on the same axle to rotate at different speeds when cornering",
+      "To slow the vehicle down",
+      "To distribute fuel evenly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What fluid is used in a hydraulic braking system?",
+    "options": [
+      "Engine oil",
+      "Coolant",
+      "Brake fluid",
+      "Power steering fluid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which stroke of the four-stroke engine cycle involves the air-fuel mixture being ignited?",
+    "options": [
+      "Intake stroke",
+      "Compression stroke",
+      "Power stroke",
+      "Exhaust stroke"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of the clutch in a manual transmission vehicle?",
+    "options": [
+      "To steer the vehicle",
+      "To connect and disconnect the engine from the gearbox",
+      "To apply the brakes",
+      "To regulate engine speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure the specific gravity of battery electrolyte?",
+    "options": [
+      "Multimeter",
+      "Hydrometer",
+      "Manometer",
+      "Tachometer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'wheel alignment' refer to?",
+    "options": [
+      "Balancing the weight of each wheel",
+      "Adjusting the angles of the wheels so they are set to the manufacturer's specification",
+      "Inflating tyres to the correct pressure",
+      "Rotating tyres between axles"
+    ],
+    "correctIndex": 1
+  }
+]

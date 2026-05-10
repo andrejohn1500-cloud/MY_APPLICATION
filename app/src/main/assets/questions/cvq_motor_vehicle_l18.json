@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a common rail diesel fuel injection system, what is the primary function of the pressure accumulator (rail)?",
+    "options": [
+      "To filter fuel before delivery to injectors",
+      "To maintain a constant high fuel pressure regardless of engine demand",
+      "To regulate the return fuel temperature",
+      "To prime the low-pressure fuel circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When diagnosing an engine that exhibits excessive blue-grey smoke under acceleration, which combination of faults is MOST likely responsible?",
+    "options": [
+      "Worn valve stem seals and worn piston rings",
+      "Blocked EGR valve and restricted air filter",
+      "Rich fuel mixture and faulty lambda sensor",
+      "Sticking thermostat and coolant loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A vehicle fitted with a continuously variable transmission (CVT) uses a steel push-belt running between two variable-diameter pulleys. What controls the effective pulley diameter ratio?",
+    "options": [
+      "Hydraulic pressure acting on movable pulley flanges",
+      "Electromagnetic clutch engagement frequency",
+      "Mechanical governor flyweights",
+      "Electronic throttle position only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In an anti-lock braking system (ABS), what is the sequence of solenoid valve operations during a wheel lock-up event?",
+    "options": [
+      "Hold, decrease, increase pressure",
+      "Increase, hold, decrease pressure",
+      "Decrease, increase, hold pressure",
+      "Hold, increase, decrease pressure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A four-cylinder four-stroke engine has a bore of 82 mm and a stroke of 90 mm. What is the total engine displacement in cubic centimetres (to the nearest cc)?",
+    "options": [
+      "1598 cc",
+      "1895 cc",
+      "1794 cc",
+      "1496 cc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sensor in a modern petrol engine management system is responsible for detecting abnormal combustion (detonation) and retarding ignition timing accordingly?",
+    "options": [
+      "Crankshaft position sensor",
+      "Knock sensor",
+      "Manifold absolute pressure sensor",
+      "Throttle position sensor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a MacPherson strut suspension system, what geometric change occurs to camber angle when the wheel moves through full jounce?",
+    "options": [
+      "Camber becomes increasingly negative",
+      "Camber becomes increasingly positive",
+      "Camber remains constant due to fixed geometry",
+      "Camber alternates between positive and negative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the torque converter's stator (reactor) element in an automatic transmission?",
+    "options": [
+      "To multiply input torque during acceleration by redirecting fluid flow",
+      "To engage the lock-up clutch at cruising speed",
+      "To cool the transmission fluid during high load conditions",
+      "To provide reverse gear engagement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A technician measures 0.8 volts on a wideband lambda (oxygen) sensor at idle with the engine fully warm. What does this indicate about the air-fuel ratio?",
+    "options": [
+      "The mixture is rich (lambda less than 1)",
+      "The mixture is lean (lambda greater than 1)",
+      "The mixture is stoichiometric",
+      "The sensor has failed open circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a vehicle equipped with electronic stability control (ESC), which additional sensor is required compared to a basic ABS system?",
+    "options": [
+      "Yaw rate sensor and lateral acceleration sensor",
+      "Longitudinal acceleration sensor only",
+      "Steering angle sensor only",
+      "Wheel speed sensors on front axle only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of bearing is MOST commonly used for the main crankshaft journals in modern automotive engines and why?",
+    "options": [
+      "Plain shell bearings, because they offer a large load-bearing surface and hydrodynamic lubrication",
+      "Ball bearings, because they reduce rotational friction at high RPM",
+      "Tapered roller bearings, because they handle both radial and axial loads",
+      "Needle roller bearings, because they require minimal lubrication"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "During a compression test on a petrol engine, cylinders 2 and 3 show equally low readings, but adding oil through the spark plug holes does not improve the readings. What is the MOST probable cause?",
+    "options": [
+      "A blown head gasket between cylinders 2 and 3",
+      "Worn piston rings on cylinders 2 and 3",
+      "Worn cylinder bores on cylinders 2 and 3",
+      "Sticking intake valves on cylinders 2 and 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a hydraulic power steering system, what is the function of the rotary (torsion bar) control valve?",
+    "options": [
+      "To direct pressurised fluid to either side of the rack piston based on steering input torque",
+      "To regulate maximum system pressure via a relief valve only",
+      "To disengage the pump during straight-line driving",
+      "To provide variable ratio steering geometry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A vehicle's alternator output voltage is measured at 12.2 V at 2000 rpm with all accessories on. What fault does this MOST likely indicate?",
+    "options": [
+      "A faulty voltage regulator not allowing the alternator to charge fully",
+      "A normal condition at moderate engine speed",
+      "An overcharging condition requiring battery replacement",
+      "An open circuit in the starter motor circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a dual-clutch transmission (DCT), what is the primary advantage of having two separate clutches operating on odd and even gear sets?",
+    "options": [
+      "Gear changes can be pre-selected, allowing near-instantaneous shifts with no torque interruption",
+      "The transmission can operate without any clutch synchronisation",
+      "Reverse gear is engaged through the primary clutch only",
+      "The system eliminates the need for a differential entirely"
+    ],
+    "correctIndex": 0
+  }
+]

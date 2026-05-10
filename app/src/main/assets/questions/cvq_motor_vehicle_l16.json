@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a common rail diesel injection system, what is the primary function of the pressure accumulator (rail)?",
+    "options": [
+      "To filter fuel before injection",
+      "To maintain a constant high fuel pressure available for all injectors",
+      "To regulate the quantity of fuel delivered per stroke",
+      "To cool the fuel before it enters the injectors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which diagnostic trouble code (DTC) category indicates a fault that is currently active and affecting vehicle operation?",
+    "options": [
+      "Pending code",
+      "Historical code",
+      "Permanent code",
+      "Type B code"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When performing a cylinder balance test on a gasoline direct injection engine, what does a significant RPM drop on one cylinder indicate?",
+    "options": [
+      "That cylinder is producing more power than the others",
+      "That cylinder is contributing normally to engine output",
+      "That cylinder has a fault reducing its power contribution",
+      "That the ignition timing is advanced on that cylinder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an electronically controlled automatic transmission, what sensor provides the TCM with input shaft speed data to calculate gear ratio and detect slip?",
+    "options": [
+      "Throttle position sensor",
+      "Turbine speed sensor",
+      "Vehicle speed sensor",
+      "Mass airflow sensor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle exhibits excessive negative camber on both front wheels after a collision. Which suspension component is most likely bent?",
+    "options": [
+      "Tie rod end",
+      "Stabilizer bar link",
+      "Strut tower or control arm",
+      "Wheel bearing hub"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the pre-charge resistor in a hybrid electric vehicle's high-voltage system during power-up?",
+    "options": [
+      "To boost voltage to the drive motor during startup",
+      "To limit inrush current to the inverter capacitors and prevent damage",
+      "To regulate battery temperature during initial operation",
+      "To balance cell voltages within the high-voltage battery pack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a variable valve timing (VVT) system using oil control valves (OCV), what condition would cause retarded camshaft timing to be fixed in the advanced position?",
+    "options": [
+      "Low engine oil pressure due to worn oil pump",
+      "Stuck-open OCV allowing constant oil flow to the advance chamber",
+      "Broken timing chain causing chain stretch",
+      "Faulty throttle position sensor signal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which welding technique is recommended when performing structural MIG welding on high-strength steel (HSS) body panels to avoid heat distortion and weakening?",
+    "options": [
+      "Continuous bead welding at maximum amperage",
+      "Stitch or plug welding with appropriate inter-pass cooling",
+      "Oxy-acetylene fusion welding",
+      "TIG welding with filler rod at slow travel speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A brake system shows a spongy pedal feel after bleeding. What is the most likely remaining cause?",
+    "options": [
+      "Brake fluid contaminated with petroleum product",
+      "Air remaining in the ABS hydraulic control unit",
+      "Worn brake pad friction material",
+      "Seized caliper guide pins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a CAN bus network, what is the significance of the dominant state overriding the recessive state during bus arbitration?",
+    "options": [
+      "It allows the highest-priority message to gain control of the bus without collision",
+      "It indicates a short circuit fault in the network wiring",
+      "It triggers the gateway module to reset all connected ECUs",
+      "It causes all modules to enter a listen-only diagnostic mode"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When diagnosing an AC refrigeration system, high pressure on both high and low sides with poor cooling indicates which fault?",
+    "options": [
+      "Refrigerant undercharge",
+      "Blocked expansion valve in closed position",
+      "Non-condensable gases (air) in the system",
+      "Faulty compressor with internal bypass"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a lambda (\u03bb) value greater than 1.0 indicate about the air-fuel mixture in a gasoline engine?",
+    "options": [
+      "A rich mixture with excess fuel",
+      "A stoichiometric mixture",
+      "A lean mixture with excess air",
+      "An incomplete combustion condition due to fuel flooding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an electronic power steering (EPS) system, which sensor provides the primary input to determine the magnitude of steering assist required?",
+    "options": [
+      "Vehicle speed sensor",
+      "Steering angle sensor",
+      "Torque sensor on the steering column",
+      "Yaw rate sensor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the isolation test performed on a high-voltage hybrid or electric vehicle system before maintenance?",
+    "options": [
+      "To verify the high-voltage battery state of charge",
+      "To confirm that high-voltage circuits are isolated from the vehicle chassis ground",
+      "To test the resistance of individual battery cells",
+      "To measure the maximum current output of the inverter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a fuel injector flow test, one injector delivers significantly less fuel volume than the specification. After ruling out electrical faults, what is the most appropriate corrective action?",
+    "options": [
+      "Increase fuel rail pressure to compensate for the flow deficit",
+      "Clean or replace the fuel injector to restore correct fuel delivery",
+      "Recalibrate the ECU fuel trim tables to adjust for the variance",
+      "Install a larger fuel pump to increase system pressure"
+    ],
+    "correctIndex": 1
+  }
+]

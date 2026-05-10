@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does the acronym 'OHV' stand for in engine terminology?",
+    "options": [
+      "Overhead Valve",
+      "Overhead Vehicle",
+      "Output High Voltage",
+      "Overhead Ventilation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of brake uses friction pads pressing against a rotating disc?",
+    "options": [
+      "Drum brake",
+      "Disc brake",
+      "Band brake",
+      "Shoe brake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the engine cooling system?",
+    "options": [
+      "To lubricate engine parts",
+      "To maintain the engine at its optimum operating temperature",
+      "To supply fuel to the engine",
+      "To filter air entering the engine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which component in a vehicle's electrical system stores electrical energy?",
+    "options": [
+      "Alternator",
+      "Starter motor",
+      "Battery",
+      "Fuse box"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of oil is used in a manual gearbox?",
+    "options": [
+      "Engine oil",
+      "Gear oil",
+      "Brake fluid",
+      "Power steering fluid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a radiator do in a vehicle cooling system?",
+    "options": [
+      "Pumps coolant around the engine",
+      "Stores excess coolant",
+      "Dissipates heat from the coolant to the atmosphere",
+      "Filters the coolant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which gas is primarily responsible for the greenhouse effect from vehicle exhaust?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of the clutch in a manual transmission vehicle?",
+    "options": [
+      "To steer the vehicle",
+      "To engage and disengage the engine from the gearbox",
+      "To apply the brakes",
+      "To charge the battery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What device converts the reciprocating motion of the pistons into rotary motion?",
+    "options": [
+      "Camshaft",
+      "Flywheel",
+      "Crankshaft",
+      "Connecting rod"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of suspension system used in vehicles?",
+    "options": [
+      "MacPherson strut",
+      "Rack and pinion",
+      "Disc rotor",
+      "Torque converter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the alternator in a vehicle?",
+    "options": [
+      "To start the engine",
+      "To generate electrical power while the engine runs",
+      "To control fuel injection",
+      "To regulate brake pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many strokes does a four-stroke engine complete in one full power cycle?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of wheel alignment in a vehicle?",
+    "options": [
+      "To balance the wheels",
+      "To ensure tyres wear evenly and the vehicle drives straight",
+      "To increase tyre pressure",
+      "To reduce brake fade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which component regulates the flow of coolant through the engine based on temperature?",
+    "options": [
+      "Water pump",
+      "Radiator cap",
+      "Thermostat",
+      "Fan belt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of current does a vehicle's battery supply?",
+    "options": [
+      "Alternating current (AC)",
+      "Direct current (DC)",
+      "Pulsating current",
+      "Static current"
+    ],
+    "correctIndex": 1
+  }
+]

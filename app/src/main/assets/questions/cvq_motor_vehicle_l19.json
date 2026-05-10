@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a common rail diesel injection system, what is the primary function of the high-pressure accumulator rail?",
+    "options": [
+      "To filter fuel before injection",
+      "To store fuel at constant high pressure and supply multiple injectors simultaneously",
+      "To regulate the fuel temperature before combustion",
+      "To return excess fuel to the tank at high pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When diagnosing an engine that exhibits excessive blowby gases, which of the following components is MOST likely worn or damaged?",
+    "options": [
+      "Timing belt tensioner",
+      "Piston rings and cylinder bore",
+      "Camshaft lobe",
+      "Crankshaft main bearing cap bolts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vehicle's ABS warning light remains illuminated after the engine starts. Using a scan tool, you retrieve a fault code indicating a wheel speed sensor signal is erratic. What is the MOST appropriate first diagnostic step?",
+    "options": [
+      "Replace the ABS control module immediately",
+      "Inspect the wheel speed sensor wiring harness for damage, corrosion, or poor connections",
+      "Bleed the brake system completely",
+      "Replace all four wheel speed sensors simultaneously"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an automatic transmission, what is the primary purpose of the torque converter's stator?",
+    "options": [
+      "To directly connect the engine to the transmission during high-speed cruising",
+      "To multiply torque by redirecting fluid from the turbine back to the pump in the same rotational direction",
+      "To dissipate heat generated during fluid coupling",
+      "To regulate hydraulic pressure within the valve body"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the function of a variable valve timing (VVT) system on a modern petrol engine?",
+    "options": [
+      "It changes the compression ratio based on load conditions",
+      "It adjusts the opening and closing timing of intake and/or exhaust valves to optimise power, torque, and emissions across different engine speeds",
+      "It varies the fuel injection pressure according to engine temperature",
+      "It electronically controls the ignition timing advance only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A technician measures a battery's open-circuit voltage at 12.4V. What does this reading indicate about the battery's state of charge?",
+    "options": [
+      "100% fully charged",
+      "Approximately 75% charged",
+      "Approximately 25% charged, requiring immediate replacement",
+      "Completely discharged"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During a four-wheel alignment procedure, 'thrust angle' refers to which of the following?",
+    "options": [
+      "The angle of the steering axis relative to the vertical when viewed from the front",
+      "The relationship between the direction the rear axle is pointing and the vehicle's geometric centerline",
+      "The inward tilt of the top of the wheel relative to the vehicle body",
+      "The angle of the wheel when viewed from the side relative to the vertical"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a vehicle equipped with an electronic stability control (ESC) system, which sensor is responsible for detecting the vehicle's rotational movement about its vertical axis?",
+    "options": [
+      "Lateral accelerometer",
+      "Yaw rate sensor",
+      "Longitudinal accelerometer",
+      "Steering angle sensor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary reason a diesel engine uses a much higher compression ratio compared to a petrol engine?",
+    "options": [
+      "To increase fuel efficiency by reducing the displacement required",
+      "To generate sufficient heat through air compression alone to ignite the injected diesel fuel",
+      "To allow the use of lower grade fuel with higher sulphur content",
+      "To reduce NOx emissions during the power stroke"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When performing a cylinder compression test on a petrol engine, a technician finds that two adjacent cylinders have equally low readings that improve significantly when oil is added. What does this indicate?",
+    "options": [
+      "Worn piston rings on both cylinders",
+      "A blown head gasket between those two cylinders",
+      "Burnt exhaust valves on both cylinders",
+      "A faulty fuel injector on both cylinders"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a MacPherson strut suspension system, what structural component performs the dual role of a suspension link and the upper mounting point for the strut?",
+    "options": [
+      "The anti-roll bar",
+      "The strut top mount bearing",
+      "The lower control arm (wishbone)",
+      "The subframe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A technician notices that a vehicle's catalytic converter has a rotten egg (sulphur) smell from the exhaust. What is the MOST likely cause?",
+    "options": [
+      "Excessive engine oil burning due to worn valve stem seals",
+      "The engine running rich for an extended period causing the catalyst to process excess sulphur compounds",
+      "A lean air-fuel mixture causing overheating of the substrate",
+      "Coolant contamination entering the exhaust system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following correctly describes the operation of a rack and pinion power steering system that uses electro-hydraulic assistance?",
+    "options": [
+      "An electric motor directly rotates the rack through a ball-screw mechanism",
+      "A hydraulic pump driven by an electric motor provides pressurised fluid to assist the rack, independent of engine speed",
+      "The power assistance is provided purely by electromagnetic force on the steering column",
+      "A solenoid valve modulates engine vacuum to create an assist force on the rack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When replacing a high-voltage component on a hybrid electric vehicle (HEV), which is the MOST critical safety procedure before beginning work?",
+    "options": [
+      "Disconnecting the 12V auxiliary battery only",
+      "Following the manufacturer's HV isolation procedure, which includes disabling the HV system using the service disconnect plug and verifying zero voltage with an appropriate meter",
+      "Wearing standard rubber-soled workshop boots as the sole protection measure",
+      "Allowing the vehicle to sit for five minutes after switching off the ignition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a sequential multi-port fuel injection (MPFI) system, what primary signal does the ECU use to synchronise the injection pulse with the correct cylinder's intake stroke?",
+    "options": [
+      "The throttle position sensor signal",
+      "The camshaft position sensor signal",
+      "The mass airflow sensor signal",
+      "The coolant temperature sensor signal"
+    ],
+    "correctIndex": 1
+  }
+]

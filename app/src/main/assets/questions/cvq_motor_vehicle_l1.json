@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary function of the engine in a motor vehicle?",
+    "options": [
+      "To convert fuel energy into mechanical energy",
+      "To store electrical energy",
+      "To filter engine oil",
+      "To cool the transmission fluid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of engine uses a spark plug to ignite the fuel-air mixture?",
+    "options": [
+      "Diesel engine",
+      "Petrol engine",
+      "Rotary engine",
+      "Turbine engine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What fluid is used in a hydraulic braking system?",
+    "options": [
+      "Engine oil",
+      "Coolant",
+      "Brake fluid",
+      "Transmission fluid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which component stores electrical energy in a vehicle?",
+    "options": [
+      "Alternator",
+      "Starter motor",
+      "Battery",
+      "Distributor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the radiator in a vehicle?",
+    "options": [
+      "To increase engine power",
+      "To cool the engine coolant",
+      "To filter fuel",
+      "To lubricate the engine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How many strokes does a four-stroke engine complete in one full cycle?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which tool is used to measure the diameter of a shaft or bolt?",
+    "options": [
+      "Torque wrench",
+      "Vernier caliper",
+      "Feeler gauge",
+      "Spirit level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the abbreviation 'RPM' stand for in automotive terms?",
+    "options": [
+      "Rotations Per Minute",
+      "Revolutions Per Mile",
+      "Rapid Power Management",
+      "Rotor Phase Measurement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the vehicle connects the engine to the gearbox?",
+    "options": [
+      "Drive shaft",
+      "Clutch",
+      "Differential",
+      "Axle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of engine oil?",
+    "options": [
+      "To cool the radiator",
+      "To lubricate moving engine parts",
+      "To clean the fuel system",
+      "To charge the battery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which component converts alternating current (AC) into direct current (DC) in the charging system?",
+    "options": [
+      "Transformer",
+      "Rectifier",
+      "Capacitor",
+      "Solenoid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of fire extinguisher should be used on an electrical fire in a workshop?",
+    "options": [
+      "Water extinguisher",
+      "Foam extinguisher",
+      "CO2 extinguisher",
+      "Sand bucket"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of the differential in a vehicle?",
+    "options": [
+      "To increase fuel efficiency",
+      "To allow wheels to rotate at different speeds when cornering",
+      "To filter exhaust gases",
+      "To regulate battery voltage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure tyre pressure?",
+    "options": [
+      "Hydrometer",
+      "Tachometer",
+      "Tyre pressure gauge",
+      "Multimeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What safety equipment should always be worn when working under a vehicle?",
+    "options": [
+      "Gloves only",
+      "Safety glasses and overalls",
+      "Hard hat only",
+      "Ear defenders only"
+    ],
+    "correctIndex": 1
+  }
+]
