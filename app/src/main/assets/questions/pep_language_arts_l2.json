@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which of the following is a vowel?",
+    "options": [
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How many syllables are in the word 'butterfly'?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which word rhymes with 'cat'?",
+    "options": [
+      "dog",
+      "bat",
+      "cup",
+      "pen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sentence has correct capitalization?",
+    "options": [
+      "my name is sara.",
+      "My name is Sara.",
+      "my Name is sara.",
+      "my name is Sara."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What punctuation mark goes at the end of a question?",
+    "options": [
+      "Period",
+      "Exclamation mark",
+      "Comma",
+      "Question mark"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": [
+      "run",
+      "happy",
+      "apple",
+      "quickly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which word is the opposite of 'hot'?",
+    "options": [
+      "warm",
+      "cold",
+      "big",
+      "fast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": [
+      "She go to school.",
+      "She going to school.",
+      "She goes to school.",
+      "She gone to school."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the plural of 'dog'?",
+    "options": [
+      "dogies",
+      "dogs",
+      "doges",
+      "dogss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word means the same as 'happy'?",
+    "options": [
+      "sad",
+      "angry",
+      "joyful",
+      "tired"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "options": [
+      "The big red.",
+      "Runs fast every day.",
+      "The bird sings.",
+      "Under the tree quietly."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which word has the long 'e' sound?",
+    "options": [
+      "bed",
+      "fit",
+      "tree",
+      "den"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the prefix 'un-' mean in the word 'unhappy'?",
+    "options": [
+      "very",
+      "again",
+      "not",
+      "before"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which word is spelled correctly?",
+    "options": [
+      "frend",
+      "freind",
+      "friend",
+      "friand"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the sentence 'The dog runs fast,' what is the verb?",
+    "options": [
+      "The",
+      "dog",
+      "runs",
+      "fast"
+    ],
+    "correctIndex": 2
+  }
+]
