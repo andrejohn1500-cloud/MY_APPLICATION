@@ -98,6 +98,8 @@ class CategoryActivity : AppCompatActivity() {
         "CVQ Motor Vehicle",
         "CVQ Plumbing",
         "CVQ Welding & Fabrication",
+        "SAT Math",
+        "SAT Reading & Writing",
         // "🍽️  Food & Cuisine",
         // "🎵  Music & Dance"
     )

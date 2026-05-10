@@ -144,6 +144,8 @@ object QuestionLoader {
         "CVQ Motor Vehicle" -> "cvq_motor_vehicle"
         "CVQ Plumbing" -> "cvq_plumbing"
         "CVQ Welding & Fabrication" -> "cvq_welding_fabrication"
+                "SAT Math" -> "sat_math"
+                "SAT Reading & Writing" -> "sat_reading_writing"
         else -> "caribbean_history"
         }
         return "${base}_l${level}.json"

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the subject of: The tall oak tree fell in the storm?",
+    "options": [
+      "Fell",
+      "Storm",
+      "The tall oak tree",
+      "The"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which transition best connects a cause to its effect?",
+    "options": [
+      "For example",
+      "In contrast",
+      "Nevertheless",
+      "As a result"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which word best replaces said to convey anger?",
+    "options": [
+      "Replied",
+      "Snapped",
+      "Mentioned",
+      "Whispered"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a simile?",
+    "options": [
+      "A comparison without like or as",
+      "An exaggerated statement",
+      "A word that imitates a sound",
+      "A comparison using like or as"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What best describes the difference between a fact and an opinion?",
+    "options": [
+      "A fact can be verified objectively; an opinion expresses a personal judgment",
+      "Facts are always more persuasive",
+      "Opinions are proven false statements",
+      "Facts cannot be used in persuasive writing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of an em dash in prose?",
+    "options": [
+      "To create emphasis or set off additional information more strongly than a comma",
+      "To show a speaker has changed",
+      "To indicate a question",
+      "To separate items in a list"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the author purpose mean?",
+    "options": [
+      "The setting of the passage",
+      "The vocabulary used",
+      "The reason the author wrote the text to inform persuade entertain or describe",
+      "Background information about the author"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What distinguishes implicit from explicit information?",
+    "options": [
+      "Implicit appears in footnotes",
+      "Explicit information is directly stated; implicit must be inferred from clues",
+      "Implicit is always more reliable than explicit",
+      "Explicit is found only in fiction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "She baked the cake yesterday.",
+      "The children ate the cake.",
+      "The cake was eaten by the children.",
+      "They enjoyed the dessert."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the difference between fiction and nonfiction?",
+    "options": [
+      "Fiction is invented narrative; nonfiction is based on real events and facts",
+      "Fiction must be based on historical events",
+      "Nonfiction uses more descriptive language",
+      "Fiction is always longer than nonfiction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does corroborate mean?",
+    "options": [
+      "To summarise",
+      "To confirm or support with evidence",
+      "To contradict",
+      "To exaggerate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a complete sentence?",
+    "options": [
+      "A group of words with a subject and predicate that expresses a complete thought",
+      "A clause beginning with because",
+      "Any group of words ending with a period",
+      "A phrase with an adjective and noun"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which word is an antonym of diminish?",
+    "options": [
+      "Lessen",
+      "Reduce",
+      "Increase",
+      "Shrink"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does syntactic parallelism mean?",
+    "options": [
+      "Varying sentence length throughout a paragraph",
+      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity",
+      "Using rhyme in prose",
+      "Starting every sentence with a different word"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the effect of a writer using first-person plural in an argument?",
+    "options": [
+      "Makes the argument less credible",
+      "Creates a sense of shared identity and collective responsibility with the audience",
+      "Indicates the writer is uncertain",
+      "Is grammatically incorrect in formal writing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the effect of short fragmented sentences in a narrative?",
+    "options": [
+      "Shows the story is set in the past",
+      "Indicates the narrator is uneducated",
+      "Demonstrates advanced vocabulary",
+      "Creates tension and urgency mirroring heightened emotion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does loaded language mean?",
+    "options": [
+      "Technical vocabulary in scientific writing",
+      "Transition words in an argument",
+      "Figurative language in poetry",
+      "Words chosen for emotional impact to sway the reader beyond what evidence warrants"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the function of a counterargument in a persuasive essay?",
+    "options": [
+      "To introduce a new topic",
+      "To prove the argument is incorrect",
+      "To summarise the conclusion",
+      "To acknowledge an opposing view and then refute it strengthening the argument"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which correctly uses a semicolon?",
+    "options": [
+      "She studied for hours; And felt tired.",
+      "She studied; for the exam tomorrow.",
+      "However; she felt unprepared.",
+      "She studied for hours; however, she still felt unprepared."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does context clues mean?",
+    "options": [
+      "A glossary at the back of a book",
+      "A footnote explaining a word",
+      "Information in surrounding text that helps determine the meaning of an unfamiliar word",
+      "A dictionary definition"
+    ],
+    "correctIndex": 2
+  }
+]

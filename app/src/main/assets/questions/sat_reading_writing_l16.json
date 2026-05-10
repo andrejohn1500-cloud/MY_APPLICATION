@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is deductive reasoning?",
+    "options": [
+      "Drawing general conclusions from specific observations",
+      "Moving from general principles to specific conclusions",
+      "Using emotional language to persuade",
+      "Restating the premise as the conclusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of hedging language such as may or suggests?",
+    "options": [
+      "To acknowledge uncertainty and avoid overclaiming making the argument more credible",
+      "To weaken the argument unnecessarily",
+      "To make sentences longer",
+      "To indicate the writer lacks knowledge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does loaded language mean?",
+    "options": [
+      "Words chosen for emotional impact to sway the reader beyond what evidence warrants",
+      "Technical vocabulary in scientific writing",
+      "Transition words in an argument",
+      "Figurative language in poetry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is ethos as a rhetorical appeal?",
+    "options": [
+      "An appeal based on logical evidence and reasoning",
+      "An appeal to the audience emotions",
+      "An appeal to widely held traditions",
+      "An appeal to the credibility and trustworthiness of the speaker or author"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does it mean to synthesise multiple sources?",
+    "options": [
+      "Choosing the best source and ignoring others",
+      "Quoting each source extensively",
+      "Listing sources alphabetically",
+      "Drawing on evidence from several sources integrating them to build a unified argument"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of a writer using first-person plural in an argument?",
+    "options": [
+      "Makes the argument less credible",
+      "Indicates the writer is uncertain",
+      "Is grammatically incorrect in formal writing",
+      "Creates a sense of shared identity and collective responsibility with the audience"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does syntactic parallelism mean?",
+    "options": [
+      "Varying sentence length throughout a paragraph",
+      "Starting every sentence with a different word",
+      "Using rhyme in prose",
+      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of a circular argument?",
+    "options": [
+      "The conclusion restates the premise without providing independent evidence",
+      "The argument progresses logically",
+      "The argument uses multiple sources",
+      "The argument considers both sides"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is nuance in analytical writing?",
+    "options": [
+      "Providing many statistical examples",
+      "Writing very long sentences",
+      "Acknowledging complexity qualifications and exceptions rather than presenting ideas as absolute",
+      "Using advanced vocabulary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of an em dash in prose?",
+    "options": [
+      "To separate items in a list",
+      "To indicate a question",
+      "To show a speaker has changed",
+      "To create emphasis or set off additional information more strongly than a comma"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What distinguishes implicit from explicit information?",
+    "options": [
+      "Implicit is always more reliable than explicit",
+      "Explicit is found only in fiction",
+      "Explicit information is directly stated; implicit must be inferred from clues",
+      "Implicit appears in footnotes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the straw man logical fallacy?",
+    "options": [
+      "Using emotional language to persuade",
+      "Appealing to an authority opinion",
+      "Assuming what is true for a part is true for the whole",
+      "Misrepresenting an opponents argument in a weaker form to make it easier to attack"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What distinguishes a primary source from a secondary source?",
+    "options": [
+      "Secondary sources cannot be used in academic writing",
+      "A primary source is original firsthand material; a secondary source interprets primary sources",
+      "Primary sources are only found in libraries",
+      "Secondary sources are always more reliable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which best explains why varying sentence structure improves writing?",
+    "options": [
+      "It creates rhythm maintains reader engagement and allows emphasis to shift naturally",
+      "It is required by grammar rules",
+      "It makes the writing harder to follow",
+      "It only matters in creative writing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is inductive reasoning?",
+    "options": [
+      "Drawing general conclusions from specific observations",
+      "Restating the premise as the conclusion",
+      "Moving from general principles to specific conclusions",
+      "Using emotional appeals to persuade"
+    ],
+    "correctIndex": 0
+  }
+]

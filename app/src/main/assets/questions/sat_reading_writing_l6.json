@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the difference between fiction and nonfiction?",
+    "options": [
+      "Fiction must be based on historical events",
+      "Nonfiction uses more descriptive language",
+      "Fiction is always longer than nonfiction",
+      "Fiction is invented narrative; nonfiction is based on real events and facts"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does syntactic parallelism mean?",
+    "options": [
+      "Using rhyme in prose",
+      "Starting every sentence with a different word",
+      "Varying sentence length throughout a paragraph",
+      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the subject of: The tall oak tree fell in the storm?",
+    "options": [
+      "The tall oak tree",
+      "The",
+      "Storm",
+      "Fell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which word is an antonym of diminish?",
+    "options": [
+      "Lessen",
+      "Reduce",
+      "Shrink",
+      "Increase"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What distinguishes implicit from explicit information?",
+    "options": [
+      "Implicit appears in footnotes",
+      "Implicit is always more reliable than explicit",
+      "Explicit is found only in fiction",
+      "Explicit information is directly stated; implicit must be inferred from clues"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does corroborate mean?",
+    "options": [
+      "To exaggerate",
+      "To summarise",
+      "To confirm or support with evidence",
+      "To contradict"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What best describes the difference between a fact and an opinion?",
+    "options": [
+      "A fact can be verified objectively; an opinion expresses a personal judgment",
+      "Opinions are proven false statements",
+      "Facts cannot be used in persuasive writing",
+      "Facts are always more persuasive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which correctly uses a semicolon?",
+    "options": [
+      "She studied for hours; And felt tired.",
+      "She studied for hours; however, she still felt unprepared.",
+      "However; she felt unprepared.",
+      "She studied; for the exam tomorrow."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which word best replaces said to convey anger?",
+    "options": [
+      "Snapped",
+      "Replied",
+      "Whispered",
+      "Mentioned"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of a counterargument in a persuasive essay?",
+    "options": [
+      "To introduce a new topic",
+      "To acknowledge an opposing view and then refute it strengthening the argument",
+      "To prove the argument is incorrect",
+      "To summarise the conclusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of an em dash in prose?",
+    "options": [
+      "To show a speaker has changed",
+      "To indicate a question",
+      "To create emphasis or set off additional information more strongly than a comma",
+      "To separate items in a list"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a complete sentence?",
+    "options": [
+      "Any group of words ending with a period",
+      "A group of words with a subject and predicate that expresses a complete thought",
+      "A clause beginning with because",
+      "A phrase with an adjective and noun"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a simile?",
+    "options": [
+      "A comparison without like or as",
+      "A word that imitates a sound",
+      "An exaggerated statement",
+      "A comparison using like or as"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of short fragmented sentences in a narrative?",
+    "options": [
+      "Demonstrates advanced vocabulary",
+      "Shows the story is set in the past",
+      "Indicates the narrator is uneducated",
+      "Creates tension and urgency mirroring heightened emotion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of a writer using first-person plural in an argument?",
+    "options": [
+      "Is grammatically incorrect in formal writing",
+      "Indicates the writer is uncertain",
+      "Makes the argument less credible",
+      "Creates a sense of shared identity and collective responsibility with the audience"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "They enjoyed the dessert.",
+      "The cake was eaten by the children.",
+      "The children ate the cake.",
+      "She baked the cake yesterday."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does context clues mean?",
+    "options": [
+      "A dictionary definition",
+      "A footnote explaining a word",
+      "Information in surrounding text that helps determine the meaning of an unfamiliar word",
+      "A glossary at the back of a book"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does loaded language mean?",
+    "options": [
+      "Words chosen for emotional impact to sway the reader beyond what evidence warrants",
+      "Technical vocabulary in scientific writing",
+      "Figurative language in poetry",
+      "Transition words in an argument"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does the author purpose mean?",
+    "options": [
+      "The reason the author wrote the text to inform persuade entertain or describe",
+      "The setting of the passage",
+      "The vocabulary used",
+      "Background information about the author"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which transition best connects a cause to its effect?",
+    "options": [
+      "For example",
+      "In contrast",
+      "Nevertheless",
+      "As a result"
+    ],
+    "correctIndex": 3
+  }
+]
