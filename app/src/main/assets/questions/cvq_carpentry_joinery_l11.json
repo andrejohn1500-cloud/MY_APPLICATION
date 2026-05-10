@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When setting out a mortise and tenon joint for a structural door frame, what is the standard ratio of tenon thickness to the total timber thickness?",
+    "options": [
+      "One quarter of the timber thickness",
+      "One third of the timber thickness",
+      "One half of the timber thickness",
+      "Two thirds of the timber thickness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of roof truss uses a central vertical member called a king post and two diagonal rafters to form a triangular structure?",
+    "options": [
+      "Queen post truss",
+      "Fink truss",
+      "King post truss",
+      "Howe truss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When calculating the quantity of timber required for a staircase with 12 risers, each riser measuring 175mm and each tread measuring 250mm, what is the total going of the staircase?",
+    "options": [
+      "2750mm",
+      "3000mm",
+      "2100mm",
+      "2500mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In joinery, what is the primary purpose of a rebate plane when preparing door components?",
+    "options": [
+      "To cut grooves along the grain of the timber",
+      "To cut a stepped recess along the edge of a workpiece",
+      "To smooth end grain surfaces",
+      "To create dovetail slots for drawer construction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which British Standard specification governs the classification and grading of softwood timber used in structural carpentry applications?",
+    "options": [
+      "BS 4978",
+      "BS 1186",
+      "BS 5268",
+      "BS 6093"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When constructing a traditional cut roof, the term 'plumb cut' on a common rafter refers to which angle?",
+    "options": [
+      "The angle cut at the foot of the rafter parallel to the wall face",
+      "The horizontal cut at the eaves to accommodate the wall plate",
+      "The angle cut at the ridge that is vertical when the rafter is in position",
+      "The bevel cut along the soffit of the rafter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A carpenter is fitting a solid timber floor and must calculate the number of boards needed. The floor area is 24m\u00b2 and each board is 125mm wide and 4.8m long. Allowing 10% waste, approximately how many boards are required?",
+    "options": [
+      "44 boards",
+      "48 boards",
+      "40 boards",
+      "52 boards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which joint is most appropriate for connecting the corner of a hardwood cabinet where maximum mechanical strength and resistance to racking are required?",
+    "options": [
+      "Finger joint",
+      "Through housing joint",
+      "Dovetail joint",
+      "Bridle joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When applying a polyurethane finish to hardwood joinery, what is the recommended preparation step between coats to achieve the best adhesion?",
+    "options": [
+      "Wipe with white spirit between each coat",
+      "Lightly abrade with 240-grit abrasive paper between coats",
+      "Apply a coat of shellac sanding sealer between each coat",
+      "Sand with 80-grit paper between each coat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In staircase construction, what is the maximum allowable pitch angle for a private staircase under UK Building Regulations Approved Document K?",
+    "options": [
+      "38 degrees",
+      "42 degrees",
+      "45 degrees",
+      "35 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When setting out and cutting a hip rafter for a hipped roof, the backing bevel is required to perform which function?",
+    "options": [
+      "To allow the ridge board to align horizontally with the hip",
+      "To allow the top edge of the hip to align with the roof plane on both sides",
+      "To provide a seating cut at the wall plate",
+      "To reduce the depth of the hip rafter at mid-span"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which preservative treatment method involves placing dry timber in a sealed cylinder, applying a vacuum to remove air from the cells, and then forcing preservative solution into the timber under pressure?",
+    "options": [
+      "Immersion treatment",
+      "Double vacuum process",
+      "Full cell Bethell process",
+      "Hot and cold open tank process"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A carpenter needs to determine the rod length of a common rafter for a symmetrical pitched roof. The span is 8000mm, the pitch is 40 degrees, and there is a 300mm overhang. What formula component gives the half span used in the calculation?",
+    "options": [
+      "4300mm",
+      "4000mm",
+      "3700mm",
+      "4600mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When installing a pre-hung door frame in a masonry opening, which fixing method provides the most secure and adjustable installation for heavy hardwood frames?",
+    "options": [
+      "Screwing directly through the frame into plugged holes in the masonry",
+      "Using expanding frame fixings through slotted holes with frame cramps built into the frame",
+      "Nailing through the frame with cut clasp nails at 600mm centres",
+      "Using adhesive foam sealant as the primary fixing method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under the Control of Substances Hazardous to Health (COSHH) Regulations 2002, what is a carpenter's primary obligation before using a solvent-based adhesive in an enclosed workshop?",
+    "options": [
+      "Inform the site manager verbally before commencing work",
+      "Consult and comply with the substance's Safety Data Sheet and implement necessary controls",
+      "Wear leather gloves and a dust mask as standard PPE",
+      "Apply the adhesive quickly to minimise exposure time"
+    ],
+    "correctIndex": 1
+  }
+]

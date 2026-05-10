@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When setting out a traditional cut roof with a hip, which geometric principle is used to determine the true length of the hip rafter?",
+    "options": [
+      "Pythagoras' theorem applied to the plan length and total rise",
+      "The roof pitch angle multiplied by the plan length",
+      "The span divided by the cosine of the hip angle",
+      "The common rafter length multiplied by the secant of the hip skew angle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A mortise and tenon joint used in a structural door frame should have a tenon thickness that is approximately what proportion of the total timber thickness?",
+    "options": [
+      "One half",
+      "One quarter",
+      "One third",
+      "Two thirds"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When using a vernier bevel protractor to set out a compound angle cut, what is the primary advantage over a standard sliding bevel?",
+    "options": [
+      "It can measure angles to 5 arc-minute precision",
+      "It automatically compensates for wood grain direction",
+      "It measures both horizontal and vertical angles simultaneously",
+      "It eliminates the need for a marking gauge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the construction of a geometrical handrail over a quarter-space landing, the wreath piece is developed using which method?",
+    "options": [
+      "Ordinate projection from the plan spiral",
+      "Bevelment method using the pitch of the two tangents",
+      "Direct template cutting from the string",
+      "Parallel line development of the cylinder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of adhesive is most appropriate for exterior joinery exposed to full weather conditions according to BS EN 204 classification?",
+    "options": [
+      "D1 \u2013 interior use only",
+      "D2 \u2013 limited water resistance",
+      "D3 \u2013 high water resistance",
+      "D4 \u2013 very high water resistance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When calculating the quantity of roofing materials for a hipped roof, the hip length multiplier for a 40-degree pitch is approximately:",
+    "options": [
+      "1.305",
+      "1.556",
+      "1.192",
+      "1.428"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A jack rafter in a hip roof is shorter than the common rafter by a regular decrement. How is this decrement calculated?",
+    "options": [
+      "By dividing the rafter spacing by the hip rafter run factor",
+      "By multiplying the rafter spacing by the tangent of the hip skew angle",
+      "By multiplying the rafter spacing by the secant of the roof pitch",
+      "By dividing the common rafter length by the number of jack rafters"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which standard governs the classification of fire doors and their performance requirements in the UK and Caribbean CVQ context?",
+    "options": [
+      "BS 476 Parts 20\u201323",
+      "BS 8000 Part 5",
+      "BS EN 1995 Eurocode 5",
+      "BS 4978"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When setting out stair strings for a staircase with a total rise of 2,600 mm and a maximum allowable riser height of 220 mm, what is the minimum number of risers required?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In joinery, a 'diminished stile' is used primarily in which application and for what purpose?",
+    "options": [
+      "In panelled doors to reduce the stile width below the middle rail to improve glass area",
+      "In sash windows to allow the top rail to be narrower than the bottom rail",
+      "In staircases to taper the newel post for aesthetic reasons",
+      "In roof trusses to reduce the cross-section at the ridge board joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The 'going' of a staircase refers to which specific measurement?",
+    "options": [
+      "The total horizontal distance from the first to the last riser",
+      "The horizontal measurement of one tread exclusive of any nosing",
+      "The depth of the tread board including the nosing projection",
+      "The diagonal distance measured along the pitch line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When boring holes for a traditional draw-bore and peg joint, the hole through the tenon is offset towards the shoulder by approximately how much to achieve the draw effect?",
+    "options": [
+      "1 mm",
+      "3 mm",
+      "6 mm",
+      "10 mm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to best practice in setting out a double-margin panelled door, the bottom rail is made deeper than the top rail primarily because:",
+    "options": [
+      "It visually corrects the optical illusion that makes equal rails appear unequal and provides structural weight balance",
+      "It accommodates the mortise for the floor threshold",
+      "It allows for a larger tenon to resist racking forces",
+      "It provides space for a weather bar on exterior doors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which cutting list detail is unique to a rod (setting-out rod) compared to a standard cutting list?",
+    "options": [
+      "Full-size profiles and positions of all members shown in multiple planes for direct marking",
+      "Timber species and moisture content specifications",
+      "Cost and supplier references for each component",
+      "The sequence of machining operations required"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When laminating a curved handrail section using thin laminates over a former, the minimum laminate thickness is determined by which primary factor?",
+    "options": [
+      "The species of timber and its modulus of elasticity",
+      "The radius of curvature and the permissible bending stress of the laminate",
+      "The total handrail section depth divided by the number of laminates",
+      "The adhesive open assembly time and workshop temperature"
+    ],
+    "correctIndex": 1
+  }
+]

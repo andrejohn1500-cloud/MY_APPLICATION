@@ -1,0 +1,153 @@
+[
+  {
+    "question": "When setting out a complex roof with an irregular plan, which geometric principle is used to determine the true length of a hip rafter?",
+    "options": [
+      "The hip rafter true length is found by using the diagonal of the plan length and the rise as two sides of a right-angled triangle",
+      "The hip rafter true length equals the common rafter length multiplied by the cosine of the hip angle",
+      "The hip rafter true length is determined by doubling the common rafter span and adding the ridge length",
+      "The hip rafter true length is found by subtracting the seat cut depth from the overall rafter run"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In advanced joinery, what is the primary function of a 'diminished stile' in a panelled door construction?",
+    "options": [
+      "To reduce the visual weight of the door by tapering the stile from bottom to top, allowing a larger bottom rail",
+      "To increase the structural integrity of the door by widening the stile at the lock rail position",
+      "To provide additional mortise depth for the tenon joints at the mid-rail positions",
+      "To allow the door to be hung on both faces by creating a symmetrical rebate profile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes the 'plumb cut' on a jack rafter in a hip roof?",
+    "options": [
+      "A vertical cut made parallel to the ridge board allowing the rafter to sit flush against the hip rafter",
+      "A horizontal cut made at the foot of the rafter to create the correct seating on the wall plate",
+      "A compound angled cut made at 45 degrees to allow the rafter to intersect the hip rafter correctly",
+      "A bevel cut made perpendicular to the top edge of the rafter to align with the common rafter pitch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When calculating the geometry for a staircase, what does the term 'going' refer to in British standards?",
+    "options": [
+      "The horizontal distance of one tread measured from nosing to nosing",
+      "The total horizontal distance covered by the entire staircase flight",
+      "The vertical height of a single riser from finished floor to finished floor",
+      "The diagonal measurement along the pitch line of the staircase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the construction of a traditional mortise and tenon joint for heavy structural timber, what is the recommended maximum thickness of a tenon relative to the timber thickness?",
+    "options": [
+      "One third of the timber thickness",
+      "One half of the timber thickness",
+      "One quarter of the timber thickness",
+      "Two thirds of the timber thickness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of adhesive is most appropriate for external hardwood joinery exposed to severe weather conditions, conforming to BS EN 301 Type I classification?",
+    "options": [
+      "Resorcinol formaldehyde or melamine urea formaldehyde adhesive",
+      "Polyvinyl acetate (PVA) adhesive classified as D3",
+      "Urea formaldehyde adhesive used under controlled temperature conditions",
+      "Epoxy resin adhesive mixed with a slow-hardening catalyst"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When setting out a geometrical staircase with a wreathed handrail, the 'falling line' on the development is used to determine which critical dimension?",
+    "options": [
+      "The twist and inclination of the wreath section between the upper and lower tangent points",
+      "The total rise of the staircase divided across the winder treads",
+      "The width of the handrail at the newel cap intersection",
+      "The radius of the curtail step at the base of the staircase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In advanced timber frame construction, what is the purpose of a 'herringbone strutting' (or solid blocking) between floor joists?",
+    "options": [
+      "To prevent lateral buckling of deep joists and distribute concentrated loads across multiple members",
+      "To provide a fixing surface for ceiling boards along the length of the joist span",
+      "To increase the fire resistance rating of the floor construction by compartmentalisation",
+      "To allow services to pass through the floor zone without notching the joist flanges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which setting-out method is used to produce an elliptical arch head in traditional joinery using two focal points and a fixed-length string?",
+    "options": [
+      "The trammel or pins-and-string method where the sum of distances from any point to both foci remains constant",
+      "The three-centre approximation method using a series of arcs struck from different compass points",
+      "The catenary method derived from the natural curve of a hanging chain under uniform load",
+      "The geometric mean method using the major and minor axes to calculate intermediate ordinates"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When applying the CVQ health and safety regulations on a construction site, under which legislation is an employer primarily required to provide and maintain personal protective equipment at no cost to the employee?",
+    "options": [
+      "The Personal Protective Equipment at Work Regulations",
+      "The Health and Safety at Work Act general duties provisions only",
+      "The Construction (Design and Management) Regulations",
+      "The Control of Substances Hazardous to Health Regulations"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the manufacture of a solid raised-and-fielded panel, what is the critical reason for leaving a clearance gap when the panel is fitted into the groove of the frame?",
+    "options": [
+      "To allow for seasonal movement of the solid timber panel due to changes in moisture content without splitting the frame",
+      "To reduce the overall weight of the door by minimising the amount of timber within the rebated groove",
+      "To comply with British Standards minimum tolerance requirements for machined panel components",
+      "To allow for the application of a sealant bead that prevents moisture ingress at the panel edge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "function": "question",
+    "question": "When using a CNC router for joinery production, what does the G-code command 'G41' specify in the tool path program?",
+    "options": [
+      "Cutter radius compensation to the left of the programmed tool path direction",
+      "Spindle speed override to reduce feed rate on curved profiles",
+      "Absolute coordinate positioning relative to the machine datum point",
+      "Tool change sequence initiating the automatic tool changer carousel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of advanced roofing carpentry, what is a 'purlin' and what structural role does it perform?",
+    "options": [
+      "A horizontal member spanning between principal rafters or gable walls to provide intermediate support to common rafters",
+      "A vertical member fixed between the ceiling joist and common rafter to prevent sagging at mid-span",
+      "A diagonal brace fixed from the ridge to the wall plate to triangulate the roof structure against racking",
+      "A horizontal tie fixed across the foot of opposing rafters to resist the outward thrust on the supporting walls"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When preparing a bill of quantities for a joinery package, which measurement rule requires that timber mouldings are measured as linear metres with their profile described separately?",
+    "options": [
+      "The Standard Method of Measurement (SMM7) or NRM2 rules requiring linear measurement with a full description of cross-section profile",
+      "The CESMM4 rules requiring cubic metre measurement of all timber components over 300mm girth",
+      "The RICS guidance note requiring all mouldings to be measured by superficial area of finished face",
+      "The JCT contract measurement rules requiring enumeration of individual moulding lengths over 3 metres"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following correctly describes the 'backing bevel' applied to a hip rafter in roof carpentry?",
+    "options": [
+      "A bevel planed or cut along the top arris of the hip rafter so that the roof surface on both sides lies in the same plane as the adjoining common rafters",
+      "A bevel applied to the foot of the hip rafter to ensure the seat cut bears correctly on the corner of the wall plate",
+      "A bevel cut applied to the ridge end of the hip rafter to achieve a tight fit against the end of the ridge board",
+      "A bevel applied to the side face of the hip rafter where jack rafters are birdsmouthed to maintain even spacing"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which type of joint is most commonly used to join two pieces of timber at right angles in frame construction?",
+    "options": [
+      "Dovetail joint",
+      "Mortise and tenon joint",
+      "Butt joint",
+      "Rabbet joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a datum line in carpentry and joinery?",
+    "options": [
+      "To mark the center of a board",
+      "To provide a reference point from which all measurements are taken",
+      "To indicate the grain direction of timber",
+      "To mark where nails should be driven"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following wood defects is caused by the rapid growth of a tree?",
+    "options": [
+      "Knots",
+      "Shakes",
+      "Wide grain rings",
+      "Checks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When setting out a staircase, the sum of one riser and one going should ideally equal approximately how many millimeters?",
+    "options": [
+      "400 mm",
+      "450 mm",
+      "550 mm",
+      "600 mm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'seasoning' refer to in timber technology?",
+    "options": [
+      "Applying a chemical preservative to timber",
+      "Reducing the moisture content of timber to a suitable level",
+      "Cutting timber along the grain",
+      "Treating timber against insect attack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hand tool is used to cut a groove along the grain of timber?",
+    "options": [
+      "Tenon saw",
+      "Plough plane",
+      "Firmer chisel",
+      "Marking gauge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct bevel angle for sharpening a firmer chisel?",
+    "options": [
+      "15 degrees",
+      "25 degrees",
+      "35 degrees",
+      "45 degrees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of roof has four sloping sides with no vertical gable ends?",
+    "options": [
+      "Lean-to roof",
+      "Gable roof",
+      "Hip roof",
+      "Mansard roof"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In flooring, what is the purpose of a secret nail fix in tongue and groove boarding?",
+    "options": [
+      "To allow for thermal expansion of the boards",
+      "To hide the nail heads and maintain a clean surface appearance",
+      "To increase the load-bearing capacity of the floor",
+      "To prevent moisture penetration between boards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a winding strip in carpentry?",
+    "options": [
+      "To measure the width of a mortise",
+      "To detect twist or wind in a piece of timber",
+      "To apply adhesive evenly on a surface",
+      "To mark parallel lines on timber"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "command": "Which preservative treatment method forces chemicals deep into the timber under pressure?",
+    "question": "Which preservative treatment method forces chemicals deep into the timber under pressure?",
+    "options": [
+      "Brush application",
+      "Vacuum pressure impregnation",
+      "Dip treatment",
+      "Surface spray treatment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What angle does a common rafter make relative to the wall plate in roof construction?",
+    "options": [
+      "The rise angle",
+      "The pitch angle",
+      "The backing angle",
+      "The dihedral angle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which adhesive is most suitable for external joinery applications where high moisture resistance is required?",
+    "options": [
+      "PVA adhesive",
+      "Urea formaldehyde adhesive",
+      "Resorcinol formaldehyde adhesive",
+      "Animal hide glue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In door frame construction, what is the name of the horizontal member at the top of the frame?",
+    "options": [
+      "Sill",
+      "Transom",
+      "Head",
+      "Mullion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a housing joint in staircase construction?",
+    "options": [
+      "To join the newel post to the wall string",
+      "To receive the ends of the treads and risers into the string",
+      "To connect the handrail to the newel post",
+      "To fix the base of the string to the floor"
+    ],
+    "correctIndex": 1
+  }
+]
