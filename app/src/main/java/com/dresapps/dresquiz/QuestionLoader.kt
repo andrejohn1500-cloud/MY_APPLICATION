@@ -11,7 +11,7 @@ object QuestionLoader {
             val json = context.assets.open("questions/$fileName")
                 .bufferedReader().use { it.readText() }
             val questions = parseQuestions(json)
-            if (category.startsWith("CPEA")) {
+            if (clean.startsWith("CPEA")) {
                 questions.map { q ->
                     val trimmed = q.options.take(3).toMutableList()
                     trimmed.add("Not applicable")
@@ -65,7 +65,8 @@ object QuestionLoader {
     }
 
     private fun getCategoryFileName(category: String, level: Int): String {
-        val base = when (category) {
+        val clean = category.replace(Regex("^[^A-Za-z]+"), "").trim()
+        val base = when (clean) {
             "Caribbean History" -> "caribbean_history"
         "Science & Tech" -> "science_tech"
         "Sports" -> "sports"
