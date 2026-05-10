@@ -65,7 +65,7 @@ object QuestionLoader {
     }
 
     private fun getCategoryFileName(category: String, level: Int): String {
-        val base = when {
+        val base = when (category) {
             "Caribbean History" -> "caribbean_history"
         "Science & Tech" -> "science_tech"
         "Sports" -> "sports"
