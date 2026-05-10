@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a relational database, what is the purpose of a foreign key?",
+    "options": [
+      "To uniquely identify each record in its own table",
+      "To establish a link between two tables",
+      "To index a column for faster searching",
+      "To encrypt sensitive data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the time complexity of binary search on a sorted array of n elements?",
+    "options": [
+      "O(n)",
+      "O(n\u00b2)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of an algorithm?",
+    "options": [
+      "Finiteness",
+      "Definiteness",
+      "Ambiguity",
+      "Effectiveness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "options": [
+      "Encapsulation",
+      "Abstraction",
+      "Method Overriding",
+      "Method Overloading"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which network topology connects all devices to a single central cable?",
+    "options": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query Logic",
+      "Simple Question Language",
+      "Structured Question Logic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which gate produces an output of 1 only when all inputs are 1?",
+    "options": [
+      "OR gate",
+      "NOT gate",
+      "AND gate",
+      "XOR gate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the OSI model, which layer is responsible for routing packets between networks?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number 10110?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sorting algorithm has a best-case time complexity of O(n) when the array is nearly sorted?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In programming, what is a recursive function?",
+    "options": [
+      "A function that runs in parallel with other functions",
+      "A function that calls itself during its execution",
+      "A function with no return value",
+      "A function that only accepts integer parameters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of software license allows users to freely use, modify, and distribute the software?",
+    "options": [
+      "Proprietary License",
+      "Freeware License",
+      "Open Source License",
+      "Shareware License"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does RAM stand for in computer architecture?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Application Memory",
+      "Remote Access Module"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which protocol is primarily used to assign IP addresses automatically to devices on a network?",
+    "options": [
+      "FTP",
+      "DNS",
+      "DHCP",
+      "HTTP"
+    ],
+    "correctIndex": 2
+  }
+]
