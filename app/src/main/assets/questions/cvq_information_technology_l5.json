@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery between hosts?",
+    "options": [
+      "Network Layer",
+      "Transport Layer",
+      "Session Layer",
+      "Data Link Layer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a relational database, which normal form eliminates partial dependencies on a composite primary key?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of malware disguises itself as legitimate software to trick users into installing it?",
+    "options": [
+      "Worm",
+      "Ransomware",
+      "Trojan Horse",
+      "Spyware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym 'RAID' stand for in the context of storage systems?",
+    "options": [
+      "Redundant Array of Independent Disks",
+      "Random Access of Integrated Data",
+      "Rapid Array of Indexed Drives",
+      "Redundant Access of Integrated Disks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<script>",
+      "<style>",
+      "<link>"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the ability of a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "options": [
+      "Encapsulation",
+      "Abstraction",
+      "Overloading",
+      "Overriding"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which IP address range belongs to the Class B private address space?",
+    "options": [
+      "10.0.0.0 \u2013 10.255.255.255",
+      "172.16.0.0 \u2013 172.31.255.255",
+      "192.168.0.0 \u2013 192.168.255.255",
+      "169.254.0.0 \u2013 169.254.255.255"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a Digital Certificate in network security?",
+    "options": [
+      "To encrypt all network traffic",
+      "To verify the identity of a website or entity",
+      "To block unauthorized access to a firewall",
+      "To compress data during transmission"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which software development methodology emphasizes iterative development, collaboration, and responding to change over following a fixed plan?",
+    "options": [
+      "Waterfall",
+      "Spiral",
+      "Agile",
+      "RAD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In spreadsheet applications, which function returns the position of a value within a range?",
+    "options": [
+      "VLOOKUP",
+      "INDEX",
+      "MATCH",
+      "SEARCH"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of a subnet mask in TCP/IP networking?",
+    "options": [
+      "To identify the MAC address of a device",
+      "To distinguish the network portion from the host portion of an IP address",
+      "To assign dynamic IP addresses to hosts",
+      "To encrypt data packets during transmission"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data structure operates on a Last In, First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which cloud computing service model provides virtualized computing resources such as servers and storage over the internet?",
+    "options": [
+      "Software as a Service (SaaS)",
+      "Platform as a Service (PaaS)",
+      "Infrastructure as a Service (IaaS)",
+      "Function as a Service (FaaS)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a CSS stylesheet, which property is used to change the space between lines of text?",
+    "options": [
+      "letter-spacing",
+      "word-spacing",
+      "line-height",
+      "text-indent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which SQL command is used to remove all rows from a table without deleting the table structure itself?",
+    "options": [
+      "DROP TABLE",
+      "DELETE FROM",
+      "TRUNCATE TABLE",
+      "REMOVE FROM"
+    ],
+    "correctIndex": 2
+  }
+]

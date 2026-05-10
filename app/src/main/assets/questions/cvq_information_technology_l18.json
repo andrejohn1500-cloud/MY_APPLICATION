@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic protocol provides forward secrecy by generating a unique session key for each session, ensuring past sessions cannot be decrypted if the long-term key is compromised?",
+    "options": [
+      "RSA key exchange",
+      "Diffie-Hellman Ephemeral (DHE)",
+      "MD5 hashing",
+      "AES-256 symmetric encryption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, which principle states that objects of a superclass should be replaceable with objects of a subclass without affecting program correctness?",
+    "options": [
+      "Open/Closed Principle",
+      "Interface Segregation Principle",
+      "Liskov Substitution Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which OSI layer is responsible for end-to-end error detection, flow control, and reliable data transfer between two hosts?",
+    "options": [
+      "Network Layer",
+      "Data Link Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company implements RAID 5 across five disks each with 2TB capacity. What is the usable storage capacity?",
+    "options": [
+      "10 TB",
+      "8 TB",
+      "6 TB",
+      "4 TB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which SQL command is used to remove a column named 'email' from an existing table called 'Users'?",
+    "options": [
+      "ALTER TABLE Users DROP COLUMN email;",
+      "DELETE COLUMN email FROM Users;",
+      "UPDATE TABLE Users REMOVE COLUMN email;",
+      "MODIFY TABLE Users DROP email;"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In network security, what does a DMZ (Demilitarized Zone) primarily achieve in a corporate network architecture?",
+    "options": [
+      "It encrypts all internal network traffic",
+      "It isolates publicly accessible servers from the internal private network",
+      "It provides VPN tunneling for remote users",
+      "It acts as a firewall rules repository"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which scheduling algorithm can cause indefinite blocking (starvation) of low-priority processes in an operating system?",
+    "options": [
+      "Round Robin",
+      "First-Come First-Served",
+      "Priority Scheduling",
+      "Shortest Job Next"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a Content Delivery Network (CDN) in web infrastructure?",
+    "options": [
+      "To manage database replication across regions",
+      "To distribute content to geographically closer servers reducing latency",
+      "To provide centralized authentication services",
+      "To encrypt HTTP traffic between client and server"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In software testing, which type of testing verifies that previously working functionality has not been broken by new code changes?",
+    "options": [
+      "Unit Testing",
+      "Integration Testing",
+      "Regression Testing",
+      "Acceptance Testing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which IPv6 address type is used for communication with the nearest node in a group of nodes assigned the same address?",
+    "options": [
+      "Unicast",
+      "Multicast",
+      "Anycast",
+      "Broadcast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a public key infrastructure (PKI), what is the role of a Certificate Authority (CA)?",
+    "options": [
+      "To encrypt data using symmetric keys",
+      "To issue, sign, and revoke digital certificates",
+      "To manage user authentication tokens",
+      "To generate private keys for end users"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data structure provides O(1) average-case time complexity for both insertion and lookup operations?",
+    "options": [
+      "Binary Search Tree",
+      "Linked List",
+      "Hash Table",
+      "AVL Tree"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cloud computing, which service model provides virtualized computing infrastructure such as virtual machines, storage, and networking to the client?",
+    "options": [
+      "Software as a Service (SaaS)",
+      "Platform as a Service (PaaS)",
+      "Infrastructure as a Service (IaaS)",
+      "Function as a Service (FaaS)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of SQL JOIN returns all records from both tables, filling NULL values where there is no match on either side?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "correctIndex": 3
+  }
+]

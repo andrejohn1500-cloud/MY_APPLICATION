@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of an input device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the full form of RAM?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Read Allocated Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which storage device uses magnetic platters to store data?",
+    "options": [
+      "USB Flash Drive",
+      "Solid State Drive",
+      "Hard Disk Drive",
+      "CD-ROM"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'WWW' stand for in a web address?",
+    "options": [
+      "World Wide Web",
+      "World Wide Wire",
+      "Wide World Web",
+      "Worldwide Website"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "options": [
+      "Microsoft Word",
+      "Google Chrome",
+      "Windows 10",
+      "Adobe Photoshop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Record Link",
+      "Unified Resource Language",
+      "Uniform Relay Location"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following best describes software?",
+    "options": [
+      "Physical components of a computer",
+      "Programs and instructions that run on a computer",
+      "The screen of a computer",
+      "The keyboard and mouse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of an antivirus program?",
+    "options": [
+      "To speed up the internet",
+      "To detect and remove malicious software",
+      "To create documents",
+      "To manage files and folders"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which file extension is commonly associated with a Microsoft Word document?",
+    "options": [
+      ".xlsx",
+      ".pptx",
+      ".docx",
+      ".pdf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'LAN' stand for?",
+    "options": [
+      "Large Area Network",
+      "Local Area Network",
+      "Linked Access Node",
+      "Long Area Network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of output device?",
+    "options": [
+      "Scanner",
+      "Microphone",
+      "Printer",
+      "Keyboard"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the binary number system based on?",
+    "options": [
+      "Base 8",
+      "Base 16",
+      "Base 10",
+      "Base 2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": [
+      "Microsoft Excel",
+      "Mozilla Firefox",
+      "Windows Explorer",
+      "Adobe Reader"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'ISP' stand for?",
+    "options": [
+      "Internet Service Provider",
+      "Internal System Protocol",
+      "Integrated Software Program",
+      "Internet Security Protocol"
+    ],
+    "correctIndex": 0
+  }
+]

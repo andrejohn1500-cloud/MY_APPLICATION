@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which TCP/IP layer is responsible for logical addressing and routing of packets between networks?",
+    "options": [
+      "Transport Layer",
+      "Network Layer",
+      "Data Link Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company stores sensitive customer data encrypted with AES-256. Which type of encryption does AES-256 represent?",
+    "options": [
+      "Asymmetric encryption",
+      "Hashing algorithm",
+      "Symmetric encryption",
+      "Public-key infrastructure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, which principle allows a subclass to be treated as an instance of its superclass?",
+    "options": [
+      "Encapsulation",
+      "Polymorphism",
+      "Abstraction",
+      "Inheritance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which RAID level provides disk striping with distributed parity and requires a minimum of three drives?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A web developer uses a prepared statement in SQL to prevent which type of attack?",
+    "options": [
+      "Cross-Site Scripting (XSS)",
+      "SQL Injection",
+      "Denial of Service (DoS)",
+      "Man-in-the-Middle (MITM)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which OSI layer is responsible for establishing, managing, and terminating sessions between applications?",
+    "options": [
+      "Layer 4 - Transport",
+      "Layer 5 - Session",
+      "Layer 6 - Presentation",
+      "Layer 7 - Application"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In software development, which Agile ceremony is held at the end of a sprint to inspect the work done and adapt the process?",
+    "options": [
+      "Sprint Planning",
+      "Daily Scrum",
+      "Sprint Review",
+      "Sprint Retrospective"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out) ordering?",
+    "options": [
+      "Queue",
+      "Linked List",
+      "Stack",
+      "Binary Tree"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An IPv6 address is how many bits in length?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of malware disguises itself as legitimate software to gain unauthorized access to a system?",
+    "options": [
+      "Worm",
+      "Ransomware",
+      "Trojan Horse",
+      "Adware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a public key infrastructure (PKI), which entity issues and manages digital certificates?",
+    "options": [
+      "Registration Authority (RA)",
+      "Certificate Authority (CA)",
+      "Key Distribution Center (KDC)",
+      "Trust Anchor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a divide-and-conquer approach by selecting a pivot element?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Quick Sort"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In networking, which protocol translates private IP addresses to a public IP address allowing multiple devices to share a single public address?",
+    "options": [
+      "DHCP",
+      "DNS",
+      "NAT",
+      "ARP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which software testing method examines the internal logic and code structure of an application without knowledge of external specifications?",
+    "options": [
+      "Black-box testing",
+      "Grey-box testing",
+      "White-box testing",
+      "Acceptance testing"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic protocol provides forward secrecy by generating a new session key for each session, ensuring past sessions remain secure even if the private key is compromised?",
+    "options": [
+      "RSA with PKCS#1 padding",
+      "Diffie-Hellman Ephemeral (DHE)",
+      "MD5 hashing",
+      "AES-128 in ECB mode"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company uses a star schema in its data warehouse. What is the primary advantage of this schema over a snowflake schema?",
+    "options": [
+      "It reduces data redundancy by normalizing dimension tables",
+      "It simplifies queries by denormalizing dimension tables for faster retrieval",
+      "It eliminates the need for a fact table",
+      "It enforces stricter referential integrity constraints"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which OSI layer is responsible for establishing, managing, and terminating communication sessions between applications?",
+    "options": [
+      "Transport Layer (Layer 4)",
+      "Network Layer (Layer 3)",
+      "Session Layer (Layer 5)",
+      "Presentation Layer (Layer 6)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, which design pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable without altering the clients that use them?",
+    "options": [
+      "Observer Pattern",
+      "Strategy Pattern",
+      "Singleton Pattern",
+      "Decorator Pattern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which RAID level provides both striping and mirroring, requiring a minimum of four drives, and offers fault tolerance with improved read/write performance?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In TCP/IP networking, what is the purpose of the Time-To-Live (TTL) field in an IP packet header?",
+    "options": [
+      "It specifies the maximum payload size of the packet",
+      "It limits the lifespan of a packet to prevent it from circulating indefinitely on the network",
+      "It defines the quality of service priority for the packet",
+      "It identifies the transport layer protocol being used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which SQL command is used to grant specific privileges on a database object to a user or role?",
+    "options": [
+      "ASSIGN",
+      "PERMIT",
+      "GRANT",
+      "AUTHORIZE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In software development, what does the term 'refactoring' primarily refer to?",
+    "options": [
+      "Adding new features to existing code",
+      "Restructuring existing code without changing its external behavior to improve readability and maintainability",
+      "Removing deprecated functions and replacing them with modern APIs",
+      "Translating code from one programming language to another"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of cyber attack involves an attacker secretly relaying and possibly altering communications between two parties who believe they are directly communicating with each other?",
+    "options": [
+      "Phishing Attack",
+      "Denial of Service (DoS) Attack",
+      "Man-in-the-Middle (MitM) Attack",
+      "SQL Injection Attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cloud computing, which service model provides virtualized computing resources over the internet, giving users control over operating systems, storage, and deployed applications?",
+    "options": [
+      "Software as a Service (SaaS)",
+      "Platform as a Service (PaaS)",
+      "Infrastructure as a Service (IaaS)",
+      "Function as a Service (FaaS)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a divide-and-conquer approach by partitioning an array around a pivot element?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "QuickSort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In network security, what does a demilitarized zone (DMZ) primarily accomplish?",
+    "options": [
+      "It encrypts all internal network traffic using AES-256",
+      "It creates a sub-network that exposes external-facing services while protecting the internal network",
+      "It monitors all outbound traffic for data exfiltration",
+      "It provides a VPN tunnel for remote employees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data structure operates on a Last-In-First-Out (LIFO) principle and is commonly used in function call management and expression evaluation?",
+    "options": [
+      "Queue",
+      "Linked List",
+      "Stack",
+      "Binary Tree"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In project management within IT, which agile framework uses fixed-length iterations called sprints, typically lasting two to four weeks, with defined roles such as Scrum Master and Product Owner?",
+    "options": [
+      "Kanban",
+      "Extreme Programming (XP)",
+      "Scrum",
+      "PRINCE2"
+    ],
+    "correctIndex": 2
+  }
+]

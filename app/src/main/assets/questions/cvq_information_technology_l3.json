@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of an input device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of RAM in a computer?",
+    "options": [
+      "Permanently stores data",
+      "Temporarily stores data currently being used",
+      "Controls the CPU speed",
+      "Manages network connections"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which file extension is commonly associated with a Microsoft Word document?",
+    "options": [
+      ".xlsx",
+      ".pptx",
+      ".docx",
+      ".pdf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transmission Process",
+      "Home Tool Transfer Protocol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "options": [
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "Windows 10",
+      "Google Chrome"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a spreadsheet application primarily used for?",
+    "options": [
+      "Creating presentations",
+      "Editing images",
+      "Organizing and calculating numerical data",
+      "Browsing the internet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which device is used to connect a computer to the internet via a telephone line?",
+    "options": [
+      "Router",
+      "Modem",
+      "Switch",
+      "Hub"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Universal Resource Locator",
+      "Uniform Resource Locator",
+      "United Resource Link",
+      "Uniform Retrieval Locator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is considered secondary storage?",
+    "options": [
+      "RAM",
+      "Cache memory",
+      "Hard Disk Drive",
+      "Registers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of an antivirus program?",
+    "options": [
+      "Speed up internet connection",
+      "Detect and remove malicious software",
+      "Increase RAM capacity",
+      "Manage printer settings"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which network topology connects all devices to a single central cable?",
+    "options": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'GUI' stand for?",
+    "options": [
+      "General User Interface",
+      "Graphical User Interface",
+      "Global Utility Interface",
+      "Graphical Utility Input"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of open source software?",
+    "options": [
+      "Microsoft Windows",
+      "Adobe Acrobat",
+      "LibreOffice",
+      "Apple macOS"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a firewall?",
+    "options": [
+      "Speed up computer performance",
+      "Monitor and control incoming and outgoing network traffic",
+      "Store backup files",
+      "Increase screen resolution"
+    ],
+    "correctIndex": 1
+  }
+]

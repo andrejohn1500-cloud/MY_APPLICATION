@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery between hosts?",
+    "options": [
+      "Network Layer",
+      "Transport Layer",
+      "Session Layer",
+      "Data Link Layer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of attack involves an attacker intercepting communication between two parties without their knowledge?",
+    "options": [
+      "Denial of Service (DoS)",
+      "Phishing",
+      "Man-in-the-Middle (MitM)",
+      "SQL Injection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym RAID stand for in storage technology?",
+    "options": [
+      "Random Access Integrated Disk",
+      "Redundant Array of Independent Disks",
+      "Rapid Array of Interconnected Drives",
+      "Reliable Access of Integrated Data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which programming paradigm treats computation as the evaluation of mathematical functions and avoids changing state?",
+    "options": [
+      "Object-Oriented Programming",
+      "Procedural Programming",
+      "Functional Programming",
+      "Event-Driven Programming"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In project management, which methodology uses sprints and daily stand-up meetings as core practices?",
+    "options": [
+      "Waterfall",
+      "PRINCE2",
+      "Scrum",
+      "Six Sigma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which HTML tag is used to define a table header cell?",
+    "options": [
+      "<td>",
+      "<tr>",
+      "<th>",
+      "<thead>"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a DMZ (Demilitarized Zone) in network security?",
+    "options": [
+      "To encrypt internal network traffic",
+      "To host publicly accessible services while protecting the internal network",
+      "To provide wireless access to external users",
+      "To manage IP address allocation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Selection Sort",
+      "Merge Sort"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its parent class?",
+    "options": [
+      "Encapsulation",
+      "Abstraction",
+      "Overriding",
+      "Overloading"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which network device operates at Layer 3 of the OSI model to forward packets between different networks?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Bridge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of software license allows users to view, modify, and distribute source code freely?",
+    "options": [
+      "Proprietary License",
+      "Freeware License",
+      "Open Source License",
+      "Shareware License"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In CSS, which property is used to control the space between the content and its border?",
+    "options": [
+      "margin",
+      "border-spacing",
+      "padding",
+      "spacing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which backup strategy only copies files that have changed since the last full backup, requiring the full backup and all subsequent backups to restore?",
+    "options": [
+      "Full Backup",
+      "Differential Backup",
+      "Incremental Backup",
+      "Mirror Backup"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which protocol is used to securely transfer files over an encrypted SSH connection?",
+    "options": [
+      "FTP",
+      "TFTP",
+      "SFTP",
+      "HTTP"
+    ],
+    "correctIndex": 2
+  }
+]

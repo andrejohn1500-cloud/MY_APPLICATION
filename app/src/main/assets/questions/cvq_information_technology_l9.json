@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which data transmission method sends all bits of a byte simultaneously over multiple wires?",
+    "options": [
+      "Serial transmission",
+      "Parallel transmission",
+      "Simplex transmission",
+      "Asynchronous transmission"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a relational database, which key uniquely identifies each record in a table?",
+    "options": [
+      "Foreign key",
+      "Composite key",
+      "Primary key",
+      "Candidate key"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which network topology connects all devices to a single central cable called a backbone?",
+    "options": [
+      "Star topology",
+      "Ring topology",
+      "Bus topology",
+      "Mesh topology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Transfer Markup Language",
+      "Hyper Text Managing Links",
+      "Home Tool Markup Language"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of software license allows users to freely use, modify, and distribute the source code?",
+    "options": [
+      "Proprietary software",
+      "Freeware",
+      "Open source software",
+      "Shareware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery?",
+    "options": [
+      "Network layer",
+      "Data Link layer",
+      "Session layer",
+      "Transport layer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the binary equivalent of the decimal number 45?",
+    "options": [
+      "00101101",
+      "00111010",
+      "00101001",
+      "00110101"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of malware disguises itself as legitimate software to trick users into installing it?",
+    "options": [
+      "Worm",
+      "Ransomware",
+      "Trojan horse",
+      "Spyware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a spreadsheet application, which function returns the largest value in a selected range of cells?",
+    "options": [
+      "UPPER()",
+      "MAX()",
+      "COUNT()",
+      "LARGE()"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which storage device uses flash memory and has no moving mechanical parts?",
+    "options": [
+      "Hard Disk Drive (HDD)",
+      "Optical disc",
+      "Solid State Drive (SSD)",
+      "Magnetic tape"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does CSS stand for in web development?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style Syntax",
+      "Cascading Script System"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which protocol is used to assign IP addresses automatically to devices on a network?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "DHCP",
+      "DNS"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of hiding internal implementation details from the user?",
+    "options": [
+      "Polymorphism",
+      "Inheritance",
+      "Encapsulation",
+      "Abstraction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of network covers a small geographic area such as a single building or campus?",
+    "options": [
+      "WAN",
+      "MAN",
+      "LAN",
+      "PAN"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which component of the CPU performs arithmetic and logical operations?",
+    "options": [
+      "Control Unit",
+      "Cache Memory",
+      "Registers",
+      "Arithmetic Logic Unit (ALU)"
+    ],
+    "correctIndex": 3
+  }
+]

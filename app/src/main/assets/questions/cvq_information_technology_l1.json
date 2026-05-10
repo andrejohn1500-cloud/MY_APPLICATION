@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of an input device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the full form of RAM?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Module",
+      "Remote Access Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": [
+      "Microsoft Word",
+      "Google Chrome",
+      "Windows Explorer",
+      "Adobe Photoshop"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does 'WWW' stand for?",
+    "options": [
+      "World Wide Web",
+      "World Wide Wire",
+      "Wide World Web",
+      "Worldwide Wireless Web"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which storage device has the largest capacity?",
+    "options": [
+      "Floppy disk",
+      "CD-ROM",
+      "USB flash drive",
+      "Hard disk drive"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of an operating system?",
+    "options": [
+      "To browse the internet",
+      "To manage hardware and software resources",
+      "To create documents",
+      "To edit images"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of software?",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Microsoft Excel",
+      "Hard drive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Remote Link",
+      "Unified Resource Language",
+      "Uniform Routing Label"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which key is used to delete characters to the left of the cursor?",
+    "options": [
+      "Delete",
+      "Enter",
+      "Backspace",
+      "Escape"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a printer?",
+    "options": [
+      "Input data",
+      "Store data",
+      "Output data onto paper",
+      "Process data"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a type of computer network?",
+    "options": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "CAN"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does 'GUI' stand for?",
+    "options": [
+      "General User Interface",
+      "Graphical User Interface",
+      "Global Utility Interface",
+      "Graphical Utility Input"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following file extensions is associated with a Microsoft Word document?",
+    "options": [
+      ".xls",
+      ".ppt",
+      ".docx",
+      ".pdf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of the 'Save' command in a word processing application?",
+    "options": [
+      "To print a document",
+      "To close the application",
+      "To store the document on a storage device",
+      "To open a new document"
+    ],
+    "correctIndex": 2
+  }
+]

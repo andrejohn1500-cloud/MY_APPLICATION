@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic protocol provides forward secrecy by generating a unique session key for each session, ensuring past sessions remain secure even if long-term keys are compromised?",
+    "options": [
+      "RSA key exchange",
+      "Diffie-Hellman Ephemeral (DHE)",
+      "MD5 hashing",
+      "AES-256 encryption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "options": [
+      "Encapsulation",
+      "Abstraction",
+      "Method overriding",
+      "Constructor chaining"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which TCP/IP layer is responsible for logical addressing and routing of packets between different networks?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company needs to ensure that a critical server remains operational if a single hard drive fails. Which RAID configuration provides fault tolerance with the least storage overhead using parity?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which SQL command is used to remove all rows from a table without logging individual row deletions and without firing triggers, making it faster than DELETE?",
+    "options": [
+      "DROP TABLE",
+      "DELETE FROM",
+      "TRUNCATE TABLE",
+      "REMOVE FROM"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In network security, what type of attack involves an attacker intercepting and potentially altering communications between two parties who believe they are directly communicating with each other?",
+    "options": [
+      "Denial of Service (DoS) attack",
+      "SQL Injection attack",
+      "Man-in-the-Middle (MitM) attack",
+      "Cross-Site Scripting (XSS) attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which data structure operates on a Last-In, First-Out (LIFO) principle and is commonly used for managing function call execution in programming languages?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In software development, which Agile methodology uses time-boxed iterations called sprints, typically lasting two to four weeks, to deliver incremental product functionality?",
+    "options": [
+      "Waterfall",
+      "Kanban",
+      "Scrum",
+      "Extreme Programming (XP)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which IPv6 address type is used to send a packet to the nearest interface in a group of interfaces sharing the same address, used primarily for routing efficiency?",
+    "options": [
+      "Unicast",
+      "Multicast",
+      "Broadcast",
+      "Anycast"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In public key infrastructure (PKI), which entity is responsible for issuing and managing digital certificates that bind public keys to identities?",
+    "options": [
+      "Registration Authority (RA)",
+      "Certificate Authority (CA)",
+      "Key Distribution Center (KDC)",
+      "Trusted Platform Module (TPM)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and works by selecting a pivot element and partitioning the array into two sub-arrays?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a client-server architecture, which HTTP status code indicates that the server cannot find the requested resource?",
+    "options": [
+      "200",
+      "301",
+      "403",
+      "404"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of malware disguises itself as legitimate software to trick users into installing it, but once installed, creates a backdoor for unauthorized access?",
+    "options": [
+      "Worm",
+      "Ransomware",
+      "Trojan Horse",
+      "Adware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In systems analysis, which diagram type from the Unified Modeling Language (UML) is best suited to illustrate the interactions between a user and a system to achieve a specific goal?",
+    "options": [
+      "Class Diagram",
+      "Use Case Diagram",
+      "Sequence Diagram",
+      "Activity Diagram"
+    ],
+    "correctIndex": 1
+  }
+]

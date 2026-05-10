@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "options": [
+      "Encapsulation",
+      "Abstraction",
+      "Method Overriding",
+      "Method Overloading"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which TCP/IP layer is responsible for logical addressing and routing of packets between networks?",
+    "options": [
+      "Transport Layer",
+      "Data Link Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company wants to ensure that only authorized users can access a specific database table. Which SQL command is used to grant privileges to a user?",
+    "options": [
+      "ALLOW",
+      "PERMIT",
+      "GRANT",
+      "AUTHORIZE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of attack involves an attacker intercepting and possibly altering communications between two parties without their knowledge?",
+    "options": [
+      "Phishing Attack",
+      "Denial of Service Attack",
+      "Man-in-the-Middle Attack",
+      "SQL Injection Attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a binary tree, what is the maximum number of nodes at level 4 (where root is level 1)?",
+    "options": [
+      "8",
+      "16",
+      "12",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n)?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym RAID stand for in storage technology?",
+    "options": [
+      "Redundant Array of Independent Disks",
+      "Random Access Integrated Drive",
+      "Rapid Array of Interconnected Devices",
+      "Redundant Access of Integrated Data"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which CSS property is used to create a flexible box layout that allows responsive design without using float or positioning?",
+    "options": [
+      "display: grid",
+      "display: flex",
+      "position: relative",
+      "float: left"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In network subnetting, a subnet mask of 255.255.255.192 creates how many usable host addresses per subnet?",
+    "options": [
+      "30",
+      "62",
+      "14",
+      "126"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which design pattern ensures that a class has only one instance and provides a global point of access to it?",
+    "options": [
+      "Factory Pattern",
+      "Observer Pattern",
+      "Singleton Pattern",
+      "Decorator Pattern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a foreign key in a relational database?",
+    "options": [
+      "To uniquely identify each record in a table",
+      "To enforce referential integrity between two tables",
+      "To speed up query performance",
+      "To prevent duplicate values in a column"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cybersecurity, which encryption standard uses a 128-bit, 192-bit, or 256-bit key and is currently considered the most secure symmetric encryption algorithm?",
+    "options": [
+      "DES",
+      "3DES",
+      "RSA",
+      "AES"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which JavaScript method is used to execute a function repeatedly at specified time intervals?",
+    "options": [
+      "setTimeout()",
+      "setInterval()",
+      "setDelay()",
+      "repeatFunction()"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In software development, which methodology emphasizes iterative development, collaboration, and responding to change over following a fixed plan?",
+    "options": [
+      "Waterfall Model",
+      "Agile Methodology",
+      "Spiral Model",
+      "V-Model"
+    ],
+    "correctIndex": 1
+  }
+]

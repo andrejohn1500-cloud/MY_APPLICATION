@@ -1,0 +1,152 @@
+[
+  {
+    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which cryptographic protocol provides forward secrecy by generating a unique session key for each session, ensuring past sessions remain secure even if the long-term key is compromised?",
+    "options": [
+      "RSA key exchange",
+      "Diffie-Hellman Ephemeral (DHE)",
+      "MD5 hashing",
+      "DES encryption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what principle states that objects of a subclass should be substitutable for objects of the superclass without altering program correctness?",
+    "options": [
+      "Open/Closed Principle",
+      "Interface Segregation Principle",
+      "Liskov Substitution Principle",
+      "Dependency Inversion Principle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which TCP/IP layer is responsible for logical addressing and routing packets between different networks?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Application Layer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company needs to store 500 TB of rarely accessed archival data at minimal cost. Which AWS storage class is MOST appropriate?",
+    "options": [
+      "Amazon S3 Standard",
+      "Amazon S3 Intelligent-Tiering",
+      "Amazon S3 Glacier Deep Archive",
+      "Amazon EBS Provisioned IOPS"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In software testing, which technique derives test cases from the internal structure and code logic of a program?",
+    "options": [
+      "Black-box testing",
+      "White-box testing",
+      "User acceptance testing",
+      "Exploratory testing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following RAID levels provides both striping and mirroring, requiring a minimum of four disks and offering fault tolerance for up to one disk failure per mirrored pair?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In network security, what type of attack involves an adversary secretly relaying and possibly altering communications between two parties who believe they are communicating directly?",
+    "options": [
+      "Denial of Service (DoS) attack",
+      "SQL Injection attack",
+      "Man-in-the-Middle (MitM) attack",
+      "Cross-Site Scripting (XSS) attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a divide-and-conquer approach by partitioning arrays around a pivot element?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In project management, the Critical Path Method (CPM) is used to identify tasks that directly affect the project completion date. What does 'float' or 'slack' represent in CPM?",
+    "options": [
+      "The total budget allocated to a task",
+      "The amount of time a task can be delayed without delaying the project end date",
+      "The number of resources assigned to a critical task",
+      "The dependency relationship between two tasks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which IPv6 address type is used to send a packet to the nearest interface in a group of interfaces assigned the same address?",
+    "options": [
+      "Unicast",
+      "Multicast",
+      "Anycast",
+      "Broadcast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cybersecurity, what does the term 'SQL Injection' primarily exploit?",
+    "options": [
+      "Weak password policies in user authentication",
+      "Insufficient input validation allowing malicious SQL statements to be executed",
+      "Unpatched vulnerabilities in operating system kernels",
+      "Misconfigured firewall rules on database servers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which software development methodology emphasizes iterative development, customer collaboration, and responding to change over following a fixed plan?",
+    "options": [
+      "Waterfall Model",
+      "V-Model",
+      "Agile Methodology",
+      "Spiral Model"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In computer architecture, what is the function of the Memory Management Unit (MMU)?",
+    "options": [
+      "It manages input and output operations between the CPU and peripheral devices",
+      "It translates virtual memory addresses to physical memory addresses",
+      "It controls the clock speed and power consumption of the processor",
+      "It manages the cache hierarchy between L1, L2, and L3 caches"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which network topology provides the highest level of redundancy by connecting every node to every other node, but is least scalable due to exponential cabling requirements?",
+    "options": [
+      "Bus topology",
+      "Star topology",
+      "Ring topology",
+      "Mesh topology"
+    ],
+    "correctIndex": 3
+  }
+]
