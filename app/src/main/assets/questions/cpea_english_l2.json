@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Which of the following is a proper noun?",
+    "options": [
+      "city",
+      "happiness",
+      "Trinidad",
+      "building"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What punctuation mark is used at the end of a question?",
+    "options": [
+      "Full stop",
+      "Comma",
+      "Question mark",
+      "Exclamation mark"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which word is a synonym for 'happy'?",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sentence is written in the past tense?",
+    "options": [
+      "She walks to school.",
+      "He will play football.",
+      "They ate their lunch.",
+      "We are reading books."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "options": [
+      "Childs",
+      "Childes",
+      "Children",
+      "Childrens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following words is an adjective?",
+    "options": [
+      "Run",
+      "Quickly",
+      "Beautiful",
+      "Eat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sentence uses a capital letter correctly?",
+    "options": [
+      "my friend lives in barbados.",
+      "My friend lives in Barbados.",
+      "my Friend lives in Barbados.",
+      "My friend lives in barbados."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the word 'enormous' mean?",
+    "options": [
+      "Very small",
+      "Very fast",
+      "Very large",
+      "Very quiet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "command": "Which word is the antonym of 'ancient'?",
+    "question": "Which word is the antonym of 'ancient'?",
+    "options": [
+      "Old",
+      "Modern",
+      "Broken",
+      "Dark"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a compound word?",
+    "options": [
+      "Playing",
+      "Butterfly",
+      "Quickly",
+      "Jumped"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sentence contains a simile?",
+    "options": [
+      "The dog barked loudly.",
+      "She ran to the store.",
+      "He is as brave as a lion.",
+      "The flower is red."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct article to use before the word 'umbrella'?",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article needed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sentences is in the future tense?",
+    "options": [
+      "The cat slept all day.",
+      "The cat sleeps all day.",
+      "The cat will sleep all day.",
+      "The cat is sleeping."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of word is 'slowly'?",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Verb",
+      "Adverb"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which sentence uses a comma correctly?",
+    "options": [
+      "I bought apples oranges, and bananas.",
+      "I bought apples, oranges, and bananas.",
+      "I bought, apples oranges and bananas.",
+      "I bought apples oranges and, bananas."
+    ],
+    "correctIndex": 1
+  }
+]
