@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary purpose of a P-trap in a plumbing system?",
+    "options": [
+      "To increase water pressure",
+      "To prevent sewer gases from entering the building",
+      "To filter debris from wastewater",
+      "To regulate water flow rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pipe material is most commonly used for potable water supply lines due to its corrosion resistance and durability?",
+    "options": [
+      "Galvanized steel",
+      "Cast iron",
+      "Copper",
+      "ABS plastic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'fall' refer to in drain pipe installation?",
+    "options": [
+      "The reduction in water pressure over distance",
+      "The slope or gradient given to a pipe to allow gravity drainage",
+      "The drop in temperature of hot water over distance",
+      "The pressure loss due to pipe bends"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended minimum gradient for a 100mm diameter drain pipe according to standard plumbing codes?",
+    "options": [
+      "1 in 10",
+      "1 in 40",
+      "1 in 80",
+      "1 in 100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which valve type is best suited for isolating flow completely and should NOT be used for flow regulation?",
+    "options": [
+      "Globe valve",
+      "Gate valve",
+      "Ball valve",
+      "Butterfly valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a hot and cold water system, what is the purpose of an expansion vessel?",
+    "options": [
+      "To increase system pressure",
+      "To accommodate thermal expansion of water and prevent pressure buildup",
+      "To store extra cold water",
+      "To filter impurities from the water supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of joint is typically used when connecting copper pipes using heat and solder?",
+    "options": [
+      "Compression joint",
+      "Push-fit joint",
+      "Capillary joint",
+      "Flanged joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a symptom of water hammer in a plumbing system?",
+    "options": [
+      "Low water pressure throughout the building",
+      "Banging or knocking noises in pipes when taps are closed quickly",
+      "Slow drainage from fixtures",
+      "Discoloration of water at taps"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a pressure reducing valve (PRV) in a plumbing installation?",
+    "options": [
+      "To boost incoming water pressure",
+      "To reduce and maintain downstream pressure at a safe level",
+      "To prevent backflow into the mains supply",
+      "To control the flow rate to individual fixtures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When soldering copper pipe fittings, which flux is used to clean and prepare the metal surfaces?",
+    "options": [
+      "Petroleum jelly",
+      "Plumber's flux (paste flux)",
+      "Silicone grease",
+      "Epoxy resin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does CPVC stand for in plumbing materials?",
+    "options": [
+      "Cast Polyvinyl Chloride",
+      "Chlorinated Polyvinyl Chloride",
+      "Coated Plastic Vinyl Conduit",
+      "Compressed Polyvinyl Carbon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which document must a plumber consult to determine the correct pipe sizing for a hot water distribution system?",
+    "options": [
+      "Electrical wiring regulations",
+      "Plumbing and drainage codes or standards",
+      "Building energy audit report",
+      "Manufacturer's marketing brochure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main cause of corrosion when dissimilar metals are joined directly in a plumbing system?",
+    "options": [
+      "Chemical reaction with soap",
+      "Galvanic or electrolytic corrosion",
+      "UV radiation exposure",
+      "Thermal expansion differences"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a sanitary drainage system, what is the purpose of a vent pipe?",
+    "options": [
+      "To supply fresh air to bathrooms",
+      "To allow air circulation that maintains trap seals and prevents siphonage",
+      "To drain rainwater from rooftops",
+      "To provide access for pipe cleaning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is specifically used to cut external threads on steel pipes in plumbing work?",
+    "options": [
+      "Pipe reamer",
+      "Die stock and dies",
+      "Pipe bender",
+      "Stillson wrench"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What does the abbreviation 'PPE' stand for in the plumbing trade?",
+    "options": [
+      "Personal Protective Equipment",
+      "Professional Plumbing Equipment",
+      "Pipe Pressure Estimation",
+      "Protective Plumbing Engineering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of pipe is commonly used for domestic cold water supply due to its corrosion resistance?",
+    "options": [
+      "Cast iron pipe",
+      "Copper pipe",
+      "Galvanized steel pipe",
+      "Clay pipe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a P-trap in a plumbing system?",
+    "options": [
+      "To increase water pressure",
+      "To prevent sewer gases from entering the building",
+      "To filter sediment from water",
+      "To measure water flow rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to cut copper pipe cleanly without deforming it?",
+    "options": [
+      "Hacksaw",
+      "Pipe cutter",
+      "Chisel",
+      "Jigsaw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the standard color code for cold water pipes in most plumbing systems?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which valve is used to completely stop water flow in a pipeline?",
+    "options": [
+      "Check valve",
+      "Gate valve",
+      "Pressure reducing valve",
+      "Float valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What material is commonly used as a jointing compound to seal threaded pipe connections?",
+    "options": [
+      "Cement mortar",
+      "PTFE tape",
+      "Silicone sealant",
+      "Epoxy resin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does a float valve control in a cistern?",
+    "options": [
+      "Water temperature",
+      "Water pressure",
+      "The level of water in the cistern",
+      "The flow rate of hot water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a safe practice when using a blowtorch for soldering copper pipes?",
+    "options": [
+      "Work near flammable materials",
+      "Use a heat shield to protect surrounding surfaces",
+      "Leave the blowtorch unattended while lit",
+      "Solder in an enclosed space without ventilation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a water meter?",
+    "options": [
+      "To heat water",
+      "To filter impurities from water",
+      "To measure the volume of water consumed",
+      "To regulate water pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of joint is used to connect two pieces of copper pipe by using heat and solder?",
+    "options": [
+      "Push-fit joint",
+      "Compression joint",
+      "Soldered capillary joint",
+      "Flanged joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'potable water' mean?",
+    "options": [
+      "Hot water used for heating",
+      "Water that is safe for drinking",
+      "Recycled grey water",
+      "Salt water from the sea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which instrument is used to measure water pressure in a plumbing system?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Pressure gauge",
+      "Flow meter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a stopcock in a plumbing system?",
+    "options": [
+      "To heat the water supply",
+      "To increase water flow",
+      "To isolate the water supply so it can be turned off",
+      "To remove air from pipes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a common cause of water hammer in a plumbing system?",
+    "options": [
+      "Slow closing of taps",
+      "Pipes being too large",
+      "Rapid closure of valves causing pressure surge",
+      "Low water temperature"
+    ],
+    "correctIndex": 2
+  }
+]

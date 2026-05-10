@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When sizing a hot water storage cylinder for a domestic installation, which factor is MOST critical in determining the required storage capacity?",
+    "options": [
+      "The colour of the cylinder insulation",
+      "The peak demand period and recovery rate of the heating system",
+      "The brand of the pressure relief valve installed",
+      "The diameter of the cold water supply pipe only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A hydraulic gradient in a drainage system refers to which of the following?",
+    "options": [
+      "The physical slope of the drain pipe measured in degrees",
+      "The ratio of head loss to pipe length representing the slope of the energy line",
+      "The velocity of water flowing through the drain at peak capacity",
+      "The difference in invert levels between two inspection chambers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which British Standard governs the installation of above-ground drainage and sanitary pipework in buildings?",
+    "options": [
+      "BS EN 806",
+      "BS EN 12056",
+      "BS 6700",
+      "BS 8000-15"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When carrying out a soundness test on a medium-pressure gas installation (operating above 75 mbar up to 2 bar), which test method and acceptable criterion apply?",
+    "options": [
+      "Tightness test at 20 mbar for 2 minutes with no pressure drop",
+      "Strength test at 1.5 times working pressure followed by a tightness test at working pressure with no drop over 2 minutes",
+      "Visual inspection and soap solution test only",
+      "Pressure test at 0.5 bar for 10 minutes with a maximum drop of 0.5 mbar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a sealed central heating system, what is the PRIMARY purpose of the expansion vessel?",
+    "options": [
+      "To act as a secondary cold water storage vessel",
+      "To accommodate the increase in water volume due to thermal expansion and maintain system pressure within safe limits",
+      "To prevent air locks forming in the radiator circuit",
+      "To provide additional water flow to the heat exchanger during peak demand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which regulation specifically requires that all plumbing installations in the UK do not cause waste, misuse, undue consumption, or contamination of water?",
+    "options": [
+      "The Building Regulations Part H",
+      "The Water Supply (Water Fittings) Regulations 1999",
+      "The Gas Safety (Installation and Use) Regulations 1998",
+      "The Pressure Systems Safety Regulations 2000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A Type AA air gap is best described as which of the following?",
+    "options": [
+      "An air gap where the inlet is below the overflow level of the receiving vessel",
+      "An unrestricted air gap where the vertical distance is not less than 20 mm or twice the pipe diameter whichever is greater",
+      "A submerged inlet protected by a check valve",
+      "A reduced-pressure zone valve assembly installed on a potable supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When installing a thermostatic mixing valve (TMV3) in a healthcare environment, what is the maximum blended outlet temperature permitted under HTM 04-01 guidance?",
+    "options": [
+      "50\u00b0C",
+      "43\u00b0C",
+      "55\u00b0C",
+      "38\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Legionella bacteria multiply most rapidly within which temperature range in a water system?",
+    "options": [
+      "0\u00b0C to 20\u00b0C",
+      "20\u00b0C to 45\u00b0C",
+      "50\u00b0C to 60\u00b0C",
+      "60\u00b0C to 80\u00b0C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pipe-sizing method accounts for both the simultaneous demand probability of sanitary appliances and the pressure available at the source when sizing cold water distribution pipework?",
+    "options": [
+      "The equal velocity method",
+      "The loading unit method combined with pressure loss calculations",
+      "The constant gradient method",
+      "The Darcy-Weisbach equation used in isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A backflow prevention device classified as a Fluid Category 4 risk must be protected by which of the following arrangements?",
+    "options": [
+      "A single check valve",
+      "A double check valve assembly",
+      "A Type AA, AB, or AD air gap or a reduced pressure zone (RPZ) valve",
+      "A single inline non-return valve with a pressure gauge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Under the Pressure Equipment Regulations, an unvented hot water storage unit with a capacity greater than which threshold requires notification to a competent person scheme before installation?",
+    "options": [
+      "10 litres",
+      "15 litres",
+      "30 litres",
+      "45 litres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In lead-free solder jointing of copper pipe for potable water systems, which alloy composition is typically used in compliance with the Water Supply (Water Fittings) Regulations?",
+    "options": [
+      "50% tin, 50% lead",
+      "95.5% tin, 3.8% silver, 0.7% copper (SAC305)",
+      "60% tin, 40% lead",
+      "99% lead, 1% tin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Chezy formula and Manning's equation are used in plumbing drainage design primarily to calculate which parameter?",
+    "options": [
+      "The burst pressure rating of a drain pipe",
+      "The velocity of flow in partially filled gravity drainage pipes",
+      "The thermal expansion of buried plastic drainage pipes",
+      "The minimum depth of cover for drain pipes under roads"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When commissioning a pressurised underfloor heating system, after filling and purging air, what is the correct sequence of final commissioning steps?",
+    "options": [
+      "Set manifold flow rates, then carry out a hydraulic pressure test, then heat the system to design temperature",
+      "Carry out a hydraulic pressure test at 1.5 times working pressure, then set individual circuit flow rates using balancing valves, then heat the system gradually to design temperature checking for leaks and rechecking balance",
+      "Heat the system immediately to design temperature, then balance the circuits, then test for leaks at full temperature",
+      "Balance the circuits at design temperature first, then cool the system and carry out a pressure test"
+    ],
+    "correctIndex": 1
+  }
+]

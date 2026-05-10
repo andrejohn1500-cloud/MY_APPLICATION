@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary purpose of a pressure reducing valve (PRV) in a plumbing system?",
+    "options": [
+      "To increase water pressure to fixtures",
+      "To reduce and maintain a steady downstream pressure",
+      "To prevent backflow into the water supply",
+      "To regulate water temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of pipe joint is most commonly used when connecting copper pipes in domestic plumbing installations?",
+    "options": [
+      "Flanged joint",
+      "Compression joint or soldered capillary joint",
+      "Screwed socket joint",
+      "Spigot and socket joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does the term 'hydraulic gradient' refer to in drainage design?",
+    "options": [
+      "The water pressure at the highest point of the system",
+      "The slope of the energy line along a pipe run",
+      "The total head loss across a valve",
+      "The ratio of pipe diameter to flow velocity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a hot and cold water system, what is the recommended maximum temperature setting for a domestic hot water storage cylinder to prevent Legionella growth?",
+    "options": [
+      "45\u00b0C",
+      "50\u00b0C",
+      "60\u00b0C",
+      "70\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes a 'trap seal' in sanitary plumbing?",
+    "options": [
+      "A mechanical device that locks a drain shut",
+      "A water barrier in a trap that prevents foul gases from entering a building",
+      "A rubber gasket that seals a pipe joint",
+      "A pressure relief mechanism on a water heater"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What minimum fall is generally recommended for a 100 mm diameter soil and waste pipe in a domestic drainage system?",
+    "options": [
+      "1 in 10",
+      "1 in 40",
+      "1 in 80",
+      "1 in 200"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which material is most resistant to dezincification and therefore preferred for valves in aggressive water conditions?",
+    "options": [
+      "Standard brass",
+      "Gunmetal or dezincification-resistant (DR) brass",
+      "Mild steel",
+      "PVC-U"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of an air admittance valve (AAV) in a sanitary pipework system?",
+    "options": [
+      "To release excess pressure from the hot water cylinder",
+      "To allow air into the drainage system to maintain trap seals without an open vent stack",
+      "To admit fresh air into a roof space",
+      "To control airflow in a mechanical ventilation system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under CVQ plumbing standards, which document would a plumber refer to for guidance on the installation of above-ground drainage systems?",
+    "options": [
+      "BS EN 12056",
+      "BS 6700",
+      "BS EN 1057",
+      "BS 5306"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A ball valve is found to be passing water continuously. What is the most likely cause?",
+    "options": [
+      "The supply pressure is too low",
+      "The float arm is set too high or the float or valve seat is worn",
+      "The pipe diameter is too small",
+      "The water is too cold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of boiler operates without a stored hot water cylinder, heating water instantaneously on demand?",
+    "options": [
+      "Regular (conventional) boiler",
+      "System boiler",
+      "Combination (combi) boiler",
+      "Back boiler"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which test is used to check the soundness of above-ground sanitary pipework after installation?",
+    "options": [
+      "Hydraulic pressure test at 1.5 bar",
+      "Air or smoke test to confirm no leaks or trap seal loss",
+      "Ultrasonic thickness test",
+      "Electrical continuity test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a thermostatic mixing valve (TMV) installed at a point of use such as a shower or basin?",
+    "options": [
+      "To boost cold water pressure",
+      "To blend hot and cold water to a safe, preset temperature to prevent scalding",
+      "To prevent water hammer in the pipework",
+      "To filter sediment from the water supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a gravity-fed central heating system, what component separates the heating circuit water from the potable water in the indirect hot water cylinder?",
+    "options": [
+      "The expansion vessel",
+      "The heat exchanger coil inside the cylinder",
+      "The pressure relief valve",
+      "The motorised zone valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When carrying out a first-fix plumbing installation, what is the correct sequence for positioning pipework within stud partition walls?",
+    "options": [
+      "Install pipes after plastering and decoration are complete",
+      "Mark out, drill or notch the studwork within permitted limits, then run and clip pipes before the wall is boarded",
+      "Run pipes on the surface and box them in after boarding",
+      "Install pipes only after the second-fix stage is complete"
+    ],
+    "correctIndex": 1
+  }
+]

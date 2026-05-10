@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When sizing a hot water distribution system using the loading unit method, what is the primary purpose of converting fixture units to a flow rate?",
+    "options": [
+      "To determine the pipe material required",
+      "To calculate the probable simultaneous demand on the system",
+      "To establish the static pressure at each fixture",
+      "To identify the heat loss through the pipework"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A plumber is installing a Type A air gap on a potable water supply. What is the minimum vertical distance required between the lowest point of the supply pipe and the flood level rim of the receiving vessel?",
+    "options": [
+      "1\u00d7 the internal diameter of the supply pipe",
+      "2\u00d7 the internal diameter of the supply pipe",
+      "25 mm regardless of pipe diameter",
+      "50 mm regardless of pipe diameter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of trap seal loss is caused by self-siphonage in a washbasin waste pipe that is too long without adequate ventilation?",
+    "options": [
+      "Induced siphonage",
+      "Compression",
+      "Evaporation",
+      "Momentum"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a solar thermal system, what is the primary function of the differential temperature controller (DTC)?",
+    "options": [
+      "To regulate the mains cold water pressure",
+      "To prevent the collector from overheating in winter",
+      "To activate the circulation pump when the collector is hotter than the storage cylinder by a set differential",
+      "To control the mixing valve on the hot water outlet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct minimum gradient for a 100 mm diameter below-ground foul drainage pipe serving up to 60 dwelling units according to recommended design standards?",
+    "options": [
+      "1 in 40",
+      "1 in 80",
+      "1 in 150",
+      "1 in 200"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A pressure reducing valve (PRV) is installed on a cold water supply. After the PRV fails open, which of the following components is most critical in preventing system over-pressurisation?",
+    "options": [
+      "The float-operated valve in the cistern",
+      "The expansion vessel",
+      "The pressure relief valve set at the maximum safe working pressure",
+      "The strainer upstream of the PRV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which document in Trinidad and Tobago provides the statutory framework governing plumbing installations and water use for CVQ Level II practitioners?",
+    "options": [
+      "The Water and Sewerage Authority (WASA) By-Laws",
+      "The Occupational Safety and Health Act",
+      "The Environmental Management Authority Regulations",
+      "The Building Code of Standards (BCS) Chapter 7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When hydraulically testing a newly installed above-ground copper pipework system, what is the standard test pressure and minimum hold time before inspection?",
+    "options": [
+      "1.0\u00d7 the working pressure for 30 minutes",
+      "1.5\u00d7 the maximum working pressure for 1 hour",
+      "2\u00d7 the maximum working pressure for 30 minutes",
+      "Static head plus 50 kPa for 15 minutes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a direct unvented hot water storage system, what is the purpose of the thermally operated cut-out (temperature relief device) as distinct from the temperature and pressure relief valve?",
+    "options": [
+      "It reduces water temperature during peak demand",
+      "It provides a secondary high-temperature shut-off independent of the thermostat",
+      "It equalises pressure between the cold and hot sides",
+      "It prevents backflow of hot water into the cold supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gravity primary circuit in a traditional indirect hot water system relies on thermosiphonic circulation. Which physical principle drives this flow?",
+    "options": [
+      "Capillary action in small-bore pipework",
+      "Difference in density between hot and cooler water creating a convective loop",
+      "Venturi effect as water passes through the heat exchanger coil",
+      "Osmotic pressure differential across the coil wall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When carrying out a soundness test on a newly installed LPG installation before connection to the supply, which method and acceptance criterion is correct?",
+    "options": [
+      "Pressurise to 20 mbar with air; no pressure drop over 2 minutes",
+      "Pressurise to 1.5 times working pressure with nitrogen; no drop over 60 minutes",
+      "Pressurise to working pressure with LPG; bubble test each joint",
+      "Pressurise to 50 mbar with air; pressure stabilises and holds for 1 minute with no perceptible drop over a further minute"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the phenomenon where negative pressure in a drain stack draws water from a trap seal, even though the fixture connected to that trap is not in use?",
+    "options": [
+      "Self-siphonage",
+      "Induced siphonage",
+      "Back pressure",
+      "Compression siphonage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a cross-linked polyethylene (PEX) manifold system, why must an expansion loop or bend be incorporated near each manifold connection?",
+    "options": [
+      "To provide visual access for leak detection",
+      "To allow thermal expansion and contraction without imposing stress on fittings",
+      "To increase turbulence and prevent sediment build-up",
+      "To reduce the flow velocity and prevent water hammer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of backflow prevention device offers the highest level of protection (Fluid Category 5) and incorporates two independent check valves with a middle chamber vented to atmosphere?",
+    "options": [
+      "Double check valve assembly (DCV)",
+      "Pressure vacuum breaker (PVB)",
+      "Reduced pressure zone valve (RPZ)",
+      "Pipe interrupter with atmospheric vent"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "When calculating heat loss for a hot water storage vessel to determine the required insulation thickness, which formula correctly expresses the rate of heat loss (Q)?",
+    "options": [
+      "Q = m \u00d7 Cp \u00d7 \u0394T (mass \u00d7 specific heat \u00d7 temperature difference per hour)",
+      "Q = U \u00d7 A \u00d7 \u0394T (overall heat transfer coefficient \u00d7 surface area \u00d7 temperature difference)",
+      "Q = V \u00d7 \u03c1 \u00d7 L (volume \u00d7 density \u00d7 latent heat)",
+      "Q = P \u00d7 t / \u03b7 (power \u00d7 time divided by efficiency)"
+    ],
+    "correctIndex": 1
+  }
+]

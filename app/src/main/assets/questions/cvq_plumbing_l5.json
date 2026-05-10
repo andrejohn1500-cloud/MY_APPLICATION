@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the primary purpose of a pressure reducing valve (PRV) in a plumbing system?",
+    "options": [
+      "To increase water pressure to upper floors",
+      "To reduce and maintain a safe downstream water pressure",
+      "To prevent backflow into the main supply",
+      "To regulate water temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which pipe material is most commonly used for underground water supply lines due to its corrosion resistance and flexibility?",
+    "options": [
+      "Galvanized steel",
+      "Cast iron",
+      "High-density polyethylene (HDPE)",
+      "Copper type K"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A water hammer arrestor is installed to address which common plumbing problem?",
+    "options": [
+      "Low water pressure",
+      "Pipe corrosion",
+      "Hydraulic shock caused by sudden valve closure",
+      "Excessive water temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to plumbing codes, the minimum slope for a 4-inch diameter horizontal drain pipe is:",
+    "options": [
+      "1/8 inch per foot",
+      "1/4 inch per foot",
+      "1/2 inch per foot",
+      "1 inch per foot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of a P-trap in a plumbing drainage system?",
+    "options": [
+      "To increase drainage flow speed",
+      "To hold a water seal that prevents sewer gases from entering the building",
+      "To filter debris from wastewater",
+      "To connect the drain to the vent stack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of valve is best suited for applications requiring precise flow control rather than simple on/off operation?",
+    "options": [
+      "Gate valve",
+      "Globe valve",
+      "Ball valve",
+      "Butterfly valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When soldering copper pipe joints, the correct flux used is:",
+    "options": [
+      "Acid flux",
+      "Petroleum-based flux",
+      "Water-soluble paste flux",
+      "No flux is required"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the term 'fixture unit' (FU) represent in plumbing design?",
+    "options": [
+      "The physical size of a plumbing fixture",
+      "A unit measuring the probable discharge load of a fixture on the drainage system",
+      "The water pressure required at a fixture",
+      "The flow rate in gallons per minute at a fixture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a hot water heating system, what is the purpose of an expansion tank?",
+    "options": [
+      "To store extra hot water for peak demand",
+      "To accommodate the increased volume of water as it heats and expands",
+      "To increase system water pressure",
+      "To separate air from the circulating water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of water heater is considered the most energy-efficient for domestic hot water supply?",
+    "options": [
+      "Electric storage tank water heater",
+      "Gas storage tank water heater",
+      "Tankless (on-demand) water heater",
+      "Oil-fired water heater"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct procedure when performing a hydrostatic pressure test on a new plumbing installation?",
+    "options": [
+      "Fill the system with air at 50 PSI for 15 minutes",
+      "Fill the system with water and pressurize to 1.5 times the working pressure for a specified duration",
+      "Fill the system with water at normal working pressure for 5 minutes",
+      "Pressurize with nitrogen gas to 100 PSI overnight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A backflow preventer is required when a plumbing system is connected to which of the following?",
+    "options": [
+      "A standard residential water closet",
+      "An irrigation system connected to the potable water supply",
+      "A kitchen faucet",
+      "A shower valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following best describes the purpose of venting in a drainage system?",
+    "options": [
+      "To supply fresh air to occupied spaces",
+      "To allow air circulation that maintains trap seals and prevents siphonage",
+      "To increase water pressure in the supply lines",
+      "To remove odors from bathrooms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When sizing a cold water supply pipe, which factor is the MOST critical consideration?",
+    "options": [
+      "The color of the pipe material",
+      "The total fixture unit demand and allowable pressure loss",
+      "The ambient temperature of the installation area",
+      "The age of the existing plumbing system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended maximum temperature setting for a domestic hot water system to prevent scalding while inhibiting Legionella bacterial growth?",
+    "options": [
+      "120\u00b0F (49\u00b0C) storage with tempering valve at point of use",
+      "100\u00b0F (38\u00b0C) throughout the system",
+      "140\u00b0F (60\u00b0C) storage with tempering valve delivering 120\u00b0F (49\u00b0C) at point of use",
+      "160\u00b0F (71\u00b0C) throughout the system"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When sizing a hot water storage cylinder for a commercial installation, which factor is MOST critical in determining the required storage capacity?",
+    "options": [
+      "The colour of the cylinder casing",
+      "The peak hour demand and recovery rate",
+      "The distance from the boiler to the cylinder",
+      "The brand of the thermostat used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a high-rise building plumbing system, pressure-reducing valves (PRVs) are installed primarily to:",
+    "options": [
+      "Increase water velocity in upper floors",
+      "Prevent backflow from lower floors",
+      "Limit excessive water pressure that could damage fixtures and pipework",
+      "Reduce the temperature of hot water at outlets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following best describes the function of a thermostatic mixing valve (TMV3) in a healthcare facility?",
+    "options": [
+      "It boosts water pressure to clinical areas",
+      "It blends hot and cold water to deliver a safe, controlled temperature and shuts off if cold water fails",
+      "It prevents air locks in the pipework system",
+      "It measures the flow rate of water to each ward"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to WRAS regulations, a Type AA air gap is defined as:",
+    "options": [
+      "A submerged inlet with a single check valve",
+      "An unrestricted free discharge above the spillover level of a receptacle",
+      "A pipe interrupter with a moving element",
+      "A verifiable backflow preventer with test points"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A plumber discovers hydrogen sulfide gas in a drainage system. The MOST likely cause is:",
+    "options": [
+      "Excessive water velocity in the drain",
+      "Anaerobic bacterial decomposition of organic matter in the drain",
+      "Chlorine reacting with copper pipework",
+      "High dissolved oxygen content in the wastewater"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under BS EN 12056, the term 'frequency factor' in discharge unit calculations refers to:",
+    "options": [
+      "How often the drainage system is inspected",
+      "The probability that multiple sanitary appliances discharge simultaneously",
+      "The number of pipe joints per metre run",
+      "The frequency of pressure testing required"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When installing a solar thermal system with a twin-coil cylinder, the lower coil is connected to the solar collectors because:",
+    "options": [
+      "It is closer to the drain cock for easy emptying",
+      "Solar energy preheats incoming cold water at the bottom where it is coolest, maximising efficiency",
+      "It prevents the solar fluid from reaching the upper coil",
+      "Lower coils are always made of stainless steel suitable for glycol solutions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A negative pressure situation (siphonage) in a trap is MOST effectively prevented in a multi-storey building by:",
+    "options": [
+      "Using deeper seal traps only",
+      "Installing an air admittance valve or a separate ventilating pipe on the discharge pipe",
+      "Reducing the gradient of the discharge pipe",
+      "Increasing the pipe bore to 50 mm throughout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a pumped heating system, the circulating pump should ideally be positioned:",
+    "options": [
+      "On the return pipe close to the boiler, pumping away from the open vent",
+      "On the flow pipe pumping away from the cold feed and open vent connection point",
+      "On the highest point of the system to prevent cavitation",
+      "Downstream of the expansion vessel on the return pipe"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which British Standard governs the installation of gas-fired central heating boilers in domestic premises in the UK?",
+    "options": [
+      "BS 6700",
+      "BS 7671",
+      "BS 6798",
+      "BS 5440"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The hydraulic gradient in a gravity drainage system is significant because:",
+    "options": [
+      "It determines the colour coding of pipework",
+      "It defines the ratio of head loss to pipe length, affecting self-cleansing velocity",
+      "It specifies the minimum depth of cover over drainage pipes",
+      "It sets the required number of inspection chambers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When pressure testing a new above-ground copper pipework installation using water, the test pressure should be maintained for how long to check for leaks under BS 6700 guidance?",
+    "options": [
+      "5 minutes",
+      "1 hour",
+      "30 minutes",
+      "24 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A plumber is asked to install a backflow prevention device on a fluid category 4 risk. Which device is appropriate?",
+    "options": [
+      "A single check valve (CA type)",
+      "A double check valve assembly (DA type)",
+      "A reduced pressure zone (RPZ) valve",
+      "A pipe interrupter (DB type)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an unvented hot water system, the temperature relief valve (TRV) is set to discharge at:",
+    "options": [
+      "60\u00b0C",
+      "82\u00b0C",
+      "95\u00b0C",
+      "100\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is the correct fall recommended for a 100 mm underground drainage pipe serving a domestic property to achieve self-cleansing velocity?",
+    "options": [
+      "1 in 10",
+      "1 in 40",
+      "1 in 100",
+      "1 in 200"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "When sizing a hot water distribution system using the loading unit method, which factor is MOST critical in determining pipe diameter?",
+    "options": [
+      "The total number of fixtures installed",
+      "The diversity factor applied to simultaneous demand",
+      "The length of the longest pipe run",
+      "The temperature of the hot water supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A booster pump set is required for a high-rise building. Which pump configuration provides the BEST energy efficiency and redundancy?",
+    "options": [
+      "Single large centrifugal pump with bypass valve",
+      "Duplex pump set with alternating duty-standby operation",
+      "Variable speed drive pump set with multiple duty pumps",
+      "Constant pressure pump with pressure relief valve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a thermostatic mixing valve (TMV) installation serving a healthcare facility, the maximum mixed water temperature at the point of use must not exceed:",
+    "options": [
+      "38\u00b0C",
+      "41\u00b0C",
+      "43\u00b0C",
+      "46\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of pipe joint is MOST suitable for underground high-pressure gas distribution mains made of polyethylene pipe?",
+    "options": [
+      "Electrofusion welded joint",
+      "Solvent cement joint",
+      "Compression fitting with insert",
+      "Flanged mechanical joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A primary-secondary pumping arrangement in a hydronic heating system is designed primarily to:",
+    "options": [
+      "Increase system water temperature at the boiler",
+      "Decouple the flow rates of the primary circuit from the secondary circuits",
+      "Reduce the total installed pump capacity",
+      "Eliminate the need for expansion vessels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When conducting a tightness test on a medium-pressure gas installation (above 75 mbar up to 2 bar), the test pressure applied must be:",
+    "options": [
+      "1.1 times the maximum working pressure",
+      "Twice the maximum working pressure",
+      "The maximum working pressure plus 100 mbar",
+      "A minimum of 1.5 times the maximum working pressure for 1 hour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In unvented hot water storage systems, a temperature relief valve (TRV) must be set to discharge at or before the water temperature reaches:",
+    "options": [
+      "82\u00b0C",
+      "90\u00b0C",
+      "95\u00b0C",
+      "99\u00b0C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The phenomenon of water hammer in a plumbing system is BEST mitigated by installing:",
+    "options": [
+      "A pressure reducing valve near the meter",
+      "An air chamber or hydropneumatic shock arrestor at quick-closing valves",
+      "A check valve on the cold water main",
+      "A flow restrictor at each fixture outlet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which British/Caribbean Standard governs the installation of above-ground sanitary pipework (soil and waste systems) for buildings?",
+    "options": [
+      "BS EN 806",
+      "BS EN 12056-2",
+      "BS 8558",
+      "BS EN 1057"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During the commissioning of a solar thermal domestic hot water system, the collector stagnation temperature must be considered because it:",
+    "options": [
+      "Determines the minimum pipe insulation thickness",
+      "Can cause fluid degradation and pressure surges if the system is not properly protected",
+      "Affects the pH balance of the heat transfer fluid",
+      "Defines the maximum permitted roof pitch for panel installation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A backflow prevention device categorised as Fluid Category 4 risk must provide protection equivalent to:",
+    "options": [
+      "A single check valve (CV)",
+      "A double check valve assembly (DCVA)",
+      "A verifiable backflow preventer with reduced pressure zone (RPZ valve)",
+      "An atmospheric break cistern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a pumped condensate return system for a steam installation, the condensate receiver must be vented to atmosphere primarily to:",
+    "options": [
+      "Allow flash steam to escape and prevent pump cavitation",
+      "Maintain a constant condensate temperature of 100\u00b0C",
+      "Increase the efficiency of the steam traps",
+      "Prevent corrosion of the receiver vessel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When calculating the equivalent pipe length for a fitting using the resistance coefficient (K) method, the pressure loss through the fitting is expressed as:",
+    "options": [
+      "\u0394P = K \u00d7 \u03c1 \u00d7 g \u00d7 h",
+      "\u0394P = K \u00d7 (\u03c1v\u00b2/2)",
+      "\u0394P = K \u00d7 Q\u00b2/D\u2074",
+      "\u0394P = K \u00d7 L/D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gravity hot water central heating system (open vented) exhibits persistent air locking in upstairs radiators. The MOST likely cause is:",
+    "options": [
+      "Oversized feed and expansion cistern",
+      "Insufficient water velocity in the flow pipe due to inadequate pump head",
+      "Incorrect polarity of the circulating pump installation",
+      "Excessive system pressure caused by a faulty pressure reducing valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Under COSHH regulations applicable to plumbing works, before using flux and solder in a confined space, the MOST important control measure is to:",
+    "options": [
+      "Wear standard cotton overalls and safety boots",
+      "Carry out a risk assessment and provide adequate local exhaust ventilation (LEV) to control fume exposure",
+      "Apply barrier cream to exposed skin surfaces only",
+      "Ensure a fire extinguisher is within 5 metres of the work area"
+    ],
+    "correctIndex": 1
+  }
+]
