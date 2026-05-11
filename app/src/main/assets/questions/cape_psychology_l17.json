@@ -1,152 +1,152 @@
 [
   {
-    "question": "According to the biopsychosocial model, which combination of factors best explains the etiology of schizophrenia?",
+    "question": "The biopsychosocial model of mental illness, as proposed by Engel, emphasizes the interplay between biological, psychological, and social factors in the development of mental illness. Which of the following is a key feature of this model?",
     "options": [
-      "Genetic predisposition, neurochemical imbalances, and psychosocial stressors",
-      "Exclusively dopaminergic excess in the mesolimbic pathway",
-      "Childhood trauma and learned helplessness alone",
-      "Cortical atrophy resulting solely from environmental toxins"
+      "exclusion of social and psychological factors in favor of biological explanations",
+      "ignoring the role of genetics in the development of mental illness",
+      "emphasis on the role of a single causal factor in mental illness",
+      "recognition of the complex interplay between factors in mental illness"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the theory of attachment, which of the following is a secure attachment style?",
+    "options": [
+      "avoidant attachment style characterized by avoidance and distance",
+      "disorganized-disoriented attachment style characterized by trauma and neglect",
+      "anxious-preoccupied attachment style characterized by anxiety and clinginess",
+      "secure attachment style characterized by trust and intimacy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the theory of self-perception, which of the following is a cognitive process that contributes to the development of attitudes and behavior?",
+    "options": [
+      "observation and interpretation of one's own behavior and thoughts",
+      "social influence and conformity to social norms",
+      "cognitive appraisals and reappraisal of stressful events",
+      "activation of the amygdala to process emotional information"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In Milgram's obedience studies, which condition produced the LOWEST rates of obedience to authority?",
+    "question": "In terms of research methods, which of the following is a limitation of the experimental method?",
     "options": [
-      "Remote authority condition where experimenter gave instructions by telephone",
-      "Touch proximity condition where participant physically held victim's hand",
-      "Voice feedback condition where victim's protests were audible",
-      "Experimenter absent but instructions delivered in person initially"
+      "ability to establish causality between variables",
+      "cost-effectiveness and efficiency in data collection",
+      "increased precision and accuracy of results",
+      "lack of external validity and generalizability to real-world settings"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In terms of research methods, which of the following is a limitation of the experimental method?",
+    "options": [
+      "increased precision and accuracy of results",
+      "lack of external validity and generalizability to real-world settings",
+      "ability to establish causality between variables",
+      "cost-effectiveness and efficiency in data collection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to social identity theory, which of the following is a consequence of categorizing oneself into a social group?",
+    "options": [
+      "increased critical thinking and open-mindedness",
+      "reduced sense of belonging and group cohesion",
+      "decreased self-esteem and group identification",
+      "enhanced self-esteem and group loyalty"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the theory of cognitive dissonance, which of the following is a consequence of holding two incompatible attitudes or beliefs?",
+    "options": [
+      "enhanced critical thinking and open-mindedness",
+      "activation of the amygdala to process emotional information",
+      "motivation to reduce dissonance through attitude change or rationalization",
+      "increased sense of self-efficacy and confidence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The biopsychosocial model of mental illness emphasizes the importance of biological factors in the development of mental illness. Which of the following is a biological factor that contributes to the development of anxiety disorders?",
+    "options": [
+      "social learning as a primary mechanism of anxiety acquisition",
+      "genetic predisposition to anxiety",
+      "exposure to traumatic events as the sole cause of anxiety disorders",
+      "neurotransmitter imbalance as the sole cause of anxiety symptoms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In terms of research methods, which of the following is a limitation of the case study method?",
+    "options": [
+      "increased precision and accuracy of results",
+      "ability to establish causality between variables",
+      "cost-effectiveness and efficiency in data collection",
+      "lack of generalizability to the larger population"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to Caribbean culture-bound syndrome, what is a cultural pattern of psychological distress that is specific to the Caribbean region?",
+    "options": [
+      "culture-bound syndrome or folie \u00e0 culture",
+      "mass hysteria or mass psychogenic illness",
+      "cultural pattern of depression known as 'sorrow'",
+      "ouanga or obeah possession syndrome"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In terms of Piaget's theory of cognitive development, what is the stage of development characterized by the acquisition of logical and abstract thinking?",
+    "options": [
+      "preoperational stage",
+      "sensorimotor stage",
+      "formal operations",
+      "concrete operations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the theory of self-perception, which of the following is a cognitive process that contributes to the development of attitudes and behavior?",
+    "options": [
+      "social influence and conformity to social norms",
+      "activation of the amygdala to process emotional information",
+      "observation and interpretation of one's own behavior and thoughts",
+      "cognitive appraisals and reappraisal of stressful events"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The diathesis-stress model of mental illness suggests that mental illness results from the interaction between a predisposing factor (diathesis) and an environmental stressor. Which of the following is a predisposing factor for mental illness?",
+    "options": [
+      "genetic predisposition",
+      "exposure to traumatic events as the sole cause of mental illness",
+      "neurotransmitter imbalance as the sole cause of mental illness",
+      "social learning as a primary mechanism of mental illness"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which theoretical framework underpins the use of cognitive restructuring in Cognitive Behavioural Therapy for depression?",
+    "question": "According to the stress-diathesis model, which of the following is a factor that contributes to the development of anxiety disorders?",
     "options": [
-      "Beck's cognitive triad and the role of maladaptive schemas",
-      "Skinner's operant conditioning and negative reinforcement schedules",
-      "Freud's concept of repression and unconscious conflict resolution",
-      "Bandura's reciprocal determinism without reference to internal cognitions"
+      "social learning as a primary mechanism of anxiety acquisition",
+      "exposure to traumatic events as the sole cause of anxiety disorders",
+      "a genetic predisposition to anxiety",
+      "neurotransmitter imbalance as the sole cause of anxiety symptoms"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The concept of 'insecure-disorganised' attachment, identified by Main and Solomon, is most strongly associated with which developmental outcome?",
+    "question": "The biopsychosocial model of mental illness emphasizes the importance of biological factors in the development of mental illness. Which of the following is a biological factor that contributes to the development of anxiety disorders?",
     "options": [
-      "Elevated risk of dissociative disorders and borderline personality features in adulthood",
-      "Secure exploration behaviour and positive peer relationships in middle childhood",
-      "Anxious-resistant patterns exclusively during the Strange Situation procedure",
-      "Avoidant coping strategies that normalise in adolescence"
+      "exposure to traumatic events as the sole cause of anxiety disorders",
+      "social learning as a primary mechanism of anxiety acquisition",
+      "neurotransmitter imbalance as the sole cause of anxiety symptoms",
+      "genetic predisposition to anxiety"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A researcher measures cortisol levels in participants before and after a stressful cognitive task. This design most directly tests which psychophysiological concept?",
-    "options": [
-      "The hypothalamic-pituitary-adrenal axis response to acute psychological stress",
-      "The sympatho-adrenal medullary response to chronic stressors only",
-      "Parasympathetic rebound following sympathetic activation",
-      "Neuroplasticity induced by repeated exposure to identical stimuli"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which criticism is MOST methodologically valid when evaluating Zimbardo's Stanford Prison Experiment?",
-    "options": [
-      "Lack of random assignment to conditions and significant demand characteristics due to role scripting",
-      "The sample was too large to permit meaningful qualitative analysis of guard behaviour",
-      "Informed consent was obtained rendering ethical evaluation unnecessary",
-      "The study lacked ecological validity because prisons do not exist in real life"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In signal detection theory, a participant who consistently sets a very lenient response criterion would be characterised by which pattern?",
-    "options": [
-      "High hit rate accompanied by a high false alarm rate",
-      "Low hit rate with a correspondingly low false alarm rate",
-      "Perfect discrimination between signal and noise",
-      "High d-prime with no corresponding change in beta"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Erikson's stage of 'Intimacy vs. Isolation' is most accurately associated with which developmental period and psychosocial task?",
-    "options": [
-      "Early adulthood requiring the formation of deep reciprocal relationships to avoid emotional withdrawal",
-      "Adolescence requiring identity consolidation before role diffusion sets in",
-      "Middle adulthood focused on contributing productively to society and the next generation",
-      "Late adulthood requiring life review to achieve ego integrity over despair"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which neurotransmitter system is PRIMARILY implicated in the anxiolytic effects of benzodiazepines?",
-    "options": [
-      "GABAergic system via positive allosteric modulation of GABA-A receptors",
-      "Serotonergic system through selective reuptake inhibition at 5-HT synapses",
-      "Dopaminergic system through D2 receptor antagonism in the limbic region",
-      "Noradrenergic system via alpha-2 autoreceptor stimulation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "According to Lazarus and Folkman's transactional model of stress, secondary appraisal refers to which cognitive evaluation?",
-    "options": [
-      "An individual's assessment of available coping resources relative to the demands of the stressor",
-      "The initial perception of whether a situation poses a threat, harm, or challenge",
-      "Reappraisal following feedback that coping strategies have been implemented",
-      "Social comparison processes used to evaluate one's stress response against peer norms"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In research methodology, a Type II error in hypothesis testing occurs when a researcher does which of the following?",
-    "options": [
-      "Fails to reject a null hypothesis that is actually false",
-      "Rejects a null hypothesis that is actually true",
-      "Uses an inappropriately small alpha level inflating the probability of false positives",
-      "Reports a statistically significant result without calculating effect size"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which aspect of Bowlby's attachment theory represents the most significant departure from earlier psychoanalytic and behaviourist explanations of infant-caregiver bonding?",
-    "options": [
-      "The proposition that attachment is an evolved biologically based motivational system independent of feeding",
-      "The claim that the oral stage determines the quality of all subsequent relationships",
-      "The emphasis on conditioned emotional responses formed through classical conditioning with the caregiver",
-      "The assertion that all infants inevitably develop insecure attachments if not breast-fed"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The bystander effect, as demonstrated by Darley and Latan\u00e9, is best explained by which two psychological processes operating simultaneously?",
-    "options": [
-      "Diffusion of responsibility and pluralistic ignorance",
-      "Conformity to majority norms and obedience to implicit authority",
-      "Deindividuation and social loafing reducing individual accountability",
-      "Cognitive dissonance and self-serving attribution biases"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A meta-analysis examining antidepressant efficacy finds a statistically significant effect but a Cohen's d of 0.20. Which conclusion is MOST appropriately drawn?",
-    "options": [
-      "The effect, while statistically significant, is of small practical magnitude and clinical significance should be evaluated separately",
-      "The treatment is definitively effective and should be universally prescribed given statistical significance",
-      "A d of 0.20 confirms large effect size and justifies replacing psychotherapy entirely",
-      "Statistical significance and effect size are equivalent metrics making further interpretation redundant"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which feature BEST distinguishes Posttraumatic Stress Disorder from Acute Stress Disorder according to DSM-5 criteria?",
-    "options": [
-      "PTSD requires symptom persistence beyond one month whereas Acute Stress Disorder resolves within that period",
-      "Acute Stress Disorder must include psychotic features whereas PTSD does not",
-      "PTSD can only be diagnosed following combat trauma while Acute Stress Disorder applies to any trauma",
-      "Acute Stress Disorder requires a longer duration of hyperarousal symptoms than PTSD"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

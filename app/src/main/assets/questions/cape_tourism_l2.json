@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which international organization is primarily responsible for promoting sustainable tourism worldwide?",
+    "question": "Which of the following is a benefit of heritage tourism?",
     "options": [
-      "World Tourism Organization (UNWTO)",
-      "International Monetary Fund (IMF)",
-      "World Health Organization (WHO)",
-      "United Nations Children's Fund (UNICEF)"
+      "It can result in the displacement of local communities",
+      "It can promote cultural understanding and appreciation among tourists and local communities.",
+      "It can lead to the degradation of cultural heritage sites through over-tourism",
+      "It can reduce the number of tourists visiting a destination and decrease revenue for local economies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a tourist?",
+    "options": [
+      "A person who lives in a destination permanently",
+      "A person who is a resident of a destination for more than 6 months",
+      "A person who works in a destination temporarily",
+      "A person who travels to a destination for leisure, business, or other purposes."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the definition of cruise tourism?",
+    "options": [
+      "Tourism that involves the use of trains to travel to and from destinations",
+      "Tourism that involves the use of airplanes to travel to and from destinations",
+      "Tourism that involves the use of cruise ships to travel to and from destinations.",
+      "Tourism that involves the use of buses to travel to and from destinations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary focus of the Tourism Product Development Unit (TPDU)?",
+    "options": [
+      "To promote sustainable tourism practices in the Caribbean",
+      "To coordinate international marketing efforts for the Caribbean region",
+      "To develop and improve the tourism product in the Caribbean region.",
+      "To manage the financial resources of the Ministry of Tourism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a benefit of ecotourism?",
+    "options": [
+      "It can result in the displacement of local communities",
+      "It can lead to the degradation of the environment through pollution and waste management issues",
+      "It can promote environmental conservation and sustainability through responsible tourism practices.",
+      "It can reduce the number of tourists visiting a destination and decrease revenue for local economies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the definition of ecotourism?",
+    "options": [
+      "A style of tourism that prioritizes luxury and exclusivity",
+      "A type of tourism that focuses on cultural heritage sites",
+      "A form of tourism that emphasizes adventure activities",
+      "Responsible travel to natural areas that conserves the environment, sustains the well-being of local people, and involves interpretation and education."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of heritage tourism?",
+    "options": [
+      "It can promote cultural understanding and appreciation among tourists and local communities.",
+      "It can result in the displacement of local communities",
+      "It can reduce the number of tourists visiting a destination and decrease revenue for local economies",
+      "It can lead to the degradation of cultural heritage sites through over-tourism"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the term 'ecotourism' primarily refer to?",
+    "question": "Which of the following is a benefit of ecotourism?",
     "options": [
-      "Tourism focused on shopping and entertainment",
-      "Responsible travel to natural areas that conserves the environment",
-      "Tourism involving extreme sports",
-      "Travel to urban areas for business purposes"
+      "It can reduce the number of tourists visiting a destination and decrease revenue for local economies",
+      "It can lead to the degradation of the environment through pollution and waste management issues",
+      "It can result in the displacement of local communities",
+      "It can promote environmental conservation and sustainability through responsible tourism practices."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is considered a 'pull factor' in tourism?",
+    "question": "What is the role of the Caribbean Community and Common Market (CARICOM) in tourism?",
     "options": [
-      "Political instability in the home country",
-      "Attractive beaches and pleasant climate at the destination",
-      "High cost of living at home",
-      "Overcrowding in the tourist's home city"
+      "To establish standards for tourism services in the Caribbean",
+      "To coordinate international marketing efforts for the Caribbean region",
+      "To provide financial assistance to individual countries",
+      "To promote the development of sustainable tourism in the Caribbean region and to support the growth of the tourism industry."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the Caribbean Tourism Organization (CTO) mainly responsible for?",
+    "question": "Which of the following is a type of tourism that focuses on cultural activities?",
     "options": [
-      "Managing airline routes in the Caribbean",
-      "Promoting the sustainable development of Caribbean tourism",
-      "Controlling immigration policies in the Caribbean",
-      "Regulating hotel prices across Caribbean islands"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tourism involves visitors traveling to their country of ancestry?",
-    "options": [
-      "Medical tourism",
       "Heritage tourism",
-      "Dark tourism",
+      "Ecotourism",
+      "Cultural tourism.",
       "Adventure tourism"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is a 'tourist' as defined by the UNWTO?",
+    "question": "Which of the following is a type of tourism that focuses on the natural environment?",
     "options": [
-      "A person who travels within their own country only",
-      "A visitor who stays at least one night in a place outside their usual environment",
-      "A person who travels daily for work purposes",
-      "Any person using public transportation"
+      "Adventure tourism",
+      "Ecotourism.",
+      "Cultural tourism",
+      "Heritage tourism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes the tourism 'multiplier effect'?",
+    "question": "Which of the following is a type of tourism that focuses on adventure activities?",
     "options": [
-      "The decrease in tourism revenue during off-peak seasons",
-      "The way tourism spending circulates through an economy creating additional income",
-      "The increase in the number of tourists each year",
-      "The impact of natural disasters on tourism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is meant by 'sustainable tourism'?",
-    "options": [
-      "Tourism that only operates during summer months",
-      "Tourism that meets current needs without compromising future generations' ability to meet their needs",
-      "Tourism that is exclusively for wealthy travelers",
-      "Tourism that relies only on air travel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a primary tourist attraction?",
-    "options": [
-      "A souvenir shop",
-      "The Pitons in Saint Lucia",
-      "An airport terminal",
-      "A cruise ship port"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'carrying capacity' mean in the context of tourism?",
-    "options": [
-      "The number of bags tourists are allowed on a flight",
-      "The maximum number of visitors a destination can accommodate without negative impact",
-      "The total revenue earned by a destination annually",
-      "The number of hotel rooms available at a resort"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sector of tourism is responsible for transporting tourists from one place to another?",
-    "options": [
-      "Accommodation sector",
-      "Attractions sector",
-      "Transportation sector",
-      "Food and beverage sector"
+      "Cultural tourism",
+      "Heritage tourism",
+      "Adventure tourism.",
+      "Ecotourism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 'dark tourism'?",
+    "question": "Which of the following is a type of tourism that focuses on cultural heritage sites?",
     "options": [
-      "Tourism that takes place only at night",
-      "Travel to sites associated with tragedy, death, or historical atrocities",
-      "Tourism in poorly lit destinations",
-      "Eco-friendly tourism practices"
+      "Adventure tourism",
+      "Ecotourism",
+      "Cruise tourism",
+      "Heritage tourism."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a negative socio-cultural impact of tourism?",
+    "question": "Which of the following is a benefit of cruise tourism?",
     "options": [
-      "Preservation of local heritage",
-      "Increased employment opportunities",
-      "Demonstration effect leading to cultural erosion",
-      "Improved infrastructure for residents"
+      "It can result in the displacement of local communities",
+      "It can reduce the demand for local accommodations and services",
+      "It can lead to the degradation of the environment through pollution and waste management issues",
+      "It can provide economic benefits to destinations through passenger and crew expenditures."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the definition of sustainable tourism?",
+    "options": [
+      "Tourism that is developed and managed in a way that has minimal impact on the environment",
+      "Tourism that is developed and managed in a way that prioritizes profit over people and the environment",
+      "Tourism that is developed and managed in a way that meets the needs of present tourists and host regions while protecting and enhancing the environment for future generations.",
+      "Tourism that is developed and managed in a way that ignores the needs of local communities"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a tourism feasibility study?",
-    "options": [
-      "To train tourism workers",
-      "To determine whether a tourism project is viable and profitable",
-      "To create marketing campaigns for destinations",
-      "To set airline ticket prices"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'all-inclusive' resorts?",
-    "options": [
-      "Resorts that offer only accommodation with no meals",
-      "Resorts where one price covers accommodation, meals, drinks, and most activities",
-      "Resorts located only on beaches",
-      "Resorts exclusively for business travelers"
-    ],
-    "correctIndex": 1
   }
 ]

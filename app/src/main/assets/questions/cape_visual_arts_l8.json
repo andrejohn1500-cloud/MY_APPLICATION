@@ -1,152 +1,102 @@
 [
   {
-    "question": "Which element of art refers to the perceived surface quality of a artwork?",
+    "question": "Who is the Cuban artist known for his mixed-media installations and performances?",
     "options": [
-      "A. Color",
-      "B. Texture",
-      "C. Space",
-      "D. Value"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In color theory, what are complementary colors?",
-    "options": [
-      "A. Colors that are adjacent on the color wheel",
-      "B. Colors that are all derived from one primary color",
-      "C. Colors that are directly opposite each other on the color wheel",
-      "D. Colors that share the same hue but differ in saturation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which printmaking technique involves carving an image into a flat stone or metal plate and using the principle that oil and water repel each other?",
-    "options": [
-      "A. Etching",
-      "B. Screen printing",
-      "C. Lithography",
-      "D. Woodcut"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'chiaroscuro' in visual arts refers to:",
-    "options": [
-      "A. The use of bright, saturated colors",
-      "B. The contrast between light and dark to create a sense of volume",
-      "C. A technique of applying paint in thick impasto strokes",
-      "D. The arrangement of figures in a triangular composition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which art movement, originating in the early 20th century, is characterized by the fragmentation of objects into geometric shapes and the depiction of multiple viewpoints simultaneously?",
-    "options": [
-      "A. Surrealism",
-      "B. Impressionism",
-      "C. Cubism",
-      "D. Expressionism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a 'golden ratio' in art and design?",
-    "options": [
-      "A. To determine the appropriate mixing ratios for paint pigments",
-      "B. To create aesthetically pleasing proportions and compositions",
-      "C. To measure the monetary value of an artwork",
-      "D. To calculate the correct perspective vanishing points"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In ceramics, what is the term for the process of firing clay at high temperatures to make it hard and durable?",
-    "options": [
-      "A. Glazing",
-      "B. Wedging",
-      "C. Bisque firing",
-      "D. Sintering"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the technique of 'impasto' in painting?",
-    "options": [
-      "A. Applying thin, transparent layers of paint",
-      "B. Applying thick, textured paint that retains brush or palette knife marks",
-      "C. Blending colors directly on the canvas without visible brushstrokes",
-      "D. Using diluted paint to create a watercolor effect with oil paints"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The principle of 'rhythm' in visual art is most closely associated with:",
-    "options": [
-      "A. The equal distribution of visual weight across a composition",
-      "B. The use of a single dominant focal point",
-      "C. A regular repetition of elements that creates a sense of movement",
-      "D. The gradual change in color from warm to cool tones"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which Caribbean artist is widely recognized for his paintings that explore themes of Caribbean identity, mythology, and postcolonialism?",
-    "options": [
-      "A. Wifredo Lam",
-      "B. Diego Rivera",
-      "C. Frida Kahlo",
-      "D. Jean-Michel Basquiat"
+      "Tania Bruguera",
+      "Mar\u00eda Magdalena Campos Pons",
+      "Los Carpinteros",
+      "Kcho"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In photography, what does a wider aperture (lower f-stop number) primarily affect?",
+    "question": "Who is the artist behind the painting 'The Persistence of Memory' (1931)?",
     "options": [
-      "A. It increases the overall sharpness of the entire image",
-      "B. It creates a shallower depth of field, blurring the background",
-      "C. It slows the shutter speed to capture motion blur",
-      "D. It increases the ISO sensitivity of the sensor"
+      "Salvador Dal\u00ed",
+      "Francis Bacon",
+      "Pablo Picasso",
+      "Henri Matisse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the principle of balance that involves the equal weight of visual elements on either side of a composition?",
+    "options": [
+      "Radial Balance",
+      "Symmetry",
+      "Asymmetry",
+      "Horizontal Balance"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'negative space' in a composition?",
+    "question": "Which art movement emerged in France in the late 19th century, characterized by its emphasis on light and color?",
     "options": [
-      "A. The area occupied by the main subject of the artwork",
-      "B. The use of dark, moody colors to convey negative emotions",
-      "C. The empty or background space surrounding the main subject",
-      "D. A space that has been deliberately left unpainted as a mistake"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of an additive color mixing process?",
-    "options": [
-      "A. Mixing red and blue paint to make purple",
-      "B. Combining cyan, magenta, and yellow inks in printing",
-      "C. Combining red, green, and blue light to produce white light",
-      "D. Mixing pigments to create a neutral gray"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In art history, the term 'tenebrism' is most closely associated with which artist?",
-    "options": [
-      "A. Claude Monet",
-      "B. Caravaggio",
-      "C. Salvador Dal\u00ed",
-      "D. Pablo Picasso"
+      "Fauvism",
+      "Impressionism",
+      "Pointillism",
+      "Cubism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which design principle ensures that all parts of an artwork feel complete and that elements relate well to one another to form a unified whole?",
+    "question": "Who is the Trinidadian artist known for his paintings and prints of Caribbean landscapes and people?",
     "options": [
-      "A. Emphasis",
-      "B. Contrast",
-      "C. Unity",
-      "D. Proportion"
+      "Hilton Dias",
+      "Nigel Cox",
+      "Malcolm de Sousa",
+      "Everton Codrington"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which art movement emerged in the 1960s, characterized by its use of conceptual or intellectual ideas?",
+    "options": [
+      "Conceptual Art",
+      "Minimalism",
+      "Assemblage",
+      "Pop Art"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean country is home to the famous Calabash Gallery?",
+    "options": [
+      "Jamaica",
+      "Barbados",
+      "Grenada",
+      "Trinidad and Tobago"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of printmaking involves applying ink to a design on a plate, then transferring it to paper?",
+    "options": [
+      "Monotype",
+      "Screen Printing",
+      "Intaglio",
+      "Lithography"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which art movement is characterized by its use of bold colors and geometric shapes?",
+    "options": [
+      "Cubism",
+      "Surrealism",
+      "Abstract Expressionism",
+      "Fauvism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of printmaking involves applying ink to a design on a screen, then transferring it to paper?",
+    "options": [
+      "Intaglio",
+      "Screen Printing",
+      "Lithography",
+      "Monotype"
+    ],
+    "correctIndex": 1
   }
 ]

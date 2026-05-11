@@ -1,152 +1,41 @@
 [
   {
-    "question": "Which research method involves the researcher observing participants in their natural environment without interfering?",
+    "question": "Which social psychology phenomenon occurs when individuals feel a sense of belonging and identity with a group?",
     "options": [
-      "Laboratory experiment",
-      "Naturalistic observation",
-      "Case study",
-      "Structured interview"
+      "Interpersonal attraction",
+      "Group membership",
+      "Social identity theory",
+      "Social influence"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the tendency to attribute one's own behavior to situational factors while attributing others' behavior to dispositional factors?",
+    "question": "According to Piaget's theory of cognitive development, what stage is characterized by the use of symbols and language to represent the world?",
     "options": [
-      "Self-serving bias",
-      "Fundamental attribution error",
-      "Actor-observer bias",
-      "Halo effect"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the brain is primarily responsible for processing emotions, particularly fear?",
-    "options": [
-      "Hippocampus",
-      "Cerebellum",
-      "Amygdala",
-      "Frontal lobe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In classical conditioning, what is the term for the learned response to a previously neutral stimulus?",
-    "options": [
-      "Unconditioned response",
-      "Conditioned response",
-      "Conditioned stimulus",
-      "Unconditioned stimulus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which psychologist is best known for developing the hierarchy of needs?",
-    "options": [
-      "Carl Rogers",
-      "Sigmund Freud",
-      "Abraham Maslow",
-      "B.F. Skinner"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'reliability' mean in psychological research?",
-    "options": [
-      "The study measures what it claims to measure",
-      "The results can be generalized to other populations",
-      "The study produces consistent results when repeated",
-      "The participants gave informed consent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a positive reinforcement?",
-    "options": [
-      "Giving a child a treat for completing homework",
-      "Removing a chore when a child behaves well",
-      "Scolding a child for misbehaving",
-      "Ignoring a child's bad behavior"
+      "Stage 4 (Formal Operational Stage)",
+      "Stage 2 (Preoperational Stage)",
+      "Stage 3 (Concrete Operational Stage)",
+      "Stage 1 (Sensorimotor Stage)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the definition of a null hypothesis?",
+    "question": "Which cognitive psychology theory suggests that our memories are constructed through our experiences and perceptions?",
     "options": [
-      "A prediction that there will be a significant difference between variables",
-      "A statement that there is no relationship or difference between variables",
-      "A hypothesis based on previous research",
-      "A hypothesis that cannot be tested"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "Which stage of Piaget's cognitive development theory involves the development of object permanence?",
-    "options": [
-      "Preoperational",
-      "Concrete operational",
-      "Formal operational",
-      "Sensorimotor"
-    ],
-    "correctIndex": 3,
-    "question": "Which stage of Piaget's cognitive development theory involves the development of object permanence?"
-  },
-  {
-    "question": "Which type of memory stores information for a very brief period, such as a few seconds?",
-    "options": [
-      "Long-term memory",
-      "Short-term memory",
-      "Sensory memory",
-      "Episodic memory"
+      "Cognitive map theory",
+      "Memory consolidation",
+      "Constructivist theory",
+      "Schema theory"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the main focus of the humanistic approach in psychology?",
+    "question": "Which social psychology phenomenon occurs when individuals experience a sense of belonging and identity with a group?",
     "options": [
-      "Unconscious processes and childhood experiences",
-      "Observable behavior and environmental stimuli",
-      "Personal growth, free will, and self-actualization",
-      "Biological factors and genetics"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which research design compares two or more groups of different participants at the same point in time?",
-    "options": [
-      "Longitudinal study",
-      "Cross-sectional study",
-      "Case study",
-      "Cohort study"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Freud's theory of personality, which component operates on the pleasure principle?",
-    "options": [
-      "Superego",
-      "Ego",
-      "Preconscious",
-      "Id"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a measure of central tendency?",
-    "options": [
-      "Range",
-      "Standard deviation",
-      "Median",
-      "Variance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What ethical principle ensures that participants are told the true nature of a study after it is completed?",
-    "options": [
-      "Informed consent",
-      "Confidentiality",
-      "Debriefing",
-      "Right to withdraw"
+      "Social influence",
+      "Group membership",
+      "Social identity theory",
+      "Interpersonal attraction"
     ],
     "correctIndex": 2
   }

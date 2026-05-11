@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which research method involves the researcher manipulating an independent variable to observe its effect on a dependent variable?",
+    "question": "Which personality theory suggests that our behavior is determined by our unconscious thoughts and feelings?",
     "options": [
-      "Case study",
-      "Survey",
-      "Experiment",
-      "Observation"
+      "Psychoanalytic theory",
+      "Biological determinism",
+      "Humanistic theory",
+      "Behavioral theory"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean psychology concept refers to the importance of considering the historical and cultural context of mental health?",
+    "options": [
+      "Cultural relativity",
+      "Cultural sensitivity",
+      "Cultural universality",
+      "Historical context"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which social psychology phenomenon occurs when individuals are influenced by the opinions and behaviors of others?",
+    "options": [
+      "Interpersonal attraction",
+      "Social identity theory",
+      "Social influence",
+      "Group membership"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In Piaget's theory of cognitive development, what term describes the process of incorporating new information into existing schemas?",
+    "question": "What is the term for a type of research study that involves collecting data from a single individual?",
     "options": [
-      "Accommodation",
-      "Equilibration",
-      "Assimilation",
-      "Adaptation"
+      "Survey research",
+      "Naturalistic observation",
+      "Experimental design",
+      "Case study"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which part of the brain is primarily responsible for regulating emotions and is often called the emotional centre?",
+    "question": "Which social psychology phenomenon occurs when individuals are influenced by the opinions and behaviors of others?",
     "options": [
-      "Cerebellum",
-      "Amygdala",
-      "Frontal lobe",
-      "Hippocampus"
+      "Interpersonal attraction",
+      "Group membership",
+      "Social identity theory",
+      "Social influence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the hypothalamus in the brain?",
+    "options": [
+      "Learning and problem-solving",
+      "Regulation of body temperature and hunger",
+      "Memory storage",
+      "Emotional processing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of memory stores information for a very brief period, typically less than a second?",
+    "question": "What is the term for a mental health professional who assesses and treats individuals with mental health disorders?",
     "options": [
-      "Long-term memory",
-      "Short-term memory",
-      "Sensory memory",
-      "Working memory"
+      "Social worker",
+      "Counselor",
+      "Psychiatrist",
+      "Clinical psychologist"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "According to Maslow's hierarchy of needs, which need must be satisfied first?",
+    "question": "What is the term for a mental disorder characterized by a persistent pattern of excessive and intrusive thoughts?",
     "options": [
-      "Esteem needs",
-      "Safety needs",
-      "Physiological needs",
-      "Love and belonging"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which psychologist is associated with the theory of classical conditioning?",
-    "options": [
-      "B.F. Skinner",
-      "Albert Bandura",
-      "Ivan Pavlov",
-      "Sigmund Freud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'reliability' mean in psychological research?",
-    "options": [
-      "The study measures what it claims to measure",
-      "The results can be generalised to other populations",
-      "The study produces consistent results when repeated",
-      "The study is free from researcher bias"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a neurotransmitter?",
-    "options": [
-      "Cortisol",
-      "Dopamine",
-      "Insulin",
-      "Testosterone"
+      "Depression",
+      "Obsessive-compulsive disorder",
+      "Anxiety disorder",
+      "Post-traumatic stress disorder"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In operant conditioning, what is the term for removing an unpleasant stimulus to increase a behaviour?",
+    "question": "What is the name of the research method that involves collecting data from a small group of individuals?",
     "options": [
-      "Positive reinforcement",
-      "Punishment",
-      "Negative reinforcement",
-      "Extinction"
+      "Naturalistic observation",
+      "Experimental design",
+      "Survey research",
+      "Case study"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which stage of Freud's psychosexual development is associated with the Oedipus complex?",
+    "question": "What is the term for a mental disorder characterized by a persistent pattern of excessive and intrusive thoughts?",
     "options": [
-      "Oral stage",
-      "Anal stage",
-      "Phallic stage",
-      "Latency stage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main characteristic of a longitudinal research design?",
-    "options": [
-      "It studies different age groups at one point in time",
-      "It follows the same participants over a period of time",
-      "It uses only experimental methods",
-      "It relies solely on self-report data"
+      "Anxiety disorder",
+      "Obsessive-compulsive disorder",
+      "Post-traumatic stress disorder",
+      "Depression"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which defence mechanism involves attributing one's own unacceptable thoughts or feelings to another person?",
+    "question": "Which Caribbean psychology concept refers to the importance of considering cultural and social factors in mental health?",
     "options": [
-      "Repression",
-      "Denial",
-      "Projection",
-      "Rationalisation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to the DSM, what is the minimum number of weeks depressive symptoms must be present for a diagnosis of Major Depressive Disorder?",
-    "options": [
-      "One week",
-      "Two weeks",
-      "Four weeks",
-      "Six weeks"
+      "Cultural universality",
+      "Cultural sensitivity",
+      "Cultural determinism",
+      "Cultural relativity"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which approach in psychology emphasises the importance of free will and individual potential for growth?",
+    "question": "Which personality theory suggests that our behavior is determined by our unconscious thoughts and feelings?",
     "options": [
-      "Behaviourist approach",
-      "Biological approach",
-      "Humanistic approach",
-      "Psychodynamic approach"
+      "Psychoanalytic theory",
+      "Biological determinism",
+      "Humanistic theory",
+      "Behavioral theory"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is a placebo in psychological research?",
+    "question": "What is the term for a child's ability to think logically and make rational decisions?",
     "options": [
-      "An independent variable manipulated by the researcher",
-      "An inactive treatment given to control group participants",
-      "A measure used to assess the dependent variable",
-      "A technique to reduce demand characteristics"
+      "Social skills development",
+      "Language acquisition",
+      "Emotional intelligence",
+      "Cognitive development"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Caribbean psychology concept refers to the importance of considering cultural and social factors in mental health?",
+    "options": [
+      "Cultural universalism",
+      "Cultural relativism",
+      "Cultural determinism",
+      "Cultural sensitivity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a mental disorder characterized by a persistent pattern of negative thoughts and behaviors?",
+    "options": [
+      "Anxiety disorder",
+      "Schizophrenia",
+      "Depression",
+      "Bipolar disorder"
+    ],
+    "correctIndex": 2
   }
 ]

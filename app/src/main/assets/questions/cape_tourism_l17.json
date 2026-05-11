@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which concept best describes the phenomenon where tourism development in one destination negatively affects the competitive position of a nearby destination?",
+    "question": "What is the primary difference between a tourist and a traveler according to the World Tourism Organization (UNWTO)?",
+    "options": [
+      "A tourist is primarily motivated by business, while a traveler is motivated by leisure",
+      "A tourist is primarily motivated by leisure, while a traveler is motivated by a desire for experience and personal growth.",
+      "A tourist is primarily motivated by culture, while a traveler is motivated by nature",
+      "A tourist is primarily motivated by adventure, while a traveler is motivated by relaxation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the practice of managing tourist attractions and experiences to create a memorable and engaging experience for visitors?",
+    "options": [
+      "Experience marketing",
+      "Experience management",
+      "Experience economy",
+      "Experience design"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of evaluating the potential impacts of tourism on a community or environment through statistical analysis?",
+    "options": [
+      "Economic analysis",
+      "Statistical analysis",
+      "Social analysis",
+      "Environmental analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of developing and implementing policies to manage tourism development in a region?",
+    "options": [
+      "National tourism policy development",
+      "International tourism policy development",
+      "Regional tourism policy development",
+      "Global tourism policy development"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the practice of managing tourism development to minimize negative impacts on the environment and culture of host destinations?",
+    "options": [
+      "Responsible tourism management",
+      "Responsible travel management",
+      "Responsible hospitality management",
+      "Sustainable tourism management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the economic benefits that accrue to a local community from tourism development?",
     "options": [
       "Tourism multiplier effect",
-      "Spatial displacement",
-      "Leakage effect",
-      "Demand elasticity shift"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of Caribbean tourism, the 'enclave tourism' model is criticized primarily because it:",
-    "options": [
-      "Attracts too many backpacker tourists",
-      "Limits economic linkages with the local economy and maximizes foreign revenue repatriation",
-      "Increases the carrying capacity of destinations",
-      "Promotes cultural exchange between tourists and locals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Tourism Area Life Cycle (TALC) model proposed by Butler (1980) identifies which sequence of stages?",
-    "options": [
-      "Exploration, Involvement, Development, Consolidation, Stagnation, Decline or Rejuvenation",
-      "Initiation, Growth, Maturity, Saturation, Decline",
-      "Discovery, Development, Exploitation, Overcrowding, Abandonment",
-      "Introduction, Expansion, Consolidation, Termination"
+      "Tourism displacement effect",
+      "Tourism leakage effect",
+      "Tourism spillover effect"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which international framework specifically guides sustainable tourism development by integrating environmental, social, and economic dimensions within the UN Sustainable Development Goals?",
+    "question": "What is the term for the process of identifying and analyzing the strengths, weaknesses, opportunities, and threats of a tourism destination or industry?",
     "options": [
-      "The Manila Declaration on World Tourism",
-      "The Global Code of Ethics for Tourism by UNWTO",
-      "The Kyoto Protocol Tourism Addendum",
-      "The Caribbean Tourism Action Plan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A Caribbean island reports a tourism multiplier of 1.8. If visitor expenditure increases by USD 2 million, what is the total economic impact generated?",
-    "options": [
-      "USD 2.0 million",
-      "USD 3.6 million",
-      "USD 1.8 million",
-      "USD 4.4 million"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which factor most significantly contributes to 'tourism leakage' in small island developing states (SIDS) of the Caribbean?",
-    "options": [
-      "High levels of domestic food production",
-      "Heavy reliance on imported goods and foreign-owned hotel chains",
-      "Strong intra-regional tourism linkages",
-      "Robust local craft and souvenir industries"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'overtourism' is best addressed through which policy instrument at the destination level?",
-    "options": [
-      "Increasing marketing budgets to attract more diverse tourist segments",
-      "Implementing visitor management strategies such as carrying capacity limits and timed entry systems",
-      "Reducing accommodation standards to lower tourist appeal",
-      "Deregulating tourism businesses to increase supply"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In revenue management for hotels, the metric RevPAR is calculated as:",
-    "options": [
-      "Total revenue divided by number of guests",
-      "Room revenue divided by total available rooms",
-      "Average daily rate multiplied by occupancy rate",
-      "Gross operating profit divided by total rooms sold"
+      "PEST analysis",
+      "VRIO analysis",
+      "SWOT analysis",
+      "Porter's Five Forces analysis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which push factor is most associated with tourists seeking Caribbean destinations according to motivational theory?",
+    "question": "Which of the following is a characteristic of a successful tourism development strategy?",
     "options": [
-      "Availability of historical museums",
-      "Desire to escape routine environments and seek relaxation",
-      "Professional development opportunities",
-      "Access to advanced medical facilities"
+      "It ignores the needs and preferences of the target audience",
+      "It focuses solely on short-term gains, to the detriment of long-term goals",
+      "It is poorly planned, poorly targeted, and poorly executed",
+      "It is well-planned, well-targeted, and well-executed"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key objective of the Caribbean Tourism Organization (CTO)?",
+    "options": [
+      "To promote the Caribbean region as a tourist destination and to develop its tourism industry",
+      "To promote the interests of individual member states and to protect their market share",
+      "To develop and implement regional tourism policies and strategies",
+      "To provide technical assistance and training to member states"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the practice of managing tourism development to minimize negative impacts on the environment and culture of host destinations?",
+    "options": [
+      "Responsible tourism management",
+      "Responsible travel management",
+      "Responsible hospitality management",
+      "Sustainable tourism management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of ecotourism?",
+    "options": [
+      "Wildlife tourism",
+      "Cultural tourism",
+      "Heritage tourism",
+      "Adventure tourism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of attracting and retaining customers through a combination of marketing efforts and service quality?",
+    "options": [
+      "Customer retention management",
+      "Customer satisfaction management",
+      "Customer acquisition management",
+      "Customer relationship management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key objective of the Caribbean Tourism Organization (CTO)?",
+    "options": [
+      "To develop and implement regional tourism policies and strategies",
+      "To promote the Caribbean region as a tourist destination and to develop its tourism industry",
+      "To provide technical assistance and training to member states",
+      "To promote the interests of individual member states and to protect their market share"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Under the CARICOM Single Market framework, what is the primary tourism-related benefit for regional travelers?",
+    "question": "Which of the following is a characteristic of sustainable tourism?",
     "options": [
-      "Elimination of all hotel taxes across member states",
-      "Free movement of CARICOM nationals, facilitating intra-regional tourism",
-      "Standardized tourism curricula across regional universities",
-      "Harmonized airline pricing policies"
+      "It ignores local community concerns",
+      "It minimizes negative impacts on the environment and culture of host communities",
+      "It maximizes economic benefits for tourists",
+      "It promotes the use of non-renewable resources"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Heritage tourism development in the Caribbean must balance preservation with commercialization. Which approach best exemplifies this balance?",
+    "question": "Which of the following is a characteristic of a successful tourism marketing campaign?",
     "options": [
-      "Restricting all tourist access to heritage sites to prevent degradation",
-      "Developing interpretive centres that educate visitors while limiting physical contact with fragile artifacts",
-      "Allowing unrestricted tourism to maximize revenue from heritage assets",
-      "Relocating heritage artifacts to purpose-built tourist attractions away from original sites"
+      "It is overpriced, under-targeted, and poorly measured",
+      "It is too focused on short-term gains, to the detriment of long-term goals",
+      "It ignores the needs and preferences of the target audience",
+      "It is well-targeted, well-executed, and well-measured"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'dark tourism' refers to visitation to:",
-    "options": [
-      "Nighttime entertainment and carnival tourism activities",
-      "Sites associated with death, tragedy, atrocity, or suffering",
-      "Underground cave systems and spelunking destinations",
-      "Unlicensed or unregulated tourism establishments"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which pricing strategy involves charging different prices for the same tourism product based on booking time, season, or customer segment?",
-    "options": [
-      "Cost-plus pricing",
-      "Penetration pricing",
-      "Dynamic or yield management pricing",
-      "Prestige pricing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The environmental carrying capacity of a tourism destination is defined as:",
-    "options": [
-      "The maximum number of tourist arrivals a destination can market to annually",
-      "The maximum level of use a destination can sustain before unacceptable environmental deterioration occurs",
-      "The financial threshold beyond which tourism investment becomes unprofitable",
-      "The minimum number of tourists required for a destination to remain economically viable"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which theoretical framework argues that host communities progress through stages from euphoria to antagonism as tourist numbers increase, and is attributed to Doxey (1975)?",
-    "options": [
-      "Social Exchange Theory",
-      "The Irridex Model",
-      "The Tourist Gaze Theory",
-      "Community-Based Tourism Framework"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,151 @@
 [
   {
-    "question": "Which sociologist introduced the concept of the 'sociological imagination'?",
+    "question": "Which of the following is an example of a patriarchal society?",
     "options": [
-      "C. Wright Mills",
-      "Max Weber",
-      "\u00c9mile Durkheim",
-      "Karl Marx"
+      "A socialist society",
+      "A matriarchal society",
+      "A egalitarian society",
+      "A society where men hold power and women are subordinate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following best describes the concept of culture?",
+    "options": [
+      "A global economic system",
+      "A family structure",
+      "A social stratification system",
+      "A set of learned patterns of thought, feeling and behavior shared by a group of people"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to sociologist Anthony Giddens, what is the term for the process of creating new forms of social organization and culture in a postmodern society?",
+    "options": [
+      "Late Modernity",
+      "Globalisation",
+      "Social Change",
+      "High Modernity"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What term describes the process by which individuals learn the norms, values, and beliefs of their society?",
+    "question": "What is the term for the process by which individuals and groups adapt to new cultures and societies?",
     "options": [
-      "Socialization",
-      "Stratification",
-      "Industrialization",
-      "Modernization"
+      "Culturalization",
+      "Acculturation",
+      "Globalization",
+      "Assimilation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which individuals and groups experience and express their emotions and feelings?",
+    "options": [
+      "Emotional Expression",
+      "Emotional Regulation",
+      "Emotional Control",
+      "Emotional Suppression"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is an example of a secondary agent of socialization?",
+    "question": "According to sociologist Ulrich Beck, what is the term for the process of creating new forms of social organization and culture in a postmodern society?",
     "options": [
-      "School",
-      "Family",
-      "Peer group",
-      "Mass media"
+      "The Late Modern Society",
+      "The Global Risk Society",
+      "The Risk Society",
+      "The Postmodern Society"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which individuals and groups adapt to new social norms and expectations?",
+    "options": [
+      "Social Adaptation",
+      "Social Change",
+      "Social Stability",
+      "Social Resistance"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Marxist perspective views society as divided primarily into which two classes?",
+    "question": "What is the term for the process of education that occurs outside of formal institutions?",
     "options": [
-      "Bourgeoisie and proletariat",
-      "Elite and masses",
-      "Rulers and subjects",
-      "Rich and poor"
+      "Formal Education",
+      "Self-Education",
+      "Informal Education",
+      "Non-Formal Education"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which term refers to the unequal distribution of resources, opportunities, and rewards in society?",
+    "question": "According to Emile Durkheim, what is the function of social solidarity in a society?",
     "options": [
-      "Social stratification",
-      "Social mobility",
-      "Social cohesion",
-      "Social control"
+      "To increase social conflict",
+      "To hold society together and maintain social order",
+      "To reduce social inequality",
+      "To promote social change"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What type of social mobility occurs when an individual moves from one occupation to another of a similar status?",
+    "question": "According to sociologist Niklas Luhmann, what is the term for the process of creating new forms of social organization and culture in a modern society?",
     "options": [
-      "Horizontal mobility",
-      "Vertical mobility",
-      "Intergenerational mobility",
-      "Structural mobility"
+      "The Exchange Theory",
+      "The Symbolic Interactionist Theory",
+      "The Conflict Theory",
+      "The Functionalist Theory"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which sociologist is associated with the concept of 'anomie'?",
+    "question": "Which of the following is an example of a global social movement?",
     "options": [
-      "\u00c9mile Durkheim",
-      "Karl Marx",
-      "Max Weber",
-      "Auguste Comte"
+      "The Trade Union Movement",
+      "The Women's Liberation Movement",
+      "The Civil Rights Movement",
+      "The Anti-Apartheid Movement"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "In sociology, what does the term 'culture' primarily refer to?",
+    "question": "What is the term for the process of globalization that refers to the increasing interconnectedness of the world's economies?",
     "options": [
-      "The shared values, norms, beliefs, and practices of a group",
-      "The artistic achievements of a society",
-      "The economic system of a country",
-      "The political institutions of a nation"
+      "Environmental Globalization",
+      "Social Globalization",
+      "Economic Globalization",
+      "Cultural Globalization"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which research method involves the researcher joining and observing a group in its natural setting?",
+    "question": "What sociological theory emphasizes the role of social interaction in shaping our understanding of reality?",
     "options": [
-      "Participant observation",
-      "Structured interview",
-      "Questionnaire survey",
-      "Content analysis"
+      "Conflict Theory",
+      "Marxism",
+      "Symbolic Interactionism",
+      "Structural Functionalism"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the ability of one individual or group to impose their will on others?",
+    "question": "Which of the following is an example of a racial category?",
     "options": [
-      "Power",
-      "Authority",
-      "Status",
-      "Influence"
+      "Asian",
+      "White",
+      "Hispanic",
+      "Black"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which perspective argues that social institutions function to maintain stability and order in society?",
+    "question": "What is the primary focus of conflict theory in sociology?",
     "options": [
-      "Functionalism",
-      "Conflict theory",
-      "Feminism",
-      "Interactionism"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "function": "placeholder",
-    "question": "What does the term 'gender' refer to in sociology?",
-    "options": [
-      "The social and cultural roles assigned to males and females",
-      "The biological differences between males and females",
-      "The legal status of an individual",
-      "The economic roles of men and women"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which Caribbean sociologist is known for his work on plantation society?",
-    "options": [
-      "Lloyd Best",
-      "Stuart Hall",
-      "Rex Nettleford",
-      "Orlando Patterson"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a 'hypothesis' in sociological research?",
-    "options": [
-      "A testable statement or prediction about the relationship between variables",
-      "A conclusion drawn after research",
-      "A research question without an answer",
-      "A summary of existing literature"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which term describes a family unit consisting of parents and their dependent children living together?",
-    "options": [
-      "Nuclear family",
-      "Extended family",
-      "Single-parent family",
-      "Reconstituted family"
+      "The struggle for power and resources between different groups in society",
+      "The impact of culture on social identity",
+      "The importance of social norms and values",
+      "The role of social institutions in maintaining social order"
     ],
     "correctIndex": 0
   }

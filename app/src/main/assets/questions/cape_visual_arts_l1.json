@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a primary colour?",
+    "question": "Who is the founder of the Bauhaus art school in Germany?",
     "options": [
-      "Green",
-      "Orange",
-      "Red",
-      "Purple"
+      "Henry Moore",
+      "Ren\u00e9 Magritte",
+      "Pablo Picasso",
+      "Walter Gropius"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What does the term 'composition' refer to in visual arts?",
+    "question": "Which art movement is characterized by the use of simple shapes and forms?",
     "options": [
-      "The type of paint used",
-      "The arrangement of elements in a artwork",
-      "The size of the canvas",
-      "The subject matter of a painting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which art movement is Pablo Picasso most associated with?",
-    "options": [
-      "Impressionism",
-      "Surrealism",
       "Cubism",
-      "Baroque"
+      "Pop Art",
+      "Minimalism",
+      "Surrealism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a sculpture that is attached to a background and projects outward?",
+    "question": "Which artist is known for his abstract expressionist paintings?",
     "options": [
-      "Installation",
+      "Francis Bacon",
+      "Mark Rothko",
+      "Jackson Pollock",
+      "Willem de Kooning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the use of three-dimensional elements in a two-dimensional work of art?",
+    "options": [
+      "Carving",
+      "Modeling",
       "Relief",
-      "Mobile",
-      "Assemblage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which colour scheme uses colours that are opposite each other on the colour wheel?",
-    "options": [
-      "Analogous",
-      "Monochromatic",
-      "Complementary",
-      "Triadic"
+      "Sculpture"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the process of making prints by carving into a wooden surface called?",
+    "question": "Which art movement is characterized by the use of geometric shapes and forms?",
     "options": [
-      "Lithography",
-      "Etching",
-      "Woodcut",
-      "Screen printing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which element of art refers to the lightness or darkness of a colour?",
-    "options": [
-      "Hue",
-      "Value",
-      "Texture",
-      "Form"
+      "Cubism",
+      "Geometric Abstraction",
+      "Pop Art",
+      "Surrealism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'still life' painting?",
-    "options": [
-      "A painting of a landscape",
-      "A painting of inanimate objects",
-      "A painting of historical events",
-      "A painting of portraits"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a two-dimensional art form?",
-    "options": [
-      "Sculpture",
-      "Ceramic pot",
-      "Drawing",
-      "Architecture"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'perspective' in art refer to?",
-    "options": [
-      "The colour used in an artwork",
-      "The technique of representing three-dimensional space on a flat surface",
-      "The texture of a painting",
-      "The size of the artwork"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Caribbean artist is known as the father of West Indian painting?",
+    "question": "Who is the prominent Caribbean artist known for his 'History of the Negro in Art' series?",
     "options": [
       "Edna Manley",
-      "Camille Pissarro",
-      "Christopher Gonzalez",
-      "LeRoy Clarke"
+      "Leroy Clarke",
+      "Errol Clarke",
+      "Errol Lloyd"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is the artist behind the iconic painting 'The Third of May 1808'?",
+    "options": [
+      "Francisco Goya",
+      "Ren\u00e9 Magritte",
+      "Pablo Picasso",
+      "Salvador Dal\u00ed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is the artist behind the iconic painting 'The Weeping Woman'?",
+    "options": [
+      "Gustav Klimt",
+      "Pablo Picasso",
+      "Salvador Dal\u00ed",
+      "Henri Matisse"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the path a viewer's eye follows through an artwork?",
+    "question": "What is the term for the arrangement of elements in a composition to create a sense of movement?",
     "options": [
+      "Contrast",
       "Balance",
-      "Movement",
-      "Proportion",
+      "Direction",
+      "Harmony"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the arrangement of elements in a composition to create a sense of movement or energy?",
+    "options": [
+      "Harmony",
+      "Contrast",
+      "Balance",
       "Unity"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following materials is used in the traditional craft of batik?",
+    "question": "Which artist is known for his 'Bird Table' sculpture?",
     "options": [
-      "Clay",
-      "Wax and dye",
-      "Bronze",
-      "Plaster"
+      "Errol Clarke",
+      "Leroy Clarke",
+      "Edna Manley",
+      "Errol Lloyd"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is 'impasto' in painting?",
+    "question": "What is the term for the arrangement of elements in a composition to create a sense of calm?",
     "options": [
-      "A type of canvas",
-      "A painting technique using thick layers of paint",
-      "A style of drawing",
-      "A printmaking method"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which principle of design refers to the equal distribution of visual weight in an artwork?",
-    "options": [
-      "Rhythm",
-      "Emphasis",
       "Balance",
-      "Contrast"
+      "Contrast",
+      "Unity",
+      "Harmony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the use of multiple images or elements in a single work of art?",
+    "options": [
+      "Assemblage",
+      "Montage",
+      "Mosaic",
+      "Collage"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which art movement is characterized by the use of everyday objects in art?",
+    "options": [
+      "Cubism",
+      "Surrealism",
+      "Pop Art",
+      "Minimalism"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the meaning and interpretation of art?",
+    "options": [
+      "Art Criticism",
+      "Semiotics",
+      "Art History",
+      "Art Theory"
+    ],
+    "correctIndex": 1
   }
 ]

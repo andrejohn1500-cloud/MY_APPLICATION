@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which research method involves the researcher manipulating an independent variable to observe its effect on a dependent variable?",
+    "question": "What is the term for a type of research study that involves collecting data from a large group of individuals?",
+    "options": [
+      "Survey research",
+      "Naturalistic observation",
+      "Case study",
+      "Experimental design"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the research method that involves observing behavior in a naturalistic setting?",
+    "options": [
+      "Survey research",
+      "Case study",
+      "Experimental design",
+      "Naturalistic observation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of research study that involves comparing two groups, one that receives a treatment and one that does not?",
+    "options": [
+      "Quasi-experiment",
+      "Survey research",
+      "Correlational study",
+      "True experiment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of mental disorder characterized by a breakdown in thought processes and communication?",
+    "options": [
+      "Anxiety disorder",
+      "Bipolar disorder",
+      "Depression",
+      "Schizophrenia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the research method that involves manipulating variables to test cause-and-effect relationships?",
     "options": [
       "Case study",
-      "Survey",
-      "Experiment",
-      "Observation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the tendency to attribute one's own failures to external factors and successes to internal factors?",
-    "options": [
-      "Fundamental attribution error",
-      "Self-serving bias",
-      "Actor-observer bias",
-      "Confirmation bias"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the human brain is primarily responsible for regulating emotions and forming memories?",
-    "options": [
-      "Cerebellum",
-      "Frontal lobe",
-      "Limbic system",
-      "Brain stem"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to Maslow's hierarchy of needs, which need must be satisfied first?",
-    "options": [
-      "Esteem needs",
-      "Safety needs",
-      "Physiological needs",
-      "Love and belonging needs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which neurotransmitter is most closely associated with feelings of pleasure and reward?",
-    "options": [
-      "Serotonin",
-      "Acetylcholine",
-      "Dopamine",
-      "GABA"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'nature vs nurture' refer to in psychology?",
-    "options": [
-      "The debate between conscious and unconscious processes",
-      "The debate between genetic influences and environmental influences on behaviour",
-      "The difference between learning and memory",
-      "The conflict between id and superego"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which psychologist is best known for his theory of psychosexual development?",
-    "options": [
-      "Carl Jung",
-      "B.F. Skinner",
-      "Sigmund Freud",
-      "Jean Piaget"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In classical conditioning, what is the term for a previously neutral stimulus that comes to elicit a response after association with an unconditioned stimulus?",
-    "options": [
-      "Unconditioned stimulus",
-      "Conditioned stimulus",
-      "Conditioned response",
-      "Unconditioned response"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a longitudinal study?",
-    "options": [
-      "Comparing groups of different ages at one point in time",
-      "Studying the same group of individuals over many years",
-      "Observing behaviour in a natural setting",
-      "Conducting an experiment in a laboratory"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of memory stores information for a very short period of time, typically 15 to 30 seconds?",
-    "options": [
-      "Long-term memory",
-      "Procedural memory",
-      "Sensory memory",
-      "Short-term memory"
+      "Naturalistic observation",
+      "Survey research",
+      "Experimental design"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which ethical principle requires that participants fully understand the nature of a study before agreeing to take part?",
+    "question": "Which personality theory suggests that our behavior is determined by our genetics and environment?",
     "options": [
-      "Confidentiality",
-      "Debriefing",
-      "Informed consent",
-      "Right to withdraw"
+      "Behavioral theory",
+      "Humanistic theory",
+      "Biological determinism",
+      "Psychoanalytic theory"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The 'fight or flight' response is primarily controlled by which division of the nervous system?",
+    "question": "What is the name of the research method that involves observing behavior in a controlled laboratory setting?",
     "options": [
-      "Somatic nervous system",
-      "Parasympathetic nervous system",
-      "Central nervous system",
-      "Sympathetic nervous system"
+      "Case study",
+      "Survey research",
+      "Naturalistic observation",
+      "Laboratory experiment"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which approach to psychology focuses on observable behaviour and learning through conditioning?",
+    "question": "What is the term for a type of mental disorder characterized by a persistent pattern of avoidance and anxiety?",
     "options": [
-      "Humanistic approach",
-      "Behaviourist approach",
-      "Psychodynamic approach",
-      "Cognitive approach"
+      "Avoidant personality disorder",
+      "Borderline personality disorder",
+      "Histrionic personality disorder",
+      "Dependent personality disorder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of research study that involves collecting data from a large group of individuals?",
+    "options": [
+      "Experimental design",
+      "Case study",
+      "Naturalistic observation",
+      "Survey research"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which social psychology phenomenon occurs when individuals change their behavior to conform to the norms of a group?",
+    "options": [
+      "Group polarization",
+      "Conformity",
+      "Obedience",
+      "Deindividuation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'placebo' in the context of psychological research?",
+    "question": "Which cognitive psychology theory suggests that our perceptions are filtered through our expectations and past experiences?",
     "options": [
-      "A treatment given only to the experimental group",
-      "An inactive treatment given to participants to control for expectation effects",
-      "A type of sampling method",
-      "A measure of statistical significance"
+      "Social learning theory",
+      "Schema theory",
+      "Classical conditioning",
+      "Cognitive map"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes 'reliability' in psychological research?",
+    "question": "The primary function of the cerebellum is to coordinate voluntary movements and maintain posture. What is the secondary function of the cerebellum?",
     "options": [
-      "The extent to which a study measures what it claims to measure",
-      "The ability to generalise findings to other populations",
-      "The consistency of results when a study is repeated",
-      "The ethical standards followed in a study"
+      "Regulation of emotional responses",
+      "Modulation of sensory inputs",
+      "Purification of the blood",
+      "Regulation of sleep patterns"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean psychology concept refers to the cultural and social norms that influence an individual's behavior?",
+    "options": [
+      "Environmentalism",
+      "Cultural relativity",
+      "Social determinism",
+      "Cultural relativism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a mental disorder characterized by excessive and persistent fear of a specific object or situation?",
+    "options": [
+      "Phobia",
+      "Obsessive-compulsive disorder",
+      "Anxiety disorder",
+      "Post-traumatic stress disorder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which cognitive psychology theory suggests that our memories are stored in different parts of the brain?",
+    "options": [
+      "Schema theory",
+      "Multiple memory systems theory",
+      "Cognitive map theory",
+      "Memory consolidation"
+    ],
+    "correctIndex": 1
   }
 ]

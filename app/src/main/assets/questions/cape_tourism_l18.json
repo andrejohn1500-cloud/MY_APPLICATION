@@ -1,153 +1,42 @@
 [
   {
-    "question": "Which economic concept best explains why a destination that relies almost entirely on tourism revenue is considered economically vulnerable?",
+    "question": "What is the primary goal of tourism policy?",
     "options": [
-      "Comparative advantage",
-      "Economic leakage",
-      "Monoculture dependency",
-      "Multiplier effect"
+      "To promote sustainable and responsible tourism development that benefits the tourism industry and local communities",
+      "To maximize economic benefits for tourists and investors",
+      "To prioritize the interests of local communities and small-scale operators",
+      "To focus solely on the development of luxury tourism products"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a macro-environmental factor that affects tourism development?",
+    "options": [
+      "Government policies and regulations",
+      "Economic recession",
+      "Technological advancements",
+      "Demographic changes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a challenge faced by the tourism industry in terms of sustainability?",
+    "options": [
+      "Economic instability and recession",
+      "Climate change and global warming",
+      "Over-tourism and overcrowding",
+      "Biodiversity loss and species extinction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the practice of measuring the economic, social, and environmental impacts of tourism development?",
+    "options": [
+      "Tourism impact evaluation",
+      "Tourism impact analysis",
+      "Tourism impact assessment",
+      "Tourism impact monitoring"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "In the context of sustainable tourism, what does the concept of 'carrying capacity' primarily seek to balance?",
-    "options": [
-      "The number of hotel beds against tourist arrivals",
-      "The volume of tourists against the destination's physical, social, and ecological thresholds",
-      "The ratio of domestic to international tourists",
-      "The balance between public and private sector investment in tourism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tourism planning approach involves communities in decision-making from the earliest stages of destination development?",
-    "options": [
-      "Top-down planning",
-      "Incremental planning",
-      "Bottom-up participatory planning",
-      "Master planning"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Butler Tourism Area Life Cycle model identifies six stages. Which stage is characterised by declining visitor numbers, deteriorating facilities, and a damaged destination image?",
-    "options": [
-      "Stagnation",
-      "Decline",
-      "Consolidation",
-      "Rejuvenation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A Caribbean hotel reports that 70% of its food and beverage supplies are imported. This situation most directly contributes to which economic phenomenon?",
-    "options": [
-      "Tourism multiplier growth",
-      "High economic leakage",
-      "Backward economic linkages",
-      "Import substitution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which international framework specifically guides countries in measuring the economic contribution of tourism in a manner consistent with national accounts?",
-    "options": [
-      "The Global Code of Ethics for Tourism",
-      "Tourism Satellite Accounts (TSA)",
-      "The Manila Declaration on World Tourism",
-      "Agenda 21 for the Travel and Tourism Industry"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Ecotourism differs from conventional nature-based tourism primarily because ecotourism explicitly requires which of the following?",
-    "options": [
-      "Large group tour packages to natural areas",
-      "Conservation contribution and local community benefit alongside nature experience",
-      "Use of exclusively non-motorised transport",
-      "Visits limited to UNESCO World Heritage Sites"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A destination experiencing 'demonstration effect' would most likely observe which social impact among its resident population?",
-    "options": [
-      "Increased pride in indigenous cultural practices",
-      "Residents adopting the consumption patterns and lifestyles of visiting tourists",
-      "Higher rates of civic participation in tourism planning",
-      "Improved environmental stewardship by local communities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the UNWTO classification system, which category correctly distinguishes a 'visitor' from a 'tourist'?",
-    "options": [
-      "A visitor stays overnight while a tourist does not",
-      "A tourist is a visitor who stays at least one night, whereas a same-day visitor is an excursionist",
-      "A visitor travels internationally while a tourist travels domestically",
-      "A tourist spends more than the average visitor expenditure threshold"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which pricing strategy involves airlines and hotels charging different rates for the same product based on when the purchase is made and remaining inventory levels?",
-    "options": [
-      "Cost-plus pricing",
-      "Penetration pricing",
-      "Yield management pricing",
-      "Psychological pricing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'pro-poor tourism' is best described as tourism that specifically aims to achieve which outcome?",
-    "options": [
-      "Maximising foreign exchange earnings for national governments",
-      "Net benefit to poor people through unlocking economic opportunities, livelihood options, and participation",
-      "Developing luxury resorts in underdeveloped regions",
-      "Reducing the environmental footprint of mass tourism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which element of the tourism product mix is considered intangible and presents the greatest challenge for destination marketers seeking to reassure potential visitors?",
-    "options": [
-      "Accommodation facilities",
-      "Accessibility infrastructure",
-      "The overall tourism experience and service quality",
-      "Visitor attractions"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "command": "question",
-    "question": "In destination marketing, a 'Unique Selling Proposition' (USP) serves primarily to achieve which strategic objective?",
-    "options": [
-      "Standardise the tourism product for mass market appeal",
-      "Differentiate the destination from competitors by highlighting a compelling and distinctive benefit",
-      "Reduce the destination's dependence on seasonal tourism",
-      "Set minimum quality standards for tourism enterprises"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Climate change poses a particular threat to Caribbean small island developing states (SIDS) in tourism primarily through which combination of impacts?",
-    "options": [
-      "Increased cold weather events and reduced airlift capacity",
-      "Sea-level rise, coral bleaching, increased hurricane intensity, and beach erosion threatening core tourism assets",
-      "Reduced biodiversity and declining cultural heritage sites",
-      "Overcrowding at attractions and increased competition from emerging destinations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A tourism impact assessment reveals that a historic town has experienced 'cultural commodification.' Which scenario best exemplifies this phenomenon?",
-    "options": [
-      "Local artisans receiving fair trade certification for authentic handcrafted goods",
-      "Sacred indigenous ceremonies being staged as paid entertainment for tourists, losing their original spiritual meaning",
-      "A heritage site receiving UNESCO recognition and increased government funding",
-      "Community members being trained as cultural tourism guides"
-    ],
-    "correctIndex": 1
   }
 ]

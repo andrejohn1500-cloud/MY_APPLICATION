@@ -1,152 +1,102 @@
 [
   {
-    "question": "What is the Spanish word for 'house'?",
+    "question": "What is the title of the famous Spanish film directed by Pedro Almod\u00f3var?",
     "options": [
-      "Casa",
-      "Coche",
-      "Libro",
-      "Mesa"
+      "Los Amantes Pasajeros",
+      "Hable con ella",
+      "Volver",
+      "El Laberinto del Fauno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct form of the verb 'hablar' in the present tense for the subject 'ustedes'?",
+    "options": [
+      "Hable",
+      "Hablan",
+      "Hablemos",
+      "Hablais"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the title of the famous Spanish novel by Miguel Delibes?",
+    "options": [
+      "El hereje",
+      "La sombra del cipr\u00e9s",
+      "Los santos inocentes",
+      "Cinco horas con Mario"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct form of the verb 'querer' in the present tense for the subject 'yo'?",
+    "options": [
+      "Quisier",
+      "Quiero",
+      "Quero",
+      "Quiero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct translation of the phrase 'La casa es azul'?",
+    "options": [
+      "The house is blue",
+      "I love the house",
+      "The house is yellow",
+      "The house is red"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is the correct translation of 'I am happy'?",
+    "question": "\u00bfCu\u00e1l es el nombre del verbo espa\u00f1ol que se utiliza para expresar una acci\u00f3n pasada que ya no tiene consecuencias?",
     "options": [
-      "Estoy feliz",
-      "Soy feliz",
-      "Tengo feliz",
-      "Hay feliz"
+      "haber",
+      "estar",
+      "ir",
+      "ser"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does 'la biblioteca' mean in English?",
+    "question": "What is the correct translation of the phrase 'La noche es oscura'?",
     "options": [
-      "The library",
-      "The bookstore",
-      "The school",
-      "The office"
+      "The night is warm",
+      "The night is bright",
+      "The night is dark",
+      "I love the night"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which verb tense is used in the sentence 'Ayer com\u00ed una manzana'?",
-    "options": [
-      "Preterite",
-      "Present",
-      "Imperfect",
-      "Future"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the plural form of 'el estudiante'?",
-    "options": [
-      "Los estudiantes",
-      "Las estudiantes",
-      "El estudiantes",
-      "Los estudiant"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following means 'to speak' in Spanish?",
+    "question": "Which of the following Spanish words is a verb?",
     "options": [
       "Hablar",
-      "Comer",
-      "Vivir",
-      "Escribir"
+      "El feliz",
+      "La triste",
+      "La amable"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does 'hace calor' mean?",
+    "question": "Which of the following Spanish verbs is in the future tense?",
     "options": [
-      "It is hot",
-      "It is cold",
-      "It is raining",
-      "It is windy"
+      "Come",
+      "Voy a comer",
+      "Com\u00ed",
+      "Come"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which word is a reflexive pronoun in Spanish?",
+    "question": "\u00bfQu\u00e9 significa el sustantivo \"la lluvia\" en el contexto de la poes\u00eda de Pablo Neruda?",
     "options": [
-      "Se",
-      "Su",
-      "Si",
-      "Sa"
+      "la lluvia de flores",
+      "la lluvia de estrellas",
+      "la lluvia de palabras",
+      "la lluvia de agua"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the correct translation of 'We eat dinner at eight'?",
-    "options": [
-      "Cenamos a las ocho",
-      "Comemos a las ocho la ma\u00f1ana",
-      "Desayunamos a las ocho",
-      "Almorzamos a las ocho"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following adjectives means 'tall' in Spanish?",
-    "options": [
-      "Alto",
-      "Bajo",
-      "Delgado",
-      "Gordo"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does 'los medios de comunicaci\u00f3n' refer to?",
-    "options": [
-      "The media",
-      "The means of transportation",
-      "The communication skills",
-      "The postal service"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly uses the verb 'ser'?",
-    "options": [
-      "Ella es m\u00e9dica",
-      "Ella est\u00e1 m\u00e9dica",
-      "Ella tiene m\u00e9dica",
-      "Ella hay m\u00e9dica"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the Spanish word for 'environment'?",
-    "options": [
-      "El medio ambiente",
-      "El medioevo",
-      "El ambiente fr\u00edo",
-      "El mundo libre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which phrase means 'every day' in Spanish?",
-    "options": [
-      "Todos los d\u00edas",
-      "Cada noche",
-      "Siempre tarde",
-      "A veces"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does 'el desempleo' mean in English?",
-    "options": [
-      "Unemployment",
-      "Employment",
-      "The employee",
-      "The employer"
-    ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]
