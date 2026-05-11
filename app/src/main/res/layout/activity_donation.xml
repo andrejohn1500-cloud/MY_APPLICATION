@@ -33,7 +33,8 @@
         android:lineSpacingMultiplier="1.4"
         android:layout_marginBottom="40dp"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnPayPal"
         android:layout_width="260dp"
         android:layout_height="56dp"
@@ -43,7 +44,8 @@
         android:textStyle="bold"
         android:layout_marginBottom="16dp"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
+        style="@style/Widget.AppCompat.Button"
         android:id="@+id/btnBackDonate"
         android:layout_width="260dp"
         android:layout_height="52dp"

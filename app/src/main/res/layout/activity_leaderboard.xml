@@ -23,7 +23,7 @@
         android:orientation="horizontal"
         android:layout_marginBottom="12dp">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnTabGlobal"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -38,7 +38,7 @@
             android:textAllCaps="false"
             android:background="#3D5A9A"/>
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnTabCountry"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -80,11 +80,12 @@
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnBack"
         android:layout_width="match_parent"
         android:layout_height="52dp"
         android:layout_marginTop="16dp"
+        android:layout_marginBottom="80dp"
         android:background="#3D5A9A"
         android:text="BACK"
         android:textColor="@color/gold"

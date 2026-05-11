@@ -32,7 +32,7 @@
             android:gravity="center"
             android:layout_marginBottom="48dp"/>
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnViewStory"
             android:layout_width="match_parent"
             android:layout_height="52dp"
@@ -42,7 +42,7 @@
             android:textColor="@color/gold"
             android:textStyle="bold"/>
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnBackStory"
             android:layout_width="match_parent"
             android:layout_height="52dp"
