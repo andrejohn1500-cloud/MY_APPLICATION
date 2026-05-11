@@ -14,31 +14,33 @@ class DresQuizMessagingService : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
         super.onNewToken(token)
-        // Save token locally for use in submitScore
-        getSharedPreferences("fcm_prefs", Context.MODE_PRIVATE)
+        applicationContext.getSharedPreferences("fcm_prefs", Context.MODE_PRIVATE)
             .edit().putString("fcm_token", token).apply()
     }
 
     override fun onMessageReceived(remoteMessage: RemoteMessage) {
         super.onMessageReceived(remoteMessage)
-        val data = remoteMessage.data
-        val title = data["title"] ?: remoteMessage.notification?.title ?: "DREs Quiz"
-        val body  = data["body"]  ?: remoteMessage.notification?.body  ?: ""
-        val category = data["category"] ?: ""
+        val data     = remoteMessage.data
+        val title    = data["title"]       ?: "DREs Quiz"
+        val body     = data["body"]        ?: ""
+        val category = data["category"]    ?: ""
         val theirScore = data["their_score"] ?: ""
         val yourScore  = data["your_score"]  ?: ""
         val gap        = data["gap"]         ?: ""
-
         showRivalryNotification(title, body, category, theirScore, yourScore, gap)
     }
 
     private fun showRivalryNotification(
-        title: String, body: String,
-        category: String, theirScore: String,
-        yourScore: String, gap: String
+        title: String,
+        body: String,
+        category: String,
+        theirScore: String,
+        yourScore: String,
+        gap: String
     ) {
+        val ctx       = applicationContext
         val channelId = "rivalry_channel"
-        val manager = getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+        val manager   = ctx.getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             val channel = NotificationChannel(
@@ -52,7 +54,7 @@ class DresQuizMessagingService : FirebaseMessagingService() {
             manager.createNotificationChannel(channel)
         }
 
-        val intent = Intent(this, MainActivity::class.java).apply {
+        val intent = Intent(ctx, MainActivity::class.java).apply {
             flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
             putExtra("open_leaderboard", true)
             putExtra("rivalry_category", category)
@@ -62,11 +64,11 @@ class DresQuizMessagingService : FirebaseMessagingService() {
         }
 
         val pendingIntent = PendingIntent.getActivity(
-            this, 0, intent,
+            ctx, 0, intent,
             PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
         )
 
-        val notification = NotificationCompat.Builder(this, channelId)
+        val notification = NotificationCompat.Builder(ctx, channelId)
             .setSmallIcon(R.drawable.ic_launcher_foreground)
             .setContentTitle(title)
             .setContentText(body)

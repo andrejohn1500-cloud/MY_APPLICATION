@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         // Fetch and store FCM token
         com.google.firebase.messaging.FirebaseMessaging.getInstance().token
-            .addOnSuccessListener { token ->
+            .addOnSuccessListener { token: String ->
                 getSharedPreferences("fcm_prefs", MODE_PRIVATE)
                     .edit().putString("fcm_token", token).apply()
             }
