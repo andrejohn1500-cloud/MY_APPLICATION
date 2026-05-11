@@ -1,112 +1,152 @@
 [
   {
-    "question": "A 30-year-old athlete experiences a bout of burnout due to excessive training and competition. Which of the following is the primary psychological response?",
+    "question": "A sprain is a type of injury that occurs to a",
     "options": [
-      "Aggression and improved performance",
-      "Depression and decreased motivation",
-      "Anxiety and increased motivation",
-      "Fatigue and decreased performance"
+      "Bone",
+      "Ligament",
+      "Tendon",
+      "Muscle"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 20-year-old cyclist experiences a sudden and severe headache while participating in a competition. Which of the following is the primary cause?",
+    "question": "The American College of Sports Medicine recommends that individuals engage in moderate-intensity aerobic exercise for at least",
     "options": [
-      "Overexertion and heat exhaustion",
-      "Head injury from a crash",
-      "Carbon monoxide poisoning",
-      "Dehydration and electrolyte imbalance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 30-year-old athlete experiences a bout of burnout due to excessive training and competition. Which of the following is the primary psychological response?",
-    "options": [
-      "Fatigue and decreased performance",
-      "Depression and decreased motivation",
-      "Anxiety and increased motivation",
-      "Aggression and improved performance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 25-year-old cyclist experiences a sudden and severe headache while participating in a competition. Which of the following is the primary cause?",
-    "options": [
-      "Overexertion and heat exhaustion",
-      "Head injury from a crash",
-      "Carbon monoxide poisoning",
-      "Dehydration and electrolyte imbalance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 20-year-old high jumper lands from a jump with an impact force of 4 times her body weight. Which of the following is the primary risk associated with this landing?",
-    "options": [
-      "Muscle strain to the hip flexor",
-      "Gastrocnemius strain",
-      "Impact-related stress fracture to the lower limb",
-      "Patellofemoral pain syndrome"
+      "180 minutes per week",
+      "90 minutes per week",
+      "150 minutes per week",
+      "120 minutes per week"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 20-year-old high jumper lands from a jump with an impact force of 4 times her body weight. Which of the following is the primary risk associated with this landing?",
+    "question": "The energy system that is responsible for providing energy for high-intensity, short-duration exercise is the",
     "options": [
-      "Impact-related stress fracture to the lower limb",
-      "Muscle strain to the hip flexor",
-      "Gastrocnemius strain",
-      "Patellofemoral pain syndrome"
+      "ATP-PC system",
+      "Aerobic system",
+      "Lactic acid system",
+      "Anaerobic system (lactic acid)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 30-year-old footballer experiences a bout of anxiety prior to a high-stakes game. Which of the following is the primary psychological response?",
+    "question": "Which type of exercise is most effective for improving muscular endurance?",
     "options": [
-      "Depression",
-      "Panic disorder",
-      "Anxiety disorder",
-      "Post-traumatic stress disorder"
+      "Anaerobic exercise",
+      "Isometric exercise",
+      "Resistance training",
+      "Aerobic exercise"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A person with a high level of flexibility would be able to perform a full range of motion in their joints without pain",
+    "options": [
+      "Indeterminate",
+      "False",
+      "Irrelevant",
+      "True"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A person with a muscle injury would benefit from",
+    "options": [
+      "Cold therapy and compression",
+      "Massage and stretching",
+      "Heat therapy and massage",
+      "Rest and ice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The principle of specificity in training states that",
+    "options": [
+      "Training should be intense and prolonged",
+      "Training should be specific to the sport or activity being performed",
+      "Training should be high-impact and low-impact",
+      "Training should be general in nature"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 25-year-old basketball player is involved in a physical altercation with an opponent. Which of the following is the primary behavior exhibited by the player?",
+    "question": "The International Association of Athletics Federations (IAAF) is the governing body for athletics in the",
     "options": [
-      "Aggressive behavior",
-      "Assertive behavior",
-      "Passive-aggressive behavior",
-      "Cooperative behavior"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 20-year-old high jumper lands from a jump with an impact force of 4 times her body weight. Which of the following is the primary risk associated with this landing?",
-    "options": [
-      "Impact-related stress fracture to the lower limb",
-      "Gastrocnemius strain",
-      "Muscle strain to the hip flexor",
-      "Patellofemoral pain syndrome"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 30-year-old footballer experiences a bout of anxiety prior to a high-stakes game. Which of the following is the primary psychological response?",
-    "options": [
-      "Depression",
-      "Anxiety disorder",
-      "Post-traumatic stress disorder",
-      "Panic disorder"
+      "Caribbean region",
+      "South American region",
+      "North American region",
+      "World"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 30-year-old athlete experiences a bout of burnout due to excessive training and competition. Which of the following is the primary psychological response?",
+    "question": "The International Olympic Committee is headquartered in",
     "options": [
-      "Anxiety and increased motivation",
-      "Aggression and improved performance",
-      "Fatigue and decreased performance",
-      "Depression and decreased motivation"
+      "Paris, France",
+      "London, United Kingdom",
+      "Berlin, Germany",
+      "Lausanne, Switzerland"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the warm-up in a sports training program?",
+    "options": [
+      "To prepare the musculoskeletal system for exercise",
+      "To improve cardiovascular fitness",
+      "To increase muscle strength",
+      "To enhance mental preparation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The International Association of Athletics Federations (IAAF) has implemented a number of anti-doping measures to prevent",
+    "options": [
+      "Doping in athletics",
+      "Cheating in athletics",
+      "Corruption in athletics",
+      "Injury in athletics"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The American College of Sports Medicine recommends that individuals engage in resistance training exercises at least",
+    "options": [
+      "Every day",
+      "1-2 times per week",
+      "4-5 times per week",
+      "2-3 times per week"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The American College of Sports Medicine recommends that individuals engage in resistance training exercises that involve",
+    "options": [
+      "Progressive overload",
+      "Low-impact movements",
+      "High-impact movements",
+      "Resistance band exercises"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Caribbean Association of Athletics Administrations (CAAT) is the governing body for athletics in the",
+    "options": [
+      "Caribbean region",
+      "Central American region",
+      "South American region",
+      "North American region"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Olympic Movement was founded in",
+    "options": [
+      "1854",
+      "1904",
+      "1894",
+      "1876"
+    ],
+    "correctIndex": 2
   }
 ]

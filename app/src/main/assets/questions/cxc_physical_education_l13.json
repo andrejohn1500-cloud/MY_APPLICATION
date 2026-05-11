@@ -1,82 +1,32 @@
 [
   {
-    "question": "A football player has sustained a concussion during a match. What is the recommended medical treatment?",
+    "question": "What is the term for a muscle contraction where the muscle lengthens while contracting?",
     "options": [
-      "Rest and recovery only",
-      "Immediate return to play",
-      "Administration of pain medication",
-      "Immediate medical evaluation and clearance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The Caribbean regional sports organization which oversees the development of cricket in the region is the?",
-    "options": [
-      "West Indies Cricket Board",
-      "Caribbean Cricket Association",
-      "Caribbean Council of Cricket",
-      "West Indies Cricket Council"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Caribbean regional sports organization which oversees the development of netball in the region is the?",
-    "options": [
-      "Caribbean Netball Council",
-      "Caribbean Netball Association",
-      "Caribbean Netball Board",
-      "Caribbean Netball Federation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A gymnast is performing a routine on the balance beam. What type of movement is this?",
-    "options": [
-      "Rhythmic Gymnastics",
-      "Power Tumbling",
-      "Trampoline Gymnastics",
-      "Artistic Gymnastics"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A football player has sustained a concussion during a match. What is the recommended follow-up treatment?",
-    "options": [
-      "Immediate return to play",
-      "Administration of pain medication",
-      "Medical evaluation and clearance",
-      "Rest and recovery only"
+      "Isometric muscle action",
+      "Isotonic muscle action",
+      "Eccentric muscle action",
+      "Concentric muscle action"
     ],
     "correctIndex": 2
   },
   {
-    "question": "According to the Dietary Reference Intake (DRI), what percentage of total daily energy intake should come from carbohydrates for an adult engaged in moderate-intensity physical activity?",
+    "question": "What is the term for a person's ability to perform physical activities with minimal risk of injury?",
     "options": [
-      65,
-      55,
-      70,
-      45
+      "Performance-related fitness",
+      "Health-related fitness",
+      "Functional fitness",
+      "Motor fitness"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "A gymnast is performing a routine on the trampoline. What type of movement is this?",
+    "question": "What is the term for a person's ability to perform physical activities with minimal fatigue and discomfort, while also maintaining proper body mechanics, movement patterns, and flexibility?",
     "options": [
-      "Artistic Gymnastics",
-      "Trampoline Gymnastics",
-      "Power Tumbling",
-      "Rhythmic Gymnastics"
+      "Performance-related fitness",
+      "Health-related fitness",
+      "Functional fitness",
+      "Motor fitness"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The primary function of the anterior cruciate ligament (ACL) in the knee joint is to provide?",
-    "options": [
-      "Stability to the knee joint",
-      "Support to the menisci",
-      "Alignment to the tibia and femur",
-      "Lubrication to the joint"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

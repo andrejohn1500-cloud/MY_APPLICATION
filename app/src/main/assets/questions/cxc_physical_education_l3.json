@@ -1,91 +1,61 @@
 [
   {
-    "question": "What is the term for the study of the human body's structure and function?",
+    "question": "Which of the following is a benefit of regular physical activity?",
     "options": [
-      "Physiology",
-      "Anatomy",
-      "Kinesiology",
-      "Biomechanics"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a popular sport in the Caribbean played with a ball and hoop?",
-    "options": [
-      "Netball",
-      "Football",
-      "Cricket",
-      "Basketball"
+      "To improve mental health",
+      "To increase muscle mass",
+      "To improve immune function",
+      "To enhance athletic performance"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of reducing the risk of injury in sports?",
+    "question": "What is the term for a sudden, severe injury to a joint?",
     "options": [
-      "Prevention",
-      "Rehabilitation",
-      "Treatment",
-      "Recovery"
+      "Dislocation",
+      "Strain",
+      "Fracture",
+      "Sprain"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following sports is an example of a team sport played on a field?",
+    "question": "What is the term for the process of cooling down after physical activity?",
     "options": [
-      "Hockey",
-      "Rugby",
-      "Football",
-      "Cricket"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following sports is an example of a team sport played on ice?",
-    "options": [
-      "Curling",
-      "Ice skating",
-      "Ice hockey",
-      "Bandy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the study of how the mind affects physical performance?",
-    "options": [
-      "Exercise physiology",
-      "Sports psychology",
-      "Kinesiology",
-      "Biomechanics"
+      "Flexibility exercises",
+      "Stretching",
+      "Muscular endurance exercises",
+      "Cardiovascular exercise"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following sports is an example of a team sport?",
+    "question": "What is the term for a sudden, severe injury to a muscle or tendon?",
     "options": [
-      "Swimming",
-      "Cricket",
-      "Volleyball",
-      "Athletics"
+      "Fracture",
+      "Strain",
+      "Dislocation",
+      "Sprain"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the process of reducing the risk of injury in sports through proper equipment and technique?",
+    "question": "What is the primary role of the team manager in a team sport?",
     "options": [
-      "Treatment",
-      "Rehabilitation",
-      "Prevention",
-      "Recovery"
+      "To lead and direct teams",
+      "To organize and coordinate team activities",
+      "To motivate team members",
+      "To make tactical decisions for teams"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following sports is an example of an individual sport played on a court?",
+    "question": "What is the primary role of the coach in a team sport?",
     "options": [
-      "Tennis",
-      "Volleyball",
-      "Basketball",
-      "Badminton"
+      "To plan and organize training sessions",
+      "To motivate team members",
+      "To lead and direct the team",
+      "To make tactical decisions for the team"
     ],
     "correctIndex": 0
   }

@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "question": "The Caribbean Association of Athletics Administrations (CAAT) is responsible for governing athletics in the",
+    "options": [
+      "Caribbean region",
+      "South American region",
+      "Central American region",
+      "North American region"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A person with a high level of muscular power would be able to perform a maximum of",
+    "options": [
+      "3-5 reps with 40-60 kg resistance",
+      "15-20 reps with 5-10 kg resistance",
+      "3-5 sets of 8-10 reps with 10-15 kg resistance",
+      "8-10 reps with 10-15 kg resistance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A person with a high level of flexibility would be able to perform a maximum of",
+    "options": [
+      "30-45 degrees of hip flexion",
+      "90-120 degrees of hip flexion",
+      "60-90 degrees of hip flexion",
+      "15-20 degrees of hip flexion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with a high level of flexibility would be able to perform a maximum of",
+    "options": [
+      "30-45 degrees of hip flexion",
+      "15-20 degrees of hip flexion",
+      "90-120 degrees of hip flexion",
+      "60-90 degrees of hip flexion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The American College of Sports Medicine recommends that individuals engage in high-intensity interval training (HIIT) at least",
+    "options": [
+      "Every day",
+      "4-5 times per week",
+      "2-3 times per week",
+      "1-2 times per week"
+    ],
+    "correctIndex": 2
+  }
+]
