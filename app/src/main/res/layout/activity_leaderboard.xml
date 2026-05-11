@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="🏆 LEADERBOARD"
-        android:textColor="@color/gold"
+        android:textColor="#FFD700"
         android:textSize="24sp"
         android:textStyle="bold"
         android:gravity="center"
@@ -88,7 +88,7 @@
         android:layout_marginBottom="80dp"
         android:background="#252D5C"
         android:text="BACK"
-        android:textColor="@color/gold"
+        android:textColor="#FFD700"
         android:textStyle="bold"/>
 
 </LinearLayout>
