@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which doctrine states that Parliament can make or unmake any law whatsoever and no body can question the validity of its enactments?",
+    "question": "What is the principle of mens rea in criminal law?",
     "options": [
-      "Separation of Powers",
-      "Parliamentary Sovereignty",
-      "Rule of Law",
-      "Judicial Supremacy"
+      "The principle that a person must not have had a guilty mind or intention in order to be acquitted of an offence",
+      "The principle that a person must have had a guilty mind or intention in order to be guilty of an offence",
+      "The principle that a person must not have had a guilty mind or intention in order to be guilty of an offence",
+      "The principle that a person must have had a guilty mind or intention in order to be acquitted of an offence"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the landmark case of Donoghue v Stevenson [1932], the House of Lords established which principle?",
+    "question": "Which of the following is a fundamental right established by Article 8 of the European Convention on Human Rights?",
     "options": [
-      "The neighbour principle creating a general duty of care in negligence",
-      "The principle of strict liability for dangerous activities",
-      "The doctrine of vicarious liability",
-      "The concept of res ipsa loquitur"
+      "The right to life",
+      "The right to protection from torture",
+      "The right to respect for private and family life",
+      "The right to a fair trial"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Under the doctrine of judicial precedent, which term describes a decision that a court is bound to follow?",
+    "question": "What is the principle of respondeat superior in tort law?",
     "options": [
-      "Persuasive precedent",
-      "Obiter dicta",
-      "Ratio decidendi",
-      "Binding precedent"
+      "The principle that an employee is liable for the actions of their employer",
+      "The principle that an employer is not liable for the actions of their employees",
+      "The principle that an employer is only liable for the actions of their employees if they have been negligent",
+      "The principle that an employer is liable for the actions of their employees while they are acting in the course of their employment"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which element is NOT required to establish a valid contract?",
+    "question": "Which of the following is a characteristic of a trust?",
     "options": [
-      "Offer and acceptance",
-      "Consideration",
-      "Written documentation",
-      "Intention to create legal relations"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Caribbean Court of Justice (CCJ) was established under which treaty?",
-    "options": [
-      "Treaty of Chaguaramas 1973",
-      "Revised Treaty of Chaguaramas 2001",
-      "Treaty of Basseterre 1981",
-      "Treaty of Port of Spain 1994"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In criminal law, the Latin term 'mens rea' refers to which of the following?",
-    "options": [
-      "The physical act of committing a crime",
-      "The guilty mind or criminal intention",
-      "The standard of proof required",
-      "The defence of insanity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which doctrine in constitutional law prevents the same matter from being litigated twice between the same parties?",
-    "options": [
-      "Res judicata",
-      "Stare decisis",
-      "Nemo judex in causa sua",
-      "Locus standi"
+      "A relationship where one person (the trustee) holds property on behalf of another person (the beneficiary)",
+      "A relationship where one person (the trustee) holds property for the benefit of a partnership",
+      "A relationship where one person (the trustee) holds property for their own benefit",
+      "A relationship where one person (the trustee) holds property for the benefit of a company"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Under the Occupiers' Liability Act, an occupier owes a common duty of care to which category of person?",
+    "question": "What is the doctrine of ultra vires in the context of company law?",
     "options": [
-      "Trespassers only",
-      "Licensees only",
-      "Lawful visitors",
-      "All persons entering the premises regardless of status"
+      "The doctrine that a company can only be sued in its corporate capacity.",
+      "The doctrine that a company can only exercise powers that are conferred on it by its Memorandum of Association and Articles of Association.",
+      "The doctrine that a company can be sued in its individual capacity.",
+      "The doctrine that a company can exercise powers that are not conferred on it by its Memorandum of Association and Articles of Association."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a source of law in the Caribbean?",
+    "options": [
+      "Custom",
+      "Precedent",
+      "Treaty",
+      "Statute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a fundamental right established by Article 14 of the European Convention on Human Rights?",
+    "options": [
+      "The right to life",
+      "The right to a fair trial",
+      "The right to protection from torture",
+      "The right to liberty and security"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a joint venture?",
+    "options": [
+      "One or more persons carrying on a business for a specific purpose with a shared financial risk",
+      "One or more persons carrying on a business for a specific purpose with a shared loss motive",
+      "Two or more persons carrying on a business for a specific purpose with a shared profit motive",
+      "Two or more persons carrying on a business for a specific purpose with a shared financial risk"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the court established by Article 212 of the Treaty Establishing the Association of Caribbean States to provide a forum for the interpretation and application of the Treaty?",
+    "options": [
+      "General Secretariat Court",
+      "Association of Caribbean States Court",
+      "Caribbean Court of Justice",
+      "Court of Justice and General Secretariat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the doctrine of consideration in contract law?",
+    "options": [
+      "The doctrine that a promise or act will be enforceable unless it is not supported by a benefit or detriment to the promisee or the promisor",
+      "The doctrine that a promise or act will be enforceable unless it is not supported by a benefit or detriment to the promisee only",
+      "The doctrine that a promise or act will not be enforceable unless it is supported by a benefit or detriment to the promisor only",
+      "The doctrine that a promise or act will not be enforceable unless it is supported by a benefit or detriment to the promisee or the promisor"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of an arbitration agreement?",
+    "options": [
+      "A contractual agreement to submit disputes to a negotiator for resolution",
+      "A contractual agreement to submit disputes to an arbitrator for resolution",
+      "A contractual agreement to submit disputes to a mediator for resolution",
+      "A contractual agreement to submit disputes to a court for resolution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a fundamental right established by Article 6 of the European Convention on Human Rights?",
+    "options": [
+      "The right to a fair trial",
+      "The right to life",
+      "The right to protection from torture",
+      "The right to liberty and security"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a fundamental right established by Article 7 of the European Convention on Human Rights?",
+    "options": [
+      "The right to liberty and security",
+      "The right to life",
+      "The right to protection from torture",
+      "The right to a fair trial"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes the concept of 'locus standi' in administrative law?",
+    "question": "Which of the following is a fundamental right established by Article 10 of the European Convention on Human Rights?",
     "options": [
-      "The right to remain silent during proceedings",
-      "The sufficient legal interest required to bring a claim before a court",
-      "The power of a court to review administrative decisions",
-      "The principle that like cases should be treated alike"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In contract law, which case established the rule that acceptance of a postal offer takes effect when the letter is posted?",
-    "options": [
-      "Carlill v Carbolic Smoke Ball Co [1893]",
-      "Adams v Lindsell [1818]",
-      "Entores Ltd v Miles Far East Corporation [1955]",
-      "Harvey v Facey [1893]"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which human right is considered non-derogable under the Caribbean constitutions and cannot be suspended even in a state of emergency?",
-    "options": [
-      "Right to a fair trial",
-      "Freedom of expression",
-      "Right to life",
-      "Right to freedom of movement"
+      "The right to a fair trial",
+      "The right to liberty and security",
+      "The right to freedom of expression",
+      "The right to protection from torture"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The principle established in Rylands v Fletcher [1868] imposes liability when a person brings onto their land something that is likely to do mischief if it escapes. This type of liability is best described as:",
+    "question": "Which of the following is a fundamental right established by Article 5 of the European Convention on Human Rights?",
     "options": [
-      "Liability based on negligence",
-      "Strict liability",
-      "Vicarious liability",
-      "Liability based on nuisance only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly describes an 'indictable offence' in Commonwealth Caribbean criminal procedure?",
-    "options": [
-      "A minor offence tried summarily before a magistrate",
-      "A serious offence triable before a judge and jury in the High Court",
-      "An offence that can only be tried in the Privy Council",
-      "An offence where no imprisonment can be imposed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the law of tort, which defence completely absolves a defendant of liability by showing the claimant voluntarily accepted the risk of harm?",
-    "options": [
-      "Contributory negligence",
-      "Volenti non fit injuria",
-      "Ex turpi causa",
-      "Necessity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a source of Caribbean Community (CARICOM) law that is directly applicable in member states without the need for domestic legislation?",
-    "options": [
-      "CARICOM Heads of Government declarations",
-      "Decisions of the Council for Trade and Economic Development",
-      "Regulations made under the Revised Treaty of Chaguaramas",
-      "Recommendations of the CARICOM Secretariat"
+      "The right to protection from torture",
+      "The right to a fair trial",
+      "The right to liberty and security",
+      "The right to life"
     ],
     "correctIndex": 2
   }

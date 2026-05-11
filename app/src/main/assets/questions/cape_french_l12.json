@@ -1,152 +1,152 @@
 [
   {
-    "question": "Dans la phrase 'Si j'avais su, je serais venu', quel temps est utilis\u00e9 dans la proposition principale?",
+    "question": "La langue fran\u00e7aise a un nombre de cas grammaticaux.",
     "options": [
-      "Le conditionnel pr\u00e9sent",
-      "Le conditionnel pass\u00e9",
-      "Le subjonctif pass\u00e9",
-      "L'imparfait du subjonctif"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Lequel des suivants est un exemple correct de la voix passive au pass\u00e9 compos\u00e9?",
-    "options": [
-      "Le rapport a \u00e9t\u00e9 r\u00e9dig\u00e9 par le directeur",
-      "Le directeur a r\u00e9dig\u00e9 le rapport",
-      "Le rapport \u00e9tait r\u00e9dig\u00e9 par le directeur",
-      "Le rapport sera r\u00e9dig\u00e9 par le directeur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Quelle est la fonction grammaticale du pronom 'y' dans la phrase 'J'y pense souvent'?",
-    "options": [
-      "Compl\u00e9ment d'objet direct",
-      "Compl\u00e9ment d'objet indirect rempla\u00e7ant un lieu ou une chose",
-      "Pronom personnel sujet",
-      "Pronom r\u00e9fl\u00e9chi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Dans le contexte de la Francophonie, quel organisme international regroupe les pays ayant le fran\u00e7ais en partage?",
-    "options": [
-      "L'UNESCO",
-      "L'Organisation Internationale de la Francophonie",
-      "Le Conseil de l'Europe",
-      "L'Alliance Fran\u00e7aise"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choisissez la forme correcte du subjonctif pr\u00e9sent du verbe '\u00eatre' pour compl\u00e9ter: 'Bien qu'il ___ fatigu\u00e9, il continue \u00e0 travailler.'",
-    "options": [
-      "est",
-      "soit",
-      "serait",
-      "f\u00fbt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Lequel de ces mots est un faux ami entre le fran\u00e7ais et l'anglais?",
-    "options": [
-      "Librairie (signifiant biblioth\u00e8que en anglais)",
-      "Maison (signifiant maison en anglais)",
-      "Jardin (signifiant jardin en anglais)",
-      "Table (signifiant table en anglais)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Dans l'analyse litt\u00e9raire d'un texte de la n\u00e9gritude, quel auteur martiniquais est consid\u00e9r\u00e9 comme l'un des fondateurs de ce mouvement?",
-    "options": [
-      "Frantz Fanon",
-      "Aim\u00e9 C\u00e9saire",
-      "Patrick Chamoiseau",
-      "\u00c9douard Glissant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quelle figure de style est utilis\u00e9e dans l'expression 'La vie est un long fleuve tranquille'?",
-    "options": [
-      "La m\u00e9tonymie",
-      "La personnification",
-      "La m\u00e9taphore",
-      "L'hyperbole"
+      "un nombre limit\u00e9",
+      "vrai",
+      "faux",
+      "inconnu dans la grammaire fran\u00e7aise"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Lequel des pronoms relatifs suivants est utilis\u00e9 pour remplacer un compl\u00e9ment de nom ou un compl\u00e9ment pr\u00e9positionnel d\u00e9signant une personne?",
+    "question": "Qui est l'auteur du roman 'La Vie mode d'emploi' ?",
     "options": [
-      "Dont",
-      "Duquel",
-      "\u00c0 qui",
-      "Lequel"
+      "Roger Martin du Gard",
+      "Jean Cocteau",
+      "Andr\u00e9 Gide",
+      "Georges Perec"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Qui est l'auteur du roman 'Les Chouans' ?",
+    "options": [
+      "Viktor Hugo",
+      "Alexandre Dumas",
+      "Honor\u00e9 de Balzac",
+      "Stendhal"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Dans la conjugaison du discours indirect, si le verbe introducteur est au pass\u00e9, que devient le pr\u00e9sent de l'indicatif?",
+    "question": "L'expression \u00ab les temps forts \u00bb est utilis\u00e9e pour d\u00e9crire le style du romancier Henry de Montherlant, qui privil\u00e9gie le pr\u00e9sent dans ses \u00e9crits.",
     "options": [
-      "L'imparfait de l'indicatif",
-      "Le pass\u00e9 compos\u00e9",
-      "Le conditionnel pr\u00e9sent",
-      "Le plus-que-parfait"
+      "inconnu dans la litt\u00e9rature fran\u00e7aise",
+      "peu fr\u00e9quent",
+      "faux",
+      "vrai"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Qui est l'auteur du roman 'La Disparition' ?",
+    "options": [
+      "Andr\u00e9 Gide",
+      "Jean Cocteau",
+      "Georges Perec",
+      "Roger Martin du Gard"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quel est le nom du mouvement d'art qui se d\u00e9veloppe en France dans les ann\u00e9es 1930 ?",
+    "options": [
+      "Surr\u00e9alisme",
+      "Cubisme",
+      "Fauvisme",
+      "Art d\u00e9co"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Le film \u00ab Am\u00e9lie \u00bb (2001) de Jean-Pierre Jeunet est consid\u00e9r\u00e9 comme un classique du cin\u00e9ma fran\u00e7ais.",
+    "options": [
+      "peu connu dans le cin\u00e9ma fran\u00e7ais",
+      "inconnu dans l'histoire du cin\u00e9ma fran\u00e7ais",
+      "faux",
+      "vrai"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quel est le nom du mouvement artistique qui se d\u00e9veloppe en France dans les ann\u00e9es 1920 ?",
+    "options": [
+      "Surr\u00e9alisme",
+      "Cubisme",
+      "Fauvisme",
+      "Art d\u00e9co"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Quelle est la diff\u00e9rence principale entre 'imparfait' et 'pass\u00e9 compos\u00e9' dans un r\u00e9cit?",
+    "question": "La conjonction \u00ab mais \u00bb est un marqueur de coordination ou de subordination ?",
     "options": [
-      "L'imparfait d\u00e9crit des actions ponctuelles, le pass\u00e9 compos\u00e9 des \u00e9tats",
-      "L'imparfait d\u00e9crit des \u00e9tats ou actions habituelles dans le pass\u00e9, le pass\u00e9 compos\u00e9 des actions accomplies et d\u00e9limit\u00e9es",
-      "L'imparfait est toujours utilis\u00e9 avec 'hier', le pass\u00e9 compos\u00e9 avec 'souvent'",
-      "Il n'existe aucune diff\u00e9rence stylistique entre les deux"
+      "coordination",
+      "n\u00e9gation",
+      "assertion",
+      "subordination"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Qui est l'auteur du roman 'Les Mis\u00e8res des si\u00e8cles' ?",
+    "options": [
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Honor\u00e9 de Balzac",
+      "Stendhal"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Quel est le sens du terme 'cr\u00e9olisation' tel qu'il est utilis\u00e9 par \u00c9douard Glissant?",
+    "question": "L'histoire de France est marqu\u00e9e par la conqu\u00eate de l'Alg\u00e9rie en 1830.",
     "options": [
-      "Le processus de simplification d'une langue",
-      "Le m\u00e9lange impr\u00e9visible de cultures qui cr\u00e9e quelque chose de nouveau et irr\u00e9ductible",
-      "Le retour aux traditions africaines pures",
-      "La domination d'une culture sur une autre"
+      "inconnue dans l'histoire de France",
+      "faux",
+      "vrai",
+      "peu connue dans les annales de l'histoire fran\u00e7aise"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Laquelle des constructions suivantes illustre correctement l'emploi du g\u00e9rondif?",
+    "question": "Quel est le nom du mouvement artistique qui se d\u00e9veloppe en France dans les ann\u00e9es 1910 ?",
     "options": [
-      "Il a r\u00e9ussi en travaillant dur",
-      "Il a r\u00e9ussi ayant travaill\u00e9 dur",
-      "Il a r\u00e9ussi pour travailler dur",
-      "Il a r\u00e9ussi \u00e0 travailler dur"
+      "Fauvisme",
+      "Cubisme",
+      "Surr\u00e9alisme",
+      "Art d\u00e9co"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Dans le registre de langue soutenu, quelle forme verbale est employ\u00e9e \u00e0 la place du conditionnel pass\u00e9 deuxi\u00e8me forme?",
+    "question": "Quel est le nom du mouvement d'art qui se d\u00e9veloppe en France dans les ann\u00e9es 1960 ?",
     "options": [
-      "Le subjonctif imparfait",
-      "Le plus-que-parfait du subjonctif",
-      "L'imparfait de l'indicatif",
-      "Le pass\u00e9 ant\u00e9rieur"
+      "Surr\u00e9alisme",
+      "Art conceptuel",
+      "Fauvisme",
+      "Cubisme"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Quel proc\u00e9d\u00e9 stylistique consiste \u00e0 r\u00e9p\u00e9ter une m\u00eame structure syntaxique dans plusieurs propositions successives pour cr\u00e9er un effet rythmique?",
+    "question": "Quel est le nom du mouvement artistique qui se d\u00e9veloppe en France dans les ann\u00e9es 1950 ?",
     "options": [
-      "L'anaphore",
-      "Le parall\u00e9lisme",
-      "La gradation",
-      "L'antith\u00e8se"
+      "Surr\u00e9alisme",
+      "Cubisme",
+      "Nouveau R\u00e9alisme",
+      "Fauvisme"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "Qui est l'auteur du roman 'La Recherche du temps perdu' ?",
+    "options": [
+      "Andr\u00e9 Gide",
+      "Jean Cocteau",
+      "Marcel Proust",
+      "Roger Martin du Gard"
+    ],
+    "correctIndex": 2
   }
 ]

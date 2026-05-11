@@ -1,152 +1,82 @@
 [
   {
-    "question": "Which doctrine states that Parliament can make or unmake any law and no Parliament can bind a future Parliament?",
+    "question": "What is the principle of actus reus in criminal law?",
     "options": [
-      "Separation of Powers",
-      "Parliamentary Sovereignty",
-      "Rule of Law",
-      "Judicial Precedent"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In contract law, what is the legal effect of a counter-offer on the original offer?",
-    "options": [
-      "It suspends the original offer temporarily",
-      "It accepts the original offer with modifications",
-      "It terminates the original offer",
-      "It creates a binding contract immediately"
+      "The principle that a person must not have committed a criminal act in order to be guilty of an offence",
+      "The principle that a person must not have committed a criminal act in order to be acquitted of an offence",
+      "The principle that a person must have committed a criminal act in order to be guilty of an offence",
+      "The principle that a person must have committed a criminal act in order to be acquitted of an offence"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which case established the neighbour principle and the modern law of negligence in tort?",
+    "question": "According to the Constitution of Trinidad and Tobago, which of the following organs of government is responsible for the administration of justice?",
     "options": [
-      "Caparo Industries v Dickman [1990]",
-      "Donoghue v Stevenson [1932]",
-      "Hedley Byrne v Heller [1964]",
-      "Bolam v Friern Hospital [1957]"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the Caribbean Court of Justice Agreement, which function does the CCJ perform for CARICOM member states?",
-    "options": [
-      "Legislative function only",
-      "Original and appellate jurisdiction",
-      "Advisory opinions only",
-      "Enforcement of human rights exclusively"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In criminal law, which element must be proven alongside actus reus to establish most criminal offences?",
-    "options": [
-      "Vicarious liability",
-      "Mens rea",
-      "Strict liability",
-      "Causation only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of law governs the relationships between sovereign states and international organisations?",
-    "options": [
-      "Municipal law",
-      "Constitutional law",
-      "Public international law",
-      "Private international law"
+      "National Assembly",
+      "Legislature",
+      "Judicature",
+      "Executive"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which equitable remedy requires a party to fulfil their contractual obligations?",
+    "question": "What is the doctrine of estoppel by convention in contract law?",
     "options": [
-      "Injunction",
-      "Rescission",
-      "Specific Performance",
-      "Quantum Meruit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The rule in Rylands v Fletcher [1868] imposes liability for what type of situation?",
-    "options": [
-      "Negligent acts causing personal injury",
-      "Escape of things likely to do mischief brought onto land",
-      "Nuisance caused by noise",
-      "Deliberate trespass to land"
+      "The doctrine that where parties have agreed to be bound by the terms of a contract, they will not be estopped from denying those terms even if they were intended to be legally binding",
+      "The doctrine that where parties have agreed to be bound by the terms of a contract, they will be estopped from denying those terms even if they were not intended to be legally binding",
+      "The doctrine that where parties have not agreed to be bound by the terms of a contract, they will be estopped from denying those terms even if they were not intended to be legally binding",
+      "The doctrine that where parties have not agreed to be bound by the terms of a contract, they will not be estopped from denying those terms even if they were intended to be legally binding"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which constitutional principle requires that government officials must act within the powers granted to them by law?",
+    "question": "A company must have a",
     "options": [
-      "Federalism",
-      "Rule of Law",
-      "Bicameralism",
-      "Devolution"
+      "Directors' agreement",
+      "Articles of association",
+      "Memorandum of association",
+      "Shareholders agreement"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Under the doctrine of judicial precedent, what is the binding part of a judgment called?",
+    "question": "What is the doctrine of novation in contract law?",
     "options": [
-      "Obiter dicta",
-      "Per incuriam",
-      "Ratio decidendi",
-      "Stare decisis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In contract law, which term describes a false statement of fact that induces a party to enter a contract?",
-    "options": [
-      "Mistake",
-      "Duress",
-      "Misrepresentation",
-      "Undue Influence"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which international human rights instrument was adopted by the United Nations in 1948?",
-    "options": [
-      "European Convention on Human Rights",
-      "International Covenant on Civil and Political Rights",
-      "Universal Declaration of Human Rights",
-      "American Convention on Human Rights"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In tort law, what defence is available where the claimant voluntarily accepted a risk of harm?",
-    "options": [
-      "Contributory negligence",
-      "Novus actus interveniens",
-      "Ex turpi causa",
-      "Volenti non fit injuria"
+      "The doctrine that a new contract is created when an existing contract is amended by one of the parties",
+      "The doctrine that a new contract is created when an existing contract is not replaced by a new contract but is continued in force",
+      "The doctrine that a new contract is created when an existing contract is terminated by one of the parties",
+      "The doctrine that a new contract is created when an existing contract is replaced by a new contract between the same parties and the same subject matter"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which source of law refers to customs and practices recognised and enforced by the courts over time?",
+    "question": "What is the doctrine of implied terms in contract law?",
     "options": [
-      "Legislation",
-      "Equity",
-      "Common law",
-      "Treaties"
+      "The doctrine that certain terms will not be implied into a contract even though they have been explicitly stated",
+      "The doctrine that certain terms will only be implied into a contract if they have been explicitly stated",
+      "The doctrine that certain terms will be implied into a contract even though they have not been explicitly stated.",
+      "The doctrine that certain terms will not be implied into a contract unless they have been explicitly stated"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Under the law of contract, what is the effect of economic duress on a contract?",
+    "question": "The Human Rights Act 1998 (UK) provides that public authorities must act in a way that is",
     "options": [
-      "It renders the contract void ab initio",
-      "It makes the contract voidable at the option of the innocent party",
-      "It has no legal effect on the contract",
-      "It automatically entitles the innocent party to damages only"
+      "Neutral in relation to the European Convention on Human Rights",
+      "Compatible with the European Convention on Human Rights",
+      "Incompatible with the European Convention on Human Rights",
+      "Unaware of the European Convention on Human Rights"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the principle of burden of proof in criminal law?",
+    "options": [
+      "The principle that the prosecution only needs to prove the guilt of the accused on the balance of probabilities",
+      "The principle that the accused must prove their innocence beyond a reasonable doubt",
+      "The principle that the accused only needs to prove their innocence on the balance of probabilities",
+      "The principle that the prosecution must prove the guilt of the accused beyond a reasonable doubt"
+    ],
+    "correctIndex": 3
   }
 ]

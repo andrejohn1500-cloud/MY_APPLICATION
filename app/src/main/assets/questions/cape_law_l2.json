@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which court is the highest appellate court for most Caribbean nations that are members of the Caribbean Community?",
+    "question": "The doctrine of ultra vires means that",
     "options": [
-      "The Privy Council",
-      "The Caribbean Court of Justice",
-      "The Inter-American Court of Human Rights",
-      "The International Court of Justice"
+      "A company can act as it wishes",
+      "A company can only act with the permission of the shareholders",
+      "A company can only act within its powers as stated in its memorandum and articles of association",
+      "A company can act outside its powers with impunity"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In contract law, what is the term for an agreement that is unenforceable due to a lack of one of the essential elements?",
+    "question": "The Companies Act provides that a company must have a",
     "options": [
-      "Void contract",
-      "Voidable contract",
-      "Unenforceable contract",
-      "Illegal contract"
+      "No directors",
+      "Any number of directors",
+      "Minimum number of directors",
+      "Maximum number of directors"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The doctrine of consideration is an essential element of which of the following",
+    "options": [
+      "Contract law",
+      "Company law",
+      "Tort law",
+      "Criminal law"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes the doctrine of judicial precedent?",
+    "question": "Which of the following is a primary source of law?",
     "options": [
-      "Judges must follow decisions made by lower courts",
-      "Judges must follow decisions made by courts of equal or higher authority",
-      "Judges can ignore all previous decisions",
-      "Parliament can override all judicial decisions"
+      "Case law",
+      "Statute",
+      "Customary law",
+      "Common law"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In criminal law, what is the Latin term for the guilty act that forms part of a crime?",
+    "question": "Which of the following is an example of a tort?",
     "options": [
-      "Mens rea",
-      "Actus reus",
-      "Ratio decidendi",
-      "Obiter dicta"
+      "Breach of contract",
+      "Negligence",
+      "Contract",
+      "Misrepresentation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of law governs disputes between private individuals or organisations?",
+    "question": "The Caribbean Court of Justice has jurisdiction to hear appeals from",
     "options": [
-      "Criminal law",
-      "Constitutional law",
-      "Civil law",
-      "Administrative law"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the monetary compensation awarded to a claimant who successfully proves their case in a civil action?",
-    "options": [
-      "Injunction",
-      "Damages",
-      "Specific performance",
-      "Rescission"
+      "High Courts",
+      "Caribbean Supreme Courts",
+      "County Courts",
+      "Magistrates' Courts"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which branch of government is responsible for making laws in a parliamentary democracy?",
+    "question": "A company limited by guarantee must have a",
     "options": [
-      "The Executive",
-      "The Judiciary",
-      "The Legislature",
-      "The Cabinet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In tort law, which of the following is NOT an element required to establish negligence?",
-    "options": [
-      "Duty of care",
-      "Breach of duty",
-      "Causation",
-      "Intention to cause harm"
+      "Shareholders agreement",
+      "Directors' agreement",
+      "Articles of association",
+      "Memorandum of association"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does the term 'ratio decidendi' mean in legal contexts?",
+    "question": "The Human Rights Act 1998 (UK) is an example of a",
     "options": [
-      "A decision made by parliament",
-      "The reason for the decision in a case",
-      "An obiter statement",
-      "A statutory interpretation rule"
+      "Human rights statute",
+      "Statutory instrument",
+      "Judicial precedent",
+      "Constitutional amendment"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following is a primary source of law?",
+    "question": "The doctrine of estoppel means that",
     "options": [
-      "Textbooks",
-      "Legal encyclopaedias",
-      "Legislation",
-      "Academic journals"
+      "A person cannot deny a fact that they have previously admitted",
+      "A person can deny a fact that they have previously admitted",
+      "A person is not bound by their previous admissions",
+      "A person can admit a fact that they have previously denied"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The doctrine of res judicata is based on the principle of",
+    "options": [
+      "Finality of judgments",
+      "Cost of judgments",
+      "Flexibility of judgments",
+      "Speed of judgments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The doctrine of stare decisis means that",
+    "options": [
+      "Lower courts must make their own decisions",
+      "Judges have the right to decide as they wish",
+      "Lower courts must follow higher court decisions",
+      "Higher courts must follow lower court decisions"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Under contract law, what is the term for a false statement of fact that induces another party to enter into a contract?",
+    "question": "What is the term for the body of rules and principles that govern the conduct of individuals and businesses in the Caribbean?",
     "options": [
-      "Duress",
-      "Undue influence",
-      "Misrepresentation",
-      "Mistake"
+      "Customary law",
+      "Statute law",
+      "Constitutional law",
+      "Common law"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which constitutional document is commonly regarded as protecting the fundamental rights and freedoms of citizens in Caribbean constitutions?",
+    "question": "Under the Companies Act, what is the term for the document that contains the rules governing the internal management of a company?",
     "options": [
-      "The Bill of Rights",
-      "The Charter of Fundamental Rights and Freedoms",
-      "The Declaration of Independence",
-      "The Constitutional Reform Act"
+      "Memorandum of Association",
+      "Directors' agreement",
+      "Shareholders agreement",
+      "Articles of Association"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A contract is an agreement between two or more parties that is",
+    "options": [
+      "Binding only when oral",
+      "Enforceable by law",
+      "Not enforceable by law",
+      "Binding only when written"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In criminal law, what is the standard of proof required to convict an accused person?",
+    "question": "A person who has committed a tort is said to be",
     "options": [
-      "On the balance of probabilities",
-      "Beyond reasonable doubt",
-      "Beyond all doubt",
-      "On a preponderance of evidence"
+      "Liable",
+      "Not liable",
+      "Unaware",
+      "Undecided"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes an 'injunction' as a remedy in civil law?",
-    "options": [
-      "A court order requiring payment of money",
-      "A court order directing a party to do or refrain from doing a specific act",
-      "A court order cancelling a contract",
-      "A court order transferring property"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term used for the process by which courts interpret ambiguous statutory provisions by looking at the ordinary meaning of the words?",
-    "options": [
-      "The golden rule",
-      "The mischief rule",
-      "The literal rule",
-      "The purposive rule"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

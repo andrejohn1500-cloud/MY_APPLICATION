@@ -1,152 +1,32 @@
 [
   {
-    "question": "What is the supreme law of most Caribbean territories with a written constitution?",
+    "question": "What is the difference between a husband and a wife in Caribbean law?",
     "options": [
-      "The Constitution",
-      "The Criminal Code",
-      "The Civil Procedure Rules",
-      "The Common Law"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which court is generally the final appellate court for many Caribbean Commonwealth nations?",
-    "options": [
-      "The High Court",
-      "The Caribbean Court of Justice or Privy Council",
-      "The Magistrates Court",
-      "The District Court"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In contract law, what is the term for an offer that is open to the entire world?",
-    "options": [
-      "Bilateral offer",
-      "Unilateral offer",
-      "Invitation to treat",
-      "Counter offer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which element is NOT required for a valid contract?",
-    "options": [
-      "Offer",
-      "Acceptance",
-      "Consideration",
-      "Registration"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What Latin term means 'let the buyer beware'?",
-    "options": [
-      "Res ipsa loquitur",
-      "Caveat emptor",
-      "Mens rea",
-      "Actus reus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In criminal law, what does 'mens rea' refer to?",
-    "options": [
-      "The guilty act",
-      "The guilty mind",
-      "The criminal record",
-      "The punishment"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a source of law in Caribbean legal systems?",
-    "options": [
-      "Legislation",
-      "Social media",
-      "Public opinion",
-      "Newspaper editorials"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a wrong committed against an individual that gives rise to civil liability?",
-    "options": [
-      "Crime",
-      "Tort",
-      "Statute",
-      "Equity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which doctrine states that lower courts must follow decisions of higher courts?",
-    "options": [
-      "Judicial review",
-      "Stare decisis",
-      "Res judicata",
-      "Ultra vires"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of law governs relationships between private individuals?",
-    "options": [
-      "Criminal law",
-      "Public law",
-      "Civil law",
-      "Constitutional law"
+      "Age",
+      "Occupation",
+      "Marital status",
+      "Residence"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the law of tort, what must a claimant prove to establish negligence?",
+    "question": "The Companies Act provides that a company must hold an",
     "options": [
-      "Duty of care, breach, and damage",
-      "Offer, acceptance, and consideration",
-      "Intent, act, and harm",
-      "Malice, motive, and loss"
+      "No general meeting",
+      "Annual general meeting",
+      "Extraordinary general meeting",
+      "Special general meeting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The doctrine of res judicata means that",
+    "options": [
+      "A court's decision on a particular issue is final and cannot be appealed",
+      "A court's decision on a particular issue is not binding on other courts",
+      "A court's decision on a particular issue can be appealed",
+      "A court's decision on a particular issue is not final and can be appealed"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "Which case established the modern law of negligence and the neighbour principle?",
-    "options": [
-      "Carlill v Carbolic Smoke Ball Co",
-      "Donoghue v Stevenson",
-      "Hadley v Baxendale",
-      "Fisher v Bell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the standard of proof in a criminal case?",
-    "options": [
-      "On the balance of probabilities",
-      "Beyond reasonable doubt",
-      "Beyond all doubt",
-      "On the preponderance of evidence"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'delegated legislation'?",
-    "options": [
-      "Laws made directly by Parliament",
-      "Laws made by a body given authority by Parliament",
-      "Laws made by judges",
-      "Laws derived from custom"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'habeas corpus' literally mean?",
-    "options": [
-      "Let the master answer",
-      "You shall have the body",
-      "The thing speaks for itself",
-      "Let the buyer beware"
-    ],
-    "correctIndex": 1
   }
 ]

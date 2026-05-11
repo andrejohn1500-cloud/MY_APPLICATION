@@ -1,152 +1,82 @@
 [
   {
-    "question": "In Derek Walcott's 'Omeros', which ancient epic serves as the primary structural model for the poem?",
+    "question": "What is the term for the literary device in which an author attributes human qualities to non-human entities, such as objects or animals, in a more general sense?",
     "options": [
-      "Virgil's Aeneid",
-      "Homer's Odyssey",
-      "Dante's Inferno",
-      "Milton's Paradise Lost"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which literary term describes a narrative that begins in the middle of the action rather than at the chronological beginning?",
-    "options": [
-      "Anachronism",
-      "In medias res",
-      "Flashback",
-      "Prolepsis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Chinua Achebe's 'Things Fall Apart', the title is taken from a poem by which author?",
-    "options": [
-      "T.S. Eliot",
-      "William Blake",
-      "W.B. Yeats",
-      "Dylan Thomas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which poetic device involves the repetition of consonant sounds at the beginning of closely connected words?",
-    "options": [
-      "Assonance",
-      "Consonance",
-      "Alliteration",
-      "Sibilance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Samuel Selvon's 'The Lonely Londoners' is primarily written in which narrative voice?",
-    "options": [
-      "Standard British English first person",
-      "Trinidad Creole third person",
-      "Jamaican Patois second person",
-      "Standard American English omniscient"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a speech in drama where a character speaks their thoughts aloud, unheard by other characters on stage?",
-    "options": [
-      "Monologue",
-      "Aside",
-      "Soliloquy",
-      "Apostrophe"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Jean Rhys's 'Wide Sargasso Sea', Antoinette Cosway is the West Indian counterpart of which character from Charlotte Bronte's 'Jane Eyre'?",
-    "options": [
-      "Jane Eyre",
-      "Mrs Fairfax",
-      "Bertha Mason",
-      "Blanche Ingram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best defines the concept of 'magical realism' as a literary mode?",
-    "options": [
-      "A genre involving only fantasy worlds with no realistic elements",
-      "A narrative mode where magical elements are presented as natural within a realistic setting",
-      "A style that uses extended metaphors to describe scientific phenomena",
-      "A purely allegorical form of writing used in fables"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In poetry, what is the term for a metrical foot consisting of one unstressed syllable followed by one stressed syllable?",
-    "options": [
-      "Trochee",
-      "Dactyl",
-      "Iamb",
-      "Spondee"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which Caribbean writer authored 'The Arrivants: A New World Trilogy'?",
-    "options": [
-      "Kamau Brathwaite",
-      "V.S. Naipaul",
-      "Earl Lovelace",
-      "George Lamming"
+      "Anthropomorphism",
+      "Personification",
+      "Metaphor",
+      "Alliteration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'postcolonialism' in literature most directly concerns itself with which of the following?",
+    "question": "In Ngugi wa Thiong'o's 'The River Between', what is the significance of the character of Waiyaki?",
     "options": [
-      "Literature written exclusively after the year 1900",
-      "The effects of colonialism on cultures, identities, and literary representation",
-      "A movement that celebrates the achievements of colonial powers",
-      "Literature that predates European exploration"
+      "He is a representative of the British colonial power",
+      "He represents the struggle for Kenyan independence.",
+      "He is a manifestation of the narrator's guilt",
+      "He is a symbol of colonial oppression"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In drama, what does the term 'denouement' refer to?",
+    "question": "What is the term for the literary device in which an author attributes human characteristics to non-human entities, such as objects or animals?",
     "options": [
-      "The opening conflict that sets the plot in motion",
-      "The highest point of tension in the narrative",
-      "The resolution or unravelling of the plot following the climax",
-      "The moment when the antagonist is introduced"
+      "Metaphor",
+      "Alliteration",
+      "Anthropomorphism",
+      "Personification"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Chinua Achebe's 'Things Fall Apart', what is the significance of the character of Okonkwo?",
+    "options": [
+      "He is a representative of the British colonial power",
+      "He represents the struggles of Igbo culture in the face of colonialism.",
+      "He is a symbol of colonial oppression",
+      "He is a manifestation of the narrator's guilt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which literary device involves the use of repetition to create a sense of rhythm or emphasis?",
+    "options": [
+      "Repetition",
+      "Alliteration",
+      "Onomatopoeia",
+      "Imagery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Derek Walcott's 'Omeros', what is the significance of the character of Achille?",
+    "options": [
+      "He represents the struggles of St. Lucian identity and the impact of colonialism.",
+      "He is the embodiment of Greek mythology",
+      "He is a symbol of resistance against slavery",
+      "He is a representative of the African diaspora"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the literary device in which an author attributes human qualities to non-human entities, such as objects or animals, in order to create a sense of wonder or surprise?",
+    "options": [
+      "Personification",
+      "Alliteration",
+      "Metaphor",
+      "Anthropomorphism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Ngugi wa Thiong'o's 'The River Between', what is the significance of the character of John?",
+    "options": [
+      "He is a representative of the British colonial power",
+      "He is a symbol of colonial oppression",
+      "He represents the struggle for Kenyan independence.",
+      "He is a manifestation of the narrator's guilt"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of dramatic irony?",
-    "options": [
-      "A character uses an extended metaphor to describe grief",
-      "The audience knows Juliet is alive while Romeo believes she is dead",
-      "Two characters argue using witty wordplay",
-      "A narrator comments directly on the events of the story"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "George Lamming's 'In the Castle of My Skin' is set in which Caribbean island?",
-    "options": [
-      "Trinidad",
-      "Jamaica",
-      "Barbados",
-      "Antigua"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which term describes the literary technique where a writer interrupts the narrative to address the reader, a character, or an abstract concept directly?",
-    "options": [
-      "Analepsis",
-      "Apostrophe",
-      "Allusion",
-      "Anaphora"
-    ],
-    "correctIndex": 1
   }
 ]

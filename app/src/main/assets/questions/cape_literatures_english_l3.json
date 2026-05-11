@@ -1,152 +1,72 @@
 [
   {
-    "question": "What is the term for the main character in a literary work?",
+    "question": "The term 'postcolonial' refers to a literary movement that emerged after colonialism",
     "options": [
-      "Antagonist",
-      "Protagonist",
-      "Narrator",
-      "Foil"
+      "Postcolonial refers to a literary movement that emerged during colonialism",
+      "Yes",
+      "No",
+      "Postcolonial refers to a literary movement that emerged before colonialism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which literary device involves giving human qualities to non-human things?",
+    "question": "Which of the following literary devices is used to create a sense of foreshadowing?",
     "options": [
-      "Simile",
-      "Metaphor",
-      "Personification",
-      "Alliteration"
+      "Flashback",
+      "Prolepsis",
+      "Aporia",
+      "Foreshadowing"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "A story told from the first-person point of view uses which pronoun as the narrator?",
+    "question": "Which of the following African writers is known for his novel 'The God's Bit'?",
     "options": [
-      "He",
-      "They",
-      "I",
-      "You"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a sonnet?",
-    "options": [
-      "A 14-line poem with a specific rhyme scheme",
-      "A long narrative poem about heroes",
-      "A poem with no fixed structure",
-      "A poem that does not rhyme"
+      "Sony Labou Tansi",
+      "Wole Soyinka",
+      "Ngugi wa Thiong'o",
+      "Chinua Achebe"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes a metaphor?",
+    "question": "Which of the following poets is known for his collection 'The Country Without a Post Office'?",
     "options": [
-      "A comparison using 'like' or 'as'",
-      "A direct comparison between two unlike things",
-      "The repetition of initial consonant sounds",
-      "An exaggerated statement"
+      "Miguel Angel Asturias",
+      "Garcilaso de la Vega",
+      "Fernando de Szyszlo",
+      "C\u00e9sar Vallejo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following literary devices is used to create a sense of hyperbole?",
+    "options": [
+      "Euphemism",
+      "Hyperbole",
+      "Understatement",
+      "Exaggeration"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What term describes the sequence of events in a literary work?",
+    "question": "In drama, the 'chorus' is a character who comments on the action",
     "options": [
-      "Theme",
-      "Tone",
-      "Plot",
-      "Setting"
+      "The chorus is a Greek word for 'voice'",
+      "No",
+      "The chorus is a feature of poetry",
+      "Yes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The novel 'Their Eyes Were Watching God' is a classic of American literature and explores themes of identity and independence",
+    "options": [
+      "It is a British novel",
+      "No",
+      "Yes",
+      "It is a Caribbean novel"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which genre is characterized by supernatural elements, suspense, and a dark atmosphere?",
-    "options": [
-      "Romance",
-      "Gothic fiction",
-      "Satire",
-      "Pastoral"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is dramatic irony?",
-    "options": [
-      "When a character says the opposite of what they mean",
-      "When the audience knows something the characters do not",
-      "When two opposite ideas are placed side by side",
-      "When events turn out differently than expected"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In poetry, what is the term for the repetition of vowel sounds within words?",
-    "options": [
-      "Consonance",
-      "Alliteration",
-      "Assonance",
-      "Onomatopoeia"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a simile?",
-    "options": [
-      "The world is a stage",
-      "Her smile was a ray of sunshine",
-      "He ran like the wind",
-      "The stars danced in the sky"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'setting' refer to in a literary work?",
-    "options": [
-      "The central message of the story",
-      "The time and place in which the story occurs",
-      "The narrator's attitude toward the subject",
-      "The conflict faced by the main character"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which poetic form does NOT follow a strict rhyme scheme?",
-    "options": [
-      "Sonnet",
-      "Ballad",
-      "Free verse",
-      "Haiku"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the central message or main idea explored in a literary work?",
-    "options": [
-      "Mood",
-      "Theme",
-      "Diction",
-      "Motif"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which narrative technique involves a character's thoughts flowing continuously without normal structure?",
-    "options": [
-      "Flashback",
-      "Foreshadowing",
-      "Stream of consciousness",
-      "Dramatic monologue"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a foil character in literature?",
-    "options": [
-      "To serve as the main villain",
-      "To contrast with another character and highlight their qualities",
-      "To provide comic relief",
-      "To narrate the story"
-    ],
-    "correctIndex": 1
   }
 ]
