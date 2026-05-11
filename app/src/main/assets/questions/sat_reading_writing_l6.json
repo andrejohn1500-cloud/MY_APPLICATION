@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the difference between fiction and nonfiction?",
+    "question": "Which of the following is an example of a sentence fragment?",
     "options": [
-      "Fiction must be based on historical events",
-      "Nonfiction uses more descriptive language",
-      "Fiction is always longer than nonfiction",
-      "Fiction is invented narrative; nonfiction is based on real events and facts"
+      "The parade was cancelled.",
+      "Because it was raining.",
+      "It was raining today.",
+      "The parade was a success."
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What does syntactic parallelism mean?",
+    "question": "Which of the following is a characteristic of formal writing?",
     "options": [
-      "Using rhyme in prose",
-      "Starting every sentence with a different word",
-      "Varying sentence length throughout a paragraph",
-      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity"
+      "It is informal",
+      "It uses complex sentence structures",
+      "It is concise",
+      "It uses slang"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the subject of: The tall oak tree fell in the storm?",
+    "question": "The following sentence uses a figure of speech: 'He was so angry that his face turned beet red.' Which figure of speech is used?",
     "options": [
-      "The tall oak tree",
-      "The",
-      "Storm",
-      "Fell"
+      "Simile",
+      "Hyperbole",
+      "Personification",
+      "Metaphor"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word is an antonym of diminish?",
+    "question": "Which of the following is a characteristic of the author's writing style?",
     "options": [
-      "Lessen",
-      "Reduce",
-      "Shrink",
-      "Increase"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What distinguishes implicit from explicit information?",
-    "options": [
-      "Implicit appears in footnotes",
-      "Implicit is always more reliable than explicit",
-      "Explicit is found only in fiction",
-      "Explicit information is directly stated; implicit must be inferred from clues"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does corroborate mean?",
-    "options": [
-      "To exaggerate",
-      "To summarise",
-      "To confirm or support with evidence",
-      "To contradict"
+      "use of repetition",
+      "use of simple language",
+      "use of metaphors",
+      "use of alliteration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What best describes the difference between a fact and an opinion?",
+    "question": "The following sentence is an example of a grammatical error: 'Me and my friend are going to the store.' Which error is made?",
     "options": [
-      "A fact can be verified objectively; an opinion expresses a personal judgment",
-      "Opinions are proven false statements",
-      "Facts cannot be used in persuasive writing",
-      "Facts are always more persuasive"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which correctly uses a semicolon?",
-    "options": [
-      "She studied for hours; And felt tired.",
-      "She studied for hours; however, she still felt unprepared.",
-      "However; she felt unprepared.",
-      "She studied; for the exam tomorrow."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word best replaces said to convey anger?",
-    "options": [
-      "Snapped",
-      "Replied",
-      "Whispered",
-      "Mentioned"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the function of a counterargument in a persuasive essay?",
-    "options": [
-      "To introduce a new topic",
-      "To acknowledge an opposing view and then refute it strengthening the argument",
-      "To prove the argument is incorrect",
-      "To summarise the conclusion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of an em dash in prose?",
-    "options": [
-      "To show a speaker has changed",
-      "To indicate a question",
-      "To create emphasis or set off additional information more strongly than a comma",
-      "To separate items in a list"
+      "Adverb placement",
+      "Tense consistency",
+      "Subject-verb agreement",
+      "Modality"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a complete sentence?",
+    "question": "Which of the following is an example of a cause-and-effect text?",
     "options": [
-      "Any group of words ending with a period",
-      "A group of words with a subject and predicate that expresses a complete thought",
-      "A clause beginning with because",
-      "A phrase with an adjective and noun"
+      "The story of the economic boom that resulted from the new trade agreement.",
+      "A list of historical dates.",
+      "A recipe for making a cake.",
+      "A description of the new city hall."
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is a simile?",
+    "question": "Which of the following words best describes the author's purpose in writing the passage?",
     "options": [
-      "A comparison without like or as",
-      "A word that imitates a sound",
-      "An exaggerated statement",
-      "A comparison using like or as"
+      "To persuade",
+      "To inform",
+      "To entertain",
+      "To describe"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the effect of short fragmented sentences in a narrative?",
+    "question": "The sentence 'The students, who were tired, decided to take a break, and they went home.' is an example of:",
     "options": [
-      "Demonstrates advanced vocabulary",
-      "Shows the story is set in the past",
-      "Indicates the narrator is uneducated",
-      "Creates tension and urgency mirroring heightened emotion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the effect of a writer using first-person plural in an argument?",
-    "options": [
-      "Is grammatically incorrect in formal writing",
-      "Indicates the writer is uncertain",
-      "Makes the argument less credible",
-      "Creates a sense of shared identity and collective responsibility with the audience"
+      "a simple sentence",
+      "a complex sentence",
+      "a compound sentence",
+      "a compound-complex sentence"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which sentence is in the passive voice?",
+    "question": "The following sentence is an example of a grammatical error: 'The teacher give the students a lot of homework.' Which error is made?",
     "options": [
-      "They enjoyed the dessert.",
-      "The cake was eaten by the children.",
-      "The children ate the cake.",
-      "She baked the cake yesterday."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does context clues mean?",
-    "options": [
-      "A dictionary definition",
-      "A footnote explaining a word",
-      "Information in surrounding text that helps determine the meaning of an unfamiliar word",
-      "A glossary at the back of a book"
+      "Adverb placement",
+      "Tense consistency",
+      "Verb tense consistency",
+      "Subject-verb agreement"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does loaded language mean?",
+    "question": "The author's purpose in writing this passage is best described as:",
     "options": [
-      "Words chosen for emotional impact to sway the reader beyond what evidence warrants",
-      "Technical vocabulary in scientific writing",
-      "Figurative language in poetry",
-      "Transition words in an argument"
+      "to persuade",
+      "to analyze",
+      "to inform",
+      "to entertain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The word 'pragmatic' most nearly means:",
+    "options": [
+      "idealistic and impractical",
+      "practical and efficient",
+      "theoretical and inefficient",
+      "unrealistic and unrealistic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The following sentence uses a figure of speech: 'The city is a jungle.' Which figure of speech is used?",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Personification",
+      "Hyperbole"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the author purpose mean?",
+    "question": "Which of the following is a characteristic of persuasive writing?",
     "options": [
-      "The reason the author wrote the text to inform persuade entertain or describe",
-      "The setting of the passage",
-      "The vocabulary used",
-      "Background information about the author"
+      "It is neutral",
+      "It is objective",
+      "It uses emotional appeals",
+      "It uses logical reasoning"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which transition best connects a cause to its effect?",
+    "question": "The author's tone in the passage is best described as:",
     "options": [
-      "For example",
-      "In contrast",
-      "Nevertheless",
-      "As a result"
+      "formal",
+      "objective",
+      "informal",
+      "emotional"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of a narrative text?",
+    "options": [
+      "The story of the brave firefighter who saved the kitten.",
+      "A set of instructions for assembling a bookshelf.",
+      "A list of historical dates.",
+      "A recipe for making pancakes."
+    ],
+    "correctIndex": 0
   }
 ]

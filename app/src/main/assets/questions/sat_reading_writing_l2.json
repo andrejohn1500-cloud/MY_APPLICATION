@@ -1,201 +1,91 @@
 [
   {
-    "question": "What is the subject of: The tall oak tree fell in the storm?",
+    "question": "The sentence 'The students, who were tired, decided to take a break.' is an example of:",
     "options": [
-      "The",
-      "Fell",
-      "The tall oak tree",
-      "Storm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which punctuation mark introduces a list?",
-    "options": [
-      "Dash",
-      "Comma",
-      "Semicolon",
-      "Colon"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the author purpose mean?",
-    "options": [
-      "The vocabulary used",
-      "Background information about the author",
-      "The reason the author wrote the text to inform persuade entertain or describe",
-      "The setting of the passage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a topic sentence?",
-    "options": [
-      "To provide supporting evidence",
-      "To transition to the next paragraph",
-      "To introduce the main idea of a paragraph",
-      "To conclude the paragraph"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which transition word shows contrast?",
-    "options": [
-      "Similarly",
-      "Furthermore",
-      "Therefore",
-      "However"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does infer mean?",
-    "options": [
-      "To state a fact directly",
-      "To summarise a passage",
-      "To draw a conclusion based on evidence and reasoning",
-      "To describe an event"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a simile?",
-    "options": [
-      "An exaggerated statement",
-      "A word that imitates a sound",
-      "A comparison without like or as",
-      "A comparison using like or as"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the prefix un- mean?",
-    "options": [
-      "Not or opposite of",
-      "Before",
-      "After",
-      "Again"
+      "a subordinate clause",
+      "an independent clause",
+      "a fragment",
+      "a run-on sentence"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does context clues mean?",
+    "question": "Which of the following words most nearly opposite in meaning to 'frugal' is:",
     "options": [
-      "Information in surrounding text that helps determine the meaning of an unfamiliar word",
-      "A footnote explaining a word",
-      "A glossary at the back of a book",
-      "A dictionary definition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the difference between fiction and nonfiction?",
-    "options": [
-      "Nonfiction uses more descriptive language",
-      "Fiction is invented narrative; nonfiction is based on real events and facts",
-      "Fiction is always longer than nonfiction",
-      "Fiction must be based on historical events"
+      "generous",
+      "extravagant",
+      "thrifty",
+      "economical"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does chronological order mean?",
+    "question": "The sentence 'The students, who were tired, decided to take a break, and they went home.' is an example of:",
     "options": [
-      "Events arranged by location",
-      "Events arranged alphabetically",
-      "Events arranged by importance",
-      "Events arranged in the order they occurred in time"
+      "a complex sentence",
+      "a compound sentence",
+      "a compound-complex sentence",
+      "a simple sentence"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What is a noun?",
+    "question": "The sentence 'The students were tired, and they decided to take a break.' is an example of:",
     "options": [
-      "A word that modifies a noun",
-      "A word that describes an action",
-      "A word that connects clauses",
-      "A word that names a person, place, thing, or idea"
+      "a compound sentence",
+      "a fragment",
+      "a complex sentence",
+      "a simple sentence"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is a complete sentence?",
+    "question": "The sentence 'Because I was tired, I went to bed early.' is an example of:",
     "options": [
-      "A phrase with an adjective and noun",
-      "A group of words with a subject and predicate that expresses a complete thought",
-      "Any group of words ending with a period",
-      "A clause beginning with because"
+      "a run-on sentence",
+      "an independent clause",
+      "a fragment",
+      "a subordinate clause"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which sentence is in the passive voice?",
+    "question": "The author uses the phrase 'a melting pot' to describe a:",
     "options": [
-      "The cake was eaten by the children.",
-      "She baked the cake yesterday.",
-      "The children ate the cake.",
-      "They enjoyed the dessert."
+      "place where different cultures separate",
+      "a place where there is no cultural diversity",
+      "place where different cultures come together",
+      "a place where one culture dominates"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which word best replaces said to convey anger?",
+    "question": "The author uses the phrase 'a nail in the coffin' to describe a:",
     "options": [
-      "Snapped",
-      "Replied",
-      "Mentioned",
-      "Whispered"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is an adjective?",
-    "options": [
-      "A word that connects sentences",
-      "A word that describes or modifies a noun",
-      "A word that shows action",
-      "A word that names a thing"
+      "no blow to something",
+      "a final blow to something",
+      "a moderate blow to something",
+      "a initial blow to something"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is a synonym for abundant?",
+    "question": "The sentence 'The new employee was nervous on his first day.' is in the:",
     "options": [
-      "Rapid",
-      "Ordinary",
-      "Scarce",
-      "Plentiful"
+      "compound",
+      "complex",
+      "compound-complex",
+      "simple"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a thesis statement?",
+    "question": "The word 'fastidious' most nearly means:",
     "options": [
-      "To state the main argument or central claim of an essay",
-      "To provide background information",
-      "To list the evidence used",
-      "To summarise the conclusion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which word is an antonym of diminish?",
-    "options": [
-      "Shrink",
-      "Reduce",
-      "Lessen",
-      "Increase"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which transition best connects a cause to its effect?",
-    "options": [
-      "As a result",
-      "In contrast",
-      "For example",
-      "Nevertheless"
+      "having a strong attention to detail",
+      "having a lack of attention to detail",
+      "being sloppy",
+      "being careless"
     ],
     "correctIndex": 0
   }

@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is deductive reasoning?",
+    "question": "The following passage is from a text about a scientific study. Which of the following sentences best summarizes the main finding of the study?",
     "options": [
-      "Drawing general conclusions from specific observations",
-      "Moving from general principles to specific conclusions",
-      "Using emotional language to persuade",
-      "Restating the premise as the conclusion"
+      "The study found that exposure to vitamin D has a negative impact on a person's physical health.",
+      "The study found that exposure to vitamin D has a positive impact on a person's physical health.",
+      "The study found that exposure to vitamin D has no effect on a person's mental health.",
+      "The study found that exposure to vitamin D has no impact on a person's physical health."
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of hedging language such as may or suggests?",
+    "question": "The following passage is from a text about a piece of literature. Which of the following sentences best describes the author's purpose in writing the passage?",
     "options": [
-      "To acknowledge uncertainty and avoid overclaiming making the argument more credible",
-      "To weaken the argument unnecessarily",
-      "To make sentences longer",
-      "To indicate the writer lacks knowledge"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does loaded language mean?",
-    "options": [
-      "Words chosen for emotional impact to sway the reader beyond what evidence warrants",
-      "Technical vocabulary in scientific writing",
-      "Transition words in an argument",
-      "Figurative language in poetry"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is ethos as a rhetorical appeal?",
-    "options": [
-      "An appeal based on logical evidence and reasoning",
-      "An appeal to the audience emotions",
-      "An appeal to widely held traditions",
-      "An appeal to the credibility and trustworthiness of the speaker or author"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does it mean to synthesise multiple sources?",
-    "options": [
-      "Choosing the best source and ignoring others",
-      "Quoting each source extensively",
-      "Listing sources alphabetically",
-      "Drawing on evidence from several sources integrating them to build a unified argument"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the effect of a writer using first-person plural in an argument?",
-    "options": [
-      "Makes the argument less credible",
-      "Indicates the writer is uncertain",
-      "Is grammatically incorrect in formal writing",
-      "Creates a sense of shared identity and collective responsibility with the audience"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does syntactic parallelism mean?",
-    "options": [
-      "Varying sentence length throughout a paragraph",
-      "Starting every sentence with a different word",
-      "Using rhyme in prose",
-      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the effect of a circular argument?",
-    "options": [
-      "The conclusion restates the premise without providing independent evidence",
-      "The argument progresses logically",
-      "The argument uses multiple sources",
-      "The argument considers both sides"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is nuance in analytical writing?",
-    "options": [
-      "Providing many statistical examples",
-      "Writing very long sentences",
-      "Acknowledging complexity qualifications and exceptions rather than presenting ideas as absolute",
-      "Using advanced vocabulary"
+      "The author is offering a critique of the play.",
+      "The author is providing background information on the play.",
+      "The author is analyzing the character of Othello in order to understand his motivations and actions.",
+      "The author is summarizing the plot of the play."
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of an em dash in prose?",
+    "question": "The following passage is from a historical text. Which of the following sentences best describes the relationship between the event described in the passage and the broader historical context?",
     "options": [
-      "To separate items in a list",
-      "To indicate a question",
-      "To show a speaker has changed",
-      "To create emphasis or set off additional information more strongly than a comma"
+      "The passage describes a key moment in the struggle for women's rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for economic development, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for civil rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for workers' rights, which was a major social and cultural movement of the time."
     ],
     "correctIndex": 3
   },
   {
-    "question": "What distinguishes implicit from explicit information?",
+    "question": "The following passage is from a personal essay. Which of the following words best describes the author's attitude towards the experience described in the passage?",
     "options": [
-      "Implicit is always more reliable than explicit",
-      "Explicit is found only in fiction",
-      "Explicit information is directly stated; implicit must be inferred from clues",
-      "Implicit appears in footnotes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the straw man logical fallacy?",
-    "options": [
-      "Using emotional language to persuade",
-      "Appealing to an authority opinion",
-      "Assuming what is true for a part is true for the whole",
-      "Misrepresenting an opponents argument in a weaker form to make it easier to attack"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What distinguishes a primary source from a secondary source?",
-    "options": [
-      "Secondary sources cannot be used in academic writing",
-      "A primary source is original firsthand material; a secondary source interprets primary sources",
-      "Primary sources are only found in libraries",
-      "Secondary sources are always more reliable"
+      "bitter",
+      "reflective",
+      "sarcastic",
+      "excited"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which best explains why varying sentence structure improves writing?",
+    "question": "The following passage is from a text about a piece of literature. Which of the following sentences best describes the author's purpose in writing the passage?",
     "options": [
-      "It creates rhythm maintains reader engagement and allows emphasis to shift naturally",
-      "It is required by grammar rules",
-      "It makes the writing harder to follow",
-      "It only matters in creative writing"
+      "The author is offering a critique of the play.",
+      "The author is providing background information on the play.",
+      "The author is analyzing the character of Hamlet in order to understand his motivations and actions.",
+      "The author is summarizing the plot of the play."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The following passage is from a text about a scientific study. Which of the following sentences best summarizes the main finding of the study?",
+    "options": [
+      "The study found that exposure to exercise has no impact on a person's physical health.",
+      "The study found that exposure to exercise has a negative impact on a person's physical health.",
+      "The study found that exposure to exercise has no effect on a person's mental health.",
+      "The study found that exposure to exercise has a positive impact on a person's physical health."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The following passage is from a text about a piece of literature. Which of the following sentences best describes the author's purpose in writing the passage?",
+    "options": [
+      "The author is analyzing the character of Lady Macbeth in order to understand her motivations and actions.",
+      "The author is providing background information on the play.",
+      "The author is summarizing the plot of the play.",
+      "The author is offering a critique of the play."
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is inductive reasoning?",
+    "question": "The following passage is from a historical text. Which of the following sentences best describes the relationship between the event described in the passage and the broader historical context?",
     "options": [
-      "Drawing general conclusions from specific observations",
-      "Restating the premise as the conclusion",
-      "Moving from general principles to specific conclusions",
-      "Using emotional appeals to persuade"
+      "The passage describes a key moment in the struggle for economic development, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for civil rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for workers' rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for women's rights, which was a major social and cultural movement of the time."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following passage is from a text about a piece of literature. Which of the following sentences best describes the author's purpose in writing the passage?",
+    "options": [
+      "The author is offering a critique of the play.",
+      "The author is analyzing the character of Othello in order to understand his motivations and actions.",
+      "The author is summarizing the plot of the play.",
+      "The author is providing background information on the play."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The following passage is from a text about a scientific study. Which of the following sentences best summarizes the main finding of the study?",
+    "options": [
+      "The study found that exposure to meditation has a positive impact on a person's mental health.",
+      "The study found that exposure to meditation has no impact on a person's mental health.",
+      "The study found that exposure to meditation has no effect on a person's physical health.",
+      "The study found that exposure to meditation has a negative impact on a person's mental health."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following passage is from a historical text. Which of the following sentences best describes the relationship between the event described in the passage and the broader historical context?",
+    "options": [
+      "The passage describes a key moment in the struggle for women's rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for economic development, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for civil rights, which was a major social and cultural movement of the time.",
+      "The passage describes a key moment in the struggle for workers' rights, which was a major social and cultural movement of the time."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The following passage is from a personal essay. Which of the following words best describes the author's attitude towards the experience described in the passage?",
+    "options": [
+      "bitter",
+      "tragic",
+      "joyful",
+      "humorous"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The following passage is from a text about a piece of literature. Which of the following sentences best describes the author's purpose in writing the passage?",
+    "options": [
+      "The author is offering a critique of the play.",
+      "The author is summarizing the plot of the play.",
+      "The author is analyzing the character of Hamlet in order to understand his motivations and actions.",
+      "The author is providing background information on the play."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The following passage is from a personal essay. Which of the following words best describes the author's attitude towards the experience described in the passage?",
+    "options": [
+      "joyful",
+      "humorous",
+      "tragic",
+      "melancholic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The following passage is from a text about a philosophical idea. Which of the following sentences best summarizes the main idea of the passage?",
+    "options": [
+      "The author argues that the concept of morality is relative, and that what is considered right or wrong varies from culture to culture.",
+      "The author argues that the concept of morality is complex and multifaceted.",
+      "The author argues that the concept of morality is absolute, and that what is considered right or wrong is universal.",
+      "The author argues that the concept of morality is not relevant to modern society."
     ],
     "correctIndex": 0
   }

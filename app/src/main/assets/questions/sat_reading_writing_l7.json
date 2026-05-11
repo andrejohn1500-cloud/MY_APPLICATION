@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the difference between fiction and nonfiction?",
+    "question": "The author uses the phrase 'a ticking time bomb' to describe a:",
     "options": [
-      "Fiction is invented narrative; nonfiction is based on real events and facts",
-      "Nonfiction uses more descriptive language",
-      "Fiction must be based on historical events",
-      "Fiction is always longer than nonfiction"
+      "something that is likely to cause a problem",
+      "something that is not a problem",
+      "something that is a minor issue",
+      "something that is unlikely to cause a problem"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What distinguishes implicit from explicit information?",
+    "question": "Which of the following is a characteristic of descriptive writing?",
     "options": [
-      "Implicit is always more reliable than explicit",
-      "Explicit information is directly stated; implicit must be inferred from clues",
-      "Implicit appears in footnotes",
-      "Explicit is found only in fiction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a complete sentence?",
-    "options": [
-      "Any group of words ending with a period",
-      "A group of words with a subject and predicate that expresses a complete thought",
-      "A phrase with an adjective and noun",
-      "A clause beginning with because"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What best describes the difference between a fact and an opinion?",
-    "options": [
-      "Facts cannot be used in persuasive writing",
-      "Facts are always more persuasive",
-      "A fact can be verified objectively; an opinion expresses a personal judgment",
-      "Opinions are proven false statements"
+      "It is informative",
+      "It is analytical",
+      "It appeals to the senses",
+      "It is persuasive"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which transition best connects a cause to its effect?",
+    "question": "The sentence 'The students were tired, the teacher was tired, and they both decided to take a break.' is an example of:",
     "options": [
-      "In contrast",
-      "As a result",
-      "For example",
-      "Nevertheless"
+      "a simple sentence",
+      "a complex sentence",
+      "a fragment",
+      "a compound sentence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The sentence 'The new policy has been implemented, and it has been successful.' is an example of:",
+    "options": [
+      "a fragment",
+      "a simple sentence",
+      "a complex sentence",
+      "a compound sentence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following words best describes the author's attitude towards the subject?",
+    "options": [
+      "Sympathetic",
+      "Critical",
+      "Objective",
+      "Supportive"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the effect of a writer using first-person plural in an argument?",
+    "question": "The author uses the phrase 'a ray of hope' to describe a:",
     "options": [
-      "Makes the argument less credible",
-      "Creates a sense of shared identity and collective responsibility with the audience",
-      "Indicates the writer is uncertain",
-      "Is grammatically incorrect in formal writing"
+      "a large amount of optimism",
+      "a small amount of optimism",
+      "pessimism",
+      "no optimism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does context clues mean?",
+    "question": "The word 'perceptive' most nearly means:",
     "options": [
-      "A dictionary definition",
-      "A footnote explaining a word",
-      "Information in surrounding text that helps determine the meaning of an unfamiliar word",
-      "A glossary at the back of a book"
+      "being oblivious",
+      "having a keen understanding and insight",
+      "being careless",
+      "having a lack of understanding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The following sentence is an example of a rhetorical device: 'The city's beauty lies not in its grandeur, but in its quiet charm.' Which rhetorical device is used?",
+    "options": [
+      "Irony",
+      "Metaphor",
+      "Appeal to contrast",
+      "Alliteration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does loaded language mean?",
+    "question": "The sentence 'The new employee was nervous, but he performed well.' is an example of:",
     "options": [
-      "Words chosen for emotional impact to sway the reader beyond what evidence warrants",
-      "Transition words in an argument",
-      "Technical vocabulary in scientific writing",
-      "Figurative language in poetry"
+      "a fragment",
+      "a simple sentence",
+      "a complex sentence",
+      "a compound sentence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of technical writing?",
+    "options": [
+      "It is narrative",
+      "It is persuasive",
+      "It uses specialized vocabulary",
+      "It is descriptive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a descriptive text?",
+    "options": [
+      "A recipe for making pancakes.",
+      "A set of instructions for assembling a bookshelf.",
+      "The description of the beautiful beach on a sunny day.",
+      "A list of historical dates."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following words best describes the tone of the passage?",
+    "options": [
+      "Wistful",
+      "Excited",
+      "Serious",
+      "Formal"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which correctly uses a semicolon?",
+    "question": "The following sentence uses a technical term: 'The engineer used a dynamometer to measure the car's torque.' Which technical term is used?",
     "options": [
-      "She studied for hours; And felt tired.",
-      "She studied for hours; however, she still felt unprepared.",
-      "She studied; for the exam tomorrow.",
-      "However; she felt unprepared."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a simile?",
-    "options": [
-      "A comparison without like or as",
-      "An exaggerated statement",
-      "A word that imitates a sound",
-      "A comparison using like or as"
+      "Car",
+      "Engineer",
+      "Torque",
+      "Dynamometer"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does corroborate mean?",
+    "question": "Which of the following is an example of a complex sentence?",
     "options": [
-      "To contradict",
-      "To confirm or support with evidence",
-      "To summarise",
-      "To exaggerate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does syntactic parallelism mean?",
-    "options": [
-      "Using the same grammatical structure for ideas of equal importance to create rhythm and clarity",
-      "Varying sentence length throughout a paragraph",
-      "Starting every sentence with a different word",
-      "Using rhyme in prose"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does the author purpose mean?",
-    "options": [
-      "Background information about the author",
-      "The vocabulary used",
-      "The setting of the passage",
-      "The reason the author wrote the text to inform persuade entertain or describe"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which word best replaces said to convey anger?",
-    "options": [
-      "Mentioned",
-      "Replied",
-      "Whispered",
-      "Snapped"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the subject of: The tall oak tree fell in the storm?",
-    "options": [
-      "Storm",
-      "Fell",
-      "The",
-      "The tall oak tree"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which word is an antonym of diminish?",
-    "options": [
-      "Reduce",
-      "Lessen",
-      "Increase",
-      "Shrink"
+      "The parade was cancelled.",
+      "It was raining today.",
+      "Because it was raining, the parade was cancelled.",
+      "The rain made the parade wet."
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the effect of short fragmented sentences in a narrative?",
+    "question": "The following sentence is an example of a rhetorical device: 'The sun was shining brightly in the clear blue sky.' Which rhetorical device is used?",
     "options": [
-      "Demonstrates advanced vocabulary",
-      "Shows the story is set in the past",
-      "Indicates the narrator is uneducated",
-      "Creates tension and urgency mirroring heightened emotion"
+      "Metaphor",
+      "Alliteration",
+      "Irony",
+      "Imagery"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "What is the function of a counterargument in a persuasive essay?",
-    "options": [
-      "To summarise the conclusion",
-      "To introduce a new topic",
-      "To acknowledge an opposing view and then refute it strengthening the argument",
-      "To prove the argument is incorrect"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence is in the passive voice?",
-    "options": [
-      "They enjoyed the dessert.",
-      "The cake was eaten by the children.",
-      "She baked the cake yesterday.",
-      "The children ate the cake."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of an em dash in prose?",
-    "options": [
-      "To show a speaker has changed",
-      "To separate items in a list",
-      "To create emphasis or set off additional information more strongly than a comma",
-      "To indicate a question"
-    ],
-    "correctIndex": 2
   }
 ]
