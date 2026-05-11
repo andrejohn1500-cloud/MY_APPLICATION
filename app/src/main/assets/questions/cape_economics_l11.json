@@ -1,152 +1,152 @@
 [
   {
-    "question": "In a two-sector Keynesian model, if the marginal propensity to consume (MPC) is 0.75, what is the value of the fiscal multiplier when government spending increases by $200 million?",
+    "question": "A country's exchange rate is the price of one country's currency in terms of another country's currency. What is the effect of an appreciation of a country's currency on its imports?",
     "options": [
-      "A. $600 million",
-      "B. $800 million",
-      "C. $1000 million",
-      "D. $150 million"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the concept of 'crowding out' in macroeconomics?",
-    "options": [
-      "A. Government spending reduces aggregate supply by increasing production costs",
-      "B. Increased government borrowing raises interest rates, reducing private investment",
-      "C. Higher taxes reduce consumer spending and lower aggregate demand",
-      "D. Expansionary monetary policy reduces the effectiveness of fiscal policy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A country operating under a fixed exchange rate system experiences a persistent balance of payments deficit. According to the Mundell-Fleming model, which policy combination is most effective?",
-    "options": [
-      "A. Expansionary fiscal policy and expansionary monetary policy",
-      "B. Contractionary fiscal policy and devaluation of the currency",
-      "C. Expansionary fiscal policy and tight monetary policy",
-      "D. Contractionary monetary policy and revaluation of the currency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which condition must hold for a devaluation to improve a country's current account balance according to the Marshall-Lerner condition?",
-    "options": [
-      "A. The sum of price elasticities of demand for exports and imports must be less than one",
-      "B. The sum of price elasticities of demand for exports and imports must equal zero",
-      "C. The sum of price elasticities of demand for exports and imports must exceed one",
-      "D. The price elasticity of demand for exports must exceed the price elasticity of supply of imports"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of oligopoly theory, the kinked demand curve model predicts price rigidity because:",
-    "options": [
-      "A. Firms engage in price leadership, following the dominant firm's pricing decisions",
-      "B. Rivals match price cuts but ignore price increases, creating a discontinuity in the marginal revenue curve",
-      "C. Collusive agreements prevent any individual firm from changing prices unilaterally",
-      "D. The demand curve becomes perfectly elastic above the prevailing price and perfectly inelastic below it"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to the Heckscher-Ohlin theorem, a labour-abundant country will have a comparative advantage in:",
-    "options": [
-      "A. Capital-intensive goods because capital deepening increases labour productivity",
-      "B. Technology-intensive goods because innovation reduces production costs",
-      "C. Labour-intensive goods because the relative cost of labour is lower",
-      "D. Land-intensive goods because natural resource endowments drive specialisation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a negative externality leading to market failure?",
-    "options": [
-      "A. A pharmaceutical company underinvests in research because it cannot fully capture the social benefits",
-      "B. A steel plant emits pollution imposing costs on nearby residents not reflected in market prices",
-      "C. A lighthouse provides navigation benefits to all ships regardless of payment",
-      "D. A consumer purchases a mobile phone, increasing the value of the network for existing users"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The natural rate of unemployment is best described as:",
-    "options": [
-      "A. The unemployment rate that occurs when the economy is in a deep recession",
-      "B. Zero unemployment achieved when all workers are productively employed",
-      "C. The rate of unemployment consistent with stable inflation, comprising frictional and structural unemployment",
-      "D. Cyclical unemployment caused by deficient aggregate demand in the economy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the theory of the firm, a perfectly competitive firm in long-run equilibrium produces where:",
-    "options": [
-      "A. Price equals marginal cost and exceeds average total cost",
-      "B. Price equals minimum average total cost and equals marginal cost",
-      "C. Marginal revenue exceeds marginal cost to maximise economic profit",
-      "D. Price equals average variable cost ensuring short-run survival"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly describes the difference between the income effect and the substitution effect of a wage increase?",
-    "options": [
-      "A. The substitution effect encourages more work; the income effect may reduce labour supply if leisure is a normal good",
-      "B. The income effect always encourages more work; the substitution effect always reduces labour supply",
-      "C. Both effects work in the same direction, unambiguously increasing the quantity of labour supplied",
-      "D. The substitution effect reduces labour supply; the income effect always increases labour supply"
+      "It decreases",
+      "It remains unchanged",
+      "It increases",
+      "It becomes more volatile"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A government imposes a specific tax on a good with a perfectly inelastic supply curve. The burden of the tax falls:",
+    "question": "A firm that is producing at the lowest point on its average total cost curve is said to be experiencing",
     "options": [
-      "A. Entirely on consumers because they cannot reduce their consumption",
-      "B. Equally between producers and consumers regardless of demand elasticity",
-      "C. Entirely on producers because supply cannot adjust to the tax",
-      "D. Primarily on consumers but partially on producers depending on demand elasticity"
+      "economies of scale",
+      "negative externalities",
+      "diseconomies of scale",
+      "positive externalities"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following is NOT a component of the Human Development Index (HDI)?",
+    "question": "The Central Bank of a country uses monetary policy to maintain the stability of the financial system. What is the primary function of the Central Bank?",
     "options": [
-      "A. Life expectancy at birth",
-      "B. Mean and expected years of schooling",
-      "C. Gross National Income per capita adjusted for purchasing power parity",
-      "D. Gini coefficient measuring income inequality"
+      "To act as a supervisor of commercial banks",
+      "To act as a lender of last resort",
+      "To act as a manager of the country's foreign exchange reserves",
+      "To act as a regulator of commercial banks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of comparative advantage is important in economics because it helps to determine the country that should produce a good. What is the country that should produce a good if it has a comparative advantage?",
+    "options": [
+      "The country with a higher production level",
+      "The country with the higher opportunity cost",
+      "The country with the same opportunity cost",
+      "The country with the lower opportunity cost"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In monetary economics, if the central bank increases the reserve requirement ratio from 10% to 20%, and the initial deposit is $1,000, by how much does the money supply potentially decrease?",
+    "question": "The Central Bank of a country uses monetary policy to maintain the stability of the financial system. What is the primary function of the Central Bank?",
     "options": [
-      "A. $4,000",
-      "B. $5,000",
-      "C. $9,000",
-      "D. $10,000"
+      "To act as a lender of last resort",
+      "To act as a regulator of commercial banks",
+      "To act as a supervisor of commercial banks",
+      "To act as a manager of the country's foreign exchange reserves"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The J-curve effect in international trade suggests that following a currency depreciation:",
+    "question": "The concept of opportunity cost is important in economics because it helps to determine the trade-offs that individuals and societies face. What is the opportunity cost of producing one more unit of a good?",
     "options": [
-      "A. The current account immediately improves before deteriorating in the long run",
-      "B. The current account initially worsens before improving as trade volumes adjust over time",
-      "C. Export volumes rise immediately because foreign prices fall instantaneously",
-      "D. The current account remains unchanged in both the short run and long run"
+      "The next best alternative that is purchased",
+      "The next best alternative that is used",
+      "The next best alternative that is given up",
+      "The next best alternative that is sold"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country's balance of payments (BOP) is a statistical statement that summarizes its economic transactions with the rest of the world. What is the purpose of the BOP?",
+    "options": [
+      "To measure the country's unemployment rate",
+      "To measure the country's external transactions",
+      "To measure the country's inflation rate",
+      "To measure the country's internal transactions"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Under which market structure does a firm face a demand curve that is identical to the industry demand curve, giving it the most significant price-making power?",
+    "question": "A country's balance of payments (BOP) is a statistical statement that summarizes its economic transactions with the rest of the world. What is the purpose of the BOP?",
     "options": [
-      "A. Monopolistic competition",
-      "B. Oligopoly with Bertrand competition",
-      "C. Pure monopoly",
-      "D. Dominant firm price leadership"
+      "To measure the country's unemployment rate",
+      "To measure the country's internal transactions",
+      "To measure the country's external transactions",
+      "To measure the country's inflation rate"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A development economist would classify a country as being in the stage of",
+    "options": [
+      "low-income industrialization",
+      "lower-middle-income industrialization",
+      "upper-middle-income industrialization",
+      "high-income industrialization"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of a production function is important in economics because it helps to determine the maximum output that a firm can produce with a given set of inputs. What is the production function?",
+    "options": [
+      "The relationship between the inputs and the supply of a firm",
+      "The relationship between the inputs and the demand of a firm",
+      "The relationship between the inputs and the prices of a firm",
+      "The relationship between the inputs and the output of a firm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of a production function is important in economics because it helps to determine the maximum output that a firm can produce with a given set of inputs. What is the production function?",
+    "options": [
+      "The relationship between the inputs and the supply of a firm",
+      "The relationship between the inputs and the output of a firm",
+      "The relationship between the inputs and the prices of a firm",
+      "The relationship between the inputs and the demand of a firm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of comparative advantage is important in economics because it helps to determine the country that should produce a good. What is the country that should produce a good if it has a comparative advantage?",
+    "options": [
+      "The country with a higher production level",
+      "The country with the higher opportunity cost",
+      "The country with the same opportunity cost",
+      "The country with the lower opportunity cost"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's exchange rate is determined by the foreign exchange market. What is the main determinant of a country's exchange rate?",
+    "options": [
+      "The balance of payments surplus",
+      "The supply and demand for foreign exchange",
+      "The inflation rate",
+      "The balance of payments deficit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of diminishing marginal returns occurs when a firm increases its output by using more of a variable factor of production. What happens to the marginal product of the variable factor?",
+    "options": [
+      "It becomes negative",
+      "It decreases",
+      "It remains unchanged",
+      "It increases"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country that has a trade deficit will have a current account balance of",
+    "options": [
+      "-ve",
+      "zero",
+      "+ve",
+      "inconclusive"
+    ],
+    "correctIndex": 0
   }
 ]

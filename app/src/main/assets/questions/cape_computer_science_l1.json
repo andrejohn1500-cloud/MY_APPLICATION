@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is the correct definition of an algorithm?",
+    "question": "What is the term for a network that connects devices in a small geographical area?",
     "options": [
-      "A set of rules for operating a computer",
-      "A step-by-step procedure for solving a problem",
-      "A programming language used to write software",
-      "A type of computer hardware"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does CPU stand for?",
-    "options": [
-      "Central Processing Unit",
-      "Computer Personal Unit",
-      "Central Program Utility",
-      "Core Processing Unit"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which number system uses only the digits 0 and 1?",
-    "options": [
-      "Decimal",
-      "Octal",
-      "Hexadecimal",
-      "Binary"
+      "Wireless Network (WLAN)",
+      "Wide Area Network (WAN)",
+      "Internet",
+      "Local Area Network (LAN)"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the decimal equivalent of the binary number 1010?",
+    "question": "What is the term for a type of software that provides a way of accessing and manipulating data in a database?",
     "options": [
-      "8",
-      "10",
-      "12",
-      "14"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of application software?",
-    "options": [
-      "Operating System",
-      "Device Driver",
-      "Microsoft Word",
-      "BIOS"
+      "Data Mart",
+      "Database",
+      "Database Management System (DBMS)",
+      "Data Warehouse"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of memory loses its contents when the computer is switched off?",
+    "question": "What is the primary function of the compiler in the process of developing a program?",
     "options": [
-      "ROM",
-      "Hard Disk",
-      "RAM",
-      "Flash Drive"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gate produces an output of 1 only when all its inputs are 1?",
-    "options": [
-      "OR gate",
-      "NOT gate",
-      "AND gate",
-      "XOR gate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does HTML stand for?",
-    "options": [
-      "Hyper Text Markup Language",
-      "High Transfer Markup Language",
-      "Hyper Text Management Language",
-      "High Text Markup Layout"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a high-level programming language?",
-    "options": [
-      "Machine code",
-      "Assembly language",
-      "Python",
-      "Binary code"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main function of an operating system?",
-    "options": [
-      "To browse the internet",
-      "To manage hardware and software resources",
-      "To create spreadsheets",
-      "To design graphics"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which storage device uses magnetic technology to store data?",
-    "options": [
-      "CD-ROM",
-      "USB Flash Drive",
-      "Hard Disk Drive",
-      "Solid State Drive"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'bit' refer to in computing?",
-    "options": [
-      "A group of 8 binary digits",
-      "The smallest unit of data, either 0 or 1",
-      "A unit equal to 1024 bytes",
-      "A type of computer virus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a Local Area Network (LAN)?",
-    "options": [
-      "A network spanning multiple countries",
-      "A network connecting devices in a small geographic area",
-      "A network that only connects two computers",
-      "A network that uses satellite communication"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a flowchart, which shape is used to represent a decision?",
-    "options": [
-      "Rectangle",
-      "Oval",
-      "Parallelogram",
-      "Diamond"
+      "It translates the machine code into source code.",
+      "It runs the program on the computer.",
+      "It stores the program on the computer.",
+      "It translates the source code into machine code."
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the hexadecimal equivalent of the decimal number 16?",
+    "question": "What is the primary function of the database schema in a database?",
     "options": [
-      "10",
-      "1F",
-      "FF",
-      "0F"
+      "It defines the structure and organization of the data in the database.",
+      "It retrieves data from the database.",
+      "It updates data in the database.",
+      "It stores data in the database."
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of computer that is designed for general-purpose use and can run a variety of operating systems?",
+    "options": [
+      "Mainframe Computer",
+      "Supercomputer",
+      "Personal Computer (PC)",
+      "Minicomputer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the operating system in managing the computer's resources?",
+    "options": [
+      "It stores programs on the computer.",
+      "It runs programs on the computer.",
+      "It allocates and deallocates resources such as memory and CPU time.",
+      "It communicates with devices."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a method of testing a software product that involves testing each component of the software independently?",
+    "options": [
+      "Unit Testing",
+      "Acceptance Testing",
+      "Integration Testing",
+      "System Testing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the software development methodology in software development?",
+    "options": [
+      "It provides a way of deploying a software product.",
+      "It provides a structured and organized way of developing a software product.",
+      "It provides a way of testing a software product.",
+      "It provides a way of maintaining a software product."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary advantage of using structured programming?",
+    "options": [
+      "Faster execution time",
+      "Increased code complexity",
+      "Reduced code size",
+      "Improved code readability and maintainability."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a set of rules that define the syntax and semantics of a programming language?",
+    "options": [
+      "Lexicon",
+      "Syntax",
+      "Semantics",
+      "Grammar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of firewall that examines incoming and outgoing network traffic and blocks suspicious activity?",
+    "options": [
+      "Firewall",
+      "Antivirus",
+      "Intrusion Prevention System (IPS)",
+      "Intrusion Detection System (IDS)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the central processing unit (CPU) in a computer?",
+    "options": [
+      "It executes instructions and performs calculations.",
+      "It communicates with devices.",
+      "It allocates resources.",
+      "It stores data in memory."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the software development methodology in software development?",
+    "options": [
+      "It provides a structured and organized way of developing a software product.",
+      "It provides a way of testing a software product.",
+      "It provides a way of maintaining a software product.",
+      "It provides a way of deploying a software product."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of computer that is designed for general-purpose use and can run a variety of operating systems?",
+    "options": [
+      "Personal Computer (PC)",
+      "Mainframe Computer",
+      "Supercomputer",
+      "Minicomputer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What data type is used to store a set of characters in a single variable?",
+    "options": [
+      "Integer",
+      "String",
+      "Float",
+      "Boolean"
+    ],
+    "correctIndex": 1
   }
 ]

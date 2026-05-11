@@ -1,151 +1,151 @@
 [
   {
-    "question": "In the context of national income accounting, which of the following correctly identifies the relationship between Gross National Product (GNP) and Gross Domestic Product (GDP)?",
+    "question": "A country that is experiencing a recession will experience a decrease in the overall level of economic activity. This is an example of a",
     "options": [
-      "GNP = GDP + Net Factor Income from Abroad",
-      "GNP = GDP - Net Factor Income from Abroad",
-      "GNP = GDP + Total Exports - Total Imports",
-      "GNP = GDP + Government Transfer Payments"
+      "inconclusive economic indicator",
+      "negative economic indicator",
+      "neutral economic indicator",
+      "positive economic indicator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country that uses a fiscal policy of expansionary fiscal policy will experience an increase in the overall level of economic activity. This is an example of a",
+    "options": [
+      "inconclusive economic indicator",
+      "neutral economic indicator",
+      "negative economic indicator",
+      "positive economic indicator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country that imposes a quota on imported textiles will experience a decrease in the quantity of textiles imported and an increase in the quantity of domestic textiles produced. This is an example of a",
+    "options": [
+      "substitution effect",
+      "price effect",
+      "income effect",
+      "taxation effect"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A firm operating under monopolistic competition is in long-run equilibrium. Which of the following best describes this equilibrium?",
+    "question": "A country that is experiencing deflation will likely experience",
     "options": [
-      "Price equals marginal cost and economic profit is zero",
-      "Price exceeds marginal cost and economic profit is zero",
-      "Price equals average total cost and economic profit is positive",
-      "Price equals marginal cost and economic profit is positive"
+      "an increase in the real value of wealth",
+      "a decrease in the real value of wealth",
+      "a decrease in the real value of debt",
+      "an increase in the real value of debt"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "If the Caribbean Development Bank (CDB) increases its lending to member states for infrastructure projects, the MOST likely macroeconomic effect in the short run is:",
+    "question": "A firm that is producing at the minimum point on its average total cost curve is said to be experiencing",
     "options": [
-      "A decrease in aggregate demand due to higher taxes",
-      "An increase in aggregate demand through higher investment expenditure",
-      "A reduction in the money supply through contractionary policy",
-      "An appreciation of the exchange rate due to capital inflows"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following BEST explains the concept of the 'terms of trade' for a small open economy like Trinidad and Tobago?",
-    "options": [
-      "The ratio of export prices to import prices expressed as an index",
-      "The total value of exports minus the total value of imports",
-      "The exchange rate between the domestic currency and the US dollar",
-      "The difference between nominal and real GDP growth rates"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In the IS-LM framework, a simultaneous expansionary fiscal policy and contractionary monetary policy would most likely result in:",
-    "options": [
-      "Higher output and lower interest rates",
-      "Ambiguous change in output and higher interest rates",
-      "Lower output and lower interest rates",
-      "Higher output and lower price levels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Heckscher-Ohlin theory of international trade predicts that a country will export goods that:",
-    "options": [
-      "Have the highest absolute productivity advantage",
-      "Intensively use the factor of production with which the country is relatively abundantly endowed",
-      "Are produced with the most advanced technology regardless of factor endowments",
-      "Require the least amount of capital per unit of labour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a consequence of a persistent current account deficit in a developing Caribbean economy?",
-    "options": [
-      "Continuous accumulation of foreign exchange reserves",
-      "Increased net foreign liabilities and potential exchange rate depreciation",
-      "Automatic improvement in the terms of trade",
-      "Reduction in the domestic money supply through fiscal contraction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under a system of fixed exchange rates, a country experiencing persistent balance of payments deficits would MOST likely be required to:",
-    "options": [
-      "Devalue its currency or implement deflationary domestic policies",
-      "Appreciate its currency to attract more capital inflows",
-      "Increase government spending to stimulate exports",
-      "Raise import tariffs without affecting the exchange rate parity"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Keynesian multiplier effect suggests that an initial increase in autonomous investment will lead to a larger final increase in national income. If the marginal propensity to consume (MPC) is 0.75, what is the value of the simple multiplier?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
+      "maximum efficient scale",
+      "minimum scale",
+      "minimum efficient scale",
+      "optimal efficient scale"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Deadweight loss in a monopoly market arises because:",
+    "question": "A country that imposes a tariff on imported textiles will experience a decrease in the quantity of textiles imported and a decrease in the quantity of domestic textiles produced. This is an example of a",
     "options": [
-      "The monopolist sets price equal to marginal cost, producing too much output",
-      "The monopolist restricts output below the socially optimal level and charges a price above marginal cost",
-      "Government taxation of the monopolist reduces consumer surplus to zero",
-      "The monopolist engages in price discrimination, benefiting all consumers equally"
+      "substitution effect",
+      "taxation effect",
+      "price effect",
+      "income effect"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the context of Caribbean economic integration, which of the following BEST describes a Common External Tariff (CET) within CARICOM?",
+    "question": "The Harrod-Domar model is a macroeconomic model that is used to explain the relationship between",
     "options": [
-      "A uniform tariff rate applied by all member states on imports from non-member countries",
-      "A tariff applied by each member state independently on imports from other CARICOM members",
-      "A subsidy provided to exporters within the CARICOM trading bloc",
-      "A tax on capital flows between CARICOM member states"
+      "investment and growth",
+      "government spending and growth",
+      "savings and growth",
+      "population growth and economic growth"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'Dutch Disease' in resource-rich economies refers to:",
+    "question": "The concept of market failure explains why a perfectly competitive market may not allocate resources efficiently. Which of the following is an example of market failure?",
     "options": [
-      "The decline of the manufacturing sector caused by currency appreciation following a resource boom",
-      "The spread of inflation from one trading partner to another through imported goods",
-      "The fiscal deficit created by over-reliance on commodity revenues during boom periods",
-      "The environmental degradation associated with large-scale extraction of natural resources"
+      "demerit goods",
+      "private goods",
+      "merit goods",
+      "public goods"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country that is experiencing a recession will experience a decrease in the number of people employed and a decrease in the amount of goods and services produced. This is an example of a",
+    "options": [
+      "negative economic indicator",
+      "positive economic indicator",
+      "inconclusive economic indicator",
+      "neutral economic indicator"
     ],
     "correctIndex": 0
   },
   {
-    "question": "According to the Quantity Theory of Money (MV = PQ), if the money supply increases by 10% and velocity of circulation remains constant, what happens if real output also increases by 10%?",
+    "question": "A country that imposes a quota on imported textiles will experience a decrease in the quantity of textiles imported and a decrease in the quantity of domestic textiles produced. This is an example of a",
     "options": [
-      "The price level increases by 20%",
-      "The price level remains unchanged",
-      "The price level decreases by 10%",
-      "The price level increases by 10%"
+      "substitution effect",
+      "taxation effect",
+      "price effect",
+      "income effect"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A negative externality in production causes the market equilibrium to result in:",
+    "question": "A country that is experiencing high inflation will likely experience",
     "options": [
-      "Underproduction relative to the socially optimal output level",
-      "Overproduction relative to the socially optimal output level",
-      "Optimal production but at an inefficiently low price",
-      "Underproduction and a price below the social marginal cost"
+      "an increase in the real value of debt",
+      "a decrease in the real value of debt",
+      "an increase in the real value of wealth",
+      "a decrease in the real value of wealth"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which combination of policies would MOST effectively address stagflation in a Caribbean economy experiencing both rising unemployment and rising inflation simultaneously?",
+    "question": "Monopolistic competition is characterized by",
     "options": [
-      "Expansionary fiscal policy combined with expansionary monetary policy",
-      "Contractionary fiscal policy combined with expansionary monetary policy",
-      "Supply-side policies aimed at increasing productive capacity and reducing costs of production",
-      "Increased import tariffs combined with a fixed exchange rate regime"
+      "many firms producing a differentiated product",
+      "few firms producing a homogeneous product",
+      "one firm producing a non-homogeneous product",
+      "one firm producing a homogeneous product"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A firm that is producing at the highest point on its average variable cost curve is said to be experiencing",
+    "options": [
+      "positive externalities",
+      "diseconomies of scale",
+      "economies of scale",
+      "negative externalities"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country that has a floating exchange rate will experience a decrease in the exchange rate and a decrease in the money supply if there is an increase in the money supply. This is an example of a",
+    "options": [
+      "cost-push inflation",
+      "stagnation",
+      "demand-pull inflation",
+      "disinflation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country that has a fixed exchange rate will experience a decrease in the exchange rate and an increase in the money supply if there is an increase in the money supply. This is an example of a",
+    "options": [
+      "cost-push inflation",
+      "stagnation",
+      "demand-pull inflation",
+      "disinflation"
     ],
     "correctIndex": 2
   }

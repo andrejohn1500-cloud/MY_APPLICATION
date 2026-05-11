@@ -1,152 +1,32 @@
 [
   {
-    "question": "What does CPU stand for?",
+    "question": "What is the primary function of the database management system in storing and retrieving data?",
     "options": [
-      "Central Processing Unit",
-      "Central Program Utility",
-      "Computer Processing Unit",
-      "Central Processor Utility"
+      "It provides a structured and organized way of storing and retrieving data.",
+      "It provides a way of updating data in a file.",
+      "It provides a way of storing data in a file.",
+      "It provides a way of retrieving data from a file."
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a primary storage device?",
+    "question": "What is the purpose of the 'final' keyword in a method declaration in Java?",
     "options": [
-      "Hard Disk Drive",
-      "USB Flash Drive",
-      "RAM",
-      "DVD-ROM"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the base of the binary number system?",
-    "options": [
-      "8",
-      "10",
-      "16",
-      "2"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which logic gate produces an output of 1 only when both inputs are 1?",
-    "options": [
-      "OR",
-      "AND",
-      "NOT",
-      "XOR"
+      "To indicate that the method is private",
+      "To indicate that the method cannot be overridden in a subclass",
+      "To indicate that the method is abstract",
+      "To indicate that the method is static"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does HTML stand for?",
+    "question": "What is the term for a class that inherits properties and behavior from another class?",
     "options": [
-      "HyperText Markup Language",
-      "HighText Machine Language",
-      "HyperText Machine Language",
-      "HyperTransfer Markup Language"
+      "Derived class",
+      "Child class",
+      "Parent class",
+      "Base class"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an example of an operating system?",
-    "options": [
-      "Microsoft Word",
-      "Google Chrome",
-      "Linux",
-      "Adobe Photoshop"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the decimal equivalent of the binary number 1010?",
-    "options": [
-      "8",
-      "12",
-      "10",
-      "14"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which data type is used to store whole numbers in most programming languages?",
-    "options": [
-      "Float",
-      "String",
-      "Boolean",
-      "Integer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does RAM stand for?",
-    "options": [
-      "Read Access Memory",
-      "Random Access Memory",
-      "Rapid Access Memory",
-      "Read And Modify"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a compiler?",
-    "options": [
-      "A program that translates high-level code into machine code all at once",
-      "A program that executes code line by line",
-      "A program that manages computer hardware",
-      "A program that connects computers in a network"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the function of the ALU in a CPU?",
-    "options": [
-      "Store data permanently",
-      "Perform arithmetic and logical operations",
-      "Control input and output devices",
-      "Manage memory allocation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which network topology connects all devices to a single central cable?",
-    "options": [
-      "Ring",
-      "Star",
-      "Mesh",
-      "Bus"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does URL stand for?",
-    "options": [
-      "Universal Resource Locator",
-      "Uniform Resource Locator",
-      "Unified Record Locator",
-      "Universal Record Link"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of open source software?",
-    "options": [
-      "Microsoft Windows",
-      "Adobe Acrobat",
-      "Mozilla Firefox",
-      "Apple macOS"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a relational database, what is a primary key?",
-    "options": [
-      "A key used to encrypt data",
-      "A field that uniquely identifies each record in a table",
-      "A key that links two databases together",
-      "A password to access the database"
-    ],
-    "correctIndex": 1
   }
 ]

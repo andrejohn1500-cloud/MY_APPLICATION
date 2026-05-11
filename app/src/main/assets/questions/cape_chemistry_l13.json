@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which of the following correctly describes the hybridisation and geometry of the xenon centre in XeF4?",
+    "question": "What is the ratio of the number of moles of a reactant to the number of moles of product in a balanced chemical equation called?",
     "options": [
-      "sp3d2 hybridisation, square planar geometry",
-      "sp3d hybridisation, trigonal bipyramidal geometry",
-      "sp3d2 hybridisation, octahedral geometry",
-      "sp3 hybridisation, tetrahedral geometry"
+      "stoichiometric constant",
+      "stoichiometric coefficient",
+      "stoichiometry",
+      "stoichiometric ratio"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.30 mol of sodium ethanoate in 1.00 dm\u00b3 of solution. Given that Ka for ethanoic acid is 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of the buffer?",
+    "question": "What is the term for the process by which a nonmetal loses electrons to form a positively charged ion?",
     "options": [
-      "4.92",
-      "4.57",
-      "5.17",
-      "4.74"
+      "ion formation",
+      "ion loss",
+      "ion gain",
+      "ionization"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "In the following cell notation: Pt | H2(g) | H\u207a(aq) || Cu\u00b2\u207a(aq) | Cu(s), which half-reaction occurs at the anode?",
+    "question": "What is the term for the minimum energy required for a reaction to occur?",
     "options": [
-      "H2(g) \u2192 2H\u207a(aq) + 2e\u207b",
-      "Cu\u00b2\u207a(aq) + 2e\u207b \u2192 Cu(s)",
-      "Cu(s) \u2192 Cu\u00b2\u207a(aq) + 2e\u207b",
-      "2H\u207a(aq) + 2e\u207b \u2192 H2(g)"
+      "activation potential",
+      "activation energy",
+      "activation threshold",
+      "activation barrier"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following statements about SN1 and SN2 mechanisms is correct?",
+    "question": "What is the term for a molecule that has a net dipole moment?",
     "options": [
-      "SN2 reactions proceed with inversion of configuration at the chiral centre while SN1 reactions give racemic mixtures",
-      "SN1 reactions proceed with inversion of configuration while SN2 reactions give racemic mixtures",
-      "Both SN1 and SN2 reactions give inversion of configuration",
-      "Both SN1 and SN2 reactions give racemic mixtures"
+      "amphipolar molecule",
+      "nonpolar molecule",
+      "monopolar molecule",
+      "polar molecule"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "For the reaction N2O4(g) \u21cc 2NO2(g), the equilibrium constant Kp = 0.40 atm at a certain temperature. If the total pressure is 1.0 atm, what is the mole fraction of NO2 at equilibrium?",
+    "question": "What is the type of electrolyte that is highly ionized in aqueous solution?",
     "options": [
-      "0.50",
-      "0.29",
-      "0.71",
-      "0.40"
+      "nonelectrolyte",
+      "strong electrolyte",
+      "weak electrolyte",
+      "amphoteric electrolyte"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The standard enthalpy of formation of liquid water is \u2212286 kJ mol\u207b\u00b9 and the enthalpy of vaporisation of water is +44 kJ mol\u207b\u00b9. What is the standard enthalpy of formation of water vapour?",
-    "options": [
-      "\u2212242 kJ mol\u207b\u00b9",
-      "\u2212330 kJ mol\u207b\u00b9",
-      "\u2212286 kJ mol\u207b\u00b9",
-      "\u221244 kJ mol\u207b\u00b9"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best explains why benzene undergoes electrophilic substitution rather than electrophilic addition?",
-    "options": [
-      "Addition would destroy the delocalised \u03c0 electron system and the aromatic stabilisation energy",
-      "Addition is kinetically too slow for benzene",
-      "Benzene lacks the electron density to attract electrophiles",
-      "Substitution produces a more stable carbocation intermediate"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A sample of radioactive isotope has a half-life of 5730 years. After 17190 years, what fraction of the original sample remains?",
-    "options": [
-      "1/8",
-      "1/4",
-      "1/16",
-      "1/3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which statement correctly describes the relationship between \u0394G\u00b0, Kc and cell potential E\u00b0 for an electrochemical cell?",
-    "options": [
-      "\u0394G\u00b0 = \u2212nFE\u00b0 and \u0394G\u00b0 = \u2212RT ln Kc",
-      "\u0394G\u00b0 = nFE\u00b0 and \u0394G\u00b0 = RT ln Kc",
-      "\u0394G\u00b0 = \u2212nFE\u00b0 and \u0394G\u00b0 = RT ln Kc",
-      "\u0394G\u00b0 = nFE\u00b0 and \u0394G\u00b0 = \u2212RT ln Kc"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In the mass spectrum of a compound, the molecular ion peak appears at m/z = 58. The compound shows an IR absorption at ~1715 cm\u207b\u00b9 and gives a positive 2,4-dinitrophenylhydrazine test but a negative Tollens' test. Which compound is most likely?",
-    "options": [
-      "Butanone (methyl ethyl ketone)",
-      "Butanal",
-      "Butanoic acid",
-      "2-methylpropanal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly explains the higher boiling point of ethanol (78\u00b0C) compared to dimethyl ether (\u221224\u00b0C) despite having the same molecular formula C2H6O?",
-    "options": [
-      "Ethanol forms intermolecular hydrogen bonds through its O\u2212H group while dimethyl ether cannot act as a hydrogen bond donor",
-      "Ethanol has a higher molar mass than dimethyl ether",
-      "Ethanol has stronger London dispersion forces due to its larger surface area",
-      "Dimethyl ether has a dipole moment while ethanol does not"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Given the following standard electrode potentials: MnO4\u207b/Mn\u00b2\u207a E\u00b0 = +1.51 V and Fe\u00b3\u207a/Fe\u00b2\u207a E\u00b0 = +0.77 V, what is the standard EMF for the reaction in which permanganate oxidises Fe\u00b2\u207a in acidic solution?",
-    "options": [
-      "0.74 V",
-      "2.28 V",
-      "\u22120.74 V",
-      "1.51 V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following represents the correct order of acid strength for the hydrogen halides in aqueous solution?",
-    "options": [
-      "HI > HBr > HCl > HF",
-      "HF > HCl > HBr > HI",
-      "HCl > HBr > HI > HF",
-      "HI > HCl > HBr > HF"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a first-order reaction, the rate constant k = 2.0 \u00d7 10\u207b\u00b3 s\u207b\u00b9. What is the half-life of the reaction?",
-    "options": [
-      "346.5 s",
-      "500 s",
-      "200 s",
-      "693 s"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following transition metal complexes would be expected to be diamagnetic according to crystal field theory when the ligands create a strong field?",
-    "options": [
-      "[Co(CN)6]\u00b3\u207b",
-      "[Fe(H2O)6]\u00b2\u207a",
-      "[Mn(H2O)6]\u00b2\u207a",
-      "[Cu(H2O)6]\u00b2\u207a"
-    ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

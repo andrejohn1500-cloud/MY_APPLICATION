@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the electron configuration of a carbon atom in its ground state?",
+    "question": "What is the type of reaction where one substance is converted into another substance by the loss of oxygen?",
     "options": [
-      "1s\u00b2 2s\u00b2 2p\u00b2",
-      "1s\u00b2 2s\u00b2 2p\u2074",
-      "1s\u00b2 2s\u00b9 2p\u00b3",
-      "1s\u00b2 2s\u00b2 2p\u2076"
+      "Decomposition Reaction",
+      "Combustion Reaction",
+      "Synthesis Reaction",
+      "Redox Reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the number of protons in a carbon atom?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of bond is formed when two atoms share a pair of electrons?",
+    "question": "What is the scientific term for the process by which a gas is converted into a liquid?",
     "options": [
-      "Ionic bond",
-      "Covalent bond",
-      "Metallic bond",
-      "Hydrogen bond"
+      "Condensation",
+      "Sublimation",
+      "Vaporization",
+      "Deposition"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the pH of a neutral solution at 25\u00b0C?",
+    "question": "What is the term for the ability of a substance to change its shape under applied stress?",
     "options": [
-      "0",
-      "7",
-      "14",
-      "1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a condensation polymer?",
-    "options": [
-      "Polythene",
-      "Poly(vinyl chloride)",
-      "Nylon",
-      "Polystyrene"
+      "Plasticity",
+      "Rigidity",
+      "Elasticity",
+      "Viscosity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the IUPAC name of CH\u2083CH\u2082OH?",
+    "question": "What is the scientific term for the process by which a solid changes directly to a liquid?",
     "options": [
-      "Methanol",
-      "Propanol",
-      "Ethanol",
-      "Butanol"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas is produced when zinc reacts with dilute hydrochloric acid?",
-    "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Chlorine",
-      "Hydrogen"
+      "Deposition",
+      "Sublimation",
+      "Freezing",
+      "Melting"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does Le Chatelier's principle state?",
+    "question": "What is the term for the energy of an electron in its ground state?",
     "options": [
-      "A system at equilibrium will always favour the forward reaction when disturbed",
-      "A system at equilibrium will shift to oppose any change imposed upon it",
-      "A system at equilibrium will always favour the reverse reaction when disturbed",
-      "Equilibrium constants change with concentration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following molecules has a trigonal planar shape?",
-    "options": [
-      "NH\u2083",
-      "H\u2082O",
-      "BF\u2083",
-      "CH\u2084"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the oxidation state of sulfur in H\u2082SO\u2084?",
-    "options": [
-      "\u22122",
-      "0",
-      "+4",
-      "+6"
+      "Electronegativity",
+      "Electron Affinity",
+      "Valence Electron Energy",
+      "Ionization Energy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which functional group is present in a carboxylic acid?",
+    "question": "What is the scientific term for the study of the behavior of chemical systems at equilibrium?",
     "options": [
-      "\u2212OH",
-      "\u2212CHO",
-      "\u2212COOH",
-      "\u2212CO\u2212"
+      "Electrochemistry",
+      "Thermodynamics",
+      "Kinetics",
+      "Equilibrium Chemistry"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What type of reaction occurs when bromine water is decolourised by an alkene?",
+    "question": "What is the scientific term for the study of the behavior of chemical systems in the presence of light?",
     "options": [
-      "Substitution",
-      "Elimination",
-      "Addition",
-      "Oxidation"
+      "Photochemistry",
+      "Equilibrium Chemistry",
+      "Thermodynamics",
+      "Kinetics"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes an exothermic reaction?",
+    "question": "What is the scientific term for the process by which a solid changes directly to a gas?",
     "options": [
-      "Energy is absorbed from the surroundings",
-      "The enthalpy change is positive",
-      "Energy is released to the surroundings",
-      "The activation energy is zero"
+      "Vaporization",
+      "Condensation",
+      "Melting",
+      "Sublimation"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the molar mass of calcium carbonate (CaCO\u2083)?",
+    "question": "What is the charge of an electron?",
     "options": [
-      "56 g/mol",
-      "84 g/mol",
-      "100 g/mol",
-      "116 g/mol"
+      "0",
+      "-2",
+      "+1",
+      "-1"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a strong acid?",
+    "question": "What is the scientific term for the process by which a liquid changes directly to a gas?",
     "options": [
-      "Ethanoic acid",
-      "Carbonic acid",
-      "Hydrochloric acid",
-      "Citric acid"
+      "Evaporation",
+      "Vaporization",
+      "Freezing",
+      "Condensation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "In an electrochemical cell, oxidation occurs at which electrode?",
+    "question": "What is the term for the energy of an electron in its excited state?",
     "options": [
-      "Cathode",
-      "Salt bridge",
-      "Anode",
-      "Electrode with higher reduction potential"
+      "Excitation Energy",
+      "Thermal Energy",
+      "Electron Affinity",
+      "Ionization Energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the rate at which a chemical reaction occurs?",
+    "options": [
+      "Thermodynamic Stability",
+      "Reaction Rate",
+      "Equilibrium Constant",
+      "Activation Energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the rate at which a catalyst speeds up a chemical reaction?",
+    "options": [
+      "Catalytic Rate",
+      "Equilibrium Constant",
+      "Activation Energy",
+      "Reaction Rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the scientific term for the study of the behavior of chemical systems at high temperatures and pressures?",
+    "options": [
+      "Kinetics",
+      "Equilibrium Chemistry",
+      "Thermodynamics",
+      "Electrochemistry"
     ],
     "correctIndex": 2
   }

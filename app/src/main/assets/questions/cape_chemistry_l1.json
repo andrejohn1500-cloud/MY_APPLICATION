@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the atomic number of carbon?",
+    "question": "What is the type of chemical bond that occurs between two atoms that share one or more pairs of electrons?",
     "options": [
-      "6",
-      "8",
-      "12",
-      "14"
+      "Hydrogen Bond",
+      "Ionic Bond",
+      "Dipole-Dipole Bond",
+      "Covalent Bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the ability of a substance to resist changes in its shape under applied stress?",
+    "options": [
+      "Viscosity",
+      "Elasticity",
+      "Plasticity",
+      "Rigidity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the scientific term for the study of the structure and properties of materials?",
+    "options": [
+      "Materials Science",
+      "Crystallography",
+      "Metallurgy",
+      "Thermodynamics"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a noble gas?",
+    "question": "What is the scientific term for the process by which a liquid is converted into a solid?",
     "options": [
-      "Neon",
-      "Nitrogen",
-      "Oxygen",
-      "Chlorine"
+      "Sublimation",
+      "Melting",
+      "Deposition",
+      "Freezing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the number of electrons gained or lost by an atom during a chemical reaction?",
+    "options": [
+      "Mass",
+      "Valence",
+      "Radius",
+      "Charge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the type of bond that occurs between two atoms that have an unequal sharing of electrons?",
+    "options": [
+      "Ionic Bond",
+      "Nonpolar Covalent Bond",
+      "Hydrogen Bond",
+      "Polar Covalent Bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the energy required to remove an electron from a molecule?",
+    "options": [
+      "Molecular Ionization Energy",
+      "Electron Affinity",
+      "Atomic Ionization Energy",
+      "Electron Gain Energy"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the chemical formula for water?",
+    "question": "What is the type of chemical bond that occurs between two atoms that have an equal sharing of electrons?",
     "options": [
-      "H2O",
-      "HO2",
-      "H2O2",
-      "OH"
+      "Ionic Bond",
+      "Metallic Bond",
+      "Polar Covalent Bond",
+      "Nonpolar Covalent Bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the type of chemical reaction where two or more substances combine to form a new compound?",
+    "options": [
+      "Decomposition Reaction",
+      "Replacement Reaction",
+      "Neutralization Reaction",
+      "Synthesis Reaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the type of bond that occurs between a metal atom and another metal atom?",
+    "options": [
+      "Polar Covalent Bond",
+      "Metallic Bond",
+      "Covalent Bond",
+      "Hydrogen Bond"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the type of reaction where a gas is converted into a liquid?",
+    "options": [
+      "Condensation",
+      "Freezing",
+      "Vaporization",
+      "Sublimation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of bond involves the sharing of electrons between two atoms?",
+    "question": "What is the term for the energy required to remove an electron from an atom?",
     "options": [
-      "Covalent bond",
-      "Ionic bond",
-      "Metallic bond",
-      "Hydrogen bond"
+      "Electron Affinity",
+      "Electronegativity",
+      "Ionization Energy",
+      "Electron Gain Energy"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the pH of a neutral solution at 25\u00b0C?",
+    "question": "What is the term for the ability of a substance to conduct electricity?",
     "options": [
-      "7",
-      "0",
-      "14",
-      "1"
+      "Optical Conductivity",
+      "Electrical Conductivity",
+      "Magnetic Conductivity",
+      "Thermal Conductivity"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is a physical change?",
+    "question": "What is the type of bond that occurs between a metal atom and a nonmetal atom?",
     "options": [
-      "Melting of ice",
-      "Burning of wood",
-      "Rusting of iron",
-      "Cooking an egg"
+      "Covalent Bond",
+      "Metallic Bond",
+      "Hydrogen Bond",
+      "Polar Covalent Bond"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the chemical symbol for sodium?",
+    "question": "What is the term for the ability of a substance to conduct heat?",
     "options": [
-      "Na",
-      "So",
-      "Sn",
-      "Sd"
+      "Optical Conductivity",
+      "Magnetic Conductivity",
+      "Electrical Conductivity",
+      "Thermal Conductivity"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which gas is produced when an acid reacts with a carbonate?",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Hydrogen",
-      "Nitrogen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the relative atomic mass of hydrogen?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "12"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following elements is a halogen?",
-    "options": [
-      "Fluorine",
-      "Calcium",
-      "Potassium",
-      "Magnesium"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What type of reaction occurs when an acid and a base react together?",
-    "options": [
-      "Neutralisation",
-      "Combustion",
-      "Decomposition",
-      "Oxidation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which subatomic particle has a negative charge?",
-    "options": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Nucleus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the chemical formula for sodium chloride (common salt)?",
-    "options": [
-      "NaCl",
-      "NaOH",
-      "NaNO3",
-      "Na2SO4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which state of matter has a definite volume but no definite shape?",
-    "options": [
-      "Liquid",
-      "Solid",
-      "Gas",
-      "Plasma"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the process by which plants make their own food using sunlight?",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Fermentation",
-      "Combustion"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

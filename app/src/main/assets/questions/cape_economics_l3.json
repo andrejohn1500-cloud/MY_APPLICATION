@@ -1,152 +1,22 @@
 [
   {
-    "question": "What is the definition of scarcity in economics?",
+    "question": "The concept of 'spillover effects' is most relevant in which of the following market structures?",
     "options": [
-      "An abundance of resources relative to wants",
-      "Limited resources relative to unlimited wants",
-      "The inability to produce any goods",
-      "A situation where prices are too high"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a public good?",
-    "options": [
-      "A private car",
-      "A loaf of bread",
-      "National defence",
-      "A cinema ticket"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does GDP stand for?",
-    "options": [
-      "Gross Domestic Product",
-      "General Demand Pressure",
-      "Gross Demand Potential",
-      "Government Domestic Policy"
+      "Monopolistic Competition",
+      "Monopoly",
+      "Perfect Competition",
+      "Oligopoly"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When the price of a good rises and demand falls, this illustrates the law of:",
+    "question": "The Caribbean region has a low level of trade dependence, with many countries relying on domestic production to support their economies.",
     "options": [
-      "Supply",
-      "Diminishing returns",
-      "Demand",
-      "Comparative advantage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of unemployment occurs when workers are between jobs?",
-    "options": [
-      "Structural unemployment",
-      "Cyclical unemployment",
-      "Frictional unemployment",
-      "Seasonal unemployment"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main goal of monetary policy?",
-    "options": [
-      "To control government spending",
-      "To regulate international trade",
-      "To control the money supply and interest rates",
-      "To redistribute income through taxation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A monopoly is best described as a market with:",
-    "options": [
-      "Many sellers and one buyer",
-      "One seller dominating the market",
-      "Two sellers competing",
-      "Perfect competition"
+      "True",
+      "False",
+      "Irrelevant",
+      "Partially True"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes inflation?",
-    "options": [
-      "A fall in the general price level",
-      "A rise in unemployment",
-      "A sustained increase in the general price level",
-      "A decrease in GDP"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The opportunity cost of a decision is:",
-    "options": [
-      "The monetary cost of producing a good",
-      "The value of the next best alternative forgone",
-      "The total cost of all alternatives",
-      "The cost of raw materials used"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which curve shows the maximum combination of two goods a country can produce?",
-    "options": [
-      "Demand curve",
-      "Supply curve",
-      "Production Possibility Frontier",
-      "Phillips curve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'ceteris paribus' mean in economics?",
-    "options": [
-      "All things change",
-      "Other things being equal",
-      "Supply equals demand",
-      "Prices are fixed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which factor of production receives rent as its reward?",
-    "options": [
-      "Labour",
-      "Capital",
-      "Land",
-      "Enterprise"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "function": "Which of the following is a direct tax?",
-    "options": [
-      "Value Added Tax",
-      "Import duties",
-      "Income tax",
-      "Excise duty"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A leftward shift of the supply curve indicates:",
-    "options": [
-      "An increase in supply",
-      "A decrease in supply",
-      "An increase in demand",
-      "No change in supply"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which organisation is primarily responsible for international trade rules?",
-    "options": [
-      "International Monetary Fund",
-      "World Bank",
-      "World Trade Organisation",
-      "United Nations"
-    ],
-    "correctIndex": 2
   }
 ]

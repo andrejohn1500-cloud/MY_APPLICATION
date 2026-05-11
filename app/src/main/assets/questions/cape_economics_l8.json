@@ -1,152 +1,22 @@
 [
   {
-    "question": "Which of the following best describes the concept of opportunity cost?",
+    "question": "In an economy with a large number of firms producing a homogeneous product, if a firm increases its output, it will cause a shift in the market supply curve. What happens to the market supply curve?",
     "options": [
-      "The monetary price paid for a good or service",
-      "The value of the next best alternative foregone when making a choice",
-      "The total cost of producing an additional unit of output",
-      "The cost of resources used in production"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the price elasticity of demand for a good is -0.4, the demand is considered to be:",
-    "options": [
-      "Perfectly elastic",
-      "Unitary elastic",
-      "Inelastic",
-      "Elastic"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a perfectly competitive market, a firm in long-run equilibrium will earn:",
-    "options": [
-      "Supernormal profits",
-      "Normal profits only",
-      "Economic losses",
-      "Zero revenue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a positive externality?",
-    "options": [
-      "A factory polluting a nearby river",
-      "Noise pollution from an airport",
-      "The benefits received by non-vaccinated individuals when others get vaccinated",
-      "Carbon emissions from motor vehicles"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Keynesian multiplier effect suggests that an initial increase in government spending will lead to:",
-    "options": [
-      "A proportionally smaller increase in national income",
-      "A proportionally larger increase in national income",
-      "No change in national income",
-      "A decrease in national income"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which monetary policy tool involves the central bank buying government securities from commercial banks?",
-    "options": [
-      "Raising the reserve requirement",
-      "Increasing the discount rate",
-      "Open market operations",
-      "Imposing credit controls"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Consumer Price Index (CPI) is primarily used to measure:",
-    "options": [
-      "Changes in the level of unemployment",
-      "Changes in the general price level over time",
-      "The growth rate of gross domestic product",
-      "The balance of trade between countries"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A country has a comparative advantage in producing a good when:",
-    "options": [
-      "It can produce the good using the least amount of labour",
-      "It can produce the good at a lower opportunity cost than another country",
-      "It produces more of the good than any other country",
-      "It has the most advanced technology for producing the good"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following market structures is characterised by a few large firms that are interdependent in their pricing decisions?",
-    "options": [
-      "Monopoly",
-      "Perfect competition",
-      "Oligopoly",
-      "Monopolistic competition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In national income accounting, GDP measured using the expenditure approach is calculated as:",
-    "options": [
-      "C + I + G + (X - M)",
-      "C + S + T + (X - M)",
-      "W + R + I + P",
-      "C + I + G - (X + M)"
+      "It remains unchanged",
+      "It shifts to the left",
+      "It becomes steeper",
+      "It shifts to the right"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following would cause the supply curve for a good to shift to the left?",
+    "question": "In a perfectly competitive market, if a firm is producing at a point where its marginal revenue equals its marginal cost, what is the firm's profit-maximizing quantity?",
     "options": [
-      "A decrease in the price of the good",
-      "An improvement in production technology",
-      "An increase in the cost of raw materials",
-      "A decrease in the number of producers"
+      "The quantity that it is producing at a profit",
+      "The quantity that it is not producing",
+      "The quantity that it is producing at a loss",
+      "The quantity at which it is producing"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The balance of payments current account records:",
-    "options": [
-      "Trade in goods and services, income flows, and current transfers",
-      "Foreign direct investment and portfolio investment",
-      "Changes in a country's official foreign exchange reserves",
-      "Long-term capital movements between countries"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A tax that takes a higher percentage of income from lower-income earners than from higher-income earners is described as:",
-    "options": [
-      "Progressive",
-      "Proportional",
-      "Regressive",
-      "Neutral"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If average total cost is falling, which of the following must be true?",
-    "options": [
-      "Marginal cost is negative",
-      "Marginal cost is greater than average total cost",
-      "Marginal cost is less than average total cost",
-      "Total cost is decreasing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Structural unemployment is best described as unemployment caused by:",
-    "options": [
-      "A general downturn in economic activity",
-      "Workers voluntarily leaving jobs to search for better ones",
-      "A mismatch between workers' skills and the skills demanded by employers",
-      "Seasonal fluctuations in the demand for labour"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

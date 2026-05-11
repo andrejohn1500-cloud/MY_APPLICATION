@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which data structure operates on a Last-In, First-Out (LIFO) principle?",
+    "question": "What is the purpose of the 'drop table' statement in a database query?",
     "options": [
-      "Queue",
-      "Stack",
-      "Linked List",
-      "Binary Tree"
+      "To create a new table in the database",
+      "To delete a table from the database",
+      "To truncate a table in the database",
+      "To alter a table in the database"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In SQL, which clause is used to filter groups of rows after a GROUP BY has been applied?",
+    "question": "What is the term for a type of software development methodology that emphasizes iterative and incremental development?",
     "options": [
-      "WHERE",
-      "FILTER",
-      "HAVING",
-      "SELECT"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the time complexity of a binary search algorithm on a sorted array of n elements?",
-    "options": [
-      "O(n)",
-      "O(n\u00b2)",
-      "O(log n)",
-      "O(n log n)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which OSI layer is responsible for end-to-end communication and error recovery between hosts?",
-    "options": [
-      "Network Layer",
-      "Data Link Layer",
-      "Transport Layer",
-      "Session Layer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
-    "options": [
-      "Encapsulation",
-      "Abstraction",
-      "Overloading",
-      "Overriding"
+      "V-Model Methodology",
+      "Scrum Methodology",
+      "Waterfall Methodology",
+      "Agile Methodology"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a lossless compression algorithm?",
+    "question": "What is the purpose of the 'join' statement in a database query?",
     "options": [
-      "JPEG",
-      "MP3",
-      "Huffman Coding",
-      "MPEG"
+      "To retrieve data from a single table",
+      "To combine data from two or more tables",
+      "To update data in a single table",
+      "To insert data into a single table"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of the 'create view' statement in a database query?",
+    "options": [
+      "To create a new table in the database",
+      "To alter a view on a table",
+      "To create a new view on a table",
+      "To delete a view from a table"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the acronym ACID stand for in the context of database transactions?",
+    "question": "What is the purpose of the 'rollback transaction' statement in a database query?",
     "options": [
-      "Atomicity, Consistency, Isolation, Durability",
-      "Accuracy, Consistency, Integrity, Durability",
-      "Atomicity, Concurrency, Isolation, Dependency",
-      "Accuracy, Concurrency, Integrity, Dependency"
+      "To begin a new transaction",
+      "To commit a transaction",
+      "To cancel a transaction",
+      "To alter a transaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a network security threat that involves the sending of a fake message that appears to come from a trusted source?",
+    "options": [
+      "Man-in-the-Middle (MitM)",
+      "Eavesdropping",
+      "Phishing",
+      "Spoofing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the 'synchronized' keyword in a method declaration in Java?",
+    "options": [
+      "To ensure thread safety",
+      "To ensure data recovery",
+      "To ensure data consistency",
+      "To ensure data integrity"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which gate produces a HIGH output only when all its inputs are HIGH?",
+    "question": "What is the purpose of the 'truncate table' statement in a database query?",
     "options": [
-      "OR Gate",
-      "NAND Gate",
-      "XOR Gate",
-      "AND Gate"
+      "To create a new table in the database",
+      "To alter a table in the database",
+      "To delete a table from the database",
+      "To delete all data from a table"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In Python, which of the following correctly defines a function that returns the square of a number using a lambda expression?",
+    "question": "What is the term for a type of database that is designed to store and manage graph data?",
     "options": [
-      "def square = lambda x: x*x",
-      "square = lambda x: x**2",
-      "lambda square(x): x**2",
-      "function square(x) = x**2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sorting algorithm has an average-case time complexity of O(n log n)?",
-    "options": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Selection Sort",
-      "Merge Sort"
+      "NoSQL Database",
+      "Relational Database",
+      "Object-Oriented Database",
+      "Graph Database"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In networking, what is the purpose of a subnet mask?",
+    "question": "What is the term for a type of network security threat that involves the interception and modification of data as it is transmitted between a client and a server?",
     "options": [
-      "To encrypt data transmitted over the network",
-      "To identify the network and host portions of an IP address",
-      "To assign dynamic IP addresses to devices",
-      "To filter incoming network traffic"
+      "Eavesdropping",
+      "Man-in-the-Middle (MitM)",
+      "Phishing",
+      "Spoofing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "question": "What is the term for a type of database that is designed to store and manage semi-structured data?",
     "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a compiler?",
-    "options": [
-      "To execute program instructions line by line",
-      "To translate high-level source code into machine code",
-      "To manage memory allocation during program execution",
-      "To debug errors in the source code"
+      "Relational Database",
+      "Object-Oriented Database",
+      "NoSQL Database",
+      "Graph Database"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following IP addresses is a private address according to RFC 1918?",
+    "question": "What is the purpose of the 'select' statement in a database query?",
     "options": [
-      "172.217.0.0",
-      "8.8.8.8",
-      "192.168.10.5",
-      "200.100.50.25"
+      "To retrieve data from the database",
+      "To delete data from the database",
+      "To update data in the database",
+      "To insert data into the database"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the 'update' statement in a database query?",
+    "options": [
+      "To insert data into a table",
+      "To delete data from a table",
+      "To modify data in a table",
+      "To retrieve data from a table"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a binary tree, what is the maximum number of nodes at level k (where the root is at level 0)?",
+    "question": "What is the purpose of the 'insert into' statement in a database query?",
     "options": [
-      "k",
-      "2k",
-      "2^k",
-      "k\u00b2"
+      "To retrieve data from a table",
+      "To delete data from a table",
+      "To update data in a table",
+      "To insert data into a table"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the 'create table' statement in a database query?",
+    "options": [
+      "To create a new table in the database",
+      "To truncate a table in the database",
+      "To delete a table from the database",
+      "To alter a table in the database"
+    ],
+    "correctIndex": 0
   }
 ]

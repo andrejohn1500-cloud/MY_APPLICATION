@@ -1,153 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the concept of opportunity cost?",
+    "question": "In a perfectly competitive market, if the price of a good falls, what is the effect on the quantity supplied?",
     "options": [
-      "The monetary price paid for a good or service",
-      "The value of the next best alternative foregone when making a choice",
-      "The total cost of producing an additional unit of output",
-      "The sunk cost associated with a previous decision"
+      "It becomes more volatile",
+      "It increases",
+      "It decreases",
+      "It remains unchanged"
     ],
     "correctIndex": 1
   },
   {
-    "question": "If the price elasticity of demand for a good is -0.4, the demand is best described as:",
+    "question": "The concept of a multiplier effect is important in economics because it helps to determine the change in aggregate demand that results from a change in government expenditure. What is the multiplier effect?",
     "options": [
-      "Perfectly elastic",
-      "Unitary elastic",
-      "Inelastic",
-      "Elastic"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a perfectly competitive market, a firm is a price taker because:",
-    "options": [
-      "It sells a differentiated product",
-      "It has significant market power",
-      "It produces a homogeneous product and is one of many sellers",
-      "It faces a downward-sloping demand curve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a positive externality?",
-    "options": [
-      "Air pollution from a factory",
-      "Noise pollution from an airport",
-      "The benefits received by neighbours when a homeowner maintains their garden",
-      "Traffic congestion caused by private car use"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "GDP measured using the expenditure approach is calculated as:",
-    "options": [
-      "C + I + G + (X - M)",
-      "C + I + G + (M - X)",
-      "W + R + I + P",
-      "C + S + T"
+      "The change in aggregate demand that results from a change in government expenditure",
+      "The change in taxes that results from a change in aggregate demand",
+      "The change in government expenditure that results from a change in aggregate demand",
+      "The change in aggregate demand that results from a change in taxes"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The multiplier effect in Keynesian economics refers to:",
+    "question": "The main reasons for the high level of poverty in the Caribbean region are due to a lack of access to education and healthcare.",
     "options": [
-      "The increase in interest rates following a rise in government spending",
-      "The proportional decrease in consumption when taxes increase",
-      "The process by which an initial injection of spending leads to a larger increase in national income",
-      "The reduction in private investment caused by government borrowing"
+      "False",
+      "Partially True",
+      "True",
+      "Irrelevant"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A monopsonist in the labour market is best described as:",
+    "question": "A country's balance of payments (BOP) is a statistical statement that summarizes its economic transactions with the rest of the world. What is the purpose of the BOP?",
     "options": [
-      "A firm that sells its product in a monopoly market",
-      "A single buyer of labour in a particular market",
-      "A trade union that controls labour supply",
-      "A firm that pays workers above the equilibrium wage"
+      "To measure the country's unemployment rate",
+      "To measure the country's external transactions",
+      "To measure the country's inflation rate",
+      "To measure the country's internal transactions"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which phase of the business cycle is characterised by rising unemployment and falling GDP?",
+    "question": "The Caribbean region has a low level of economic diversification, with many countries relying on a single industry to support their economies.",
     "options": [
-      "Expansion",
-      "Peak",
-      "Recession",
-      "Trough"
+      "False",
+      "True",
+      "Partially True",
+      "Irrelevant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country's terms of trade (TOT) is the ratio of its export price index to its import price index. What does an improvement in a country's TOT indicate?",
+    "options": [
+      "An increase in its real income",
+      "A decrease in its export prices",
+      "A decrease in its real income",
+      "No change in its real income"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of 'dependency theory' was developed in the 1960s to explain the underdevelopment of the Caribbean region.",
+    "options": [
+      "Irrelevant",
+      "False",
+      "True",
+      "Partially True"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The law of diminishing marginal returns states that:",
+    "question": "The concept of comparative advantage was first introduced by David Ricardo in his book 'On the Principles of Political Economy and Taxation' in 1817. What is the country that David Ricardo used as an example to illustrate comparative advantage?",
     "options": [
-      "Total output eventually falls as more capital is added, holding labour constant",
-      "As successive units of a variable factor are added to fixed factors, marginal product eventually decreases",
-      "Long-run average costs always fall as output increases",
-      "Total costs increase at a decreasing rate as output expands"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following policy tools is an example of contractionary fiscal policy?",
-    "options": [
-      "Reducing the reserve requirement for commercial banks",
-      "Increasing government expenditure on infrastructure",
-      "Lowering the central bank discount rate",
-      "Increasing income tax rates and reducing government spending"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The terms of trade for a country are calculated as:",
-    "options": [
-      "(Volume of exports / Volume of imports) x 100",
-      "(Index of export prices / Index of import prices) x 100",
-      "(Value of exports - Value of imports) x 100",
-      "(Current account balance / GDP) x 100"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Price discrimination occurs when a firm:",
-    "options": [
-      "Sets a price equal to marginal cost for all consumers",
-      "Charges different prices for the same product to different consumers based on willingness to pay",
-      "Sells products in bulk at a lower per-unit price",
-      "Reduces price for all consumers when output increases"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "command": "Which of the following best explains demand-pull inflation?",
-    "question": "Which of the following best explains demand-pull inflation?",
-    "options": [
-      "Rising production costs pushing up the general price level",
-      "An increase in aggregate demand exceeding the economy's productive capacity",
-      "A decrease in the money supply reducing purchasing power",
-      "Supply chain disruptions reducing the availability of goods"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of international trade, the theory of comparative advantage suggests that:",
-    "options": [
-      "Countries should only trade if they have an absolute advantage in production",
-      "A country should specialise in producing goods for which it has the lowest opportunity cost",
-      "Trade is only beneficial when both countries have equal factor endowments",
-      "Protectionist policies always improve a country's welfare"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is most likely to cause the supply curve for a good to shift to the right?",
-    "options": [
-      "An increase in the price of the good",
-      "A decrease in consumer income",
-      "A reduction in the cost of raw materials used in production",
-      "An increase in the number of buyers in the market"
+      "England and France",
+      "England and Germany",
+      "England and Portugal",
+      "England and Spain"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A firm's short run production function can be represented graphically as a curve of a specific shape, which is determined by the fixed factors of production. What is the name of this curve?",
+    "options": [
+      "Total Revenue Curve",
+      "Fixed Cost Curve",
+      "Average Revenue Curve",
+      "Marginal Cost Curve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The main reasons for the high level of corruption in the Caribbean region are due to a lack of institutional capacity and a high level of poverty.",
+    "options": [
+      "Partially True",
+      "Irrelevant",
+      "True",
+      "False"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of opportunity cost is important in economics because it helps to determine the maximum output that an economy can produce with the given resources. What is the opportunity cost of producing one more unit of a good?",
+    "options": [
+      "The next best alternative that is sold",
+      "The next best alternative that is given up",
+      "The next best alternative that is purchased",
+      "The next best alternative that is used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'dependency theory' was developed in the 1940s to explain the underdevelopment of the Caribbean region.",
+    "options": [
+      "Irrelevant",
+      "False",
+      "True",
+      "Partially True"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The national income accounts in a country are compiled by the Central Statistical Office (CSO). What is the main purpose of the national income accounts?",
+    "options": [
+      "To measure the country's national income and its growth rate",
+      "To measure the country's inflation rate",
+      "To measure the country's balance of payments",
+      "To measure the country's unemployment rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Central Bank of a country uses monetary policy to maintain the stability of the financial system. What is the primary function of the Central Bank?",
+    "options": [
+      "To act as a manager of the country's foreign exchange reserves",
+      "To act as a lender of last resort",
+      "To act as a supervisor of commercial banks",
+      "To act as a regulator of commercial banks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Caribbean region has a high level of institutional capacity, with most countries having a well-developed public sector.",
+    "options": [
+      "False",
+      "Partially True",
+      "Irrelevant",
+      "True"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following correctly describes the trend in first ionization energies across Period 3 (Na to Ar)?",
+    "question": "What is the term for a reaction in which the concentrations of the reactants and products remain constant over time?",
     "options": [
-      "Generally increases with two notable dips at Al and S",
-      "Generally decreases with two notable peaks at Mg and P",
-      "Generally increases with no exceptions",
-      "Generally decreases across the period"
+      "stationarity concentration",
+      "equilibrium concentration",
+      "steady state concentration",
+      "stability concentration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a reaction in which the concentrations of the reactants and products remain constant over time?",
+    "options": [
+      "steady state",
+      "stability",
+      "stationarity",
+      "equilibrium"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the rate constant of a second-order reaction?",
+    "options": [
+      "k = [A]^2/t",
+      "k = [A]^2",
+      "k = [A]",
+      "k = [A]/t"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.15 mol of sodium ethanoate in 1.0 dm\u00b3 of solution. Given that Ka = 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of the buffer?",
+    "question": "What is the term for the process by which a molecule with a double bond is converted to a molecule with a single bond?",
     "options": [
-      "4.62",
-      "4.74",
-      "4.87",
-      "5.00"
+      "reduction reaction",
+      "dissociation reaction",
+      "oxidation reaction",
+      "decomposition reaction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the reaction mechanism for the bromination of benzene, which species acts as the electrophile that attacks the benzene ring?",
+    "question": "What is the term for the increase in the kinetic energy of the particles of a substance when it is heated?",
     "options": [
-      "Br\u207a",
-      "Br\u2082",
-      "FeBr\u2084\u207b",
-      "Br\u2022"
+      "thermal diffusion",
+      "thermal expansion",
+      "thermal conductivity",
+      "thermal energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a collision between two molecules that results in a chemical reaction?",
+    "options": [
+      "ineffective collision",
+      "noncollision",
+      "collision",
+      "effective collision"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A reaction has a high activation energy barrier. What can be done to increase the rate of the reaction?",
+    "options": [
+      "Increasing the surface area of reactants",
+      "Using a catalyst",
+      "Increasing the temperature",
+      "Increasing the concentration of reactants"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a reaction in which the concentration of a reactant decreases over time?",
+    "options": [
+      "decrease in concentration",
+      "constant concentration",
+      "increase in concentration",
+      "stationary concentration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which statement about the Born-Haber cycle for sodium chloride is correct?",
+    "question": "What is the term for the energy required to remove an electron from a mole of gaseous atoms in the gaseous state?",
     "options": [
-      "The lattice enthalpy is always exothermic and represents the energy released when gaseous ions form one mole of ionic lattice",
-      "The electron affinity of chlorine is endothermic",
-      "The atomisation enthalpy of chlorine refers to the energy required to form one mole of Cl\u2082 from chlorine atoms",
-      "The lattice enthalpy equals the sum of all other enthalpy changes in the cycle, making it endothermic"
+      "electron affinity",
+      "electron gain energy",
+      "ionization energy",
+      "electron binding energy"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following compounds would show optical isomerism?",
+    "question": "What is the term for the process by which a metal gains electrons to form a negatively charged ion?",
     "options": [
-      "CH\u2083CH(OH)COOH",
-      "CH\u2083CH\u2082OH",
-      "(CH\u2083)\u2082CHOH",
-      "CH\u2083COCH\u2083"
+      "ion formation",
+      "ion loss",
+      "ion gain",
+      "ionization"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The rate equation for a reaction is: rate = k[A]\u00b2[B]. If the concentration of A is doubled and the concentration of B is halved, what happens to the rate?",
+    "question": "What is the term for the process by which a solid changes directly to a gas without going through the liquid phase?",
     "options": [
-      "The rate doubles",
-      "The rate is halved",
-      "The rate remains the same",
-      "The rate quadruples"
+      "diffusion",
+      "effusion",
+      "sublimation",
+      "decomposition"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following statements about the shapes of molecules is correct?",
+    "question": "What is the term for the minimum energy required for a molecule to escape from the surface of a liquid?",
     "options": [
-      "SF\u2084 has a see-saw shape due to four bonding pairs and one lone pair",
-      "PCl\u2085 is trigonal planar because phosphorus has five bonding pairs",
-      "XeF\u2082 is bent because xenon has two lone pairs",
-      "BF\u2083 has a tetrahedral shape because boron forms four bonds"
+      "viscosity",
+      "vapour pressure",
+      "surface tension",
+      "diffusion coefficient"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "During the electrolysis of aqueous copper(II) sulfate using copper electrodes, which statement is correct?",
+    "question": "What is the term for the type of electrochemical cell in which an oxidation reaction occurs at the cathode?",
     "options": [
-      "The anode dissolves and copper is deposited at the cathode, keeping the concentration of Cu\u00b2\u207a constant",
-      "Oxygen is produced at the anode and hydrogen at the cathode",
-      "The concentration of Cu\u00b2\u207a steadily increases throughout electrolysis",
-      "Sulfate ions are discharged at the anode"
+      "photoelectrochemical cell",
+      "fuel cell",
+      "electrolytic cell",
+      "galvanic cell"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following best explains why diamond has a much higher melting point than iodine?",
+    "question": "What is the term for the maximum amount of a solute that can be dissolved in a given amount of solvent at a particular temperature?",
     "options": [
-      "Diamond has a giant covalent network structure requiring breaking of many strong covalent bonds, whereas iodine has a simple molecular structure held together by weak van der Waals forces",
-      "Diamond contains ionic bonds which are stronger than the covalent bonds in iodine",
-      "Iodine molecules are polar, making them easier to separate",
-      "Diamond atoms are heavier than iodine molecules, requiring more energy to separate"
+      "phase equilibrium",
+      "solubility equilibrium",
+      "chemical equilibrium",
+      "solubility"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Consider the equilibrium: N\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g). Which change would increase the value of the equilibrium constant Kc?",
+    "question": "What is the term for the process by which a molecule with a single bond is converted to a molecule with a double bond?",
     "options": [
-      "Decreasing the temperature if the forward reaction is exothermic",
-      "Increasing the pressure",
-      "Adding a catalyst",
-      "Increasing the concentration of N\u2082"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In NMR spectroscopy, which of the following proton environments in ethyl ethanoate (CH\u2083COOCH\u2082CH\u2083) would appear as a quartet?",
-    "options": [
-      "The \u2013OCH\u2082\u2013 protons split by the adjacent CH\u2083 group",
-      "The CH\u2083CO\u2013 protons",
-      "The \u2013OCH\u2082CH\u2083 terminal methyl protons",
-      "All proton environments appear as singlets"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which reagents and conditions are required to convert a primary alcohol to a carboxylic acid?",
-    "options": [
-      "Acidified potassium dichromate(VI) under reflux",
-      "Acidified potassium dichromate(VI) by distillation",
-      "Alkaline potassium manganate(VII) in cold conditions",
-      "Fehling's solution under reflux"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The standard electrode potential for Zn\u00b2\u207a/Zn is \u22120.76 V and for Cu\u00b2\u207a/Cu is +0.34 V. What is the standard EMF of a cell constructed from these two half-cells, and which electrode acts as the anode?",
-    "options": [
-      "EMF = +1.10 V; zinc is the anode",
-      "EMF = +1.10 V; copper is the anode",
-      "EMF = \u22121.10 V; zinc is the anode",
-      "EMF = +0.42 V; copper is the anode"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly identifies the hybridisation of the carbon atoms and bond angles in ethyne (C\u2082H\u2082)?",
-    "options": [
-      "sp hybridisation; bond angle 180\u00b0",
-      "sp\u00b2 hybridisation; bond angle 120\u00b0",
-      "sp\u00b3 hybridisation; bond angle 109.5\u00b0",
-      "sp hybridisation; bond angle 120\u00b0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A solution of 0.1 mol dm\u207b\u00b3 propanoic acid (Ka = 1.35 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3) is prepared. Which expression correctly gives the hydrogen ion concentration, assuming the degree of dissociation is small?",
-    "options": [
-      "[H\u207a] = \u221a(Ka \u00d7 c) = \u221a(1.35 \u00d7 10\u207b\u2075 \u00d7 0.1)",
-      "[H\u207a] = Ka/c",
-      "[H\u207a] = c/Ka",
-      "[H\u207a] = Ka \u00d7 c\u00b2"
+      "oxidation reaction",
+      "dissociation reaction",
+      "reduction reaction",
+      "decomposition reaction"
     ],
     "correctIndex": 0
   }

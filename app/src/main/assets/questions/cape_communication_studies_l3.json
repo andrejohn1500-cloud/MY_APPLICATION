@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which of the following best defines 'communication'?",
+    "question": "What is the term for the use of language to persuade or influence others?",
     "options": [
-      "The process of sending and receiving messages",
-      "The act of writing formal letters",
-      "The use of technology to share information",
-      "The study of languages and grammar"
+      "Eloquence",
+      "Oratory",
+      "Rhetoric",
+      "Fluency"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the person who receives a message in the communication process?",
+    "question": "Which of the following is a key characteristic of Caribbean identity?",
     "options": [
-      "Sender",
-      "Encoder",
+      "Homogeneity and monoculturalism",
+      "Uniformity and standardization",
+      "Hybridity and creolization",
+      "Heterogeneity and multiculturalism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the ability to critically evaluate and interpret messages from various sources?",
+    "options": [
+      "Information Literacy",
+      "Communication Skills",
+      "Media Literacy",
+      "Critical Thinking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of sending and receiving messages between individuals, groups, or countries?",
+    "options": [
+      "Language",
+      "Communication",
+      "Written Communication",
+      "Oral Communication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a key component of the communication process?",
+    "options": [
+      "Message",
+      "Channel",
       "Receiver",
-      "Mediator"
+      "Sender"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of non-verbal communication?",
-    "options": [
-      "Writing an email",
-      "Making a phone call",
-      "Nodding your head",
-      "Reading a newspaper"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'feedback' mean in the context of communication?",
-    "options": [
-      "The noise that disrupts a message",
-      "The response given by the receiver to the sender",
-      "The medium used to send a message",
-      "The encoding of a message"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is considered a barrier to effective communication?",
-    "options": [
-      "Clear language",
-      "Active listening",
-      "Noise and distractions",
-      "Appropriate body language"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of communication involves face-to-face interaction between two people?",
-    "options": [
-      "Mass communication",
-      "Intrapersonal communication",
-      "Interpersonal communication",
-      "Group communication"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which language register is most appropriate for writing a formal business letter?",
-    "options": [
-      "Casual register",
-      "Intimate register",
-      "Formal register",
-      "Consultative register"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a persuasive essay?",
-    "options": [
-      "To entertain the reader with a story",
-      "To convince the reader to accept a particular viewpoint",
-      "To explain how something works",
-      "To describe a personal experience"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'dialect'?",
-    "options": [
-      "A formal version of a language",
-      "A regional or social variety of a language",
-      "A written form of communication",
-      "A type of non-verbal communication"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the Shannon-Weaver model of communication, what is 'noise'?",
-    "options": [
-      "Loud music in the background only",
-      "Any interference that distorts the message",
-      "The tone of the speaker's voice",
-      "The feedback from the receiver"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of mass communication?",
-    "options": [
-      "A telephone conversation",
-      "A text message to a friend",
-      "A television broadcast",
-      "A private letter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the meaning of 'intrapersonal communication'?",
-    "options": [
-      "Communication between two people",
-      "Communication within large groups",
-      "Communication with oneself",
-      "Communication through media"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a feature of Standard English?",
-    "options": [
-      "Use of Creole expressions",
-      "Adherence to established grammar rules",
-      "Informal slang and idioms",
-      "Regional pronunciation patterns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'thesis statement' in an essay?",
-    "options": [
-      "The concluding sentence of the essay",
-      "A sentence that introduces background information",
-      "A sentence that states the main argument or point of the essay",
-      "A sentence that provides evidence for a claim"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes 'active listening'?",
-    "options": [
-      "Hearing background sounds while doing other tasks",
-      "Fully concentrating on and responding to what is being said",
-      "Repeating everything the speaker says word for word",
-      "Listening only to parts of the message you find interesting"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

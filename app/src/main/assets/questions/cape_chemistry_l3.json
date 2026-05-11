@@ -1,152 +1,52 @@
 [
   {
-    "question": "What is the electron configuration of a carbon atom in its ground state?",
+    "question": "What is the scientific term for the study of the behavior of chemical systems under the influence of an electric field?",
     "options": [
-      "1s\u00b2 2s\u00b2 2p\u00b2",
-      "1s\u00b2 2s\u00b2 2p\u2074",
-      "1s\u00b2 2s\u00b9 2p\u00b3",
-      "1s\u00b2 2p\u2074"
+      "Thermodynamics",
+      "Electrochemistry",
+      "Equilibrium Chemistry",
+      "Kinetics"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is a property of ionic compounds?",
+    "question": "What is the type of bond that occurs between a hydrogen atom and a highly electronegative atom?",
     "options": [
-      "They conduct electricity when dissolved in water",
-      "They have low melting points",
-      "They are generally soluble in organic solvents",
-      "They do not form crystals"
+      "Covalent Bond",
+      "Polar Covalent Bond",
+      "Hydrogen Bond",
+      "Metallic Bond"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the pH of a neutral solution at 25\u00b0C?",
+    "question": "What is the type of reaction where a solid is converted into a gas?",
     "options": [
-      "7",
-      "0",
-      "14",
-      "1"
+      "Melting",
+      "Vaporization",
+      "Condensation",
+      "Sublimation"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute hydrochloric acid?",
+    "question": "What is the type of reaction where one substance is converted into another substance without the gain or loss of oxygen?",
     "options": [
-      "Hydrogen",
-      "Chlorine",
-      "Oxygen",
-      "Carbon dioxide"
+      "Synthesis Reaction",
+      "Decomposition Reaction",
+      "Combustion Reaction",
+      "Redox Reaction"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "What is the IUPAC name of CH\u2083CH\u2082OH?",
+    "question": "What is the scientific term for the study of the interactions between light and matter?",
     "options": [
-      "Ethanol",
-      "Methanol",
-      "Propanol",
-      "Butanol"
+      "Crystallography",
+      "Kinetics",
+      "Spectroscopy",
+      "Thermodynamics"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an example of a physical change?",
-    "options": [
-      "Melting of ice",
-      "Burning of wood",
-      "Rusting of iron",
-      "Fermentation of sugar"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the molar mass of water (H\u2082O)?",
-    "options": [
-      "18 g/mol",
-      "16 g/mol",
-      "20 g/mol",
-      "22 g/mol"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of bond involves the sharing of electrons between two atoms?",
-    "options": [
-      "Covalent bond",
-      "Ionic bond",
-      "Metallic bond",
-      "Hydrogen bond"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the oxidation state of sulfur in H\u2082SO\u2084?",
-    "options": [
-      "+6",
-      "+4",
-      "+2",
-      "-2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a noble gas?",
-    "options": [
-      "Argon",
-      "Nitrogen",
-      "Chlorine",
-      "Fluorine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What type of reaction occurs when an acid reacts with a base to form salt and water?",
-    "options": [
-      "Neutralization",
-      "Combustion",
-      "Redox",
-      "Decomposition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which instrument is used to measure the volume of a liquid accurately in a laboratory?",
-    "options": [
-      "Burette",
-      "Thermometer",
-      "Balance",
-      "Barometer"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the formula of glucose?",
-    "options": [
-      "C\u2086H\u2081\u2082O\u2086",
-      "C\u2081\u2082H\u2082\u2082O\u2081\u2081",
-      "C\u2086H\u2086",
-      "C\u2082H\u2085OH"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following elements is a halogen?",
-    "options": [
-      "Chlorine",
-      "Sodium",
-      "Calcium",
-      "Potassium"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a redox reaction, the species that loses electrons is said to be?",
-    "options": [
-      "Oxidized",
-      "Reduced",
-      "Neutralized",
-      "Precipitated"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

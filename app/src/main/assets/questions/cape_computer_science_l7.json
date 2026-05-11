@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "question": "What is the purpose of the 'begin transaction' statement in a database query?",
     "options": [
-      "Queue",
-      "Stack",
-      "Linked List",
-      "Binary Tree"
+      "To roll back a transaction",
+      "To begin a new transaction",
+      "To cancel a transaction",
+      "To commit a transaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In object-oriented programming, what is the term for a class that inherits properties and methods from another class?",
+    "question": "What is the term for a network security threat that involves the unauthorized access to a computer system or network using a fake identity?",
     "options": [
-      "Superclass",
-      "Abstract class",
-      "Subclass",
-      "Interface"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following sorting algorithms has the best average-case time complexity?",
-    "options": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Merge Sort",
-      "Selection Sort"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the acronym SQL stand for?",
-    "options": [
-      "Structured Query Language",
-      "Simple Query Logic",
-      "Sequential Query List",
-      "Standard Question Language"
+      "Impersonation",
+      "Phishing",
+      "Eavesdropping",
+      "Spoofing"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a binary number system, what is the decimal equivalent of 1011?",
+    "question": "What is the purpose of the 'alter table' statement in a database query?",
     "options": [
-      "9",
-      "10",
-      "11",
-      "13"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which network topology connects all devices to a single central hub or switch?",
-    "options": [
-      "Ring",
-      "Mesh",
-      "Bus",
-      "Star"
+      "To create a new table in the database",
+      "To truncate a table in the database",
+      "To delete a table from the database",
+      "To modify the structure of a table"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary purpose of a compiler?",
+    "question": "What is the purpose of the 'create index' statement in a database query?",
     "options": [
-      "To execute code line by line",
-      "To translate high-level source code into machine code",
-      "To manage memory allocation",
-      "To debug runtime errors"
+      "To delete an index from a table",
+      "To create a new index on a table",
+      "To create a new table in the database",
+      "To alter an index on a table"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is NOT a characteristic of a relational database?",
+    "question": "What is the purpose of the 'assert' statement in a programming language?",
     "options": [
-      "Data stored in tables",
-      "Use of primary keys",
-      "Hierarchical parent-child structure as the main model",
-      "Support for SQL queries"
+      "To verify that a condition is true",
+      "To compare two values",
+      "To assign a value to a variable",
+      "To print a message to the console"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the 'commit' statement in a database transaction?",
+    "options": [
+      "To save changes to the database",
+      "To cancel a transaction",
+      "To roll back changes to the database",
+      "To begin a new transaction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in an object-oriented programming context?",
+    "options": [
+      "To refer to the current object",
+      "To refer to the parent object",
+      "To refer to the child object",
+      "To refer to the null object"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a network protocol that is used to establish and maintain a connection between a client and a server?",
+    "options": [
+      "TCP (Transmission Control Protocol)",
+      "HTTP (Hypertext Transfer Protocol)",
+      "UDP (User Datagram Protocol)",
+      "FTP (File Transfer Protocol)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a network security threat that involves the unauthorized use of a computer system or network for malicious purposes?",
+    "options": [
+      "Distributed Denial of Service (DDoS)",
+      "Unauthorized Access",
+      "Malware",
+      "Denial of Service (DoS)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does RAM stand for in computer architecture?",
+    "question": "What is the term for a type of software development project that is typically small in scope and has a flexible deadline?",
     "options": [
-      "Read Access Memory",
-      "Random Access Memory",
-      "Rapid Application Memory",
-      "Read And Modify"
+      "Waterfall Project",
+      "Agile Project",
+      "V-Model Project",
+      "Scrum Project"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which algorithm traversal visits the root node before its children?",
+    "question": "What is the purpose of the 'drop index' statement in a database query?",
     "options": [
-      "In-order",
-      "Post-order",
-      "Pre-order",
-      "Breadth-first"
+      "To create a new table in the database",
+      "To delete an index from a table",
+      "To create a new index on a table",
+      "To alter an index on a table"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of network security threat that involves the spreading of malware from one computer to another?",
+    "options": [
+      "Virus",
+      "Trojan",
+      "Worm",
+      "Spyware"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In Python, which keyword is used to define a function?",
+    "question": "What is the term for a network security threat that involves the sending of a message that appears to be from a legitimate source but is actually malicious?",
     "options": [
-      "function",
-      "define",
-      "fun",
-      "def"
+      "Phishing",
+      "Eavesdropping",
+      "Spoofing",
+      "Man-in-the-Middle (MitM)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the 'delete from' statement in a database query?",
+    "options": [
+      "To update data in a table",
+      "To retrieve data from a table",
+      "To delete data from a table",
+      "To insert data into a table"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a network security threat that involves the unauthorized access to a computer system or network?",
+    "options": [
+      "Denial of Service (DoS)",
+      "Distributed Denial of Service (DDoS)",
+      "Malware",
+      "Unauthorized Access"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "Which OSI model layer is responsible for logical addressing and routing?",
-    "options": [
-      "Data Link Layer",
-      "Transport Layer",
-      "Network Layer",
-      "Session Layer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of normalization in database design?",
-    "options": [
-      "To increase data redundancy for backup purposes",
-      "To reduce data redundancy and improve data integrity",
-      "To speed up all types of database queries",
-      "To encrypt sensitive data fields"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of symmetric key encryption?",
-    "options": [
-      "RSA",
-      "Diffie-Hellman",
-      "AES",
-      "ECC"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of algorithms, what does O(1) time complexity mean?",
-    "options": [
-      "The algorithm's runtime grows linearly with input size",
-      "The algorithm takes constant time regardless of input size",
-      "The algorithm's runtime doubles with each additional input",
-      "The algorithm has no loops"
-    ],
-    "correctIndex": 1
   }
 ]

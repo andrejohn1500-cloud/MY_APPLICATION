@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following correctly describes the relationship between bond order and bond length in diatomic molecules?",
+    "question": "What is the term for the process by which a substance is formed from simpler substances by the action of heat, light, or chemicals?",
     "options": [
-      "Higher bond order results in longer bond length and weaker bond",
-      "Higher bond order results in shorter bond length and stronger bond",
-      "Bond order has no effect on bond length but affects bond energy",
-      "Lower bond order results in shorter bond length and stronger bond"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A buffer solution is prepared by mixing 0.20 mol of ethanoic acid with 0.15 mol of sodium ethanoate in 500 cm\u00b3 of solution. Given that Ka = 1.8 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3, what is the pH of this buffer?",
-    "options": [
-      "4.62",
-      "4.87",
-      "4.62",
-      "4.49"
+      "decomposition reaction",
+      "oxidation reaction",
+      "replacement reaction",
+      "synthesis reaction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In the Born-Haber cycle for the formation of MgCl\u2082, which energy term accounts for the removal of both electrons from a gaseous magnesium atom?",
+    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation scattered by a molecule?",
     "options": [
-      "First ionisation energy only",
-      "Sum of first and second ionisation energies",
-      "Electron affinity of magnesium",
-      "Lattice dissociation enthalpy"
+      "infrared spectroscopy",
+      "Raman spectroscopy",
+      "ultraviolet spectroscopy",
+      "visible spectroscopy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following statements about entropy change (\u0394S) is correct for the reaction: CaCO\u2083(s) \u2192 CaO(s) + CO\u2082(g)?",
+    "question": "A 0.01 M solution of a strong base has a pOH of 12. What is the concentration of hydroxide ions in the solution?",
     "options": [
-      "\u0394S is negative because a solid decomposes",
-      "\u0394S is positive because a gas is produced, increasing disorder",
-      "\u0394S is zero because mass is conserved",
-      "\u0394S is negative because two products form from one reactant"
+      "10^-16 M",
+      "10^-12 M",
+      "10^-10 M",
+      "10^-14 M"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The rate equation for a reaction is: rate = k[A]\u00b2[B]. If the concentration of A is doubled and the concentration of B is halved, the rate will:",
+    "question": "What is the term for the energy change associated with an electron being transferred from one atom to another?",
     "options": [
-      "Remain the same",
-      "Double",
-      "Be halved",
-      "Be quadrupled"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly identifies the hybridisation and geometry of the SF\u2084 molecule?",
-    "options": [
-      "sp\u00b3 hybridisation, tetrahedral geometry",
-      "sp\u00b3d hybridisation, see-saw geometry",
-      "sp\u00b3d\u00b2 hybridisation, square planar geometry",
-      "sp\u00b3 hybridisation, trigonal pyramidal geometry"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During the electrolysis of dilute aqueous sulfuric acid using platinum electrodes, which product is formed at the anode?",
-    "options": [
-      "Hydrogen gas",
-      "Sulfur dioxide gas",
-      "Oxygen gas",
-      "Sulfate ions are discharged"
+      "electron gain enthalpy",
+      "ionization energy",
+      "electron affinity",
+      "electronegativity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A compound has the molecular formula C\u2084H\u2088O and shows a carbonyl absorption at 1715 cm\u207b\u00b9 in its IR spectrum but does not give a silver mirror with Tollens' reagent. What is the most likely structure?",
+    "question": "The heat of combustion of glucose is -2800 kJ/mol. What is the heat of combustion of fructose, given that the standard enthalpy of formation of fructose is 45 kJ/mol less than that of glucose?",
     "options": [
-      "Butanal",
-      "But-3-en-1-ol",
-      "Butanone",
-      "Butanoic acid"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly explains why the second ionisation energy of sodium is significantly higher than its first ionisation energy?",
-    "options": [
-      "The second electron is removed from a fully filled 2p subshell which is more stable",
-      "The second electron is removed from the same shell as the first",
-      "After losing one electron, sodium has a noble gas configuration with the next electron in a lower energy shell",
-      "The atomic radius increases after the first ionisation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a voltaic cell, the standard cell potential E\u00b0cell for the reaction Zn(s) + Cu\u00b2\u207a(aq) \u2192 Zn\u00b2\u207a(aq) + Cu(s) is calculated using E\u00b0(Cu\u00b2\u207a/Cu) = +0.34 V and E\u00b0(Zn\u00b2\u207a/Zn) = \u22120.76 V. What is E\u00b0cell?",
-    "options": [
-      "\u22120.42 V",
-      "\u22121.10 V",
-      "+0.42 V",
-      "+1.10 V"
+      "-2775 kJ/mol",
+      "-2825 kJ/mol",
+      "-2785 kJ/mol",
+      "-2755 kJ/mol"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which statement correctly describes the mechanism of nucleophilic addition in the reaction of HCN with propanone?",
+    "question": "A 0.1 M solution of a weak base has a pH of 11. What is the concentration of hydroxide ions in the solution?",
     "options": [
-      "The electrophilic CN\u207b attacks the partially positive carbon of the carbonyl group",
-      "The nucleophilic CN\u207b attacks the partially positive carbon of the carbonyl group, followed by protonation",
-      "The nucleophilic H\u207a attacks the oxygen of the carbonyl group first",
-      "The reaction proceeds via an SN2 mechanism at the carbonyl carbon"
+      "10^-4 M",
+      "10^-3 M",
+      "10^-5 M",
+      "10^-6 M"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the oxidation state of chromium in the dichromate ion Cr\u2082O\u2087\u00b2\u207b?",
+    "question": "The rate constant for a first-order reaction is 0.05 min-1. If the initial concentration of the reactant is 0.1 M, what is the concentration remaining after 10 minutes?",
     "options": [
-      "+3",
-      "+5",
-      "+6",
-      "+7"
+      "0.005 M",
+      "0.05 M",
+      "0.002 M",
+      "0.01 M"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following pairs of compounds are positional isomers (position isomers)?",
+    "question": "What is the term for the process by which a gas is dissolved in a liquid?",
     "options": [
-      "1-bromopropane and 2-bromopropane",
-      "Propan-1-ol and methoxyethane",
-      "Propan-1-ol and propan-1-ol",
-      "Bromoethane and 1-bromopropane"
+      "absorption",
+      "solution",
+      "diffusion",
+      "adsorption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which a solid is formed from a solution?",
+    "options": [
+      "precipitation",
+      "crystallization",
+      "evaporation",
+      "sublimation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Haber process operates at approximately 450\u00b0C and 200 atm. Which of the following correctly explains why a moderate temperature is used despite the reaction being exothermic?",
+    "question": "What is the term for the energy associated with the stretching and bending of chemical bonds?",
     "options": [
-      "Higher temperature increases the equilibrium yield of ammonia",
-      "Lower temperature gives a faster rate but shifts equilibrium to the left",
-      "A moderate temperature balances an acceptable reaction rate with a reasonable equilibrium yield",
-      "Temperature has no effect on equilibrium position, only on rate"
+      "vibrational energy",
+      "rotational energy",
+      "translational energy",
+      "electronic energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which an electric current is used to drive a chemical reaction?",
+    "options": [
+      "electroplating",
+      "electrolysis",
+      "electrochemical analysis",
+      "redox reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation emitted by a molecule?",
+    "options": [
+      "infrared spectroscopy",
+      "visible spectroscopy",
+      "ultraviolet spectroscopy",
+      "Raman spectroscopy"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In gel permeation chromatography (GPC) of a polymer sample, smaller polymer chains elute:",
+    "question": "A 0.1 M solution of a weak acid has a pH of 5. What is the acid dissociation constant (Ka) of the acid?",
     "options": [
-      "First, because they pass through the pores of the stationary phase and take a longer path",
-      "Last, because they pass through the pores of the stationary phase and take a longer path",
-      "First, because they are less retained by the mobile phase",
-      "Last, because they cannot enter the pores and travel through the column faster"
+      "10^-5",
+      "10^-7",
+      "10^-9",
+      "10^-3"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "A particle in a one-dimensional infinite square well has a wave function given by \u03c8(x) = A sin(\u03c0x/L) for 0 \u2264 x \u2264 L. What is the value of A?",
+    "options": [
+      "A = \u221a(2/L)",
+      "A = \u221a(\u03c0/L)",
+      "A = \u221a(2/\u03c0)L",
+      "A = \u221a(1/L)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A reaction has an activation energy of 40 kJ/mol. If the rate constant at 30\u00b0C is 0.01 min-1, what is the rate constant at 50\u00b0C?",
+    "options": [
+      "0.02 min-1",
+      "0.05 min-1",
+      "0.04 min-1",
+      "0.1 min-1"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "In the context of algorithm complexity, which notation provides an asymptotic upper bound on the growth rate of a function?",
+    "question": "What is the difference between a database schema and a database model?",
     "options": [
-      "Theta notation (\u0398)",
-      "Big-O notation (O)",
-      "Omega notation (\u03a9)",
-      "Little-o notation (o)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which normal form eliminates transitive dependencies among non-key attributes in a relational database?",
-    "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
+      "a schema is used for indexing, while a model is used for querying",
+      "a schema is used for querying, while a model is used for indexing",
+      "a schema is the structure of the database, while a model is a high-level representation of the data and its relationships",
+      "a schema is a high-level representation of the data and its relationships, while a model is the structure of the database"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a binary tree, if the inorder traversal yields A, B, C, D, E and the preorder traversal yields B, A, D, C, E, what is the root of the tree?",
+    "question": "In object-oriented programming, what is encapsulation?",
     "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which scheduling algorithm can lead to starvation of low-priority processes in an operating system?",
-    "options": [
-      "Round Robin",
-      "First Come First Served",
-      "Priority Scheduling",
-      "Shortest Job First (non-preemptive)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, which principle states that objects of a subclass should be substitutable for objects of the superclass without altering correctness?",
-    "options": [
-      "Open/Closed Principle",
-      "Dependency Inversion Principle",
-      "Liskov Substitution Principle",
-      "Interface Segregation Principle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A hash table uses linear probing for collision resolution. If the table has 10 slots and keys 14, 24, and 34 are inserted (hash function: key mod 10), which slot does 34 occupy?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cryptographic protocol uses asymmetric encryption to exchange a symmetric session key during the SSL/TLS handshake?",
-    "options": [
-      "AES",
-      "RSA",
-      "SHA-256",
-      "MD5"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In SQL, which isolation level prevents dirty reads and non-repeatable reads but still allows phantom reads?",
-    "options": [
-      "Read Uncommitted",
-      "Read Committed",
-      "Repeatable Read",
-      "Serializable"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a network using CIDR notation, what is the number of usable host addresses in the subnet 192.168.10.0/26?",
-    "options": [
-      "30",
-      "62",
-      "126",
-      "254"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sorting algorithm has a best-case time complexity of O(n) when the input array is already sorted?",
-    "options": [
-      "Merge Sort",
-      "Heap Sort",
-      "Quick Sort",
-      "Insertion Sort"
+      "polymorphism",
+      "inheritance",
+      "abstraction",
+      "the bundling of data and methods that operate on that data"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In the context of formal languages, which type of grammar in the Chomsky hierarchy generates context-free languages?",
+    "question": "What is the purpose of the operating system's virtual memory manager?",
     "options": [
-      "Type 0",
-      "Type 1",
-      "Type 2",
-      "Type 3"
+      "to manage network connections",
+      "to manage input/output operations",
+      "to manage the allocation and deallocation of virtual memory to processes",
+      "to manage file systems"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which deadlock handling strategy allows deadlock to occur but recovers from it by terminating processes or preempting resources?",
+    "question": "In object-oriented programming, what is an interface?",
     "options": [
-      "Deadlock Prevention",
-      "Deadlock Avoidance",
-      "Deadlock Detection and Recovery",
-      "Banker's Algorithm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Boolean algebra, which expression is the simplified form of AB + A'B + AB'?",
-    "options": [
-      "A + B",
-      "A'B'",
-      "AB",
-      "A XOR B"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which data structure is most appropriate for implementing a compiler's syntax analysis phase to evaluate arithmetic expressions respecting operator precedence?",
-    "options": [
-      "Queue",
-      "Stack",
-      "Linked List",
-      "Binary Search Tree"
+      "a common set of data members that can be accessed by any class that implements it",
+      "a common set of methods that must be implemented by any class that implements it",
+      "a common set of methods that can be called by any class that implements it",
+      "a common set of data members that must be implemented by any class that implements it"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the software development life cycle, which testing technique derives test cases from the internal structure and logic of the source code?",
+    "question": "What is the difference between a static method and an instance method in object-oriented programming?",
     "options": [
-      "Black-box testing",
-      "Regression testing",
-      "White-box testing",
-      "Acceptance testing"
+      "a static method belongs to an instance of the class, while an instance method belongs to the class",
+      "a static method is used for indexing, while an instance method is used for querying",
+      "a static method belongs to the class, while an instance method belongs to an instance of the class",
+      "a static method is used for querying, while an instance method is used for indexing"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "to manage network connectivity",
+      "to manage network security",
+      "to block unauthorized access to a network or computer system",
+      "to provide internet access"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of verifying the integrity of data?",
+    "options": [
+      "data encryption",
+      "data validation",
+      "data compression",
+      "data hashing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a database table and a database view?",
+    "options": [
+      "a table is used for querying, while a view is used for indexing",
+      "a table is a physical storage of data, while a view is a virtual table based on a query",
+      "a table is a virtual table based on a query, while a view is a physical storage of data",
+      "a table is used for indexing, while a view is used for querying"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a load balancer in a computer network?",
+    "options": [
+      "to route packets between networks",
+      "to manage network security",
+      "to provide internet access",
+      "to distribute workload across multiple servers to improve responsiveness and reliability"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In object-oriented programming, what is an abstract class?",
+    "options": [
+      "a class that can be instantiated and is used to provide a common base class for inheritance",
+      "a class that cannot be instantiated and is used to provide a common base class for inheritance",
+      "a class that is used to provide a common implementation for inheritance",
+      "a class that is used to provide a common interface for inheritance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of protecting a computer system or network from unauthorized access?",
+    "options": [
+      "network security",
+      "computer security",
+      "cybersecurity",
+      "data encryption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what is a decorator?",
+    "options": [
+      "a function that takes another function as an argument and returns a new function that has the same behavior as the original function",
+      "a function that takes another function as an argument and returns a new function that wraps the original function with additional behavior",
+      "a function that takes another function as an argument and returns the original function unchanged",
+      "a function that takes another function as an argument and returns a new function that adds additional behavior to the original function"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Caribbean ICT development, what is the role of the Caribbean Association of National Telecommunication Organizations?",
+    "options": [
+      "to provide internet access in the Caribbean region",
+      "to manage network security in the Caribbean region",
+      "to promote the development of telecommunications in the Caribbean region",
+      "to regulate telecommunications in the Caribbean region"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of converting data from one format to another?",
+    "options": [
+      "data hashing",
+      "data encryption",
+      "data conversion",
+      "data compression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Caribbean ICT development, what is the role of the Caribbean Telecommunications Union?",
+    "options": [
+      "to promote the development of telecommunications in the Caribbean region",
+      "to regulate telecommunications in the Caribbean region",
+      "to provide internet access in the Caribbean region",
+      "to manage network security in the Caribbean region"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "What does CPU stand for in computing?",
+    "question": "What is the term for a variable that holds a value that is changed by the program?",
     "options": [
-      "Central Processing Unit",
-      "Computer Processing Utility",
-      "Central Program Unit",
-      "Core Processing Unit"
+      "Immutable variable",
+      "Static variable",
+      "Mutable variable",
+      "Constant variable"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which data structure follows the Last In First Out (LIFO) principle?",
+    "question": "What is the term for the process of breaking down a problem into smaller sub-problems?",
     "options": [
-      "Queue",
-      "Stack",
-      "Array",
-      "Linked List"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the base of the hexadecimal number system?",
-    "options": [
-      "2",
-      "8",
-      "10",
-      "16"
+      "Bottom-Up Approach",
+      "Recursion",
+      "Top-Down Approach",
+      "Divide and Conquer"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is an example of an operating system?",
+    "question": "What is the term for a data structure that consists of a set of nodes, each of which has a value and a reference to the next node?",
     "options": [
-      "Microsoft Word",
-      "Google Chrome",
-      "Linux",
-      "Adobe Photoshop"
+      "Stack",
+      "Linked List",
+      "Queue",
+      "Array"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What does HTML stand for?",
+    "question": "What is the primary function of the software development life cycle in developing a software product?",
     "options": [
-      "Hyper Text Markup Language",
-      "High Transfer Markup Language",
-      "Hyper Text Management Language",
-      "High Text Markup Layout"
+      "It provides a way of maintaining a software product.",
+      "It provides a way of testing a software product.",
+      "It provides a way of deploying a software product.",
+      "It provides a structured and organized way of developing a software product."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the time complexity of the Bubble Sort algorithm?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(1)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which gate outputs TRUE only when all inputs are TRUE?",
+    "question": "What is the term for a set of instructions that a computer follows to solve a problem?",
     "options": [
-      "OR gate",
-      "NOT gate",
-      "AND gate",
-      "XOR gate"
+      "Program",
+      "Procedure",
+      "Algorithm",
+      "Data"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the decimal equivalent of the binary number 1010?",
+    "question": "What is the term for a type of programming that emphasizes the use of objects and classes to represent real-world entities?",
     "options": [
-      "8",
-      "10",
-      "12",
-      "14"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes RAM?",
-    "options": [
-      "Permanent storage for the operating system",
-      "Temporary storage used by the CPU during processing",
-      "Storage for long-term data",
-      "Read-only memory used at startup"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which programming paradigm treats computation as a series of mathematical functions?",
-    "options": [
-      "Object-Oriented Programming",
-      "Procedural Programming",
+      "Object-Oriented Programming (OOP)",
       "Functional Programming",
-      "Event-Driven Programming"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a compiler?",
-    "options": [
-      "To execute code line by line",
-      "To translate high-level source code into machine code",
-      "To manage computer memory",
-      "To connect computers in a network"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a primary key characteristic?",
-    "options": [
-      "It can contain NULL values",
-      "It can have duplicate values",
-      "It uniquely identifies each record in a table",
-      "It must be a numeric field"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the acronym SQL stand for?",
-    "options": [
-      "Structured Query Language",
-      "Simple Query Logic",
-      "Standard Question Language",
-      "Sequential Query List"
+      "Event-Driven Programming",
+      "Procedural Programming"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which topology connects all devices to a single central cable?",
+    "question": "What is the term for a data structure that consists of a collection of key-value pairs?",
     "options": [
-      "Star topology",
-      "Ring topology",
-      "Bus topology",
-      "Mesh topology"
+      "Tree",
+      "Hash Table",
+      "Queue",
+      "Stack"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In object-oriented programming, what is inheritance?",
+    "question": "What is the primary advantage of using encapsulation in object-oriented programming?",
     "options": [
-      "The ability of a class to hide its internal data",
-      "The process of creating objects from a class",
-      "A mechanism where a class acquires properties of another class",
-      "The ability of a method to perform different tasks"
+      "Reduced code readability",
+      "Faster execution time",
+      "Increased code complexity",
+      "Improved code modularity and reusability."
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following sorting algorithms has the simplest implementation and works by repeatedly swapping adjacent elements?",
+    "question": "What is the primary function of the router in a network?",
     "options": [
-      "Merge Sort",
-      "Quick Sort",
-      "Bubble Sort",
-      "Insertion Sort"
+      "It forwards packets of data between devices on the network.",
+      "It sends packets of data to devices on the network.",
+      "It allocates IP addresses to devices on the network.",
+      "It receives packets of data from devices on the network."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the operating system in managing the computer's memory?",
+    "options": [
+      "It runs programs on the computer.",
+      "It communicates with devices.",
+      "It stores programs on the computer.",
+      "It allocates and deallocates memory for running programs."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of programming that emphasizes the use of objects and classes to represent real-world entities?",
+    "options": [
+      "Event-Driven Programming",
+      "Object-Oriented Programming (OOP)",
+      "Functional Programming",
+      "Procedural Programming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the Caribbean Information and Communication Technology (ICT) development in the region?",
+    "options": [
+      "It provides a way of storing data in a file.",
+      "It provides a way of retrieving data from a file.",
+      "It provides a way of updating data in a file.",
+      "It promotes the development and use of ICT in the region."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary difference between a linked list and an array?",
+    "options": [
+      "The order of elements in a linked list is static and cannot change as the program executes.",
+      "The order of elements in a linked list is dynamic and can change as the program executes.",
+      "A linked list is faster than an array.",
+      "An array is faster than a linked list."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a method of software development that emphasizes rapid development and delivery of working software?",
+    "options": [
+      "Waterfall Development",
+      "Iterative Development",
+      "Agile Development",
+      "Incremental Development"
     ],
     "correctIndex": 2
   }

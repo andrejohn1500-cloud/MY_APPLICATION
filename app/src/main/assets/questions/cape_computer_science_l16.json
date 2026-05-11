@@ -1,152 +1,152 @@
 [
   {
-    "question": "In the context of algorithm complexity, which notation describes the tightest upper bound on the growth rate of an algorithm's running time?",
+    "question": "What is the term for a network attack that involves intercepting and modifying communications between two parties?",
     "options": [
-      "Big-O notation",
-      "Big-Omega notation",
-      "Big-Theta notation",
-      "Little-o notation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly describes a key property of a B-Tree of order m?",
-    "options": [
-      "Every node has exactly m children",
-      "Every non-root node has at least \u2308m/2\u2309 children",
-      "All leaf nodes are at different levels",
-      "The root always has exactly 2 children"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In TCP/IP networking, which layer is responsible for logical addressing and routing of packets across multiple networks?",
-    "options": [
-      "Data Link Layer",
-      "Transport Layer",
-      "Network Layer",
-      "Session Layer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of a pure functional programming language?",
-    "options": [
-      "Immutable data structures",
-      "First-class functions",
-      "Referential transparency",
-      "Shared mutable state"
+      "IP Spoofing",
+      "Cross-Site Scripting Attack",
+      "Denial of Service Attack",
+      "Man-in-the-Middle Attack"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In database normalization, a relation is in Boyce-Codd Normal Form (BCNF) if and only if:",
+    "question": "Which of the following algorithms is used to solve the 0/1 knapsack problem?",
     "options": [
-      "Every non-prime attribute is fully functionally dependent on every candidate key",
-      "For every non-trivial functional dependency X \u2192 Y, X is a superkey",
-      "There are no transitive dependencies among non-prime attributes",
-      "Every attribute is atomic and single-valued"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which cryptographic technique uses two mathematically related keys where data encrypted with one can only be decrypted with the other?",
-    "options": [
-      "Symmetric encryption",
-      "Asymmetric encryption",
-      "Hashing",
-      "Stream cipher"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of operating systems, what is the primary purpose of a Translation Lookaside Buffer (TLB)?",
-    "options": [
-      "To cache recently used disk sectors for faster I/O",
-      "To speed up virtual-to-physical address translation by caching page table entries",
-      "To store the process control block for the running process",
-      "To buffer network packets before processing by the kernel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sorting algorithms guarantees O(n log n) worst-case time complexity?",
-    "options": [
-      "Quick Sort",
-      "Bubble Sort",
-      "Merge Sort",
-      "Insertion Sort"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, which principle states that objects of a subclass should be substitutable for objects of their superclass without altering program correctness?",
-    "options": [
-      "Open/Closed Principle",
-      "Interface Segregation Principle",
-      "Liskov Substitution Principle",
-      "Dependency Inversion Principle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A full binary tree with n internal nodes has how many leaf nodes?",
-    "options": [
-      "n",
-      "n - 1",
-      "n + 1",
-      "2n"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following accurately describes the difference between a process and a thread?",
-    "options": [
-      "Threads have separate memory spaces while processes share memory",
-      "A process is a subset of a thread within the same program",
-      "Threads within a process share the same address space while processes do not",
-      "Processes are always faster than threads due to isolated resources"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In relational algebra, which operation retrieves all tuples from one relation that do not appear in another relation with compatible schema?",
-    "options": [
-      "Natural Join",
-      "Intersection",
-      "Set Difference",
-      "Cartesian Product"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of cache mapping technique divides main memory into fixed-size frames and maps each frame to exactly one cache line?",
-    "options": [
-      "Fully Associative Mapping",
-      "Set-Associative Mapping",
-      "Direct Mapping",
-      "Random Replacement Mapping"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of formal languages, which of the following grammar types in the Chomsky Hierarchy is recognized by a Turing Machine?",
-    "options": [
-      "Type 3 \u2013 Regular Grammar",
-      "Type 2 \u2013 Context-Free Grammar",
-      "Type 1 \u2013 Context-Sensitive Grammar",
-      "Type 0 \u2013 Unrestricted Grammar"
+      "Greedy Algorithm",
+      "Divide and Conquer",
+      "Branch and Bound",
+      "Dynamic Programming"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which concurrency problem occurs when two or more processes are each waiting for a resource held by another, causing all to remain blocked indefinitely?",
+    "question": "What is the term for a network attack that involves sending a large amount of traffic to a network in order to overload its resources?",
     "options": [
-      "Race Condition",
-      "Starvation",
-      "Deadlock",
-      "Livelock"
+      "Denial of Service Attack",
+      "Man-in-the-Middle Attack",
+      "Cross-Site Scripting Attack",
+      "IP Spoofing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents an abstract concept?",
+    "options": [
+      "Concrete Class",
+      "Interface",
+      "Abstract Class",
+      "Abstract Method"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a cybersecurity threat that involves a hacker gaining access to a system or network by exploiting a vulnerability in a software application?",
+    "options": [
+      "Replay Attack",
+      "Tampering",
+      "Exploitation",
+      "Eavesdropping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In software engineering, what is the term for the process of creating a detailed plan for developing a software system?",
+    "options": [
+      "Software Testing Plan",
+      "Software Requirements Specification",
+      "Software Design Specification",
+      "Software Implementation Plan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what is the term for a class that is used to create multiple objects of the same type?",
+    "options": [
+      "Factory",
+      "Constructor",
+      "Abstract Class",
+      "Destructor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following database management systems is used for handling large amounts of data?",
+    "options": [
+      "Network Database Management System",
+      "Relational Database Management System",
+      "Object-Oriented Database Management System",
+      "Hierarchical Database Management System"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a cybersecurity threat that involves a hacker gaining access to a system or network by guessing a user's password?",
+    "options": [
+      "Replay Attack",
+      "Eavesdropping",
+      "Tampering",
+      "Brute Force Attack"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following algorithms is used to solve the longest common subsequence problem?",
+    "options": [
+      "Dynamic Programming",
+      "Divide and Conquer",
+      "Greedy Algorithm",
+      "Branch and Bound"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In software engineering, what is the term for the process of testing a software system for errors and defects?",
+    "options": [
+      "Software Debugging",
+      "Software Testing",
+      "Software Validation",
+      "Software Verification"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the operating system's file system module?",
+    "options": [
+      "To schedule processes for execution",
+      "To handle input/output operations",
+      "To manage the allocation and deallocation of storage space for files",
+      "To provide security for the system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following data structures is best suited for storing a large amount of data that needs to be frequently inserted or deleted?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Linked List",
+      "Hash Table"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a network attack that involves spoofing the IP address of a trusted host in order to gain access to a network?",
+    "options": [
+      "Denial of Service Attack",
+      "Cross-Site Scripting Attack",
+      "IP Spoofing",
+      "Man-in-the-Middle Attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents a real-world entity?",
+    "options": [
+      "Abstract Method",
+      "Interface",
+      "Abstract Class",
+      "Concrete Class"
+    ],
+    "correctIndex": 3
   }
 ]
