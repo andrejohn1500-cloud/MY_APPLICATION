@@ -1,153 +1,152 @@
 [
   {
-    "question": "Which type of fabric construction involves interlacing two sets of yarns at right angles to each other?",
+    "question": "The history of clothing is a rich and diverse one. What is the term for the type of garment that is worn over the shoulders and typically has long sleeves?",
     "options": [
-      "Knitting",
-      "Weaving",
-      "Felting",
-      "Braiding"
+      "Tunic",
+      "Kirtle",
+      "Toga",
+      "Surcoat"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A garment pattern piece marked with the grain line should be placed on the fabric so that the grain line runs parallel to which direction?",
+    "question": "In textile care, what is the term for the process of removing stains or spills from fabric using chemicals or other methods?",
     "options": [
-      "The crosswise grain",
-      "The selvage edge",
-      "The bias",
-      "The fold line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fiber property refers to the ability of a fabric to return to its original shape after being stretched or compressed?",
-    "options": [
-      "Absorbency",
-      "Resilience",
-      "Tenacity",
-      "Wicking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The French seam is most appropriately used on which type of fabric?",
-    "options": [
-      "Heavy denim",
-      "Sheer or lightweight fabric",
-      "Thick woolen fabric",
-      "Stretch knit fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When drafting a basic bodice block, which measurement is divided by four to determine the width of the back bodice?",
-    "options": [
-      "Waist measurement",
-      "Hip measurement",
-      "Bust measurement",
-      "Shoulder measurement"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which finishing technique involves folding the raw edge of a fabric twice and stitching it down to prevent fraying?",
-    "options": [
-      "Overlocking",
-      "Bound seam",
-      "Hemming with double fold",
-      "French seam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Mercerization is a finishing process applied primarily to which fiber to increase its luster and dye affinity?",
-    "options": [
-      "Wool",
-      "Polyester",
-      "Cotton",
-      "Nylon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of interfacing is fused to fabric using heat and pressure from an iron?",
-    "options": [
-      "Sew-in interfacing",
-      "Woven interfacing",
-      "Non-woven interfacing",
-      "Fusible interfacing"
+      "Blotting",
+      "Cleaning",
+      "Spotting",
+      "Stain removal"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The ease allowance added to body measurements when drafting a pattern primarily serves which function?",
+    "question": "The fashion industry is a significant contributor to the economy. What is the term for the process of creating a business plan and strategy for a fashion brand or company?",
     "options": [
-      "To improve the aesthetic appearance of the garment",
-      "To allow for seam allowances during construction",
-      "To enable comfortable movement and wearing",
-      "To compensate for fabric shrinkage during laundering"
+      "Fashion entrepreneurship",
+      "Fashion marketing",
+      "Fashion production",
+      "Fashion management"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which weave structure produces a diagonal line or rib effect on the surface of the fabric?",
+    "question": "A fibre's fineness is measured in terms of its linear density, which is the mass per unit length. What is the unit of measurement for linear density of fibres?",
     "options": [
-      "Plain weave",
-      "Satin weave",
-      "Twill weave",
-      "Pile weave"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "command": "question",
-    "question": "A care label showing a circle with a cross through it indicates that the garment should NOT be subjected to which process?",
-    "options": [
-      "Machine washing",
-      "Dry cleaning",
-      "Tumble drying",
-      "Hand washing"
+      "Grams per metre",
+      "Tex",
+      "Denier",
+      "Micron"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which principle of design refers to the visual weight and stability achieved when all elements of a garment are in proportion to each other?",
+    "question": "The construction of a garment involves multiple stages. Which of the following is NOT a stage of garment construction?",
     "options": [
-      "Rhythm",
-      "Emphasis",
-      "Harmony",
-      "Balance"
+      "Finishing",
+      "Dyeing",
+      "Sewing",
+      "Cutting"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "Nylon is classified as which category of textile fiber?",
+    "question": "In garment construction, what is the term for the process of sewing two or more pieces of fabric together to create a seam?",
     "options": [
-      "Natural protein fiber",
-      "Regenerated cellulosic fiber",
-      "Synthetic polymer fiber",
-      "Natural cellulosic fiber"
+      "Hemming",
+      "Seaming",
+      "Buttonholing",
+      "Topstitching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Textile technology involves the use of machinery and equipment to process and manufacture textiles. What is the term for the process of treating fabric with chemicals to improve its performance or durability?",
+    "options": [
+      "Finishing treatment",
+      "Coating",
+      "Dyeing",
+      "Printing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The fashion industry is a significant contributor to the economy. What is the term for the process of creating a business plan and strategy for a fashion brand or company?",
+    "options": [
+      "Fashion production",
+      "Fashion management",
+      "Fashion entrepreneurship",
+      "Fashion marketing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When applying a flat-felled seam, the final row of topstitching is visible on which side of the garment?",
+    "question": "In textile care, what is the primary function of a fabric softener?",
     "options": [
-      "Only on the wrong side",
-      "Only on the right side",
-      "On both the right and wrong sides",
-      "On the seam allowance only"
+      "To repel water and prevent staining",
+      "To reduce static electricity and make the fabric feel softer",
+      "To strengthen the fabric",
+      "To increase the breathability of fabric"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which method of fabric decoration involves using a resist paste or wax applied to fabric before dyeing to create patterns?",
+    "question": "Caribbean fashion is known for its vibrant colours and bold patterns. What is the term for the process of creating a design or pattern using a combination of motifs and colours?",
     "options": [
-      "Tie-dye",
-      "Batik",
-      "Screen printing",
+      "Patchwork",
+      "Appliqu\u00e9",
+      "Quilting",
       "Embroidery"
     ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In textile technology, what is the term for the process of treating fabric with chemicals to give it specific properties or characteristics?",
+    "options": [
+      "Finishing treatment",
+      "Dyeing",
+      "Coating",
+      "Printing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A fashion designer must consider the aesthetic appeal of a garment. What is the term for the arrangement of lines, shapes, and forms in a garment design?",
+    "options": [
+      "Harmony",
+      "Composition",
+      "Proportion",
+      "Balance"
+    ],
     "correctIndex": 1
+  },
+  {
+    "question": "In consumer education, what is the term for the process of informing consumers about the features, benefits, and risks of a product or service?",
+    "options": [
+      "Labeling",
+      "Branding",
+      "Marketing",
+      "Packaging"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The fashion industry is known for its fast pace and constant changes. What is the term for the process of creating a new design or style based on existing ideas or trends?",
+    "options": [
+      "Design evolution",
+      "Design imitation",
+      "Design reinterpretation",
+      "Design innovation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In textile care, what is the term for the process of removing wrinkles and creases from fabric using heat and moisture?",
+    "options": [
+      "Ironing",
+      "Steaming",
+      "Drying",
+      "Folding"
+    ],
+    "correctIndex": 0
   }
 ]

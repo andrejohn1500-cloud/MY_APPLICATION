@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which type of foundation is most suitable for a heavy structure built on soil with low bearing capacity?",
+    "question": "A timber frame has a wall plate that is 6 m long and 150 mm wide. If the maximum allowable deflection is 10 mm, what is the maximum permissible load on the wall plate using the formula: W = (EI)/(L\u00b2) x \u03b4?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Pile foundation"
+      "1200",
+      "500",
+      "1000",
+      "750 N"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In reinforced concrete design, the term 'cover' refers to:",
+    "question": "In electrical installation, what is the term used to describe the process of connecting multiple electrical circuits together to form a single load-bearing circuit?",
     "options": [
-      "The thickness of the concrete above the reinforcement",
-      "The distance from the outer surface of concrete to the nearest reinforcing bar",
-      "The ratio of cement to aggregate in the mix",
-      "The depth of the neutral axis in the beam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A Pratt truss is distinguished from a Howe truss by:",
-    "options": [
-      "Having diagonal members in tension under vertical loading",
-      "Having all members in compression",
-      "Using curved top chords",
-      "Having no vertical members"
+      "Busbar system",
+      "Switchboard system",
+      "Distribution system",
+      "Ring main system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which admixture is used in concrete to significantly reduce the water-cement ratio while maintaining workability?",
+    "question": "A reinforced concrete beam has a rectangular cross-section with a length of 4 m, a width of 300 mm, and a depth of 600 mm. If the concrete has a compressive strength of 40 N/mm\u00b2 and the steel reinforcement has a yield strength of 500 N/mm\u00b2, what is the ultimate moment capacity of the beam?",
     "options": [
-      "Accelerator",
-      "Air-entraining agent",
-      "Superplasticizer",
-      "Retarder"
+      "13500 kNm",
+      "9000",
+      "18000",
+      "12000"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "The bending moment at the fixed end of a cantilever beam of length L carrying a uniformly distributed load w per unit length is:",
+    "question": "In a reinforced concrete column, the steel reinforcement is placed in a spiral pattern. What is the principal reason for this design?",
     "options": [
-      "wL\u00b2/8",
-      "wL\u00b2/2",
-      "wL/2",
-      "wL\u00b2/4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In soil mechanics, the Standard Penetration Test (SPT) N-value is used primarily to determine:",
-    "options": [
-      "Soil permeability",
-      "Relative density and bearing capacity of soil",
-      "Moisture content of soil",
-      "Plasticity index of clay"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which roofing material has the highest thermal mass and is best suited for passive cooling in tropical climates?",
-    "options": [
-      "Galvanized steel sheets",
-      "Concrete roof tiles",
-      "Asphalt shingles",
-      "Aluminum sheets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to building regulations, the minimum clear headroom required on a staircase is:",
-    "options": [
-      "1800 mm",
-      "2000 mm",
-      "2100 mm",
-      "2400 mm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The process of post-tensioning in prestressed concrete involves:",
-    "options": [
-      "Stressing tendons before concrete is poured",
-      "Stressing tendons after concrete has gained sufficient strength",
-      "Adding extra reinforcement after construction",
-      "Heating the steel bars before placement"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of bond in brickwork provides the greatest resistance to lateral forces and is commonly used in retaining walls?",
-    "options": [
-      "Stretcher bond",
-      "English bond",
-      "Flemish bond",
-      "Header bond"
+      "To provide additional lateral support to the concrete",
+      "To reduce the cost of the reinforcement",
+      "To improve the fire resistance of the column",
+      "To prevent buckling of the longitudinal reinforcement"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a simply supported beam, the point of contra-flexure is located where:",
+    "question": "A building has a design life of 20 years. What does this imply in terms of durability and maintenance requirements?",
     "options": [
-      "Shear force is maximum",
-      "Bending moment is maximum",
-      "Bending moment changes sign from positive to negative",
-      "Deflection is zero"
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 20 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 10 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 30 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 40 years without requiring major repairs or replacement of components"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building has a design life of 40 years. What does this imply in terms of durability and maintenance requirements?",
+    "options": [
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 20 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 30 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 40 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 50 years without requiring major repairs or replacement of components"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The primary purpose of a vapour barrier in building construction is to:",
+    "question": "A carpenter is using a power saw to cut a wooden beam. What personal protective equipment (PPE) should the carpenter wear to prevent injury from the saw?",
     "options": [
-      "Prevent air infiltration through walls",
-      "Prevent moisture migration that could cause condensation within the building fabric",
-      "Improve the fire resistance of the wall assembly",
-      "Increase the sound insulation of partitions"
+      "Safety glasses, hearing protection, and a dust mask",
+      "A face shield, a respirator, and a fire extinguisher",
+      "Gloves, safety shoes, and a hard hat",
+      "Steel-toed boots, a safety harness, and earplugs"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which form of corrosion occurs when two dissimilar metals are in electrical contact in the presence of an electrolyte?",
+    "question": "In plumbing, what is the term used to describe the process of removing air from a piping system to prevent vacuum formation and ensure smooth flow of fluids?",
     "options": [
-      "Crevice corrosion",
-      "Galvanic corrosion",
-      "Stress corrosion",
-      "Uniform corrosion"
+      "Gassing",
+      "Venting",
+      "Flushing",
+      "Bleeding"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In critical path analysis, the float of a non-critical activity is defined as:",
+    "question": "A carpenter is using a power saw to cut a wooden beam. What personal protective equipment (PPE) should the carpenter wear to prevent injury from the saw?",
     "options": [
-      "The total duration of the project",
-      "The amount of time an activity can be delayed without delaying the project completion",
-      "The difference between earliest and latest start times of critical activities",
-      "The sum of all activity durations on the network"
+      "A face shield, a respirator, and a fire extinguisher",
+      "Gloves, safety shoes, and a hard hat",
+      "Steel-toed boots, a safety harness, and earplugs",
+      "Safety glasses, hearing protection, and a dust mask"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which soil classification is most prone to settlement under load due to its high compressibility and low shear strength when saturated?",
+    "question": "In project management, what is the term used to describe the process of identifying and prioritizing the tasks and activities that need to be completed to meet the project objectives?",
     "options": [
-      "Dense gravel",
-      "Well-graded sand",
-      "Soft organic clay",
-      "Silty sand"
+      "Project scheduling",
+      "Project resource allocation",
+      "Project budgeting",
+      "Task identification and prioritization"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building has a design life of 50 years. What does this imply in terms of durability and maintenance requirements?",
+    "options": [
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 70 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 30 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 50 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 20 years without requiring major repairs or replacement of components"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A building has a foundation that is 1.2 m deep and 2.2 m wide. If the soil has a bearing capacity of 120 kN/m\u00b2, what is the maximum allowable load on the foundation using the formula: P = (c x A)/2?",
+    "options": [
+      "1200",
+      "1320 kN",
+      "1500",
+      "1800"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In project management, what is the term used to describe the process of identifying and prioritizing the tasks and activities that need to be completed to meet the project objectives?",
+    "options": [
+      "Task identification and prioritization",
+      "Project budgeting",
+      "Project resource allocation",
+      "Project scheduling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In project management, what is the term used to describe the process of identifying and prioritizing the tasks and activities that need to be completed to meet the project objectives?",
+    "options": [
+      "Task identification and prioritization",
+      "Project budgeting",
+      "Project resource allocation",
+      "Project scheduling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term used to describe the process of preparing a building site by removing existing vegetation, trees, and other obstacles to make way for construction?",
+    "options": [
+      "Site excavation",
+      "Site clearance",
+      "Site grading",
+      "Site leveling"
+    ],
+    "correctIndex": 1
   }
 ]

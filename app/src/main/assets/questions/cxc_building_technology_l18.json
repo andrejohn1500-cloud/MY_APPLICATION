@@ -1,152 +1,42 @@
 [
   {
-    "question": "Which type of foundation is most appropriate for a two-storey masonry structure built on soft, compressible clay soil?",
+    "question": "A masonry structure has a load-bearing wall with a thickness of 225 mm. If the compressive strength of the masonry is 5 N/mm\u00b2, what is the maximum allowable load on the wall using the formula: P = (f x A)/4?",
     "options": [
-      "Strip foundation",
-      "Raft foundation",
-      "Pad foundation",
-      "Stepped foundation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In reinforced concrete design, the term 'cover' refers to:",
-    "options": [
-      "The thickness of concrete above the top reinforcement bar",
-      "The distance from the surface of the concrete to the nearest face of the reinforcement bar",
-      "The lap length of steel bars at joints",
-      "The ratio of cement to aggregate in the mix"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building experiences differential settlement. Which of the following conditions is the MOST likely cause?",
-    "options": [
-      "Uniform soil bearing capacity across the site",
-      "Variation in soil composition or load distribution beneath the foundation",
-      "Excessive cement content in the concrete mix",
-      "Use of precast concrete floor panels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which structural system transfers loads to the ground through a series of arches or vaults, eliminating the need for thick solid walls?",
-    "options": [
-      "Post and beam system",
-      "Flying buttress system",
-      "Curtain wall system",
-      "Shear wall system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In timber frame construction, the function of a 'sole plate' is to:",
-    "options": [
-      "Provide a horizontal bearing surface at the base of a stud wall",
-      "Connect roof rafters to wall plates",
-      "Transfer wind loads to diagonal bracing",
-      "Act as a lintel above window openings"
+      "1125 kN",
+      "1500",
+      "1000",
+      "750"
     ],
     "correctIndex": 0
   },
   {
-    "question": "According to good building practice, what is the minimum overlap (lap) for roof tiles on a pitched roof with a 22.5-degree pitch?",
+    "question": "A reinforced concrete slab has a thickness of 100 mm and a span of 3 m. If the concrete has a compressive strength of 30 N/mm\u00b2 and the steel reinforcement has a yield strength of 400 N/mm\u00b2, what is the ultimate load capacity of the slab?",
     "options": [
-      "50 mm",
-      "65 mm",
-      "75 mm",
-      "100 mm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A concrete mix specified as 1:2:4 by volume has a water-cement ratio of 0.55. Which property of hardened concrete is MOST directly affected by this ratio?",
-    "options": [
-      "Workability during placement",
-      "Compressive strength and durability",
-      "Aggregate bond strength before curing",
-      "Rate of thermal expansion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the purpose of a damp-proof course (DPC) installed at plinth level in a masonry wall?",
-    "options": [
-      "To prevent moisture rising from the ground into the superstructure by capillary action",
-      "To increase the compressive strength of the wall at ground level",
-      "To provide a level datum for bricklaying above ground",
-      "To anchor the wall to the foundation concrete"
+      "60 kN/m\u00b2",
+      "40",
+      "70",
+      "50"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In plumbing, a 'P-trap' beneath a washbasin performs which primary function?",
+    "question": "An electrical installation has a circuit with a voltage rating of 240 V and a current rating of 10 A. What is the maximum allowable power rating of the circuit using the formula: P = V x I?",
     "options": [
-      "Regulates water pressure to the fixture",
-      "Retains a water seal to prevent sewer gases entering the building",
-      "Controls the flow rate of waste water",
-      "Prevents backflow from the main drainage line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When setting out a building using the 3-4-5 method, a builder measures 6 m along one wall. What length must be measured along the perpendicular wall to confirm a right angle at the corner?",
-    "options": [
-      "7.5 m",
-      "8 m",
-      "9 m",
-      "10 m"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which roofing material has the HIGHEST thermal mass, helping to moderate internal temperatures in tropical climates?",
-    "options": [
-      "Corrugated galvanised steel sheets",
-      "Clay or concrete roof tiles",
-      "Bituminous felt on timber boarding",
-      "Fibreglass reinforced plastic panels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In electrical installations, a 'ring final circuit' is designed primarily to:",
-    "options": [
-      "Reduce voltage drop and increase the number of socket outlets served by one circuit",
-      "Protect the circuit from earth leakage faults",
-      "Step down the supply voltage from 240 V to 120 V",
-      "Isolate individual outlets for independent switching"
+      "2400 W",
+      "240",
+      "4800",
+      "1200"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A lintel spanning 1.8 m over a door opening in a 225 mm brick wall must carry wall load above. Which lintel type provides the greatest structural efficiency for this span?",
+    "question": "A building has a fire-resistance rating of 2 hours. What does this rating imply in terms of fire safety?",
     "options": [
-      "Timber lintel",
-      "Reinforced concrete boot lintel",
-      "Mild steel flat bar lintel",
-      "Precast prestressed concrete lintel"
+      "The building can withstand fire for at least 3 hours without collapsing or spreading the fire to adjacent areas",
+      "The building can withstand fire for at least 4 hours without collapsing or spreading the fire to adjacent areas",
+      "The building can withstand fire for at least 1 hour without collapsing or spreading the fire to adjacent areas",
+      "The building can withstand fire for at least 2 hours without collapsing or spreading the fire to adjacent areas"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "The critical path in a construction project programme is BEST described as:",
-    "options": [
-      "The sequence of activities with the longest total duration that determines the project completion date",
-      "The route taken by materials from storage to the point of use on site",
-      "The list of activities that have the most float time available",
-      "The series of inspections required by the building authority"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of glass is most suitable for use in a full-height glazed partition within a commercial building, where safety and building regulation compliance are primary concerns?",
-    "options": [
-      "Float glass 6 mm thick",
-      "Toughened (tempered) safety glass",
-      "Wired cast glass",
-      "Annealed glass with applied film"
-    ],
-    "correctIndex": 1
   }
 ]

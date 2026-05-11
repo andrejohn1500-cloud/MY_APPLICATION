@@ -1,152 +1,72 @@
 [
   {
-    "question": "Which type of fabric is produced by interlocking loops of yarn?",
+    "question": "A 'block' is a basic shape used in pattern making to create a garment. What is the primary purpose of a block?",
     "options": [
-      "Woven fabric",
-      "Knitted fabric",
-      "Non-woven fabric",
-      "Bonded fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a dart in garment construction?",
-    "options": [
-      "To add decorative detail",
-      "To shape flat fabric to fit body curves",
-      "To join two pieces of fabric together",
-      "To create a hem finish"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which natural fibre is obtained from the fleece of sheep?",
-    "options": [
-      "Cotton",
-      "Linen",
-      "Wool",
-      "Silk"
+      "To mark the position of the seams",
+      "To indicate the type of fabric to use",
+      "To ensure accurate fitting and construction of the garment",
+      "To show the finished appearance of the garment"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The term 'bias' in fabric refers to cutting at what angle to the selvedge?",
+    "question": "A ' sketch' is a preliminary drawing of a garment used to visualize the design. What is the primary purpose of a sketch?",
     "options": [
-      "90 degrees",
-      "180 degrees",
-      "45 degrees",
-      "30 degrees"
+      "To show the finished appearance of the garment",
+      "To indicate the type of fabric to use",
+      "To mark the position of the seams",
+      "To communicate the design idea and create a visual representation"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which seam is most suitable for sheer or lightweight fabrics to prevent fraying?",
+    "question": "A pattern piece is marked with a 'grainline' to ensure that the fabric is cut in a specific orientation. What is the purpose of this line?",
     "options": [
-      "Plain seam",
-      "French seam",
-      "Lapped seam",
-      "Flat-felled seam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does GSM stand for in relation to fabric?",
-    "options": [
-      "General Standard Measurement",
-      "Grams per Square Metre",
-      "Grade of Structural Material",
-      "Global Sewing Method"
+      "To indicate the shape of the garment",
+      "To indicate the direction of the warp yarns",
+      "To show the position of the seam allowance",
+      "To mark the position of the darts"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which element of design refers to the path the eye travels when looking at a garment?",
+    "question": "A 'swatch' is a small sample of fabric used to test its properties and characteristics. What is the primary purpose of a swatch?",
     "options": [
-      "Colour",
-      "Texture",
-      "Line",
-      "Shape"
+      "To show the finished appearance of the garment",
+      "To indicate the type of fabric to use",
+      "To ensure accurate representation of the fabric in the design",
+      "To mark the position of the seams"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A synthetic fibre produced from petrochemicals that is known for its strength and elasticity is:",
+    "question": "The process of treating fabric to make it more stable and resistant to shrinkage is called what?",
     "options": [
-      "Viscose",
-      "Acetate",
-      "Nylon",
-      "Modal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which care symbol on a clothing label indicates that the garment should be dry cleaned?",
-    "options": [
-      "A square",
-      "A circle",
-      "A triangle",
-      "An iron symbol"
+      "Finishing",
+      "Sanforizing",
+      "Calendaring",
+      "Fulling"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The grain of a fabric that runs parallel to the selvedge is called the:",
+    "question": "In fashion design, the term 'silhouette' refers to the overall shape and style of a garment. What is the primary purpose of silhouette?",
     "options": [
-      "Cross grain",
-      "Bias grain",
-      "Straight grain",
-      "Weft grain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which principle of design refers to the equal distribution of visual weight in a garment?",
-    "options": [
-      "Emphasis",
-      "Rhythm",
-      "Balance",
-      "Proportion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of interfacing is applied using heat and pressure?",
-    "options": [
-      "Sew-in interfacing",
-      "Fusible interfacing",
-      "Woven interfacing",
-      "Knitted interfacing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which stitch is used to hold a folded hem invisibly in place from the right side of a garment?",
-    "options": [
-      "Running stitch",
-      "Slip stitch",
-      "Backstitch",
-      "Blanket stitch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Cotton fibres are obtained from which part of the cotton plant?",
-    "options": [
-      "The stem",
-      "The root",
-      "The seed pod (boll)",
-      "The leaf"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of pleat has two folds turned away from each other to form a flat panel at the front?",
-    "options": [
-      "Box pleat",
-      "Knife pleat",
-      "Inverted pleat",
-      "Accordion pleat"
+      "To create a visual impression and convey a message",
+      "To indicate the type of fabric used",
+      "To show the finished appearance of the garment",
+      "To mark the position of the seams"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "In apparel construction, a 'darts' are used to shape and fit the fabric to the body. What is the primary purpose of darts?",
+    "options": [
+      "To mark the position of the seams",
+      "To create a three-dimensional shape",
+      "To add volume to the garment",
+      "To create a flat surface"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,162 +1,22 @@
 [
   {
-    "question": "Which type of fabric construction involves interlacing two sets of yarns at right angles to each other?",
+    "question": "A fashion designer must consider the comfort and practicality of a garment. What is the term for the part of a garment that covers the feet, typically made of fabric or other materials?",
     "options": [
-      "Knitting",
-      "Weaving",
-      "Felting",
-      "Bonding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term 'warp' in weaving refers to:",
-    "options": [
-      "Yarns running across the width of the fabric",
-      "Yarns running along the length of the fabric",
-      "The selvedge edge of the fabric",
-      "The diagonal threads in the fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre property describes the ability of a fibre to return to its original shape after being stretched?",
-    "options": [
-      "Absorbency",
-      "Elasticity",
-      "Resiliency",
-      "Tenacity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A satin weave is characterised by:",
-    "options": [
-      "Equal interlacing of warp and weft yarns",
-      "Float yarns creating a smooth lustrous surface",
-      "A diagonal rib on the fabric surface",
-      "Alternating over and under yarn interlacing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a thermoplastic fibre that can be permanently heat-set?",
-    "options": [
-      "Cotton",
-      "Wool",
-      "Nylon",
-      "Linen"
+      "Toe",
+      "Insole",
+      "Sole",
+      "Heel"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The grain of a fabric refers to:",
+    "question": "A fashion designer must consider the durability and longevity of a garment. What is the term for the process of testing the wear and tear of a garment over time?",
     "options": [
-      "The texture of the fabric surface",
-      "The direction of the yarns in relation to the selvedge",
-      "The weight of the fabric per square metre",
-      "The number of threads per centimetre"
+      "Wear testing",
+      "Fade testing",
+      "Stress testing",
+      "Shrinkage testing"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which seam finish is most appropriate for sheer fabrics to prevent fraying while maintaining a delicate appearance?",
-    "options": [
-      "Overlocked seam",
-      "French seam",
-      "Flat-felled seam",
-      "Bound seam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Enzyme washing of denim fabric produces which effect?",
-    "options": [
-      "Permanent press finish",
-      "Stone-washed appearance without abrasion damage",
-      "Water repellency",
-      "Shrink resistance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The ease allowance added to a garment pattern is primarily intended to:",
-    "options": [
-      "Allow for seam allowances during construction",
-      "Provide comfort and freedom of movement",
-      "Compensate for fabric shrinkage",
-      "Account for dart take-up"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mordant is commonly used in natural dyeing to fix plant-based dyes to protein fibres?",
-    "options": [
-      "Sodium chloride",
-      "Alum (potassium aluminium sulphate)",
-      "Sodium carbonate",
-      "Acetic acid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "button": "Which of the following best describes the purpose of interfacing in garment construction?",
-    "options": [
-      "To add decorative texture to the garment",
-      "To stabilise and support specific areas of a garment",
-      "To prevent seam allowances from fraying",
-      "To provide padding in structured garments"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the purpose of interfacing in garment construction?",
-    "options": [
-      "To add decorative texture to the garment",
-      "To stabilise and support specific areas of a garment",
-      "To prevent seam allowances from fraying",
-      "To provide padding in structured garments"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The International care labelling system uses symbols to communicate fabric care. A circle on a care label represents:",
-    "options": [
-      "Washing instructions",
-      "Dry cleaning instructions",
-      "Ironing instructions",
-      "Bleaching instructions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which principle of design refers to the visual weight distribution in a garment to create a sense of stability?",
-    "options": [
-      "Rhythm",
-      "Emphasis",
-      "Balance",
-      "Proportion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Mercerisation is a finishing process applied to cotton that results in:",
-    "options": [
-      "Increased flame resistance",
-      "Increased lustre and dye affinity",
-      "Permanent waterproofing",
-      "Reduced static electricity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of pleat is formed by two folds of fabric turned toward each other to meet at a central point on the right side of the garment?",
-    "options": [
-      "Knife pleat",
-      "Box pleat",
-      "Inverted box pleat",
-      "Accordion pleat"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

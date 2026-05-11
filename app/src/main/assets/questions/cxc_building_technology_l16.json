@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which type of foundation is most suitable for a multi-storey building constructed on soft, compressible soil where bedrock is at a great depth?",
+    "question": "A carpenter is using a hand saw to cut a wooden beam. What personal protective equipment (PPE) should the carpenter wear to prevent injury from the saw?",
     "options": [
-      "Strip foundation",
-      "Raft foundation",
-      "Pad foundation",
-      "Pile foundation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In reinforced concrete design, what is the primary purpose of providing shear links (stirrups) in a beam?",
-    "options": [
-      "To increase the compressive strength of the concrete",
-      "To resist diagonal tension caused by shear forces",
-      "To reduce the dead load of the beam",
-      "To improve the bond between concrete and longitudinal bars"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building is described as having a 'curtain wall' system. What does this term specifically refer to?",
-    "options": [
-      "A load-bearing external masonry wall",
-      "A non-load-bearing external cladding system attached to the structural frame",
-      "An internal partition wall used for fire compartmentation",
-      "A retaining wall used to support earth pressure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the function of a 'damp-proof course' (DPC) installed at floor slab level in a building?",
-    "options": [
-      "To prevent heat loss through the floor",
-      "To prevent moisture rising from the ground into the walls",
-      "To act as a vapour barrier on the warm side of insulation",
-      "To provide a level surface for floor finishes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the critical path in a construction project network diagram?",
-    "options": [
-      "The shortest route through the network with maximum float",
-      "The longest sequence of dependent activities determining the minimum project duration",
-      "The path with the highest material cost",
-      "The sequence of activities with the most workers assigned"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In timber frame construction, what is the purpose of a 'sole plate'?",
-    "options": [
-      "To provide a horizontal bearing surface at the base of the stud wall transferring loads to the foundation",
-      "To cap the top of a stud wall transferring loads to the roof",
-      "To act as a diagonal bracing member within the stud wall",
-      "To provide lateral support to floor joists"
+      "Safety glasses and gloves",
+      "Hard hat and earplugs",
+      "Face shield and a respirator",
+      "Steel-toed boots and a dust mask"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which property of concrete is measured by the slump test?",
+    "question": "A reinforced concrete slab has a thickness of 80 mm and a span of 2.5 m. If the concrete has a compressive strength of 25 N/mm\u00b2 and the steel reinforcement has a yield strength of 350 N/mm\u00b2, what is the ultimate load capacity of the slab?",
     "options": [
-      "Compressive strength",
-      "Workability",
-      "Water-cement ratio",
-      "Tensile strength"
+      "35",
+      "40 kN/m\u00b2",
+      "45",
+      "30"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What structural system is characterised by members that carry only axial tensile or compressive forces with no bending moments?",
+    "question": "In project management, what is the term used to describe the process of monitoring and controlling the progress of a project to ensure that it is completed on time, within budget, and to the required quality standards?",
     "options": [
-      "Rigid portal frame",
-      "Space frame",
-      "Pin-jointed truss",
-      "Vierendeel truss"
+      "Project planning",
+      "Project evaluation",
+      "Project control",
+      "Project monitoring"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In building services, what is the function of a 'pressure-reducing valve' in a cold water supply system?",
+    "question": "What is the term used to describe the process of drawing a building or structure in a series of two-dimensional views, including plan, elevation, and section?",
     "options": [
-      "To increase water pressure to upper floors",
-      "To maintain a safe working pressure within the internal pipework",
-      "To prevent backflow of contaminated water",
-      "To regulate water temperature"
+      "Perspective drawing",
+      "Isometric drawing",
+      "Orthographic projection",
+      "Axonometric drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building has a fire alarm system that is designed to detect smoke and heat. What is the primary purpose of this system?",
+    "options": [
+      "To alert occupants and emergency services in the event of a fire",
+      "To prevent fires from occurring in the first place",
+      "To extinguish fires quickly and efficiently",
+      "To provide ventilation and air quality control during a fire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building has a fire alarm system that is designed to detect smoke and heat. What is the primary purpose of this system?",
+    "options": [
+      "To provide ventilation and air quality control during a fire",
+      "To prevent fires from occurring in the first place",
+      "To extinguish fires quickly and efficiently",
+      "To alert occupants and emergency services in the event of a fire"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe the process of designing a building or structure to minimize its impact on the environment and conserve natural resources?",
+    "options": [
+      "Eco-friendly design",
+      "Green building design",
+      "Energy-efficient design",
+      "Sustainable design"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A reinforced concrete beam has a rectangular cross-section with a length of 4 m, a width of 400 mm, and a depth of 800 mm. If the concrete has a compressive strength of 40 N/mm\u00b2 and the steel reinforcement has a yield strength of 500 N/mm\u00b2, what is the ultimate moment capacity of the beam?",
+    "options": [
+      "12000",
+      "9000",
+      "15000",
+      "18000 kNm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building has a fire alarm system that is designed to detect smoke and heat. What is the primary purpose of this system?",
+    "options": [
+      "To provide ventilation and air quality control during a fire",
+      "To alert occupants and emergency services in the event of a fire",
+      "To extinguish fires quickly and efficiently",
+      "To prevent fires from occurring in the first place"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of bond in brickwork produces the greatest resistance to lateral forces because all perpendicular joints are broken in both the longitudinal and transverse directions?",
+    "question": "In plumbing, what is the term used to describe the process of testing a piping system to ensure that it is leak-free and functioning correctly?",
     "options": [
-      "Stretcher bond",
-      "English bond",
-      "Flemish bond",
-      "Stack bond"
+      "Leak testing",
+      "Vacuum testing",
+      "Hydrostatic testing",
+      "Pressure testing"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the primary reason for pre-stressing concrete structural members?",
+    "question": "A building has a design life of 30 years. What does this imply in terms of durability and maintenance requirements?",
     "options": [
-      "To reduce the overall weight of the member",
-      "To eliminate or counteract tensile stresses that concrete cannot resist effectively",
-      "To increase the fire resistance of the member",
-      "To reduce the curing time of the concrete"
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 40 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 50 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 20 years without requiring major repairs or replacement of components",
+      "The building should be designed and constructed to withstand the effects of weathering, erosion, and other environmental factors for at least 30 years without requiring major repairs or replacement of components"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "According to building regulations, what is the main purpose of providing 'fire stops' within a concealed cavity of a building?",
+    "question": "A building has a foundation that is 1.5 m deep and 2.5 m wide. If the soil has a bearing capacity of 100 kN/m\u00b2, what is the maximum allowable load on the foundation using the formula: P = (c x A)/2?",
     "options": [
-      "To improve the thermal insulation of the cavity",
-      "To prevent the spread of fire and smoke through the cavity",
-      "To support the outer leaf of masonry",
-      "To reduce moisture penetration into the cavity"
+      "1875 kN",
+      "2500",
+      "2000",
+      "1500"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which surveying instrument is used to establish a true horizontal plane by using a rotating laser beam?",
+    "question": "A building has a foundation that is 1.5 m deep and 2.5 m wide. If the soil has a bearing capacity of 100 kN/m\u00b2, what is the maximum allowable load on the foundation using the formula: P = (c x A)/2?",
     "options": [
-      "Theodolite",
-      "Level (rotary laser level)",
-      "Total station",
-      "Dumpy level"
+      "2500",
+      "2000",
+      "1875 kN",
+      "1500"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In soil mechanics, what does the term 'angle of repose' refer to?",
+    "question": "In plumbing, what is the term used to describe the process of testing a piping system to ensure that it is leak-free and functioning correctly?",
     "options": [
-      "The angle at which water drains most efficiently from soil",
-      "The maximum angle at which an unsupported slope of soil remains stable",
-      "The angle of friction between soil and a retaining wall",
-      "The angle of inclination of soil strata beneath a foundation"
+      "Pressure testing",
+      "Vacuum testing",
+      "Hydrostatic testing",
+      "Leak testing"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following describes the 'critical temperature' of structural steel in fire engineering?",
+    "question": "A steel reinforcement bar with a diameter of 20 mm has a yield strength of 500 N/mm\u00b2. What percentage of its yield strength is the design strength of a bar subjected to a load of 400 kN?",
     "options": [
-      "The temperature at which steel begins to oxidise on its surface",
-      "The temperature at which steel loses approximately 60% of its ambient yield strength, typically around 550\u00b0C",
-      "The temperature at which steel melts completely",
-      "The temperature at which passive fire protection activates"
+      "50",
+      "75",
+      "20",
+      "25"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

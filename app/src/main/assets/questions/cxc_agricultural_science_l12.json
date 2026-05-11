@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which hormone is primarily responsible for initiating parturition in cattle?",
+    "question": "A farmer has a 10-acre farm and wants to plant a crop that requires 1 acre of land per year for 10 years. How many years will it take to plant the entire farm?",
     "options": [
-      "Progesterone",
-      "Oxytocin",
-      "Estrogen",
-      "Prolactin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In soil science, the term 'cation exchange capacity' (CEC) refers to:",
-    "options": [
-      "The ability of soil to retain and exchange negatively charged ions",
-      "The ability of soil to retain and exchange positively charged ions",
-      "The rate at which water moves through soil pores",
-      "The total amount of organic matter in the soil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A farmer notices that his maize crop shows interveinal chlorosis on older leaves first. This symptom is most likely caused by a deficiency of:",
-    "options": [
-      "Nitrogen",
-      "Iron",
-      "Magnesium",
-      "Calcium"
+      "B. 5 years",
+      "D. 20 years",
+      "A",
+      "C. 10 years"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes the process of nitrification in the nitrogen cycle?",
+    "question": "A farmer wants to determine the economic viability of a new crop. Which of the following factors should be considered?",
     "options": [
-      "Conversion of atmospheric nitrogen to ammonia by bacteria",
-      "Conversion of ammonia to nitrites and then nitrates by bacteria",
-      "Conversion of nitrates to atmospheric nitrogen by anaerobic bacteria",
-      "Conversion of organic nitrogen to ammonia by decomposers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The F1 generation of a cross between a homozygous dominant (TT) tall plant and a homozygous recessive (tt) dwarf plant will produce offspring with which genotype and phenotype?",
-    "options": [
-      "All tt, all dwarf",
-      "All Tt, all tall",
-      "50% TT and 50% tt, mixed phenotype",
-      "25% TT, 50% Tt, 25% tt, all tall"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following crop rotation sequences would most effectively improve soil nitrogen levels while managing root-knot nematodes?",
-    "options": [
-      "Maize followed by sugarcane followed by tomato",
-      "Legume followed by non-host crop followed by susceptible vegetable",
-      "Continuous monoculture of soybean",
-      "Cassava followed by potato followed by sweet pepper"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In livestock nutrition, the biological value (BV) of a protein is determined by:",
-    "options": [
-      "The total percentage of protein in the feed ingredient",
-      "The proportion of absorbed nitrogen retained in the body for growth and maintenance",
-      "The digestibility coefficient of crude protein in the gastrointestinal tract",
-      "The amino acid score relative to a reference protein standard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tillage practice is most associated with reducing soil erosion while maintaining crop residue on the soil surface?",
-    "options": [
-      "Conventional tillage",
-      "Deep ploughing",
-      "Conservation tillage (no-till)",
-      "Subsoiling"
+      "B. Government subsidies",
+      "D. Weather forecasts",
+      "C",
+      "A. Market demand"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The economic injury level (EIL) in Integrated Pest Management (IPM) is defined as:",
+    "question": "What is the effect of a decrease in temperature on the rate of photosynthesis in plants?",
     "options": [
-      "The pest population density at which control measures must be applied to prevent economic damage",
-      "The lowest pest population that causes any measurable crop damage",
-      "The point at which the cost of pest control equals the value of the crop",
-      "The maximum tolerable pest density before complete crop failure occurs"
+      "D. Decrease in rate",
+      "C. No change in rate",
+      "B",
+      "A. Increase in rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-drained soil?",
+    "options": [
+      "B. Low aeration",
+      "C. High water table",
+      "A",
+      "D. High pH"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process by which plants convert light energy into chemical energy is known as _______ production.",
+    "options": [
+      "Photosynthesis",
+      "Transpiration",
+      "Evaporation",
+      "Respiration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following hormones in poultry is directly responsible for stimulating egg production by acting on the ovary to cause follicle development?",
+    "question": "A type of farm management strategy that involves using natural systems to manage pests and diseases is known as _______ farming.",
     "options": [
-      "Luteinizing hormone (LH)",
-      "Follicle-stimulating hormone (FSH)",
-      "Progesterone",
-      "Testosterone"
+      "Integrated",
+      "Sustainable",
+      "Biodynamic",
+      "Organic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The use of crop rotation to improve soil fertility is an example of _______ nutrient cycling.",
+    "options": [
+      "B. Inorganic",
+      "C. Organic",
+      "D. Mineral",
+      "A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of an increase in temperature on the rate of respiration in plants?",
+    "options": [
+      "D. Increase at low temperatures only",
+      "A",
+      "C. No change in rate",
+      "B. Decrease in rate"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A soil with a pH of 5.0 is considered acidic. Which amendment would be most appropriate to raise the pH to the optimum range for most crops?",
+    "question": "The use of green manure as a fertilizer is an example of _______ nutrient cycling.",
     "options": [
-      "Ammonium sulfate",
-      "Agricultural lime (calcium carbonate)",
-      "Superphosphate",
-      "Muriate of potash"
+      "B",
+      "D. Mineral",
+      "C. Organic",
+      "A. Inorganic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The process of increasing crop yields through the use of high-yielding crop varieties is known as _______ production.",
+    "options": [
+      "A",
+      "B. Intensive",
+      "D. Extensive",
+      "C. Intensive and extensive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A farmer has a 10-acre farm and wants to plant a crop that requires 2 acres of land per year for 5 years. How many years will it take to plant the entire farm?",
+    "options": [
+      "B",
+      "A. 2 years",
+      "D. 5 years",
+      "C. 3 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A farmer has a 10-acre farm and wants to plant a crop that requires 3 acres of land per year for 3 years. How many years will it take to plant the entire farm?",
+    "options": [
+      "D. 5 years",
+      "A",
+      "C. 3 years",
+      "B. 2 years"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The term 'heterosis' or hybrid vigour refers to:",
+    "question": "The use of pesticides can have negative effects on beneficial organisms in the soil. What is the term for this phenomenon?",
     "options": [
-      "The increased uniformity observed in inbred lines after several generations",
-      "The superiority of F1 hybrids over their parents in traits such as yield and growth",
-      "The transfer of desirable genes from a wild species to a cultivated variety",
-      "The reduction in fitness observed after repeated self-pollination"
+      "D. Soil pollution",
+      "B",
+      "C. Resistant pests",
+      "A. Pesticide drift"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which pest management strategy involves the release of sterile male insects into a wild population to reduce reproduction?",
+    "question": "A farmer wants to determine the economic viability of a new crop. Which of the following factors should be considered?",
     "options": [
-      "Biological control using parasitoids",
-      "Sterile Insect Technique (SIT)",
-      "Pheromone mass trapping",
-      "Autocidal control using pathogens"
+      "A. Market demand",
+      "B. Government subsidies",
+      "D. Weather forecasts",
+      "C"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In a farm financial analysis, if total revenue is $85,000, variable costs are $40,000, and fixed costs are $25,000, what is the farm's net profit?",
+    "question": "What is the primary function of the stem system in a plant?",
     "options": [
-      "$45,000",
-      "$20,000",
-      "$60,000",
-      "$25,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following describes the role of mycorrhizal fungi in plant nutrition?",
-    "options": [
-      "They fix atmospheric nitrogen directly into plant-available forms",
-      "They extend the root surface area, enhancing uptake of phosphorus and water",
-      "They decompose organic matter to release potassium into the soil",
-      "They produce growth hormones that stimulate root cell division"
+      "B. To produce leaves and flowers",
+      "A",
+      "C. To produce roots and fruits",
+      "D. To absorb water and minerals from the soil"
     ],
     "correctIndex": 1
   }

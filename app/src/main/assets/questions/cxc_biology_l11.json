@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following correctly describes the role of ATP synthase during oxidative phosphorylation?",
+    "question": "What is the main function of the kidneys in animals?",
     "options": [
-      "It pumps hydrogen ions across the inner mitochondrial membrane using energy from NADH",
-      "It catalyses the synthesis of ATP using energy released as protons flow down their electrochemical gradient",
-      "It transfers electrons from NADH directly to oxygen to produce water",
-      "It phosphorylates ADP using substrate-level phosphorylation in the matrix"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A plant cell is placed in a solution with a water potential of -600 kPa. If the cell has a solute potential of -900 kPa and a pressure potential of +200 kPa, which direction will water move?",
-    "options": [
-      "Water will move out of the cell because the cell's water potential is lower than the solution",
-      "Water will move into the cell because the cell's water potential is higher than the solution",
-      "No net movement will occur because the system is at equilibrium",
-      "Water will move out of the cell because the solute potential exceeds the pressure potential"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During meiosis, which event is primarily responsible for generating genetic variation through the exchange of genetic material between homologous chromosomes?",
-    "options": [
-      "Independent assortment of chromosomes at metaphase II",
-      "Crossing over during prophase I at the chiasmata",
-      "Separation of sister chromatids at anaphase II",
-      "Random fertilisation of gametes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements correctly distinguishes between competitive and non-competitive enzyme inhibition?",
-    "options": [
-      "Competitive inhibitors bind to the allosteric site, while non-competitive inhibitors bind to the active site",
-      "Competitive inhibition can be overcome by increasing substrate concentration, whereas non-competitive inhibition cannot",
-      "Both types of inhibition permanently denature the enzyme's active site",
-      "Non-competitive inhibitors increase the Km while competitive inhibitors decrease the Vmax"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a food web, a pesticide that is not biodegradable accumulates in organisms. Which process explains why top predators are most severely affected?",
-    "options": [
-      "Biomagnification, because the concentration of the pesticide increases at successive trophic levels",
-      "Bioaccumulation only, because top predators consume more food per day than primary consumers",
-      "Eutrophication, because the pesticide increases nutrient levels that harm top predators",
-      "Decomposition, because the pesticide breaks down faster at lower trophic levels"
+      "Production of urine",
+      "Production of ATP",
+      "Regulation of cell division",
+      "Breakdown of waste products"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following accurately describes the mechanism by which a nerve impulse is transmitted across a chemical synapse?",
+    "question": "What is the primary function of the electron transport chain in cellular respiration?",
     "options": [
-      "Electrical current flows directly from the presynaptic membrane to the postsynaptic membrane through gap junctions",
-      "Neurotransmitters are released from presynaptic vesicles by exocytosis and bind to receptors on the postsynaptic membrane",
-      "Action potentials travel through the synaptic cleft via ion channels embedded in the extracellular fluid",
-      "Calcium ions are pumped out of the presynaptic terminal causing repolarisation and neurotransmitter reuptake"
+      "Regulation of the citric acid cycle",
+      "Generation of ATP during oxidative phosphorylation",
+      "Production of NADH from NAD+",
+      "Breakdown of glucose to pyruvate"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A cross between two heterozygous individuals (AaBb x AaBb) for two independently assorting genes produces offspring. What is the probability of obtaining an offspring that is homozygous recessive for both genes?",
+    "question": "What is the term for the process by which the genetic information of an organism is passed from one generation to the next?",
     "options": [
-      "1/16",
-      "1/8",
-      "3/16",
-      "1/4"
+      "Genetic variation",
+      "Heritability",
+      "Epigenetics",
+      "Gene expression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of ecological succession involves the replacement of one community by another in an area that has been devastated by a natural disaster?",
+    "options": [
+      "Secondary succession",
+      "Cyclic succession",
+      "Stabilization succession",
+      "Primary succession"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best explains why the loop of Henle is essential for the production of concentrated urine?",
+    "question": "Which of the following types of disease is caused by a deficiency in the production of a hormone?",
     "options": [
-      "It actively transports water into the collecting duct to dilute the filtrate",
-      "It creates a high solute concentration gradient in the medulla, enabling water reabsorption from the collecting duct",
-      "It filters blood plasma under high pressure to remove urea and salts",
-      "It secretes ADH directly into the tubular filtrate to increase water permeability"
+      "Endocrine disorder",
+      "Infectious disease",
+      "Autoimmune disease",
+      "Neoplastic disease"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the lysosomes in a cell?",
+    "options": [
+      "Transport of molecules through the cell membrane",
+      "Synthesis of proteins in the endoplasmic reticulum",
+      "Regulation of the cell cycle",
+      "Breakdown and recycling of cellular waste products"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which an organism becomes more complex in its structure?",
+    "options": [
+      "Evolutionary biology",
+      "Ecological biology",
+      "Genetic biology",
+      "Developmental biology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which an organism produces offspring without the involvement of gametes?",
+    "options": [
+      "Apomixis",
+      "Polyembryony",
+      "Parthenogenesis",
+      "Hermaphroditism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which cells divide to form new cells?",
+    "options": [
+      "Cell division",
+      "Respiration",
+      "Transport",
+      "Photosynthesis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of disease is caused by a viral infection?",
+    "options": [
+      "Fungal disease",
+      "Protozoan disease",
+      "Viral disease",
+      "Bacterial disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the cilia in a cell?",
+    "options": [
+      "Regulation of the cell cycle",
+      "Synthesis of proteins in the endoplasmic reticulum",
+      "Transport of molecules through the cell membrane",
+      "Movement of substances along the cell surface"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which an organism becomes more efficient in its energy production?",
+    "options": [
+      "Specialization",
+      "Co-evolution",
+      "Evolution",
+      "Adaptation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of the pancreas in animals?",
+    "options": [
+      "Production of ATP",
+      "Regulation of cell division",
+      "Breakdown of waste products",
+      "Production of digestive enzymes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which an organism becomes more specialized in its function?",
+    "options": [
+      "Evolution",
+      "Speciation",
+      "Co-evolution",
+      "Adaptation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which statement correctly describes the difference between the light-dependent and light-independent reactions of photosynthesis?",
+    "question": "What is the term for the process by which an organism becomes more efficient in its energy production?",
     "options": [
-      "The light-dependent reactions produce glucose directly using water and carbon dioxide in the thylakoid membrane",
-      "The light-independent reactions use ATP and NADPH produced in the light-dependent reactions to fix carbon dioxide into organic molecules in the stroma",
-      "The light-independent reactions occur in the thylakoid lumen and produce oxygen as a byproduct",
-      "Both reactions require direct light energy and occur simultaneously only in the grana"
+      "Evolution",
+      "Adaptation",
+      "Specialization",
+      "Co-evolution"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A scientist analyses a DNA sample and finds that 30% of the bases are adenine. What percentage of the bases would be cytosine?",
-    "options": [
-      "30%",
-      "20%",
-      "40%",
-      "10%"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly explains why red blood cells are well adapted for oxygen transport?",
-    "options": [
-      "They contain a nucleus that regulates haemoglobin synthesis continuously",
-      "They have a biconcave disc shape providing a large surface area to volume ratio and lack a nucleus, maximising space for haemoglobin",
-      "They actively divide to replace haemoglobin molecules that have become saturated with oxygen",
-      "They contain mitochondria that produce ATP needed to load oxygen onto haemoglobin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the nitrogen cycle, which process converts atmospheric nitrogen (N\u2082) into ammonia (NH\u2083) and is carried out by specific microorganisms?",
-    "options": [
-      "Nitrification",
-      "Nitrogen fixation",
-      "Denitrification",
-      "Ammonification"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following describes the correct sequence of events during the cardiac cycle, starting from atrial systole?",
-    "options": [
-      "Atrial systole \u2192 ventricular diastole \u2192 atrioventricular valves close \u2192 semilunar valves open \u2192 ventricular systole",
-      "Atrial systole \u2192 AV valves open, blood enters ventricles \u2192 ventricular systole \u2192 AV valves close \u2192 semilunar valves open \u2192 blood ejected into arteries",
-      "Atrial systole \u2192 semilunar valves close \u2192 ventricular filling \u2192 ventricular systole \u2192 AV valves open",
-      "Ventricular systole \u2192 atrial systole \u2192 AV valves close \u2192 semilunar valves close \u2192 ventricular diastole"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A population of beetles shows variation in shell colour. In an environment where bark is dark, dark-coloured beetles survive longer and reproduce more. Over many generations, the proportion of dark beetles increases. Which concept does this best illustrate?",
-    "options": [
-      "Genetic drift causing allele frequency changes in small populations",
-      "Natural selection acting on heritable variation leading to adaptation",
-      "Artificial selection by humans for a desired trait",
-      "Gene flow introducing new alleles from an adjacent population"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly describes the structure and function of messenger RNA (mRNA) in protein synthesis?",
-    "options": [
-      "mRNA is a double-stranded molecule that carries the genetic code from the ribosome to the nucleus for transcription",
-      "mRNA is a single-stranded molecule transcribed from the DNA template strand that carries codons to the ribosome for translation",
-      "mRNA contains anticodons that pair with codons on tRNA molecules during translation at the ribosome",
-      "mRNA is produced in the cytoplasm without any involvement of RNA polymerase and carries amino acids to the ribosome"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

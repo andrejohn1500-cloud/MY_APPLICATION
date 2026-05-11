@@ -1,152 +1,42 @@
 [
   {
-    "question": "Which type of fabric construction involves interlacing two sets of yarns at right angles to each other?",
+    "question": "A key principle of pattern making is the use of:",
     "options": [
-      "Knitting",
-      "Weaving",
-      "Felting",
-      "Bonding"
+      "grade ruler",
+      "drafting table",
+      "micrometer",
+      "calipers"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A garment labelled '100% worsted wool' indicates that the fabric is made from:",
+    "question": "A type of textile fibre obtained from the silk worm is known as:",
     "options": [
-      "Short staple fibres that have been carded only",
-      "Long staple fibres that have been combed and smoothed",
-      "Fibres blended with synthetic materials",
-      "Recycled wool fibres processed chemically"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When drafting a basic bodice block, which measurement is halved to obtain the back bodice width?",
-    "options": [
-      "Bust circumference",
-      "Shoulder width",
-      "Back width measurement",
-      "Chest measurement"
+      "wool",
+      "cotton",
+      "sericin",
+      "silk"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The grain line on a pattern piece runs parallel to which thread system in the fabric?",
+    "question": "A type of sewing technique used to join two edges of a seam is known as:",
     "options": [
-      "Weft threads",
-      "Bias threads",
-      "Warp threads",
-      "Filling threads"
+      "hemming stitch",
+      "bind stitch",
+      "overlock stitch",
+      "overedge stitch"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which finishing process is used to give cotton fabric a permanent lustrous sheen by treating it with caustic soda under tension?",
+    "question": "A type of textile fibre obtained from the rabbit is known as:",
     "options": [
-      "Calendering",
-      "Mercerizing",
-      "Beetling",
-      "Singeing"
+      "hemp",
+      "cotton",
+      "silk",
+      "wool"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A French seam is most appropriately used on:",
-    "options": [
-      "Heavy denim fabrics requiring flat construction",
-      "Sheer or lightweight fabrics requiring a neat enclosed finish",
-      "Stretch knit fabrics requiring elasticity",
-      "Thick coating fabrics requiring strength"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of textile testing, 'tensile strength' refers to:",
-    "options": [
-      "The ability of fabric to resist abrasion on its surface",
-      "The force required to break a yarn or fabric under tension",
-      "The measurement of fabric weight per square metre",
-      "The capacity of fabric to absorb moisture"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of interfacing is fused to the wrong side of a garment section using heat, moisture and pressure?",
-    "options": [
-      "Sew-in woven interfacing",
-      "Fusible interfacing",
-      "Tailor's canvas",
-      "Organdie interfacing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The selvedge of a woven fabric is significant in garment construction because:",
-    "options": [
-      "It provides the bias direction for cutting curved seams",
-      "It is the strongest, non-fraying edge that helps maintain grain alignment",
-      "It indicates the correct pressing temperature for the fabric",
-      "It shows the repeat of the fabric's printed design"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which dart manipulation technique involves spreading the pattern to add fullness while retaining the original dart intake?",
-    "options": [
-      "Dart rotation",
-      "Slash and spread",
-      "Pivoting",
-      "Dart conversion to tucks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Nylon fabric is best described as having which combination of properties?",
-    "options": [
-      "High absorbency, low strength, poor elasticity",
-      "Low absorbency, high strength, good elasticity and resilience",
-      "High absorbency, moderate strength, excellent drape",
-      "Low absorbency, low strength, poor resilience"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When constructing a tailored jacket, the process of 'pad stitching' the lapel is done to:",
-    "options": [
-      "Attach the lining permanently to the jacket front",
-      "Build up and shape the chest area with additional fabric layers",
-      "Mould and stiffen the lapel into its rolled position using diagonal hand stitches",
-      "Secure the interfacing to the under collar along the seam allowance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which element of design refers to the path the eye travels when viewing a garment, created by seams, trimmings or colour placement?",
-    "options": [
-      "Form",
-      "Texture",
-      "Line",
-      "Balance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Consumer Protection Act as it relates to textiles requires that garment labels must include:",
-    "options": [
-      "The retail price, country of manufacture and designer name",
-      "Fibre content, care instructions, country of origin and manufacturer details",
-      "The thread count, fabric weight and recommended ironing temperature only",
-      "The batch number, dye lot and recommended storage instructions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which principle of pattern grading involves increasing or decreasing pattern pieces proportionally from a central grade point to produce different sizes?",
-    "options": [
-      "Slash and spread grading",
-      "Pivot and rotate grading",
-      "Cut and overlap grading",
-      "Linear scaling from a fixed apex point"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

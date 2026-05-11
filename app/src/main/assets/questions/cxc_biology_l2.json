@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organelle is responsible for producing energy in the form of ATP through cellular respiration?",
+    "question": "What is the main function of the Golgi apparatus in a cell?",
     "options": [
-      "Nucleus",
-      "Mitochondria",
-      "Ribosome",
-      "Vacuole"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the basic unit of life?",
-    "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
+      "Production of ATP",
+      "Breakdown of food molecules",
+      "Modification and transport of proteins and lipids",
+      "Regulation of cell division"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which process do plants use to make their own food using sunlight?",
+    "question": "Which type of Caribbean species is adapted to living in saltwater habitats?",
+    "options": [
+      "mesophile",
+      "halophile",
+      "halophyte",
+      "xerophyte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which an organism's cells become specialized to perform specific functions?",
+    "options": [
+      "meiosis",
+      "mitosis",
+      "differentiation",
+      "heterosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of nutrient is obtained from animal products?",
+    "options": [
+      "carbohydrate",
+      "protein",
+      "fat",
+      "vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the cell membrane in a cell?",
+    "options": [
+      "to synthesize proteins for the cell",
+      "to control the movement of substances in and out of the cell",
+      "to store genetic information for the cell",
+      "to provide structural support for the cell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which an organism's genetic information is changed?",
+    "options": [
+      "genetic variation",
+      "genetic drift",
+      "mutation",
+      "mutation rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the structure and function of proteins?",
+    "options": [
+      "molecular biology",
+      "proteomics",
+      "genomics",
+      "transcriptomics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which an organism becomes adapted to its environment?",
+    "options": [
+      "acclimatization",
+      "hormesis",
+      "acclimation",
+      "homeostasis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of disease is caused by a microorganism?",
+    "options": [
+      "infectious disease",
+      "environmental disease",
+      "chronic disease",
+      "hereditary disease"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which an organism's population size changes over time?",
+    "options": [
+      "ecosystem dynamics",
+      "population dynamics",
+      "species dynamics",
+      "community dynamics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of disease is caused by a virus?",
+    "options": [
+      "fungal disease",
+      "bacterial disease",
+      "viral disease",
+      "parasitic disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of Caribbean species is adapted to living in extremely dry environments?",
+    "options": [
+      "xerophile",
+      "halophile",
+      "halophyte",
+      "mesophile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which plants make their own food from sunlight, water, and CO2?",
     "options": [
       "Respiration",
-      "Digestion",
       "Photosynthesis",
+      "Osmosis",
       "Transpiration"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the plant cell is not found in animal cells?",
-    "options": [
-      "Nucleus",
-      "Cell membrane",
-      "Cell wall",
-      "Mitochondria"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the green pigment found in plant cells that absorbs light for photosynthesis?",
-    "options": [
-      "Haemoglobin",
-      "Melanin",
-      "Chlorophyll",
-      "Carotene"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which blood vessels carry blood away from the heart?",
-    "options": [
-      "Veins",
-      "Capillaries",
-      "Arteries",
-      "Venules"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main function of red blood cells?",
-    "options": [
-      "Fight infection",
-      "Transport oxygen",
-      "Produce antibodies",
-      "Clot blood"
-    ],
     "correctIndex": 1
   },
   {
-    "question": "Which organ in the human body is responsible for filtering blood and producing urine?",
+    "question": "What is the process by which plants prepare for reproduction?",
     "options": [
-      "Liver",
-      "Lungs",
-      "Kidney",
-      "Stomach"
+      "photosynthesis",
+      "transpiration",
+      "photoperiodism",
+      "symbiotic relationships"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of reproduction requires only one parent?",
+    "question": "Which type of symbiotic relationship involves one species benefiting and the other species being harmed?",
     "options": [
-      "Sexual reproduction",
-      "Fertilisation",
-      "Asexual reproduction",
-      "Pollination"
+      "parasitism",
+      "symbiosis",
+      "mutualism",
+      "commensalism"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the flower produces pollen grains?",
-    "options": [
-      "Stigma",
-      "Ovary",
-      "Petal",
-      "Anther"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the movement of water through a plant from roots to leaves?",
-    "options": [
-      "Osmosis",
-      "Transpiration",
-      "Diffusion",
-      "Active transport"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nutrient provides the body with the most energy per gram?",
-    "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Vitamins",
-      "Fats"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the process by which cells divide to produce two identical daughter cells?",
-    "options": [
-      "Meiosis",
-      "Mitosis",
-      "Fertilisation",
-      "Budding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the human digestive system absorbs most of the nutrients from food?",
-    "options": [
-      "Stomach",
-      "Large intestine",
-      "Small intestine",
-      "Oesophagus"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

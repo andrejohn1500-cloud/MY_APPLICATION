@@ -1,152 +1,112 @@
 [
   {
-    "question": "What is the chemical symbol for gold?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the loss of a nonmetal ion?",
     "options": [
-      "Go",
-      "Gd",
-      "Au",
-      "Ag"
+      "Neutralization",
+      "Electrolysis",
+      "Ionization",
+      "Decomposition"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a physical change?",
-    "options": [
-      "Burning wood",
-      "Rusting iron",
-      "Melting ice",
-      "Digesting food"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the pH of a neutral solution?",
-    "options": [
-      "0",
-      "7",
-      "14",
-      "1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas is produced when an acid reacts with a metal carbonate?",
-    "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Carbon dioxide",
-      "Nitrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the chemical formula for water?",
-    "options": [
-      "HO",
-      "H2O2",
-      "H2O",
-      "HO2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a noble gas?",
+    "question": "Which of the following elements is a transition metal?",
     "options": [
       "Nitrogen",
-      "Chlorine",
-      "Argon",
-      "Oxygen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of bond is formed when electrons are shared between atoms?",
-    "options": [
-      "Ionic bond",
-      "Metallic bond",
-      "Covalent bond",
-      "Hydrogen bond"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which element has the atomic number 1?",
-    "options": [
-      "Helium",
-      "Lithium",
-      "Carbon",
-      "Hydrogen"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the process by which plants make food using sunlight?",
-    "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Combustion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a mixture?",
-    "options": [
-      "Pure water",
-      "Salt water",
-      "Carbon dioxide",
-      "Sodium chloride"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the charge of a proton?",
-    "options": [
-      "Negative",
-      "Neutral",
-      "Positive",
-      "Zero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following metals is the best conductor of electricity?",
-    "options": [
-      "Iron",
-      "Lead",
       "Copper",
-      "Zinc"
+      "Oxygen",
+      "Carbon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What type of reaction occurs when an acid and a base react together?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the gain of oxygen or the loss of hydrogen?",
     "options": [
-      "Decomposition",
-      "Neutralisation",
-      "Combustion",
+      "Reduction",
+      "Neutralization",
+      "Ionization",
       "Oxidation"
     ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the series of elements with similar chemical properties in the periodic table?",
+    "options": [
+      "Family",
+      "Group",
+      "Period",
+      "Block"
+    ],
     "correctIndex": 1
   },
   {
-    "question": "Which state of matter has a definite volume but no definite shape?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the loss of a cation or an anion?",
     "options": [
-      "Solid",
-      "Gas",
-      "Plasma",
-      "Liquid"
+      "Precipitation",
+      "Neutralization",
+      "Ionization",
+      "Electrolysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the arrangement of elements in a table of increasing atomic number?",
+    "options": [
+      "Periodic Table",
+      "Chemical Table",
+      "Atomic Table",
+      "Electron Table"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the loss of a gas?",
+    "options": [
+      "Neutralization",
+      "Electrolysis",
+      "Decomposition",
+      "Ionization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the number of electrons in an atom's outermost energy level?",
+    "options": [
+      "Electron configuration",
+      "Atomic number",
+      "Oxidation state",
+      "Valency"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the chemical formula for sodium chloride (table salt)?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the gain of a nonmetal ion?",
     "options": [
-      "NaCl",
-      "NaOH",
-      "Na2O",
-      "NaCO3"
+      "Neutralization",
+      "Precipitation",
+      "Ionization",
+      "Electrolysis"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the number of moles of a substance that reacts or is produced in a chemical reaction?",
+    "options": [
+      "Molar mass",
+      "Mole",
+      "Atomic mass",
+      "Molecular weight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which atoms share electrons to form a bond?",
+    "options": [
+      "Hydrogen bonding",
+      "Van der Waals forces",
+      "Ionic bonding",
+      "Covalent bonding"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the chemical symbol for water?",
+    "question": "What is the term for the innermost region of an atom?",
     "options": [
-      "W",
-      "Wt",
-      "H2O",
-      "HO2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a physical change?",
-    "options": [
-      "Burning wood",
-      "Rusting of iron",
-      "Melting of ice",
-      "Cooking an egg"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many protons does a carbon atom have?",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas is produced when an acid reacts with a metal carbonate?",
-    "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Carbon dioxide",
-      "Nitrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the pH of a neutral solution?",
-    "options": [
-      "0",
-      "7",
-      "14",
-      "1"
+      "Electron cloud",
+      "Nucleus",
+      "Valence shell",
+      "Proton ring"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a mixture?",
+    "question": "Which of the following elements is a metalloid?",
     "options": [
-      "Pure water",
-      "Salt",
-      "Air",
-      "Carbon dioxide"
+      "Carbon",
+      "Nitrogen",
+      "Silicon",
+      "Oxygen"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of bond is formed when electrons are shared between atoms?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the gain of a metal cation?",
     "options": [
-      "Ionic bond",
-      "Metallic bond",
-      "Covalent bond",
-      "Hydrogen bond"
+      "Neutralization",
+      "Precipitation",
+      "Ionization",
+      "Electrolysis"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which particle has a negative charge?",
+    "question": "What is the term for the number of moles of a substance that can be produced from one mole of another substance in a chemical reaction?",
     "options": [
-      "Proton",
-      "Neutron",
-      "Electron",
-      "Nucleus"
+      "Molar ratio",
+      "Mole ratio",
+      "Actual yield",
+      "Theoretical yield"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the chemical formula for table salt (sodium chloride)?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the gain of electrons?",
     "options": [
-      "NaCl",
-      "KCl",
-      "MgCl2",
-      "CaCl2"
+      "Ionization",
+      "Electrolysis",
+      "Oxidation",
+      "Reduction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following metals is an alkali metal?",
+    "options": [
+      "Copper",
+      "Sodium",
+      "Silver",
+      "Gold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the loss of electrons?",
+    "options": [
+      "Oxidation",
+      "Electrolysis",
+      "Ionization",
+      "Reduction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a noble gas?",
+    "question": "What is the term for the process by which a substance is converted into a more stable form by the gain of hydrogen or the loss of oxygen?",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Argon",
-      "Chlorine"
+      "Reduction",
+      "Oxidation",
+      "Neutralization",
+      "Ionization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of the nucleus in an atom?",
+    "options": [
+      "To store energy",
+      "To contain the protons and neutrons",
+      "To contain the electrons",
+      "To regulate chemical reactions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following elements is a nonmetal?",
+    "options": [
+      "Copper",
+      "Silver",
+      "Gold",
+      "Carbon"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which atoms gain or lose electrons to form ions?",
+    "options": [
+      "Radiation emission",
+      "Ionization",
+      "Electron transfer",
+      "Nuclear reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the number of protons in an atom's nucleus?",
+    "options": [
+      "Atomic mass",
+      "Electron configuration",
+      "Atomic number",
+      "Valency"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What colour does litmus paper turn in an acidic solution?",
+    "question": "What is the term for the movement of electrons from one substance to another through a conductive medium?",
     "options": [
-      "Blue",
-      "Green",
-      "Red",
-      "Yellow"
+      "Battery",
+      "Electrolysis",
+      "Electroplating",
+      "Electrochemical cell"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which state of matter has a definite shape and volume?",
+    "question": "Which of the following elements is a noble gas?",
     "options": [
-      "Gas",
-      "Liquid",
-      "Solid",
-      "Plasma"
+      "Neon",
+      "Sulfur",
+      "Phosphorus",
+      "Carbon"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the process by which plants make their own food using sunlight?",
+    "question": "What is the term for the process by which an electrolyte is broken down into its constituent elements by an electric current?",
     "options": [
-      "Respiration",
-      "Combustion",
-      "Photosynthesis",
-      "Fermentation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which element is represented by the symbol Fe?",
-    "options": [
-      "Fluorine",
-      "Francium",
-      "Iron",
-      "Fermium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of reaction occurs when an acid and a base are combined?",
-    "options": [
-      "Combustion",
-      "Neutralisation",
-      "Decomposition",
-      "Displacement"
+      "Ionization",
+      "Electrolysis",
+      "Electroplating",
+      "Electrochemical cell"
     ],
     "correctIndex": 1
   }

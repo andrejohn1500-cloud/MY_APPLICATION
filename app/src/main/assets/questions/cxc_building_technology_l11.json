@@ -1,153 +1,152 @@
 [
   {
-    "question": "A reinforced concrete beam has a width of 300mm and an effective depth of 550mm. If the characteristic strength of concrete (fcu) is 30 N/mm\u00b2 and the steel ratio is 0.015, which design approach best describes the limit state method used in Caribbean building codes?",
+    "question": "What is the purpose of implementing a quality control program in construction projects?",
     "options": [
-      "Working stress design where stresses are kept below permissible limits under service loads",
-      "Ultimate limit state design where the structure is checked against collapse under factored loads",
-      "Elastic design where the structure behaves linearly throughout its loading history",
-      "Plastic design where full redistribution of moments is assumed at all sections"
+      "To improve project management",
+      "To increase construction efficiency",
+      "To reduce construction costs",
+      "To ensure that the final product meets the required standards and specifications"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of joints is used in concrete construction to provide a strong bond between two adjacent concrete slabs?",
+    "options": [
+      "Gripping joint",
+      "Dowel joint",
+      "Bonding joint",
+      "Butt joint"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When specifying a concrete mix for a marine environment in the Caribbean, which combination of measures most effectively resists chloride-induced corrosion of reinforcement?",
+    "question": "Which of the following types of foundations is suitable for a site with a high water table?",
     "options": [
-      "Use of ordinary Portland cement with a water-cement ratio of 0.65 and 25mm cover",
-      "Low water-cement ratio of 0.40, sulfate-resisting cement, and minimum 50mm concrete cover",
-      "High water-cement ratio of 0.55 with plasticizers and 30mm cover",
-      "Rapid-hardening cement with 0.60 water-cement ratio and 40mm cover"
+      "Raft foundation",
+      "Pile foundation",
+      "Deep foundation",
+      "Shallow foundation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A site investigation reveals that the bearing capacity of the subsoil is 75 kN/m\u00b2. A column carrying a dead load of 600 kN and an imposed load of 300 kN is to be supported on a pad footing. Ignoring the weight of the footing, what minimum plan area is required?",
+    "question": "A builder is constructing a brick wall. Which of the following tools would be used to strike off excess mortar from a brick?",
     "options": [
-      "8 m\u00b2",
-      "12 m\u00b2",
-      "16 m\u00b2",
-      "9 m\u00b2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In structural steelwork, what is the primary purpose of providing a haunch connection at a portal frame eaves joint?",
-    "options": [
-      "To reduce the self-weight of the roof structure at the ridge",
-      "To increase the moment capacity of the connection and transfer large bending moments efficiently",
-      "To allow differential thermal movement between the column and rafter",
-      "To provide additional shear resistance against wind uplift on cladding"
+      "Trowel",
+      "Jointer",
+      "Cement mixer",
+      "Spatula"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of pile is most appropriate when constructing a multi-storey building on a site with deep layers of soft compressible clay overlying competent rock?",
+    "question": "Which of the following types of joints is used in concrete construction to provide a strong bond between two adjacent concrete slabs?",
     "options": [
-      "Timber friction piles driven to refusal in the clay layer",
-      "End-bearing bored piles socketed into the underlying rock",
-      "Expanded base piles terminating within the compressible clay",
-      "Sheet piles driven to mid-depth of the clay stratum"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A suspended timber floor in a residential building shows signs of dry rot (Serpula lacrymans). Which remediation procedure is the most technically correct sequence?",
-    "options": [
-      "Apply fungicide to visible areas, paint over affected timber, and increase ventilation",
-      "Remove and destroy all affected timber beyond the visible margins, treat masonry with fungicide, replace with pre-treated timber, and improve sub-floor ventilation",
-      "Sand down affected areas, apply linseed oil, and monitor moisture levels annually",
-      "Inject boron rods into affected members and seal all ventilation openings to prevent spore spread"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of CXC Building Technology, which factor most critically determines whether a retaining wall will experience active or passive earth pressure?",
-    "options": [
-      "The height and thickness of the retaining wall",
-      "The angle of internal friction of the retained soil and the direction of wall movement relative to the soil",
-      "The type of foundation used beneath the retaining wall",
-      "The water table level on the retained side of the wall"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A quantity surveyor is preparing a Bill of Quantities for a reinforced concrete frame building. Under which section of the Standard Method of Measurement would in-situ concrete in columns be measured?",
-    "options": [
-      "Formwork and falsework, measured in square metres of contact area",
-      "Concrete work, measured in cubic metres, with separate items for each mix and element type",
-      "Reinforcement, measured in tonnes including laps and hooks",
-      "Structural steel, measured by linear metre of column height"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the fundamental difference between a 'running bond' and a 'Flemish bond' in brickwork, and what structural implication does this difference have?",
-    "options": [
-      "Running bond uses headers and stretchers alternating in every course, providing superior transverse strength; Flemish bond uses only stretchers, limiting wall thickness",
-      "Flemish bond alternates headers and stretchers in each course creating strong transverse ties through the wall; running bond uses only stretchers per course and is structurally weaker in transverse direction",
-      "Running bond and Flemish bond are identical in structural performance but differ only in aesthetic appearance",
-      "Flemish bond is used exclusively for curved walls while running bond is restricted to straight walls"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During concrete production, a slump test yields a result of 175mm for concrete intended for lightly reinforced slabs specified at 75mm slump. What is the most likely cause and the correct course of action?",
-    "options": [
-      "The aggregate is too coarse; replace all aggregate with finer material and retest",
-      "Excess water has been added to the mix; reject the batch, adjust the water content to the specified water-cement ratio, and produce a fresh batch",
-      "The cement content is insufficient; add more cement to the existing batch and retest",
-      "The mixing time was too short; continue mixing the same batch for an additional five minutes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "structural analysis",
-    "question": "A simply supported beam spans 6 metres and carries a uniformly distributed load of 20 kN/m including self-weight. What is the maximum bending moment at mid-span?",
-    "options": [
-      "360 kNm",
-      "90 kNm",
-      "180 kNm",
-      "720 kNm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In passive fire protection for a steel-framed building, which system provides fire resistance by absorbing heat through the endothermic calcination of its constituent material?",
-    "options": [
-      "Intumescent paint that expands to form an insulating char layer when exposed to heat",
-      "Vermiculite or gypsum-based board casing that releases chemically bound water when heated",
-      "Ceramic fibre blanket wrap that reflects radiant heat away from the steel section",
-      "Concrete encasement that acts purely as a thermal mass without chemical reaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which procurement method in construction gives the client the greatest control over design quality but typically results in the longest overall project duration?",
-    "options": [
-      "Design and Build, where a single contractor is responsible for both design and construction",
-      "Traditional (Design-Bid-Build) procurement where design is fully completed before tendering for construction",
-      "Management Contracting where specialist contractors are appointed directly by the management contractor",
-      "Construction Management where the client appoints a construction manager and trade contractors separately"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A carpenter is installing roof rafters at a pitch of 35\u00b0 on a building with a span of 8 metres. What is the approximate true rafter length from wall plate to ridge, ignoring any overhang?",
-    "options": [
-      "4.88 metres",
-      "5.50 metres",
-      "6.40 metres",
-      "4.00 metres"
+      "Dowel joint",
+      "Bonding joint",
+      "Butt joint",
+      "Gripping joint"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In mechanical building services, a hot and cold water system for a high-rise residential block in the Caribbean uses a break cistern at intermediate floors. What is the primary engineering reason for this arrangement?",
+    "question": "A builder is constructing a foundation for a building. Which of the following types of foundations would be suitable for a site with poor soil conditions?",
     "options": [
-      "To reduce the pump motor size required at basement level and lower energy consumption",
-      "To limit the hydrostatic pressure at lower floor outlets to safe working levels and comply with maximum pressure requirements",
-      "To improve water quality by allowing sediment to settle before distribution to upper floors",
-      "To enable gravity-fed supply to upper floors without the need for any pumping equipment"
+      "Deep foundation",
+      "Pile foundation",
+      "Shallow foundation",
+      "Raft foundation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe a system of pipes that carries hot water from a boiler to radiators in a building?",
+    "options": [
+      "Water supply system",
+      "Plumbing system",
+      "Waste water system",
+      "Central heating system"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe a system of pipes that carries hot water from a boiler to radiators in a building?",
+    "options": [
+      "Central heating system",
+      "Water supply system",
+      "Plumbing system",
+      "Waste water system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A carpenter is constructing a door frame. Which of the following types of joints would be used to connect the vertical and horizontal components?",
+    "options": [
+      "Mortise and tenon joint",
+      "Dado joint",
+      "Dovetail joint",
+      "Butt joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of foundations is suitable for a site with poor soil conditions?",
+    "options": [
+      "Raft foundation",
+      "Deep foundation",
+      "Shallow foundation",
+      "Pile foundation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of conducting a risk assessment prior to the commencement of construction work?",
+    "options": [
+      "To select the project team",
+      "To determine the project timeline",
+      "To identify potential hazards and take measures to mitigate them",
+      "To establish the project budget"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term used to describe the process of testing a building's structural integrity after completion?",
+    "options": [
+      "Load testing",
+      "Building inspection",
+      "Structural analysis",
+      "Quality control"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A builder is constructing a wall using clay bricks. Which of the following types of mortar would be used to bond the bricks together?",
+    "options": [
+      "Gypsum mortar",
+      "Lime mortar",
+      "Sand mortar",
+      "Cement mortar"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of implementing a quality control program in construction projects?",
+    "options": [
+      "To ensure that the final product meets the required standards and specifications",
+      "To reduce construction costs",
+      "To improve project management",
+      "To increase construction efficiency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following building codes regulates the design and construction of buildings in fire-prone areas?",
+    "options": [
+      "International Building Code",
+      "International Fire Code",
+      "Building and Fire Code",
+      "National Building Code"
+    ],
+    "correctIndex": 0
   }
 ]

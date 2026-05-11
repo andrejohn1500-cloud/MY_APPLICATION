@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a natural building material?",
+    "question": "Which of the following building materials are most resistant to corrosion in marine environments?",
     "options": [
-      "Concrete",
-      "Timber",
-      "Steel",
-      "PVC pipe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What tool is used to measure angles in carpentry?",
-    "options": [
-      "Try square",
-      "Spirit level",
-      "Tape measure",
-      "Plumb bob"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of bond is most commonly used in brickwork?",
-    "options": [
-      "Flemish bond",
-      "English bond",
-      "Stretcher bond",
-      "Header bond"
+      "Aluminum",
+      "Copper",
+      "Stainless steel",
+      "Galvanized steel"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does a spirit level measure?",
+    "question": "What is the term for the process of mixing cement, sand, and aggregate to produce mortar?",
     "options": [
-      "Temperature",
-      "Horizontal or vertical alignment",
-      "Distance",
-      "Depth of a hole"
+      "Finishing",
+      "Curing",
+      "Mixing",
+      "Tempering"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which material is used to make mortar?",
+    "question": "What is the term for the process of ensuring that a building project is completed to the required quality standards?",
     "options": [
-      "Cement, sand and water",
-      "Cement, gravel and water",
-      "Sand, gravel and water",
-      "Lime, gravel and water"
+      "Risk management",
+      "Project management",
+      "Quality control",
+      "Safety and Health Protocol"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the main purpose of a foundation in a building?",
+    "question": "What is the term for the process of protecting building workers from hazards on the construction site?",
     "options": [
-      "To provide roof support",
-      "To transfer the load of the building to the ground",
-      "To hold windows in place",
-      "To support the ceiling"
+      "Occupational health",
+      "Accident prevention",
+      "Safety and Health Protocol",
+      "Risk management"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following is a hand tool used for cutting timber?",
+    "question": "What is the purpose of a building permit application?",
     "options": [
-      "Circular saw",
-      "Handsaw",
-      "Router",
-      "Planer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of roof has two slopes on each side?",
-    "options": [
-      "Flat roof",
-      "Lean-to roof",
-      "Gable roof",
-      "Hip roof"
+      "To approve the design of the building",
+      "To inspect the finished building",
+      "To supervise the construction of the building",
+      "To submit a request for a building permit and to provide information about the building project."
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which occupation is responsible for laying bricks and blocks?",
+    "question": "What is the purpose of a site plan in a building project?",
     "options": [
-      "Carpenter",
-      "Plumber",
-      "Mason",
-      "Electrician"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the standard size of a common clay brick in millimetres?",
-    "options": [
-      "215 x 102.5 x 65",
-      "200 x 100 x 75",
-      "230 x 110 x 70",
-      "180 x 90 x 60"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is used to prevent dampness from rising through walls?",
-    "options": [
-      "Ventilation",
-      "Damp proof course",
-      "Waterproof paint",
-      "Insulation"
+      "To show the materials to be used",
+      "To show the location and layout of the building on the site.",
+      "To show the construction sequence",
+      "To show the budget for the project"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does PPE stand for in the construction industry?",
+    "question": "What is the purpose of a construction contract?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Planning Equipment",
-      "Practical Performance Evaluation",
-      "Primary Protection Essentials"
+      "To approve the design of the building",
+      "To supervise the construction of the building",
+      "To outline the terms and conditions of the construction project, including payment, scope of work, and responsibilities.",
+      "To inspect the finished building"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of electrical wiring are most common in residential construction?",
+    "options": [
+      "XHHW wiring",
+      "THHN wiring",
+      "THW wiring",
+      "NM-B wiring"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following building materials are most resistant to insect damage?",
+    "options": [
+      "Steel",
+      "Brick",
+      "Wood",
+      "Concrete"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of wood joint involves one piece fitting into a slot cut in another?",
+    "question": "Which of the following types of roofing materials are most resistant to weathering?",
     "options": [
-      "Butt joint",
-      "Mortise and tenon joint",
-      "Dovetail joint",
-      "Lap joint"
+      "Metal roofing",
+      "Cedar shakes",
+      "Clay tiles",
+      "Asphalt shingles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of bricks are most resistant to weathering?",
+    "options": [
+      "Wire-cut bricks",
+      "Face bricks",
+      "Frogged bricks",
+      "Engineering bricks"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is concrete made of?",
+    "question": "Which of the following building materials is most resistant to corrosion?",
     "options": [
-      "Cement, sand, gravel and water",
-      "Cement, lime and water",
-      "Sand, gravel and lime",
-      "Cement and water only"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which instrument is used to draw straight lines at right angles on a drawing board?",
-    "options": [
-      "Compass",
-      "Protractor",
-      "Set square",
-      "Ruler"
+      "Wood",
+      "Concrete",
+      "Steel",
+      "Brick"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a roof's overhang in a building?",
+    "options": [
+      "To improve the building's aesthetic appeal",
+      "To provide additional space for storage",
+      "To reduce the load on the foundation",
+      "To provide protection from the elements"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a riser in a staircase?",
+    "options": [
+      "To improve the appearance of the staircase",
+      "To support the handrail",
+      "To provide a means of ventilation",
+      "To provide a means of accessing the next floor or level."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of ensuring that building construction meets the required standards for accessibility and usability?",
+    "options": [
+      "Accessible design",
+      "Barrier-free design",
+      "Inclusive design",
+      "Universal design"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best explains why fluorine is a stronger oxidizing agent than chlorine?",
+    "question": "What is the term for the process by which an acid donates a proton to a base?",
     "options": [
-      "Fluorine has a smaller atomic radius and higher electronegativity, making it easier to gain an electron",
-      "Fluorine has more valence electrons than chlorine",
-      "Fluorine has a lower ionization energy than chlorine",
-      "Fluorine forms longer bonds than chlorine"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A buffer solution is prepared using ethanoic acid and sodium ethanoate. What happens to the pH when a small amount of HCl is added?",
-    "options": [
-      "The pH increases significantly",
-      "The pH decreases significantly",
-      "The pH remains almost unchanged because the ethanoate ions react with the added H\u207a ions",
-      "The pH becomes exactly 7"
+      "Nucleophilic substitution",
+      "Electrophilic addition",
+      "Proton transfer",
+      "Electron transfer"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The standard electrode potential of Cu\u00b2\u207a/Cu is +0.34 V and that of Zn\u00b2\u207a/Zn is \u22120.76 V. What is the standard EMF of a cell constructed from these two half-cells?",
+    "question": "Which of the following is a characteristic of a metalloid?",
     "options": [
-      "\u22120.42 V",
-      "0.42 V",
-      "1.10 V",
-      "\u22121.10 V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of isomerism is exhibited by but-2-ene?",
-    "options": [
-      "Chain isomerism",
-      "Functional group isomerism",
-      "Geometric (cis-trans) isomerism",
-      "Optical isomerism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the Contact Process for manufacturing sulfuric acid, the oxidation of SO\u2082 to SO\u2083 is carried out at approximately 450\u00b0C rather than a lower temperature. Why is a lower temperature not used despite giving a higher yield?",
-    "options": [
-      "The reaction becomes exothermic at lower temperatures",
-      "The rate of reaction would be too slow to be economically viable at lower temperatures",
-      "The catalyst is destroyed at lower temperatures",
-      "SO\u2083 decomposes at lower temperatures"
+      "Highly soluble in water",
+      "Highly brittle but malleable",
+      "Highly malleable and ductile",
+      "Highly flammable"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the oxidation state of chromium in the dichromate ion, Cr\u2082O\u2087\u00b2\u207b?",
+    "question": "In the periodic table, what is the term for the vertical columns of elements that are similar in their chemical properties, except for hydrogen?",
     "options": [
-      "+3",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following compounds exhibits optical isomerism?",
-    "options": [
-      "2-bromopropane",
-      "1-bromopropane",
-      "Propan-2-ol",
-      "Propanone"
+      "Groups",
+      "Periods",
+      "Families",
+      "Blocks"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Haber Process reaction is: N\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g). The value of Kp at a given temperature is 6.0 \u00d7 10\u207b\u00b2 atm\u207b\u00b2. If the temperature is increased, what happens to Kp?",
+    "question": "What is the empirical formula of ethanol?",
     "options": [
-      "Kp increases because more collisions occur",
-      "Kp decreases because the forward reaction is exothermic and equilibrium shifts left",
-      "Kp remains unchanged because it only depends on concentration",
-      "Kp increases because the reverse reaction is endothermic"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which statement correctly describes a nucleophilic substitution reaction proceeding via an SN2 mechanism?",
-    "options": [
-      "The reaction proceeds through a carbocation intermediate and the rate depends only on the substrate concentration",
-      "The nucleophile attacks the carbon bearing the leaving group from the back, causing an inversion of configuration, and the rate depends on both the substrate and nucleophile",
-      "The reaction involves a free radical intermediate",
-      "The stereochemistry is retained at the carbon centre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During the electrolysis of dilute sulfuric acid using platinum electrodes, which product is formed at the anode?",
-    "options": [
-      "Hydrogen gas",
-      "Sulfur dioxide",
-      "Oxygen gas",
-      "Sulfate ions"
+      "C4H8",
+      "C3H6",
+      "C2H5OH",
+      "C5H10"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following correctly ranks the bond angles in the molecules BF\u2083, NH\u2083 and H\u2082O from largest to smallest?",
+    "question": "What is the empirical formula of acetone?",
     "options": [
-      "H\u2082O > NH\u2083 > BF\u2083",
-      "BF\u2083 > NH\u2083 > H\u2082O",
-      "NH\u2083 > BF\u2083 > H\u2082O",
-      "BF\u2083 > H\u2082O > NH\u2083"
+      "CO2",
+      "C6H12O6",
+      "CH3COCH3",
+      "CH4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a weak base?",
+    "options": [
+      "Dissolves in water to form a solution with a pH of less than 7",
+      "Dissolves in water to form a solution with a pH of 7",
+      "Dissolves in water to form a solution with a pH between 7 and more than 7",
+      "Does not dissolve in water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the pH of a solution with a concentration of 0.1 M HCl?",
+    "options": [
+      "7",
+      "2",
+      "1",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following elements is a member of Group 17 of the periodic table?",
+    "options": [
+      "Oxygen",
+      "Chlorine",
+      "Nitrogen",
+      "Phosphorus"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The enthalpy of combustion of ethanol is \u22121367 kJ mol\u207b\u00b9. How much energy is released when 4.6 g of ethanol (M = 46 g mol\u207b\u00b9) is completely combusted?",
+    "question": "What is the term for the process by which a gas changes directly to a liquid and then to a solid?",
     "options": [
-      "\u2212136.7 kJ",
-      "\u2212683.5 kJ",
-      "\u22122734 kJ",
-      "\u22121367 kJ"
+      "Sublimation",
+      "Melting",
+      "Vaporization",
+      "Condensation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the periodic table, what is the term for the horizontal rows of elements that are similar in their chemical properties, except for hydrogen?",
+    "options": [
+      "Groups",
+      "Periods",
+      "Blocks",
+      "Families"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the ratio of moles of oxygen to moles of carbon dioxide produced during the complete combustion of glucose?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "3:2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which a solid changes directly to a gas and then to a liquid and then to a solid?",
+    "options": [
+      "Sublimation",
+      "Vaporization",
+      "Condensation",
+      "Melting"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following statements about benzene is correct according to its delocalized electron model?",
+    "question": "What is the ratio of moles of iron (III) sulfate to moles of sodium hydroxide in a precipitation reaction?",
     "options": [
-      "Benzene undergoes addition reactions more readily than alkenes because of its ring structure",
-      "All C\u2212C bond lengths in benzene are equal and intermediate between a single and double bond due to electron delocalization",
-      "Benzene has alternating single and double bonds with two different C\u2212C bond lengths",
-      "Benzene readily undergoes addition reactions because the double bonds are fixed"
+      "1:1",
+      "2:1",
+      "1:2",
+      "3:1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the ratio of moles of sodium hydroxide to moles of sulfuric acid in a neutralization reaction?",
+    "options": [
+      "1:2",
+      "2:1",
+      "1:1",
+      "3:2"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A weak acid HA has a Ka of 1.0 \u00d7 10\u207b\u2075 mol dm\u207b\u00b3. What is the pH of a 0.10 mol dm\u207b\u00b3 solution of HA?",
+    "question": "What is the ratio of moles of iron (III) chloride to moles of sodium hydroxide in a precipitation reaction?",
     "options": [
-      "3.0",
-      "5.0",
-      "1.0",
-      "2.0"
+      "1:1",
+      "2:1",
+      "1:3",
+      "3:1"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly explains why the first ionization energy of oxygen is lower than that of nitrogen, despite oxygen having a higher nuclear charge?",
-    "options": [
-      "Oxygen has a larger atomic radius than nitrogen",
-      "In oxygen, two electrons are paired in one 2p orbital and the electron-electron repulsion in that paired orbital makes it easier to remove one electron",
-      "Nitrogen has stronger shielding than oxygen",
-      "Oxygen forms more stable ions than nitrogen"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

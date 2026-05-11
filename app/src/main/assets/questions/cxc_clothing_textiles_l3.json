@@ -1,152 +1,62 @@
 [
   {
-    "question": "Which type of fabric is made by interlocking loops of yarn?",
-    "options": [
-      "Woven fabric",
-      "Knitted fabric",
-      "Non-woven fabric",
-      "Bonded fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the basic stitch used to temporarily hold fabric pieces together before permanent stitching?",
-    "options": [
-      "Running stitch",
-      "Basting stitch",
-      "Backstitch",
-      "Slip stitch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which natural fibre comes from the fleece of sheep?",
-    "options": [
-      "Cotton",
-      "Linen",
-      "Wool",
-      "Silk"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the grain of a fabric refer to?",
-    "options": [
-      "The colour of the fabric",
-      "The direction of the yarns in the fabric",
-      "The weight of the fabric",
-      "The texture of the fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which seam finish is best suited for fabrics that fray easily?",
-    "options": [
-      "Plain seam",
-      "French seam",
-      "Overlocked seam",
-      "Flat-fell seam"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What tool is used to transfer pattern markings onto fabric?",
-    "options": [
-      "Seam ripper",
-      "Tailor's chalk",
-      "Tape measure",
-      "Thimble"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of sleeve is cut as part of the bodice with no seam at the armhole?",
-    "options": [
-      "Set-in sleeve",
-      "Raglan sleeve",
-      "Kimono sleeve",
-      "Puffed sleeve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the selvedge of a fabric?",
-    "options": [
-      "The centre fold of the fabric",
-      "The finished edge that runs along the length of the fabric",
-      "The bias edge of the fabric",
-      "The hemmed edge of the fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre is produced by the silkworm?",
-    "options": [
-      "Cotton",
-      "Wool",
-      "Linen",
-      "Silk"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does a notch on a sewing pattern indicate?",
-    "options": [
-      "Where to place a dart",
-      "A matching point for joining fabric pieces",
-      "Where to cut a buttonhole",
-      "The grain line direction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of interfacing is applied to fabric using heat from an iron?",
-    "options": [
-      "Sew-in interfacing",
-      "Fusible interfacing",
-      "Woven interfacing",
-      "Knitted interfacing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a dart in a garment?",
-    "options": [
-      "To add decorative detail",
-      "To shape the fabric to fit body curves",
-      "To create a seam allowance",
-      "To finish raw edges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which care symbol on a clothing label indicates that the garment should be washed by hand?",
-    "options": [
-      "A circle",
-      "A triangle",
-      "A tub with a hand",
-      "A square"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What term describes the distance between the stitching line and the cut edge of the fabric?",
-    "options": [
-      "Hem allowance",
-      "Ease",
-      "Seam allowance",
-      "Grain line"
-    ],
-    "correctIndex": 2
-  },
-  {
     "question": "Which of the following is a synthetic fibre?",
     "options": [
+      "Nylon",
       "Cotton",
-      "Linen",
-      "Polyester",
-      "Wool"
+      "Silk",
+      "Jute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of creating a garment from a flat pattern?",
+    "options": [
+      "Pattern making",
+      "Fashion design",
+      "Garment construction",
+      "Sewing"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a benefit of consumer education?",
+    "options": [
+      "Increased spending",
+      "Informed decision making",
+      "Environmental impact",
+      "Clothing waste"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of understanding the properties and characteristics of sewing techniques?",
+    "options": [
+      "Garment construction",
+      "Fashion design",
+      "Sewing techniques knowledge",
+      "Textile care"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of Caribbean fashion style?",
+    "options": [
+      "Rastafarian",
+      "Afro-Caribbean",
+      "Reggae",
+      "Jamaican"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a woven fabric?",
+    "options": [
+      "Non-woven",
+      "Stretchiness",
+      "Knitting",
+      "Interlacing of yarns"
+    ],
+    "correctIndex": 3
   }
 ]

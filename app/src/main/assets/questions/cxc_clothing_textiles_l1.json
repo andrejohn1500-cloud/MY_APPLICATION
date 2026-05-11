@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a natural fibre?",
+    "question": "Which of the following is a characteristic of historical clothing?",
     "options": [
-      "Polyester",
-      "Nylon",
-      "Cotton",
-      "Acrylic"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a seam allowance?",
-    "options": [
-      "To decorate the garment",
-      "To provide extra fabric beyond the stitching line",
-      "To mark the grain line",
-      "To indicate the fabric fold"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which stitch is most commonly used to sew a plain seam on a sewing machine?",
-    "options": [
-      "Zigzag stitch",
-      "Straight stitch",
-      "Blind stitch",
-      "Satin stitch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'grain line' refer to on a pattern piece?",
-    "options": [
-      "The direction of the seam allowance",
-      "The fold line of the fabric",
-      "The direction of the threads in the fabric",
-      "The cutting line of the pattern"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following tools is used to measure the human body for dressmaking?",
-    "options": [
-      "Ruler",
-      "Set square",
-      "Tape measure",
-      "Yardstick"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of fabric is produced by interlacing two sets of yarns at right angles?",
-    "options": [
-      "Knitted fabric",
-      "Woven fabric",
-      "Non-woven fabric",
-      "Felted fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a synthetic fibre?",
-    "options": [
-      "Wool",
-      "Silk",
-      "Linen",
-      "Polyester"
+      "Imported materials",
+      "Synthetic fibres",
+      "Traditional techniques",
+      "Use of local materials"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the function of a thimble when sewing by hand?",
+    "question": "What is the term for the process of creating a pattern for a garment using a combination of blocks?",
     "options": [
-      "To cut thread neatly",
-      "To protect the finger when pushing the needle",
-      "To hold fabric pieces together",
-      "To press seams open"
+      "Draping",
+      "Pattern grading",
+      "Garment construction",
+      "Flat pattern making"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following is used to temporarily hold fabric pieces together before permanent stitching?",
+    "question": "What is the term for the process of understanding the properties and characteristics of patterns and pattern making?",
     "options": [
-      "Backstitch",
-      "Basting stitch",
-      "Hem stitch",
-      "Slip stitch"
+      "Pattern making knowledge",
+      "Textile care",
+      "Fashion design",
+      "Garment construction"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does the care label symbol of a tub with a hand indicate?",
+    "question": "Which of the following is a type of textile technology?",
     "options": [
-      "Machine wash only",
-      "Dry clean only",
-      "Hand wash only",
-      "Do not wash"
+      "Weaving",
+      "Crochet",
+      "Knitting",
+      "3D printing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of garment construction technique?",
+    "options": [
+      "Weaving",
+      "Crochet",
+      "Knitting",
+      "Sewing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of creating a garment from a pattern?",
+    "options": [
+      "Pattern making",
+      "Fashion design",
+      "Garment construction",
+      "Sewing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of seam is the simplest and most widely used in garment construction?",
+    "question": "What is the term for the process of creating and developing new textile technologies?",
     "options": [
-      "French seam",
-      "Flat-felled seam",
-      "Plain seam",
-      "Lapped seam"
+      "Fashion design",
+      "Textile care",
+      "Garment construction",
+      "Textile technology"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the selvedge of a fabric?",
+    "question": "Which of the following is a type of pattern making technique?",
     "options": [
-      "The centre fold of the fabric",
-      "The finished edge running along the length of the fabric",
-      "The raw cut edge of the fabric",
-      "The printed pattern on the fabric"
+      "Hand drawing",
+      "Flat pattern making",
+      "Draping",
+      "Computer-aided design"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following fibres comes from a sheep?",
+    "question": "Which of the following is a type of sewing technique?",
     "options": [
-      "Cotton",
-      "Silk",
-      "Wool",
-      "Linen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of pressing a garment during construction?",
-    "options": [
-      "To add decorative stitching",
-      "To shape and smooth seams and fabric",
-      "To attach buttons and zippers",
-      "To cut fabric accurately"
+      "Gathering",
+      "Seaming",
+      "Hemming",
+      "Darting"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following describes the bias of a fabric?",
+    "question": "Which of the following is a type of pattern making technique?",
     "options": [
-      "Along the lengthwise grain",
-      "Along the crosswise grain",
-      "At a 45-degree angle to the grain",
-      "Parallel to the selvedge"
+      "Hand drawing",
+      "Computer-aided design",
+      "Draping",
+      "Flat pattern making"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of understanding the properties and characteristics of fibres and fabrics?",
+    "options": [
+      "Fibre and fabric knowledge",
+      "Garment construction",
+      "Textile care",
+      "Fashion design"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a modern fashion design?",
+    "options": [
+      "Traditional techniques",
+      "Local materials",
+      "Use of technology",
+      "Handmade"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of caring for and maintaining clothing and textiles?",
+    "options": [
+      "Textile care",
+      "Garment construction",
+      "Pattern making",
+      "Fashion design"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of educating consumers about clothing and textiles?",
+    "options": [
+      "Garment construction",
+      "Textile care",
+      "Fashion design",
+      "Consumer education"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of creating a garment using a pattern and sewing techniques?",
+    "options": [
+      "Sewing",
+      "Garment construction",
+      "Fashion design",
+      "Pattern making"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a macronutrient required by plants?",
+    "question": "The use of integrated pest management (IPM) involves what?",
     "options": [
-      "Iron",
-      "Zinc",
-      "Nitrogen",
-      "Manganese"
+      "a combination of techniques to control pests",
+      "biological control only",
+      "chemical pesticides only",
+      "cultural control only"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the process by which plants make their own food using sunlight?",
+    "question": "What is the term for the value of a crop at the time of harvesting?",
     "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Germination"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which soil type has the best water-holding capacity?",
-    "options": [
-      "Sandy soil",
-      "Clay soil",
-      "Loamy soil",
-      "Gravelly soil"
+      "net value",
+      "gross value",
+      "economic value",
+      "gross margin"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the removal of the top soil by wind or water?",
+    "question": "What is the term for the process of introducing non-native species into a new environment?",
     "options": [
-      "Leaching",
-      "Erosion",
-      "Compaction",
-      "Weathering"
+      "invasive species",
+      "endemic species",
+      "exotic species",
+      "native species"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following animals is a ruminant?",
+    "question": "Agricultural extension services provide what to farmers?",
     "options": [
-      "Pig",
-      "Chicken",
-      "Cow",
-      "Rabbit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main function of the roots of a plant?",
-    "options": [
-      "Photosynthesis",
-      "Reproduction",
-      "Absorbing water and minerals",
-      "Transpiration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a legume?",
-    "options": [
-      "Maize",
-      "Soybean",
-      "Cassava",
-      "Sweet potato"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does pH measure in soil?",
-    "options": [
-      "Soil temperature",
-      "Soil acidity or alkalinity",
-      "Soil texture",
-      "Soil colour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the flower develops into a fruit?",
-    "options": [
-      "Sepal",
-      "Petal",
-      "Stamen",
-      "Ovary"
+      "seeds and fertilizers",
+      "machinery and equipment",
+      "finance and loans",
+      "advice and training"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the practice of growing two or more crops on the same piece of land at the same time called?",
+    "question": "What is the term for the study of the economic aspects of agriculture and farming?",
     "options": [
-      "Crop rotation",
-      "Intercropping",
-      "Monoculture",
-      "Fallow farming"
+      "agricultural marketing",
+      "agricultural finance",
+      "agricultural economics",
+      "agricultural management"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The production of crops for export is known as what?",
+    "options": [
+      "commercial farming",
+      "livestock production",
+      "agricultural forestry",
+      "subsistence farming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the amount of land required to produce a given quantity of a crop?",
+    "options": [
+      "agricultural intensity",
+      "land requirement",
+      "yield per hectare",
+      "crop intensity"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a method of vegetative propagation?",
+    "question": "The process of changing the soil type through human activities is known as what?",
     "options": [
-      "Seed germination",
-      "Grafting",
-      "Pollination",
-      "Fertilisation"
+      "soil degradation",
+      "soil erosion",
+      "soil salinization",
+      "soil formation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The use of crop rotation can help increase soil fertility by increasing what?",
+    "options": [
+      "soil temperature",
+      "soil pH",
+      "soil organic matter",
+      "soil moisture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of adding organic matter to the soil to improve its fertility?",
+    "options": [
+      "fertilization",
+      "manuring",
+      "irrigation",
+      "liming"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the main nutrient found in urea fertiliser?",
+    "question": "What is the term for the number of plants that can be grown on a given area of land?",
     "options": [
-      "Phosphorus",
-      "Potassium",
-      "Nitrogen",
-      "Calcium"
+      "yield per hectare",
+      "plant density",
+      "agricultural intensity",
+      "crop intensity"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which disease affects poultry and is caused by a virus?",
+    "question": "The addition of organic matter to the soil can increase its what?",
     "options": [
-      "Mastitis",
-      "Foot and mouth disease",
-      "Newcastle disease",
-      "Brucellosis"
+      "water-holding capacity",
+      "pH levels",
+      "nutrient availability",
+      "soil structure"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for the first stomach compartment in a ruminant?",
+    "question": "What is the primary cause of soil erosion on agricultural land?",
     "options": [
-      "Omasum",
-      "Abomasum",
-      "Rumen",
-      "Reticulum"
+      "soil salinization",
+      "water runoff",
+      "soil compaction",
+      "wind erosion"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is a benefit of crop rotation?",
+    "question": "What is the process by which plants release water vapour into the air through their leaves, driven by temperature and humidity differences?",
     "options": [
-      "Increases soil erosion",
-      "Reduces soil fertility",
-      "Controls pests and diseases",
-      "Decreases crop yield"
+      "transpiration",
+      "respiration",
+      "photosynthesis",
+      "evaporation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of the topsoil horizon in the soil profile?",
+    "options": [
+      "To provide a habitat for microorganisms and to support plant growth",
+      "To support the root system of plants",
+      "To prevent soil erosion",
+      "To store water and nutrients"
+    ],
+    "correctIndex": 0
   }
 ]

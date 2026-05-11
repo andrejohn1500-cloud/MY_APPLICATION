@@ -1,152 +1,82 @@
 [
   {
-    "question": "What is the primary purpose of a foundation in a building?",
+    "question": "What is the purpose of a building inspection?",
     "options": [
-      "To support and transfer the load of the structure to the ground",
-      "To provide aesthetic appeal to the building",
-      "To allow water to drain away from the building",
-      "To create space for utilities"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of bond is commonly used in brickwork where bricks are laid with their length parallel to the face of the wall?",
-    "options": [
-      "Header bond",
-      "Stretcher bond",
-      "English bond",
-      "Flemish bond"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'DPC' stand for in building construction?",
-    "options": [
-      "Damp Proof Course",
-      "Dry Proof Coating",
-      "Durable Protection Cover",
-      "Deep Pile Construction"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which material is commonly used to make roof tiles in the Caribbean?",
-    "options": [
-      "Glass",
-      "Concrete",
-      "Rubber",
-      "Fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of a lintel in a building?",
-    "options": [
-      "To support the floor",
-      "To span an opening and carry the load above it",
-      "To waterproof the roof",
-      "To connect two walls together"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of saw is best suited for cutting curves in timber?",
-    "options": [
-      "Rip saw",
-      "Cross-cut saw",
-      "Coping saw",
-      "Tenon saw"
+      "To approve the design of the building",
+      "To supervise the construction of the building",
+      "To ensure that the building is safe and meets building regulations.",
+      "To inspect the finished building"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is mortar made from?",
+    "question": "Which of the following building materials are most resistant to chemical damage?",
     "options": [
-      "Cement, sand and water",
-      "Cement, gravel and water",
-      "Sand, lime and gravel",
-      "Cement, lime and aggregate"
+      "Stainless steel",
+      "Galvanized steel",
+      "Copper",
+      "Aluminum"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a softwood timber?",
+    "question": "Which of the following types of scaffolding are most common in construction?",
     "options": [
-      "Mahogany",
-      "Teak",
-      "Pine",
-      "Oak"
+      "Trestle scaffolding",
+      "Mobile scaffolding",
+      "Baker scaffolding",
+      "Suspended scaffolding"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What instrument is used to check if a surface is perfectly horizontal?",
+    "question": "What is the term for the process of ensuring that building construction meets the required standards for energy efficiency and sustainability?",
     "options": [
-      "Plumb bob",
-      "Spirit level",
-      "Try square",
-      "Tape measure"
+      "Sustainable design",
+      "Green building",
+      "Renewable energy design",
+      "Energy-efficient design"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the standard height of a door in residential construction?",
+    "question": "What is the term for the process of testing the electrical circuit to ensure it is safe and functioning correctly?",
     "options": [
-      "1800 mm",
-      "2000 mm",
-      "2100 mm",
-      "2400 mm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is NOT a type of roof?",
-    "options": [
-      "Gable roof",
-      "Hip roof",
-      "Lean-to roof",
-      "Flat column roof"
+      "Certification",
+      "Testing",
+      "Commissioning",
+      "Inspection"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of scaffolding on a construction site?",
+    "question": "Which of the following building regulations specify the minimum standards for building safety and accessibility?",
     "options": [
-      "To permanently support the building structure",
-      "To provide a temporary working platform at heights",
-      "To mix concrete efficiently",
-      "To drain water from the site"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following tools is used to apply mortar when laying bricks?",
-    "options": [
-      "Hammer",
-      "Trowel",
-      "Chisel",
-      "Float"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does PPE stand for in construction safety?",
-    "options": [
-      "Personal Protective Equipment",
-      "Project Planning Equipment",
-      "Professional Practice Evaluation",
-      "Physical Protection Elements"
+      "The Building Code",
+      "The Fire Code",
+      "The Plumbing Code",
+      "The Electrical Code"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of foundation is most suitable for a building constructed on soft or waterlogged soil?",
+    "question": "What is the purpose of a site investigation?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Stepped foundation"
+      "To determine the construction schedule",
+      "To measure the site for the building",
+      "To select the building materials",
+      "To identify potential hazards and risks on the construction site."
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of joints are most common in wood construction?",
+    "options": [
+      "Butt joints",
+      "Dovetail joints",
+      "Mortise and tenon joints",
+      "Dado joints"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the basic unit of life?",
+    "question": "Which type of biotechnology involves the use of enzymes to break down complex molecules?",
     "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organelle is responsible for producing energy in the cell?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Vacuole"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What process do plants use to make their own food?",
-    "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Digestion",
-      "Excretion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas do plants absorb during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of the nucleus in a cell?",
-    "options": [
-      "To produce energy",
-      "To control cell activities",
-      "To store water",
-      "To make proteins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which blood cells help fight infection?",
-    "options": [
-      "Red blood cells",
-      "Platelets",
-      "White blood cells",
-      "Plasma cells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main function of red blood cells?",
-    "options": [
-      "Carry oxygen",
-      "Fight disease",
-      "Clot blood",
-      "Produce hormones"
+      "biobanking",
+      "proteomics",
+      "genetic engineering",
+      "microbial fermentation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which organ is responsible for pumping blood around the body?",
+    "question": "What is the term for the process by which an organism's genetic information is passed from one generation to the next through the transmission of traits?",
     "options": [
-      "Lungs",
-      "Liver",
-      "Kidney",
-      "Heart"
+      "heredity",
+      "inherited traits",
+      "mutation",
+      "genetic variation"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What are the building blocks of proteins called?",
+    "question": "Which type of human disease is caused by a deficiency of a vitamin or mineral?",
     "options": [
-      "Fatty acids",
-      "Amino acids",
-      "Glucose molecules",
-      "Nucleotides"
+      "communicable disease",
+      "nutritional deficiency disease",
+      "infectious disease",
+      "non-communicable disease"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which part of the plant conducts photosynthesis most actively?",
+    "question": "Which type of biotechnology involves the use of bacteria to produce a product?",
     "options": [
-      "Root",
-      "Stem",
-      "Leaf",
-      "Flower"
+      "proteomics",
+      "genetic engineering",
+      "biobanking",
+      "microbial fermentation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the structure and function of genes?",
+    "options": [
+      "genomics",
+      "cytogenetics",
+      "molecular biology",
+      "biochemistry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of tissue makes up the outer layer of the skin?",
+    "options": [
+      "hypodermis",
+      "muscle tissue",
+      "dermis",
+      "epidermis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the structure and function of organisms?",
+    "options": [
+      "phylogeny",
+      "taxonomy",
+      "systematics",
+      "ecology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of biotechnology involves the use of genetically modified organisms?",
+    "options": [
+      "proteomics",
+      "genetic engineering",
+      "biobanking",
+      "microbial fermentation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which an organism's genetic information is passed from one generation to the next?",
+    "options": [
+      "genetic variation",
+      "inherited traits",
+      "heredity",
+      "mutation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the process by which organisms produce offspring?",
+    "question": "Which type of Caribbean ecosystem is characterized by a mix of tropical and temperate species?",
     "options": [
-      "Respiration",
-      "Reproduction",
-      "Excretion",
-      "Digestion"
+      "tropical savanna",
+      "tropical rainforest",
+      "tropical deciduous forest",
+      "tropical grassland"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which nutrient provides the most energy per gram?",
+    "question": "What is the term for the study of the structure and function of molecules?",
     "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Vitamins",
-      "Fats"
+      "molecular biology",
+      "genetics",
+      "biochemistry",
+      "cell biology"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is osmosis?",
+    "question": "Which type of reproduction involves the fusion of two gametes to form a zygote?",
     "options": [
-      "Movement of solutes across a membrane",
-      "Movement of water from high to low concentration across a semi-permeable membrane",
-      "Movement of gases in and out of cells",
-      "Active transport of ions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "budding",
+      "meiosis",
+      "mitosis",
+      "fertilization"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for organisms that eat both plants and animals?",
+    "question": "Which part of the kidney filters waste products from the blood?",
     "options": [
-      "Herbivores",
-      "Carnivores",
-      "Omnivores",
-      "Decomposers"
+      "renal pelvis",
+      "renal artery",
+      "renal vein",
+      "nephron"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of gene is involved in the transmission of traits from parent to offspring?",
+    "options": [
+      "mitochondrial DNA",
+      "X-chromosome",
+      "autosome",
+      "Y-chromosome"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the movement of water through a plant, from the roots to the leaves?",
+    "options": [
+      "transpiration",
+      "translocation",
+      "photosynthesis",
+      "respiration"
+    ],
+    "correctIndex": 0
   }
 ]

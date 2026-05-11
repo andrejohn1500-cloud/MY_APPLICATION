@@ -1,152 +1,22 @@
 [
   {
-    "question": "Which type of foundation is most appropriate for a multi-storey building constructed on highly compressible clay soils where load-bearing capacity is inadequate for conventional spread footings?",
+    "question": "What is the primary function of a load-bearing wall in a building structure?",
     "options": [
-      "Raft foundation",
-      "Pile foundation",
-      "Strip foundation",
-      "Pad foundation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In reinforced concrete design, the term 'cover' refers to which of the following?",
-    "options": [
-      "The thickness of the concrete slab above the reinforcement",
-      "The minimum distance between the outer surface of the reinforcement and the nearest concrete face",
-      "The ratio of cement to aggregate in the concrete mix",
-      "The depth of the neutral axis in a beam"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building experiences differential settlement causing diagonal cracking at window and door openings. What is the most likely primary cause of this defect?",
-    "options": [
-      "Inadequate curing of concrete",
-      "Variations in soil bearing capacity beneath different parts of the foundation",
-      "Excessive water-cement ratio in the mortar",
-      "Thermal expansion of the superstructure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When calculating the safe load-bearing capacity of a timber joist, which of the following properties is MOST critical?",
-    "options": [
-      "Modulus of elasticity and section modulus",
-      "Thermal conductivity and density",
-      "Moisture content and color",
-      "Grain direction and annual ring count"
+      "To transfer loads from the superstructure to the foundation",
+      "To provide insulation against noise and weather conditions",
+      "To provide a means of access to upper floors",
+      "To serve as a partition wall in multi-occupancy buildings"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In plumbing systems, a 'trap' is installed primarily to perform which function?",
+    "question": "What is the main difference between a reinforced concrete structure and a prestressed concrete structure?",
     "options": [
-      "Increase water pressure at the outlet",
-      "Prevent sewer gases from entering the building",
-      "Filter sediment from the water supply",
-      "Regulate the flow rate of wastewater"
+      "The use of steel reinforcement in reinforced concrete",
+      "The method of construction used in prestressed concrete",
+      "The type of concrete used in reinforced concrete",
+      "The presence of prestressing cables in prestressed concrete"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the function of a 'cavity wall tie' in external cavity wall construction?",
-    "options": [
-      "To provide a drainage channel for water infiltration",
-      "To structurally connect the two leaves of the wall while maintaining the cavity",
-      "To act as a thermal bridge between inner and outer leaves",
-      "To anchor the damp-proof course at the base of the cavity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The 'water-cement ratio' in concrete mix design directly affects which two primary properties?",
-    "options": [
-      "Workability and compressive strength",
-      "Color and thermal resistance",
-      "Setting time and aggregate bond angle",
-      "Shrinkage rate and fire resistance"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In electrical installations, a 'residual current device' (RCD) is designed to protect against which specific hazard?",
-    "options": [
-      "Overloading of circuits beyond rated current capacity",
-      "Earth leakage currents that could cause electrocution or fire",
-      "Voltage surges from external lightning strikes",
-      "Short circuits between phase conductors"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which roof truss configuration provides the greatest clear span with minimum material usage for spans exceeding 10 metres?",
-    "options": [
-      "King post truss",
-      "Queen post truss",
-      "Fink truss",
-      "Couple roof truss"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In soil mechanics, the 'angle of repose' is most accurately defined as?",
-    "options": [
-      "The angle at which water drains freely through a soil mass",
-      "The maximum angle of slope at which a soil mass remains stable without lateral support",
-      "The angle between the bearing plate and the horizontal in a plate load test",
-      "The inclination of the failure plane in a triaxial compression test"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A surveyor uses a theodolite and records a horizontal angle of 45\u00b030'20\". What does the component '30'' represent in this reading?",
-    "options": [
-      "Degrees",
-      "Minutes",
-      "Seconds",
-      "Decimal fractions of a degree"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly describes the principle of 'pre-stressed concrete'?",
-    "options": [
-      "Concrete that has been mixed with accelerating admixtures to reduce curing time",
-      "Concrete in which compressive stresses are deliberately induced to counteract tensile stresses caused by loading",
-      "Concrete reinforced with high-tensile steel bars placed at the centroid of the section",
-      "Concrete cast in permanent formwork to improve insulation properties"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In building services, a 'soakaway' is classified as which type of drainage system component?",
-    "options": [
-      "A surface water disposal system that allows water to percolate into the surrounding ground",
-      "A sealed chamber used to collect foul water before pumping",
-      "A grease trap installed in commercial kitchen drainage",
-      "A surge chamber used to control water hammer in supply pipes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Under the CXC Building Technology framework, which document legally authorizes a contractor to commence construction work on a specific site?",
-    "options": [
-      "Bill of Quantities",
-      "Planning Approval and Building Permit",
-      "Specification document",
-      "Programme of works"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In masonry construction, the term 'efflorescence' describes which phenomenon, and what is its primary cause?",
-    "options": [
-      "Spalling of brick faces caused by freeze-thaw cycles in saturated brickwork",
-      "White crystalline deposits on masonry surfaces caused by soluble salts migrating to the surface with moisture",
-      "Biological growth of algae and moss on north-facing damp walls",
-      "Horizontal cracking along mortar joints due to differential thermal movement"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

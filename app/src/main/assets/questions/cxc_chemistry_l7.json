@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following statements best describes an isotope?",
+    "question": "What is the term for the energy required to remove an electron from an atom?",
     "options": [
-      "Atoms of different elements with the same mass number",
-      "Atoms of the same element with different numbers of neutrons",
-      "Atoms of the same element with different numbers of electrons",
-      "Atoms of different elements with the same atomic number"
+      "ionization energy",
+      "electronegativity",
+      "electrophilicity",
+      "electron affinity"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the IUPAC name for CH3CH2CH2OH?",
+    "question": "What is the term for the process by which a solid changes directly to a liquid and then to a gas?",
     "options": [
-      "Propan-2-ol",
-      "Ethanol",
-      "Propan-1-ol",
-      "Butanol"
+      "Sublimation",
+      "Vaporization",
+      "Melting",
+      "Condensation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of chemical bond that involves the attraction between a hydrogen atom and a highly electronegative atom?",
+    "options": [
+      "Ionic Bond",
+      "Covalent Bond",
+      "Hydrogen Bond",
+      "Van der Waals Bond"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of bonding is present in sodium chloride (NaCl)?",
+    "question": "What is the term for the process by which a solid changes directly to a liquid?",
     "options": [
-      "Covalent bonding",
-      "Metallic bonding",
-      "Ionic bonding",
-      "Hydrogen bonding"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A solution has a pH of 3. Which of the following best describes this solution?",
-    "options": [
-      "Strongly alkaline",
-      "Weakly alkaline",
-      "Neutral",
-      "Acidic"
+      "Freezing",
+      "Boiling",
+      "Deposition",
+      "Melting"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the molar mass of calcium carbonate (CaCO3)?",
+    "question": "What is the term for the type of chemical bond that involves the transfer of one or more electrons from one atom to another?",
     "options": [
-      "56 g/mol",
-      "84 g/mol",
-      "100 g/mol",
-      "116 g/mol"
+      "Ionic Bond",
+      "Van der Waals Bond",
+      "Hydrogen Bond",
+      "Covalent Bond"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "During electrolysis of dilute sulfuric acid, which gas is produced at the cathode?",
+    "question": "Which of the following is a characteristic of a metalloid?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Sulfur dioxide",
-      "Chlorine"
+      "Highly brittle but malleable",
+      "Highly soluble in water",
+      "Highly flammable",
+      "Highly malleable and ductile"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following is a property of metals?",
+    "question": "In an electrochemical cell, what is the term for the electrode where reduction occurs?",
     "options": [
-      "They are poor conductors of electricity",
-      "They are brittle solids",
-      "They have high melting points and are malleable",
-      "They do not react with acids"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the periodic table, elements in the same group have the same number of:",
-    "options": [
-      "Protons",
-      "Neutrons",
-      "Electrons in their outer shell",
-      "Mass numbers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of reaction occurs when an acid reacts with a base to form salt and water?",
-    "options": [
-      "Decomposition",
-      "Neutralisation",
-      "Oxidation",
-      "Displacement"
+      "Ion",
+      "Cathode",
+      "Anode",
+      "Electrode"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which gas is produced when zinc reacts with dilute hydrochloric acid?",
+    "question": "What is the term for the process by which a gas changes directly to a liquid?",
     "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Hydrogen",
-      "Chlorine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the empirical formula of a compound that contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass?",
-    "options": [
-      "C2H4O2",
-      "CH2O",
-      "C3H6O3",
-      "CHO"
+      "Sublimation",
+      "Condensation",
+      "Melting",
+      "Vaporization"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes an exothermic reaction?",
+    "question": "Which of the following is a characteristic of a strong acid?",
     "options": [
-      "A reaction that absorbs heat from the surroundings",
-      "A reaction that produces a gas",
-      "A reaction that releases heat to the surroundings",
-      "A reaction that requires light to proceed"
+      "Does not dissolve in water",
+      "Dissolves in water to form a solution with a pH of 7",
+      "Dissolves in water to form a solution with a pH of more than 7",
+      "Dissolves in water to form a solution with a pH of less than 7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a strong base?",
+    "options": [
+      "Dissolves in water to form a solution with a pH of less than 7",
+      "Does not dissolve in water",
+      "Dissolves in water to form a solution with a pH of 7",
+      "Dissolves in water to form a solution with a pH of more than 7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of chemical reaction that involves the combination of two or more substances to form a new substance, accompanied by the absorption of heat energy?",
+    "options": [
+      "Exothermic Reaction",
+      "Decomposition Reaction",
+      "Endothermic Reaction",
+      "Synthesis Reaction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the oxidation state of sulfur in H2SO4?",
+    "question": "What is the term for the type of chemical reaction that involves the combination of two or more substances to form a new substance?",
     "options": [
-      "+4",
-      "+6",
-      "+2",
-      "-2"
+      "Redox Reaction",
+      "Synthesis Reaction",
+      "Combustion Reaction",
+      "Decomposition Reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following alkenes undergoes addition polymerisation to form poly(ethene)?",
+    "question": "Which of the following is a characteristic of a weak acid?",
     "options": [
-      "Ethane",
-      "Ethyne",
-      "Ethene",
-      "Propene"
+      "Dissolves in water to form a solution with a pH between 7 and less than 7",
+      "Dissolves in water to form a solution with a pH of more than 7",
+      "Dissolves in water to form a solution with a pH of 7",
+      "Does not dissolve in water"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of chemical reaction that involves the transfer of electrons from one substance to another, resulting in the formation of a new substance?",
+    "options": [
+      "Combustion Reaction",
+      "Acid-Base Reaction",
+      "Redox Reaction",
+      "Oxidation-Reduction Reaction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The rate of a chemical reaction can be increased by which of the following?",
+    "question": "Which of the following is a characteristic of a metal?",
     "options": [
-      "Decreasing the concentration of reactants",
-      "Decreasing the temperature",
-      "Adding a catalyst",
-      "Increasing the particle size of solid reactants"
+      "Highly conductive of heat",
+      "Highly corrosive",
+      "Highly conductive of electricity",
+      "Highly insulating"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following statements correctly describes the relationship between bond order and bond length in diatomic molecules?",
+    "question": "What is the term for the process by which a metal gains electrons to form a negative ion?",
     "options": [
-      "Higher bond order results in longer bond length",
-      "Higher bond order results in shorter bond length",
-      "Bond order has no effect on bond length",
-      "Lower bond order results in shorter bond length"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A buffer solution is prepared by mixing 0.1 mol of CH3COOH and 0.1 mol of CH3COONa in 1 litre of water. If the Ka of acetic acid is 1.8 \u00d7 10\u207b\u2075, what is the pH of the buffer?",
-    "options": [
-      "4.74",
-      "5.74",
-      "3.74",
-      "6.74"
+      "Electron capture",
+      "Ionization",
+      "Cation formation",
+      "Electron emission"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the electrolysis of dilute sulfuric acid using platinum electrodes, which product is formed at the anode?",
+    "question": "What is the term for the process by which a gas changes directly to a solid and then to a liquid?",
     "options": [
-      "Hydrogen gas",
-      "Sulfur dioxide",
-      "Oxygen gas",
-      "Sulfuric acid"
+      "Vaporization",
+      "Melting",
+      "Condensation",
+      "Sublimation"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following correctly explains why fluorine cannot act as a central atom in a molecule with an expanded octet?",
+    "question": "What is the term for the process by which a base accepts a proton from an acid?",
     "options": [
-      "Fluorine has too many neutrons",
-      "Fluorine has no available d orbitals in its valence shell",
-      "Fluorine is too electronegative to form multiple bonds",
-      "Fluorine has a large atomic radius"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The standard electrode potential of Cu\u00b2\u207a/Cu is +0.34 V and that of Zn\u00b2\u207a/Zn is \u22120.76 V. What is the standard EMF of a cell constructed with these two electrodes?",
-    "options": [
-      "0.42 V",
-      "1.10 V",
-      "\u22120.42 V",
-      "\u22121.10 V"
+      "Nucleophilic substitution",
+      "Proton acceptance",
+      "Electron transfer",
+      "Electrophilic addition"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following statements about the rate-determining step in a reaction mechanism is correct?",
+    "question": "What is the empirical formula of ammonia?",
     "options": [
-      "It is always the first step in the mechanism",
-      "It is the fastest step in the mechanism",
-      "It is the slowest step and determines the overall rate",
-      "It involves the highest activation energy only when it is the last step"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A sample of a radioactive isotope has a half-life of 6 hours. What fraction of the original sample remains after 24 hours?",
-    "options": [
-      "1/2",
-      "1/8",
-      "1/16",
-      "1/4"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of isomerism is exhibited by cis-platin and trans-platin?",
-    "options": [
-      "Optical isomerism",
-      "Chain isomerism",
-      "Geometric isomerism",
-      "Positional isomerism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a first-order reaction, if the initial concentration of reactant is doubled, what happens to the half-life?",
-    "options": [
-      "It doubles",
-      "It halves",
-      "It remains unchanged",
-      "It quadruples"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly explains why diamond has a much higher melting point than iodine?",
-    "options": [
-      "Diamond has stronger van der Waals forces",
-      "Diamond has a giant covalent network structure with strong covalent bonds throughout, while iodine has weak intermolecular forces between I\u2082 molecules",
-      "Diamond contains ionic bonds while iodine contains covalent bonds",
-      "Diamond molecules are heavier than iodine molecules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the oxidation state of chromium in the dichromate ion, Cr\u2082O\u2087\u00b2\u207b?",
-    "options": [
-      "+3",
-      "+6",
-      "+7",
-      "+4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following represents the correct order of increasing acid strength for the hydrohalic acids?",
-    "options": [
-      "HF < HCl < HBr < HI",
-      "HI < HBr < HCl < HF",
-      "HCl < HF < HBr < HI",
-      "HF < HI < HBr < HCl"
+      "NH3",
+      "H2O",
+      "NH2",
+      "CO2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "During the manufacture of ammonia by the Haber process, which conditions represent the best compromise between rate and yield?",
+    "question": "What is the term for the movement of ions from an area of high concentration to an area of low concentration?",
     "options": [
-      "High temperature, low pressure, with iron catalyst",
-      "Low temperature, high pressure, with iron catalyst",
-      "High temperature, high pressure, with iron catalyst",
-      "Low temperature, low pressure, with iron catalyst"
+      "Active transport",
+      "Passive transport",
+      "Osmosis",
+      "Diffusion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the empirical formula of urea?",
+    "options": [
+      "NH3",
+      "H2O",
+      "CO2",
+      "NH2CONH2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which a metal gains electrons to form a negative ion?",
+    "options": [
+      "Electron gain",
+      "Electron emission",
+      "Cation formation",
+      "Ionization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the energy level of the outermost electrons in a potassium atom?",
+    "options": [
+      "2s2",
+      "4s1",
+      "3s1",
+      "5s1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of chemical reaction that involves the combination of two or more substances to form a new substance, accompanied by the release of heat energy?",
+    "options": [
+      "Endothermic Reaction",
+      "Exothermic Reaction",
+      "Decomposition Reaction",
+      "Synthesis Reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which a metal loses electrons to form a positive ion?",
+    "options": [
+      "Cation formation",
+      "Electron capture",
+      "Electron emission",
+      "Ionization"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the empirical formula of formaldehyde?",
+    "options": [
+      "HCHO",
+      "CO2",
+      "H2O",
+      "CH4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a strong acid?",
+    "options": [
+      "Dissolves in water to form a solution with a pH of more than 7",
+      "Does not dissolve in water",
+      "Dissolves in water to form a solution with a pH of less than 7",
+      "Dissolves in water to form a solution with a pH of 7"
     ],
     "correctIndex": 2
   },
   {
-    "question": "An organic compound with molecular formula C\u2083H\u2087Br undergoes nucleophilic substitution. Which nucleophile would produce an amine as the product?",
+    "question": "What is the term for the process by which an electric current causes a chemical change?",
     "options": [
-      "OH\u207b",
-      "NH\u2083",
-      "CN\u207b",
-      "H\u2082O"
+      "Electrochemical cell",
+      "Electrolysis",
+      "Electrolysis cell",
+      "Electrochemical reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following statements correctly distinguishes between SN1 and SN2 reaction mechanisms?",
+    "question": "What is the term for the type of chemical reaction that involves the transfer of electrons from one substance to another, accompanied by the absorption of heat energy?",
     "options": [
-      "SN1 reactions are second order overall while SN2 reactions are first order",
-      "SN1 reactions proceed via a carbocation intermediate and are favoured by tertiary halogenoalkanes, while SN2 reactions proceed via a concerted mechanism and are favoured by primary halogenoalkanes",
-      "SN2 reactions always produce racemic mixtures while SN1 reactions produce inversion of configuration",
-      "SN1 reactions require a strong nucleophile while SN2 reactions do not"
+      "Endothermic Reaction",
+      "Combustion Reaction",
+      "Exothermic Reaction",
+      "Redox Reaction"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which atoms gain or lose electrons to form ions?",
+    "options": [
+      "Electron transfer",
+      "Electron capture",
+      "Nuclear fission",
+      "Electron emission"
+    ],
+    "correctIndex": 0
   }
 ]

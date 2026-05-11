@@ -1,153 +1,152 @@
 [
   {
-    "question": "What is the main purpose of a foundation in a building?",
+    "question": "What is the term for the process of calculating the quantity of materials required for a building project?",
     "options": [
-      "To support and transfer the load of the structure to the ground",
-      "To provide a decorative base for the walls",
-      "To prevent moisture from entering the building",
-      "To connect the walls to the roof"
+      "Estimating",
+      "Quoting",
+      "Measuring",
+      "Bidding"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of bond is most commonly used in brick wall construction?",
+    "question": "Which of the following building materials are most resistant to impact damage?",
     "options": [
-      "Stack bond",
-      "Stretcher bond",
-      "Header bond",
-      "English bond"
+      "Wood",
+      "Steel",
+      "Brick",
+      "Concrete"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the term 'DPC' stand for in building construction?",
+    "question": "What is the term for the process of joining two pieces of wood together using nails or screws?",
     "options": [
-      "Damp Proof Course",
-      "Dry Portland Cement",
-      "Double Plaster Coat",
-      "Drain Pipe Connection"
+      "Carpentry",
+      "Assembly",
+      "Framing",
+      "Joinery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a construction schedule?",
+    "options": [
+      "To show the budget for the project",
+      "To show the sequence and timing of construction activities.",
+      "To show the materials to be used",
+      "To show the location and layout of the building on the site"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a drain pipe in a plumbing system?",
+    "options": [
+      "To carry waste water away from the building.",
+      "To supply fresh water to the building",
+      "To heat water for the building",
+      "To ventilate the building"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which material is commonly used to make roof tiles in the Caribbean?",
+    "question": "Which of the following building materials are most resistant to compression?",
     "options": [
-      "Aluminum",
+      "Wood",
       "Concrete",
-      "Rubber",
-      "Glass"
+      "Brick",
+      "Steel"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a lintel?",
+    "question": "Which of the following types of plumbing fixtures are most common in residential construction?",
     "options": [
-      "To drain water from the roof",
-      "To support the load above a door or window opening",
-      "To join two walls together",
-      "To provide ventilation in a room"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tool is used to check if a surface is perfectly horizontal?",
-    "options": [
-      "Plumb bob",
-      "Spirit level",
-      "Try square",
-      "Steel rule"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "Which type of timber is produced from trees such as pine and cedar?",
-    "question": "Which type of timber is produced from trees such as pine and cedar?",
-    "options": [
-      "Hardwood",
-      "Softwood",
-      "Plywood",
-      "Chipboard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the standard size of a common brick in millimeters?",
-    "options": [
-      "200 x 100 x 75",
-      "215 x 102.5 x 65",
-      "250 x 120 x 80",
-      "180 x 90 x 60"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which roof type has two slopes on each of its four sides?",
-    "options": [
-      "Gable roof",
-      "Flat roof",
-      "Hip roof",
-      "Shed roof"
+      "Toilets",
+      "Sinks",
+      "Faucets",
+      "Showers"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is mortar made of?",
+    "question": "Which of the following types of electrical installation are most common in commercial construction?",
     "options": [
-      "Cement, sand and water",
-      "Cement, gravel and water",
-      "Sand, lime and gravel",
-      "Cement, lime and aggregate"
+      "Single-phase electrical installation",
+      "Arc fault circuit interrupter (AFCI) installation",
+      "Ground fault circuit interrupter (GFCI) installation",
+      "Three-phase electrical installation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of ensuring that a building project is completed on time and within budget?",
+    "options": [
+      "Risk management",
+      "Project management",
+      "Safety and Health Protocol",
+      "Quality control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the foundation in a building structure?",
+    "options": [
+      "To provide structural support for the roof.",
+      "To distribute the weight of the building evenly and transfer it to the ground.",
+      "To control the temperature of the building.",
+      "To improve the appearance of the building."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following building materials are most resistant to fire?",
+    "options": [
+      "Concrete",
+      "Steel",
+      "Wood",
+      "Brick"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of joints are most common in masonry construction?",
+    "options": [
+      "Raked joints",
+      "Weathered joints",
+      "Flush joints",
+      "Tooled joints"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which instrument is used to measure angles in building construction?",
+    "question": "What is the purpose of a building permit?",
     "options": [
-      "Steel tape",
-      "Protractor",
-      "Spirit level",
-      "Plumb bob"
+      "To ensure compliance with building regulations and to authorize the commencement of construction.",
+      "To approve the design of the building",
+      "To inspect the finished building",
+      "To supervise the construction of the building"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vapour barrier in construction?",
+    "question": "Which of the following building materials are most resistant to moisture damage?",
     "options": [
-      "To allow air to circulate freely",
-      "To prevent moisture from passing through walls and floors",
-      "To reflect heat from the sun",
-      "To strengthen the wall structure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a natural building material?",
-    "options": [
-      "PVC pipe",
-      "Reinforcing steel",
-      "Timber",
-      "Fiberglass"
+      "Wood",
+      "Brick",
+      "Ceramic tile",
+      "Concrete"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the scale 1:50 mean on a building drawing?",
+    "question": "What is the term for the process of ensuring that building workers have the necessary skills and training to perform their jobs safely and effectively?",
     "options": [
-      "The drawing is 50 times larger than the actual building",
-      "1 unit on the drawing represents 50 units in real life",
-      "The building is 50 meters tall",
-      "There are 50 rooms in the building"
+      "Risk management",
+      "Project management",
+      "Quality control",
+      "Occupational health and safety"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term used for the horizontal member at the top of a door or window frame?",
-    "options": [
-      "Sill",
-      "Jamb",
-      "Head",
-      "Threshold"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

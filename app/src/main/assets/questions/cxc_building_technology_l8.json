@@ -1,152 +1,72 @@
 [
   {
-    "question": "Which type of foundation is most suitable for a building constructed on weak, compressible soil where load must be spread over a large area?",
+    "question": "What is the primary function of a building's roof coverings?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Pile foundation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a damp proof course (DPC) in wall construction?",
-    "options": [
-      "To improve thermal insulation",
-      "To prevent moisture rising from the ground into the wall",
-      "To strengthen the wall against lateral loads",
-      "To provide a decorative finish to the wall base"
+      "To improve the building's ventilation",
+      "To protect the building from the elements",
+      "To provide additional storage space",
+      "To enhance the building's aesthetic appeal"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following describes the correct mix ratio for a standard mortar used in brickwork?",
+    "question": "What is the term for the process of planning and scheduling a construction project?",
     "options": [
-      "1 part cement : 2 parts sand",
-      "1 part cement : 3 parts sand",
-      "1 part cement : 6 parts sand",
-      "1 part cement : 8 parts sand"
+      "Project monitoring",
+      "Project coordination",
+      "Project execution",
+      "Project management"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "In timber frame construction, what is the term for the horizontal member that sits on top of the wall studs and supports the roof structure?",
+    "question": "Which building material is known for its high thermal insulation properties?",
     "options": [
-      "Sole plate",
-      "Wall plate",
-      "Ridge board",
-      "Nogging"
+      "Steel",
+      "Fiberglass",
+      "Brick",
+      "Cement"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of bond in brickwork consists of all bricks laid as stretchers, with each course offset by half a brick?",
+    "question": "Which of the following carpentry joints is used to connect two pieces of wood at a 90-degree angle?",
     "options": [
-      "English bond",
-      "Flemish bond",
-      "Stretcher bond",
-      "Header bond"
+      "Dovetail joint",
+      "Dado joint",
+      "Mortise and tenon joint",
+      "Butt joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which roofing material is made from fired clay and is commonly used in Caribbean construction due to its durability and heat resistance?",
+    "question": "What is the term for the process of evaluating the feasibility of a construction project?",
     "options": [
-      "Galvanised steel sheets",
-      "Asphalt shingles",
-      "Clay tiles",
-      "Fibreglass panels"
+      "Feasibility study",
+      "Feasibility analysis",
+      "Feasibility evaluation",
+      "Feasibility assessment"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What does the term 'setting out' refer to in building construction?",
+    "question": "What is the purpose of a building's foundation?",
     "options": [
-      "Designing the architectural drawings",
-      "Transferring the building dimensions from the plan onto the actual site",
-      "Calculating the quantity of materials required",
-      "Preparing the final account for the project"
+      "To provide additional storage space",
+      "To transfer the weight of the building to the ground",
+      "To enhance the building's aesthetic appeal",
+      "To improve the building's ventilation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which instrument is commonly used on a construction site to establish horizontal levels across a building site?",
+    "question": "What is the primary function of a building's plumbing system?",
     "options": [
-      "Theodolite",
-      "Dumpy level",
-      "Plumb bob",
-      "Steel square"
+      "To provide additional storage space",
+      "To provide clean water and remove waste",
+      "To enhance the building's aesthetic appeal",
+      "To improve the building's ventilation"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "In concrete mix design, what is the function of the water-cement ratio?",
-    "options": [
-      "It determines the colour of the finished concrete",
-      "It controls the workability and strength of the concrete",
-      "It specifies the aggregate size to be used",
-      "It determines the curing time of the concrete"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the triangular area of wall at the end of a pitched roof between the sloping roof surfaces?",
-    "options": [
-      "Fascia",
-      "Soffit",
-      "Gable",
-      "Eaves"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of door construction uses a solid timber frame with panels fitted into grooves, allowing for timber movement?",
-    "options": [
-      "Flush door",
-      "Ledged and braced door",
-      "Panelled door",
-      "Fire door"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary structural purpose of a lintel in building construction?",
-    "options": [
-      "To provide decorative finishing above openings",
-      "To support the weight of the wall above a window or door opening",
-      "To act as a damp proof course above openings",
-      "To connect the roof structure to the walls"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which plumbing fitting is used to change the direction of a pipe by 90 degrees?",
-    "options": [
-      "Tee junction",
-      "Elbow",
-      "Reducer",
-      "Union"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In electrical installations, what is the function of an earth wire in a domestic circuit?",
-    "options": [
-      "It carries the current to the appliance",
-      "It returns current to the supply",
-      "It provides a safe path for fault current to prevent electric shock",
-      "It controls the voltage supplied to the circuit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of scaffold consists of a working platform supported by brackets fixed directly to the wall of the building?",
-    "options": [
-      "Independent scaffold",
-      "Putlog scaffold",
-      "Cantilever scaffold",
-      "Suspended scaffold"
-    ],
-    "correctIndex": 2
   }
 ]

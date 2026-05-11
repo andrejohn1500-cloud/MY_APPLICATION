@@ -1,152 +1,122 @@
 [
   {
-    "question": "What is the basic unit of life?",
+    "question": "Which type of Caribbean ecosystem is characterized by a mix of freshwater and saltwater species?",
     "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organelle is responsible for producing energy in the cell?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Vacuole"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What process do plants use to make their own food?",
-    "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Digestion",
-      "Transpiration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas do plants absorb during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of the nucleus in a cell?",
-    "options": [
-      "To produce energy",
-      "To control cell activities",
-      "To store water",
-      "To make proteins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which blood vessels carry blood away from the heart?",
-    "options": [
-      "Veins",
-      "Capillaries",
-      "Arteries",
-      "Lymph vessels"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the process by which plants lose water through their leaves?",
-    "options": [
-      "Osmosis",
-      "Transpiration",
-      "Diffusion",
-      "Absorption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the flower produces pollen?",
-    "options": [
-      "Stigma",
-      "Ovary",
-      "Petal",
-      "Anther"
+      "freshwater ecosystem",
+      "saltwater ecosystem",
+      "terrestrial ecosystem",
+      "brackish water ecosystem"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What type of reproduction requires only one parent?",
+    "question": "What is the term for the study of the structure and function of cells?",
     "options": [
-      "Sexual reproduction",
-      "Asexual reproduction",
-      "Fertilisation",
-      "Pollination"
+      "cytology",
+      "genetics",
+      "histology",
+      "embryology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which an organism's population adapts to its environment?",
+    "options": [
+      "natural selection",
+      "evolution",
+      "genetic drift",
+      "mutation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which nutrient provides the most energy per gram?",
+    "question": "What is the term for the process by which an organism's cells divide to form new cells?",
     "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Fats",
-      "Vitamins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the pigment that makes plants green?",
-    "options": [
-      "Melanin",
-      "Haemoglobin",
-      "Chlorophyll",
-      "Carotene"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organ is responsible for filtering waste from the blood?",
-    "options": [
-      "Liver",
-      "Lungs",
-      "Heart",
-      "Kidney"
+      "cytokinesis",
+      "prophase",
+      "meiosis",
+      "mitosis"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the movement of water molecules from a region of high concentration to low concentration through a semi-permeable membrane?",
+    "question": "What is the term for the process by which an organism's genetic information is changed over time?",
     "options": [
-      "Diffusion",
-      "Active transport",
-      "Osmosis",
-      "Transpiration"
+      "mutation",
+      "genetic drift",
+      "evolution",
+      "genetic variation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which part of the digestive system absorbs most nutrients into the blood?",
+    "question": "Which type of biotechnology involves the use of computers to analyze genetic data?",
     "options": [
-      "Stomach",
-      "Large intestine",
-      "Small intestine",
-      "Oesophagus"
+      "proteomics",
+      "transcriptomics",
+      "bioinformatics",
+      "genomics"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the role of red blood cells?",
+    "question": "What is the term for the process by which an organism's genetic information is inherited from one generation to the next?",
     "options": [
-      "To fight infection",
-      "To carry oxygen around the body",
-      "To help blood clot",
-      "To produce antibodies"
+      "genetic variation",
+      "mutation",
+      "acquired traits",
+      "inherited traits"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the structure and function of the human body?",
+    "options": [
+      "anatomy",
+      "histology",
+      "physiology",
+      "embryology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which cells convert light energy into chemical energy?",
+    "options": [
+      "translocation",
+      "respiration",
+      "photosynthesis",
+      "transpiration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the root absorbs water and minerals from the soil?",
+    "options": [
+      "vascular cambium",
+      "phloem",
+      "cortex",
+      "xylem"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of disease is caused by an imbalance of an organism's internal environment?",
+    "options": [
+      "non-communicable disease",
+      "communicable disease",
+      "homeostatic disease",
+      "infectious disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of ecology studies the interactions between organisms and their environment?",
+    "options": [
+      "ecosystem ecology",
+      "population ecology",
+      "autecology",
+      "synecology"
+    ],
+    "correctIndex": 2
   }
 ]

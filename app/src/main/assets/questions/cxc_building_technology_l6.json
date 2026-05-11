@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which type of foundation is most suitable for a building constructed on soft, compressible soil where load-bearing capacity is poor?",
+    "question": "Which of the following carpentry joints is used to connect two pieces of wood end-to-end?",
     "options": [
-      "Strip foundation",
-      "Pad foundation",
-      "Raft foundation",
-      "Stepped foundation"
+      "Dovetail joint",
+      "Butt joint",
+      "Dado joint",
+      "Mortise and tenon joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a building's roof drainage system?",
+    "options": [
+      "To provide additional storage space",
+      "To remove rainwater from the roof",
+      "To improve the building's ventilation",
+      "To enhance the building's aesthetic appeal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a building's plumbing fixtures and appliances?",
+    "options": [
+      "To improve the building's ventilation",
+      "To provide additional storage space",
+      "To enhance the building's aesthetic appeal",
+      "To provide clean water and remove waste"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of removing debris and waste from a construction site?",
+    "options": [
+      "Clearing",
+      "Grading",
+      "Demolition",
+      "Excavation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of a damp-proof course (DPC) in a building?",
+    "question": "Which of the following building materials is resistant to corrosion?",
     "options": [
-      "To provide structural support to walls",
-      "To prevent moisture from rising through the walls",
-      "To improve thermal insulation",
-      "To act as a fire barrier"
+      "Galvanized steel",
+      "Stainless steel",
+      "Copper",
+      "Aluminum"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In brickwork, which bond is characterized by courses of alternating headers and stretchers?",
+    "question": "What is the primary function of a building's drainage system?",
     "options": [
-      "English bond",
-      "Flemish bond",
-      "Stretcher bond",
-      "Garden wall bond"
+      "To enhance the building's aesthetic appeal",
+      "To remove waste and rainwater from the building",
+      "To improve the building's ventilation",
+      "To provide additional storage space"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the term 'setting out' refer to in building construction?",
+    "question": "What is the term for the process of evaluating the performance of a construction project?",
     "options": [
-      "Preparing the site for workers",
-      "Establishing the position and dimensions of a building on site",
-      "Calculating material quantities",
-      "Designing the structural layout"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which roofing material is classified as a thermoplastic membrane used in flat roof construction?",
-    "options": [
-      "Clay tiles",
-      "PVC membrane",
-      "Concrete tiles",
-      "Asphalt shingles"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of a lintel in a wall?",
-    "options": [
-      "To support the floor above",
-      "To span an opening and carry the load above it",
-      "To tie the wall to the foundation",
-      "To provide lateral stability"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of timber defect is caused by the presence of a branch embedded in the wood?",
-    "options": [
-      "Shakes",
-      "Checks",
-      "Knots",
-      "Warping"
+      "Performance measurement",
+      "Performance monitoring",
+      "Performance evaluation",
+      "Performance assessment"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In plumbing, what is the purpose of a trap fitted below a sink?",
+    "question": "What is the primary function of a building's electrical grounding system?",
     "options": [
-      "To regulate water pressure",
-      "To filter impurities from wastewater",
-      "To retain water and prevent foul gases from entering the building",
-      "To control the flow rate of water"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the standard mix ratio for a concrete used in general structural work?",
-    "options": [
-      "1:1:2",
-      "1:2:4",
-      "1:3:6",
-      "2:4:8"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which electrical wiring system uses a continuous loop that connects all lighting points before returning to the consumer unit?",
-    "options": [
-      "Radial circuit",
-      "Ring main circuit",
-      "Loop-in system",
-      "Spur circuit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of saw is most appropriate for cutting curves in timber?",
-    "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Coping saw",
-      "Panel saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In masonry construction, what is mortar primarily composed of?",
-    "options": [
-      "Cement, sand, and water",
-      "Cement, gravel, and water",
-      "Lime, gravel, and aggregate",
-      "Sand, bitumen, and water"
+      "To protect people from electrical shock",
+      "To improve the building's ventilation",
+      "To provide additional storage space",
+      "To enhance the building's aesthetic appeal"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which document provides detailed graphical information about how a building is to be constructed, including dimensions and materials?",
+    "question": "What is the term for the process of testing a building's electrical system after installation?",
     "options": [
-      "Bill of Quantities",
-      "Specification",
-      "Working drawings",
-      "Schedule of works"
+      "Certification",
+      "Commissioning",
+      "Verification",
+      "Testing and inspection"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a vapour barrier in wall construction?",
+    "question": "What is the term for the process of evaluating the sustainability of a construction project?",
     "options": [
-      "To allow moisture to pass freely through walls",
-      "To prevent condensation by stopping warm moist air from reaching cold surfaces",
-      "To increase the structural strength of the wall",
-      "To provide sound insulation between rooms"
+      "Sustainability assessment",
+      "Sustainability analysis",
+      "Sustainability management",
+      "Sustainability evaluation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a building's electrical service panel?",
+    "options": [
+      "To improve the building's ventilation",
+      "To provide additional storage space",
+      "To enhance the building's aesthetic appeal",
+      "To distribute electrical power to the building"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following masonry materials is known for its high compressive strength?",
+    "options": [
+      "Concrete",
+      "Block",
+      "Stone",
+      "Brick"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a construction project, what is the term for the process of preparing the site for construction?",
+    "options": [
+      "Site excavation",
+      "Site preparation",
+      "Site demolition",
+      "Site clearing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of staircase has a single flight that changes direction by 180 degrees with a landing halfway?",
+    "question": "What is the purpose of a building's service core?",
     "options": [
-      "Straight flight stair",
-      "Spiral stair",
-      "Dog-leg stair",
-      "Open well stair"
+      "To provide access to essential services such as electrical and plumbing",
+      "To enhance the building's aesthetic appeal",
+      "To improve the building's ventilation",
+      "To provide additional storage space"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following electrical installation methods is the safest?",
+    "options": [
+      "Touching electrical components with bare hands",
+      "Using electrical tools in wet conditions",
+      "Using insulated tools and personal protective equipment",
+      "Ignoring electrical safety protocols"
     ],
     "correctIndex": 2
   }
