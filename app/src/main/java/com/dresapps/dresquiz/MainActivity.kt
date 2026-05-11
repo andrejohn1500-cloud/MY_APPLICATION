@@ -20,6 +20,14 @@ class MainActivity : AppCompatActivity() {
                 getSharedPreferences("fcm_prefs", MODE_PRIVATE)
                     .edit().putString("fcm_token", token).apply()
             }
+        // Show rivalry popup if launched from notification
+        val rivalCategory  = intent.getStringExtra("rivalry_category") ?: ""
+        val theirScore     = intent.getStringExtra("their_score")     ?: ""
+        val yourScore      = intent.getStringExtra("your_score")      ?: ""
+        val gap            = intent.getStringExtra("gap")             ?: ""
+        if (rivalCategory.isNotEmpty()) {
+            showRivalryDialog(rivalCategory, theirScore, yourScore, gap)
+        }
         MobileAds.initialize(this) {}
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
@@ -127,5 +135,30 @@ class MainActivity : AppCompatActivity() {
                 }
             } catch (e: Exception) { e.printStackTrace() }
         }.start()
+    }
+
+    private fun showRivalryDialog(category: String, theirScore: String, yourScore: String, gap: String) {
+        val view = layoutInflater.inflate(R.layout.dialog_rivalry, null)
+        val dialog = android.app.AlertDialog.Builder(this)
+            .setView(view)
+            .setCancelable(true)
+            .create()
+        dialog.window?.setBackgroundDrawableResource(android.R.color.transparent)
+
+        view.findViewById<android.widget.TextView>(R.id.tvRivalryWho).text =
+            "Someone just passed you in $category"
+        view.findViewById<android.widget.TextView>(R.id.tvTheirScore).text = theirScore
+        view.findViewById<android.widget.TextView>(R.id.tvYourScore).text  = yourScore
+        view.findViewById<android.widget.TextView>(R.id.tvWhatYouNeed).text =
+            if (gap.isNotEmpty()) "🎯 Score $gap more to reclaim your rank" else "Answer faster to reclaim #1"
+
+        view.findViewById<android.widget.Button>(R.id.btnPlayNow).setOnClickListener {
+            dialog.dismiss()
+            startActivity(android.content.Intent(this, CategoryActivity::class.java))
+        }
+        view.findViewById<android.widget.Button>(R.id.btnLater).setOnClickListener {
+            dialog.dismiss()
+        }
+        dialog.show()
     }
 }
