@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A matrix has elements of 2, 3, 4, 5. What is the determinant of the matrix?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A triangle has sides of 3cm, 4cm, and 5cm. Which of the following is the type of triangle?",
+    "options": [
+      "equilateral",
+      "right-angled",
+      "obtuse-angled",
+      "acute-angled"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mean of a set of numbers is the sum of the numbers divided by the number of values. What is the mean of 2, 4, 6, 8?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a right-angled triangle, the opposite side to the angle is called the",
+    "options": [
+      "altitude",
+      "adjacent side",
+      "opposite side",
+      "hypotenuse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A right-angled triangle has a hypotenuse of 10cm, and a leg of 8cm. What is the length of the other leg?",
+    "options": [
+      "9",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The sine of an angle in a right-angled triangle is 4/5. What is the cosine of the angle?",
+    "options": [
+      "7/8",
+      "4/7",
+      "5/6",
+      "3/5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A set of 4 numbers has a range of 2, and a maximum value of 10. Which of the following is the minimum value of the set?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The mean of a set of numbers is the sum of the numbers divided by the number of values. What is the mean of 1, 3, 5, 7?",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A right-angled triangle has a hypotenuse of 10cm, and a leg of 6cm. What is the length of the other leg?",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The probability of an event occurring is 3/5. Which of the following is the probability of the event NOT occurring?",
+    "options": [
+      "2/5",
+      "3/4",
+      "1/2",
+      "4/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 3 consecutive even numbers is {x, x+2, x+4}. Which of the following is the value of x?",
+    "options": [
+      "12",
+      "6",
+      "10",
+      "8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A right-angled triangle has a hypotenuse of 10cm, and a leg of 9cm. What is the length of the other leg?",
+    "options": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The sine of an angle in a right-angled triangle is 3/5. What is the cosine of the angle?",
+    "options": [
+      "3/4",
+      "4/5",
+      "7/8",
+      "5/6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A vector of magnitude 5 units, in the direction of 30\u00b0, is represented by the symbol",
+    "options": [
+      "5cos30\u00b0i - 5sin30\u00b0j",
+      "5cos30\u00b0i + 5sin30\u00b0j",
+      "5i + 5j",
+      "5sin30\u00b0i + 5cos30\u00b0j"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A set of 4 numbers has a range of 3, and a maximum value of 12. Which of the following is the minimum value of the set?",
+    "options": [
+      "11",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2
+  }
+]

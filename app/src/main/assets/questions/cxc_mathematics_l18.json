@@ -1,0 +1,42 @@
+[
+  {
+    "question": "In a right-angled triangle, if the cosine of one of the acute angles is 3/5, what is the ratio of the length of the adjacent side to the length of the hypotenuse?",
+    "options": [
+      "1/3",
+      "3/5",
+      "2/3",
+      "4/5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A set of data has a mode of 5, a median of 7, and a mean of 8. What is the sum of the two middle numbers, if the set is arranged in ascending order?",
+    "options": [
+      "7 + 7 = 14",
+      "7 + 10 = 17",
+      "8 + 10 = 18",
+      "7 + 8 = 15"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a right-angled triangle, if the cosine of one of the acute angles is 3/5, what is the ratio of the length of the adjacent side to the length of the hypotenuse?",
+    "options": [
+      "3/5",
+      "2/3",
+      "1/3",
+      "4/5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a trigonometric identity, if sin(A + B) = sin A cos B + cos A sin B, what is the cofunction of sin A in the expression?",
+    "options": [
+      "tan B",
+      "sin B",
+      "csc B",
+      "cos B"
+    ],
+    "correctIndex": 3
+  }
+]

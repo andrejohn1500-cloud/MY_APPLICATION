@@ -1,152 +1,152 @@
 [
   {
-    "question": "The concept of punctuated equilibrium (Gould and Eldredge)",
+    "question": "The study of the movement of the Earth's oceans is known as what?",
     "options": [
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Most of the universe's mass is invisible and detected only through gravity",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "A state of matter formed when particles are cooled to near absolute zero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Quantum electrodynamics (QED) describes",
-    "options": [
-      "The 3D structure of a protein determines its function",
-      "Most of the universe's mass is invisible and detected only through gravity",
-      "How light and matter interact at the quantum level",
-      "Fundamental particles are one-dimensional vibrating strings of energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "CRISPR base editing allows",
-    "options": [
-      "Nanoscale biological or synthetic structures that perform mechanical functions",
-      "Changing a single DNA letter without cutting the double strand",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Allows genes to pass between organisms other than by reproduction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of chirality in chemistry",
-    "options": [
-      "Changing a single DNA letter without cutting the double strand",
-      "Molecules that are mirror images of each other and cannot be superimposed",
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Most of the universe's mass is invisible and detected only through gravity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The dark matter problem in cosmology",
-    "options": [
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Most of the universe's mass is invisible and detected only through gravity",
-      "Designing and building new biological parts, devices and systems"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Horizontal gene transfer in bacteria",
-    "options": [
-      "Most of the universe's mass is invisible and detected only through gravity",
-      "Allows genes to pass between organisms other than by reproduction",
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Molecules that are mirror images of each other and cannot be superimposed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of protein folding",
-    "options": [
-      "A state of matter formed when particles are cooled to near absolute zero",
-      "The 3D structure of a protein determines its function",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Changing a single DNA letter without cutting the double strand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Topological insulators are materials that",
-    "options": [
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Most of the universe's mass is invisible and detected only through gravity",
-      "Conduct on their surface but not through their bulk",
-      "A state of matter formed when particles are cooled to near absolute zero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of synthetic biology",
-    "options": [
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "A state of matter formed when particles are cooled to near absolute zero",
-      "Designing and building new biological parts, devices and systems",
-      "The 3D structure of a protein determines its function"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "String theory proposes",
-    "options": [
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Fundamental particles are one-dimensional vibrating strings of energy",
-      "Nano-sized semiconductor crystals with size-dependent optical properties",
-      "Designing and building new biological parts, devices and systems"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The prion hypothesis states",
-    "options": [
-      "Nanoscale biological or synthetic structures that perform mechanical functions",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Infectious proteins can cause disease by misfolding other proteins",
-      "Designing and building new biological parts, devices and systems"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Quantum dots are",
-    "options": [
-      "Nano-sized semiconductor crystals with size-dependent optical properties",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Designing and building new biological parts, devices and systems",
-      "A state of matter formed when particles are cooled to near absolute zero"
+      "oceanography",
+      "meteorology",
+      "seismology",
+      "geology"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of systems biology",
+    "question": "The law that states that the total momentum of a closed system remains constant is known as what?",
     "options": [
-      "Studies biological systems as integrated networks rather than isolated components",
-      "Nano-sized semiconductor crystals with size-dependent optical properties",
-      "Infectious proteins can cause disease by misfolding other proteins",
-      "Nanoscale biological or synthetic structures that perform mechanical functions"
+      "law of conservation of mass",
+      "law of conservation of energy",
+      "law of conservation of momentum",
+      "Newton's third law"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The study of the structure and behavior of the Earth's crust is known as what?",
+    "options": [
+      "geophysics",
+      "seismology",
+      "geology",
+      "meteorology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The type of rock that is formed from the alteration of existing rocks is known as what?",
+    "options": [
+      "metamorphic rock",
+      "foliated rock",
+      "sedimentary rock",
+      "igneous rock"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Bose-Einstein condensate is",
+    "question": "The process by which a cell becomes specialized to perform a specific function through the movement of molecules from one area to another is known as what?",
     "options": [
-      "Conduct on their surface but not through their bulk",
-      "A state of matter formed when particles are cooled to near absolute zero",
-      "How light and matter interact at the quantum level",
-      "Studies biological systems as integrated networks rather than isolated components"
+      "tropotaxis",
+      "chemotaxis",
+      "phototaxis",
+      "kinesin"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of molecular machines",
+    "question": "The study of the structure and behavior of the Earth's atmosphere is known as what?",
     "options": [
-      "Nanoscale biological or synthetic structures that perform mechanical functions",
-      "Conduct on their surface but not through their bulk",
-      "Evolution occurs in rapid bursts separated by long periods of stability",
-      "Allows genes to pass between organisms other than by reproduction"
+      "atmospheric science",
+      "oceanography",
+      "meteorology",
+      "geology"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "The type of wave that requires a medium to travel is known as what?",
+    "options": [
+      "transverse wave",
+      "electromagnetic wave",
+      "longitudinal wave",
+      "mechanical wave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process by which a solution changes its composition through the movement of molecules from one area to another is known as what?",
+    "options": [
+      "filtration",
+      "osmosis",
+      "distillation",
+      "diffusion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process by which a cell becomes specialized to perform a specific function is known as what?",
+    "options": [
+      "mitosis",
+      "meiosis",
+      "differentiation",
+      "cell division"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wave that can travel through a vacuum is known as what type of wave?",
+    "options": [
+      "longitudinal wave",
+      "mechanical wave",
+      "transverse wave",
+      "electromagnetic wave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The study of the movement of the Earth's plates is known as what?",
+    "options": [
+      "geological time scale",
+      "plate tectonics",
+      "continental drift",
+      "seismic activity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The type of rock that is formed from the cooling and solidification of magma is known as what?",
+    "options": [
+      "foliated rock",
+      "metamorphic rock",
+      "sedimentary rock",
+      "igneous rock"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process by which a solid changes its shape without changing its volume is known as what?",
+    "options": [
+      "ductile deformation",
+      "viscoelastic deformation",
+      "plastic deformation",
+      "elastic deformation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process by which a solution separates into its individual components is known as what?",
+    "options": [
+      "filtration",
+      "distillation",
+      "separation of mixtures",
+      "mixing of solutions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process by which a cell takes in substances from the environment is known as what?",
+    "options": [
+      "exocytosis",
+      "mitosis",
+      "meiosis",
+      "endocytosis"
+    ],
+    "correctIndex": 3
   }
 ]

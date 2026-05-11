@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is 'prose'?",
+    "question": "Who is the author of the novel 'The Brief Wondrous Life of Oscar Wao'?",
     "options": [
-      "Writing in verse",
-      "Ordinary written or spoken language without a regular metrical pattern",
-      "Only fiction",
-      "Only poetry"
+      "Ralph Ellison",
+      "Alice Walker",
+      "Junot D\u00edaz",
+      "Langston Hughes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a play, what is the purpose of a stage direction?",
+    "options": [
+      "To guide the actors and the audience on the action",
+      "To introduce new characters",
+      "To reveal the plot at the beginning of the play",
+      "To provide background information on the setting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the theme of the poem 'Still I Rise' by Maya Angelou?",
+    "options": [
+      "The need for social justice and equality",
+      "The struggle for racial equality and self-empowerment",
+      "The power of love and compassion",
+      "The importance of forgiveness and reconciliation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the 'narrator' of a story?",
+    "question": "Which of the following is a literary device used to create irony?",
     "options": [
-      "The main character",
-      "The person or voice telling the story",
-      "The villain",
-      "The author always"
+      "Irony",
+      "Metaphor",
+      "Alliteration",
+      "Symbolism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a Caribbean short story?",
+    "options": [
+      "It often ignores historical and cultural context",
+      "It often focuses on the lives of wealthy and powerful individuals",
+      "It often explores the experiences of marginalized communities",
+      "It often lacks a strong sense of cultural identity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a Caribbean novel?",
+    "options": [
+      "It often lacks a strong sense of cultural identity",
+      "It often ignores historical and cultural context",
+      "It often focuses on the lives of wealthy and powerful individuals",
+      "It often explores the experiences of marginalized communities"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a literary device used to create suspense?",
+    "options": [
+      "Alliteration",
+      "Imagery",
+      "Symbolism",
+      "Hyperbole"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a Caribbean novel?",
+    "options": [
+      "It often focuses on the lives of wealthy and powerful individuals",
+      "It often explores the experiences of marginalized communities",
+      "It often lacks a strong sense of cultural identity",
+      "It often ignores historical and cultural context"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'theme' in literature?",
+    "question": "What is the theme of the novel 'Their Eyes Were Watching God'?",
     "options": [
-      "The setting of a story",
-      "The central idea or message explored in a literary work",
-      "The main character",
-      "The title"
+      "The importance of forgiveness and reconciliation",
+      "The struggle for racial equality and self-empowerment",
+      "The need for social justice and equality",
+      "The power of love and compassion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'characterisation'?",
+    "question": "Who is the author of the novel 'Their Eyes Were Watching God'?",
     "options": [
-      "Listing characters",
-      "Methods an author uses to create and develop characters",
-      "The setting",
-      "The plot"
+      "Alice Walker",
+      "Langston Hughes",
+      "Ralph Ellison",
+      "Zora Neale Hurston"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is 'conflict' in a story?",
+    "question": "Who is the author of the poem 'The New Colossus'?",
     "options": [
-      "A peaceful moment",
-      "The struggle between opposing forces driving the plot",
-      "The ending",
-      "The introduction"
+      "Emma Lazarus",
+      "Alice Walker",
+      "Ralph Ellison",
+      "Langston Hughes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does 'point of view' mean in literature?",
+    "question": "What is the theme of the novel 'The Joy Luck Club'?",
     "options": [
-      "An opinion",
-      "The perspective from which a story is told",
-      "The setting",
-      "The theme"
+      "The need for social justice and equality",
+      "The struggle for racial equality and self-empowerment",
+      "The importance of forgiveness and reconciliation",
+      "The relationships between mothers and daughters across cultural boundaries"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is 'first person' narration?",
+    "question": "In a play, what is the purpose of a stage manager?",
     "options": [
-      "The third person telling the story",
-      "Story told using 'I' by a character within the story",
-      "Story with no narrator",
-      "Only used in poetry"
+      "To introduce new characters",
+      "To provide background information on the setting",
+      "To coordinate the action and production of the play",
+      "To reveal the plot at the beginning of the play"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is 'foreshadowing'?",
+    "question": "What is the primary function of imagery in a poem?",
     "options": [
-      "Describing the weather",
-      "Hints or clues about events that will happen later in the story",
-      "Describing a character",
-      "The ending of a story"
+      "To create vivid mental images in the reader's mind",
+      "To provide background information on the setting",
+      "To convey complex ideas and themes",
+      "To establish the tone of the poem"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is 'irony'?",
+    "question": "In a novel, what is the purpose of a plot twist?",
     "options": [
-      "A type of rhyme",
-      "When the intended meaning differs from the literal meaning or expectation",
-      "A type of character",
-      "A story structure"
+      "To provide unnecessary background information on the setting",
+      "To introduce new characters at the end of the story",
+      "To reveal the plot at the beginning of the story",
+      "To surprise and engage the reader"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the 'climax' of a story?",
-    "options": [
-      "The beginning",
-      "The point of highest tension or turning point in the plot",
-      "The setting",
-      "The first paragraph"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'symbol' in literature?",
-    "options": [
-      "A punctuation mark",
-      "An object, person or place representing something beyond its literal meaning",
-      "A character's name",
-      "A type of setting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'tone' mean in literature?",
-    "options": [
-      "The sound of reading",
-      "The author's attitude toward the subject conveyed through word choice",
-      "The volume",
-      "The pace"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'dialogue' in a literary work?",
-    "options": [
-      "Description of setting",
-      "Conversation between characters",
-      "Internal thoughts",
-      "The narrator's voice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'short story'?",
-    "options": [
-      "A poem",
-      "A brief fictional prose narrative with few characters and a single main event",
-      "A chapter of a novel",
-      "A play"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'imagery' in literature?",
-    "options": [
-      "Photographs in a book",
-      "Descriptive language that appeals to the senses",
-      "A type of character",
-      "The plot structure"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

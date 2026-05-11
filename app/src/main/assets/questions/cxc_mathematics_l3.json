@@ -1,0 +1,52 @@
+[
+  {
+    "question": "A set of 4 numbers has a range of 2, and a maximum value of 10. Which of the following is the set of numbers?",
+    "options": [
+      "{8, 10, 9, 7}",
+      "{6, 7, 8, 9}",
+      "{7, 8, 9, 10}",
+      "{8, 9, 10, 11}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 5 numbers has a mode of 1, and a median of 3. Which of the following is the most likely value for the mean?",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 3 numbers has a range of 2, and a minimum value of 4. Which of the following is the maximum value of the set?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A vector of magnitude 6 units, in the direction of 45\u00b0, is represented by the symbol",
+    "options": [
+      "6sin45\u00b0i + 6cos45\u00b0j",
+      "6cos45\u00b0i + 6sin45\u00b0j",
+      "6i + 6j",
+      "6cos45\u00b0i - 6sin45\u00b0j"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the length of a rectangle is 5cm and its width is 3cm, then its area is",
+    "options": [
+      "20",
+      "25",
+      "10",
+      "15"
+    ],
+    "correctIndex": 3
+  }
+]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "A précis requires",
+    "question": "Read the passage below and answer the question: The teacher asked the students to write a paragraph about their favorite animal. One student wrote: 'I love dogs. They are loyal and friendly.' Which of the following best describes the type of paragraph written by the student?",
     "options": [
-      "Timid",
-      "A concise restatement of the original text's main points",
-      "The recipient's name and address",
-      "A writer's choice of words"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Diction refers to",
-    "options": [
-      "A writer's choice of words",
-      "Placing two things side by side for comparison",
-      "On the other hand",
-      "Omission or a trailing thought"
+      "expository",
+      "descriptive",
+      "narrative",
+      "persuasive"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which is a rhetorical question?",
+    "question": "Read the poem below and answer the question: 'The world is a beautiful place.' Which of the following best describes the speaker's attitude towards the world?",
     "options": [
-      "A concept, idea, quality or state",
-      "How many more must suffer before we act?",
-      "Omission or a trailing thought",
-      "Two independent clauses joined only by a comma"
+      "positive",
+      "indifferent",
+      "neutral",
+      "negative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of essays is characterized by a discussion of the causes and effects of a problem?",
+    "options": [
+      "persuasive essay",
+      "narrative essay",
+      "prose analysis",
+      "expository essay"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following literary devices is used to create a contrast between two ideas?",
+    "options": [
+      "personification",
+      "irony",
+      "alliteration",
+      "hyperbole"
     ],
     "correctIndex": 1
   },
   {
-    "question": "'Antithesis' means",
+    "question": "Identify the correct form of the verb in the sentence: 'By the time I ______ the book, it was already over.'",
     "options": [
-      "Two independent clauses joined only by a comma",
-      "A concept, idea, quality or state",
-      "Omission or a trailing thought",
-      "Placing contrasting ideas side by side"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "An ellipsis (...) indicates",
-    "options": [
-      "Placing two things side by side for comparison",
-      "Timid",
-      "Omission or a trailing thought",
-      "How many more must suffer before we act?"
+      "finished",
+      "finishes",
+      "had finished",
+      "finishing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The 'inside address' in a business letter contains",
+    "question": "Identify the correct form of the phrase in the sentence: 'The company ______ to the top of the market.'",
     "options": [
-      "A concise restatement of the original text's main points",
-      "Placing two things side by side for comparison",
-      "The recipient's name and address",
-      "On the other hand"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Lethargic' means",
-    "options": [
-      "A writer's choice of words",
-      "The recipient's name and address",
-      "Lacking energy; sluggish",
-      "Placing contrasting ideas side by side"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An essay that addresses both sides of an argument",
-    "options": [
-      "The recipient's name and address",
-      "Two independent clauses joined only by a comma",
-      "Discursive",
-      "A concise restatement of the original text's main points"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A comma splice is",
-    "options": [
-      "The recipient's name and address",
-      "How many more must suffer before we act?",
-      "A writer's choice of words",
-      "Two independent clauses joined only by a comma"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A transitional phrase showing contrast",
-    "options": [
-      "Lacking energy; sluggish",
-      "On the other hand",
-      "How many more must suffer before we act?",
-      "The appearance of being true or real"
+      "rising to",
+      "rose to",
+      "rises to",
+      "rised to"
     ],
     "correctIndex": 1
   },
   {
-    "question": "'Juxtaposition' means",
+    "question": "Read the passage below and answer the question: The sun was setting over the ocean. The sky was painted with hues of orange and pink. The waves crashed against the shore, creating a soothing sound. Which of the following best describes the effect of the setting sun on the atmosphere?",
     "options": [
-      "Two independent clauses joined only by a comma",
-      "Placing two things side by side for comparison",
-      "Lacking energy; sluggish",
-      "A concise restatement of the original text's main points"
+      "energizing",
+      "angry",
+      "depressing",
+      "calming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Read the poem below and answer the question: 'The stars shone brightly in the clear night sky.' Which of the following best describes the effect of the stars on the atmosphere?",
+    "options": [
+      "angry",
+      "boring",
+      "awe-inspiring",
+      "depressing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the passage below and answer the question: The teacher asked the students to write a paragraph about their favorite hobby. One student wrote: 'I love to play basketball. It is a fun game.' Which of the following best describes the type of paragraph written by the student?",
+    "options": [
+      "expository",
+      "narrative",
+      "persuasive",
+      "descriptive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of essays is characterized by a discussion of the pros and cons of a topic?",
+    "options": [
+      "Comparison essay",
+      "Narrative essay",
+      "Argumentative essay.",
+      "Descriptive essay"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Identify the correct form of the phrase in the sentence: 'The company ______ to the top of the market.'",
+    "options": [
+      "rose to",
+      "rising to",
+      "rised to",
+      "rises to"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Read the poem below and answer the question: 'The stars shone brightly in the clear night sky.' Which of the following best describes the effect of the stars on the atmosphere?",
+    "options": [
+      "depressing",
+      "boring",
+      "awe-inspiring",
+      "angry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of essays is characterized by a discussion of the causes and effects of a problem?",
+    "options": [
+      "persuasive essay",
+      "prose analysis",
+      "expository essay",
+      "narrative essay"
     ],
     "correctIndex": 1
   },
   {
-    "question": "An abstract noun names",
+    "question": "Identify the correct form of the verb in the sentence: 'By the time I ______ the book, it was already over.'",
     "options": [
-      "The appearance of being true or real",
-      "For each person",
-      "Two independent clauses joined only by a comma",
-      "A concept, idea, quality or state"
+      "finishing",
+      "finishes",
+      "finished",
+      "had finished"
     ],
     "correctIndex": 3
   },
   {
-    "question": "'Verisimilitude' means",
+    "question": "Which of the following types of sentences is characterized by a single independent clause?",
     "options": [
-      "Timid",
-      "Omission or a trailing thought",
-      "The recipient's name and address",
-      "The appearance of being true or real"
+      "simple sentence",
+      "complex sentence",
+      "compound-complex sentence",
+      "compound sentence"
     ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Per capita' means",
-    "options": [
-      "Discursive",
-      "Placing two things side by side for comparison",
-      "The recipient's name and address",
-      "For each person"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Loquacious' is to 'taciturn' as 'bold' is to",
-    "options": [
-      "A writer's choice of words",
-      "Two independent clauses joined only by a comma",
-      "Timid",
-      "On the other hand"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

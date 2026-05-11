@@ -1,152 +1,82 @@
 [
   {
-    "question": "The concept of the exposome",
+    "question": "The study of the structure, behavior, and evolution of the universe is known as what?",
     "options": [
-      "The total environmental exposures an individual experiences throughout life",
-      "Gut bacteria train and regulate the immune system",
-      "Using light to control specific neurons in living tissue",
-      "Superposition and entanglement to perform parallel computations"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Quantum computing uses qubits which exploit",
-    "options": [
-      "Superposition and entanglement to perform parallel computations",
-      "Instantaneous correlation between particles regardless of distance",
-      "Transit photometry and radial velocity measurements",
-      "The accelerating expansion of the universe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of optogenetics",
-    "options": [
-      "More precise than base editing; can make all types of point mutations",
-      "The accelerating expansion of the universe",
-      "Using light to control specific neurons in living tissue",
-      "Not found in nature, such as a negative refractive index"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Dark energy causes",
-    "options": [
-      "The accelerating expansion of the universe",
-      "Instantaneous correlation between particles regardless of distance",
-      "Life may have originated elsewhere and been transported to Earth",
-      "Transit photometry and radial velocity measurements"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of biomimicry in materials science",
-    "options": [
-      "Designing materials and structures inspired by biological systems",
-      "Instantaneous correlation between particles regardless of distance",
-      "Gut bacteria train and regulate the immune system",
-      "The accelerating expansion of the universe"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of neuroplasticity",
-    "options": [
-      "Gut bacteria train and regulate the immune system",
-      "Superposition and entanglement to perform parallel computations",
-      "More precise than base editing; can make all types of point mutations",
-      "The brain's ability to reorganise by forming new neural connections"
+      "meteorology",
+      "geology",
+      "seismology",
+      "cosmology"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The holographic principle in physics suggests",
+    "question": "The force that attracts a magnet to a ferromagnetic material is known as what?",
     "options": [
-      "The brain's ability to reorganise by forming new neural connections",
-      "Using light to control specific neurons in living tissue",
-      "Instantaneous correlation between particles regardless of distance",
-      "All information in a volume of space can be encoded on its boundary"
+      "magnetic attraction",
+      "friction",
+      "electromagnetic force",
+      "gravitational force"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "CRISPR prime editing",
+    "question": "The study of the structure and behavior of the Sun and other stars is known as what?",
     "options": [
-      "The brain's ability to reorganise by forming new neural connections",
-      "Transit photometry and radial velocity measurements",
-      "More precise than base editing; can make all types of point mutations",
-      "Gut bacteria train and regulate the immune system"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of panspermia",
-    "options": [
-      "Superposition and entanglement to perform parallel computations",
-      "Life may have originated elsewhere and been transported to Earth",
-      "The brain's ability to reorganise by forming new neural connections",
-      "More precise than base editing; can make all types of point mutations"
+      "oceanography",
+      "astrophysics",
+      "geology",
+      "meteorology"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Metamaterials have properties",
+    "question": "The study of the structure and behavior of the Earth's interior is known as what?",
     "options": [
-      "Designing materials and structures inspired by biological systems",
-      "Life may have originated elsewhere and been transported to Earth",
-      "Superposition and entanglement to perform parallel computations",
-      "Not found in nature, such as a negative refractive index"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of the microbiome's role in immunity",
-    "options": [
-      "Gut bacteria train and regulate the immune system",
-      "Not found in nature, such as a negative refractive index",
-      "The total environmental exposures an individual experiences throughout life",
-      "All information in a volume of space can be encoded on its boundary"
+      "geophysics",
+      "geology",
+      "meteorology",
+      "oceanography"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Quantum entanglement enables",
+    "question": "In a human cell, the process by which the cell uses energy from the food it consumes to produce ATP is known as what?",
     "options": [
-      "All information in a volume of space can be encoded on its boundary",
-      "Transit photometry and radial velocity measurements",
-      "Instantaneous correlation between particles regardless of distance",
-      "The total environmental exposures an individual experiences throughout life"
+      "fermentation",
+      "photosynthesis",
+      "cellular respiration",
+      "mitosis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The concept of the 'molecular clock' in evolution",
+    "question": "The law that states that the total charge of a closed system remains constant is known as what?",
     "options": [
-      "Transit photometry and radial velocity measurements",
-      "The accelerating expansion of the universe",
-      "Mutations accumulate at a roughly constant rate, allowing dating of divergence",
-      "Instantaneous correlation between particles regardless of distance"
+      "law of conservation of charge",
+      "law of conservation of momentum",
+      "Newton's third law",
+      "law of conservation of mass number"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "The concept of the Anthropocene",
+    "question": "The law that states that the total energy of a closed system remains constant is known as what?",
     "options": [
-      "Not found in nature, such as a negative refractive index",
-      "The accelerating expansion of the universe",
-      "The current geological epoch defined by dominant human impact on Earth",
-      "Designing materials and structures inspired by biological systems"
+      "law of conservation of energy",
+      "Newton's third law",
+      "law of conservation of mass number",
+      "law of conservation of momentum"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Exoplanet detection methods include",
+    "question": "A 1000 J of energy is expended in a system. What is the change in its internal energy?",
     "options": [
-      "Not found in nature, such as a negative refractive index",
-      "Using light to control specific neurons in living tissue",
-      "Designing materials and structures inspired by biological systems",
-      "Transit photometry and radial velocity measurements"
+      "500 J",
+      "1000 J",
+      "2000 J",
+      "-500 J"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   }
 ]

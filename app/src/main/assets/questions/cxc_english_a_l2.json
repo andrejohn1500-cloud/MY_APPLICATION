@@ -1,1 +1,152 @@
-[{"question":"Which sentence uses passive voice?","options":["The cat ate the fish","The fish was eaten by the cat","She loves cats","He ran fast"],"correctIndex":1},{"question":"Synonym for 'benevolent'?","options":["Kind","Cruel","Angry","Lazy"],"correctIndex":0},{"question":"Identify the subordinate clause: 'Although it rained, we played outside.'","options":["Although it rained","we played outside","it rained","we played"],"correctIndex":0},{"question":"What punctuation ends an exclamatory sentence?","options":["!","?",".","..."],"correctIndex":0},{"question":"Antonym of 'transparent'?","options":["Opaque","Clear","Bright","Visible"],"correctIndex":0},{"question":"'The wind whispered through the trees' is an example of?","options":["Personification","Simile","Metaphor","Hyperbole"],"correctIndex":0},{"question":"Which is grammatically correct?","options":["She and I went","Her and me went","She and me went","Her and I went"],"correctIndex":0},{"question":"Plural of 'criterion'?","options":["Criteria","Criterions","Criterias","Criterion"],"correctIndex":0},{"question":"'Neither the boys nor the girl ___ ready'?","options":["was","were","is being","have been"],"correctIndex":0},{"question":"What is an 'allegory'?","options":["A story with hidden meaning","A type of poem","A figure of speech","A narrative technique"],"correctIndex":0},{"question":"'If I were rich, I would travel' — identify the mood?","options":["Subjunctive","Indicative","Imperative","Conditional"],"correctIndex":0},{"question":"Tone of a sarcastic statement?","options":["Ironic","Joyful","Sad","Neutral"],"correctIndex":0},{"question":"Which is a compound sentence?","options":["I ran and she walked","Because I was tired","Running fast","The tall man"],"correctIndex":0},{"question":"What does 'verbose' mean?","options":["Using too many words","Speaking quietly","Writing neatly","Thinking clearly"],"correctIndex":0},{"question":"Which sentence has a dangling modifier?","options":["Running fast, the bus was missed","She ran fast","He missed the bus","The bus left early"],"correctIndex":0}]
+[
+  {
+    "question": "What is the term for the author's attitude towards the subject matter?",
+    "options": [
+      "Mood",
+      "Personality",
+      "Voice",
+      "Tone."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the use of language that is formal and objective?",
+    "options": [
+      "Slang tone",
+      "Formal tone.",
+      "Jargon tone",
+      "Colloquial tone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of poetry is characterized by a three-line stanza?",
+    "options": [
+      "Cinquain",
+      "Tercet.",
+      "Quatrain",
+      "Couplet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of essays is characterized by a discussion of the causes and effects of a topic?",
+    "options": [
+      "Narrative essay",
+      "Descriptive essay",
+      "Cause-and-effect essay.",
+      "Argumentative essay"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following literary devices involves the use of hyperbole to emphasize a point?",
+    "options": [
+      "Hyperbole.",
+      "Simile",
+      "Alliteration",
+      "Metaphor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of poetry is characterized by a five-line stanza?",
+    "options": [
+      "Quatrain",
+      "Tercet",
+      "Cinquain.",
+      "Couplet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following literary devices involves the use of symbols to represent abstract ideas?",
+    "options": [
+      "Allegory.",
+      "Metaphor",
+      "Alliteration",
+      "Simile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the use of language that is overly complex or pretentious?",
+    "options": [
+      "Colloquialism",
+      "Slang",
+      "Dialect",
+      "Jargon."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a transition word or phrase in a paragraph?",
+    "options": [
+      "To summarize a main point",
+      "To connect ideas between sentences and paragraphs.",
+      "To provide a supporting detail",
+      "To introduce a new idea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of poetry is characterized by a long, narrative poem?",
+    "options": [
+      "Lyric poem",
+      "Ballad",
+      "Epic.",
+      "Ode"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following literary devices involves the use of vivid and sensory details to describe a person, place, or thing?",
+    "options": [
+      "Imagery.",
+      "Assonance",
+      "Onomatopoeia",
+      "Alliteration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following authors is associated with the Gothic novel?",
+    "options": [
+      "Mary Shelley.",
+      "Charles Dickens",
+      "The Bronte Sisters",
+      "Jane Austen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the use of words that have multiple meanings?",
+    "options": [
+      "Ambiguity.",
+      "Homography",
+      "Double meaning",
+      "Homophony"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the use of language that is overly complex or pretentious?",
+    "options": [
+      "Jargon.",
+      "Dialect",
+      "Colloquialism",
+      "Slang"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a figure of speech that gives human-like qualities to non-human entities?",
+    "options": [
+      "Alliteration",
+      "Metaphor",
+      "Simile",
+      "Personification."
+    ],
+    "correctIndex": 3
+  }
+]

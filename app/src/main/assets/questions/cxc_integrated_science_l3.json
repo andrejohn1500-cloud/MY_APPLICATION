@@ -1,151 +1,61 @@
 [
   {
-    "question": "The process by which green plants make food",
+    "question": "What is the process by which the Earth's atmosphere protects living organisms from harmful radiation?",
     "options": [
-      "Fight infection and disease",
-      "Kidneys",
-      "Newton",
-      "Photosynthesis"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Unit of force",
-    "options": [
-      "Ammeter",
-      "Newton",
-      "Vein",
-      "Photosynthesis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Blood vessel that carries blood back to the heart",
-    "options": [
-      "Newton",
-      "Vein",
-      "Kidneys",
-      "Cell membrane"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process of a solid turning directly into a gas",
-    "options": [
-      "Less than 7",
-      "A book on a shelf",
-      "Burning wood",
-      "Sublimation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Part of the cell that controls what enters and exits",
-    "options": [
-      "Photosynthesis",
-      "Sand and water",
-      "Cell membrane",
-      "Ammeter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An example of a chemical change",
-    "options": [
-      "Photosynthesis",
-      "Sand and water",
-      "Cell membrane",
-      "Burning wood"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The pH of an acidic solution is",
-    "options": [
-      "Less than 7",
-      "Convection",
-      "Sublimation",
-      "Sand and water"
+      "ozone layer",
+      "ionosphere",
+      "magnetosphere",
+      "atmosphere"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The organ responsible for removing urea from blood",
+    "question": "Which part of the cell is responsible for providing structure and support?",
     "options": [
-      "Photosynthesis",
-      "Vein",
-      "Sand and water",
-      "Kidneys"
+      "mitochondria",
+      "cytoplasm",
+      "cell wall",
+      "nucleus"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "An example of potential energy",
+    "question": "What is the process by which the Earth's atmosphere protects living organisms from harmful radiation by absorbing ultraviolet light?",
     "options": [
-      "A book on a shelf",
-      "Cell membrane",
-      "Pollen/spore",
-      "Less than 7"
+      "magnetosphere",
+      "ionosphere",
+      "ozone layer",
+      "atmosphere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which plants release excess water and minerals from their roots?",
+    "options": [
+      "exudation",
+      "photosynthesis",
+      "respiration",
+      "transpiration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The symbol for the element oxygen",
+    "question": "What is the type of rock that is formed from the compression and cementation of sediments?",
     "options": [
-      "Kidneys",
-      "Less than 7",
-      "Ammeter",
-      "O"
+      "foliated",
+      "metamorphic",
+      "igneous",
+      "sedimentary"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The function of white blood cells",
+    "question": "What is the scientific term for the 'study of the Earth's climate and weather'?",
     "options": [
-      "Sand and water",
-      "Pollen/spore",
-      "Fight infection and disease",
-      "O"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Electric current is measured using a",
-    "options": [
-      "O",
-      "Ammeter",
-      "Convection",
-      "Burning wood"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The transfer of heat through a liquid or gas by movement",
-    "options": [
-      "O",
-      "Vein",
-      "Convection",
-      "Sand and water"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A mixture that can be separated by filtering",
-    "options": [
-      "Vein",
-      "Sand and water",
-      "Cell membrane",
-      "Less than 7"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The reproductive cell of a plant",
-    "options": [
-      "Kidneys",
-      "Fight infection and disease",
-      "Pollen/spore",
-      "Vein"
+      "hydrology",
+      "astronomy",
+      "meteorology",
+      "geology"
     ],
     "correctIndex": 2
   }

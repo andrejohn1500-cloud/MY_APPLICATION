@@ -1,0 +1,52 @@
+[
+  {
+    "question": "In triangle ABC, angle A = 60 degrees and angle B = 90 degrees. What is the measure of angle C?",
+    "options": [
+      "30 degrees",
+      "90 degrees",
+      "120 degrees",
+      "60 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If the greatest common divisor of a and b is 1, what can be concluded about the numbers a and b?",
+    "options": [
+      "a and b are relatively prime",
+      "a and b are multiples of each other",
+      "a and b are coprime",
+      "a and b have a common factor of 2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A set of exam scores has a median of 80 and a standard deviation of 10. If a new score of 90 is added to the set, what is the new standard deviation?",
+    "options": [
+      "9.9",
+      "10.09",
+      "10.1",
+      "10.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A set of exam scores has a mean of 80 and a standard deviation of 10. If a new score of 90 is added to the set, what is the new standard deviation?",
+    "options": [
+      "10.5",
+      "10.09",
+      "10.1",
+      "9.9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A population of 1500 people has a mean height of 170 cm. If a sample of 75 people is selected, what is the expected value of the sample mean?",
+    "options": [
+      "170",
+      "180",
+      "170",
+      "160"
+    ],
+    "correctIndex": 0
+  }
+]

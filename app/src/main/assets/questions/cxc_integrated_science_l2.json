@@ -1,1 +1,152 @@
-[{"question":"Water vapour cooling to liquid is called?","options":["Condensation","Evaporation","Precipitation","Transpiration"],"correctIndex":0},{"question":"Which part of the cell controls what enters and exits?","options":["Cell membrane","Cell wall","Nucleus","Cytoplasm"],"correctIndex":0},{"question":"Chemical symbol for gold?","options":["Au","Go","Gd","Ag"],"correctIndex":0},{"question":"Rock formed from cooled magma?","options":["Igneous","Sedimentary","Metamorphic","Limestone"],"correctIndex":0},{"question":"What force keeps planets in orbit?","options":["Gravity","Magnetism","Friction","Tension"],"correctIndex":0},{"question":"Unit of electrical resistance?","options":["Ohm","Volt","Ampere","Watt"],"correctIndex":0},{"question":"Gas produced during photosynthesis?","options":["Oxygen","Carbon dioxide","Nitrogen","Hydrogen"],"correctIndex":0},{"question":"pH of a neutral solution?","options":["7","0","14","5"],"correctIndex":0},{"question":"Organelle that produces energy?","options":["Mitochondria","Nucleus","Ribosome","Vacuole"],"correctIndex":0},{"question":"Speed of light?","options":["3×10⁸ m/s","3×10⁶ m/s","3×10⁵ m/s","3×10⁹ m/s"],"correctIndex":0},{"question":"Universal blood donor type?","options":["O negative","A positive","AB positive","B negative"],"correctIndex":0},{"question":"Newton's Second Law?","options":["F=ma","E=mc²","F=mv","P=mv"],"correctIndex":0},{"question":"Solid turning directly to gas is called?","options":["Sublimation","Evaporation","Condensation","Melting"],"correctIndex":0},{"question":"Element with atomic number 6?","options":["Carbon","Oxygen","Nitrogen","Hydrogen"],"correctIndex":0},{"question":"Function of white blood cells?","options":["Fight infection","Carry oxygen","Clot blood","Transport nutrients"],"correctIndex":0}]
+[
+  {
+    "question": "What is the process by which the Earth's climate and weather are affected by the movement of the Earth's plates?",
+    "options": [
+      "plate tectonics",
+      "sea floor spreading",
+      "glaciation",
+      "continental drift"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the scientific term for the 'study of the structure and function of the human body'?",
+    "options": [
+      "pathology",
+      "surgery",
+      "anatomy",
+      "physiology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the scientific term for the 'study of the weather and climate'?",
+    "options": [
+      "meteorology",
+      "geology",
+      "astronomy",
+      "hydrology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the type of ecosystem where organisms compete with each other for resources, such as food and water?",
+    "options": [
+      "ecosystem",
+      "symbiotic",
+      "community",
+      "competition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the type of rock that is formed when existing rocks are subjected to heat and pressure?",
+    "options": [
+      "foliated",
+      "igneous",
+      "sedimentary",
+      "metamorphic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the scientific term for the 'study of the structure of the Earth'?",
+    "options": [
+      "geophysics",
+      "geology",
+      "geochemistry",
+      "geomorphology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the type of rock that is formed from the cooling and solidification of molten lava?",
+    "options": [
+      "igneous",
+      "sedimentary",
+      "metamorphic",
+      "foliated"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the type of matter that has a fixed shape and volume?",
+    "options": [
+      "solid",
+      "liquid",
+      "gas",
+      "plasma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the scientific term for the 'study of the Earth's magnetic field and its effects on the environment'?",
+    "options": [
+      "geomagnetism",
+      "geochemistry",
+      "geomorphology",
+      "geophysics"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the type of energy that is produced by the movement of molecules, such as those in a gas?",
+    "options": [
+      "potential",
+      "thermal",
+      "kinetic",
+      "chemical"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the type of energy that is produced by the movement of molecules, such as those in a solution?",
+    "options": [
+      "chemical",
+      "thermal",
+      "potential",
+      "kinetic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the type of rock that is formed from the melting of existing rocks?",
+    "options": [
+      "sedimentary",
+      "foliated",
+      "metamorphic",
+      "igneous"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which plants release water vapour into the air?",
+    "options": [
+      "evaporation",
+      "respiration",
+      "transpiration",
+      "photosynthesis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the type of matter that has a fixed shape but a variable volume?",
+    "options": [
+      "solid",
+      "gas",
+      "plasma",
+      "liquid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the type of energy that is produced by the movement of living organisms, such as animals?",
+    "options": [
+      "chemical",
+      "kinetic",
+      "potential",
+      "thermal"
+    ],
+    "correctIndex": 1
+  }
+]

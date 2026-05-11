@@ -1,1 +1,152 @@
-[{"question":"What is 'democracy'?","options":["Government by the people","Rule by one person","Military rule","Religious rule"],"correctIndex":0},{"question":"What does 'GDP' stand for?","options":["Gross Domestic Product","General Development Plan","Global Development Policy","Gross Development Product"],"correctIndex":0},{"question":"What is 'migration'?","options":["Movement of people from one place to another","Birth rate of a population","Death rate of a population","Growth of a city"],"correctIndex":0},{"question":"Which organisation promotes peace among nations?","options":["United Nations","World Bank","IMF","NATO"],"correctIndex":0},{"question":"What is 'inflation'?","options":["Rise in general price levels","Fall in prices","Increase in employment","Decrease in taxes"],"correctIndex":0},{"question":"Role of the judiciary?","options":["Interpret and apply laws","Make laws","Execute laws","Collect taxes"],"correctIndex":0},{"question":"What is 'cultural diffusion'?","options":["Spread of culture from one group to another","Preservation of culture","Destruction of culture","Creation of new culture"],"correctIndex":0},{"question":"What is a 'census'?","options":["Official count of a population","A type of election","A government budget","A trade agreement"],"correctIndex":0},{"question":"Caribbean Community is known as?","options":["CARICOM","CARIFTA","OECS","ACS"],"correctIndex":0},{"question":"What is 'sustainable development'?","options":["Development meeting present needs without compromising future needs","Rapid industrial growth","Urban expansion","Economic growth only"],"correctIndex":0},{"question":"What is a 'tariff'?","options":["A tax on imported goods","A type of loan","A government grant","A trade agreement"],"correctIndex":0},{"question":"What is 'socialisation'?","options":["Process of learning social norms","Starting a business","Forming a government","Building communities"],"correctIndex":0},{"question":"Primary sector of the economy?","options":["Agriculture and mining","Manufacturing","Services","Finance"],"correctIndex":0},{"question":"What does 'human rights' refer to?","options":["Basic rights all people are entitled to","Rights given by government","Rights earned through work","Rights of citizens only"],"correctIndex":0},{"question":"What is 'nationalism'?","options":["Pride and loyalty to one's nation","Loyalty to a political party","Support for globalisation","Opposition to government"],"correctIndex":0}]
+[
+  {
+    "question": "What is the main purpose of a constitution in a country?",
+    "options": [
+      "To appoint government officials",
+      "To manage the economy",
+      "To create laws and policies",
+      "To outline the fundamental principles and rules of the country"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a stable democracy?",
+    "options": [
+      "Citizens have the right to participate in the decision-making process and the government is accountable to the people",
+      "Citizens do not have the right to participate in the decision-making process and the government is not accountable to the people",
+      "Citizens are not aware of government policies and the government is accountable to the people",
+      "Citizens are subject to the decisions of government officials and the government is not accountable to the people"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which a country's population grows or decreases over time?",
+    "options": [
+      "Epidemiology",
+      "Population dynamics",
+      "Biodiversity",
+      "Demography"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a human right?",
+    "options": [
+      "The right to education",
+      "The right to freedom of expression",
+      "The right to life",
+      "The right to employment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a country's natural resource?",
+    "options": [
+      "Labor",
+      "Oil",
+      "Water",
+      "Land"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a country's economic system in which the government allows the market to determine the prices and income of goods and services?",
+    "options": [
+      "Command economy",
+      "Market economy",
+      "Planned economy",
+      "Mixed economy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a person who is a citizen of a country and is also a resident of that country?",
+    "options": [
+      "Non-citizen resident",
+      "Citizen abroad",
+      "Resident citizen",
+      "Diaspora citizen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of people and their relationships with their environment?",
+    "options": [
+      "Ecology",
+      "Environmental science",
+      "Human geography",
+      "Geology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a person who is a citizen of a country but lives abroad?",
+    "options": [
+      "Non-citizen resident",
+      "Resident citizen",
+      "Citizen abroad",
+      "Diaspora citizen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a matriarchal society?",
+    "options": [
+      "Women have limited rights",
+      "Women hold positions of power and authority",
+      "Men hold positions of power and authority",
+      "Men are dominant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main goal of sustainable development in a country?",
+    "options": [
+      "To meet the needs of the present without compromising the ability of future generations to meet their own needs",
+      "To protect the environment",
+      "To reduce poverty",
+      "To increase economic growth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a country's environment?",
+    "options": [
+      "A country's natural resources and physical features",
+      "A country's cultural resources and traditions",
+      "A country's social resources and institutions",
+      "A country's economic resources and infrastructure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a country's economic system in which the government and private sector work together to achieve economic goals?",
+    "options": [
+      "Market economy",
+      "Mixed economy",
+      "Planned economy",
+      "Command economy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a developing country?",
+    "options": [
+      "A country that has a stable democracy and good governance",
+      "A country that has a well-developed infrastructure and a skilled workforce",
+      "A country that has a low standard of living and limited economic resources",
+      "A country that has a high standard of living and abundant economic resources"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a traditional occupation in a Caribbean society?",
+    "options": [
+      "Fishing",
+      "Tourism",
+      "Agriculture",
+      "Manufacturing"
+    ],
+    "correctIndex": 0
+  }
+]

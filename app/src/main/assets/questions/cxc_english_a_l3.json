@@ -1,152 +1,72 @@
 [
   {
-    "question": "A noun that names a group of people or things",
+    "question": "Which of the following literary devices involves the use of rhetorical questions to engage the reader?",
     "options": [
-      "The verb 'sings'",
-      "Child",
-      "Reflexive pronoun",
-      "Collective noun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Children' is the plural of",
-    "options": [
-      "Words, phrases or clauses",
-      "Simple future",
-      "Child",
-      "Modern"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The correct comparative form of 'good'",
-    "options": [
-      "A physical, tangible thing",
-      "Better",
-      "Reflexive pronoun",
-      "Modern"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A pronoun that refers back to the subject",
-    "options": [
-      "Child",
-      "Collective noun",
-      "The verb 'sings'",
-      "Reflexive pronoun"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The prefix 'un-' changes 'happy' to",
-    "options": [
-      "Simple future",
-      "Reflexive pronoun",
-      "An adverb",
-      "Unhappy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "An exclamation mark expresses",
-    "options": [
-      "The verb 'sings'",
-      "An adverb",
-      "Strong emotion or surprise",
-      "Simple future"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'The dog barked loudly' — 'loudly' is",
-    "options": [
-      "Words, phrases or clauses",
-      "Strong emotion or surprise",
-      "An adverb",
-      "Radii"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A concrete noun names",
-    "options": [
-      "Reflexive pronoun",
-      "Child",
-      "Modern",
-      "A physical, tangible thing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'I will go to the market' uses which tense?",
-    "options": [
-      "Simple future",
-      "Reflexive pronoun",
-      "Child",
-      "Unhappy"
+      "Rhetorical question.",
+      "Alliteration",
+      "Metaphor",
+      "Simile"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A conjunction connects",
+    "question": "Which of the following types of sentences is used to ask a question?",
     "options": [
-      "Child",
-      "Words, phrases or clauses",
-      "Strong emotion or surprise",
-      "Simple future"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "An antonym of 'ancient'",
-    "options": [
-      "Gives a command or instruction",
-      "Unhappy",
-      "Modern",
-      "Radii"
+      "Imperative sentence",
+      "Declarative sentence",
+      "Interrogative sentence.",
+      "Exclamatory sentence"
     ],
     "correctIndex": 2
   },
   {
-    "question": "An imperative sentence",
+    "question": "What is the primary function of a thesis statement in an essay?",
     "options": [
-      "Modern",
-      "Collective noun",
-      "Reflexive pronoun",
-      "Gives a command or instruction"
+      "To summarize the main points of the essay",
+      "To provide an example of a supporting point",
+      "To introduce the topic of the essay",
+      "To express the main argument or claim of the essay."
     ],
     "correctIndex": 3
   },
   {
-    "question": "'She sings beautifully' — 'beautifully' modifies",
+    "question": "What is the term for the author's voice or perspective?",
     "options": [
-      "An adverb",
-      "Simple future",
-      "Better",
-      "The verb 'sings'"
+      "Voice.",
+      "Mood",
+      "Tone",
+      "Personality"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of essays is characterized by a personal narrative or anecdote?",
+    "options": [
+      "Argumentative essay",
+      "Descriptive essay",
+      "Narrative essay.",
+      "Comparison essay"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a conclusion in an essay?",
+    "options": [
+      "To introduce the topic of the essay",
+      "To connect ideas between sentences",
+      "To provide a supporting detail",
+      "To summarize the main points and reiterate the thesis statement."
     ],
     "correctIndex": 3
   },
   {
-    "question": "The plural of 'radius'",
+    "question": "Which of the following literary devices involves the use of a character's thoughts or feelings to reveal their personality?",
     "options": [
-      "Gives a command or instruction",
-      "Radii",
-      "Child",
-      "The verb 'sings'"
+      "Onomatopoeia",
+      "Alliteration",
+      "Stream of consciousness.",
+      "Assonance"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'He ran with great speed' — the adverb phrase is",
-    "options": [
-      "A physical, tangible thing",
-      "With great speed",
-      "Simple future",
-      "The verb 'sings'"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

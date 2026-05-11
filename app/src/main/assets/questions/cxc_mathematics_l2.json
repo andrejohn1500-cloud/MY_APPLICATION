@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A whole number is called a natural number if it is greater than 0. Which of the following is the smallest natural number?",
+    "options": [
+      "-1",
+      "0",
+      "2",
+      "1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A set of 3 numbers has a mean of 5, and a median of 4. Which of the following is the most likely value for the mode?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A matrix has elements of 1, 2, 3, 4. What is the sum of the elements of the matrix?",
+    "options": [
+      "12",
+      "9",
+      "8",
+      "10"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The sum of the interior angles of a triangle is 180\u00b0. What is the sum of the interior angles of a quadrilateral?",
+    "options": [
+      "360",
+      "290",
+      "280",
+      "270"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A line with a slope of 2/3 is parallel to a line with a slope of 4/6. Which of the following is the slope of a line parallel to the given lines?",
+    "options": [
+      "3/4",
+      "1/2",
+      "2/3",
+      "4/5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A set of 5 numbers has a mode of 2, and a median of 4. Which of the following is the most likely value for the mean?",
+    "options": [
+      "6",
+      "1",
+      "3",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The tangent of an angle in a right-angled triangle is 3/4. What is the sine of the angle?",
+    "options": [
+      "5/6",
+      "4/5",
+      "3/5",
+      "7/8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The probability of getting a head when a coin is tossed is 1/2, or 0.5. Which of the following is the probability of NOT getting a head?",
+    "options": [
+      "0.4",
+      "0.5",
+      "0.3",
+      "0.9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If x + 5 = 11, then x equals",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The number of hours studied by 5 students are 2, 3, 4, 5, 6. What is the median number of hours studied?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A matrix has 3 rows and 4 columns. What is the order of the matrix?",
+    "options": [
+      "3x4",
+      "4x3",
+      "3x3",
+      "5x4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The angle in a straight line is 180\u00b0. What is the angle in a right angle?",
+    "options": [
+      "90",
+      "120",
+      "80",
+      "130"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has a radius of 7cm. What is the diameter of the circle?",
+    "options": [
+      "14",
+      "12",
+      "10",
+      "15"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 5 numbers has a mode of 3, and a median of 5. Which of the following is the most likely value for the mean?",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A circle has a diameter of 14cm. What is the circumference of the circle?",
+    "options": [
+      "7\u03c0",
+      "12\u03c0",
+      "14\u03c0",
+      "10\u03c0"
+    ],
+    "correctIndex": 2
+  }
+]

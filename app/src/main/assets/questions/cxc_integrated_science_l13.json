@@ -1,152 +1,82 @@
 [
   {
-    "question": "The structure of DNA was determined by",
+    "question": "In the human body, what is the term for the process by which the body gets rid of waste products?",
     "options": [
-      "Antibody production by B lymphocytes against specific antigens",
-      "Watson, Crick, Franklin and Wilkins in 1953",
-      "A component's ability to store electrical charge",
-      "Light behaves as particles (photons)"
+      "Respiration",
+      "Photosynthesis",
+      "Digestion",
+      "Excretion"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "During protein synthesis, translation occurs at",
+    "question": "A 50 Hz AC voltage is applied to a coil of wire. What is the frequency of the AC current flowing through the coil?",
     "options": [
-      "Voltage and decreases current",
-      "The number of particles in one mole of a substance",
-      "The ribosomes",
-      "Hydrocarbons by their different boiling points"
+      "60 Hz",
+      "20 Hz",
+      "50 Hz",
+      "100 Hz"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Haber process produces",
+    "question": "What is the term for the movement of Earth's plates and the resulting geological activity?",
     "options": [
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared",
-      "The X chromosome",
-      "Light behaves as particles (photons)",
-      "Ammonia from nitrogen and hydrogen"
+      "Earth's interior",
+      "Plate tectonics",
+      "Continental drift",
+      "Geological processes"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "A step-up transformer increases",
+    "question": "What is the term for the movement of water molecules from an area of high concentration to an area of low concentration?",
     "options": [
-      "Voltage and decreases current",
-      "Light behaves as particles (photons)",
-      "Antibody production by B lymphocytes against specific antigens",
-      "Restriction enzymes to cut and ligase enzymes to join DNA"
+      "Osmosis",
+      "Passive Transport",
+      "Diffusion",
+      "Active Transport"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Sex-linked inheritance means the gene is located on",
+    "question": "In the human eye, what is the term for the light-sensitive tissue that lines the inner surface of the eyeball?",
     "options": [
-      "An alcohol and a carboxylic acid in a condensation reaction",
-      "An autosomal recessive genetic disorder",
-      "Light behaves as particles (photons)",
-      "The X chromosome"
+      "Lens",
+      "Cornea",
+      "Iris",
+      "Retina"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The process of fermentation produces",
+    "question": "What is the term for the movement of molecules from an area of low concentration to an area of high concentration?",
     "options": [
-      "Light behaves as particles (photons)",
-      "A component's ability to store electrical charge",
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared",
-      "Ethanol and carbon dioxide from glucose without oxygen"
+      "Passive Transport",
+      "Active Transport",
+      "Osmosis",
+      "Diffusion"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Coulomb's law states",
+    "question": "A battery is connected to a circuit with a resistance of 5 ohms. What is the voltage drop across the circuit?",
     "options": [
-      "The number of particles in one mole of a substance",
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared",
-      "Restriction enzymes to cut and ligase enzymes to join DNA",
-      "An autosomal recessive genetic disorder"
+      "0.5 V",
+      "10 V",
+      "5 V",
+      "20 V"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Phenylketonuria (PKU) is an example of",
+    "question": "A 10 ohm resistor is connected to a 5 V battery. What is the current flowing through the resistor?",
     "options": [
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared",
-      "Ammonia from nitrogen and hydrogen",
-      "The ribosomes",
-      "An autosomal recessive genetic disorder"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Esters are formed from",
-    "options": [
-      "Ethanol and carbon dioxide from glucose without oxygen",
-      "A component's ability to store electrical charge",
-      "The ribosomes",
-      "An alcohol and a carboxylic acid in a condensation reaction"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The photoelectric effect demonstrates",
-    "options": [
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared",
-      "The ribosomes",
-      "Ammonia from nitrogen and hydrogen",
-      "Light behaves as particles (photons)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The immune response involves",
-    "options": [
-      "The X chromosome",
-      "Antibody production by B lymphocytes against specific antigens",
-      "The ribosomes",
-      "Light behaves as particles (photons)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Fractional distillation of crude oil separates",
-    "options": [
-      "Hydrocarbons by their different boiling points",
-      "A component's ability to store electrical charge",
-      "The ribosomes",
-      "The number of particles in one mole of a substance"
+      "0.5 A",
+      "0.1 A",
+      "1 A",
+      "2 A"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "Capacitance measures",
-    "options": [
-      "Watson, Crick, Franklin and Wilkins in 1953",
-      "A component's ability to store electrical charge",
-      "The X chromosome",
-      "Electric force is proportional to the product of charges and inversely proportional to distance squared"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process of genetic engineering uses",
-    "options": [
-      "Ammonia from nitrogen and hydrogen",
-      "Antibody production by B lymphocytes against specific antigens",
-      "The number of particles in one mole of a substance",
-      "Restriction enzymes to cut and ligase enzymes to join DNA"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The Avogadro constant (6.02 × 10²³) represents",
-    "options": [
-      "Voltage and decreases current",
-      "Antibody production by B lymphocytes against specific antigens",
-      "An autosomal recessive genetic disorder",
-      "The number of particles in one mole of a substance"
-    ],
-    "correctIndex": 3
   }
 ]

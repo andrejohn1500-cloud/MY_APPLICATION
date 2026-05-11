@@ -1,152 +1,152 @@
 [
   {
-    "question": "In a balanced chemical equation",
+    "question": "In the human body, which of the following systems is responsible for breaking down and eliminating waste?",
     "options": [
-      "A producer (green plant)",
-      "Dissolved calcium and magnesium salts",
-      "Absorbs heat energy from the surroundings",
-      "The number of atoms of each element is equal on both sides"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The critical angle in optics",
-    "options": [
-      "In shells/orbitals around the nucleus",
-      "Control water balance in the body",
-      "The angle beyond which total internal reflection occurs",
-      "DNA replication"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Homeostasis refers to",
-    "options": [
-      "DNA replication",
-      "Four genetically different haploid cells",
-      "The body maintaining a stable internal environment",
-      "Includes direction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Electromagnetic induction occurs when",
-    "options": [
-      "Releases heat energy to the surroundings",
-      "Voltage = Current × Resistance",
-      "A conductor moves through a magnetic field",
-      "Four genetically different haploid cells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The process of meiosis produces",
-    "options": [
-      "DNA replication",
-      "Voltage = Current × Resistance",
-      "In shells/orbitals around the nucleus",
-      "Four genetically different haploid cells"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "An exothermic reaction",
-    "options": [
-      "Control water balance in the body",
-      "Absorbs heat energy from the surroundings",
-      "The angle beyond which total internal reflection occurs",
-      "Releases heat energy to the surroundings"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The hardness of water is caused by",
-    "options": [
-      "Releases heat energy to the surroundings",
-      "DNA replication",
-      "Hydrochloric acid and pepsin",
-      "Dissolved calcium and magnesium salts"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Velocity differs from speed because it",
-    "options": [
-      "Releases heat energy to the surroundings",
-      "Dissolved calcium and magnesium salts",
-      "Includes direction",
-      "The angle beyond which total internal reflection occurs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The function of the kidneys in osmoregulation",
-    "options": [
-      "Control water balance in the body",
-      "A producer (green plant)",
-      "The number of atoms of each element is equal on both sides",
-      "Releases heat energy to the surroundings"
+      "Excretory system",
+      "Respiratory system",
+      "Nervous system",
+      "Circulatory system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Electrons are found",
+    "question": "What is the term for the energy associated with the motion of an object?",
     "options": [
-      "In shells/orbitals around the nucleus",
-      "Dissolved calcium and magnesium salts",
-      "Four genetically different haploid cells",
-      "A producer (green plant)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A food chain always begins with",
-    "options": [
-      "DNA replication",
-      "The number of atoms of each element is equal on both sides",
-      "A producer (green plant)",
-      "The body maintaining a stable internal environment"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The process by which DNA copies itself",
-    "options": [
-      "DNA replication",
-      "Control water balance in the body",
-      "Absorbs heat energy from the surroundings",
-      "In shells/orbitals around the nucleus"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Ohm's Law states",
-    "options": [
-      "Four genetically different haploid cells",
-      "In shells/orbitals around the nucleus",
-      "Hydrochloric acid and pepsin",
-      "Voltage = Current × Resistance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The stomach produces",
-    "options": [
-      "The body maintaining a stable internal environment",
-      "Hydrochloric acid and pepsin",
-      "Includes direction",
-      "Control water balance in the body"
+      "Thermal energy",
+      "Kinetic energy",
+      "Elastic potential energy",
+      "Potential energy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "An endothermic reaction",
+    "question": "What is the term for the force that opposes the motion of an object?",
     "options": [
-      "Hydrochloric acid and pepsin",
-      "The angle beyond which total internal reflection occurs",
-      "Absorbs heat energy from the surroundings",
-      "Releases heat energy to the surroundings"
+      "Tension",
+      "Normal force",
+      "Gravity",
+      "Friction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process by which an object can be magnetized is known as magnetization.",
+    "options": [
+      "Demagnetization",
+      "False",
+      "True",
+      "Electromagnetism"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which plants convert sunlight into chemical energy?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The force of attraction between two objects is known as gravity.",
+    "options": [
+      "Friction",
+      "Electromagnetism",
+      "False",
+      "True"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a simple circuit, what is the current flowing through the circuit called?",
+    "options": [
+      "Alternating current (AC)",
+      "Direct current (DC)",
+      "Resistance",
+      "Electromotive force (EMF)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the water cycle, what is the process called when water from the atmosphere freezes and falls to the ground?",
+    "options": [
+      "Condensation",
+      "Precipitation",
+      "Runoff",
+      "Evaporation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of cells is responsible for movement in multicellular organisms?",
+    "options": [
+      "Epithelial cells",
+      "Connective tissue cells",
+      "Muscle cells",
+      "Nerve cells"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the movement of an object in a circular path?",
+    "options": [
+      "Circular motion",
+      "Rotational motion",
+      "Oscillatory motion",
+      "Linear motion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the energy associated with the position of an object?",
+    "options": [
+      "Kinetic energy",
+      "Thermal energy",
+      "Elastic potential energy",
+      "Potential energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A substance that cannot be separated into simpler substances by chemical means is known as an element.",
+    "options": [
+      "Mixture",
+      "Compound",
+      "True",
+      "False"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the amount of space occupied by an object?",
+    "options": [
+      "Density",
+      "Volume",
+      "Mass",
+      "Surface area"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the human body, which of the following systems is responsible for transporting gases throughout the body?",
+    "options": [
+      "Respiratory system",
+      "Digestive system",
+      "Nervous system",
+      "Circulatory system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A substance that can be broken down into simpler substances by chemical means is known as a compound.",
+    "options": [
+      "True",
+      "Elementary substance",
+      "False",
+      "Mixture"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is matter?",
+    "question": "What is the scientific term for the 'study of the Earth's magnetic field'?",
     "options": [
-      "Only solids",
-      "Anything that has mass and takes up space",
-      "Only liquids and gases",
-      "Only living things"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What are the three states of matter?",
-    "options": [
-      "Hot, warm and cold",
-      "Solid, liquid and gas",
-      "Hard, soft and fluid",
-      "Heavy, medium and light"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is photosynthesis?",
-    "options": [
-      "Animals breathing",
-      "Process where plants produce food using sunlight, water and carbon dioxide",
-      "Plants drinking water",
-      "Animals eating plants"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the heart do?",
-    "options": [
-      "Digest food",
-      "Pump blood throughout the body",
-      "Filter waste",
-      "Produce hormones"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is an atom?",
-    "options": [
-      "The largest particle",
-      "The smallest unit of a chemical element",
-      "A type of molecule",
-      "A compound"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What force keeps planets orbiting the sun?",
-    "options": [
-      "Magnetism",
-      "Electricity",
-      "Gravity",
-      "Wind"
+      "geochemistry",
+      "geophysics",
+      "geomagnetism",
+      "geomorphology"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 'reproduction' in living things?",
+    "question": "What is the type of ecosystem where organisms live in close association with each other, such as in a forest?",
     "options": [
-      "Getting food",
-      "Process by which organisms produce offspring",
-      "Growing larger",
-      "Moving around"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the chemical symbol for water?",
-    "options": [
-      "WA",
-      "HO",
-      "H2O",
-      "W2O"
+      "population",
+      "community",
+      "ecosystem",
+      "competition"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 'energy'?",
+    "question": "What is the type of energy that is produced by the movement of charged particles, such as electrons?",
     "options": [
-      "A type of matter",
-      "The capacity to do work or cause change",
-      "Only electricity",
-      "Only heat"
+      "thermal",
+      "mechanical",
+      "chemical",
+      "electrical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the scientific term for the 'study of the Earth's geology and the processes that shape the planet'?",
+    "options": [
+      "geochemistry",
+      "geomorphology",
+      "geophysics",
+      "geology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the movement of molecules from an area of high concentration to an area of low concentration?",
+    "options": [
+      "passive transport",
+      "diffusion",
+      "active transport",
+      "osmosis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What are 'vertebrates'?",
+    "question": "What is the scientific term for the 'building blocks of life'?",
     "options": [
-      "Animals without a backbone",
-      "Animals with a backbone or spinal column",
-      "Only mammals",
-      "Only fish"
+      "tissues",
+      "molecules",
+      "organs",
+      "cells"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the type of rock that is formed from the erosion of existing rocks?",
+    "options": [
+      "igneous",
+      "foliated",
+      "metamorphic",
+      "sedimentary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapour?",
+    "options": [
+      "photosynthesis",
+      "transpiration",
+      "translocation",
+      "respiration"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the function of the lungs?",
+    "question": "What is the type of matter that has a variable shape and volume?",
     "options": [
-      "Pump blood",
-      "Exchange oxygen and carbon dioxide during breathing",
-      "Digest food",
-      "Filter blood"
+      "plasma",
+      "liquid",
+      "gas",
+      "solid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which plants use energy from the sun to produce glucose and oxygen?",
+    "options": [
+      "translocation",
+      "fermentation",
+      "respiration",
+      "photosynthesis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which plants absorb water and nutrients from the soil?",
+    "options": [
+      "diffusion",
+      "absorption",
+      "active transport",
+      "osmosis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'friction'?",
+    "question": "What is the process by which living organisms make their own food using sunlight, water and carbon dioxide?",
     "options": [
-      "A type of energy",
-      "Force that opposes motion between two surfaces in contact",
-      "A type of wave",
-      "Magnetic force"
+      "osmosis",
+      "photosynthesis",
+      "fermentation",
+      "respiration"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'nutrition' in biology?",
+    "question": "What is the process by which the Earth's plates move and change?",
     "options": [
-      "Only eating",
-      "Process of obtaining and using food for energy, growth and repair",
-      "Only drinking water",
-      "Only breathing"
+      "continental drift",
+      "plate tectonics",
+      "sea floor spreading",
+      "glaciation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'food chain'?",
+    "question": "What is the type of energy that is produced by the movement of charged particles, such as protons and neutrons?",
     "options": [
-      "A restaurant chain",
-      "Sequence showing how energy passes from one organism to another through feeding",
-      "A type of ecosystem",
-      "A farming method"
+      "mechanical",
+      "thermal",
+      "electrical",
+      "nuclear"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What does 'biodegradable' mean?",
+    "question": "What is the type of ecosystem where plants and animals are dependent on each other for survival?",
     "options": [
-      "Never breaks down",
-      "Can be broken down naturally by bacteria or other living organisms",
-      "Only plastic",
-      "Only metal"
+      "community",
+      "ecosystem",
+      "symbiotic",
+      "population"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

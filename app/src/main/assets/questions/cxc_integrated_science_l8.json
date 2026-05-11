@@ -1,152 +1,82 @@
 [
   {
-    "question": "Ionic bonds form between",
+    "question": "The process by which an object can be heated or cooled by a change in pressure is known as the Joule-Thomson effect.",
     "options": [
-      "A metal and a non-metal",
-      "Two copies of the recessive allele are present",
-      "Mass × Velocity",
-      "Mass is neither created nor destroyed in a reaction"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The equation for kinetic energy",
-    "options": [
-      "Two copies of the recessive allele are present",
-      "Frequency or wavelength",
-      "Mass is neither created nor destroyed in a reaction",
-      "KE = ½mv²"
+      "Convection",
+      "Conduction",
+      "False",
+      "True"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A recessive trait appears when",
+    "question": "The human body's ability to maintain a stable internal environment despite changes in the external environment is known as homeostasis.",
     "options": [
-      "Limewater turns milky",
-      "Mass is neither created nor destroyed in a reaction",
-      "Two copies of the recessive allele are present",
-      "Mass × Velocity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Group 1 metals react vigorously with water to produce",
-    "options": [
-      "Metal hydroxide and hydrogen",
-      "White blood cells (lymphocytes)",
-      "Mass × Velocity",
-      "Limewater turns milky"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The function of the hypothalamus",
-    "options": [
-      "Regulates body temperature and hormone release",
-      "Limewater turns milky",
-      "Metal hydroxide and hydrogen",
-      "Frequency or wavelength"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Electromagnetic waves are arranged in order of",
-    "options": [
-      "Transports sugars from leaves to other parts",
-      "A metal and a non-metal",
-      "Mass is neither created nor destroyed in a reaction",
-      "Frequency or wavelength"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The test for carbon dioxide",
-    "options": [
-      "Transports water and minerals from roots to leaves",
-      "Limewater turns milky",
-      "Mass × Velocity",
-      "Hertz (Hz)"
+      "Body temperature",
+      "True",
+      "False",
+      "Thermoregulation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Covalent bonds form between",
+    "question": "What is the term for the movement of an object from one position to another without any external force acting on it?",
     "options": [
-      "Two non-metals sharing electrons",
-      "Regulates body temperature and hormone release",
-      "White blood cells (lymphocytes)",
-      "KE = ½mv²"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The unit of frequency",
-    "options": [
-      "Hertz (Hz)",
-      "Regulates body temperature and hormone release",
-      "Metal hydroxide and hydrogen",
-      "Two copies of the recessive allele are present"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Xylem tissue in plants",
-    "options": [
-      "A metal and a non-metal",
-      "White blood cells (lymphocytes)",
-      "Limewater turns milky",
-      "Transports water and minerals from roots to leaves"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The law of conservation of mass states",
-    "options": [
-      "Converges light to a focal point",
-      "White blood cells (lymphocytes)",
-      "Mass is neither created nor destroyed in a reaction",
-      "Regulates body temperature and hormone release"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Momentum is calculated as",
-    "options": [
-      "Mass × Velocity",
-      "Frequency or wavelength",
-      "KE = ½mv²",
-      "Limewater turns milky"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Antibodies are produced by",
-    "options": [
-      "A metal and a non-metal",
-      "KE = ½mv²",
-      "White blood cells (lymphocytes)",
-      "Hertz (Hz)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A concave mirror",
-    "options": [
-      "Two copies of the recessive allele are present",
-      "Converges light to a focal point",
-      "Metal hydroxide and hydrogen",
-      "Transports sugars from leaves to other parts"
+      "Circular motion",
+      "Free fall",
+      "Projectile motion",
+      "Forced motion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Phloem tissue in plants",
+    "question": "The human body's ability to regulate its internal temperature is known as homeostasis.",
     "options": [
-      "Transports sugars from leaves to other parts",
-      "Two copies of the recessive allele are present",
-      "Frequency or wavelength",
-      "Metal hydroxide and hydrogen"
+      "Body temperature",
+      "Thermoregulation",
+      "True",
+      "False"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the human brain controls voluntary movements?",
+    "options": [
+      "Brainstem",
+      "Cerebrum",
+      "Cerebellum",
+      "Spinal cord"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The movement of plants towards light is known as phototropism.",
+    "options": [
+      "Thigmotropism",
+      "Nastic movement",
+      "False",
+      "True"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In an ecosystem, what is the term for the interaction between two different species?",
+    "options": [
+      "Competition",
+      "Symbiosis",
+      "Mutualism",
+      "Predation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process by which an organism's genetic information is passed from one generation to the next is known as inheritance.",
+    "options": [
+      "Genetic drift",
+      "False",
+      "True",
+      "Mutation"
+    ],
+    "correctIndex": 2
   }
 ]

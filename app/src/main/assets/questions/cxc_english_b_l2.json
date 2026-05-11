@@ -1,1 +1,132 @@
-[{"question":"In poetry, what is 'enjambment'?","options":["A line continuing without pause","A rhyme scheme","A type of meter","A stanza break"],"correctIndex":0},{"question":"What is the theme of a story?","options":["The central message","The main character","The setting","The plot"],"correctIndex":0},{"question":"What is dramatic irony?","options":["Audience knows more than characters","Characters know more than audience","Both know the same","Neither knows the outcome"],"correctIndex":0},{"question":"What is a 'soliloquy'?","options":["Character speaking thoughts aloud","A conversation between two characters","A narrator's commentary","A stage direction"],"correctIndex":0},{"question":"What does 'denouement' mean?","options":["Resolution of the plot","Rising action","The climax","The conflict"],"correctIndex":0},{"question":"Which is an internal conflict?","options":["A character struggling with guilt","Two characters fighting","A storm destroying a village","A war between nations"],"correctIndex":0},{"question":"What is 'stream of consciousness'?","options":["A narrative technique showing thoughts","A type of poetry","A dramatic device","A plot structure"],"correctIndex":0},{"question":"Role of an antagonist?","options":["To oppose the protagonist","To help the protagonist","To narrate the story","To set the scene"],"correctIndex":0},{"question":"What is 'foreshadowing'?","options":["Hints about future events","Flashback to past events","Describing the setting","Introducing a character"],"correctIndex":0},{"question":"Who wrote 'In the Castle of My Skin'?","options":["George Lamming","V.S. Naipaul","Derek Walcott","Samuel Selvon"],"correctIndex":0},{"question":"What is a 'couplet'?","options":["Two consecutive rhyming lines","A four-line stanza","A six-line stanza","A refrain"],"correctIndex":0},{"question":"What is 'exposition' in a play?","options":["Introduction of background","The climax","The falling action","The resolution"],"correctIndex":0},{"question":"What is 'pathos'?","options":["Evoking pity or sadness","Creating fear","Building suspense","Generating humour"],"correctIndex":0},{"question":"What is a 'motif'?","options":["A recurring element","A single scene","A character trait","A plot device"],"correctIndex":0},{"question":"What is 'blank verse'?","options":["Unrhymed iambic pentameter","Rhymed couplets","Free verse","Haiku style"],"correctIndex":0}]
+[
+  {
+    "question": "What is the theme of the novel 'One Hundred Years of Solitude'?",
+    "options": [
+      "The struggle for racial equality and self-empowerment",
+      "The cyclical nature of time and the human experience",
+      "The need for social justice and equality",
+      "The importance of forgiveness and reconciliation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a play, what is the purpose of a prop?",
+    "options": [
+      "To provide background information on the setting",
+      "To help the actors to convey the plot and characters",
+      "To reveal the plot at the beginning of the play",
+      "To introduce new characters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Caribbean literature, what is the significance of the concept of 'islandness'?",
+    "options": [
+      "It refers to the unique cultural and historical context of island societies",
+      "It refers to the geographical isolation of Caribbean islands",
+      "It refers to the historical connection between Caribbean islands and other parts of the world",
+      "It refers to the cultural identity of Caribbean people"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a character's dialogue in a play?",
+    "options": [
+      "To reveal their personality, motivations, and background",
+      "To introduce new characters",
+      "To drive the plot forward",
+      "To provide background information on the setting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of foreshadowing in a novel?",
+    "options": [
+      "To provide unnecessary background information on the setting",
+      "To hint at future events or plot twists",
+      "To introduce new characters at the end of the story",
+      "To reveal the plot at the beginning of the story"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a short story, what is the purpose of a plot?",
+    "options": [
+      "To provide background information on the setting",
+      "To introduce new characters",
+      "To engage and propel the reader",
+      "To reveal the plot at the beginning of the story"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a short story, what is the purpose of a title?",
+    "options": [
+      "To reveal the plot at the beginning of the story",
+      "To hint at the theme or plot of the story",
+      "To introduce new characters",
+      "To provide background information on the setting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is the author of the novel 'Beloved'?",
+    "options": [
+      "Alice Walker",
+      "Ralph Ellison",
+      "Toni Morrison",
+      "Langston Hughes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a Shakespearean tragedy, what is the role of the chorus?",
+    "options": [
+      "To engage in dialogue with the main characters",
+      "To drive the plot forward",
+      "To provide comic relief",
+      "To provide background information and commentary on the action"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the theme of the novel 'The Brief Wondrous Life of Oscar Wao'?",
+    "options": [
+      "The importance of forgiveness and reconciliation",
+      "The need for social justice and equality",
+      "The power of love and compassion",
+      "The struggle for identity and cultural heritage"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is the author of the novel 'One Hundred Years of Solitude'?",
+    "options": [
+      "Ralph Ellison",
+      "Alice Walker",
+      "Langston Hughes",
+      "Gabriel Garc\u00eda M\u00e1rquez"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a protagonist in a novel?",
+    "options": [
+      "A character who is neutral and unbiased",
+      "The main character who drives the plot forward",
+      "A character who is opposed to the protagonist",
+      "A minor character who provides comic relief"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is the author of the play 'A Raisin in the Sun'?",
+    "options": [
+      "Lorraine Hansberry",
+      "Langston Hughes",
+      "Alice Walker",
+      "Ralph Ellison"
+    ],
+    "correctIndex": 0
+  }
+]

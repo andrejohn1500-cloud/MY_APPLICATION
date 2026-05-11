@@ -1,0 +1,152 @@
+[
+  {
+    "question": "A set of data has a mode of 5 and a median of 7. What is the sum of the two smallest numbers, if the set is arranged in ascending order?",
+    "options": [
+      "7 + 9 = 16",
+      "5 + 5 = 10",
+      "5 + 7 = 12",
+      "5 + 9 = 14"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the sum of the interior angles of a hexagon is (n - 2) \u00d7 180\u00b0, what is the sum of the interior angles of the hexagon?",
+    "options": [
+      "900",
+      "540",
+      "720",
+      "1080"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a circle, if the radius of the circle is 4 cm and the length of the arc intercepted by a central angle of 60\u00b0 is 6.4 cm, what is the length of the arc intercepted by a central angle of 90\u00b0?",
+    "options": [
+      "6.8",
+      "9.6",
+      "5.2",
+      "8.4"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If the quadratic equation ax^2 + bx + c = 0 has two distinct real roots, what is the condition for the quadratic equation to have a positive leading coefficient?",
+    "options": [
+      "a \u2260 0",
+      "a = 0",
+      "a < 0",
+      "a > 0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A box contains 3 red balls and 2 blue balls. What is the probability of drawing a blue ball first and then a blue ball second, without replacement?",
+    "options": [
+      "1/3 * 4/5 = 4/15",
+      "2/7 * 1/4 = 1/28",
+      "2/5 * 2/3 = 4/15",
+      "2/5 * 1/4 = 1/10"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a matrix equation AX = B, if the matrix A is invertible, what can be concluded about the existence of a unique solution for X?",
+    "options": [
+      "A unique solution does not exist for X",
+      "A unique solution exists for X.",
+      "No solution exists for X",
+      "Infinitely many solutions exist for X"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A random variable X has a probability distribution with the following values: x = 1, p(x) = 0.3; x = 2, p(x) = 0.4; x = 3, p(x) = 0.3. What is the standard deviation of X?",
+    "options": [
+      "0.9",
+      "1.0",
+      "0.72",
+      "0.8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A set of data has a mode of 5 and a median of 7. What is the sum of the two middle numbers, if the set is arranged in ascending order?",
+    "options": [
+      "7 + 7 = 14",
+      "7 + 5 = 12",
+      "9 + 9 = 18",
+      "7 + 9 = 16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A random variable X has a probability distribution with the following values: x = 1, p(x) = 0.4; x = 2, p(x) = 0.3; x = 3, p(x) = 0.3. What is the expected value of X?",
+    "options": [
+      "1.4",
+      "1.7",
+      "1.5",
+      "1.6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of data has a mode of 5 and a median of 7. What is the sum of the two largest numbers, if the set is arranged in ascending order?",
+    "options": [
+      "10 + 12 = 22",
+      "10 + 10 = 20",
+      "12 + 14 = 26",
+      "10 + 14 = 24"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the product of the roots of a quadratic equation ax^2 + bx + c = 0 is c/a, what is the value of the sum of the roots?",
+    "options": [
+      "d/a",
+      "e/a",
+      "c/a",
+      "-b/a"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a circle, if the radius of the circle is 3 cm and the length of the arc intercepted by a central angle of 45\u00b0 is 2.1 cm, what is the circumference of the circle?",
+    "options": [
+      "4\u03c0",
+      "5\u03c0",
+      "6\u03c0",
+      "6\u03c0/5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A set of data has a mode of 5 and a median of 7. What is the sum of the two middle numbers, if the set is arranged in ascending order?",
+    "options": [
+      "7 + 7 = 14",
+      "9 + 9 = 18",
+      "7 + 5 = 12",
+      "7 + 9 = 16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A box contains 3 red balls and 2 blue balls. What is the probability of drawing a red ball first and then a blue ball second, without replacement?",
+    "options": [
+      "3/5 * 2/4 = 3/10",
+      "2/3 * 4/5 = 8/15",
+      "3/5 * 2/3 = 2/5",
+      "3/7 * 2/4 = 6/28"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 5 numbers has a mode of 5 and a median of 8. What is the sum of the two middle numbers, if the set is arranged in ascending order?",
+    "options": [
+      "9 + 9 = 18",
+      "8 + 8 = 16",
+      "8 + 5 = 13",
+      "8 + 9 = 17"
+    ],
+    "correctIndex": 1
+  }
+]
