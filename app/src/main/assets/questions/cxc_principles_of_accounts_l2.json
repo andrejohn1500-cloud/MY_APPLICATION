@@ -1,121 +1,151 @@
 [
   {
-    "question": "Which of the following financial statements provides a summary of a business's cash inflows and outflows over a specific period?",
+    "question": "What is a reconciliation statement?",
     "options": [
-      "Cash flow statement",
-      "Balance sheet",
-      "Statement of cash flows",
-      "Income statement"
+      "A statement that shows the financial position of a business at a specific date",
+      "A statement that shows the financial performance of a business over a specific period",
+      "A statement that shows the difference between the company's records and the bank's records",
+      "A statement that shows the profit or loss of a business over a specific period"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a type of financial statement that provides a summary of a business's financial position at a specific point in time?",
+    "question": "What is a company's statement of affairs?",
     "options": [
-      "Statement of changes in equity",
-      "Balance sheet",
-      "Income statement",
-      "Statement of cash flows"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a characteristic of a limited liability company?",
-    "options": [
-      "Limited liability for shareholders",
-      "Limited liability for partners",
-      "Unlimited liability for partners",
-      "Unlimited liability for shareholders"
+      "A statement that shows the company's assets, liabilities and equity",
+      "A statement that shows the company's takeover",
+      "A statement that shows the company's operations and financial position",
+      "A statement that shows the company's purpose and objectives"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a business's ability to meet its short-term obligations?",
+    "question": "What is depreciation?",
     "options": [
-      "Solvency",
-      "Liquidity",
-      "Efficiency",
-      "Profitability"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of company that has a single owner?",
-    "options": [
-      "Private company",
-      "Public company",
-      "Sole proprietorship",
-      "Corporation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a business's ability to generate profits over time?",
-    "options": [
-      "Liquidity",
-      "Profitability",
-      "Efficiency",
-      "Solvency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of allocating the cost of a tangible asset over its useful life?",
-    "options": [
-      "Accumulation",
-      "Obsolescence",
-      "Amortization",
-      "Depreciation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a type of partnership where one or more partners have limited liability?",
-    "options": [
-      "General partnership",
-      "Limited partnership",
-      "Limited liability partnership",
-      "Joint venture"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a business's ability to meet its long-term obligations?",
-    "options": [
-      "Efficiency",
-      "Profitability",
-      "Solvency",
-      "Liquidity"
+      "The reduction in value of a current asset over its useful life",
+      "The increase in value of a non-current asset over its useful life",
+      "The reduction in value of a non-current asset over its useful life",
+      "The increase in value of a current asset over its useful life"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a characteristic of a sole proprietorship?",
+    "question": "What is the primary function of a statement of changes in equity?",
     "options": [
-      "Limited liability",
-      "Separate legal entity",
-      "Ownership by two or more individuals",
-      "Ownership by one individual"
+      "To show the changes in equity over a specific period",
+      "To show the financial position of a business at a specific date",
+      "To show the profit or loss of a business over a specific period",
+      "To show the financial performance of a business over a specific period"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a bank reconciliation statement?",
+    "options": [
+      "To post entries to the ledger",
+      "To prepare the final accounts",
+      "To prepare the trial balance",
+      "To reconcile the difference between the company's records and the bank's records"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following accounts is used to record the business's equity in the business?",
+    "question": "What is a company's Articles?",
     "options": [
-      "Drawings account",
-      "Capital account",
-      "Expenses account",
-      "Revenue account"
+      "A document that outlines the company's rules and regulations",
+      "A document that outlines the company's purpose and objectives",
+      "A document that outlines the company's operations",
+      "A document that outlines the company's financial position"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a partnership?",
+    "options": [
+      "A business owned and operated by the government",
+      "A business owned and operated by a company",
+      "A business owned and operated by one individual",
+      "A business owned and operated by two or more individuals"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a partnership agreement?",
+    "options": [
+      "An agreement between a company and its shareholders",
+      "An agreement between a company and its creditors",
+      "An agreement between a company and its employees",
+      "An agreement between partners that outlines the terms and conditions of the partnership"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a journal voucher?",
+    "options": [
+      "To prepare the trial balance",
+      "To post entries to the ledger",
+      "To prepare the final accounts",
+      "To record non-standard transactions"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is an accrual?",
+    "options": [
+      "An asset that has been paid",
+      "A liability that has not been paid",
+      "An asset or expense that has been earned or incurred but has not been paid or received",
+      "A revenue that has not been earned"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a company's statement of comprehensive income?",
+    "options": [
+      "A statement that shows the company's purpose and objectives",
+      "A statement that shows the comprehensive income over a specific period",
+      "A statement that shows the company's takeover",
+      "A statement that shows the company's operations and financial position"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which ledger is used to record all the transactions of a business in chronological order?",
+    "question": "What is a Articles of Association?",
     "options": [
-      "Journal ledger",
-      "Bank ledger",
-      "Ledger ledger",
-      "Cash ledger"
+      "A document that outlines the terms and conditions of a company's dissolution",
+      "A document that outlines the terms and conditions of a company's formation",
+      "A document that outlines the terms and conditions of a company's takeover",
+      "A document that outlines the rules and regulations of a company's operations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a Memorandum of Association?",
+    "options": [
+      "A document that outlines the terms and conditions of a partnership",
+      "A document that outlines the terms and conditions of a company's formation",
+      "A document that outlines the terms and conditions of a company's operations",
+      "A document that outlines the terms and conditions of a company's dissolution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a dividend?",
+    "options": [
+      "A payment made by a company to its employees",
+      "A payment made by a company to its creditors",
+      "A payment made by a company to its shareholders",
+      "A payment made by a company to its suppliers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a ledger?",
+    "options": [
+      "A book that contains a permanent record of all the accounts in a business",
+      "A book that contains a list of all the assets, liabilities and equity of a business",
+      "A book that contains a list of all the accounts payable and accounts receivable of a business",
+      "A book that contains a list of all the transactions of a business"
     ],
     "correctIndex": 0
   }

@@ -1,102 +1,152 @@
 [
   {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $350,000 and a net gain after tax of $150,000. What is the company's tax expense for the year?",
+    "question": "A company's financial statements are prepared in accordance with IFRS. What is the purpose of the Statement of Financial Position?",
     "options": [
-      "200000",
-      "250000",
-      "300000",
-      "150000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's accounts year-end is 31 December. The company's cash flow statement for the year ended 31 December 20XX shows a net increase in cash of $300,000. The company's profit before tax for the year was $450,000. What is the company's cash flow from operating activities?",
-    "options": [
-      "810000",
-      "700000",
-      "900000",
-      "600000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's ledger account for insurance shows a balance of $6,000 at the beginning of the year and a balance of $10,000 at the end of the year. What is the total insurance paid by the company during the year?",
-    "options": [
-      "6000",
-      "4000",
-      "2000",
-      "5000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company purchases a machine for $120,000 cash and a computer for $80,000 cash. The company's accounts year-end is 31 December. The trial balance as at 31 December 20XX shows a total debit balance of $300,000 and a total credit balance of $250,000. What is the effect on the balance of the trial balance?",
-    "options": [
-      "-75000",
-      "50000",
-      "-50000",
-      "-25000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's accounts year-end is 31 December. The company's cash flow statement for the year ended 31 December 20XX shows a net decrease in cash of $200,000. The company's profit before tax for the year was $500,000. What is the company's net cash from operating activities?",
-    "options": [
-      "800000",
-      "600000",
-      "700000",
-      "900000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A company's accounts year-end is 31 December. The company's cash flow statement for the year ended 31 December 20XX shows a net decrease in cash of $300,000. The company's profit before tax for the year was $400,000. What is the company's net cash from operating activities?",
-    "options": [
-      "900000",
-      "800000",
-      "700000",
-      "600000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A company's ledger account for dividends shows a balance of $8,000 at the beginning of the year and a balance of $12,000 at the end of the year. What is the total dividends paid by the company during the year?",
-    "options": [
-      "6000",
-      "5000",
-      "2000",
-      "4000"
+      "To provide information about the changes in equity during the period",
+      "To provide information about the entity's financial performance during the period",
+      "To provide information about the entity's cash flows during the period",
+      "To provide information about the entity's financial position at the end of the period"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company's ledger account for office expenses shows a balance of $10,000 at the beginning of the year and a balance of $20,000 at the end of the year. What is the total office expenses incurred by the company during the year?",
+    "question": "A company has a capital account balance of $40,000 and a drawing account balance of $5,000. What is the net capital balance of the company?",
     "options": [
-      "10000",
-      "5000",
-      "15000",
-      "20000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's ledger account for rent shows a balance of $8,000 at the beginning of the year and a balance of $12,000 at the end of the year. What is the total rent paid by the company during the year?",
-    "options": [
-      "4000",
-      "5000",
-      "2000",
-      "6000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's ledger account for salaries shows a balance of $15,000 at the beginning of the year and a balance of $25,000 at the end of the year. What is the total salaries paid by the company during the year?",
-    "options": [
-      "15000",
-      "5000",
-      "10000",
-      "20000"
+      "$45,000",
+      "$40,000",
+      "$35,000",
+      "$30,000"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A partnership agreement specifies that profits and losses are to be shared in the ratio 4:6. If the partnership's net income for the year is $220,000, what is the amount of net income allocated to Partner B?",
+    "options": [
+      "$90,000",
+      "$130,000",
+      "$110,000",
+      "$120,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's equipment has a cost of $50,000 and an accumulated depreciation balance of $20,000. What is the net book value of the equipment?",
+    "options": [
+      "$30,000",
+      "$60,000",
+      "$50,000",
+      "$40,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A sole trader's business has a cash account balance of $50,000, accounts receivable of $30,000, and accounts payable of $20,000. What is the net amount of cash available to the sole trader?",
+    "options": [
+      "$55,000",
+      "$58,000",
+      "$60,000",
+      "$62,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A business entity prepares its financial statements in accordance with IFRS. What is the primary purpose of the Statement of Cash Flows?",
+    "options": [
+      "To provide information about the entity's financial position at the end of the period",
+      "To provide information about the entity's inflows and outflows of cash and cash equivalents",
+      "To provide information about the entity's net income for the period",
+      "To provide information about the entity's retained earnings at the end of the period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company prepares its trial balance and discovers that the total debit balance is $200,000 and the total credit balance is $220,000. What journal entry should be made to correct this discrepancy?",
+    "options": [
+      "Debit or Credit $20,000",
+      "Debit or Credit $30,000",
+      "Debit or Credit $40,000",
+      "Debit or Credit $10,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company purchases equipment for $100,000 cash. The equipment has an estimated useful life of 5 years and a residual value of $10,000. Calculate the annual depreciation using the reducing balance method.",
+    "options": [
+      "$18,000",
+      "$19,600",
+      "$20,000",
+      "$15,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's financial statements are prepared in accordance with IFRS. What is the purpose of the Statement of Changes in Equity?",
+    "options": [
+      "To provide information about the changes in equity during the period",
+      "To provide information about the entity's net income for the period",
+      "To provide information about the entity's retained earnings at the end of the period",
+      "To provide information about the entity's financial position at the end of the period"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A partnership agreement specifies that profits and losses are to be shared in the ratio 3:1. If the partnership's net income for the year is $140,000, what is the amount of net income allocated to Partner A?",
+    "options": [
+      "$90,000",
+      "$85,000",
+      "$80,000",
+      "$100,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company acquired equipment for $100,000 cash and recorded it at cost. However, the company did not consider the impact of import duties paid on the equipment purchase. What journal entry should the company make to correct the initial recording?",
+    "options": [
+      "Debit Purchases $20,000, Credit Sales $20,000",
+      "Debit Cost of Goods Sold $10,000, Credit Purchases $10,000",
+      "Debit Purchases $10,000, Credit Import Duty $10,000",
+      "Debit Import Duty $20,000, Credit Purchases $20,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company has a capital account balance of $80,000 and a drawing account balance of $15,000. What is the net capital balance of the company?",
+    "options": [
+      "$75,000",
+      "$65,000",
+      "$60,000",
+      "$70,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A partnership has two partners, A and B. Partner A withdraws $20,000 during the year. If the profit for the year is $150,000, what amount will partner A receive?",
+    "options": [
+      "$160,000",
+      "$140,000",
+      "$120,000",
+      "$130,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's Statement of Financial Position reports that the company has a current ratio of 2:1. What is the implication of this information?",
+    "options": [
+      "The company has a strong liquidity position",
+      "The company's liquidity position is neutral",
+      "The company's liquidity position is unknown",
+      "The company has a weak liquidity position"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company's equipment has a useful life of 5 years and an estimated residual value of $10,000. The company uses the straight-line method of depreciation. What is the annual depreciation charge?",
+    "options": [
+      "$18,000",
+      "$20,000",
+      "$17,000",
+      "$19,000"
+    ],
+    "correctIndex": 0
   }
 ]

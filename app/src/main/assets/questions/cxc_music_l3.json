@@ -1,82 +1,72 @@
 [
   {
-    "question": "In music notation, what is the symbol used to indicate a repeat?",
+    "question": "Which of the following musical instruments is commonly used in steelpan music?",
     "options": [
-      "R",
-      "O",
-      "/",
-      "X"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In music notation, what is the symbol used to indicate a rest?",
-    "options": [
-      "O",
-      "X or a dot within a circle",
-      "X",
-      "-"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following musical forms is characterized by a slow introduction, a central theme, and a fast, virtuosic finale?",
-    "options": [
-      "Overture",
-      "Rondo",
-      "Sonata",
-      "Fugue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of musical form is characterized by a series of contrasting sections?",
-    "options": [
-      "Theme and variations",
-      "Sonata form",
-      "Rondo form",
-      "Fugue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of musical form is characterized by a series of short, independent melodies?",
-    "options": [
-      "Sonata form",
-      "Fugue",
-      "Theme and variations",
-      "Rondo form"
+      "Drums",
+      "Percussion",
+      "Steelpan",
+      "Horn"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The musical term for 'a group of three notes played together' is called?",
+    "question": "What is the term for the arrangement of notes in a melody?",
     "options": [
-      "Melody",
-      "Chord",
-      "Arpeggio",
-      "Harmony"
+      "Interval pattern",
+      "Rhythmic pattern",
+      "Melodic pattern",
+      "Harmonic pattern"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In music notation, what is the symbol used to indicate a flat?",
+    "question": "Which of the following musical instruments is commonly used in soca music?",
     "options": [
-      "X",
-      "/",
-      "#",
-      "b"
+      "Horn",
+      "Percussion",
+      "Drums",
+      "Steelpan"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the arrangement of notes in a scale?",
+    "options": [
+      "Rhythmic pattern",
+      "Melodic pattern",
+      "Harmonic pattern",
+      "Interval pattern"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a musical phrase that is repeated exactly?",
+    "question": "Which of the following is an example of a musical form?",
     "options": [
-      "Variation",
-      "Developing variation",
-      "Theme",
-      "Repeat"
+      "Sonata form",
+      "Rondo form",
+      "Binary form",
+      "Theme and variation form"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the arrangement of notes in a chord progression?",
+    "options": [
+      "Interval pattern",
+      "Melodic pattern",
+      "Harmonic pattern",
+      "Rhythmic pattern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in soca music?",
+    "options": [
+      "Drums",
+      "Steelpan",
+      "Percussion",
+      "Horn"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $350,000 and a net loss after tax of $100,000. What is the company's tax expense for the year?",
+    "question": "A company's Statement of Cash Flows reports that the company generated $50,000 in cash from operating activities. What is the implication of this information?",
     "options": [
-      "450000",
-      "400000",
-      "350000",
-      "300000"
+      "The company's cash position deteriorated during the period",
+      "The company was profitable during the period",
+      "The company's cash position improved during the period",
+      "The company was unprofitable during the period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business entity uses the Straight-Line Method to depreciate assets. What is the formula for calculating annual depreciation?",
+    "options": [
+      "Annual Depreciation = (Cost - Residual Value) / Useful Life",
+      "Annual Depreciation = (Cost + Residual Value) / Useful Life",
+      "Annual Depreciation = (Cost + Residual Value) x Number of Years",
+      "Annual Depreciation = (Cost - Residual Value) / Number of Years"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $250,000 and a net loss after tax of $50,000. What is the company's tax expense for the year?",
+    "question": "A company has a long-term investment in shares of another company. What type of account should be used to record the sale of this investment?",
     "options": [
-      "300000",
-      "200000",
-      "250000",
-      "350000"
+      "Prepaid Rent",
+      "Loss on Sale of Investment or Gain on Sale of Investment",
+      "Accumulated Depreciation",
+      "Cost of Goods Sold"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A company purchases a machine for $100,000 cash and a computer for $50,000 cash. The company's accounts year-end is 31 December. The trial balance as at 31 December 20XX shows a total debit balance of $300,000 and a total credit balance of $250,000. What is the effect on the balance of the trial balance?",
+    "question": "A partnership agreement specifies that profits and losses are to be shared in the ratio 3:2. If the partnership's net income for the year is $120,000, what is the amount of net income allocated to Partner A?",
     "options": [
-      "50000",
-      "-25000",
-      "-50000",
-      "-75000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's ledger account for interest paid shows a balance of $4,000 at the beginning of the year and a balance of $10,000 at the end of the year. What is the total interest paid by the company during the year?",
-    "options": [
-      "3000",
-      "5000",
-      "6000",
-      "7000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $300,000 and a net loss after tax of $100,000. What is the company's tax expense for the year?",
-    "options": [
-      "200000",
-      "500000",
-      "300000",
-      "400000"
+      "$85,000",
+      "$80,000",
+      "$100,000",
+      "$90,000"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company purchases a machine for $80,000 cash and a computer for $60,000 cash. The company's accounts year-end is 31 December. The trial balance as at 31 December 20XX shows a total debit balance of $250,000 and a total credit balance of $200,000. What is the effect on the balance of the trial balance?",
+    "question": "A company prepares its trial balance and discovers that the total debit balance is $200,000 and the total credit balance is $220,000. What is the reason for this discrepancy?",
     "options": [
-      "50000",
-      "-75000",
-      "-50000",
-      "-25000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's accounts year-end is 31 December. The company's cash flow statement for the year ended 31 December 20XX shows a net increase in cash of $400,000. The company's profit before tax for the year was $550,000. What is the company's cash flow from operating activities?",
-    "options": [
-      "1100000",
-      "1050000",
-      "900000",
-      "800000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's ledger account for wages shows a balance of $12,000 at the beginning of the year and a balance of $20,000 at the end of the year. What is the total wages paid by the company during the year?",
-    "options": [
-      "8000",
-      "6000",
-      "5000",
-      "4000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $400,000 and a net gain after tax of $250,000. What is the company's tax expense for the year?",
-    "options": [
-      "200000",
-      "100000",
-      "150000",
-      "300000"
+      "Error in accounts payable",
+      "Error in accounts receivable",
+      "Error in recording or classifying transactions",
+      "Error in trial balance"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $450,000 and a net gain after tax of $200,000. What is the company's tax expense for the year?",
+    "question": "A company has a capital account balance of $100,000 and a drawing account balance of $20,000. What is the net capital balance of the company?",
     "options": [
-      "300000",
-      "350000",
-      "250000",
-      "200000"
+      "$90,000",
+      "$85,000",
+      "$80,000",
+      "$75,000"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company's ledger account for depreciation shows a balance of $8,000 at the beginning of the year and a balance of $12,000 at the end of the year. What is the total depreciation charged by the company during the year?",
+    "question": "A company's financial statements are prepared in accordance with IFRS. What is the purpose of the Statement of Comprehensive Income?",
     "options": [
-      "5000",
-      "4000",
-      "2000",
-      "6000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $400,000 and a net gain after tax of $250,000. What is the company's tax expense for the year?",
-    "options": [
-      "300000",
-      "150000",
-      "100000",
-      "200000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $300,000 and a net gain after tax of $150,000. What is the company's tax expense for the year?",
-    "options": [
-      "100000",
-      "200000",
-      "250000",
-      "150000"
+      "To provide information about the entity's cash flows during the period",
+      "To provide information about the entity's financial position at the end of the period",
+      "To provide information about the changes in equity during the period",
+      "To provide information about the entity's comprehensive income for the period"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company's financial statements for the year ended 31 December 20XX show a profit before tax of $450,000 and a net gain after tax of $200,000. What is the company's tax expense for the year?",
+    "question": "A business entity uses the Allowance Method to account for bad debts. What is the purpose of the Allowance for Doubtful Accounts account?",
     "options": [
-      "200000",
-      "300000",
-      "250000",
-      "350000"
+      "To reflect the amount of bad debts written off",
+      "To reflect the estimated amount of bad debts",
+      "To reflect the amount of accounts receivable",
+      "To reflect the amount of accounts payable"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "A company purchases a machine for $60,000 cash and a computer for $40,000 cash. The company's accounts year-end is 31 December. The trial balance as at 31 December 20XX shows a total debit balance of $200,000 and a total credit balance of $150,000. What is the effect on the balance of the trial balance?",
+    "question": "A company purchases a machine for $50,000, paying $10,000 in cash and issuing a $40,000 note payable. What journal entry should be made to record the purchase?",
     "options": [
-      "50000",
-      "-25000",
-      "-50000",
-      "-75000"
+      "Debit Machine $50,000, Credit Note Payable $40,000",
+      "Debit Machine $50,000, Credit Cash $10,000, Credit Note Payable $40,000",
+      "Debit Cash $10,000, Credit Note Payable $40,000",
+      "Debit Machine $50,000, Credit Cash $10,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A sole trader's business has a cash account balance of $30,000, accounts receivable of $40,000, and accounts payable of $20,000. What is the net amount of cash available to the sole trader?",
+    "options": [
+      "$50,000",
+      "$45,000",
+      "$52,000",
+      "$48,000"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "A partnership agreement specifies that profits and losses are to be shared in the ratio 2:3. If the partnership's net income for the year is $180,000, what is the amount of net income allocated to Partner A?",
+    "options": [
+      "$65,000",
+      "$60,000",
+      "$50,000",
+      "$70,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business entity uses the Straight-Line Method to depreciate assets. What is the formula for calculating annual depreciation?",
+    "options": [
+      "Annual Depreciation = (Cost - Residual Value) / Number of Years",
+      "Annual Depreciation = (Cost - Residual Value) / Useful Life",
+      "Annual Depreciation = (Cost + Residual Value) / Useful Life",
+      "Annual Depreciation = (Cost + Residual Value) x Number of Years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company purchases a piece of equipment for $30,000, paying $10,000 in cash and issuing a $20,000 note payable. What journal entry should be made to record the purchase?",
+    "options": [
+      "Debit Equipment $30,000, Credit Note Payable $20,000",
+      "Debit Cash $10,000, Credit Note Payable $20,000",
+      "Debit Equipment $30,000, Credit Cash $10,000",
+      "Debit Equipment $30,000, Credit Cash $10,000, Credit Note Payable $20,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's Statement of Cash Flows reports that the company used $30,000 in cash for investing activities. What is the implication of this information?",
+    "options": [
+      "The company was involved in a significant investment during the period",
+      "The company's cash position improved during the period",
+      "The company was not involved in any significant investments during the period",
+      "The company's cash position deteriorated during the period"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has a long-term investment in shares of another company. What type of account should be used to record the dividend received from this investment?",
+    "options": [
+      "Cost of Goods Sold",
+      "Accumulated Depreciation",
+      "Investment Income",
+      "Prepaid Rent"
+    ],
+    "correctIndex": 2
   }
 ]

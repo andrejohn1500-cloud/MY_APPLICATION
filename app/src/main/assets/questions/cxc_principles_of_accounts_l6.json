@@ -1,152 +1,152 @@
 [
   {
-    "question": "A company's financial statements show the following: Net Income $80,000, Retained Earnings $120,000, Common Stock $200,000. What is the total equity of the company?",
+    "question": "A company purchases a piece of equipment for $10,000 cash, with a useful life of 5 years. The annual depreciation expense is $",
     "options": [
-      "$420,000",
-      "$440,000",
-      "$380,000",
-      "$400,000"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following financial statements provides a summary of a business's cash inflows and outflows over a specific period?",
-    "options": [
-      "Income statement",
-      "Cash flow statement",
-      "Balance sheet",
-      "Statement of cash flows"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a characteristic of a sole proprietorship?",
-    "options": [
-      "Limited liability",
-      "Ownership by two or more individuals",
-      "Ownership by one individual",
-      "Separate legal entity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following financial ratios is used to measure a business's profitability?",
-    "options": [
-      "Current ratio",
-      "Asset turnover ratio",
-      "Debt ratio",
-      "Return on equity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process of preparing financial statements in accordance with the going concern assumption?",
-    "options": [
-      "Accrual basis of accounting",
-      "Consistency",
-      "Materiality",
-      "Going concern"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A company has two partners, A and B, who share profits in the ratio 3:2. The company made a profit of $120,000. If A's share of profit is $54,000, what is B's share of profit?",
-    "options": [
-      "$48,000",
-      "$60,000",
-      "$24,000",
-      "$36,000"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a business's ability to meet its short-term obligations to creditors?",
-    "options": [
-      "Profitability",
-      "Solvency",
-      "Efficiency",
-      "Liquidity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A company purchases a piece of land for $100,000 and immediately sells it for $120,000. What is the gain on the sale of the land?",
-    "options": [
-      "$22,000",
-      "$20,000",
-      "$25,000",
-      "$18,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's financial statements show the following: Current Assets $50,000, Current Liabilities $30,000. What is the working capital of the company?",
-    "options": [
-      "$25,000",
-      "$30,000",
-      "$20,000",
-      "$35,000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The trial balance of a company shows the following accounts: Accounts Payable $15,000, Accounts Receivable $20,000, Sales Revenue $100,000. What is the total value of the company's assets?",
-    "options": [
-      "$135,000",
-      "$140,000",
-      "$110,000",
-      "$120,000"
+      "$2,000",
+      "$3,000",
+      "$1,000",
+      "$4,000"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A company's cash flow statement shows the following: Net Income $100,000, Depreciation $20,000. What is the net non-cash item on the statement?",
+    "question": "A partnership has two partners, A and B. Partner A invests $5,000 and Partner B invests $10,000. What is the capital ratio?",
     "options": [
-      "$30,000",
-      "$20,000",
-      "$25,000",
-      "$15,000"
+      "3:1",
+      "1:2",
+      "2:1",
+      "1:1"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A company has a credit balance of $10,000 in the Accounts Payable account. What is the effect on the Balance Sheet?",
+    "question": "A company purchases a piece of equipment for $10,000 cash, with a useful life of 5 years. The annual depreciation expense is $",
     "options": [
-      "Increase in assets",
-      "No effect",
-      "Decrease in assets",
-      "Increase in liabilities"
+      "$1,000",
+      "$2,000",
+      "$3,000",
+      "$4,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company purchases a piece of equipment for $10,000 cash, with a useful life of 5 years. The annual depreciation expense is $",
+    "options": [
+      "$4,000",
+      "$2,000",
+      "$3,000",
+      "$1,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company purchases a piece of equipment for $10,000 cash. Which of the following ledger accounts should be credited?",
+    "options": [
+      "Cash",
+      "Equipment",
+      "Salaries Expense",
+      "Accounts Payable"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a business's ability to meet its long-term obligations to creditors?",
+    "question": "A company purchases a piece of equipment for $10,000 cash. Which of the following ledger accounts should be debited?",
     "options": [
-      "Profitability",
-      "Efficiency",
-      "Solvency",
-      "Liquidity"
+      "Salaries Expense",
+      "Cash",
+      "Accounts Payable",
+      "Equipment"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A partnership has two partners, A and B. Partner A invests $5,000 and Partner B invests $10,000. What is the capital ratio?",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "3:1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company receives a cash dividend of $5,000 from an investor. Which of the following ledger accounts should be debited?",
+    "options": [
+      "Common Stock",
+      "Dividend",
+      "Cash",
+      "Accounts Receivable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company purchases a piece of equipment for $10,000 cash, with a useful life of 10 years. What is the annual depreciation expense?",
+    "options": [
+      "$5,000",
+      "$500",
+      "$1,000",
+      "$2,000"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company purchases a machine for $80,000 and depreciates it using the straight-line method over a useful life of 8 years. What is the annual depreciation charge?",
+    "question": "A company purchases a piece of equipment for $10,000 cash. Which of the following ledger accounts should be credited?",
     "options": [
-      "$9,500",
-      "$11,000",
-      "$10,000",
-      "$10,500"
+      "Salaries Expense",
+      "Equipment",
+      "Accounts Payable",
+      "Cash"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "A company uses the accruals basis of accounting and records the following transactions: (1) Purchased office supplies for $1,000, (2) Sold goods for $10,000, (3) Incurred salaries expense of $5,000. What is the total net income for the period?",
+    "question": "A company sells goods to a customer for $10,000 cash. Which of the following ledger accounts should be debited?",
     "options": [
-      "$5,500",
-      "$6,500",
-      "$6,000",
-      "$7,000"
+      "Cash",
+      "Sales",
+      "Accounts Payable",
+      "Cost of Goods Sold"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
+  },
+  {
+    "question": "The double entry system requires that for every debit in a transaction, there should be a corresponding ",
+    "options": [
+      "credit",
+      "asset",
+      "liability",
+      "debit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A partnership has three partners, A, B, and C. Partner A invests $5,000, Partner B invests $10,000, and Partner C invests $15,000. What is the capital ratio?",
+    "options": [
+      "1:2:3",
+      "2:1:1",
+      "3:2:1",
+      "1:1:1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a trial balance?",
+    "options": [
+      "To prepare the financial statements",
+      "To record transactions",
+      "To verify the accuracy of the accounting equation",
+      "To ensure that the total of debits equals the total of credits"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company sells goods to a customer for $10,000 cash. Which of the following ledger accounts should be debited?",
+    "options": [
+      "Sales",
+      "Cost of Goods Sold",
+      "Accounts Payable",
+      "Cash"
+    ],
+    "correctIndex": 0
   }
 ]

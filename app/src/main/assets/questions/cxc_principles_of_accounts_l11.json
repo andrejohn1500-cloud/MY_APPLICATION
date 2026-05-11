@@ -1,152 +1,152 @@
 [
   {
-    "question": "A company uses the perpetual inventory system and records the following transactions: (1) Purchased inventory for $10,000, (2) Sold inventory for $15,000. What is the net income for the period?",
+    "question": "A company sells goods for $100,000 cash. The cost of goods sold is $80,000. Calculate the gross profit.",
     "options": [
-      "$5,000",
-      "$6,000",
-      "$7,000",
-      "$4,000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company uses the perpetual inventory system and records the following transactions: (1) Purchased inventory for $10,000, (2) Sold inventory for $15,000. What is the net income for the period?",
-    "options": [
-      "$6,000",
-      "$5,000",
-      "$7,000",
-      "$4,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's financial year-end is 31 December. The company's cash flow statement for the year ended 31 December 20XX shows a net increase in cash of $200,000. The company's profit before tax for the year was $500,000. What is the company's cash flow from operating activities?",
-    "options": [
-      "900000",
-      "700000",
-      "800000",
-      "600000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company has a credit balance of $10,000 in the Accounts Payable account. What is the effect on the Balance Sheet?",
-    "options": [
-      "Decrease in assets",
-      "Increase in assets",
-      "Increase in liabilities",
-      "No effect"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company has a credit balance of $10,000 in the Retained Earnings account. What is the effect on the Balance Sheet?",
-    "options": [
-      "Increase in equity",
-      "No effect",
-      "Decrease in equity",
-      "Increase in liabilities"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company uses the accruals basis of accounting and records the following transactions: (1) Sold goods for $10,000, (2) Incurred salaries expense of $5,000. What is the total net income for the period?",
-    "options": [
-      "$4,500",
-      "$5,000",
-      "$7,000",
-      "$6,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's accounts year-end is 31 December. The trial balance as at 31 December 20XX-1 is to be adjusted for the following errors: (a) an expense of $12,000 was omitted from the accounts, (b) an asset of $15,000 was undervalued, and (c) an asset of $6,000 was overvalued by $3,000. What is the effect on the balance of the trial balance?",
-    "options": [
-      "12000",
-      "-18000",
-      "-15000",
-      "-9000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company's financial statements show the following: Current Assets $50,000, Current Liabilities $30,000. What is the working capital of the company?",
-    "options": [
+      "$30,000",
+      "$15,000",
       "$20,000",
-      "$25,000",
-      "$35,000",
-      "$30,000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company has a credit balance of $10,000 in the Accounts Payable account. What is the effect on the Balance Sheet?",
-    "options": [
-      "Decrease in assets",
-      "Increase in liabilities",
-      "Increase in assets",
-      "No effect"
+      "$25,000"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company's financial statements show the following: Current Assets $50,000, Current Liabilities $30,000. What is the working capital of the company?",
+    "question": "A company issues 1,000 shares of $10 par value at $15 per share. Calculate the amount received from the issue of shares.",
     "options": [
-      "$35,000",
       "$20,000",
-      "$30,000",
-      "$25,000"
+      "$10,000",
+      "$15,000",
+      "$12,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company purchases equipment for $100,000 cash. The equipment has an estimated useful life of 5 years and a residual value of $10,000. Calculate the annual depreciation using the straight-line method.",
+    "options": [
+      "$12,000",
+      "$18,000",
+      "$15,000",
+      "$20,000"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A company purchases a machine for $120,000 cash. The machine is expected to have a useful life of 5 years and a residual value of $20,000. The company uses the straight-line method of depreciation. What is the annual depreciation charge?",
+    "question": "A company purchases a building for $200,000 cash. The building has an estimated useful life of 10 years and a residual value of $20,000. Calculate the annual depreciation using the reducing balance method.",
     "options": [
-      "8000",
-      "40000",
-      "16000",
-      "24000"
+      "$20,800",
+      "$15,000",
+      "$20,000",
+      "$12,000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has a cash balance of $10,000 on January 1. During the year, it has a net cash inflow of $50,000. Calculate the cash balance on December 31.",
+    "options": [
+      "$50,000",
+      "$65,000",
+      "$55,000",
+      "$60,000"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company purchases inventory for $10,000 and immediately sells it for $15,000. What is the gross profit?",
+    "question": "What is the formula for calculating the cash inflow from operating activities using the direct method?",
     "options": [
-      "$4,000",
-      "$5,000",
-      "$7,000",
-      "$6,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company purchases a machine for $80,000 and depreciates it using the straight-line method over a useful life of 8 years. What is the accumulated depreciation after 2 years?",
-    "options": [
-      "$10,500",
-      "$9,500",
-      "$10,000",
-      "$11,000"
+      "Net cash inflow from operating activities = Cash payments - Cash receipts",
+      "Net cash inflow from operating activities = Cash payments + Cash receipts",
+      "Net cash inflow from operating activities = Cash receipts - Cash payments",
+      "Net cash inflow from operating activities = Cash receipts + Cash payments"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company purchases a machine for $80,000 and depreciates it using the double-declining balance method over a useful life of 8 years. What is the accumulated depreciation after 2 years?",
+    "question": "A partnership has two partners, A and B. The profit-sharing ratio is 3:2. If the profit for the year is $150,000, what amount will partner A receive?",
     "options": [
-      "$14,000",
-      "$15,625",
-      "$16,000",
-      "$17,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company's cash flow statement shows the following: Net Cash Flow from Operating Activities $100,000, Net Cash Flow from Investing Activities $20,000. What is the net cash flow from financing activities?",
-    "options": [
-      "$100,000",
-      "$80,000",
-      "$70,000",
+      "$150,000",
+      "$120,000",
+      "$135,000",
       "$90,000"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "A partnership has two partners, A and B. Partner A withdraws $20,000 during the year. If the profit for the year is $150,000, what amount will partner B receive?",
+    "options": [
+      "$120,000",
+      "$140,000",
+      "$160,000",
+      "$130,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the accounting concept of prudence?",
+    "options": [
+      "The accounting concept of prudence is the same as the accounting concept of accruals",
+      "The accounting concept of prudence is the same as the accounting concept of matching principle",
+      "The principle of being cautious and avoiding over-estimation of assets and revenues, and under-estimation of liabilities and expenses",
+      "The accounting concept of prudence is the same as the accounting concept of going concern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company purchases equipment for $100,000 cash. The equipment has an estimated useful life of 5 years and a residual value of $10,000. Calculate the total depreciation over the useful life of the equipment using the straight-line method.",
+    "options": [
+      "$20,000",
+      "$12,000",
+      "$18,000",
+      "$15,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the accounting concept of materiality?",
+    "options": [
+      "The accounting concept of materiality is the same as the accounting concept of matching principle",
+      "The accounting concept of materiality is the same as the accounting concept of accruals",
+      "The principle of considering an item as material if its omission or misstatement could influence the decisions of users of financial statements",
+      "The accounting concept of materiality is the same as the accounting concept of prudence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company issues 1,000 shares of $10 par value at $15 per share. Calculate the amount received from the issue of shares.",
+    "options": [
+      "$12,000",
+      "$10,000",
+      "$20,000",
+      "$15,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company purchases equipment for $100,000 cash. The equipment has an estimated useful life of 5 years and a residual value of $10,000. Calculate the annual depreciation using the reducing balance method.",
+    "options": [
+      "$18,000",
+      "$15,000",
+      "$19,600",
+      "$20,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company purchases a piece of equipment for $10,000 cash, with a useful life of 5 years. The salvage value is $2,000. What is the book value at the end of year 5?",
+    "options": [
+      "$1,000",
+      "$3,000",
+      "$2,000",
+      "$0"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the accounting concept of matching principle?",
+    "options": [
+      "The principle of recognizing expenses and revenues when earned, regardless of the timing of cash flows",
+      "The accounting concept of matching principle is the same as the accounting concept of materiality",
+      "The accounting concept of matching principle is the same as the accounting concept of accruals",
+      "The accounting concept of matching principle is the same as the accounting concept of going concern"
+    ],
+    "correctIndex": 0
   }
 ]

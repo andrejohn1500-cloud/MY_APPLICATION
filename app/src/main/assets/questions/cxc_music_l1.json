@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for a sequence of notes that move in a smooth, flowing manner?",
+    "question": "Which of the following is an example of a musical texture?",
     "options": [
-      "Staccato",
-      "Accent",
-      "Articulation",
-      "Legato"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In music notation, what is the symbol used to indicate a sharp?",
-    "options": [
-      "b",
-      "X",
-      "/",
-      "#"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which type of rhythm is characterized by three equal pulses?",
-    "options": [
-      "Triple rhythm",
-      "Compound duple rhythm",
-      "Compound rhythm",
-      "Duple rhythm"
+      "Homophony",
+      "Polyphony",
+      "Monophony",
+      "Heterophony"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following musical instruments is used to produce a bright, ringing sound?",
+    "question": "Which of the following musical forms is characterized by the repetition of a theme with slight variations?",
     "options": [
-      "Piano",
-      "Guitar",
+      "Rondo form",
+      "Binary form",
+      "Sonata form",
+      "Theme and variation form"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following instruments is commonly used in calypso music?",
+    "options": [
+      "Horn",
+      "Percussion",
       "Steelpan",
       "Drums"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In music notation, what is the symbol used to indicate a silence?",
+    "question": "Which of the following musical forms is characterized by the use of a fast tempo and a complex rhythm?",
     "options": [
-      "X or a dot within a circle",
-      "-",
-      "X",
-      "O"
+      "Waltz",
+      "Adagio",
+      "Minuet",
+      "Largo"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for a musical phrase that is repeated, but with some changes?",
+    "question": "Which of the following musical forms is characterized by the use of a series of variations on a theme in different keys?",
     "options": [
-      "Developing variation",
-      "Variation",
-      "Repeat",
-      "Theme"
+      "Sonata form",
+      "Theme and variation form",
+      "Rondo form",
+      "Binary form"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a musical phrase that is repeated exactly, with some changes in dynamics or articulation?",
+    "question": "What is the primary function of a time signature in music notation?",
     "options": [
-      "Variation",
-      "Developing variation",
-      "Repeat",
-      "Theme"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following musical instruments is used to produce a soft, mellow sound?",
-    "options": [
-      "Violin",
-      "Trumpet",
-      "French horn",
-      "Trombone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which clef is used to notate music for the lower-pitched instruments?",
-    "options": [
-      "Tenor clef",
-      "Treble clef",
-      "Alto clef",
-      "Bass clef"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a repetition of a musical idea?",
-    "options": [
-      "Repeat",
-      "Developing variation",
-      "Theme",
-      "Variation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a musical phrase that is repeated, but with some changes, and then returns to the original phrase?",
-    "options": [
-      "Theme",
-      "Variation",
-      "Repeat",
-      "Developing variation"
+      "To indicate the dynamics of a piece",
+      "To indicate the key of a piece",
+      "To indicate the tempo of a piece",
+      "To indicate the rhythmic pulse and meter of a piece"
     ],
     "correctIndex": 3
   },
   {
     "question": "What is the term for the combination of two or more pitches sounding simultaneously?",
     "options": [
+      "Harmony",
       "Melody",
-      "Counter melody",
-      "Counterpoint",
-      "Harmony"
+      "Timbre",
+      "Rhythm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a melodic pattern?",
+    "options": [
+      "Rhythm",
+      "Texture",
+      "Harmony",
+      "Repeat"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the study of the way music sounds?",
+    "question": "What is the term for the repetition of a pattern of notes or rhythms?",
     "options": [
-      "Composition",
-      "Aural skills",
-      "Musicology",
-      "Music theory"
+      "Ostinato",
+      "Canon",
+      "Motif",
+      "Theme and variation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in reggae music?",
+    "options": [
+      "Percussion",
+      "Drums",
+      "Keyboards",
+      "Bass guitar"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following musical instruments is used to produce a high-pitched, bright sound?",
+    "question": "Which of the following is an example of a musical instrument?",
     "options": [
-      "French horn",
-      "Trombone",
-      "Trumpet",
-      "Violin"
+      "Piano",
+      "Conductor's baton",
+      "Violin",
+      "Sheet music"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a musical idea that is repeated, but with some changes, and then returns to the original idea, with some changes?",
+    "question": "What is the primary function of a rhythm section in music?",
     "options": [
-      "Rondo form",
-      "Theme and variations",
-      "Sonata form",
-      "Fugue"
+      "To provide harmony",
+      "To provide melody",
+      "To provide texture",
+      "To provide a rhythmic foundation for a piece"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a rhythm in music?",
+    "options": [
+      "To provide melody",
+      "To provide texture",
+      "To provide a sense of pulse and meter",
+      "To provide harmony"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a melody in music?",
+    "options": [
+      "To provide texture",
+      "To provide rhythm",
+      "To provide the main theme or tune of a piece",
+      "To provide harmony"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the difference between a bar line and a rest?",
+    "options": [
+      "A bar line is used to indicate the beginning of a measure, while a rest is used to indicate the beginning of a new section",
+      "A bar line separates measures, while a rest represents silence",
+      "A bar line is used to indicate the end of a measure, while a rest is used to indicate the end of a piece",
+      "A bar line represents silence, while a rest separates measures"
+    ],
+    "correctIndex": 1
   }
 ]

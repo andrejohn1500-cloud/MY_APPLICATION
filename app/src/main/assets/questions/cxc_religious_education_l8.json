@@ -1,131 +1,41 @@
 [
   {
-    "question": "In which of the following African traditional religions is the supreme being known as Olodumare?",
+    "question": "The concept of 'Sankofa' is most closely associated with which African religious tradition?",
     "options": [
+      "Igbo",
       "Yoruba",
       "Zulu",
-      "Maasai",
-      "Asante"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Who is the primary author of the Quran?",
-    "options": [
-      "The angel Gabriel",
-      "God",
-      "Muhammad",
-      "Ali"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the significance of the concept of 'Tawhid' in Islam?",
-    "options": [
-      "It is the multiplicity and diversity of gods, which is the central doctrine of Hinduism",
-      "It is the power and authority of human beings, which is the central doctrine of Christianity",
-      "It is the existence of a supernatural being that controls human destiny, which is the central doctrine of Buddhism",
-      "It is the oneness and unity of God, which is the central doctrine of Islam"
+      "Akan"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the significance of the Bhagavad Gita in Hinduism?",
+    "question": "Which Caribbean religion has a strong emphasis on music and dance?",
     "options": [
-      "It is a historical account of the life of a Hindu saint",
-      "It is a sacred scripture that contains teachings on spiritual growth and self-realization",
-      "It is a guide for Hindu worship and ritual",
-      "It is a collection of myths and legends"
+      "Shango",
+      "Myalism",
+      "Obeah",
+      "Pocomania"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of 'Ubuntu' is most closely associated with which African philosophy?",
+    "options": [
+      "Existentialism",
+      "Humanism",
+      "Absurdism",
+      "Nihilism"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Who is the main figure in the Christian story of redemption?",
+    "question": "The 'Qur'an' is a collection of texts that are most closely associated with which religion?",
     "options": [
-      "The Holy Spirit",
-      "Jesus Christ",
-      "The prophets",
-      "God"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Who is the primary prophet of the Baha'i faith?",
-    "options": [
-      "Muhammad",
-      "Baha'u'llah",
-      "Jesus Christ",
-      "Abdul-Baha"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the significance of the concept of 'Ahimsa' in Buddhism?",
-    "options": [
-      "It is a principle of violence and aggression that guides an individual's actions and decisions",
-      "It is a principle of non-violence and compassion that guides an individual's actions and decisions",
-      "It is a principle of individualism and self-interest that guides an individual's actions and decisions",
-      "It is a principle of materialism and consumerism that guides an individual's actions and decisions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In which of the following Caribbean religions is the concept of the 'Loa' prominent?",
-    "options": [
-      "Vodou",
       "Christianity",
-      "Islam",
-      "West African traditional religions"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the significance of the concept of 'Karma' in Buddhism?",
-    "options": [
-      "It is a belief in the power of prayer and rituals to influence fate",
-      "It is a belief in the law of cause and effect that determines an individual's fate in this life and the next",
-      "It is a belief in the importance of social hierarchy and class",
-      "It is a belief in the existence of a supernatural being that controls human destiny"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the significance of the concept of 'Dharma' in Hinduism?",
-    "options": [
-      "It is a system of governance that emphasizes the power of the state",
-      "It is a way of life that emphasizes material wealth and social status",
-      "It is a set of rituals and practices that ensure spiritual growth and self-realization",
-      "It is a code of conduct and moral principles that guide an individual's actions and decisions"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Who is the main figure in the Christian story of salvation?",
-    "options": [
-      "Jesus Christ",
-      "The prophets",
-      "The Holy Spirit",
-      "God"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Who is the main author of the Christian Bible?",
-    "options": [
-      "The apostles",
-      "The Holy Spirit",
-      "Jesus Christ",
-      "God"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the significance of the concept of karma in Hinduism?",
-    "options": [
-      "It is a belief in the importance of social hierarchy and class",
-      "It is a belief in the existence of a supernatural being that controls human destiny",
-      "It is a belief in the power of prayer and rituals to influence fate",
-      "It is a belief in the law of cause and effect that determines an individual's fate in this life and the next"
+      "Hinduism",
+      "Buddhism",
+      "Islam"
     ],
     "correctIndex": 3
   }

@@ -1,62 +1,72 @@
 [
   {
-    "question": "The Spanish word for 'to eat' is...",
+    "question": "How do you say 'my house' in Spanish?",
     "options": [
-      "Sentir",
-      "Hacer",
-      "Beb\u00e9",
-      "Comer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The verb 'to go' in the preterite tense is...",
-    "options": [
-      "Voy",
-      "Vente",
-      "Fuem",
-      "Fui"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The Spanish word for 'to study' is...",
-    "options": [
-      "Estudiar",
-      "Aprender",
-      "Aprender",
-      "Aprender"
+      "mi casa",
+      "mi vecino",
+      "mi familia",
+      "mi amigo"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In Spanish, what is the correct form of the verb 'to be' in the present tense for 'I am'?",
+    "question": "How do you say 'my family' in Spanish?",
     "options": [
-      "Es",
-      "Soy",
-      "Eres",
-      "Somos"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the Spanish dish made from potatoes, chorizo, and onions?",
-    "options": [
-      "Chopito",
-      "Patatas bravas",
-      "Paella",
-      "Tortilla espa\u00f1ola"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the famous Spanish poet of 'Canciones y danzas'?",
-    "options": [
-      "Federico Garc\u00eda Lorca",
-      "Camilo Jos\u00e9 Cela",
-      "Miguel de Cervantes",
-      "Juan Ram\u00f3n Jim\u00e9nez"
+      "mi familia",
+      "mi amigo",
+      "mi hermano",
+      "mi casa"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "How do you say 'I am happy to see you' in Spanish?",
+    "options": [
+      "Me gusta verte",
+      "Te amo",
+      "Me encanta verte",
+      "Estoy feliz de verte"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct way to say 'I am tired' in Spanish?",
+    "options": [
+      "Me canso",
+      "Me duele",
+      "Estoy cansado",
+      "Soy cansado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How do you say 'I am from Mexico' in Spanish?",
+    "options": [
+      "Me gusta M\u00e9xico",
+      "Vivo en M\u00e9xico",
+      "Escribo en M\u00e9xico",
+      "Soy de M\u00e9xico"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the phrase 'tomar el sol' mean in Spanish?",
+    "options": [
+      "to take a shower",
+      "to take a nap",
+      "to take a bath",
+      "to take a sunbath"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does the phrase 'a lo mejor' mean in Spanish?",
+    "options": [
+      "today",
+      "never",
+      "maybe",
+      "always"
+    ],
+    "correctIndex": 2
   }
 ]

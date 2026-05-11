@@ -1,152 +1,152 @@
 [
   {
-    "question": "A 5 uF capacitor is charged to a potential difference of 10 V. What is the charge on the capacitor?",
+    "question": "A 500 W electric heater is used to heat water at a rate of 2 kg/min. What is the temperature rise of the water if the specific heat capacity of water is 4186 J/kg\u00b0C?",
     "options": [
-      "20 uC",
-      "40 uC",
-      "50 uC",
-      "30 uC"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 100 W electric heater is connected to a 200 V supply. What is the current flowing through the heater?",
-    "options": [
-      "0.4 A",
-      "0.5 A",
-      "0.6 A",
-      "0.8 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 100 W electric heater is connected to a 200 V supply. What is the resistance of the heater?",
-    "options": [
-      "2 ohms",
-      "4 ohms",
-      "1.5 ohms",
-      "3 ohms"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 50 kg object is lifted to a height of 10 m. What is its potential energy?",
-    "options": [
-      "4800 J",
-      "5200 J",
-      "5000 J",
-      "4900 J"
+      "23.4 \u00b0C",
+      "15.6 \u00b0C",
+      "56.3 \u00b0C",
+      "38.8 \u00b0C"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 0.5 kg block is moving with a velocity of 2 m/s. What is its kinetic energy?",
+    "question": "A 100 \u03bcF capacitor is connected in series with a 200 \u03a9 resistor and a 250 V DC source. What is the charge on the capacitor?",
     "options": [
-      "4 J",
-      "3 J",
-      "2 J",
-      "1 J"
+      "2.14 C",
+      "1.57 C",
+      "0.314 C",
+      "0.157 C"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 10 m long pendulum is oscillating with a frequency of 1 Hz. What is its period?",
+    "question": "A 5 kg block is moving with an initial velocity of 8 m/s. If the block is subjected to a force of 20 N in the opposite direction of the motion, what is the acceleration of the block after 4 seconds?",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "-1.5 m/s^2",
+      "-0.5 m/s^2",
+      "-1 m/s^2",
+      "-2 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A body is moving in a uniform circular motion with a radius of 4 m and a centripetal acceleration of 1.5 m/s^2. What is its velocity?",
+    "question": "A 20 \u03a9 resistor is connected in series with a 10 \u03a9 resistor and a 50 \u03a9 resistor. What is the equivalent resistance of the circuit?",
     "options": [
-      "B",
-      "A",
-      "C",
-      "D"
+      "15 \u03a9",
+      "30 \u03a9",
+      "10 \u03a9",
+      "25 \u03a9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 10 kg block is moving with an initial velocity of 8 m/s. If the block is subjected to a force of 20 N in the opposite direction of the motion, what is the acceleration of the block after 4 seconds?",
+    "options": [
+      "-1 m/s^2",
+      "-0.5 m/s^2",
+      "-1.5 m/s^2",
+      "-2 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 20 \u03a9 resistor is connected in parallel with a 10 \u03a9 resistor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "15 \u03a9",
+      "6.67 \u03a9",
+      "10 \u03a9",
+      "20 \u03a9"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 5 kg object is moving with a velocity of 10 m/s. What is its momentum?",
+    "question": "A 10 kg block is moving with an initial velocity of 2 m/s. If the block is subjected to a force of 15 N in the opposite direction of the motion, what is the acceleration of the block after 3 seconds?",
     "options": [
-      "60 kg m/s",
-      "50 kg m/s",
-      "40 kg m/s",
-      "70 kg m/s"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A block of ice floats in water. What is the buoyant force acting on the block?",
-    "options": [
-      "less than the weight of the block",
-      "greater than the weight of the block",
-      "equal to the weight of the displaced water",
-      "equal to the weight of the block minus the weight of the block's volume of water"
+      "-0.75 m/s^2",
+      "-0.25 m/s^2",
+      "-0.5 m/s^2",
+      "-1.25 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 10 kg object is attached to a horizontal rope and is whirled around in a circle with a radius of 2 m. What is the tension in the rope?",
+    "question": "A 5 kg block is moving with an initial velocity of 8 m/s. If the block is subjected to a force of 20 N in the opposite direction of the motion, what is the acceleration of the block after 2 seconds?",
     "options": [
-      "30 N",
-      "15 N",
-      "25 N",
-      "20 N"
+      "-1 m/s^2",
+      "-0.5 m/s^2",
+      "-2 m/s^2",
+      "-1.5 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 5 kg block is moving with an initial velocity of 2 m/s. If the block is subjected to a force of 15 N in the opposite direction of the motion, what is the acceleration of the block after 3 seconds?",
+    "options": [
+      "-0.5 m/s^2",
+      "-0.33 m/s^2",
+      "-1.67 m/s^2",
+      "-0.67 m/s^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 5 uF capacitor is charged to a potential difference of 20 V. What is the energy stored in the capacitor?",
+    "question": "A wave with a frequency of 50 Hz and a speed of 320 m/s is traveling in the positive x-direction. If the amplitude of the wave is 2 cm, what is the intensity of the wave?",
     "options": [
-      "200 J",
-      "150 J",
-      "300 J",
-      "250 J"
+      "8 W/m^2",
+      "24 W/m^2",
+      "16 W/m^2",
+      "32 W/m^2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 20 \u03a9 resistor is connected in series with a 10 \u03a9 resistor and a 50 \u03a9 resistor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "30 \u03a9",
+      "10 \u03a9",
+      "15 \u03a9",
+      "25 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 100 \u03bcF capacitor is connected in series with a 200 \u03a9 resistor and a 250 V DC source. What is the charge on the capacitor after 5 seconds?",
+    "options": [
+      "0.157 A",
+      "2.14 A",
+      "0.314 A",
+      "1.57 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 1000 Hz sound wave is traveling in air at a speed of 343 m/s. What is the frequency of the sound wave?",
+    "options": [
+      "500 Hz",
+      "1500 Hz",
+      "1000 Hz",
+      "2000 Hz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 5 kg block is moving with an initial velocity of 5 m/s. If the block is subjected to a force of 10 N in the opposite direction of the motion, what is the acceleration of the block after 2 seconds?",
+    "options": [
+      "-0.8 m/s^2",
+      "-0.1 m/s^2",
+      "0.2 m/s^2",
+      "-0.5 m/s^2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 1000 Hz sound wave is traveling in air at a speed of 343 m/s. What is the wavelength of the sound wave as heard by an observer moving away from the source at a speed of 10 m/s?",
+    "options": [
+      "4.57 m",
+      "3.29 m",
+      "6.86 m",
+      "5.71 m"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "A 10 kg object is lifted to a height of 15 m. What is its potential energy?",
-    "options": [
-      "1650 J",
-      "1575 J",
-      "1500 J",
-      "1750 J"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 5 uF capacitor is connected in series to a 10 uF capacitor. What is the equivalent capacitance?",
-    "options": [
-      "5 uF",
-      "6.67 uF",
-      "3.33 uF",
-      "8.33 uF"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 50 Hz tuning fork is held near a stationary string. What is the frequency of the first harmonic produced?",
-    "options": [
-      "25 Hz",
-      "50 Hz",
-      "100 Hz",
-      "75 Hz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 5 uF capacitor is charged to a potential difference of 10 V. What is the charge on the capacitor?",
-    "options": [
-      "20 uC",
-      "50 uC",
-      "30 uC",
-      "40 uC"
-    ],
-    "correctIndex": 1
   }
 ]

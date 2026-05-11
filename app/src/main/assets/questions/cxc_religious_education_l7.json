@@ -1,36 +1,96 @@
 [
   {
-    "question": "In which of the following African traditional religions is the concept of the 'Amen' prominent?",
+    "question": "Which Caribbean religion has a strong emphasis on possession and trance?",
     "options": [
-      "Asante",
-      "Zulu",
-      "Yoruba",
-      "Maasai"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Who is the main figure in the Hindu epic of the Mahabharata?",
-    "options": [
-      "Buddha",
-      "Rama",
-      "Krishna",
-      "Arjuna"
+      "Myalism",
+      "Shango",
+      "Obeah",
+      "Pocomania"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the significance of the concept of 'Asa' in African traditional religions?",
+    "question": "The concept of 'Apartheid' is most closely associated with which social issue?",
     "options": [
-      "It refers to the power and authority of the divine",
-      "It refers to the power and authority of human beings",
-      "It refers to the power and authority of the ancestors",
-      "It refers to the power and authority of the spirits"
+      "Corruption",
+      "Discrimination",
+      "Inequality",
+      "Poverty"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'Jihad' is most closely associated with which aspect of Islam?",
+    "options": [
+      "Economic struggle",
+      "Spiritual struggle",
+      "Physical combat",
+      "Social struggle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'Ubuntu' is most closely associated with which aspect of African philosophy?",
+    "options": [
+      "Existentialism",
+      "Absurdism",
+      "Humanism",
+      "Nihilism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'Dharma' is most closely associated with which aspect of Hinduism?",
+    "options": [
+      "Spiritual practice",
+      "Moral duty",
+      "Economic practice",
+      "Social practice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'Dharma' is most closely associated with which aspect of Hinduism?",
+    "options": [
+      "Moral duty",
+      "Spiritual practice",
+      "Social practice",
+      "Economic practice"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In which of the following world religions is the concept of the 'Afterlife' prominent?",
+    "question": "Which Hindu text is considered to be a key source of mythology and legend?",
+    "options": [
+      "The Puranas",
+      "The Vedas",
+      "The Upanishads",
+      "The Bhagavad Gita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which African deity is often associated with the earth and fertility?",
+    "options": [
+      "Yemaya",
+      "Eshu",
+      "Oya",
+      "Shango"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean religion has a strong emphasis on possession and trance?",
+    "options": [
+      "Pocomania",
+      "Myalism",
+      "Shango",
+      "Obeah"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The 'Pentateuch' is a collection of texts that are most closely associated with which religion?",
     "options": [
       "Christianity",
       "Buddhism",
@@ -40,113 +100,53 @@
     "correctIndex": 0
   },
   {
-    "question": "What is the significance of the concept of dharma in Hinduism?",
+    "question": "Which African deity is often associated with the wind and the air?",
     "options": [
-      "It is a system of governance that emphasizes the power of the state",
-      "It is a code of conduct and moral principles that guide an individual's actions and decisions",
-      "It is a set of rituals and practices that ensure spiritual growth and self-realization",
-      "It is a way of life that emphasizes material wealth and social status"
+      "Yemaya",
+      "Eshu",
+      "Oya",
+      "Shango"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the significance of the concept of the 'Self' in Hinduism?",
+    "question": "The concept of 'Tawhid' is most closely associated with which aspect of Islam?",
     "options": [
-      "It is a central concept that refers to the individual's true nature and ultimate reality",
-      "It is a concept that refers to the individual's social status and power",
-      "It is a concept that refers to the individual's relationships and community",
-      "It is a concept that refers to the individual's material possessions and wealth"
+      "Monotheism",
+      "Pantheism",
+      "Polytheism",
+      "Monism"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Who is the main figure in the Hindu epic of the Ramayana?",
+    "question": "The concept of 'Ubuntu' is most closely associated with which social issue?",
     "options": [
-      "Sita",
-      "Krishna",
-      "Buddha",
-      "Rama"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Who is the main figure in the Islamic story of the Last Judgment?",
-    "options": [
-      "The angel Gabriel",
-      "Muhammad",
-      "The prophet Abraham",
-      "Jesus Christ"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Who is the primary author of the Buddhist scripture, the Dhammapada?",
-    "options": [
-      "The Buddha",
-      "The early Buddhist community",
-      "The Indian king, Ashoka",
-      "The apostles"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In which of the following world religions is the concept of 'Jihad' prominent?",
-    "options": [
-      "Buddhism",
-      "Islam",
-      "Christianity",
-      "Hinduism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the significance of the concept of 'Tawhid' in Sufism?",
-    "options": [
-      "It is the power and authority of human beings, which is the central doctrine of Christianity",
-      "It is the oneness and unity of God, which is the central doctrine of Sufism",
-      "It is the multiplicity and diversity of gods, which is the central doctrine of Hinduism",
-      "It is the existence of a supernatural being that controls human destiny, which is the central doctrine of Buddhism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In which of the following Caribbean religions is the concept of the 'Loa' used for healing and protection?",
-    "options": [
-      "Christianity",
-      "West African traditional religions",
-      "Islam",
-      "Vodou"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In which of the following African traditional religions is the concept of the 'High God' prominent?",
-    "options": [
-      "Zulu",
-      "Maasai",
-      "Yoruba",
-      "Asante"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a key concept in Sufism?",
-    "options": [
-      "Hadith",
-      "Sharia",
-      "Sunna",
-      "Tawhid"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In which of the following Caribbean religions is the concept of obeah prominent?",
-    "options": [
-      "Hinduism",
-      "Christianity",
-      "West African traditional religions",
-      "Islam"
+      "Political freedom",
+      "Economic equality",
+      "Social justice",
+      "Environmental sustainability"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'Sankofa' is most closely associated with which aspect of African religious traditions?",
+    "options": [
+      "Belief in reincarnation",
+      "Respect for the dead",
+      "Respect for the past",
+      "Belief in the afterlife"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Hindu deity is often associated with the destruction of evil and the maintenance of cosmic order?",
+    "options": [
+      "Brahma",
+      "Vishnu",
+      "Kali",
+      "Shiva"
+    ],
+    "correctIndex": 3
   }
 ]

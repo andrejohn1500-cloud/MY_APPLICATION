@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does the phrase 'tom\u00e9 un caf\u00e9' mean in Spanish?",
+    "question": "\u00bfPuedes explicarme el significado de la palabra 'futuro'?",
     "options": [
-      "I drink coffee",
-      "I took a coffee",
-      "I had a coffee",
-      "I like coffee"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the famous Spanish festival celebrated in Madrid?",
-    "options": [
-      "Tomatina",
-      "La Merc\u00e8",
-      "Las Fallas",
-      "Semana Santa"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Spanish word for 'to learn' is...",
-    "options": [
-      "Aprender",
-      "Leer",
-      "Escribir",
-      "Estudiar"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The verb 'to be' in the past tense for 'I was' is...",
-    "options": [
-      "Es",
-      "Soy",
-      "Eres",
-      "Fui"
+      "pasado",
+      "tiempo",
+      "presente",
+      "future"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The verb 'to be' in the present tense for 'we are' is...",
+    "question": "What is the meaning of 'fiesta'?",
     "options": [
-      "Somos",
-      "Es",
-      "Soy",
-      "Eres"
+      "party",
+      "holiday",
+      "celebration",
+      "gathering"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the phrase '\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?' mean in Spanish?",
+    "question": "\u00bfCu\u00e1l es la capital de Colombia?",
     "options": [
-      "Is the bathroom here?",
-      "What is the bathroom?",
-      "Where is the bathroom?",
-      "How is the bathroom?"
+      "Bogot\u00e1",
+      "Cartagena",
+      "Medell\u00edn",
+      "Cali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence: Me encanta _____.",
+    "options": [
+      "ver pel\u00edculas",
+      "beber caf\u00e9",
+      "leer libros",
+      "escuchar m\u00fasica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a person who is not a native speaker of Spanish?",
+    "options": [
+      "no hispanohablante",
+      "hispano",
+      "americano",
+      "latino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "\u00bfMe podr\u00edas prestar tu l\u00e1piz por favor? translates to English as _____.",
+    "options": [
+      "I lend your pencil, please.",
+      "Lend me your pencil, please.",
+      "Can you lend me your pencil, please?",
+      "Will you lend me your pencil, please?"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Spanish word for 'to ride' is...",
+    "question": "Complete the sentence: Me encanta _____.",
     "options": [
-      "Montar",
-      "Correr",
-      "Nadar",
-      "Saltar"
+      "escuchar m\u00fasica",
+      "beber caf\u00e9",
+      "leer libros",
+      "caminar por la playa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "\u00bfPuedes explicarme el significado de la palabra 'sol'?",
+    "options": [
+      "moon",
+      "sunset",
+      "sun",
+      "sunrise"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a Spanish conversation, \u00bfC\u00f3mo est\u00e1s? is a question that expresses what?",
+    "options": [
+      "curiosity",
+      "greeting",
+      "apology",
+      "felicitation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following countries is an island nation in the Caribbean?",
+    "question": "Complete the sentence: Me encanta _____.",
     "options": [
-      "Dominican Republic",
-      "Puerto Rico",
-      "Haiti",
-      "Cuba"
+      "beber caf\u00e9",
+      "escuchar m\u00fasica",
+      "leer libros",
+      "ver pel\u00edculas"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of a reflexive verb in Spanish?",
+    "question": "What is the term for a person who is born in the United States but has Latin American parents?",
     "options": [
-      "me compr\u00e9",
-      "me levant\u00e9",
-      "me vendo",
-      "me vend\u00ed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the phrase 'me encanta leer' mean in Spanish?",
-    "options": [
-      "I like to read",
-      "I love to read",
-      "I read a book",
-      "I want to read"
+      "latino",
+      "latinoamericano",
+      "hispano",
+      "americano"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The Spanish word for 'to dream' is...",
+    "question": "Which of the following countries in Central America is the smallest?",
     "options": [
-      "Pensar",
-      "Meditar",
-      "Imaginar",
-      "So\u00f1ar"
+      "Nicaragua",
+      "Costa Rica",
+      "Panam\u00e1",
+      "Honduras"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What is the name of the famous Spanish novel by Juan Ram\u00f3n Jim\u00e9nez?",
+    "question": "What is the meaning of 'tren'?",
     "options": [
-      "La sombra del cipr\u00e9s",
-      "El hacha",
-      "La estatua del comendador",
-      "Eleg\u00edas de un amigo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the Spanish word for 'to play'?",
-    "options": [
-      "Nadar",
-      "Danzar",
-      "Bailar",
-      "Jugar"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the Spanish word for 'park'?",
-    "options": [
-      "Playa",
-      "Parque",
-      "Paseo",
-      "Pueblo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the Spanish word for 'the capital of Argentina'?",
-    "options": [
-      "Buenos Aires",
-      "Caracas",
-      "Ciudad de M\u00e9xico",
-      "Lima"
+      "train",
+      "car",
+      "plane",
+      "bus"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "\u00bfCu\u00e1l es la capital de Chile?",
+    "options": [
+      "Antofagasta",
+      "Santiago",
+      "Valpara\u00edso",
+      "Santiago de Chile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do you say 'I am from the Caribbean' in Spanish?",
+    "options": [
+      "Vivo en el Caribe",
+      "Me encanta el Caribe",
+      "Soy del Caribe",
+      "Me gusto el Caribe"
+    ],
+    "correctIndex": 2
   }
 ]

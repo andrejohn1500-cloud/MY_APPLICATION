@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "question": "What is a company?",
+    "options": [
+      "A business owned and operated by one individual",
+      "A business owned and operated by the government",
+      "A business owned and operated by shareholders",
+      "A business owned and operated by a partnership"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a cash flow statement?",
+    "options": [
+      "To show the financial position of a business at a specific date",
+      "To show the financial performance of a business over a specific period",
+      "To show the inflows and outflows of cash and cash equivalents of a business over a specific period",
+      "To show the profit or loss of a business over a specific period"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a trial balance?",
+    "options": [
+      "A list of all the accounts payable and accounts receivable of a business",
+      "A list of all the revenue and expenses of a business",
+      "A list of all the assets and liabilities of a business",
+      "A list of all the accounts in a business, their debit or credit balances and the total of each"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a statement of financial position?",
+    "options": [
+      "To show the financial performance of a business over a specific period",
+      "To show the profit or loss of a business over a specific period",
+      "To show the cash flow of a business over a specific period",
+      "To show the financial position of a business at a specific date"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a company's Memorandum?",
+    "options": [
+      "A document that outlines the company's financial position",
+      "A document that outlines the company's operations",
+      "A document that outlines the company's rules and regulations",
+      "A document that outlines the company's purpose and objectives"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a bonus?",
+    "options": [
+      "A payment made by a company to its suppliers",
+      "A payment made by a company to its employees",
+      "A payment made by a company to its shareholders",
+      "A payment made by a company to its creditors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a company's statement of profit or loss?",
+    "options": [
+      "A statement that shows the company's purpose and objectives",
+      "A statement that shows the company's operations and financial position",
+      "A statement that shows the company's takeover",
+      "A statement that shows the profit or loss over a specific period"
+    ],
+    "correctIndex": 3
+  }
+]

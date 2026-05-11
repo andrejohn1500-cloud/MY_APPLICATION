@@ -1,152 +1,152 @@
 [
   {
-    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. What is its kinetic energy?",
+    "question": "A 3 kg object is moving in a circular path at a speed of 4 m/s. What is the magnitude of the centripetal force acting on the object?",
     "options": [
-      "125 J",
-      "50 J",
-      "300 J",
-      "200 J"
+      "20 N",
+      "12 N",
+      "8 N",
+      "16 N"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 10 kg block is attached to a horizontal spring with a force constant of 50 N/m. The block is displaced by 0.5 m from its equilibrium position. What is the magnitude of the restoring force acting on the block?",
+    "options": [
+      "10 N",
+      "15 N",
+      "20 N",
+      "25 N"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 15 kg block is moving at a speed of 8 m/s. What is its kinetic energy?",
+    "options": [
+      "120 J",
+      "180 J",
+      "60 J",
+      "90 J"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 15 meters in 7.5 seconds, what is its acceleration?",
+    "question": "A sound wave has a frequency of 500 Hz and a speed of 330 m/s. What is its wavelength?",
     "options": [
-      "no acceleration",
-      "1 m/s^2",
-      "0.2 m/s^2",
-      "10 m/s^2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A resistor of 10 ohms is connected in parallel with a resistor of 20 ohms. What is the equivalent resistance of the circuit?",
-    "options": [
-      "0 ohms",
-      "20 ohms",
-      "6.67 ohms",
-      "10 ohms"
+      "0.5 m",
+      "2 m",
+      "0.66 m",
+      "1 m"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 5 m/s, what is its velocity after 3 seconds?",
+    "question": "A coil of wire has a resistance of 20 ohms and an inductance of 0.2 H. What is its inductive reactance at a frequency of 50 Hz?",
     "options": [
-      "5 m/s",
-      "7 m/s",
-      "3 m/s",
-      "13 m/s"
+      "10 ohms",
+      "2 ohms",
+      "5 ohms",
+      "20 ohms"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A body is moving with uniform acceleration of 2 m/s^2. If it travels a distance of 10 meters in 2 seconds, what is its initial velocity?",
+    "question": "A 6 ohm resistor, a 3 ohm resistor, and a 9 ohm resistor are connected in parallel across a 12 V battery. What is the total resistance of the circuit?",
     "options": [
-      "4 m/s",
-      "0 m/s",
-      "2 m/s",
-      "1 m/s"
+      "6 ohms",
+      "3 ohms",
+      "2 ohms",
+      "9 ohms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 12 V battery is connected to a 2 ohm resistor and a 4 ohm resistor in series. What is the current flowing through the circuit?",
+    "options": [
+      "1 A",
+      "4 A",
+      "2 A",
+      "3 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 5 kg object is moving at a speed of 2 m/s. What is its momentum?",
+    "options": [
+      "5 kg m/s",
+      "10 kg m/s",
+      "15 kg m/s",
+      "20 kg m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 5 Farad capacitor is connected in series with a 5 Farad capacitor. What is the equivalent capacitance of the circuit?",
+    "question": "A 2 kg block is pushed up a frictionless incline with an initial velocity of 2 m/s. What is its kinetic energy at the top of the incline?",
     "options": [
-      "2.5 Farads",
-      "0 Farads",
-      "10 Farads",
-      "5 Farads"
+      "6 J",
+      "4 J",
+      "8 J",
+      "2 J"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A wave has a speed of 50 m/s and a frequency of 20 Hz. What is its period?",
+    "question": "A 5 kg object is moving at a speed of 2 m/s. What is its momentum?",
     "options": [
-      "0.0025 s",
-      "0.05 s",
-      "0.00025 s",
-      "0.025 s"
+      "20 kg m/s",
+      "15 kg m/s",
+      "5 kg m/s",
+      "10 kg m/s"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A resistor of 5 ohms is connected in parallel with a resistor of 10 ohms. What is the equivalent resistance of the circuit?",
+    "question": "A 2 kg object is moving in a circular path at a speed of 4 m/s. What is the magnitude of the centripetal force acting on the object?",
     "options": [
-      "2.5 ohms",
+      "20 N",
+      "10 N",
+      "5 N",
+      "8 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 20 kg block is attached to a horizontal spring with a force constant of 100 N/m. The block is displaced by 1 m from its equilibrium position. What is the magnitude of the restoring force acting on the block?",
+    "options": [
+      "100 N",
+      "200 N",
+      "150 N",
+      "50 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A coil of wire has a resistance of 15 ohms and an inductance of 0.1 H. What is its inductive reactance at a frequency of 100 Hz?",
+    "options": [
+      "1 ohm",
+      "15 ohms",
       "10 ohms",
-      "0 ohms",
       "5 ohms"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A resistor of 5 ohms is connected in parallel with a capacitor of 5 Farads. What is the reactance of the circuit?",
-    "options": [
-      "3180 ohms",
-      "5 ohms",
-      "0 ohms",
-      "318 ohms"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A block of mass 5 kg is moving with a velocity of 10 m/s. What is its potential energy?",
-    "options": [
-      "25 J",
-      "0 J",
-      "50 J",
-      "no information"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the unit of temperature in the Celsius Scale?",
-    "options": [
-      "F",
-      "\u00b0C",
-      "K",
-      "R"
-    ],
     "correctIndex": 1
   },
   {
-    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor. What is the reactance of the circuit?",
+    "question": "A light beam passes from air into a glass of refractive index 1.7. What is the angle of refraction if the angle of incidence is 40 degrees?",
     "options": [
-      "318 ohms",
-      "0 ohms",
-      "5 ohms",
-      "3180 ohms"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor. What is the equivalent resistance of the circuit?",
-    "options": [
-      "5 ohms",
-      "0 ohms",
-      "10 ohms",
-      "10 Farads"
+      "12 degrees",
+      "32 degrees",
+      "24 degrees",
+      "20 degrees"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The energy of a photon emitted by a hydrogen atom is 1.8 x 10^-19 J. What is its wavelength?",
+    "question": "A light source emits light of wavelength 400 nm. What is its energy?",
     "options": [
-      "6.94 x 10^-6 m",
-      "6.94 x 10^-9 m",
-      "6.94 x 10^-7 m",
-      "6.94 x 10^-8 m"
+      "4.1 eV",
+      "2.1 eV",
+      "1.1 eV",
+      "3.1 eV"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 20 meters in 10 seconds, what is its acceleration?",
-    "options": [
-      "10 m/s^2",
-      "no acceleration",
-      "1 m/s^2",
-      "0.2 m/s^2"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

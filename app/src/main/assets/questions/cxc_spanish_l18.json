@@ -1,42 +1,62 @@
 [
   {
-    "question": "Translate the sentence into Spanish. El museo est\u00e1 abierto los lunes.",
+    "question": "What is the purpose of the verb \"estar\" in the following sentence: \"Ella est\u00e1 estudiando en la universidad.\"",
     "options": [
-      "El museo est\u00e1 abierto todos los d\u00edas.",
-      "El museo est\u00e1 abierto los lunes.",
-      "El museo est\u00e1 abierto el lunes.",
-      "El museo est\u00e1 abierto los martes."
+      "to describe a permanent characteristic",
+      "to describe a personality trait",
+      "to describe a physical characteristic",
+      "to describe a temporary characteristic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the following audio clip, the speaker says \"Me encanta la m\u00fasica rock.\" What type of music does the speaker enjoy?",
+    "options": [
+      "pop music",
+      "jazz music",
+      "classical music",
+      "rock music"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the following audio clip, the speaker says \"Me gustan los deportes de invierno.\" What type of sports does the speaker enjoy?",
+    "options": [
+      "outdoor sports",
+      "indoor sports",
+      "winter sports",
+      "summer sports"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the following dialogue, the speaker says \"S\u00ed, prefiero ir en avi\u00f3n.\" What type of transportation does the speaker prefer?",
+    "options": [
+      "train",
+      "taxi",
+      "airplane",
+      "bus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Spanish, the verb 'ser' is used to describe what type of qualities?",
+    "options": [
+      "actions performed in the future",
+      "permanent or unchanging qualities",
+      "actions performed in the present",
+      "actions performed in the past"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Choose the correct response. What is the name of the famous author from Colombia?",
+    "question": "Read the following text: \"La ciudad de Cartagena es famosa por su arquitectura colonial.\" What is the city of Cartagena famous for?",
     "options": [
-      "A Jorge Luis Borges",
-      "C Pablo Neruda",
-      "B Gabriel Garc\u00eda M\u00e1rquez",
-      "D Mario Vargas Llosa"
+      "its modern architecture",
+      "its ancient architecture",
+      "its colonial architecture",
+      "its indigenous architecture"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Identify the correct form of the pronoun in parentheses. Ella (hablar) con su amigo.",
-    "options": [
-      "hablar",
-      "hablar\u00e1",
-      "habla",
-      "hablara"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Translate the sentence into English. La ciudad tiene un rico patrimonio cultural.",
-    "options": [
-      "The city has a rich cultural heritage.",
-      "The city has a rich history.",
-      "The city has a cultural heritage.",
-      "The city has a cultural identity."
-    ],
-    "correctIndex": 0
   }
 ]

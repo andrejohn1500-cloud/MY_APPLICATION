@@ -1,152 +1,152 @@
 [
   {
-    "question": "A particle of mass 2 kg is attached to a spring with a spring constant of 100 N/m. If it is oscillating with a frequency of 2 Hz, what is its amplitude?",
+    "question": "A 5 kg block is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the time taken for the block to travel a distance of 10 m. ",
     "options": [
-      "B",
-      "C",
-      "D",
-      "A"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 50 W electric heater is used to heat a room. If it is used for 10 hours, how much energy is consumed?",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 2 m long wire is carrying a current of 2 A. If the magnetic field is 0.2 T, what is the force on the wire?",
-    "options": [
-      "D",
-      "A",
-      "C",
-      "B"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A wave has a speed of 100 m/s and a wavelength of 5 meters. What is its frequency?",
-    "options": [
-      "10 Hz",
-      "20 Hz",
-      "0 Hz",
-      "50 Hz"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 2 m/s, what is its velocity after 2 seconds?",
-    "options": [
-      "3 m/s",
-      "2 m/s",
-      "6 m/s",
-      "4 m/s"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 5 m long wire is stretched between two fixed points. If a 20 N force is applied to the wire at the midpoint, what is the tension in the wire on either side of the midpoint?",
-    "options": [
-      "D",
-      "A",
-      "B",
-      "C"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A body is moving in a uniform circular motion with a radius of 5 m and a centripetal acceleration of 2 m/s^2. What is its velocity?",
-    "options": [
-      "C",
-      "A",
-      "D",
-      "B"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 20 W electric motor is used to lift a 5 kg load. If it is used for 2 hours, how much energy is consumed?",
-    "options": [
-      "B",
-      "A",
-      "C",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 2 kg block is attached to a spring with a spring constant of 200 N/m. If it is oscillating with a frequency of 4 Hz, what is its amplitude?",
-    "options": [
-      "B",
-      "D",
-      "C",
-      "A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor and a 2 ohm resistor. What is the equivalent resistance of the circuit?",
-    "options": [
-      "7.5 ohms",
-      "5 ohms",
-      "0 ohms",
-      "10 ohms"
+      "5 s",
+      "4 s",
+      "2 s",
+      "3 s"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 50 kg block is moving with a velocity of 2 m/s. If a force of 20 N is applied to it, what is the acceleration of the block?",
+    "question": "A particle is moving in a circular path with a constant angular velocity of 5 rad/s. If the radius of the circular path is 2 m, what is the linear velocity of the particle?",
     "options": [
-      "A",
-      "C",
-      "B",
-      "D"
+      "15 m/s",
+      "10 m/s",
+      "5 m/s",
+      "20 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A resistor of 5 ohms is connected in series with a resistor of 10 ohms. What is the equivalent resistance of the circuit?",
+    "question": "A wave of frequency 100 Hz and wavelength 0.1 m is travelling through a medium. Determine the velocity of the wave. ",
     "options": [
-      "5 ohms",
-      "10 ohms",
-      "7.5 ohms",
-      "0 ohms"
+      "500 m/s",
+      "1000 m/s",
+      "750 m/s",
+      "1500 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 50 kg object is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the angular momentum of the block. ",
+    "options": [
+      "30 rad s",
+      "15 rad s",
+      "10 rad s",
+      "25 rad s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 2 \u03bcC charge is moving at a velocity of 10^5 m/s in a magnetic field of 10^-6 T. Determine the force acting on the charge. ",
+    "options": [
+      "3 \u00d7 10^-4 N",
+      "1 \u00d7 10^-4 N",
+      "2 \u00d7 10^-4 N",
+      "4 \u00d7 10^-4 N"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A light ray passes from a medium with a refractive index of 1.5 into air. What is the angle of refraction if the angle of incidence is 30 degrees?",
+    "question": "The refractive index of a given medium is 1.8. Determine the angle of incidence for which the angle of refraction is 25\u00b0. ",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 10 m long pendulum is oscillating with a frequency of 1 Hz. What is its period?",
-    "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "54.4\u00b0",
+      "60\u00b0",
+      "40\u00b0",
+      "45\u00b0"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. If a force of 20 N is applied to it, what is the acceleration of the block?",
+    "question": "The work done by a variable force F(x) in moving an object from x = 0 to x = b is given by W = \u222bF(x)dx from 0 to b. Evaluate the work done if F(x) = 3x^2 + 2x + 1. ",
     "options": [
-      "A",
-      "D",
-      "B",
-      "C"
+      "15 J",
+      "13.33 J",
+      "10 J",
+      "20 J"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "A particle of mass 0.1 kg is moving in a circular orbit with a radius of 0.1 m and a velocity of 0.1 m/s. Determine the centripetal force acting on the particle. ",
+    "options": [
+      "0.02 N",
+      "0.01 N",
+      "0.015 N",
+      "0.005 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A particle of mass 0.5 kg is moving in a circular orbit with a radius of 0.1 m and a velocity of 0.5 m/s. Determine the centripetal acceleration of the particle. ",
+    "options": [
+      "2.5 m/s^2",
+      "2.75 m/s^2",
+      "3.5 m/s^2",
+      "1.25 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A blackbody at a temperature of 800 K is emitting radiation at a frequency of 5 \u00d7 10^14 Hz. Determine the wavelength of the radiation. ",
+    "options": [
+      "4 \u00d7 10^-5 m",
+      "6 \u00d7 10^-5 m",
+      "3 \u00d7 10^-5 m",
+      "8 \u00d7 10^-5 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 100 \u03a9 resistor is connected in series with a 20 \u03bcF capacitor and an inductor of 50 mH. If the circuit is connected to a 15 V AC source with a frequency of 100 Hz, determine the impedance of the circuit. ",
+    "options": [
+      "40 \u03a9",
+      "80 \u03a9",
+      "50 \u03a9",
+      "63.5 \u03a9"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 50 kg object is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the potential energy of the block. ",
+    "options": [
+      "150 J",
+      "50 J",
+      "75 J",
+      "100 J"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 50 \u03a9 resistor is connected in series with a 10 \u03bcF capacitor and an inductor of 20 mH. If the circuit is connected to a 15 V AC source with a frequency of 100 Hz, determine the phase angle of the circuit. ",
+    "options": [
+      "-45.4\u00b0",
+      "-60\u00b0",
+      "-30\u00b0",
+      "0\u00b0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wave of frequency 200 Hz and wavelength 0.05 m is travelling through a medium. Determine the velocity of the wave. ",
+    "options": [
+      "2500 m/s",
+      "1500 m/s",
+      "2000 m/s",
+      "1000 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The refractive index of a given medium is 1.5. Determine the angle of incidence for which the angle of refraction is 30\u00b0. ",
+    "options": [
+      "30\u00b0",
+      "50\u00b0",
+      "20\u00b0",
+      "41.4\u00b0"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,52 +1,82 @@
 [
   {
-    "question": "What is the name of the African deity associated with knowledge and wisdom in Yoruba mythology?",
+    "question": "According to Islamic theology, what is the concept of 'Tawhid'?",
     "options": [
-      "Oshun",
-      "Yemaya",
-      "Legba",
-      "Ogun"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Christianity, what is the term for the doctrine that emphasizes the universal priesthood of all believers?",
-    "options": [
-      "Priesthood of all believers",
-      "Sacrament of the Eucharist",
-      "Sacrament of penance",
-      "Sacrament of baptism"
+      "The oneness and uniqueness of God.",
+      "The concept of fate and destiny.",
+      "The five pillars of Islam.",
+      "The sacred texts of Islam."
     ],
     "correctIndex": 0
   },
   {
-    "question": "In Christianity, what is the name of the sacrament that involves the forgiveness of sins through the sacrament of penance?",
+    "question": "In Caribbean religious practices, what is the significance of 'Obeah'?",
     "options": [
-      "Penance and Absolution",
-      "Confirmation",
-      "Eucharist",
-      "Baptism"
+      "A form of spiritual healing and protection.",
+      "A type of African diasporic spirit possession.",
+      "A form of folk magic.",
+      "A form of voodoo worship."
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the name of the African deity associated with fertility and agriculture in Yoruba mythology?",
+    "question": "What is the significance of 'Ablution' in Islam?",
     "options": [
-      "Yemaya",
-      "Oshun",
-      "Ogun",
-      "Legba"
+      "A ritual of purification and cleansing.",
+      "A sacred text of Islam.",
+      "A type of Islamic worship.",
+      "A form of prayer and supplication."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to Christian ethics, what is the concept of 'Agape'?",
+    "options": [
+      "Selfless love and compassion.",
+      "The love of God for humanity.",
+      "The love of humanity for God.",
+      "The love of oneself."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to Christian theology, what is the concept of 'The Fall'?",
+    "options": [
+      "The story of the disobedience of Adam and Eve.",
+      "The concept of the Incarnation.",
+      "The story of the creation of the world.",
+      "The concept of the Trinity."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the significance of 'Hajj' in Islam?",
+    "options": [
+      "A type of Islamic worship.",
+      "A pilgrimage to the holy city of Mecca.",
+      "A form of prayer and supplication.",
+      "A sacred text of Islam."
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the name of the African deity associated with the sea and fertility in Yoruba mythology?",
+    "question": "In Hinduism, what is the concept of 'Prana'?",
     "options": [
-      "Yemaya",
-      "Oshun",
-      "Ogun",
-      "Legba"
+      "A type of sacred text.",
+      "A concept of the ultimate reality.",
+      "A concept of life force and energy.",
+      "A form of Hindu worship."
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the significance of 'Ramadan' in Islam?",
+    "options": [
+      "A type of Islamic worship.",
+      "A sacred text of Islam.",
+      "A form of prayer and supplication.",
+      "A month of fasting and spiritual reflection."
+    ],
+    "correctIndex": 3
   }
 ]

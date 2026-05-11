@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following musical instruments is commonly used in traditional Caribbean music?",
+    "question": "Which of the following musical symbols indicates a dotted note?",
     "options": [
-      "Drums",
-      "Violin",
-      "Piano",
-      "Steelpan"
+      "fermata",
+      "legato",
+      "staccato",
+      "dot"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following musical instruments is commonly used in calypso music?",
+    "question": "What is the primary function of a musical bridge in a composition?",
     "options": [
-      "Piano",
-      "Steel drum",
-      "Drums",
-      "Guitar"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In music notation, what does the symbol 'sforz.' indicate?",
-    "options": [
-      "Crescendo dynamic",
-      "Sforzando dynamic",
-      "Loud dynamics",
-      "Soft dynamics"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a series of notes that move in a smooth, flowing manner, often used in melodies and solos?",
-    "options": [
-      "Legato movement",
-      "Sustained tone",
-      "Portamento",
-      "Staccato movement"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In aural skills, what is the process of identifying and describing the timbre of a musical instrument?",
-    "options": [
-      "Melody analysis",
-      "Rhythm analysis",
-      "Texture analysis",
-      "Timbre analysis"
+      "to add tension to a musical passage",
+      "to add repetition to a section",
+      "to create a sense of resolution",
+      "to provide contrast to the main theme"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In music notation, what does the symbol 'dim.' indicate?",
+    "question": "Which of the following musical forms is characterized by a series of variations on a theme?",
     "options": [
-      "Major chord",
-      "Diminished chord",
-      "Minor chord",
-      "Augmented chord"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following musical forms is characterized by a series of episodes or sections that are repeated and varied?",
-    "options": [
-      "Sonata form",
-      "Fugue form",
-      "Rondo form",
-      "Theme and Variations form"
+      "suite",
+      "rondo",
+      "fantasia",
+      "sonata"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following musical instruments is commonly used in traditional Caribbean music?",
+    "question": "Which of the following musical instruments is often used in soca music?",
     "options": [
-      "Steelpan",
-      "Drums",
-      "Piano",
-      "Violin"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In aural skills, what is the process of listening to a musical passage and then singing or humming it back?",
-    "options": [
-      "Dictation exercise",
-      "Sing-back exercise",
-      "Improvisation exercise",
-      "Ear training exercise"
+      "piano",
+      "steelpan",
+      "drum",
+      "trumpet"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of melody that emphasizes the first beat of a bar?",
+    "question": "A composer uses the key of E minor as the tonal centre of a piece. What chord progression would be likely used in the tonic section of the composition?",
     "options": [
-      "Rhythmic melody",
-      "Tonal melody",
-      "Accentual melody",
-      "Hymnodic melody"
+      "Dm - G - C - Dm",
+      "C - G - Am - F",
+      "Em - G - D - Em",
+      "Am - F - G - C"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a melody that moves in a repetitive pattern of steps and leaps?",
+    "question": "Which of the following musical symbols indicates a flat (lowered pitch)?",
     "options": [
-      "Hymnodic melody",
-      "Tonal melody",
-      "Rhythmic melody",
-      "Melodic theme"
+      "b",
+      "rests",
+      "dynamics",
+      "#"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In aural skills, what is the process of identifying and describing the texture of a musical passage?",
+    "question": "Which of the following musical symbols indicates a legato articulation?",
     "options": [
-      "Melody analysis",
-      "Rhythm analysis",
-      "Timbre analysis",
-      "Texture analysis"
+      "dot",
+      "articulation",
+      "fermata",
+      "tie"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following musical instruments is commonly used in calypso music?",
+    "question": "What is the term for the repetition of a musical phrase or section at a higher or lower pitch?",
     "options": [
-      "Piano",
-      "Guitar",
-      "Steel drum",
-      "Drums"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In music notation, what does the symbol 'fermata' indicate?",
-    "options": [
-      "Extended duration",
-      "Tempo increase",
-      "Shortened duration",
-      "Sudden change in pitch"
+      "transposition",
+      "inversion",
+      "augmentation",
+      "diminution"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of melody that emphasizes the second beat of a bar?",
+    "question": "Which of the following musical instruments is often used in soca music?",
     "options": [
-      "Tonal melody",
-      "Syncopated melody",
-      "Accentual melody",
-      "Hymnodic melody"
+      "piano",
+      "trumpet",
+      "drum",
+      "guitar"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a musical coda in a composition?",
+    "options": [
+      "to create a sense of tension",
+      "to provide contrast",
+      "to conclude the composition",
+      "to add repetition to a section"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical symbols indicates a sharp (raised pitch)",
+    "options": [
+      "rests",
+      "dynamics",
+      "flats",
+      "#"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a musical theme development in music?",
+    "options": [
+      "to create a sense of tension",
+      "to conclude the composition",
+      "to repeat a musical theme or section",
+      "to add new material to a composition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the repetition of a musical phrase or section at a higher or lower pitch, with a change in rhythm?",
+    "options": [
+      "transposition",
+      "diminution",
+      "inversion",
+      "augmentation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following steelpan arrangements is known for its bright and cheerful sound?",
+    "options": [
+      "tenor pan",
+      "dulcimer pan",
+      "bass pan",
+      "cello pan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following musical forms is characterized by a repeating pattern of sections?",
+    "options": [
+      "sonata",
+      "suite",
+      "fantasia",
+      "rondo"
+    ],
+    "correctIndex": 3
   }
 ]

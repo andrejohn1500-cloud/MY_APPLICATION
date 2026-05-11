@@ -1,152 +1,152 @@
 [
   {
-    "question": "Choose the correct response. According to the text, what is the traditional dish from Mexico?",
+    "question": "Read the following text: \"La cultura puertorrique\u00f1a es una mezcla de influencias africanas, espa\u00f1olas y latinas.\" What does the text imply about Puerto Rican culture?",
     "options": [
-      "A Empanadas",
-      "C Quesadillas",
-      "D Churrasco",
-      "B Tacos"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the famous Spanish artist who created the artwork 'El Greco'?",
-    "options": [
-      "Federico Garc\u00eda Lorca",
-      "Frida Kahlo",
-      "Dominikos Theotokopoulos",
-      "Salvador Dal\u00ed"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the famous Spanish author who wrote the novel 'La Sombra del Cipr\u00e9s'?",
-    "options": [
-      "Luis de G\u00f3ngora",
-      "Miguel de Cervantes",
-      "Federico Garc\u00eda Lorca",
-      "Camilo Jos\u00e9 Cela"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Identify the correct form of the verb in parentheses. Yo (comer) un sandwich.",
-    "options": [
-      "coma",
-      "comi\u00f3",
-      "comer",
-      "comas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the phrase 'me encantar\u00eda viajar' mean in Spanish?",
-    "options": [
-      "I don't like to travel",
-      "I would love to travel",
-      "I travel a lot",
-      "I like to travel"
+      "Puerto Rican culture is very similar to Mexican culture",
+      "Puerto Rican culture is a mix of African, Spanish, and Latin influences",
+      "Puerto Rican culture is mainly found in the United States",
+      "Puerto Rican culture is very traditional"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Identify the correct form of the pronoun in parentheses. Ella (estudiar) una maestr\u00eda.",
+    "question": "What is the correct translation of the phrase \"\u00a1Hasta luego!\"",
     "options": [
-      "estudia",
-      "estudiar",
-      "estudiar\u00e1",
-      "estudiar\u00e1"
+      "Hello!",
+      "Goodbye!",
+      "See you later!",
+      "How are you?"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Translate the sentence into Spanish. The teacher is very kind to her students.",
+    "question": "In a conversation, a speaker says: \"No puedo asistir a la fiesta porque tengo que estudiar.\" What is the most likely reason for the speaker's decision?",
     "options": [
-      "La profesora es muy amable a ellos.",
-      "La profesora es muy amable con sus estudiantes.",
-      "La profesora es muy amable para sus estudiantes.",
-      "La profesora es muy amable a sus estudiantes."
+      "the speaker has to study",
+      "the speaker is too old to go to the party",
+      "the speaker doesn't want to go to the party",
+      "the speaker is too young to go to the party"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a conversation, a speaker says: \"Me gustar\u00eda aprender a tocar el piano.\" What does the speaker want to do?",
+    "options": [
+      "learn to play the drums",
+      "learn to play the piano",
+      "learn to play the violin",
+      "learn to play the guitar"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following countries is located in North America?",
+    "question": "Read the following text: \"La ciudad de Quito es una de las ciudades m\u00e1s antiguas de Am\u00e9rica Latina.\" What does the text imply about Quito?",
     "options": [
-      "Mexico",
-      "Colombia",
+      "Quito is a very modern city",
+      "Quito is a very large city",
+      "Quito is one of the oldest cities in Latin America",
+      "Quito is a very small city"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the following text: \"La comida mexicana es famosa por sus saborosos platillos.\" What does the text imply about Mexican food?",
+    "options": [
+      "Mexican food is mainly found in the United States",
+      "Mexican food is very expensive",
+      "Mexican food is famous for its delicious dishes",
+      "Mexican food is very spicy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the following text: \"La casa de mis sue\u00f1os es un chalet en la monta\u00f1a con un jard\u00edn grande.\" What is the speaker's current living situation?",
+    "options": [
+      "the speaker lives in a small apartment",
+      "the speaker lives in a chalet in the mountains",
+      "the speaker doesn't live in a chalet",
+      "the speaker owns a chalet in the mountains"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following countries in South America is not a member of the Union of South American Nations?",
+    "options": [
       "Ecuador",
-      "Chile"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the name of the famous Spanish artist who created the artwork 'Guernica'?",
-    "options": [
-      "Federico Garc\u00eda Lorca",
-      "Pablo Picasso",
-      "Frida Kahlo",
-      "Salvador Dal\u00ed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Translate the sentence into English. Me encanta viajar en tren.",
-    "options": [
-      "I love traveling by train.",
-      "I enjoy traveling by bus.",
-      "I like traveling by train.",
-      "I love trains."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does the phrase 'me gusta hacer ejercicio' mean in Spanish?",
-    "options": [
-      "I want to do exercise",
-      "I don't like exercise",
-      "I like to do exercise",
-      "I do exercise"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following countries is located in the Andean region of South America?",
-    "options": [
-      "Peru",
       "Bolivia",
-      "Chile",
-      "Ecuador"
+      "Colombia",
+      "Per\u00fa"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does the phrase 'necesito un mapa' mean in Spanish?",
+    "question": "In a conversation, a speaker says: \"No voy a asistir a la reuni\u00f3n porque no puedo dejar mi trabajo.\" What is the most likely reason for the speaker's decision?",
     "options": [
-      "I give maps",
-      "I have a map",
-      "I need a map",
-      "I like maps"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the phrase 'me encanta leer poes\u00eda' mean in Spanish?",
-    "options": [
-      "I like poetry",
-      "I read a poem",
-      "I love to read poetry",
-      "I don't like poetry"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Read the text and choose the correct answer. \u00bfCu\u00e1l es la capital de Chile?",
-    "options": [
-      "D Quito",
-      "C Lima",
-      "A Buenos Aires",
-      "B Santiago"
+      "the speaker is too old to go to the meeting",
+      "the speaker is too young to go to the meeting",
+      "the speaker doesn't want to go to the meeting",
+      "the speaker can't leave their job"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Read the following text: \"La cultura espa\u00f1ola es rica y diversa.\" What does the text imply about Spanish culture?",
+    "options": [
+      "Spanish culture is very similar to Mexican culture",
+      "Spanish culture is rich and diverse",
+      "Spanish culture is poor and monotonous",
+      "Spanish culture is mainly found in Spain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Read the following text: \"La isla de La Espa\u00f1ola es una de las islas m\u00e1s grandes del Caribe.\" What does the text imply about La Espa\u00f1ola?",
+    "options": [
+      "La Espa\u00f1ola is one of the largest islands in the Caribbean",
+      "La Espa\u00f1ola is a very modern island",
+      "La Espa\u00f1ola is a very small island",
+      "La Espa\u00f1ola is a very old island"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Spanish, the verb 'decir' is an example of what type of verb?",
+    "options": [
+      "a regular verb",
+      "a linking verb",
+      "an action verb",
+      "a verb of saying or telling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Read the following text: \"La m\u00fasica brasile\u00f1a es una mezcla de ritmos y estilos diferentes.\" What does the text imply about Brazilian music?",
+    "options": [
+      "Brazilian music is very traditional",
+      "Brazilian music is a mix of different rhythms and styles",
+      "Brazilian music is very similar to Spanish music",
+      "Brazilian music is mainly found in Argentina"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a conversation, a speaker says: \"No he ido a la universidad porque no ten\u00eda los recursos necesarios.\" What is the most likely reason for the speaker's decision?",
+    "options": [
+      "the speaker was too old to go to college",
+      "the speaker didn't want to go to college",
+      "the speaker didn't have the necessary resources",
+      "the speaker was too young to go to college"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A speaker says: \"Me encantar\u00eda ir a la playa esta semana.\" What does the speaker want to do?",
+    "options": [
+      "work out this week",
+      "go to the beach this week",
+      "stay home this week",
+      "go shopping this week"
+    ],
+    "correctIndex": 1
   }
 ]

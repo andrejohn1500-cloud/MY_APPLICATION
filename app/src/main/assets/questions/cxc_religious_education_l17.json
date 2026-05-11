@@ -1,111 +1,151 @@
 [
   {
-    "question": "In the context of Caribbean religious practices, what is the significance of the 'Myal' tradition?",
+    "question": "In the Caribbean, the 'Obeah' tradition is a form of spiritual practice that originated from",
     "options": [
-      "A purely indigenous tradition",
-      "A syncretic blend of African and Christian traditions",
-      "A purely Christian tradition",
-      "A purely African tradition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of ' Ubuntu' in African philosophy emphasizes the importance of?",
-    "options": [
-      "Competition and achievement",
-      "Individualism and self-reliance",
-      "Interconnectedness and community",
-      "Rationality and logic"
+      "Asian Hinduism",
+      "Indigenous Taino traditions",
+      "West African religions",
+      "European Christianity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In Hinduism, what is the significance of the concept of 'Samsara'?",
+    "question": "The Christian concept of 'Vocation' emphasizes the idea that individuals have a unique calling to serve",
     "options": [
-      "The attainment of spiritual liberation",
-      "The cycle of rebirth and reincarnation",
-      "The pursuit of material wealth and power",
-      "The performance of rituals and sacrifices"
+      "God alone",
+      "God and others",
+      "Others alone",
+      "Self alone"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the context of African religious traditions, what is the significance of the concept of 'Iwa'?",
+    "question": "In Hinduism, the concept of 'Svadharma' refers to the duty or responsibility that an individual has towards",
     "options": [
-      "A moral code that guides human behavior",
-      "A spiritual power or energy that flows through the world",
-      "A physical force or energy that governs the world",
-      "A social hierarchy that governs community life"
+      "God and the divine",
+      "Community and caste",
+      "Society and the world",
+      "Family and kin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Islamic concept of 'Jihad' is often misunderstood to mean 'holy war', but in reality it refers to the",
+    "options": [
+      "Fight against non-Muslims",
+      "Self-mortification",
+      "Struggle to live a virtuous life",
+      "Defense against external threats"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Buddhist concept of 'Dharmakaya' refers to the ultimate reality that underlies all",
+    "options": [
+      "Consciousness",
+      "Body",
+      "phenomena",
+      "Mind"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Buddhist concept of 'Maitri' refers to the practice of cultivating",
+    "options": [
+      "Compassion",
+      "Empathy",
+      "Sympathy",
+      "Loving-kindness"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Islamic principle emphasizes the importance of treating others with justice and fairness, regardless of their social status?",
+    "options": [
+      "Iman",
+      "Adl",
+      "Ihsan",
+      "Shukr"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the Hindu concept of Brahman, what is the ultimate reality that underlies all existence?",
+    "question": "The Buddhist concept of 'Kleshas' refers to the ten negative emotions that cause suffering and",
     "options": [
-      "The unchanging, all-pervading essence of the universe",
-      "The sum of all individual souls",
-      "The physical world",
-      "The ultimate goal of human existence"
+      "Ignorance",
+      "Anger",
+      "Desire",
+      "Fear"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the context of Caribbean religious practices, what is the significance of the 'Myal' tradition?",
+    "question": "The concept of 'Tawakkul' in Islam emphasizes the importance of trust and reliance on",
     "options": [
-      "A purely African tradition",
-      "A syncretic blend of African and Christian traditions",
-      "A purely indigenous tradition",
-      "A purely Christian tradition"
+      "Social support",
+      "Human reason",
+      "Personal effort",
+      "God's providence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Hinduism, the concept of 'Guna' refers to the three qualities that govern the nature of",
+    "options": [
+      "Cosmos",
+      "Consciousness",
+      "Universe",
+      "Reality"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In African traditional religions, the concept of 'Ikigai' refers to the pursuit of one's",
+    "options": [
+      "Cultural traditions",
+      "Life purpose",
+      "Social norms",
+      "Individual interests"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'Ubuntu' in African philosophy emphasizes the importance of?",
+    "question": "The concept of 'Sangha' in Buddhism refers to the community of monks and nuns who follow the teachings of the",
     "options": [
-      "Competition and achievement",
-      "Individualism and self-reliance",
-      "Interconnectedness and community",
-      "Rationality and logic"
+      "Dharma",
+      "Buddha",
+      "Moksha",
+      "Karma"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In Hinduism, what is the significance of the concept of 'Samsara'?",
+    "question": "What is the significance of 'Id al-Adha' in Islam?",
     "options": [
-      "The performance of rituals and sacrifices",
-      "The attainment of spiritual liberation",
-      "The cycle of rebirth and reincarnation",
-      "The pursuit of material wealth and power"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Islamic theology, what is the concept that refers to the belief that God has revealed himself to humans through prophets?",
-    "options": [
-      "Tawhid",
-      "Khilafah",
-      "Shirk",
-      "Tawassul"
+      "A festival of sacrifice and thanksgiving.",
+      "A sacred text of Islam.",
+      "A type of Islamic worship.",
+      "A form of prayer and supplication."
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the context of African religious traditions, what is the significance of the concept of 'Iwa'?",
+    "question": "In Hinduism, the concept of 'Purushartha' refers to the four goals of human life, which include",
     "options": [
-      "A social hierarchy that governs community life",
-      "A spiritual power or energy that flows through the world",
-      "A physical force or energy that governs the world",
-      "A moral code that guides human behavior"
+      "Dharma, Artha, Kama, Moksha",
+      "Dharma, Artha, Kama, Sthiti",
+      "Dharma, Artha, Kama, Niti",
+      "Dharma, Artha, Kama, Moksha, Niti"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In Hinduism, what is the significance of the concept of 'Samsara'?",
+    "question": "The Islamic concept of 'Tadabbur' refers to the practice of",
     "options": [
-      "The performance of rituals and sacrifices",
-      "The attainment of spiritual liberation",
-      "The pursuit of material wealth and power",
-      "The cycle of rebirth and reincarnation"
+      "Fasting and charity",
+      "Prayer and worship",
+      "Zakat and Hajj",
+      "Meditation and reflection"
     ],
     "correctIndex": 3
   }

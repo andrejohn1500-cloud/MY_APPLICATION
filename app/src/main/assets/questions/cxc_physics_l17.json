@@ -1,152 +1,152 @@
 [
   {
-    "question": "A 10 kg object is moving in a circular path with a radius of 1.5 m. What is its centripetal acceleration?",
+    "question": "A 10 kg block is moving with an initial velocity of 5 m/s. If the block is subjected to a force of 15 N in the opposite direction of the motion, what is the acceleration of the block after 3 seconds?",
     "options": [
-      "8.33 m/s^2",
-      "13.33 m/s^2",
-      "10.67 m/s^2",
-      "16.67 m/s^2"
+      "-0.75 m/s^2",
+      "-1.25 m/s^2",
+      "-0.5 m/s^2",
+      "-0.25 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 2 kg block is moving with a velocity of 5 m/s. What is its momentum?",
+    "question": "A 100 \u03a9 resistor is connected in series with a 10 \u03a9 resistor and a 50 \u03a9 resistor. What is the equivalent resistance of the circuit?",
     "options": [
-      "10 kg m/s",
-      "15 kg m/s",
-      "12 kg m/s",
-      "8 kg m/s"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A car travels 120 km in 2 hours. What is its average speed in m/s?",
-    "options": [
-      "60 m/s",
-      "50 m/s",
-      "70 m/s",
-      "30 m/s"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 50 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
-    "options": [
-      "125 J",
-      "100 J",
-      "150 J",
-      "175 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 2 kg object is moving in a circular path with a radius of 2.5 m. What is its centripetal acceleration?",
-    "options": [
-      "20 m/s^2",
-      "12 m/s^2",
-      "16 m/s^2",
-      "22 m/s^2"
+      "25 \u03a9",
+      "20 \u03a9",
+      "15 \u03a9",
+      "10 \u03a9"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 2 kg block is moving with a velocity of 2 m/s. What is its momentum?",
+    "question": "A 1000 Hz sound wave is traveling in air at a speed of 343 m/s. What is the frequency of the sound wave as heard by an observer moving towards the source at a speed of 10 m/s?",
     "options": [
-      "5 kg m/s",
-      "4 kg m/s",
-      "6 kg m/s",
-      "3 kg m/s"
+      "1234 Hz",
+      "1043 Hz",
+      "1178 Hz",
+      "931 Hz"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 10 N force is applied to an object with a mass of 5 kg. What is the acceleration of the object?",
+    "question": "A 100 \u03bcF capacitor is connected in series with a 200 \u03a9 resistor and a 250 V DC source. What is the current drawn by the circuit after 5 seconds?",
     "options": [
-      "4 m/s^2",
-      "1 m/s^2",
-      "3 m/s^2",
-      "2 m/s^2"
+      "0.157 A",
+      "2.14 A",
+      "0.314 A",
+      "1.57 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 100 \u03bcF capacitor is charged to a potential difference of 250 V. What is the energy stored in the capacitor?",
+    "options": [
+      "250000 J",
+      "125000 J",
+      "62500 J",
+      "31250 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 100 \u03bcF capacitor is charged to a potential difference of 250 V. What is the potential difference across the capacitor after 5 seconds?",
+    "options": [
+      "125 V",
+      "750 V",
+      "250 V",
+      "500 V"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car is traveling at a speed of 60 km/h. If the kinetic energy of the car is to be doubled, what should be the new speed of the car?",
+    "options": [
+      "40 km/h",
+      "60 km/h",
+      "80 km/h",
+      "120 km/h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 10 kg block is moving with an initial velocity of 4 m/s. If the block is subjected to a force of 10 N in the opposite direction of the motion, what is the acceleration of the block after 2 seconds?",
+    "options": [
+      "-0.25 m/s^2",
+      "-0.5 m/s^2",
+      "-0.75 m/s^2",
+      "-1.25 m/s^2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 100 Hz sound wave is traveling in air at a speed of 343 m/s. What is the wavelength of the sound wave?",
+    "options": [
+      "4.57 m",
+      "3.43 m",
+      "5.71 m",
+      "2.86 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 100 W light bulb is connected to a 120 V DC source. What is the current drawn by the light bulb?",
+    "options": [
+      "1.67 A",
+      "0.42 A",
+      "0.83 A",
+      "2.22 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 20 \u03a9 resistor is connected in parallel with a 10 \u03a9 resistor and a 50 \u03a9 resistor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "20 \u03a9",
+      "6.67 \u03a9",
+      "10 \u03a9",
+      "15 \u03a9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 10 kg block is moving with an initial velocity of 10 m/s. If the block is subjected to a force of 20 N in the opposite direction of the motion, what is the acceleration of the block after 4 seconds?",
+    "options": [
+      "-1.8 m/s^2",
+      "-2.5 m/s^2",
+      "-0.6 m/s^2",
+      "-1.25 m/s^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A body is moving with a constant acceleration of 2 m/s^2. What is its velocity after 5 seconds?",
+    "question": "A 100 \u03bcF capacitor is connected in series with a 200 \u03a9 resistor and a 250 V DC source. What is the time constant of the circuit?",
     "options": [
-      "10 m/s",
-      "15 m/s",
-      "12 m/s",
-      "18 m/s"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 2 kg block is attached to a horizontal spring with a spring constant of 100 N/m. The block is displaced by 0.2 m from its equilibrium position and released from rest. At what velocity will the block be moving when it passes through its equilibrium position?",
-    "options": [
-      "0.7 m/s",
-      "0.5 m/s",
-      "1.8 m/s",
-      "2.5 m/s"
+      "0.05 s",
+      "0.5 s",
+      "0.1 s",
+      "0.2 s"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 2 uF capacitor is connected in parallel to a 3 uF capacitor. What is the equivalent capacitance?",
+    "question": "A 5 kg block is moving with an initial velocity of 4 m/s. If the block is subjected to a force of 10 N in the opposite direction of the motion, what is the acceleration of the block after 2 seconds?",
     "options": [
-      "4 uF",
-      "6 uF",
-      "5 uF",
-      "7 uF"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 10 kg object is lifted to a height of 20 m. What is its potential energy?",
-    "options": [
-      "2400 J",
-      "2000 J",
-      "1800 J",
-      "2200 J"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 10 m length of copper wire has a resistance of 5 ohms. What is the current flowing through the wire when a potential difference of 30 V is applied across it?",
-    "options": [
-      "7 A",
-      "6 A",
-      "8 A",
-      "5 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 200 W bulb has a resistance of 20 ohms. What is the current flowing through the bulb?",
-    "options": [
-      "25 A",
-      "15 A",
-      "5 A",
-      "10 A"
+      "-1.25 m/s^2",
+      "-0.75 m/s^2",
+      "-0.25 m/s^2",
+      "-0.5 m/s^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 2 kg object is moving in a circular path with a radius of 1.5 m. What is its centripetal acceleration?",
+    "question": "A 1000 Hz sound wave is traveling in air at a speed of 343 m/s. What is the wavelength of the sound wave as heard by an observer moving towards the source at a speed of 10 m/s?",
     "options": [
-      "8.33 m/s^2",
-      "6.67 m/s^2",
-      "9.99 m/s^2",
-      "12.5 m/s^2"
+      "5.71 m",
+      "4.57 m",
+      "2.86 m",
+      "3.29 m"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A body is moving with a constant velocity of 5 m/s. What is its acceleration?",
-    "options": [
-      "1 m/s^2",
-      "2 m/s^2",
-      "0 m/s^2",
-      "3 m/s^2"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

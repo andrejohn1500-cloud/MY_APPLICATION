@@ -1,152 +1,152 @@
 [
   {
-    "question": "A 5 Farad capacitor is connected in series with a 10 ohm resistor. What is the equivalent resistance of the circuit?",
+    "question": "What is the unit of work in the International System of Units (SI)?",
     "options": [
-      "0 ohms",
-      "5 ohms",
-      "10 Farads",
-      "10 ohms"
+      "Meter",
+      "Joule",
+      "Newton",
+      "Second"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 10 meters in 5 seconds, what is its acceleration?",
+    "question": "A 12 V battery is connected to a 3 ohm resistor and a 6 ohm resistor in parallel. What is the current flowing through the circuit?",
     "options": [
-      "no acceleration",
-      "10 m/s^2",
-      "1 m/s^2",
-      "0.5 m/s^2"
+      "1 A",
+      "0.5 A",
+      "0.3 A",
+      "2 A"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A wave has a frequency of 20 Hz and a speed of 50 m/s. What is its wavelength?",
+    "question": "A 3 ohm resistor, a 6 ohm resistor, and a 9 ohm resistor are connected in series across a 15 V battery. What is the current flowing through the circuit?",
     "options": [
-      "1.25 m",
-      "5 m",
-      "10 m",
-      "2.5 m"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the type of radiation that has a low frequency and long wavelength?",
-    "options": [
-      "Ultraviolet Radiation",
-      "Microwave Radiation",
-      "Radio Waves",
-      "Infrared Radiation"
+      "0.3 A",
+      "1 A",
+      "0.5 A",
+      "0.4 A"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the measure of how much a material is able to resist changes in its electric field?",
+    "question": "A 5 kg object is moving in a circular path at a speed of 3 m/s. What is the magnitude of the centripetal force acting on the object?",
     "options": [
-      "Dielectric Constant",
-      "Dielectric Permittivity",
-      "Dielectric Loss",
-      "Dielectric Strength"
+      "7.5 N",
+      "12 N",
+      "5 N",
+      "10 N"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The frequency of a wave is 50 Hz, and its speed is 100 m/s. What is its amplitude?",
+    "question": "A sound wave has a frequency of 200 Hz and a speed of 330 m/s. What is its wavelength?",
     "options": [
-      "10 m",
-      "no information",
+      "1.65 m",
+      "1 m",
       "2 m",
-      "1 m"
+      "0.5 m"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 5 kg object is moving in a circular path at a speed of 2 m/s. What is the magnitude of the centripetal force acting on the object?",
+    "options": [
+      "8 N",
+      "4 N",
+      "6 N",
+      "2 N"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A resistor of 2 ohms is connected in series with a capacitor of 10 Farads. What is the reactance of the circuit?",
+    "question": "A 5 ohm resistor and a 10 ohm resistor are connected in series across a 12 V battery. What is the current flowing through the circuit?",
     "options": [
-      "2000 ohms",
-      "0 ohms",
-      "20 ohms",
-      "200 ohms"
+      "0.3 A",
+      "1 A",
+      "0.4 A",
+      "0.6 A"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 10 ohm resistor is connected in parallel with a 20 ohm resistor. What is the equivalent resistance of the circuit?",
+    "question": "A 10 kg block is pushed up a frictionless incline with an initial velocity of 5 m/s. What is its kinetic energy at the top of the incline?",
     "options": [
-      "0 ohms",
-      "20 ohms",
-      "6.67 ohms",
-      "10 ohms"
+      "50 J",
+      "20 J",
+      "25 J",
+      "10 J"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. What is its momentum?",
+    "question": "An object is projected vertically upwards from the surface of the Earth with an initial velocity of 20 m/s. Neglecting air resistance, determine the speed of the object when it reaches a height of 10 m. ",
     "options": [
-      "100 kg m/s",
-      "50 kg m/s",
-      "20 kg m/s",
-      "75 kg m/s"
+      "20 m/s",
+      "10 m/s",
+      "25 m/s",
+      "15 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 5 m/s, what is its velocity after 5 seconds?",
+    "question": "An electromagnetic wave has a frequency of 50 Hz and a wavelength of 300 m. What is its speed in air?",
     "options": [
-      "17.5 m/s",
-      "7 m/s",
-      "3 m/s",
-      "5 m/s"
+      "500 m/s",
+      "6000 m/s",
+      "15000 m/s",
+      "3000 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 6 kg block is attached to a horizontal spring with a force constant of 100 N/m. The block is displaced by 1.5 m from its equilibrium position. What is the magnitude of the restoring force acting on the block?",
+    "options": [
+      "300 N",
+      "250 N",
+      "100 N",
+      "200 N"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A wave is reflected off a free end. What is the nature of the wave at the free end?",
+    "question": "A coil of wire has a resistance of 10 ohms and an inductance of 0.1 H. What is its inductive reactance at a frequency of 100 Hz?",
     "options": [
-      "displacement is maximum",
-      "antinode",
-      "displacement is minimum",
-      "node"
+      "10 ohms",
+      "1 ohm",
+      "50 ohms",
+      "5 ohms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 6 ohm resistor, a 9 ohm resistor, and a 12 ohm resistor are connected in series across a 15 V battery. What is the current flowing through the circuit?",
+    "options": [
+      "0.5 A",
+      "0.4 A",
+      "0.3 A",
+      "1 A"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A wave is reflected off a fixed end and a free end. What is the nature of the wave at the fixed and free ends?",
+    "question": "A light source emits light of wavelength 600 nm. What is its energy?",
     "options": [
-      "antinode, antinode",
-      "node, node",
-      "antinode, node",
-      "node, antinode"
+      "1.1 eV",
+      "4.1 eV",
+      "2.1 eV",
+      "3.1 eV"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "The force applied to an object is doubled, and its mass remains constant. What is the effect on the acceleration of the object?",
+    "question": "A 10 kg block is pushed up a frictionless incline with an initial velocity of 4 m/s. What is its kinetic energy at the top of the incline?",
     "options": [
-      "acceleration is doubled",
-      "acceleration is tripled",
-      "acceleration remains the same",
-      "acceleration is halved"
+      "20 J",
+      "8 J",
+      "16 J",
+      "12 J"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the type of conduction that occurs when a material is heated from the inside out?",
-    "options": [
-      "Conduction",
-      "Radiation",
-      "Convection",
-      "Diffusion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the measure of how much a material is attracted to a magnet at a distance?",
-    "options": [
-      "Magnetic Susceptibility",
-      "Magnetic Field Strength",
-      "Magnetic Moment",
-      "Magnetic Permeability"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

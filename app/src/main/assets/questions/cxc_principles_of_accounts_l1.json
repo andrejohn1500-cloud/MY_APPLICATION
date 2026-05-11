@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the process of valuing a business's assets at their net realizable value?",
+    "question": "What is a company's cash flow statement?",
     "options": [
-      "Accumulation",
-      "Amortization",
-      "Depreciation",
-      "Obsolescence"
+      "A statement that shows the company's purpose and objectives",
+      "A statement that shows the company's operations and financial position",
+      "A statement that shows the inflows and outflows of cash and cash equivalents of a business over a specific period",
+      "A statement that shows the company's takeover"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of preparing financial statements in accordance with the matching principle?",
+    "question": "What is the primary function of a cash flow forecast?",
     "options": [
-      "Going concern",
-      "Matching principle",
-      "Consistency",
-      "Materiality"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of partnership where all partners have equal ownership and decision-making power?",
-    "options": [
-      "Limited liability partnership",
-      "Joint venture",
-      "General partnership",
-      "Limited partnership"
+      "To show the financial performance of a business over a specific period",
+      "To show the financial position of a business at a specific date",
+      "To forecast the future cash inflows and outflows of a business",
+      "To show the profit or loss of a business over a specific period"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a transaction that affects only one party in a business relationship?",
+    "question": "What is a general ledger?",
     "options": [
-      "Single-entry transaction",
-      "Monetary transaction",
-      "Double-entry transaction",
-      "Non-monetary transaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of recording and classifying financial transactions in a business?",
-    "options": [
-      "Auditing",
-      "Taxation",
-      "Bookkeeping",
-      "Accounting"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of preparing financial statements in accordance with the accrual basis of accounting?",
-    "options": [
-      "Matching principle",
-      "Accrual basis of accounting",
-      "Cash basis of accounting",
-      "Materiality"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a characteristic of a partnership?",
-    "options": [
-      "Limited liability",
-      "Ownership by one individual",
-      "Separate legal entity",
-      "Ownership by two or more individuals"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following financial ratios is used to measure a business's efficiency?",
-    "options": [
-      "Current ratio",
-      "Debt ratio",
-      "Asset turnover ratio",
-      "Return on equity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following financial statements provides a summary of a business's revenues and expenses over a specific period?",
-    "options": [
-      "Statement of cash flows",
-      "Statement of changes in equity",
-      "Income statement",
-      "Balance sheet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of preparing a Trial Balance?",
-    "options": [
-      "To adjust entries",
-      "To prepare the financial statements",
-      "To test the equality of debits and credits",
-      "To record transactions"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following financial ratios is used to measure a business's liquidity?",
-    "options": [
-      "Asset turnover ratio",
-      "Return on equity",
-      "Current ratio",
-      "Debt ratio"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of recording and reporting a business's transactions in accordance with Generally Accepted Accounting Principles (GAAP)?",
-    "options": [
-      "Taxation",
-      "Auditing",
-      "Bookkeeping",
-      "Accounting"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a business owned by two or more individuals?",
-    "options": [
-      "Partnership",
-      "Sole proprietorship",
-      "Corporation",
-      "Company"
+      "A ledger that contains a record of all the general ledger accounts",
+      "A ledger that contains a record of all the bank transactions",
+      "A ledger that contains a record of all the sub-ledger accounts",
+      "A ledger that contains a record of all the accounts payable and accounts receivable"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a business's ability to pay its debts as they become due?",
+    "question": "What is a provision?",
     "options": [
-      "Profitability",
-      "Liquidity",
-      "Solvency",
-      "Efficiency"
+      "A liability that has not been paid",
+      "An expense that has been incurred",
+      "An asset that has been paid",
+      "A revenue that has not been earned"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a directors' report?",
+    "options": [
+      "To provide information about the company's rules and regulations",
+      "To provide information about the company's operations and financial position",
+      "To provide information about the company's takeover",
+      "To provide information about the company's purpose and objectives"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a business owned by shareholders who have limited liability?",
+    "question": "What is a sub-ledger?",
     "options": [
-      "Company",
-      "Partnership",
-      "Corporation",
-      "Sole proprietorship"
+      "A book that contains a record of all the liabilities of a business",
+      "A book that contains a record of all the transactions affecting a particular account",
+      "A book that contains a record of all the assets of a business",
+      "A book that contains a record of all the equity of a business"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a company's statement of changes in equity?",
+    "options": [
+      "A statement that shows the company's takeover",
+      "A statement that shows the company's operations and financial position",
+      "A statement that shows the company's purpose and objectives",
+      "A statement that shows the changes in equity over a specific period"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a company's statement of changes in equity (revised)?",
+    "options": [
+      "A statement that shows the changes in equity over a specific period, taking into account non-controlling interests",
+      "A statement that shows the company's operations and financial position",
+      "A statement that shows the company's purpose and objectives",
+      "A statement that shows the company's takeover"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is a petty cash book?",
+    "options": [
+      "A book that contains a record of large cash transactions",
+      "A book that contains a record of small cash transactions",
+      "A book that contains a record of all bank transactions",
+      "A book that contains a record of all accounts payable and accounts receivable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a ledger account?",
+    "options": [
+      "A record of all the assets of a business",
+      "A record of all the liabilities of a business",
+      "A record of all the equity of a business",
+      "A record of all the transactions affecting a particular account"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is a suspense account?",
+    "options": [
+      "An account that is used to record transactions that are not yet cleared or verified",
+      "An account that is used to record transactions that are already cleared or verified",
+      "An account that is used to record transactions that are already recorded",
+      "An account that is used to record transactions that are not yet recorded"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a cash book?",
+    "options": [
+      "A book that contains a record of all assets and liabilities",
+      "A book that contains a record of all accounts payable and accounts receivable",
+      "A book that contains a record of all cash transactions",
+      "A book that contains a record of all bank transactions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a balance sheet?",
+    "options": [
+      "To show the financial performance of a business over a specific period",
+      "To show the financial position of a business at a specific date",
+      "To show the cash flow of a business over a specific period",
+      "To show the profit or loss of a business over a specific period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a company's directors' report?",
+    "options": [
+      "A report that provides information about the company's operations and financial position",
+      "A report that provides information about the company's takeover",
+      "A report that provides information about the company's rules and regulations",
+      "A report that provides information about the company's purpose and objectives"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a journal in a double entry system?",
+    "options": [
+      "To post entries to the ledger",
+      "To prepare the trial balance",
+      "To prepare the final accounts",
+      "To record all business transactions"
+    ],
+    "correctIndex": 3
   }
 ]

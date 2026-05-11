@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which African Traditional Religion emphasizes the importance of ancestors and the afterlife?",
+    "question": "What is the name of the sacred text of Jainism?",
     "options": [
-      "Yoruba",
-      "Dogon",
-      "Zulu",
-      "Xhosa"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the holy book of Islam?",
-    "options": [
-      "Quran",
-      "Puranas",
       "Torah",
+      "Agam Sutras",
+      "Quran",
       "Bible"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "In Hinduism, what is the term for the cycle of birth and death?",
+    "question": "What is the concept of 'Tapas' in Hinduism?",
     "options": [
-      "Samsara",
-      "Karma",
-      "Moksha",
-      "Dharma"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which Caribbean spiritual practice emphasizes the use of music and dance in worship?",
-    "options": [
-      "Pocomania",
-      "Myalism",
-      "Candomble",
-      "Abakua"
+      "Self-sacrifice or self-denial",
+      "Self-discipline or self-control",
+      "Self-indulgence or self-gratification",
+      "Self-reliance or self-confidence"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the practice of following a spiritual path or tradition?",
+    "question": "What is the concept of 'Ahimsa' in Hinduism?",
     "options": [
-      "Philosophy",
-      "Religion",
-      "Science",
-      "Spirituality"
+      "Compassion",
+      "Non-violence",
+      "Forgiveness",
+      "Self-control"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for the study of the meaning and significance of sacred texts?",
+    "question": "What is the name of the sacred text of Buddhism?",
     "options": [
-      "Hermeneutics",
-      "Canon",
-      "Exegesis",
-      "Eisegesis"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the concept of the interconnectedness of all living things?",
-    "options": [
-      "Interconnectedness",
-      "Autonomy",
-      "Separateness",
-      "Independence"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Who is the chief deity in the Hindu Trimurti?",
-    "options": [
-      "Shiva",
-      "Ganesh",
-      "Krishna",
-      "Brahma"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process of spiritual growth and self-realization?",
-    "options": [
-      "Intellectual development",
-      "Moral development",
-      "Spiritual development",
-      "Emotional development"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Islam, what is the term for the holy war?",
-    "options": [
-      "Hadith",
+      "Bible",
       "Quran",
-      "Jihad",
-      "Sunna"
+      "Torah",
+      "Pali Canon"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the sacred river in Hinduism?",
+    "options": [
+      "Jordan",
+      "Amazon",
+      "Nile",
+      "Ganges"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which Caribbean spiritual practice is associated with the use of divination?",
+    "options": [
+      "Methodism",
+      "Obeah",
+      "Myalism",
+      "Pentecostalism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Who is the central figure in the Christian faith?",
+    "question": "Who is considered the founder of Sikhism?",
+    "options": [
+      "Guru Nanak",
+      "Krishna",
+      "Jesus Christ",
+      "Muhammad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean spiritual practice is associated with the use of ancestral worship?",
+    "options": [
+      "Obeah",
+      "Myalism",
+      "Methodism",
+      "Pentecostalism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the concept of 'Dukkha' in Buddhism?",
+    "options": [
+      "Pleasure or enjoyment",
+      "Peace or tranquility",
+      "Happiness or satisfaction",
+      "Suffering or dissatisfaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is considered the founder of Shintoism?",
+    "options": [
+      "Krishna",
+      "Muhammad",
+      "Amaterasu",
+      "Jesus Christ"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which African traditional religion is practiced in Southern Africa?",
+    "options": [
+      "Zulu",
+      "Maasai",
+      "Inca",
+      "Yoruba"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is considered the founder of Buddhism?",
+    "options": [
+      "Siddhartha Gautama",
+      "Jesus Christ",
+      "Krishna",
+      "Muhammad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is considered the founder of Sikhism?",
     "options": [
       "Jesus Christ",
-      "Buddha",
-      "Krishna",
-      "Mohammed"
+      "Muhammad",
+      "Guru Nanak",
+      "Krishna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is considered the founder of Confucianism?",
+    "options": [
+      "Confucius",
+      "Muhammad",
+      "Jesus Christ",
+      "Krishna"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which African Traditional Religion emphasizes the importance of fertility and agriculture?",
+    "question": "What is the name of the highest spiritual authority in Roman Catholicism?",
     "options": [
-      "Dogon",
-      "Xhosa",
-      "Yoruba",
-      "Zulu"
+      "Rabbi",
+      "Caliph",
+      "Dalai Lama",
+      "Pope"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the concept of the divine spark within each person?",
-    "options": [
-      "Dharma",
-      "Atman",
-      "Brahman",
-      "Karma"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the concept of the interconnectedness of all things?",
-    "options": [
-      "Interdependence",
-      "Independence",
-      "Dependence",
-      "Autonomy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which Caribbean spiritual practice emphasizes the use of trance and possession in healing?",
-    "options": [
-      "Candomble",
-      "Abakua",
-      "Myalism",
-      "Pocomania"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

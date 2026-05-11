@@ -1,122 +1,52 @@
 [
   {
-    "question": "What is the significance of the Kaaba in Islam?",
+    "question": "What is the concept of 'Jihad' in Islam?",
     "options": [
-      "It is the birthplace of Jesus",
-      "It is the location of the Last Supper",
-      "It is the site of the resurrection of Jesus",
-      "It is the holiest site in Islam"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which Caribbean spiritual practice emphasizes the use of rituals and ceremonies in healing?",
-    "options": [
-      "Myalism",
-      "Candomble",
-      "Obeah",
-      "Pocomania"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In African Traditional Religions, what is the term for the connection between humans and the natural world?",
-    "options": [
-      "Ubuntu",
-      "Asabiya",
-      "Ancestors",
-      "Orishas"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a major branch of Buddhism?",
-    "options": [
-      "Mahayana",
-      "Hinduism",
-      "Sikhism",
-      "Theravada"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In Islam, what is the term for the Day of Judgment?",
-    "options": [
-      "Hadith",
-      "Qiyama",
-      "Quran",
-      "Sunna"
+      "Struggle or effort to achieve power",
+      "Struggle or effort to please God",
+      "Struggle or effort to achieve fame",
+      "Struggle or effort to achieve wealth"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which social issue is closely linked to the concept of poverty and economic inequality?",
+    "question": "Who is considered the founder of Jainism?",
     "options": [
-      "Income inequality",
-      "G gender inequality",
-      "Healthcare inequality",
-      "Racial inequality"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In Hinduism, what is the term for the path of action and self-purification?",
-    "options": [
-      "Jnana",
-      "Karma",
-      "Dhyana",
-      "Bhakti"
+      "Jesus Christ",
+      "Mahavira",
+      "Krishna",
+      "Muhammad"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which African Traditional Religion emphasizes the importance of community and social cohesion?",
+    "question": "What is the concept of 'Karma' in Hinduism?",
     "options": [
-      "Zulu",
-      "Xhosa",
-      "Dogon",
-      "Yoruba"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which Caribbean spiritual practice is associated with the celebration of life and the cycles of nature?",
-    "options": [
-      "Candomble",
-      "Myalism",
-      "Pocomania",
-      "Obeah"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which Christian text is considered the primary source of doctrine and moral teachings?",
-    "options": [
-      "Quran",
-      "Mahabharata",
-      "Puranas",
-      "Bible"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the concept of the social and moral responsibility to others?",
-    "options": [
-      "Social responsibility",
-      "Individual responsibility",
-      "Spiritual responsibility",
-      "Moral responsibility"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In Hinduism, what is the term for the path of devotion and love towards God?",
-    "options": [
-      "Jnana",
-      "Dhyana",
-      "Bhakti",
-      "Karma"
+      "The law of sin and death",
+      "The law of grace and salvation",
+      "The law of cause and effect",
+      "The law of love and forgiveness"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the concept of 'Tao' in Taoism?",
+    "options": [
+      "The beautiful or harmony",
+      "The way or principle",
+      "The good or virtue",
+      "The truth or reality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the sacred text of Sikhism?",
+    "options": [
+      "Bible",
+      "Torah",
+      "Quran",
+      "Guru Granth Sahib"
+    ],
+    "correctIndex": 3
   }
 ]

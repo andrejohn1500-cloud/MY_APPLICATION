@@ -1,152 +1,152 @@
 [
   {
-    "question": "A composer is asked to write a piece for a steelband. The piece should be in a minor key and feature a prominent bass line. What style of Caribbean music is the composer most likely to be writing in?",
+    "question": "Which of the following musical symbols indicates a ritardando?",
     "options": [
-      "Zouk",
-      "Reggae",
-      "Calypso",
-      "Soca"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In music notation, what does the symbol 'pizz.' indicate?",
-    "options": [
-      "Sudden change in pitch",
-      "Shortened duration",
-      "Sustained tone",
-      "Pizzicato effect"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In music notation, what does the symbol 'tenuto' indicate?",
-    "options": [
-      "Shortened duration",
-      "Sudden change in pitch",
-      "Tempo increase",
-      "Sustained tone"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In aural skills, what is the process of identifying and describing the rhythm of a musical passage?",
-    "options": [
-      "Timbre analysis",
-      "Melody analysis",
-      "Rhythm analysis",
-      "Texture analysis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following musical forms is characterized by a series of interweaving melodies?",
-    "options": [
-      "Theme and Variations form",
-      "Rondo form",
-      "Fugue form",
-      "Sonata form"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following musical instruments is commonly used in soca music?",
-    "options": [
-      "Steelpan",
-      "Drums",
-      "Guitar",
-      "Piano"
+      "ritardando",
+      "accelerando",
+      "decrescendo",
+      "crescendo"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In aural skills, what is the process of identifying and describing the form of a musical passage?",
+    "question": "What is the term for the rhythmic pattern of short and long notes in music?",
     "options": [
-      "Form analysis",
-      "Texture analysis",
-      "Melody analysis",
-      "Rhythm analysis"
+      "legato",
+      "rubato",
+      "syncopation",
+      "arpeggio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical symbols indicates a fermata (pause)?",
+    "options": [
+      "articulation",
+      "dynamics",
+      " fermata",
+      "rests"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a minor chord in a key?",
+    "options": [
+      "to create a bright and happy mood",
+      "to add tension to a musical passage",
+      "to create a sombre or melancholic mood",
+      "to provide a sense of resolution"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the repetition of a musical phrase or section at a slower tempo?",
+    "options": [
+      "ritardando",
+      "accelerando",
+      "crescendo",
+      "decrescendo"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In music notation, what is the term for the vertical arrangement of notes on the staff?",
+    "question": "Which of the following musical instruments is often used in calypso music?",
     "options": [
-      "Staff notation",
-      "Staff",
-      "Score",
-      "Sheet music"
+      "piano",
+      "drum",
+      "trumpet",
+      "guitar"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In music notation, what does the symbol 'piano' indicate?",
+    "question": "What is the primary function of a musical interlude in a composition?",
     "options": [
-      "Loud dynamics",
-      "Crescendo dynamic",
-      "Soft dynamics",
-      "Sforzando dynamic"
+      "to provide contrast to the main theme",
+      "to create a sense of tension",
+      "to add repetition to a section",
+      "to conclude the composition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the repetition of a musical phrase or section in a different order?",
+    "options": [
+      "transposition",
+      "augmentation",
+      "diminution",
+      "inversion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the gradual decrease in volume or intensity of a musical phrase?",
+    "options": [
+      "ritardando",
+      "crescendo",
+      "decrescendo",
+      "accelerando"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following musical instruments is commonly used in reggae music?",
+    "question": "Which of the following musical symbols indicates a staccato articulation?",
     "options": [
-      "Steelpan",
-      "Drums",
-      "Bass guitar",
-      "Piano"
+      "legato",
+      "fermata",
+      "articulation",
+      "dot"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a musical introduction in a composition?",
+    "options": [
+      "to introduce the main theme or theme",
+      "to add repetition to a section",
+      "to create a sense of resolution",
+      "to add tension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the repetition of a musical phrase or section at a slower tempo, with a change in rhythm?",
+    "options": [
+      "transposition",
+      "diminution",
+      "augmentation",
+      "inversion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In aural skills, what is the process of identifying and writing down musical notes that are heard?",
+    "question": "What is the primary function of a musical reprise in a composition?",
     "options": [
-      "Dictation exercise",
-      "Sing-back exercise",
-      "Ear training exercise",
-      "Improvisation exercise"
+      "to create a sense of tension",
+      "to provide contrast",
+      "to add new material to a composition",
+      "to repeat a musical theme or section"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a musical development in music?",
+    "options": [
+      "to add new material to a composition",
+      "to conclude the composition",
+      "to repeat a musical theme or section",
+      "to create a sense of tension"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In music notation, what does the symbol 'ritard.' indicate?",
+    "question": "What is the primary function of a musical theme in music?",
     "options": [
-      "Volume increase",
-      "Increasing tempo",
-      "Decreasing tempo",
-      "Sudden change in pitch"
+      "to create a sense of tension",
+      "to provide a harmonic foundation",
+      "to add repetition to a section",
+      "to provide a musical idea or motif"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following musical instruments is commonly used in reggae music?",
-    "options": [
-      "Steelpan",
-      "Piano",
-      "Drums",
-      "Bass guitar"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following musical instruments is commonly used in soca music?",
-    "options": [
-      "Steelpan",
-      "Drums",
-      "Guitar",
-      "Piano"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following musical forms is characterized by a series of contrasting sections?",
-    "options": [
-      "Sonata form",
-      "Rondo form",
-      "Theme and Variations form",
-      "Fugue form"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

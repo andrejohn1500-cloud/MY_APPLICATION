@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the function of the beat in music?",
+    "question": "What is the term for the combination of two or more melodies sounding simultaneously?",
     "options": [
-      "Adds expression",
-      "Establishes harmony",
-      "Creates melody",
-      "Provides a rhythmic pulse"
+      "Homophony",
+      "Polyphony",
+      "Heterophony",
+      "Monophony"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "In the Caribbean, which genre of music developed in Trinidad and Tobago?",
+    "question": "Which of the following musical forms is characterized by the use of a slow tempo and a simple rhythm?",
     "options": [
-      "Calypso",
-      "Mento",
-      "Reggae",
-      "Soca"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the study of music in relation to its historical and cultural context?",
-    "options": [
-      "Composition",
-      "Aural skills",
-      "Music theory",
-      "Musicology"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a sequence of notes that move in a smooth, flowing manner, but with some separation between the notes?",
-    "options": [
-      "Accent",
-      "Articulation",
-      "Staccato articulation",
-      "Legato articulation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which Caribbean music form originated in Trinidad and Tobago?",
-    "options": [
-      "Mento",
-      "Soca",
-      "Reggae",
-      "Calypso"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In music notation, what does the symbol 'cresc.' indicate?",
-    "options": [
-      "Increasing volume",
-      "Decreasing volume",
-      "Tempo increase",
-      "Sudden change in pitch"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the basic unit of music?",
-    "options": [
-      "Rhythm",
-      "Harmony",
-      "Melody",
-      "Note"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In the Caribbean, which genre of music developed in Jamaica?",
-    "options": [
-      "Calypso",
-      "Soca",
-      "Reggae",
-      "Mento"
+      "Waltz",
+      "Adagio",
+      "Largo",
+      "Minuet"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of musical form is characterized by a series of short, independent melodies, with some changes in dynamics or articulation?",
+    "question": "What is the term for the repetition of a pattern of notes or rhythms in a different key?",
     "options": [
-      "Theme and variations",
+      "Transposition",
+      "Variation",
+      "Inversion",
+      "Retransition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the combination of two or more melodies sounding simultaneously in a different key?",
+    "options": [
+      "Transposition",
+      "Inversion",
+      "Variation",
+      "Retransition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the repetition of a pattern of notes or rhythms in a different octave?",
+    "options": [
+      "Inversion",
+      "Variation",
+      "Retransition",
+      "Octave transposition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following musical forms is characterized by the use of a series of variations on a theme?",
+    "options": [
+      "Theme and variation form",
       "Rondo form",
-      "Fugue",
+      "Binary form",
       "Sonata form"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following musical instruments is used to produce a deep, rich sound?",
+    "question": "Which of the following musical forms is characterized by the use of a single theme repeated throughout the piece?",
     "options": [
-      "Double bass",
-      "Guitar",
-      "Piano",
-      "Drums"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a musical idea that is repeated, but with some changes, and then returns to the original idea?",
-    "options": [
+      "Theme and variation form",
       "Sonata form",
-      "Fugue",
-      "Rondo form",
-      "Theme and variations"
+      "Binary form",
+      "Rondo form"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of rhythm is characterized by two equal pulses?",
+    "question": "What is the primary function of a composer in music?",
     "options": [
-      "Duple rhythm",
-      "Compound duple rhythm",
-      "Compound rhythm",
-      "Triple rhythm"
+      "To create original music",
+      "To conduct music",
+      "To teach music",
+      "To perform music"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which musical instrument is popular in the Caribbean, especially in Trinidad and Tobago?",
+    "question": "What is the primary function of a melody in a piece of music?",
     "options": [
-      "Piano",
-      "Steelpan",
-      "Drums",
-      "Guitar"
+      "To provide rhythm",
+      "To provide the main theme or tune of a piece",
+      "To provide texture",
+      "To provide harmony"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In music theory, what is the term for a group of notes that repeat at regular intervals?",
+    "question": "What is the primary function of a bass line in music?",
     "options": [
-      "Pattern",
-      "Motif",
-      "Ostinato",
-      "Theme"
+      "To provide rhythm",
+      "To provide melody",
+      "To provide harmony",
+      "To provide harmonic structure and rhythm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the combination of two or more instruments sounding simultaneously?",
+    "options": [
+      "Melody",
+      "Rhythm",
+      "Timbre",
+      "Harmony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following musical forms is characterized by the use of a slow tempo and a simple rhythm?",
+    "options": [
+      "Minuet",
+      "Adagio",
+      "Waltz",
+      "Largo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in calypso music?",
+    "options": [
+      "Steelpan",
+      "Drums",
+      "Percussion",
+      "Horn"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the time signature 4/4?",
+    "question": "What is the term for the arrangement of notes in a chord?",
     "options": [
-      "Common time",
-      "Triple time",
-      "Compound time",
-      "Duple time"
+      "Harmonic pattern",
+      "Rhythmic pattern",
+      "Melodic pattern",
+      "Interval pattern"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a conductor in music?",
+    "options": [
+      "To perform music",
+      "To lead a group of musicians in performing a piece",
+      "To teach music",
+      "To compose music"
+    ],
+    "correctIndex": 1
   }
 ]

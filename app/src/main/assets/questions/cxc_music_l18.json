@@ -1,32 +1,112 @@
 [
   {
-    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the third beat of each measure. What is the term for this rhythmic pattern?",
+    "question": "What is the term for the repetition of a musical composition with changes in harmony, melody, and rhythm?",
     "options": [
-      "compound meter",
-      "duple meter",
-      "triple meter",
-      "simple meter"
+      "A variation.",
+      "A sequence.",
+      "A repeat.",
+      "A canon."
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the first beat of each measure. What is the term for this rhythmic pattern?",
+    "question": "In the musical composition of calypso, what is the function of the 'calypso horn' in the rhythm?",
     "options": [
-      "simple meter",
-      "duple meter",
-      "compound meter",
-      "triple meter"
+      "To create a sense of rhythmic uncertainty and surprise.",
+      "To create a sense of rhythmic momentum and energy.",
+      "To create a sense of rhythmic repetition and familiarity.",
+      "To create a sense of rhythmic stability and resolution."
     ],
     "correctIndex": 1
   },
   {
-    "question": "The use of a single melodic line accompanied by a chord progression is an example of which type of harmony?",
+    "question": "What is the term for a musical phrase that ends with a perfect cadence?",
     "options": [
-      "polyphony",
-      "monophony",
-      "homophony",
-      "heterophony"
+      "A phrase that ends with a sense of anticipation.",
+      "A phrase that ends with a sense of uncertainty.",
+      "A phrase that ends with a sense of finality and resolution.",
+      "A phrase that ends with a sense of tension."
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "In the musical composition of calypso, what is the function of the ' calypso horn'?",
+    "options": [
+      "To create a sense of rhythmic stability and resolution.",
+      "To create a sense of rhythmic momentum and energy.",
+      "To create a sense of rhythmic repetition and familiarity.",
+      "To create a sense of rhythmic uncertainty and surprise."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the repetition of a musical composition with changes in tempo?",
+    "options": [
+      "A canon.",
+      "A sequence.",
+      "A variation.",
+      "A repeat."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the repetition of a musical composition with changes in melody and rhythm?",
+    "options": [
+      "A variation.",
+      "A canon.",
+      "A repeat.",
+      "A sequence."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a group of musicians playing the same melody in unison?",
+    "options": [
+      "A unison or a homophony.",
+      "A canon.",
+      "A counterpoint.",
+      "A fugue."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the repetition of a musical composition with changes in timbre?",
+    "options": [
+      "A sequence.",
+      "A canon.",
+      "A repeat.",
+      "A variation."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the musical composition of calypso, what is the function of the 'calypso horn' in the melody?",
+    "options": [
+      "To create a sense of rhythmic momentum and energy.",
+      "To create a sense of rhythmic stability and resolution.",
+      "To create a sense of rhythmic repetition and familiarity.",
+      "To create a sense of rhythmic uncertainty and surprise."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the musical composition of steelpan music, what is the function of the 'Glasgow' and 'Double Glasgow' tunings in the melody?",
+    "options": [
+      "To create a sense of stability and resolution in the melody.",
+      "To create a sense of tension and release in the melody.",
+      "To create a sense of repetition and familiarity in the melody.",
+      "To create a sense of uncertainty and surprise in the melody."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a group of 3 or more voices singing the same melody in harmony?",
+    "options": [
+      "A counterpoint.",
+      "A chord or a harmony.",
+      "A fugue.",
+      "A canon."
+    ],
+    "correctIndex": 1
   }
 ]

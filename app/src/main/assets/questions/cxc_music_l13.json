@@ -1,22 +1,92 @@
 [
   {
-    "question": "In a musical piece with 16 bars, the first 4 bars are in the key of C major and the next 4 bars are in the key of G major. What type of musical form is this?",
+    "question": "The term 'Harmony' refers to the combination of multiple pitches sounding simultaneously in a musical composition. What is the primary function of harmony in the overall structure of the piece?",
     "options": [
-      "Sonata form",
-      "Binary form",
-      "Ternary form",
-      "Rondo form"
+      "To Introduce a New Theme",
+      "To Create a Sense of Tension and Release",
+      "To Provide a Sense of Repose",
+      "To Create a Dramatic Climax"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In music history, what is the term for the period of time in the 1970s and 1980s when disco and funk were popular?",
+    "question": "A composer is writing a piece for steelpan. What type of instrument cable would be most suitable for the instrument?",
     "options": [
-      "Rock era",
-      "Funk era",
-      "Disco era",
-      "New wave era"
+      "Cable with a Foldable Design",
+      "Cable with a Large, Unstable Design",
+      "Cable with a Secure, Durable Design",
+      "Cable with a Small, Unstable Design"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The term 'Timbre' refers to the unique 'tone colour' or 'sound quality' of a musical instrument. What is the primary factor that determines the timbre of an instrument?",
+    "options": [
+      "Instrument's Tuning and Pitch",
+      "Instrument's Size and Weight",
+      "Instrument's Mechanical Action",
+      "Instrument's Shape and Materials"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the musical instrument used in Reggae music to create a distinctive bass sound?",
+    "options": [
+      "Synthesizer",
+      "Bass Guitar",
+      "Electric Guitar",
+      "Drums"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The term 'Articulation' refers to the way in which notes are attack and released in a musical composition. What type of articulation is characterized by a short, detached attack and a sudden release?",
+    "options": [
+      "Accent",
+      "Staccato",
+      "Legato",
+      "Sforzando"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the key of F major, what notes would be used to create a minor chord?",
+    "options": [
+      "F - Ab - C",
+      "F - A - C",
+      "F - G - C",
+      "F - Bb - C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A musical interval that spans three semitones is known as what?",
+    "options": [
+      "Major Sixth",
+      "Perfect Fifth",
+      "Minor Third",
+      "Augmented Third"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A composer is writing a piece for steelpan. What type of music stand would be most suitable for the instrument?",
+    "options": [
+      "Stand with a Large, Unstable Base",
+      "Stand with a Secure, Stable Base",
+      "Stand with a Small, Unstable Base",
+      "Stand with a Foldable Design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A composer is writing a piece for steelpan. What type of tuning would be most suitable for the instrument?",
+    "options": [
+      "Harmonic Tuning",
+      "Equal or Near-Equal Tuning",
+      "Just Intonation",
+      "Pentatonic Tuning"
+    ],
+    "correctIndex": 1
   }
 ]

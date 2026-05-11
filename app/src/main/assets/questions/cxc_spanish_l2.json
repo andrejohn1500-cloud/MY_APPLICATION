@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the name of the famous Spanish novel by Camilo Jos\u00e9 Cela?",
+    "question": "\u00bfCu\u00e1l es el idioma oficial de Colombia?",
     "options": [
-      "La familia de Pascual Duarte",
-      "El hacha",
-      "La sombra del cipr\u00e9s",
-      "La estatua del comendador"
+      "espa\u00f1ol",
+      "ingl\u00e9s",
+      "quechua",
+      "franc\u00e9s"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the Spanish word for 'hello'?",
+    "question": "\u00bfCu\u00e1l es la capital de Argentina?",
     "options": [
-      "Hola",
-      "Buenas noches",
-      "Gracias",
-      "Buenos d\u00edas"
+      "Buenos Aires",
+      "Rosario",
+      "Cordoba",
+      "Mendoza"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The verb 'to live' in the present tense is...",
+    "question": "What is the correct way to say 'I am happy' in Spanish?",
     "options": [
-      "Vivo",
-      "Vives",
-      "Vivimos",
-      "Vive"
+      "Estoy feliz",
+      "Me parece bien",
+      "Soy feliz",
+      "Me gusta"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the Spanish word for 'university'?",
+    "question": "What is the correct way to say 'I love you' in Spanish?",
     "options": [
-      "Instituto",
-      "Escuela",
-      "Colegio",
-      "Universidad"
+      "Te amo",
+      "Te quiero",
+      "I love you",
+      "Quiero"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "The verb 'to be' in the present tense for 'he is' is...",
+    "question": "In what country is the famous city of Quito located?",
     "options": [
-      "Soy",
-      "Es",
-      "Somos",
-      "Eres"
+      "Chile",
+      "Ecuador",
+      "Per\u00fa",
+      "Colombia"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the Spanish word for 'beach'?",
+    "question": "How many days are in a semana?",
     "options": [
-      "Parque",
-      "Paseo",
-      "Playa",
-      "Pueblo"
+      "5",
+      "7",
+      "12",
+      "10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct way to say 'I am from the United States' in Spanish?",
+    "options": [
+      "Me encanta Estados Unidos",
+      "Me gusto Estados Unidos",
+      "Soy de Estados Unidos",
+      "Vivo en Estados Unidos"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Spanish word for 'to write' is...",
+    "question": "What does the phrase '\u00a1Hola! \u00bfC\u00f3mo est\u00e1s?' mean in Spanish?",
     "options": [
-      "Hacer",
-      "Leer",
-      "Sentir",
-      "Escribir"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the Spanish word for 'restaurant'?",
-    "options": [
-      "Caf\u00e9",
-      "Restaurante",
-      "Bar",
-      "Casa de comidas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the Spanish word for 'family'?",
-    "options": [
-      "Madre",
-      "Casa",
-      "Padre",
-      "Familia"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The Spanish word for 'to travel' is...",
-    "options": [
-      "Viajar",
-      "Estudiar",
-      "Pasar",
-      "Ir"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the Spanish word for 'theater'?",
-    "options": [
-      "Parque",
-      "Teatro",
-      "Cine",
-      "Museo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the famous Spanish painter of 'Las Meninas'?",
-    "options": [
-      "Pablo Picasso",
-      "El Greco",
-      "Diego Vel\u00e1zquez",
-      "Francisco de Goya"
+      "adi\u00f3s! hasta luego!",
+      "goodbye! see you later!",
+      "hello! how are you?",
+      "\u00a1adi\u00f3s!"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The verb 'to have' in the present tense is...",
+    "question": "What does the phrase 'hacer ejercicios' mean in Spanish?",
     "options": [
-      "Tenemos",
-      "Tengo",
-      "Tiene",
-      "Tienes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Spanish word for 'to go' in the preterite tense is...",
-    "options": [
-      "Fuem",
-      "Voy",
-      "Vente",
-      "Fui"
+      "to read a book",
+      "to watch TV",
+      "to play sports",
+      "to do exercises"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the famous Spanish festival celebrated in Barcelona?",
+    "question": "How do you say 'my family is from Mexico' in Spanish?",
     "options": [
-      "La Tomatina",
-      "Semana Santa",
-      "Las Fallas",
-      "La Merc\u00e8"
+      "Mi familia me encanta M\u00e9xico",
+      "Mi familia es de M\u00e9xico",
+      "Mi familia vive en M\u00e9xico",
+      "Mi familia me gusta M\u00e9xico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct way to say 'I love to learn Spanish' in Spanish?",
+    "options": [
+      "Soy un estudiante de espa\u00f1ol",
+      "Me encanta aprender espa\u00f1ol",
+      "Me gusta aprender espa\u00f1ol",
+      "Me canso de aprender espa\u00f1ol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do you say 'I am from Jamaica' in Spanish?",
+    "options": [
+      "Vivo en Jamaica",
+      "Me gusto Jamaica",
+      "Me encanta Jamaica",
+      "Soy de Jamaica"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "\u00bfCu\u00e1l es el idioma oficial de Chile?",
+    "options": [
+      "espa\u00f1ol",
+      "ingl\u00e9s",
+      "quechua",
+      "mapudungun"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "In what country is the famous city of Rio de Janeiro located?",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Chile",
+      "Brasil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "How do you say 'my name is' in Spanish?",
+    "options": [
+      "s\u00e9 llamado",
+      "me llamo",
+      "me llamas",
+      "ll\u00e1mame"
+    ],
+    "correctIndex": 1
   }
 ]

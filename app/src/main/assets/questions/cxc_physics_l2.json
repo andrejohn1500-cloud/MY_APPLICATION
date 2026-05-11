@@ -1,31 +1,61 @@
 [
   {
-    "question": "What is the term for the type of magnetism that is caused by the alignment of atomic dipoles?",
+    "question": "What is the term for a wave that oscillates in the same direction as the direction of travel?",
     "options": [
-      "Superparamagnetism",
-      "Diamagnetism",
-      "Ferromagnetism",
-      "Paramagnetism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a force that opposes motion between two surfaces that are in contact?",
-    "options": [
-      "Normal Force",
-      "Tension",
-      "Gravity",
-      "Friction"
+      "Mechanical wave",
+      "Transverse wave",
+      "Electromagnetic wave",
+      "Longitudinal wave"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the type of current that flows in a conductor when there is no potential difference between two points?",
+    "question": "An object is thrown vertically upwards with an initial velocity of 20 m/s. What happens to its kinetic energy as it reaches its maximum height?",
     "options": [
-      "AC Current",
-      "DC Current",
-      "Zero Current",
-      "Static Current"
+      "it remains constant",
+      "it increases",
+      "it remains the same",
+      "it decreases"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a unit of energy equal to the energy gained by an electron when it moves through a potential difference of one volt?",
+    "options": [
+      "Electron volt",
+      "Ionization potential",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the unit of time in the International System of Units (SI)?",
+    "options": [
+      "Newton",
+      "Second",
+      "Meter",
+      "Joule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for an object's mass multiplied by its velocity?",
+    "options": [
+      "Impulse",
+      "Kinetic energy",
+      "Momentum",
+      "Potential energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the force that attracts objects with mass towards each other?",
+    "options": [
+      "Friction",
+      "Normal force",
+      "Gravity",
+      "Tension"
     ],
     "correctIndex": 2
   },
@@ -35,118 +65,88 @@
       "Newton",
       "Meter",
       "Joule",
-      "Pascal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy required to move an object from one position to another?",
-    "options": [
-      "Work",
-      "Energy",
-      "Torque",
-      "Power"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the type of motion that occurs when an object moves back and forth in a straight line?",
-    "options": [
-      "Oscillatory Motion",
-      "Circular Motion",
-      "Linear Motion",
-      "Rotational Motion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the type of motion that occurs when an object moves in a circular path?",
-    "options": [
-      "Oscillatory Motion",
-      "Rotational Motion",
-      "Circular Motion",
-      "Linear Motion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the type of conduction that occurs when a material is heated from the inside out?",
-    "options": [
-      "Diffusion",
-      "Radiation",
-      "Convection",
-      "Conduction"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the frequency of a wave multiplied by its amplitude?",
-    "options": [
-      "Frequency",
-      "Wavelength",
-      "Amplitude",
-      "Intensity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the unit of electric current in the International System of Units (SI)?",
-    "options": [
-      "Volt",
-      "Watt",
-      "Ohm",
-      "Ampere"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What type of wave requires a medium to travel?",
-    "options": [
-      "Mechanical Wave",
-      "Electromagnetic Wave",
-      "Longitudinal Wave",
-      "Transverse Wave"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the unit of angular displacement in the International System of Units (SI)?",
-    "options": [
-      "Radian",
-      "Kelvin",
-      "Meter",
-      "Second"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the unit of power in the International System of Units (SI)?",
-    "options": [
-      "Watt",
-      "Ohm",
-      "Ampere",
-      "Volt"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the type of radiation that has a high frequency and short wavelength?",
-    "options": [
-      "Gamma Radiation",
-      "X-ray Radiation",
-      "Infrared Radiation",
-      "Ultraviolet Radiation"
+      "Meter per second"
     ],
     "correctIndex": 0
   },
   {
     "question": "What is the unit of energy in the International System of Units (SI)?",
     "options": [
-      "Kilogram-meter",
-      "Watt",
+      "Meter",
+      "Second",
       "Joule",
-      "Newton-meter"
+      "Newton"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the properties of materials and their response to different conditions?",
+    "options": [
+      "Electricity",
+      "Mechanics",
+      "Materials science",
+      "Thermal physics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a wave that transfers energy through a medium, such as a string or a rod?",
+    "options": [
+      "Mechanical wave",
+      "Longitudinal wave",
+      "Electromagnetic wave",
+      "Transverse wave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the energy required to remove an electron from an atom?",
+    "options": [
+      "Electron volt",
+      "Ionization energy",
+      "Ionization potential",
+      "Electron affinity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the distance between two consecutive points on a wave that are in phase?",
+    "options": [
+      "Amplitude",
+      "Period",
+      "Frequency",
+      "Wavelength"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of electric current that flows in one direction only?",
+    "options": [
+      "Static electricity",
+      "Conduction",
+      "Direct current",
+      "Alternating current"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the behavior of matter in the Caribbean region, including the effects of climate change and natural disasters?",
+    "options": [
+      "Thermal physics",
+      "Caribbean physics applications",
+      "Electricity",
+      "Mechanics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the unit of length in the International System of Units (SI)?",
+    "options": [
+      "Joule",
+      "Second",
+      "Newton",
+      "Meter"
+    ],
+    "correctIndex": 3
   }
 ]

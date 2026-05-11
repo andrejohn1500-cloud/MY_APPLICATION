@@ -1,152 +1,152 @@
 [
   {
-    "question": "A body is moving with a velocity of 10 m/s. If it travels a distance of 50 meters in 5 seconds, what is its acceleration?",
+    "question": "A particle of mass 0.5 kg is moving in a circular orbit with a radius of 0.2 m and a velocity of 0.5 m/s. Determine the centripetal force acting on the particle. ",
     "options": [
-      "B",
-      "D",
-      "C",
-      "A"
+      "0.1 N",
+      "0.125 N",
+      "0.05 N",
+      "0.2 N"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 10 m long pendulum is oscillating with a frequency of 2 Hz. What is its period?",
+    "question": "The temperature of a blackbody at equilibrium with its surroundings is 500 K. Determine the energy radiated per unit time per unit area of the blackbody. ",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "200 W/m^2",
+      "150 W/m^2",
+      "136.7 W/m^2",
+      "100 W/m^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 5 Farad capacitor is connected in parallel with a 10 Farad capacitor. What is the equivalent capacitance of the circuit?",
+    "question": "A 50 \u03a9 resistor is connected in series with a 10 \u03bcF capacitor and an inductor of 20 mH. If the circuit is connected to a 15 V AC source with a frequency of 100 Hz, determine the impedance of the circuit. ",
     "options": [
-      "0 Farads",
-      "15 Farads",
-      "10 Farads",
-      "5 Farads"
+      "80 \u03a9",
+      "60 \u03a9",
+      "40 \u03a9",
+      "50 \u03a9"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 2 m long wire is carrying a current of 3 A. If the magnetic field is 0.3 T, what is the force on the wire?",
+    "question": "A 100 W light bulb is connected to a 240 V power source. Calculate the current flowing through the bulb. ",
     "options": [
-      "D",
-      "C",
-      "A",
-      "B"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A block of mass 5 kg is moving with a velocity of 5 m/s. What is its momentum?",
-    "options": [
-      "50 kg m/s",
-      "75 kg m/s",
-      "10 kg m/s",
-      "25 kg m/s"
+      "0.16 A",
+      "0.5 A",
+      "0.8 A",
+      "0.42 A"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 5 m long wire is stretched between two fixed points. If a 30 N force is applied to the wire at the midpoint, what is the tension in the wire on either side of the midpoint?",
+    "question": "A 10 \u03bcF capacitor is connected in series with a 50 \u03a9 resistor and an inductor of 20 mH. If the circuit is connected to a 10 V AC source with a frequency of 100 Hz, determine the reactance of the circuit. ",
     "options": [
-      "C",
-      "A",
-      "B",
-      "D"
+      "31.4 \u03a9",
+      "20 \u03a9",
+      "25 \u03a9",
+      "50 \u03a9"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 5 kg block is attached to a spring with a spring constant of 50 N/m. If it is stretched by 2 meters, what is the energy stored in the spring?",
+    "question": "A blackbody at a temperature of 1200 K is emitting radiation at a frequency of 5 \u00d7 10^14 Hz. Determine the wavelength of the radiation. ",
     "options": [
-      "A",
-      "D",
-      "C",
-      "B"
+      "3 \u00d7 10^-5 m",
+      "4 \u00d7 10^-5 m",
+      "8 \u00d7 10^-5 m",
+      "5 \u00d7 10^-5 m"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 10 kg block is moving with a velocity of 5 m/s. If a force of 25 N is applied to it, what is the acceleration of the block?",
+    "question": "A 100 \u03bcA current is flowing through a wire of resistance 50 \u03a9. Determine the potential difference across the wire. ",
     "options": [
-      "C",
-      "B",
-      "A",
-      "D"
+      "3.5 V",
+      "5 V",
+      "4.5 V",
+      "2.5 V"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A variable force F(x) is related to the displacement x by the equation F(x) = 2x^2 + 3x - 1. Determine the work done in moving an object of mass 2 kg from x = 0 to x = 2 m. ",
+    "options": [
+      "12 J",
+      "5 J",
+      "10 J",
+      "8 J"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 5 kg block is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the kinetic energy of the block. ",
+    "options": [
+      "25 J",
+      "50 J",
+      "40 J",
+      "30 J"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 5 kg block is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the torque acting on the block. ",
+    "options": [
+      "0.1 Nm",
+      "0.15 Nm",
+      "0.2 Nm",
+      "0.05 Nm"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A light ray passes from air into a medium with a refractive index of 1.5. What is the angle of refraction if the angle of incidence is 30 degrees?",
+    "question": "In a series RLC circuit, a resistance of 10 \u03a9 and a capacitance of 50 \u03bcF are connected in series with an inductance of 50 mH. If the circuit is connected to a 20 V AC source with a frequency of 50 Hz, determine the phase angle. ",
     "options": [
-      "B",
-      "A",
-      "D",
-      "C"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the specific latent heat of fusion of ice in the International System of Units (SI)?",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "0\u00b0",
+      "-60\u00b0",
+      "-45.8\u00b0",
+      "-30\u00b0"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 12 meters in 6 seconds, what is its acceleration?",
+    "question": "A 5 kg block is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the work done on the block. ",
     "options": [
-      "0.2 m/s^2",
-      "1 m/s^2",
-      "10 m/s^2",
-      "no acceleration"
+      "75 J",
+      "50 J",
+      "150 J",
+      "100 J"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A body is moving in a uniform circular motion with a radius of 3 m and a centripetal acceleration of 1 m/s^2. What is its velocity?",
+    "question": "A 100 \u03a9 resistor is connected in series with a 20 \u03bcF capacitor and an inductor of 50 mH. If the circuit is connected to a 10 V DC source, determine the current flowing through the circuit. ",
     "options": [
-      "D",
-      "B",
-      "C",
-      "A"
+      "0.05 A",
+      "0.15 A",
+      "0.1 A",
+      "0.2 A"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "A body is moving with a velocity of 5 m/s. If it travels a distance of 25 meters in 5 seconds, what is its acceleration?",
+    "question": "A 10 \u03bcF capacitor is connected in series with a 50 \u03a9 resistor and an inductor of 20 mH. If the circuit is connected to a 10 V AC source with a frequency of 100 Hz, determine the reactance of the circuit. ",
     "options": [
-      "D",
-      "C",
-      "B",
-      "A"
+      "20 \u03a9",
+      "31.4 \u03a9",
+      "50 \u03a9",
+      "25 \u03a9"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A 2 m long wire is carrying a current of 5 A. If the magnetic field is 0.2 T, what is the force on the wire?",
+    "question": "A 50 \u03a9 resistor is connected in series with a 20 \u03bcF capacitor and an inductor of 50 mH. If the circuit is connected to a 10 V DC source, determine the current flowing through the circuit. ",
     "options": [
-      "D",
-      "A",
-      "C",
-      "B"
+      "0.4 A",
+      "0.3 A",
+      "0.2 A",
+      "0.1 A"
     ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 50 W electric heater is used to heat a room. If it is used for 5 hours, how much energy is consumed?",
-    "options": [
-      "C",
-      "B",
-      "A",
-      "D"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

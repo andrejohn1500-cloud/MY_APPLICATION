@@ -1,42 +1,62 @@
 [
   {
-    "question": "A 5 kg block is attached to a spring with a spring constant of 100 N/m. If it is oscillating with a frequency of 3 Hz, what is its amplitude?",
+    "question": "A spring of force constant 200 N/m is compressed by 0.2 m. Calculate the potential energy stored in the spring. ",
     "options": [
-      "D",
-      "A",
-      "B",
-      "C"
+      "6 J",
+      "12 J",
+      "4 J",
+      "8 J"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A 20 W electric lamp is used to light a room. If it is used for 2 hours, how much energy is consumed?",
+    "question": "A 20 kg block is moving with an initial velocity of 2 m/s. If a force of 10 N is applied in the same direction as the motion, what is the acceleration of the block after 5 seconds?",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the specific heat capacity of water in the International System of Units (SI)?",
-    "options": [
-      "C",
-      "B",
-      "D",
-      "A"
+      "0.6 m/s^2",
+      "0.9 m/s^2",
+      "0.4 m/s^2",
+      "0.1 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The frequency of a wave is equal to 50 Hz. If the wavelength of the wave is 20 m, what is its speed?",
+    "question": "The magnetic field strength in a certain region of space is 10^-6 T. Determine the force per unit length acting on a moving charge of 2 \u03bcC with a velocity of 10^5 m/s. ",
     "options": [
-      "A",
-      "C",
-      "D",
-      "B"
+      "2 \u00d7 10^-4 N/m",
+      "3 \u00d7 10^-4 N/m",
+      "1 \u00d7 10^-4 N/m",
+      "4 \u00d7 10^-4 N/m"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "A variable force F(x) is related to the displacement x by the equation F(x) = 3x^2 - 2x + 1. Determine the work done in moving an object of mass 2 kg from x = 0 to x = 3 m. ",
+    "options": [
+      "22 J",
+      "15 J",
+      "20 J",
+      "18 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 50 kg object is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine the acceleration. ",
+    "options": [
+      "0.2 m/s^2",
+      "0.8 m/s^2",
+      "0.4 m/s^2",
+      "0.6 m/s^2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 5 kg block is moving with a velocity of 10 m/s on a horizontal surface. If a horizontal force of 20 N is applied to the block, determine its acceleration. ",
+    "options": [
+      "8 m/s^2",
+      "2 m/s^2",
+      "4 m/s^2",
+      "5 m/s^2"
+    ],
+    "correctIndex": 2
   }
 ]

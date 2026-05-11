@@ -1,71 +1,31 @@
 [
   {
-    "question": "A body is thrown upward from the surface of the Earth with an initial velocity of 20 m/s. Assuming that air resistance is negligible, what is the time taken for the body to reach its maximum height?",
+    "question": "A 20 \u03a9 resistor is connected in parallel with a 50 \u03a9 resistor. What is the equivalent resistance of the circuit?",
     "options": [
-      "3 s",
-      "4 s",
-      "1 s",
-      "2 s"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 50 Hz tuning fork is held near a stationary string. What is the frequency of the second harmonic produced?",
-    "options": [
-      "100 Hz",
-      "150 Hz",
-      "50 Hz",
-      "200 Hz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 10 kg object is moving with a constant acceleration of 2 m/s^2. What is its velocity after 3 seconds?",
-    "options": [
-      "12 m/s",
-      "10 m/s",
-      "9 m/s",
-      "6 m/s"
+      "30 \u03a9",
+      "15 \u03a9",
+      "9.52 \u03a9",
+      "20 \u03a9"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 2 kg block is lifted to a height of 10 m. What is its potential energy?",
+    "question": "A 1000 \u03bcF capacitor is charged to a potential difference of 250 V. What is the energy stored in the capacitor?",
     "options": [
-      "220 J",
-      "200 J",
-      "180 J",
-      "240 J"
+      "2500000 J",
+      "1250000 J",
+      "625000 J",
+      "312500 J"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A wave has a frequency of 50 Hz and a wavelength of 0.4 m. What is its wave speed?",
+    "question": "A 1000 Hz sound wave is traveling in air at a speed of 343 m/s. What is the frequency of the sound wave as heard by an observer moving away from the source at a speed of 10 m/s?",
     "options": [
-      "25 m/s",
-      "20 m/s",
-      "22 m/s",
-      "18 m/s"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 10 m length of copper wire has a resistance of 2 ohms. What is the current flowing through the wire when a potential difference of 20 V is applied across it?",
-    "options": [
-      "12 A",
-      "8 A",
-      "15 A",
-      "10 A"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A 10 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
-    "options": [
-      "40 J",
-      "25 J",
-      "30 J",
-      "20 J"
+      "1178 Hz",
+      "931 Hz",
+      "1234 Hz",
+      "1043 Hz"
     ],
     "correctIndex": 1
   }

@@ -1,71 +1,61 @@
 [
   {
-    "question": "What is the Spanish word for 'the Andes mountain range'?",
+    "question": "Which of the following countries in South America is not a member of the Mercosur?",
     "options": [
-      "Las monta\u00f1as de la Costa",
-      "Los volcanes del Pac\u00edfico",
-      "Los Andes",
-      "La cordillera de los Picos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Spanish word for 'to enjoy' is...",
-    "options": [
-      "Gustar",
-      "Sentir",
-      "Hacer",
-      "Disfrutar"
+      "Per\u00fa",
+      "Bolivia",
+      "Uruguay",
+      "Ecuador"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is an example of a verb in the preterite tense?",
+    "question": "What is the meaning of 'hotel'?",
     "options": [
-      "compre",
-      "compr\u00e9",
-      "comprar\u00e9",
-      "compramos"
+      "hotel",
+      "bar",
+      "caf\u00e9",
+      "restaurant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "\u00bfCu\u00e1l es el idioma oficial de Costa Rica?",
+    "options": [
+      "franc\u00e9s",
+      "espa\u00f1ol",
+      "ingl\u00e9s",
+      "alem\u00e1n"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the Spanish word for 'to help'?",
+    "question": "Which of the following countries in Central America is not a member of the Central American Integration System?",
     "options": [
-      "Ayudarse",
-      "Prestar ayuda",
-      "Ayudar a otros",
-      "Ayudar"
+      "Panam\u00e1",
+      "Belice",
+      "Costa Rica",
+      "Nicaragua"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Complete the sentence: En el futuro, _____.",
+    "options": [
+      "ser\u00e9 m\u00e1s feliz",
+      "tendr\u00e9 menos dinero",
+      "ser\u00e9 un m\u00e9dico",
+      "necesitar\u00e9 m\u00e1s tiempo"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In Spanish, what is the name of the celebration that takes place on September 15th?",
+    "question": "What is the meaning of 'casa'?",
     "options": [
-      "D\u00eda de la Uni\u00f3n",
-      "D\u00eda de la Fiesta",
-      "D\u00eda de la Independencia",
-      "D\u00eda de la Cultura"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the famous Spanish painter who created the artwork 'Las Meninas'?",
-    "options": [
-      "Salvador Dal\u00ed",
-      "Pablo Picasso",
-      "Diego Vel\u00e1zquez",
-      "Francisco Goya"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following countries is located in South America?",
-    "options": [
-      "Chile",
-      "Panama",
-      "Colombia",
-      "Argentina"
+      "condominium",
+      "flat",
+      "apartment",
+      "house"
     ],
     "correctIndex": 3
   }

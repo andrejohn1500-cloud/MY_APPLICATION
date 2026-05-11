@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the type of current that flows in a conductor when there is a potential difference between two points?",
+    "question": "What is the term for the energy an object has due to its position or configuration?",
     "options": [
-      "Electromotive Force",
-      "Electric Potential",
-      "Electric Current",
-      "Electric Field"
+      "Potential energy",
+      "Impulse",
+      "Kinetic energy",
+      "Momentum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the study of the behavior of magnetic fields and the forces that act between them?",
+    "options": [
+      "Thermal physics",
+      "Mechanics",
+      "Magnetism",
+      "Electricity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the unit of electric charge in the International System of Units (SI)?",
+    "question": "A car accelerates uniformly from 10 m/s to 30 m/s in 10 seconds. What is its acceleration?",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Ohm",
-      "Volt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the unit of magnetomotive force in the International System of Units (SI)?",
-    "options": [
-      "Tesla",
-      "Watt",
-      "Ampere-turn",
-      "Henry"
+      "10 m/s^2",
+      "0.5 m/s^2",
+      "2 m/s^2",
+      "5 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the type of magnetism that is caused by the alignment of atomic dipoles in a material?",
+    "question": "What is the term for an object's mass multiplied by its acceleration?",
     "options": [
-      "Paramagnetism",
-      "Diamagnetism",
-      "Magnetization",
-      "Ferromagnetism"
+      "Force",
+      "Kinetic energy",
+      "Potential energy",
+      "Momentum"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the speed of light in a vacuum?",
+    "question": "What is the term for the study of the behavior of electric charges and the forces that act between them?",
     "options": [
-      "500,000,000 m/s",
-      "300,000,000 m/s",
-      "400,000,000 m/s",
-      "200,000,000 m/s"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the measure of how much a material expands or contracts when it is heated or cooled?",
-    "options": [
-      "Volume Expansion",
-      "Thermal Expansion",
-      "Area Expansion",
-      "Linear Expansion"
+      "Mechanics",
+      "Thermal physics",
+      "Magnetism",
+      "Electricity"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the energy required to remove an electron from an atom?",
+    "question": "What is the term for a region around a magnet or electric current where the magnetic or electric field is strong?",
     "options": [
-      "Bond Dissociation Energy",
-      "Ionization Energy",
-      "Electron Binding Energy",
-      "Electron Affinity"
+      "Field",
+      "Charge",
+      "Current",
+      "Force"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for the measure of how much a material is attracted to a magnet?",
+    "question": "What is the term for a type of electric current that periodically reverses direction?",
     "options": [
-      "Magnetic Field Strength",
-      "Magnetic Permeability",
-      "Magnetic Susceptibility",
-      "Magnetic Moment"
+      "Static electricity",
+      "Direct current",
+      "Alternating current",
+      "Conduction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A car accelerates from 0 to 60 km/h in 10 seconds. What is the acceleration of the car?",
+    "question": "A 5 kg block is attached to a horizontal spring with a force constant of 200 N/m. The block is displaced by 2 m from its equilibrium position. What is the magnitude of the restoring force acting on the block?",
     "options": [
-      "4 m/s\u00b2",
-      "2 m/s\u00b2",
-      "6 m/s\u00b2",
-      "10 m/s\u00b2"
+      "50 N",
+      "400 N",
+      "200 N",
+      "100 N"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the maximum displacement of a wave from its equilibrium position?",
+    "options": [
+      "Wavelength",
+      "Amplitude",
+      "Period",
+      "Frequency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which a solid changes directly to a gas without going through the liquid phase?",
+    "options": [
+      "Boiling",
+      "Sublimation",
+      "Condensation",
+      "Melting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the behavior of materials when heated or cooled?",
+    "options": [
+      "Electricity",
+      "Mechanics",
+      "Magnetism",
+      "Thermal physics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a wave that can travel through a vacuum, such as light or radio waves?",
+    "options": [
+      "Transverse wave",
+      "Mechanical wave",
+      "Longitudinal wave",
+      "Electromagnetic wave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the force that opposes motion between two surfaces that are in contact?",
+    "options": [
+      "Friction",
+      "Tension",
+      "Gravity",
+      "Normal force"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the study of the behavior of energy and its interactions with matter?",
+    "options": [
+      "Electricity",
+      "Mechanics",
+      "Magnetism",
+      "Thermal physics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the relationship between an object's motion and the forces acting upon it?",
+    "options": [
+      "Thermal physics",
+      "Electricity",
+      "Mechanics",
+      "Magnetism"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the unit of electric resistance in the International System of Units (SI)?",
-    "options": [
-      "Watt",
-      "Ohm",
-      "Ampere",
-      "Volt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the unit of electric potential difference in the International System of Units (SI)?",
-    "options": [
-      "Ampere",
-      "Volt",
-      "Watt",
-      "Ohm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the unit of temperature in the International System of Units (SI)?",
-    "options": [
-      "Celsius",
-      "Kelvin",
-      "Fahrenheit",
-      "Rankine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the measure of how much a material resists changes in temperature?",
-    "options": [
-      "Heat Capacity",
-      "Thermal Expansion",
-      "Thermal Conductivity",
-      "Specific Heat Capacity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the type of conduction that occurs when a material is heated from the outside in?",
-    "options": [
-      "Diffusion",
-      "Conduction",
-      "Radiation",
-      "Convection"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the unit of magnetic field strength in the International System of Units (SI)?",
-    "options": [
-      "Henry",
-      "Ampere-turn",
-      "Volt",
-      "Tesla"
-    ],
-    "correctIndex": 3
   }
 ]

@@ -1,72 +1,72 @@
 [
   {
-    "question": "Which of the following countries is an island nation in the Atlantic Ocean?",
+    "question": "In Spanish, what is the correct form of the adjective 'corto' when used to describe a masculine noun?",
     "options": [
-      "Guinea-Bissau",
-      "Cape Verde",
-      "Senegal",
-      "Gambia"
+      "corto",
+      "cortos",
+      "corto\u00edsimo",
+      "cort\u00edsimo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a conversation, a speaker says: \"Me encanta leer libros de historia.\" What does the speaker enjoy doing?",
+    "options": [
+      "playing sports",
+      "reading history books",
+      "listening to music",
+      "watching movies"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the phrase 'me apasiona el f\u00fatbol' mean in Spanish?",
+    "question": "In Spanish, what is the correct form of the adjective 'grande' when used to describe a feminine noun?",
     "options": [
-      "I want to play football",
-      "I am passionate about football",
-      "I play football",
-      "I like football"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the phrase '\u00bfCu\u00e1nto cuesta?' mean in Spanish?",
-    "options": [
-      "Is it cheap?",
-      "How much does it cost?",
-      "What does it cost?",
-      "How is it?"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the famous Spanish author who wrote the novel 'La Regenta'?",
-    "options": [
-      "Luis de G\u00f3ngora",
-      "Camilo Jos\u00e9 Cela",
-      "Federico Garc\u00eda Lorca",
-      "Leopoldo Alas"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the famous Spanish artist who created the artwork 'El Jard\u00edn de las Delicias'?",
-    "options": [
-      "Federico Garc\u00eda Lorca",
-      "Salvador Dal\u00ed",
-      "Pablo Picasso",
-      "Frida Kahlo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the famous Spanish composer who wrote the opera 'Carmen'?",
-    "options": [
-      "Isaac Alb\u00e9niz",
-      "Manuel de Falla",
-      "Georges Bizet",
-      "Joaqu\u00edn Rodrigo"
+      "grandes",
+      "grand\u00edsima",
+      "grande",
+      "grande"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the phrase 'me gusta la m\u00fasica' mean in Spanish?",
+    "question": "In Spanish, the verb 'querer' is an example of what type of verb?",
     "options": [
-      "I like music",
-      "I don't like music",
-      "I want to play music",
-      "I play music"
+      "a regular verb",
+      "a verb of wish or desire",
+      "a linking verb",
+      "an action verb"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "question": "In Spanish, the verb 'ser' is used to describe what?",
+    "options": [
+      "actions performed in the present",
+      "actions performed in the past",
+      "permanent or unchanging qualities",
+      "actions performed in the future"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a conversation, a speaker says: \"Me alegra verte despu\u00e9s de tanto tiempo.\" What does the speaker feel?",
+    "options": [
+      "angry at the person",
+      "happy to see the person",
+      "sad to see the person",
+      "neutral towards the person"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a conversation, a speaker says: \"Me gustar\u00eda aprender a hacer cocina mexicana.\" What does the speaker want to do?",
+    "options": [
+      "learn to make Spanish cuisine",
+      "learn to make Mexican cuisine",
+      "learn to make international cuisine",
+      "learn to make Latin American cuisine"
+    ],
+    "correctIndex": 1
   }
 ]
