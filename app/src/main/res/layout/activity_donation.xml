@@ -37,7 +37,7 @@
         android:id="@+id/btnPayPal"
         android:layout_width="260dp"
         android:layout_height="56dp"
-        android:background="@drawable/bg_button_gold"
+        android:background="@drawable/bg_button_accent"
         android:text="💳  DONATE VIA PAYPAL"
         android:textColor="@color/gold"
         android:textStyle="bold"
