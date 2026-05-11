@@ -25,6 +25,11 @@ class LeaderboardActivity : AppCompatActivity() {
         setContentView(binding.root)
         binding.rvLeaderboard.layoutManager = LinearLayoutManager(this)
         binding.btnBack.setOnClickListener { finish() }
+        androidx.core.view.ViewCompat.setOnApplyWindowInsetsListener(binding.btnBack) { view, insets ->
+            val navBar = insets.getInsets(androidx.core.view.WindowInsetsCompat.Type.navigationBars())
+            view.setPadding(view.paddingLeft, view.paddingTop, view.paddingRight, navBar.bottom + 24)
+            insets
+        }
         binding.btnTabCategory.isSingleLine = false
         binding.btnTabCountry.isSingleLine = false
         binding.btnTabGlobal.setOnClickListener { switchTab("Global") }
