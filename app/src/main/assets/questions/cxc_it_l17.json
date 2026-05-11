@@ -1,152 +1,152 @@
 [
   {
-    "question": "The concept of 'quantum algorithms' (Shor's algorithm)",
+    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system using a technique called power factor correction?",
     "options": [
-      "Factors large numbers exponentially faster than classical algorithms",
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Computations can be performed on encrypted data without decrypting it",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Grover's algorithm' in quantum computing",
-    "options": [
-      "Adding statistical noise to protect individual privacy in datasets",
-      "Computations can be performed on encrypted data without decrypting it",
-      "Hardware designed to mimic neural brain structures for energy-efficient AI",
-      "Searches unsorted databases with quadratic speedup over classical algorithms"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'quantum decoherence'",
-    "options": [
-      "Prove knowledge of a secret without revealing the secret itself",
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Training ML models across decentralised devices without sharing raw data",
-      "Environmental interference causes qubits to lose their quantum state"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Post-quantum cryptography' develops",
-    "options": [
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Secure isolated processing environments within processors",
-      "Hardware designed to mimic neural brain structures for energy-efficient AI",
-      "Encryption algorithms resistant to attacks by quantum computers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'federated learning'",
-    "options": [
-      "Secure isolated processing environments within processors",
-      "Training ML models across decentralised devices without sharing raw data",
-      "Encryption algorithms resistant to attacks by quantum computers",
-      "Prove knowledge of a secret without revealing the secret itself"
+      "hard drive",
+      "power supply unit (PSU)",
+      "motherboard",
+      "CPU"
     ],
     "correctIndex": 1
   },
   {
-    "question": "'Differential privacy' in data science",
+    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system.",
     "options": [
-      "Secure isolated processing environments within processors",
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Adding statistical noise to protect individual privacy in datasets",
-      "Encryption algorithms resistant to attacks by quantum computers"
+      "CPU",
+      "power supply unit (PSU)",
+      "motherboard",
+      "hard drive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a dedicated circuit?",
+    "options": [
+      "packet switching",
+      "circuit switching",
+      "cut-through switching",
+      "store-and-forward switching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of users in a real-world environment?",
+    "options": [
+      "acceptance testing",
+      "beta testing",
+      "system testing",
+      "integration testing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a series of packets?",
+    "options": [
+      "circuit switching",
+      "packet switching",
+      "store-and-forward switching",
+      "cut-through switching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer programming, what is the term for the process of testing a program with a small number of users in a controlled environment?",
+    "options": [
+      "beta testing",
+      "integration testing",
+      "alpha testing",
+      "system testing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The concept of 'graph neural networks'",
+    "question": "What is the term for a type of attack where an attacker sends a large amount of traffic to a network in an attempt to overwhelm it?",
     "options": [
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Mathematically proving software meets its specification",
-      "Secure isolated processing environments within processors",
-      "Machine learning on graph-structured data for recommendations and social networks"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Transformer architecture' (BERT, GPT)",
-    "options": [
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
-      "Mathematically proving software meets its specification",
-      "Secure isolated processing environments within processors",
-      "Factors large numbers exponentially faster than classical algorithms"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'generative adversarial networks' (GANs)",
-    "options": [
-      "Secure isolated processing environments within processors",
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Searches unsorted databases with quadratic speedup over classical algorithms",
-      "Training ML models across decentralised devices without sharing raw data"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Zero-knowledge proofs' in cryptography",
-    "options": [
-      "Attention mechanism processes entire sequences simultaneously enabling powerful NLP",
-      "Prove knowledge of a secret without revealing the secret itself",
-      "Environmental interference causes qubits to lose their quantum state",
-      "Encryption algorithms resistant to attacks by quantum computers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'homomorphic encryption'",
-    "options": [
-      "Computations can be performed on encrypted data without decrypting it",
-      "Encryption algorithms resistant to attacks by quantum computers",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Training ML models across decentralised devices without sharing raw data"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Trusted execution environments' (TEE)",
-    "options": [
-      "Mathematically proving software meets its specification",
-      "Searches unsorted databases with quadratic speedup over classical algorithms",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment",
-      "Secure isolated processing environments within processors"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'formal verification' in software",
-    "options": [
-      "Prove knowledge of a secret without revealing the secret itself",
-      "Mathematically proving software meets its specification",
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Model compression' techniques include",
-    "options": [
-      "Two networks compete — generator creates fake data; discriminator detects it",
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Encryption algorithms resistant to attacks by quantum computers",
-      "Pruning, quantisation and knowledge distillation for efficient AI deployment"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'neuromorphic chips'",
-    "options": [
-      "Machine learning on graph-structured data for recommendations and social networks",
-      "Environmental interference causes qubits to lose their quantum state",
-      "Hardware designed to mimic neural brain structures for energy-efficient AI",
-      "Computations can be performed on encrypted data without decrypting it"
+      "B. Distributed Denial of Service (DDoS) attack",
+      "C. Man-in-the-middle (MitM) attack",
+      "D",
+      "A. Denial of Service (DoS) attack"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The ____ unit is responsible for converting electrical power from the mains supply to a form that is usable by a computer.",
+    "options": [
+      "power supply unit (PSU)",
+      "CPU",
+      "motherboard",
+      "hard drive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system using a technique called voltage regulation?",
+    "options": [
+      "CPU",
+      "power supply unit (PSU)",
+      "hard drive",
+      "motherboard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of time-series data, making it ideal for applications such as IoT and industrial automation.",
+    "options": [
+      "key-value",
+      "time-series",
+      "document-oriented",
+      "column-family"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a technique called store-and-forward switching?",
+    "options": [
+      "circuit switching",
+      "store-and-forward switching",
+      "packet switching",
+      "cut-through switching"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals using a technique called sampling?",
+    "options": [
+      "sampling",
+      "A/D conversion",
+      "undersampling",
+      "oversampling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of large data sets, making it ideal for applications such as business intelligence and data warehousing.",
+    "options": [
+      "graph",
+      "key-value",
+      "document-oriented",
+      "column-family"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The ____ protocol is used for secure communication between a web browser and a web server over a wireless network.",
+    "options": [
+      "SCP",
+      "HTTPS",
+      "SSL/TLS",
+      "FTP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of computer programming, what is the term for the process of testing a program with a small number of test cases to ensure it is working correctly?",
+    "options": [
+      "integration testing",
+      "system testing",
+      "acceptance testing",
+      "unit testing"
+    ],
+    "correctIndex": 3
   }
 ]

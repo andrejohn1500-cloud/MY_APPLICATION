@@ -1,151 +1,131 @@
 [
   {
-    "question": "The concept of 'job specification'",
+    "question": "An office uses a digital mail sorting system to prioritize and route mail. What is the primary advantage of this system?",
     "options": [
-      "Lists the qualifications, skills and experience required for a position",
-      "Testimonials from previous employers about a candidate's performance",
-      "An employer's conduct forces an employee to resign",
-      "Standardised tests measuring aptitude, personality or intelligence"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 'job description' outlines",
-    "options": [
-      "Dismissal because a job role is no longer needed",
-      "The duties, responsibilities and reporting structure of a position",
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Formal processes for addressing employee misconduct or poor performance"
+      "Increased personnel required to maintain the system",
+      "Improved mail sorting efficiency and reduced processing time",
+      "Reduced mail security",
+      "Dependence on a single computer or server"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'shortlisting' in recruitment",
+    "question": "A company uses a formal letterhead to signify its official correspondence. What is the primary purpose of the letterhead?",
     "options": [
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Reducing applicants to those best meeting the job requirements",
-      "Lists the qualifications, skills and experience required for a position",
-      "The emotional commitment employees have to their organisation and its goals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Structured interviews' use",
-    "options": [
-      "Pre-set questions asked consistently to all candidates",
-      "Lists the qualifications, skills and experience required for a position",
-      "Dismissal because a job role is no longer needed",
-      "Standardised tests measuring aptitude, personality or intelligence"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'psychometric testing'",
-    "options": [
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "An initial trial period during which a new employee's performance is assessed",
-      "Formally raise and resolve workplace complaints",
-      "Identifying and developing internal talent to fill future leadership positions"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'References' in recruitment",
-    "options": [
-      "An employer's conduct forces an employee to resign",
-      "Formally raise and resolve workplace complaints",
-      "Testimonials from previous employers about a candidate's performance",
-      "Pre-set questions asked consistently to all candidates"
+      "To specify the sender's address",
+      "To include the company's logo",
+      "To provide identification and credibility to the correspondence",
+      "To include the date of the correspondence"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The concept of 'probationary period'",
+    "question": "A receptionist is expected to handle a high volume of mail during a busy period. How can the receptionist minimize the risk of misdirecting mail?",
     "options": [
-      "An initial trial period during which a new employee's performance is assessed",
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Lists the qualifications, skills and experience required for a position",
-      "An employer's conduct forces an employee to resign"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Exit interviews' help organisations",
-    "options": [
-      "The emotional commitment employees have to their organisation and its goals",
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "Understand why employees leave and improve retention",
-      "Pre-set questions asked consistently to all candidates"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'disciplinary procedures'",
-    "options": [
-      "Formal processes for addressing employee misconduct or poor performance",
-      "Understand why employees leave and improve retention",
-      "Identifying and developing internal talent to fill future leadership positions",
-      "An employer's conduct forces an employee to resign"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Grievance procedures' allow employees to",
-    "options": [
-      "Testimonials from previous employers about a candidate's performance",
-      "Formally raise and resolve workplace complaints",
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "Reducing applicants to those best meeting the job requirements"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'redundancy'",
-    "options": [
-      "Testimonials from previous employers about a candidate's performance",
-      "The emotional commitment employees have to their organisation and its goals",
-      "Dismissal because a job role is no longer needed",
-      "An employer's conduct forces an employee to resign"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Constructive dismissal' occurs when",
-    "options": [
-      "The emotional commitment employees have to their organisation and its goals",
-      "An employer's conduct forces an employee to resign",
-      "Standardised tests measuring aptitude, personality or intelligence",
-      "The duties, responsibilities and reporting structure of a position"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'flexible working arrangements'",
-    "options": [
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Pre-set questions asked consistently to all candidates",
-      "Lists the qualifications, skills and experience required for a position",
-      "Standardised tests measuring aptitude, personality or intelligence"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Employee engagement' measures",
-    "options": [
-      "An employer's conduct forces an employee to resign",
-      "Dismissal because a job role is no longer needed",
-      "Understand why employees leave and improve retention",
-      "The emotional commitment employees have to their organisation and its goals"
+      "Transfer mail to another department without verifying the sender's needs",
+      "Put mail on hold indefinitely",
+      "Answer mail immediately without checking the sender's address",
+      "Use a mail log or a mail sorting system with automatic routing"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The concept of 'succession planning'",
+    "question": "A receptionist is expected to handle a high volume of mail during a busy period. How can the receptionist minimize the risk of misdirecting mail?",
     "options": [
-      "Varied hours, remote work or job sharing to improve work-life balance",
-      "Formal processes for addressing employee misconduct or poor performance",
-      "Identifying and developing internal talent to fill future leadership positions",
-      "Standardised tests measuring aptitude, personality or intelligence"
+      "Answer mail immediately without checking the sender's address",
+      "Transfer mail to another department without verifying the sender's needs",
+      "Put mail on hold indefinitely",
+      "Use a mail log or a mail sorting system with automatic routing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A receptionist is dealing with a customer who is inquiring about a product that is no longer in stock. How should the receptionist respond?",
+    "options": [
+      "Tell the customer that the product is still available",
+      "Politely inform the customer about the product's status and offer alternatives",
+      "Get defensive and argue with the customer",
+      "Ask the customer to fill out a form to inquire about the product"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An office uses a variety of office equipment, including a photocopier and a printer. What is the primary factor to consider when selecting new office equipment?",
+    "options": [
+      "The equipment's functionality and compatibility with existing systems",
+      "The equipment's price and brand reputation",
+      "The equipment's power consumption",
+      "The equipment's aesthetic appeal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company uses a centralized filing system with both manual and digital components. What is the primary advantage of this system?",
+    "options": [
+      "Increased personnel required to maintain the system",
+      "Reduced security",
+      "Improved information retrieval and reduced storage space",
+      "Dependence on a single computer or server"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An office uses a formal filing system to organize documents. What is the primary purpose of the filing system?",
+    "options": [
+      "To reduce security",
+      "To generate unnecessary paperwork",
+      "To provide easy access to information and reduce storage space",
+      "To increase personnel required to maintain the system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An office uses a digital communication system to send emails and messages. What is the primary advantage of this system?",
+    "options": [
+      "Improved communication efficiency and reduced paper usage",
+      "Dependence on a single computer or server",
+      "Increased personnel required to maintain the system",
+      "Reduced communication security"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has recently implemented a new filing system that uses numeric codes to categorize documents. An employee is unsure about how to use the new system. What should the employee do first?",
+    "options": [
+      "Create their own filing system",
+      "Continue using the old filing system",
+      "Ignore the new system",
+      "Refer to the company's filing manual or seek guidance from a supervisor"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An office uses a variety of office equipment, including a photocopier and a printer. What is the primary factor to consider when selecting new office equipment?",
+    "options": [
+      "The equipment's aesthetic appeal",
+      "The equipment's price and brand reputation",
+      "The equipment's functionality and compatibility with existing systems",
+      "The equipment's power consumption"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A receptionist is expected to handle a high volume of mail during a busy period. How can the receptionist minimize the risk of misdirecting mail?",
+    "options": [
+      "Transfer mail to another department without verifying the sender's needs",
+      "Use a mail log or a mail sorting system with automatic routing",
+      "Answer mail immediately without checking the sender's address",
+      "Put mail on hold indefinitely"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A supervisor has requested that an employee maintain a record of all office expenses. What is the primary benefit of this request?",
+    "options": [
+      "Delegated tasks to other employees",
+      "Increased paperwork",
+      "Improved accountability and transparency in office finances",
+      "Reduced office expenses"
     ],
     "correctIndex": 2
   }

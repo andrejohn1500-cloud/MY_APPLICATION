@@ -1,152 +1,92 @@
 [
   {
-    "question": "The concept of 'financial derivatives'",
+    "question": "A sole proprietorship is a type of business organisation that is owned and operated by one person",
     "options": [
-      "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "Contracts whose value is derived from underlying assets like stocks or commodities",
-      "A crisis in one financial market spreads rapidly to others",
-      "Central bank creates money to purchase assets and stimulate the economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Hedge funds' manage risk by",
-    "options": [
-      "Risk of collapse of an entire financial system rather than individual institutions",
-      "Exchange rate fluctuations affect the value of international transactions",
-      "Credit intermediation involving entities outside regular banking regulation",
-      "Using complex strategies including short-selling and leverage"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'private equity'",
-    "options": [
-      "International banking regulations requiring higher capital reserves",
-      "Investment in companies not listed on public stock exchanges",
-      "Using financial instruments to protect against currency or commodity price risk",
-      "Central bank creates money to purchase assets and stimulate the economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Initial public offering' (IPO)",
-    "options": [
-      "State-owned investment funds managing national savings and assets",
-      "A company's first sale of shares to the public",
-      "Insurance-like contracts against bond defaults",
-      "Central bank creates money to purchase assets and stimulate the economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'quantitative easing'",
-    "options": [
-      "Credit intermediation involving entities outside regular banking regulation",
-      "Central bank creates money to purchase assets and stimulate the economy",
-      "International banking regulations requiring higher capital reserves",
-      "Banks take excessive risks knowing they may be bailed out"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Systemic risk' in finance refers to",
-    "options": [
-      "Investment in companies not listed on public stock exchanges",
-      "Using complex strategies including short-selling and leverage",
-      "Risk of collapse of an entire financial system rather than individual institutions",
-      "State-owned investment funds managing national savings and assets"
+      "False",
+      "A partnership is a type of business organisation that is owned and operated by one person",
+      "True",
+      "A corporation is a type of business organisation that is owned and operated by one person"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The concept of 'moral hazard' in banking",
+    "question": "A business organisation is defined as a legal entity that is responsible for the production of goods or services",
     "options": [
-      "State-owned investment funds managing national savings and assets",
-      "Banks take excessive risks knowing they may be bailed out",
-      "Credit intermediation involving entities outside regular banking regulation",
-      "Risk of collapse of an entire financial system rather than individual institutions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Financial contagion' occurs when",
-    "options": [
-      "Exchange rate fluctuations affect the value of international transactions",
-      "A crisis in one financial market spreads rapidly to others",
-      "Using financial instruments to protect against currency or commodity price risk",
-      "Investment in companies not listed on public stock exchanges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'shadow banking'",
-    "options": [
-      "Credit intermediation involving entities outside regular banking regulation",
-      "Central bank creates money to purchase assets and stimulate the economy",
-      "International banking regulations requiring higher capital reserves",
-      "Contracts whose value is derived from underlying assets like stocks or commodities"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Credit default swaps' are",
-    "options": [
-      "Central bank creates money to purchase assets and stimulate the economy",
-      "Insurance-like contracts against bond defaults",
-      "Using financial instruments to protect against currency or commodity price risk",
-      "Rules preventing multinationals from manipulating internal prices to avoid tax"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'Basel III regulations'",
-    "options": [
-      "Contracts whose value is derived from underlying assets like stocks or commodities",
-      "Insurance-like contracts against bond defaults",
-      "International banking regulations requiring higher capital reserves",
-      "A company's first sale of shares to the public"
+      "Single physical entity",
+      "Single legal entity",
+      "Separate legal entity",
+      "Separate physical entity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "'Sovereign wealth funds'",
+    "question": "Entrepreneurship is the process of starting and operating a business",
     "options": [
-      "State-owned investment funds managing national savings and assets",
-      "Contracts whose value is derived from underlying assets like stocks or commodities",
-      "Investment in companies not listed on public stock exchanges",
-      "International banking regulations requiring higher capital reserves"
+      "True",
+      "The process of taking over an existing business",
+      "The process of selling a business",
+      "False"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'currency risk' in international business",
+    "question": "A company's marketing manager is responsible for which of the following?",
     "options": [
-      "Exchange rate fluctuations affect the value of international transactions",
-      "A crisis in one financial market spreads rapidly to others",
-      "Central bank creates money to purchase assets and stimulate the economy",
-      "Insurance-like contracts against bond defaults"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Hedging' in international trade",
-    "options": [
-      "Using complex strategies including short-selling and leverage",
-      "Banks take excessive risks knowing they may be bailed out",
-      "State-owned investment funds managing national savings and assets",
-      "Using financial instruments to protect against currency or commodity price risk"
+      "Positioning of the product",
+      "Product development",
+      "Segmentation of the market",
+      "Pricing strategy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The concept of 'transfer pricing regulation'",
+    "question": "The marketing mix is a tool used to formulate a business's marketing strategy",
     "options": [
-      "Rules preventing multinationals from manipulating internal prices to avoid tax",
-      "Using financial instruments to protect against currency or commodity price risk",
-      "A crisis in one financial market spreads rapidly to others",
-      "Insurance-like contracts against bond defaults"
+      "The marketing mix is a product",
+      "True",
+      "False",
+      "Marketing mix is a business strategy"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "question": "The human resource management function is responsible for the recruitment and selection of employees",
+    "options": [
+      "False",
+      "True",
+      "Training and development of employees",
+      "Compensation and benefits of employees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A business's marketing strategy can be developed using the product life cycle model",
+    "options": [
+      "False",
+      "True",
+      "The product life cycle model is used to determine the pricing strategy",
+      "The product life cycle model is used to determine the production level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A consumer's purchasing decision is influenced by their personal values",
+    "options": [
+      "Their social status",
+      "Their income level",
+      "True",
+      "False"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A business can engage in ethical practices by being transparent in its operations",
+    "options": [
+      "False",
+      "By being secretive in its operations",
+      "True",
+      "By ignoring consumer complaints"
+    ],
+    "correctIndex": 2
   }
 ]

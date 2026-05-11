@@ -1,152 +1,152 @@
 [
   {
-    "question": "IPv6 uses how many bits",
+    "question": "A network that connects devices within a single building is called a _______.",
     "options": [
-      "Binary instructions directly executed by the CPU",
-      "Breaks data into packets that travel independently across a network",
-      "128",
-      "AND, OR and NOT"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A hash function in cybersecurity",
-    "options": [
-      "An attack that inserts malicious SQL code into a database query",
-      "A pair of keys — one public and one private — for encryption",
-      "Last In First Out (LIFO) principle",
-      "Converts data into a fixed-length string that cannot be reversed"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "SQL injection is",
-    "options": [
-      "Speeds up data retrieval by creating a reference structure",
-      "An attack that inserts malicious SQL code into a database query",
-      "Permanent software embedded in hardware devices",
-      "Binary instructions directly executed by the CPU"
+      "Internet",
+      "LAN",
+      "WAN",
+      "MAN"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A recursive algorithm",
+    "question": "A network that connects devices within a single building is called a _______.",
     "options": [
-      "128",
-      "Permanent software embedded in hardware devices",
-      "Uses multiple compromised systems to flood a target",
-      "Calls itself within its own definition to solve sub-problems"
+      "MAN",
+      "WAN",
+      "Internet",
+      "LAN"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The purpose of RAID storage",
+    "question": "The process of moving data from a local storage device to a cloud storage device is called _______.",
     "options": [
-      "Calls itself within its own definition to solve sub-problems",
-      "128",
-      "A pair of keys — one public and one private — for encryption",
-      "Combines multiple drives for redundancy or improved performance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In a spreadsheet, the VLOOKUP function",
-    "options": [
-      "AND, OR and NOT",
-      "Binary instructions directly executed by the CPU",
-      "Searches for a value in the first column of a range and returns a value from another column",
-      "Speeds up data retrieval by creating a reference structure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Public key cryptography uses",
-    "options": [
-      "AND, OR and NOT",
-      "128",
-      "A pair of keys — one public and one private — for encryption",
-      "Breaks data into packets that travel independently across a network"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A Gantt chart in project management",
-    "options": [
-      "Shows tasks and timelines in a bar chart format",
-      "Uses multiple compromised systems to flood a target",
-      "128",
-      "Speeds up data retrieval by creating a reference structure"
+      "Cloud migration",
+      "Cloud synchronization",
+      "Data compression",
+      "Cloud backup"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Packet switching",
+    "question": "A database that is stored on a single computer is called a _______ database.",
     "options": [
-      "An attack that inserts malicious SQL code into a database query",
-      "Speeds up data retrieval by creating a reference structure",
-      "128",
-      "Breaks data into packets that travel independently across a network"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Machine code is",
-    "options": [
-      "Converts data into a fixed-length string that cannot be reversed",
-      "An attack that inserts malicious SQL code into a database query",
-      "Binary instructions directly executed by the CPU",
-      "Speeds up data retrieval by creating a reference structure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A distributed denial of service (DDoS) attack",
-    "options": [
-      "Uses multiple compromised systems to flood a target",
-      "Searches for a value in the first column of a range and returns a value from another column",
-      "AND, OR and NOT",
-      "Permanent software embedded in hardware devices"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The purpose of an index in a database",
-    "options": [
-      "Last In First Out (LIFO) principle",
-      "Converts data into a fixed-length string that cannot be reversed",
-      "AND, OR and NOT",
-      "Speeds up data retrieval by creating a reference structure"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Boolean algebra uses operators",
-    "options": [
-      "Calls itself within its own definition to solve sub-problems",
-      "AND, OR and NOT",
-      "Speeds up data retrieval by creating a reference structure",
-      "Searches for a value in the first column of a range and returns a value from another column"
+      "Client-server",
+      "Single user",
+      "Multi-user",
+      "Cloud"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Firmware is",
+    "question": "The process of protecting a computer system from unauthorized access is called _______.",
     "options": [
-      "Converts data into a fixed-length string that cannot be reversed",
-      "An attack that inserts malicious SQL code into a database query",
-      "Permanent software embedded in hardware devices",
-      "Calls itself within its own definition to solve sub-problems"
+      "Encryption",
+      "Authorization",
+      "Authentication",
+      "Decryption"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The stack data structure operates on",
+    "question": "The process of converting a program written in one language to another language is called _______.",
     "options": [
-      "Permanent software embedded in hardware devices",
-      "Speeds up data retrieval by creating a reference structure",
-      "Last In First Out (LIFO) principle",
-      "Binary instructions directly executed by the CPU"
+      "Compilation",
+      "Translation",
+      "Emulation",
+      "Interpretation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a firewall in a network?",
+    "options": [
+      "Providing power to devices",
+      "Blocking unauthorized access",
+      "Increasing network speed",
+      "Enhancing security"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a spreadsheet?",
+    "options": [
+      "Creating presentations",
+      "Analyzing text data",
+      "Organizing and analyzing numerical data",
+      "Storing data"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A computer that is designed to perform a specific task, such as a calculator, is called a _______.",
+    "options": [
+      "Personal computer",
+      "Embedded system",
+      "Supercomputer",
+      "Mainframe computer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a spreadsheet?",
+    "options": [
+      "Creating presentations",
+      "Organizing and analyzing numerical data",
+      "Analyzing text data",
+      "Storing data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of protecting a computer system from damage or theft is called _______.",
+    "options": [
+      "Restore",
+      "Reinstall",
+      "Backup",
+      "Recover"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a CPU in a computer system?",
+    "options": [
+      "Executing instructions",
+      "Providing power",
+      "Transferring data",
+      "Storing data"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A network that connects devices within a single building is called a _______.",
+    "options": [
+      "WAN",
+      "LAN",
+      "Internet",
+      "MAN"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a program that is designed to perform a specific task and then delete itself?",
+    "options": [
+      "Malware",
+      "Application program",
+      "System program",
+      "Utility program"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of virus?",
+    "options": [
+      "Adware",
+      "Trojan horse",
+      "Worm",
+      "Spyware"
+    ],
+    "correctIndex": 1
   }
 ]

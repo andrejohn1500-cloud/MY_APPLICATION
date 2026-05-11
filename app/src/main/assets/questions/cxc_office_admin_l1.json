@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the main purpose of office administration?",
+    "question": "What is the term for the process of managing employee conflicts?",
     "options": [
-      "Only filing documents",
-      "Ensuring the smooth running of an organisation through managing information, people and resources",
-      "Only answering phones",
-      "Only typing letters"
+      "Employee recruitment",
+      "Employee development",
+      "Employee communication",
+      "Conflict resolution"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of training and developing employees?",
+    "options": [
+      "Employee recruitment",
+      "Employee promotion",
+      "Employee development",
+      "Employee communication"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of an employee grievance procedure?",
+    "options": [
+      "To describe the work environment",
+      "To set employee performance goals",
+      "To outline the steps to follow when resolving employee grievances",
+      "To determine employee salaries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of office equipment?",
+    "options": [
+      "Photocopier",
+      "Computer",
+      "Telephone",
+      "Typewriter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a meeting agenda?",
+    "options": [
+      "To determine the meeting duration",
+      "To decide on the meeting location",
+      "To assign tasks to attendees",
+      "To outline the topics to be discussed"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of effective communication?",
+    "options": [
+      "Verbal communication only",
+      "Avoiding feedback",
+      "Non-verbal communication only",
+      "Clear and concise message"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main purpose of a mailroom in an office setting?",
+    "options": [
+      "To manage and distribute incoming and outgoing mail and packages.",
+      "To manage office supplies and stationery",
+      "To handle customer complaints and concerns",
+      "To generate invoices and receipts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a file plan in an office filing system?",
+    "options": [
+      "To store confidential documents",
+      "To handle office supplies",
+      "To manage employee attendance",
+      "To provide a systematic approach to organizing and retrieving files"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the format for writing a formal business letter?",
+    "options": [
+      "Outline format",
+      "Tabular format",
+      "Outline with headings",
+      "Block format"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a job specification?",
+    "options": [
+      "To set employee performance goals",
+      "To outline the skills and qualifications required for a job",
+      "To describe the work environment",
+      "To determine employee salaries"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'memorandum' (memo)?",
+    "question": "What is the purpose of a time and attendance record?",
     "options": [
-      "A letter to a client",
-      "An internal written communication within an organisation",
-      "A legal document",
-      "An invoice"
+      "To manage employee benefits",
+      "To describe the work environment",
+      "To determine employee salaries",
+      "To track employee working hours"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of managing employee performance?",
+    "options": [
+      "Employee development",
+      "Employee recruitment",
+      "Performance management",
+      "Employee communication"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a system of organizing and storing files based on alphabetical order?",
+    "options": [
+      "Numerical filing system",
+      "Alphabetical filing system",
+      "Chronological filing system",
+      "Geographic filing system"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'filing'?",
+    "question": "What is the term for the process of managing employee wellness?",
     "options": [
-      "Sharpening pencils",
-      "Systematically organising and storing documents for easy retrieval",
-      "Only photocopying",
-      "Only typing"
+      "Employee recruitment",
+      "Employee wellness management",
+      "Employee development",
+      "Employee communication"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'petty cash' refer to?",
+    "question": "What is the term for the process of sending and receiving mail through a postal service?",
     "options": [
-      "All office money",
-      "A small fund kept for minor office expenses",
-      "Employee salaries",
-      "Money for major purchases"
+      "Email communication",
+      "Express delivery",
+      "Mail handling",
+      "Courier service"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'meeting agenda'?",
-    "options": [
-      "Minutes of a meeting",
-      "A list of topics to be discussed at a meeting",
-      "A report",
-      "An office schedule"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What are 'minutes' in office administration?",
-    "options": [
-      "Units of time only",
-      "An official written record of what was discussed and decided at a meeting",
-      "A type of memo",
-      "A filing system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a 'notice board'?",
-    "options": [
-      "Decoration only",
-      "Displaying information and announcements for all staff",
-      "Private messaging",
-      "Filing documents"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'reception' in an office context?",
-    "options": [
-      "A party",
-      "The area where visitors are greeted and directed",
-      "A meeting room",
-      "A storage area"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'confidentiality' mean in the office?",
-    "options": [
-      "Sharing all information",
-      "Keeping sensitive information private and secure",
-      "Being friendly",
-      "Working fast"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'circular letter'?",
-    "options": [
-      "A letter written in a circle",
-      "A letter sent to many people at once conveying the same information",
-      "A secret letter",
-      "A formal complaint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of a 'photocopier'?",
-    "options": [
-      "Send emails",
-      "Make copies of documents",
-      "Shred documents",
-      "Connect to internet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'word processing'?",
-    "options": [
-      "Understanding words",
-      "Using software to create, edit and format text documents",
-      "Filing papers",
-      "Making phone calls"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'report' in business communication?",
-    "options": [
-      "Only a school assignment",
-      "A formal document presenting findings and often recommendations on a specific topic",
-      "A personal letter",
-      "An invoice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'ergonomics' mean in an office context?",
-    "options": [
-      "Office decoration",
-      "Designing the workplace to suit the worker to improve comfort and productivity",
-      "Office cleaning",
-      "Scheduling meetings"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'time management' in the workplace?",
-    "options": [
-      "Watching clocks",
-      "Planning and organising tasks to use time productively and meet deadlines",
-      "Only punctuality",
-      "Working overtime"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

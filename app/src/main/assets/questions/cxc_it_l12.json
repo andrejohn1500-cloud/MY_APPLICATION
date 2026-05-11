@@ -1,152 +1,152 @@
 [
   {
-    "question": "The concept of 'data normalisation' to 3NF",
+    "question": "What is the term for a type of attack where an attacker intercepts and alters data in transit?",
     "options": [
-      "Horizontal partitioning of data across multiple databases",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
-      "Complex analytical queries on large datasets",
-      "Query performance by creating fast lookup structures"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Entity integrity' in databases requires",
-    "options": [
-      "Primary keys must be unique and not null",
-      "Discovering patterns and insights from large datasets",
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key"
+      "C",
+      "B. Distributed Denial of Service (DDoS) attack",
+      "D. Man-in-the-middle (MitM) attack",
+      "A. Denial of Service (DoS) attack"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'referential integrity'",
+    "question": "Which of the following is a benefit of using a database management system?",
     "options": [
-      "Pre-compiled SQL code stored in the database and executed on demand",
-      "Volume, velocity, variety, veracity and value",
-      "Foreign keys must match primary keys in the referenced table",
-      "Complex analytical queries on large datasets"
+      "B. It reduces data storage costs",
+      "C",
+      "D. It reduces data processing time",
+      "A. It increases data redundancy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of attack where an attacker intercepts and alters data in transit?",
+    "options": [
+      "B. Denial of Service (DoS) attack",
+      "D. Man-in-the-middle (MitM) attack",
+      "A",
+      "C. Distributed Denial of Service (DDoS) attack"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 'stored procedure' in SQL",
+    "question": "Which of the following is a type of malware that uses social engineering to trick users into installing it?",
     "options": [
-      "Pre-compiled SQL code stored in the database and executed on demand",
-      "Volume, velocity, variety, veracity and value",
-      "Query performance by creating fast lookup structures",
-      "Horizontal partitioning of data across multiple databases"
+      "C. Worm",
+      "D. Trojan",
+      "B. Virus",
+      "A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of using a database management system?",
+    "options": [
+      "B. It increases data storage costs",
+      "A. It reduces data redundancy",
+      "C",
+      "D. It increases data processing time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of network that is used to connect devices in a wide area?",
+    "options": [
+      "D. Local Area Network (LAN)",
+      "A",
+      "B. Metropolitan Area Network (MAN)",
+      "C. Wireless Network (WLAN)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of using a spreadsheet?",
+    "options": [
+      "B. It increases data storage costs",
+      "D. It reduces data analysis time",
+      "C. It increases data processing time",
+      "A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of using a cloud-based service?",
+    "options": [
+      "B. It reduces data security risks",
+      "A",
+      "C. It increases data storage costs",
+      "D. It reduces network bandwidth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of using a database management system?",
+    "options": [
+      "D. It reduces data processing time",
+      "B",
+      "A. It increases data redundancy",
+      "C. It reduces data storage costs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of using a spreadsheet?",
+    "options": [
+      "A. It reduces data analysis time",
+      "D. It reduces data storage costs",
+      "C. It increases data processing time",
+      "B"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of using a cloud-based service?",
+    "options": [
+      "B. It increases data storage costs",
+      "A. It reduces data security risks",
+      "C",
+      "D. It reduces network bandwidth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a benefit of using a cloud-based service?",
+    "options": [
+      "D. It reduces network bandwidth",
+      "B",
+      "C. It increases data storage costs",
+      "A. It reduces data security risks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a network that spans a large geographic area, such as a city or country?",
+    "options": [
+      "B. Metropolitan Area Network (MAN)",
+      "A",
+      "C. Wide Area Network (WAN)",
+      "D. Local Area Network (LAN)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of using a spreadsheet?",
+    "options": [
+      "B. It increases data storage costs",
+      "C",
+      "D. It increases data processing time",
+      "A. It reduces data analysis time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of database that is designed to handle large amounts of unstructured data?",
+    "options": [
+      "B",
+      "C. Object-oriented database",
+      "D. NoSQL database",
+      "A. Relational database"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'database triggers'",
-    "options": [
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Discovering patterns and insights from large datasets",
-      "Foreign keys must match primary keys in the referenced table",
-      "Automatically execute SQL code in response to specific table events"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Database indexing' improves",
-    "options": [
-      "Virtual tables created by stored queries",
-      "Query performance by creating fast lookup structures",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions",
-      "Pre-compiled SQL code stored in the database and executed on demand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'ACID properties' in databases",
-    "options": [
-      "Volume, velocity, variety, veracity and value",
-      "Horizontal partitioning of data across multiple databases",
-      "Foreign keys must match primary keys in the referenced table",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Database views' are",
-    "options": [
-      "Foreign keys must match primary keys in the referenced table",
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Virtual tables created by stored queries",
-      "Centralised storage of historical data for analysis and reporting"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'database sharding'",
-    "options": [
-      "Foreign keys must match primary keys in the referenced table",
-      "Horizontal partitioning of data across multiple databases",
-      "Extract, Transform and Load data into a data warehouse",
-      "Complex analytical queries on large datasets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'NoSQL databases' are suited for",
-    "options": [
-      "Complex analytical queries on large datasets",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
-      "Unstructured or semi-structured data that doesn't fit relational models",
-      "Pre-compiled SQL code stored in the database and executed on demand"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'data warehousing'",
-    "options": [
-      "Centralised storage of historical data for analysis and reporting",
-      "Complex analytical queries on large datasets",
-      "Foreign keys must match primary keys in the referenced table",
-      "Primary keys must be unique and not null"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'OLAP' (Online Analytical Processing) is used for",
-    "options": [
-      "Primary keys must be unique and not null",
-      "Complex analytical queries on large datasets",
-      "Query performance by creating fast lookup structures",
-      "Atomicity, Consistency, Isolation and Durability ensure reliable transactions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'ETL process'",
-    "options": [
-      "Complex analytical queries on large datasets",
-      "Extract, Transform and Load data into a data warehouse",
-      "Horizontal partitioning of data across multiple databases",
-      "Virtual tables created by stored queries"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "'Data mining' involves",
-    "options": [
-      "Foreign keys must match primary keys in the referenced table",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
-      "Pre-compiled SQL code stored in the database and executed on demand",
-      "Discovering patterns and insights from large datasets"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'big data characteristics' (5 Vs)",
-    "options": [
-      "Discovering patterns and insights from large datasets",
-      "Automatically execute SQL code in response to specific table events",
-      "Eliminates transitive dependencies so non-key attributes depend only on primary key",
-      "Volume, velocity, variety, veracity and value"
-    ],
-    "correctIndex": 3
   }
 ]

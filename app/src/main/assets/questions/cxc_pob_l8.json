@@ -1,152 +1,62 @@
 [
   {
-    "question": "The difference between revenue and capital expenditure",
+    "question": "What is the term for the process of finding, selecting, and recruiting employees?",
     "options": [
-      "Business performance across financial, customer, internal and learning perspectives",
-      "Overhead costs to products based on the activities that cause them",
-      "Output is restricted below the socially optimal level",
-      "Revenue is day-to-day spending; capital is on long-term assets"
+      "human resource training",
+      "human resource management",
+      "human resource development",
+      "human resource planning"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A rights issue differs from a bonus issue because",
+    "question": "What is the term for the process of evaluating a business's performance and position in relation to its competitors?",
     "options": [
-      "Owns enough shares in other companies to control them",
-      "Output is restricted below the socially optimal level",
-      "A period of rising share prices and investor confidence",
-      "Rights issues raise new capital; bonus issues convert reserves to shares"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The aggregate demand curve slopes downward because",
-    "options": [
-      "As price level falls, real purchasing power rises",
-      "Output is restricted below the socially optimal level",
-      "Business performance across financial, customer, internal and learning perspectives",
-      "A period of falling share prices and low investor confidence"
+      "competitive analysis",
+      "financial analysis",
+      "market analysis",
+      "strategic analysis"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Deadweight loss occurs in a monopoly because",
+    "question": "Which of the following is a type of financial ratio?",
     "options": [
-      "Rights issues raise new capital; bonus issues convert reserves to shares",
-      "Overhead costs to products based on the activities that cause them",
-      "Taking greater risks because the consequences are borne by others",
-      "Output is restricted below the socially optimal level"
+      "liquidity ratio",
+      "return on investment ratio",
+      "debt ratio",
+      "profit margin ratio"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A holding company",
+    "question": "What is the term for the process of planning, budgeting, and controlling a business's finances?",
     "options": [
-      "Owns enough shares in other companies to control them",
-      "How efficiently a business uses its capital to generate profit",
-      "Central banks creating money to buy assets and stimulate the economy",
-      "A period of falling share prices and low investor confidence"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Zero-based budgeting requires",
-    "options": [
-      "Setting prices very low to drive competitors out of the market",
-      "Every expense to be justified from scratch each period",
-      "Overhead costs to products based on the activities that cause them",
-      "Taking greater risks because the consequences are borne by others"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The balanced scorecard approach measures",
-    "options": [
-      "A period of rising share prices and investor confidence",
-      "Overhead costs to products based on the activities that cause them",
-      "How efficiently a business uses its capital to generate profit",
-      "Business performance across financial, customer, internal and learning perspectives"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A bull market describes",
-    "options": [
-      "How efficiently a business uses its capital to generate profit",
-      "A period of rising share prices and investor confidence",
-      "Every expense to be justified from scratch each period",
-      "Central banks creating money to buy assets and stimulate the economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Predatory pricing involves",
-    "options": [
-      "Business performance across financial, customer, internal and learning perspectives",
-      "Setting prices very low to drive competitors out of the market",
-      "Rights issues raise new capital; bonus issues convert reserves to shares",
-      "Owns enough shares in other companies to control them"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Activity-based costing allocates",
-    "options": [
-      "Government use of taxation and spending to influence the economy",
-      "Overhead costs to products based on the activities that cause them",
-      "Owns enough shares in other companies to control them",
-      "Every expense to be justified from scratch each period"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A bear market describes",
-    "options": [
-      "Central banks creating money to buy assets and stimulate the economy",
-      "Rights issues raise new capital; bonus issues convert reserves to shares",
-      "A period of falling share prices and low investor confidence",
-      "Government use of taxation and spending to influence the economy"
+      "financial forecasting",
+      "financial analysis",
+      "financial management",
+      "financial planning"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The concept of moral hazard refers to",
+    "question": "What is the term for a business that is owned and controlled by a group of people who share common goals and objectives?",
     "options": [
-      "Central banks creating money to buy assets and stimulate the economy",
-      "Taking greater risks because the consequences are borne by others",
-      "Every expense to be justified from scratch each period",
-      "Setting prices very low to drive competitors out of the market"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quantitative easing involves",
-    "options": [
-      "Taking greater risks because the consequences are borne by others",
-      "Central banks creating money to buy assets and stimulate the economy",
-      "Overhead costs to products based on the activities that cause them",
-      "Government use of taxation and spending to influence the economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Return on capital employed (ROCE) measures",
-    "options": [
-      "Rights issues raise new capital; bonus issues convert reserves to shares",
-      "How efficiently a business uses its capital to generate profit",
-      "Central banks creating money to buy assets and stimulate the economy",
-      "Taking greater risks because the consequences are borne by others"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Fiscal policy refers to",
-    "options": [
-      "Government use of taxation and spending to influence the economy",
-      "Taking greater risks because the consequences are borne by others",
-      "Every expense to be justified from scratch each period",
-      "Rights issues raise new capital; bonus issues convert reserves to shares"
+      "partnership",
+      "sole proprietorship",
+      "corporation",
+      "cooperative"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which type of production involves a single manufacturer producing a variety of products?",
+    "options": [
+      "Mass production",
+      "Continuous production",
+      "Batch production",
+      "Job production"
+    ],
+    "correctIndex": 3
   }
 ]

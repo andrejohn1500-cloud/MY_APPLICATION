@@ -1,152 +1,152 @@
 [
   {
-    "question": "The Data Protection Act governs",
+    "question": "What is the primary function of a shredder?",
     "options": [
-      "In locked cabinets with restricted access",
-      "Updates on issues from the previous meeting's minutes",
-      "The medium through which a message is transmitted",
-      "How personal data is collected, stored and used by organisations"
+      "To copy and reproduce documents and images",
+      "To fax documents and reports",
+      "To scan documents and images",
+      "To destroy and dispose of confidential documents and papers."
     ],
     "correctIndex": 3
   },
   {
-    "question": "A non-verbal barrier to communication",
+    "question": "What is the primary responsibility of a human resources (HR) generalist?",
     "options": [
-      "The medium through which a message is transmitted",
-      "Poor body language or inappropriate facial expressions",
-      "Paying full attention and providing appropriate feedback",
-      "Using technology to perform routine office tasks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Confidential records should be stored",
-    "options": [
-      "Employees share desks rather than having assigned workstations",
-      "Paying full attention and providing appropriate feedback",
-      "Using technology to perform routine office tasks",
-      "In locked cabinets with restricted access"
+      "To handle customer complaints and concerns",
+      "To manage office supplies and stationery",
+      "To generate invoices and receipts",
+      "To provide support and guidance to employees, and to manage employee records and benefits."
     ],
     "correctIndex": 3
   },
   {
-    "question": "The purpose of a bring-forward file",
+    "question": "What type of filing system uses a combination of letters and numbers to identify and locate files?",
     "options": [
-      "It can be misinterpreted due to lack of tone and body language",
-      "In locked cabinets with restricted access",
-      "Poor body language or inappropriate facial expressions",
-      "To flag documents that need attention on a future date"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A standard agenda item 'matters arising' refers to",
-    "options": [
-      "Poor body language or inappropriate facial expressions",
-      "Updates on issues from the previous meeting's minutes",
-      "How personal data is collected, stored and used by organisations",
-      "The use of personal space and distance in interactions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "E-commerce affects office administration by",
-    "options": [
-      "Using technology to perform routine office tasks",
-      "Paying full attention and providing appropriate feedback",
-      "Requiring digital document management and online communication skills",
-      "To identify and monitor visitors for security purposes"
+      "Numerical filing system",
+      "Alphabetical filing system",
+      "Alpha-numeric filing system.",
+      "Categorical filing system"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The purpose of a receptionist's visitor badge system",
+    "question": "What type of meeting involves a small group of people discussing a specific topic or issue?",
     "options": [
-      "Using technology to perform routine office tasks",
-      "To identify and monitor visitors for security purposes",
-      "To document all processes and procedures within an organisation",
-      "Employees share desks rather than having assigned workstations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Effective listening in communication involves",
-    "options": [
-      "Requiring digital document management and online communication skills",
-      "Paying full attention and providing appropriate feedback",
-      "Updates on issues from the previous meeting's minutes",
-      "To identify and monitor visitors for security purposes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Office automation refers to",
-    "options": [
-      "How personal data is collected, stored and used by organisations",
-      "Using technology to perform routine office tasks",
-      "Employees share desks rather than having assigned workstations",
-      "It can be misinterpreted due to lack of tone and body language"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A disadvantage of email communication",
-    "options": [
-      "It can be misinterpreted due to lack of tone and body language",
-      "Requiring digital document management and online communication skills",
-      "Paying full attention and providing appropriate feedback",
-      "Poor body language or inappropriate facial expressions"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The purpose of a work schedule",
-    "options": [
-      "To identify and monitor visitors for security purposes",
-      "To plan and allocate tasks and time efficiently",
-      "Employees share desks rather than having assigned workstations",
-      "To flag documents that need attention on a future date"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Proxemics in communication refers to",
-    "options": [
-      "Updates on issues from the previous meeting's minutes",
-      "The use of personal space and distance in interactions",
-      "Using technology to perform routine office tasks",
-      "To plan and allocate tasks and time efficiently"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Hot desking in modern offices means",
-    "options": [
-      "To identify and monitor visitors for security purposes",
-      "To plan and allocate tasks and time efficiently",
-      "Employees share desks rather than having assigned workstations",
-      "Paying full attention and providing appropriate feedback"
+      "Formal meeting",
+      "Committee meeting",
+      "Informal meeting.",
+      "Conference meeting"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The purpose of an operations manual",
+    "question": "What is the purpose of a filing index?",
     "options": [
-      "To document all processes and procedures within an organisation",
-      "The medium through which a message is transmitted",
-      "How personal data is collected, stored and used by organisations",
-      "Updates on issues from the previous meeting's minutes"
+      "To record the decisions made during a meeting",
+      "To distribute meeting minutes",
+      "To provide a list of files and their locations in the filing system.",
+      "To send meeting invitations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of meeting involves a small group of people discussing a specific topic or issue, and making decisions or recommendations?",
+    "options": [
+      "Informal meeting",
+      "Formal meeting",
+      "Committee meeting.",
+      "Conference meeting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of business communication involves the exchange of information between two or more people in a face-to-face setting?",
+    "options": [
+      "Electronic communication",
+      "Verbal communication.",
+      "Written communication",
+      "Nonverbal communication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a meeting minutes?",
+    "options": [
+      "To record the decisions made, actions agreed upon, and responsibilities assigned during the meeting.",
+      "To send meeting reminders",
+      "To distribute meeting invitations",
+      "To record the discussion and decisions made during the meeting"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A channel of communication is",
+    "question": "What type of communication involves the use of a combination of verbal and nonverbal messages?",
     "options": [
-      "To flag documents that need attention on a future date",
-      "The medium through which a message is transmitted",
-      "Using technology to perform routine office tasks",
-      "Requiring digital document management and online communication skills"
+      "Verbal communication.",
+      "Electronic communication",
+      "Written communication",
+      "Nonverbal communication"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a meeting resolution?",
+    "options": [
+      "To record the discussion and decisions made during the meeting",
+      "To document the decisions made and actions agreed upon during the meeting.",
+      "To send meeting reminders",
+      "To distribute meeting minutes"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the primary responsibility of a receptionist in a medical office setting?",
+    "options": [
+      "To handle customer complaints and concerns",
+      "To generate invoices and receipts",
+      "To manage office supplies and stationery",
+      "To greet and direct patients, and to manage patient records and files."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary responsibility of a mail clerk?",
+    "options": [
+      "To handle customer complaints and concerns",
+      "To generate invoices and receipts",
+      "To manage office supplies and stationery",
+      "To sort, distribute, and track mail and packages."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a laminator?",
+    "options": [
+      "To protect and preserve documents and papers by applying a laminate coating.",
+      "To copy and reproduce documents and images",
+      "To fax documents and reports",
+      "To scan documents and images"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a business letterhead?",
+    "options": [
+      "To distribute meeting minutes",
+      "To provide the company's name and contact information, and to create a professional impression.",
+      "To send meeting invitations",
+      "To record the decisions made during a meeting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of filing system uses a combination of categories and subcategories to identify and locate files?",
+    "options": [
+      "Categorical filing system.",
+      "Alphabetical filing system",
+      "Numerical filing system",
+      "Alpha-numeric filing system"
+    ],
+    "correctIndex": 0
   }
 ]

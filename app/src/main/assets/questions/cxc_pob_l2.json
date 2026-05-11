@@ -1,1 +1,152 @@
-[{"question":"What is 'entrepreneurship'?","options":["Starting and running a business","Working for a company","Managing employees","Investing in stocks"],"correctIndex":0},{"question":"What is a 'balance sheet'?","options":["Statement of assets and liabilities","Record of sales","List of employees","Tax document"],"correctIndex":0},{"question":"What does 'ROI' stand for?","options":["Return on Investment","Rate of Income","Revenue of Industry","Record of Interest"],"correctIndex":0},{"question":"What is 'marketing mix'?","options":["Product, Price, Place, Promotion","Sales, Profit, Loss, Revenue","Supply, Demand, Cost, Revenue","Assets, Liabilities, Capital, Profit"],"correctIndex":0},{"question":"What is a 'sole trader'?","options":["A business owned by one person","A business with many owners","A government business","A non-profit organisation"],"correctIndex":0},{"question":"What is 'depreciation'?","options":["Reduction in value of an asset","Increase in business profit","Growth of capital","Rise in asset value"],"correctIndex":0},{"question":"What is 'cash flow'?","options":["Movement of money in and out of business","Total profit of a business","Amount of stock held","Number of employees"],"correctIndex":0},{"question":"What is a 'franchise'?","options":["Business model using another company's brand","A type of partnership","A government licence","A sole trader arrangement"],"correctIndex":0},{"question":"What is 'working capital'?","options":["Current assets minus current liabilities","Total assets of a business","Annual profit","Long-term investments"],"correctIndex":0},{"question":"What is 'outsourcing'?","options":["Hiring external companies for tasks","Expanding the business","Reducing staff","Opening new branches"],"correctIndex":0},{"question":"What is a 'target market'?","options":["Specific group of customers a business aims at","All potential customers","Competitor businesses","International markets"],"correctIndex":0},{"question":"What is 'quality control'?","options":["Ensuring products meet standards","Reducing production costs","Increasing output","Training employees"],"correctIndex":0},{"question":"What does 'B2B' mean?","options":["Business to Business","Business to Buyer","Bank to Business","Buyer to Bank"],"correctIndex":0},{"question":"What is a 'dividend'?","options":["Share of company profits paid to shareholders","A type of business loan","A government tax","An operating cost"],"correctIndex":0},{"question":"What is 'e-commerce'?","options":["Buying and selling online","Electronic accounting","Email marketing","Digital banking"],"correctIndex":0}]
+[
+  {
+    "question": "What is the main purpose of a feasibility study?",
+    "options": [
+      "To determine the profit margin",
+      "To determine the market size",
+      "To determine the viability of a business idea",
+      "To determine the cost of production"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is responsible for making decisions in a business organisation?",
+    "options": [
+      "The customers",
+      "The manager",
+      "The owner",
+      "The employees"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of how to make a business more efficient and effective in using resources?",
+    "options": [
+      "Marketing management",
+      "Financial management",
+      "Human resource management",
+      "Resource management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the impact of business on the environment?",
+    "options": [
+      "Economic studies",
+      "Corporate social responsibility",
+      "Environmental studies",
+      "Sustainability studies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a marketing plan?",
+    "options": [
+      "To outline the production process",
+      "To outline the marketing goals and objectives of a business",
+      "To outline the financial plans",
+      "To outline the human resource plans"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of the Central Bank in regulating the financial sector in the Caribbean?",
+    "options": [
+      "To promote economic growth and development",
+      "To generate revenue only",
+      "To regulate economic activities",
+      "To maintain financial stability and prevent financial crises"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the physical environment and its impact on business?",
+    "options": [
+      "Sustainability studies",
+      "Economic studies",
+      "Corporate social responsibility",
+      "Environmental studies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of financial statement?",
+    "options": [
+      "break-even analysis",
+      "income statement",
+      "balance sheet",
+      "cash flow statement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a business plan?",
+    "options": [
+      "To outline the goals and objectives of a business",
+      "To outline the marketing strategy",
+      "To outline the financial plans",
+      "To outline the production process"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary goal of a business organisation?",
+    "options": [
+      "Generate revenue only",
+      "Provide employment opportunities",
+      "Minimise production costs",
+      "Maximise shareholder wealth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is responsible for managing the financial resources of a business?",
+    "options": [
+      "The manager",
+      "The accountant",
+      "The owner",
+      "The customer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the study of customer needs and wants?",
+    "options": [
+      "Market development",
+      "Market segmentation",
+      "Market analysis",
+      "Market research"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of converting raw materials into a finished product?",
+    "options": [
+      "marketing process",
+      "finance process",
+      "distribution process",
+      "production process"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of hiring and training employees?",
+    "options": [
+      "Staffing",
+      "Appraisal",
+      "Recruitment",
+      "Selection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of a feasibility study in entrepreneurship?",
+    "options": [
+      "To determine the profit margin",
+      "To determine the market size",
+      "To determine the viability of a business idea",
+      "To determine the cost of production"
+    ],
+    "correctIndex": 2
+  }
+]

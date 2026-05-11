@@ -1,152 +1,152 @@
 [
   {
-    "question": "The concept of 'supply chain management'",
+    "question": "The concept of 'sustainability' refers to the ability of a business to maintain its operations and services over the long term without harming the environment.",
     "options": [
-      "Cost advantages from producing a variety of products together",
-      "Identifies the longest sequence of dependent tasks to determine minimum project time",
-      "Coordinating the flow of goods, information and money from supplier to customer",
-      "Greater control over supply chain, quality and costs"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Just-in-time' (JIT) production",
-    "options": [
-      "Coordinating the flow of goods, information and money from supplier to customer",
-      "Cost advantages from producing a variety of products together",
-      "QC checks finished products; QA monitors the entire production process",
-      "Receives materials exactly when needed, reducing inventory costs"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of 'economies of scope'",
-    "options": [
-      "Receives materials exactly when needed, reducing inventory costs",
-      "Greater control over supply chain, quality and costs",
-      "Continuous small improvements involving all employees",
-      "Cost advantages from producing a variety of products together"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Batch production' involves",
-    "options": [
-      "Greater control over supply chain, quality and costs",
-      "Making one unique product at a time to specific customer requirements",
-      "Producing a set quantity of identical items before changing to a different product",
-      "QC checks finished products; QA monitors the entire production process"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'job production'",
-    "options": [
-      "Receives materials exactly when needed, reducing inventory costs",
-      "Greater control over supply chain, quality and costs",
-      "Making one unique product at a time to specific customer requirements",
-      "Contracting external providers to perform non-core business functions"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Flow production' (mass production)",
-    "options": [
-      "Continuous production of large quantities on an assembly line",
-      "Continuous small improvements involving all employees",
-      "Making one unique product at a time to specific customer requirements",
-      "The percentage of total productive capacity currently being used"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'total quality management' (TQM)",
-    "options": [
-      "Coordinating the flow of goods, information and money from supplier to customer",
-      "Greater control over supply chain, quality and costs",
-      "Identifies the longest sequence of dependent tasks to determine minimum project time",
-      "Continuous improvement involving all employees to achieve customer satisfaction"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Quality control' differs from 'quality assurance' because",
-    "options": [
-      "Coordinating the flow of goods, information and money from supplier to customer",
-      "Technical, purchasing, financial, managerial and risk-bearing",
-      "QC checks finished products; QA monitors the entire production process",
-      "Making one unique product at a time to specific customer requirements"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'critical path analysis'",
-    "options": [
-      "Identifies the longest sequence of dependent tasks to determine minimum project time",
-      "Producing a set quantity of identical items before changing to a different product",
-      "QC checks finished products; QA monitors the entire production process",
-      "Comparing performance against industry best practice to identify improvements"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Benchmarking' in business involves",
-    "options": [
-      "Continuous production of large quantities on an assembly line",
-      "Making one unique product at a time to specific customer requirements",
-      "Comparing performance against industry best practice to identify improvements",
-      "Identifies the longest sequence of dependent tasks to determine minimum project time"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'outsourcing'",
-    "options": [
-      "Continuous production of large quantities on an assembly line",
-      "Making one unique product at a time to specific customer requirements",
-      "Producing a set quantity of identical items before changing to a different product",
-      "Contracting external providers to perform non-core business functions"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Vertical integration' benefits include",
-    "options": [
-      "Greater control over supply chain, quality and costs",
-      "Making one unique product at a time to specific customer requirements",
-      "Comparing performance against industry best practice to identify improvements",
-      "Producing a set quantity of identical items before changing to a different product"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'economies of scale' types include",
-    "options": [
-      "Producing a set quantity of identical items before changing to a different product",
-      "Receives materials exactly when needed, reducing inventory costs",
-      "Technical, purchasing, financial, managerial and risk-bearing",
-      "Cost advantages from producing a variety of products together"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Kaizen' philosophy promotes",
-    "options": [
-      "The percentage of total productive capacity currently being used",
-      "Continuous small improvements involving all employees",
-      "Greater control over supply chain, quality and costs",
-      "Continuous improvement involving all employees to achieve customer satisfaction"
+      "False",
+      "True",
+      "Short-term sustainability",
+      "Unsustainable business"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'capacity utilisation'",
+    "question": "Which of the following is an example of a type of business organisation that is owned and controlled by its members?",
     "options": [
-      "Comparing performance against industry best practice to identify improvements",
-      "Identifies the longest sequence of dependent tasks to determine minimum project time",
-      "Producing a set quantity of identical items before changing to a different product",
-      "The percentage of total productive capacity currently being used"
+      "Sole proprietorship",
+      "Public company",
+      "Cooperative",
+      "Worker cooperative"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a type of business organisation that is owned and controlled by the state?",
+    "options": [
+      "Sole proprietorship",
+      "State-owned enterprise",
+      "Cooperative",
+      "Public company"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a type of business organisation that is owned and controlled by the state?",
+    "options": [
+      "Public company",
+      "Cooperative",
+      "State-owned enterprise",
+      "Sole proprietorship"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The principle of ethical behavior that emphasizes fair treatment and respect for all stakeholders is known as _______.",
+    "options": [
+      "Justice",
+      "Respect for persons",
+      "Non-maleficence",
+      "Beneficence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a type of business organisation that is owned and controlled by its members?",
+    "options": [
+      "Cooperative",
+      "Partnership",
+      "Sole proprietorship",
+      "Public company"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of 'value added' refers to the additional value created by each stage of production or service provision.",
+    "options": [
+      "False",
+      "True",
+      "Value creation",
+      "Partial value added"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a type of business organisation that is owned and controlled by its members?",
+    "options": [
+      "Sole proprietorship",
+      "Public company",
+      "Worker cooperative",
+      "Cooperative"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "The concept of 'stakeholder theory' emphasizes the importance of considering the interests of all stakeholders in business decision-making.",
+    "options": [
+      "False",
+      "Managerial theory",
+      "True",
+      "Shareholder theory"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'sustainability' is closely related to the concept of 'environmental conservation'.",
+    "options": [
+      "Opposite",
+      "False",
+      "True",
+      "Not related"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'sustainability' is closely related to the concept of 'environmental management'.",
+    "options": [
+      "Not related",
+      "Opposite",
+      "False",
+      "True"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process of matching revenues and expenses in a financial period is known as _______.",
+    "options": [
+      "Going concern principle",
+      "Accrual principle",
+      "Historical cost principle",
+      "Matching principle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of 'stakeholder theory' emphasizes the importance of considering the interests of all stakeholders in business decision-making.",
+    "options": [
+      "Managerial theory",
+      "Shareholder theory",
+      "True",
+      "False"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of 'stakeholder theory' is closely related to the concept of 'corporate social responsibility'.",
+    "options": [
+      "Not related",
+      "True",
+      "False",
+      "Opposite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'sustainability' is closely related to the concept of 'economic development'.",
+    "options": [
+      "True",
+      "Opposite",
+      "False",
+      "Not related"
+    ],
+    "correctIndex": 0
   }
 ]

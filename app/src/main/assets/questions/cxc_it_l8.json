@@ -1,151 +1,21 @@
 [
   {
-    "question": "A queue data structure operates on",
+    "question": "A computer virus that replicates itself from system to system without user intervention is called a _______.",
     "options": [
-      "Uses hard disk space to extend available RAM",
-      "1010",
-      "First In First Out (FIFO) principle",
-      "Detects errors in transmitted or stored data"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The binary representation of decimal 255",
-    "options": [
-      "First In First Out (FIFO) principle",
-      "Objects that contain data and methods",
-      "11111111",
-      "Uses hard disk space to extend available RAM"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Asymmetric encryption uses",
-    "options": [
-      "Different keys for encryption and decryption",
-      "Entire source code into machine code before execution",
-      "Source code line by line during execution",
-      "First In First Out (FIFO) principle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "An entity relationship diagram (ERD)",
-    "options": [
-      "Models the relationships between entities in a database",
-      "First In First Out (FIFO) principle",
-      "Detects errors in transmitted or stored data",
-      "Source code line by line during execution"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The purpose of subnetting",
-    "options": [
-      "Divides a network into smaller subnetworks for efficiency and security",
-      "Different keys for encryption and decryption",
-      "Detects errors in transmitted or stored data",
-      "11111111"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A linked list stores data using",
-    "options": [
-      "Objects that contain data and methods",
-      "Different keys for encryption and decryption",
-      "Nodes that contain data and a pointer to the next node",
-      "DRAM needs constant refreshing; SRAM does not"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Two's complement of 0110",
-    "options": [
-      "1010",
-      "11111111",
-      "Models the relationships between entities in a database",
-      "Different keys for encryption and decryption"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A compiler translates",
-    "options": [
-      "Different keys for encryption and decryption",
-      "1010",
-      "Divides a network into smaller subnetworks for efficiency and security",
-      "Entire source code into machine code before execution"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "An interpreter translates",
-    "options": [
-      "Source code line by line during execution",
-      "Uses hard disk space to extend available RAM",
-      "Models the relationships between entities in a database",
-      "Entire source code into machine code before execution"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The purpose of virtual memory",
-    "options": [
-      "DRAM needs constant refreshing; SRAM does not",
-      "Uses hard disk space to extend available RAM",
-      "Models the relationships between entities in a database",
-      "Allows multiple instructions to be processed simultaneously"
+      "Spyware",
+      "Worm",
+      "Trojan horse",
+      "Adware"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Pipelining in CPU design",
+    "question": "The process of protecting a program from being accessed or modified by an unauthorized user is called _______.",
     "options": [
-      "Allows multiple instructions to be processed simultaneously",
-      "Different keys for encryption and decryption",
-      "Models the relationships between entities in a database",
-      "DRAM needs constant refreshing; SRAM does not"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "DRAM differs from SRAM because",
-    "options": [
-      "Source code line by line during execution",
-      "Detects errors in transmitted or stored data",
-      "Nodes that contain data and a pointer to the next node",
-      "DRAM needs constant refreshing; SRAM does not"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A man-in-the-middle attack",
-    "options": [
-      "Allows multiple instructions to be processed simultaneously",
-      "Divides a network into smaller subnetworks for efficiency and security",
-      "DRAM needs constant refreshing; SRAM does not",
-      "Intercepts communication between two parties without their knowledge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Object-oriented programming uses",
-    "options": [
-      "11111111",
-      "Intercepts communication between two parties without their knowledge",
-      "Objects that contain data and methods",
-      "Nodes that contain data and a pointer to the next node"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The purpose of a checksum",
-    "options": [
-      "1010",
-      "Models the relationships between entities in a database",
-      "Detects errors in transmitted or stored data",
-      "Source code line by line during execution"
+      "Compression",
+      "Decryption",
+      "Encryption",
+      "Backup"
     ],
     "correctIndex": 2
   }

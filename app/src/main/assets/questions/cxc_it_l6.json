@@ -1,152 +1,152 @@
 [
   {
-    "question": "The OSI model has how many layers",
+    "question": "What is the purpose of a router in a network?",
     "options": [
-      "Ethernet networks to manage data collisions",
-      "16",
-      "Ensures reliable end-to-end data delivery",
-      "7"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "IP address version 4 uses",
-    "options": [
-      "Ensures reliable end-to-end data delivery",
-      "A step-by-step set of instructions to solve a problem",
-      "The identity and trustworthiness of a website",
-      "32-bit addresses expressed as four decimal octets"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A denial of service (DoS) attack",
-    "options": [
-      "The identity and trustworthiness of a website",
-      "Overwhelms a server with traffic to make it unavailable",
-      "Store small pieces of data about user sessions on a website",
-      "Automates repetitive tasks using recorded instructions"
+      "Providing power to devices",
+      "Directing data packets",
+      "Enhancing security",
+      "Increasing network speed"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Hexadecimal uses a base of",
+    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
     "options": [
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "7",
-      "The identity and trustworthiness of a website",
-      "16"
+      "System program",
+      "Application program",
+      "Library program",
+      "Utility program"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Convert hexadecimal F to decimal",
+    "question": "What is the purpose of a database management system?",
     "options": [
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "15",
-      "The number of transistors on a chip doubles approximately every two years",
-      "A step-by-step set of instructions to solve a problem"
+      "Analyzing data",
+      "Storing data",
+      "Interpreting data",
+      "Managing and organizing data"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A database that stores data in a structured and organized manner is called a _______ database.",
+    "options": [
+      "Object-oriented",
+      "Hierarchical",
+      "Network",
+      "Relational"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating presentations?",
+    "options": [
+      "Spreadsheet software",
+      "Presentation software",
+      "Web browser",
+      "Database management system"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The transport layer of the OSI model",
+    "question": "A network that connects multiple LANs is called a _______.",
     "options": [
-      "Ensures reliable end-to-end data delivery",
-      "Overwhelms a server with traffic to make it unavailable",
-      "Organises data to reduce redundancy and improve integrity",
-      "Acts as an intermediary between users and the internet"
+      "Cloud",
+      "WAN",
+      "Internet",
+      "MAN"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a 64-bit operating system?",
+    "options": [
+      "D. It can handle larger memory addresses",
+      "C",
+      "B. It requires a 32-bit processor to run",
+      "A. It can only run 32-bit applications"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A network that connects devices across different buildings or locations is called a _______.",
+    "options": [
+      "WAN",
+      "LAN",
+      "MAN",
+      "Internet"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Normalisation in database design",
+    "question": "What is the purpose of a database management system?",
     "options": [
-      "Organises data to reduce redundancy and improve integrity",
-      "7",
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "Overwhelms a server with traffic to make it unavailable"
+      "Managing and organizing data",
+      "Interpreting data",
+      "Storing data",
+      "Analyzing data"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A macro in a spreadsheet",
+    "question": "A network that connects multiple computers and devices across different locations is called the _______.",
     "options": [
-      "7",
-      "Automates repetitive tasks using recorded instructions",
-      "Ensures reliable end-to-end data delivery",
-      "16"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "CSMA/CD is a protocol used in",
-    "options": [
-      "The number of transistors on a chip doubles approximately every two years",
-      "32-bit addresses expressed as four decimal octets",
-      "Ethernet networks to manage data collisions",
-      "7"
+      "WAN",
+      "MAN",
+      "Internet",
+      "LAN"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The purpose of a proxy server",
+    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
     "options": [
-      "A step-by-step set of instructions to solve a problem",
-      "Acts as an intermediary between users and the internet",
-      "The identity and trustworthiness of a website",
-      "Store small pieces of data about user sessions on a website"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "An algorithm is",
-    "options": [
-      "The identity and trustworthiness of a website",
-      "A step-by-step set of instructions to solve a problem",
-      "15",
-      "Store small pieces of data about user sessions on a website"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Moore's Law states",
-    "options": [
-      "15",
-      "32-bit addresses expressed as four decimal octets",
-      "A step-by-step set of instructions to solve a problem",
-      "The number of transistors on a chip doubles approximately every two years"
+      "Library program",
+      "Application program",
+      "System program",
+      "Utility program"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A digital certificate verifies",
+    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
     "options": [
-      "32-bit addresses expressed as four decimal octets",
-      "15",
-      "16",
-      "The identity and trustworthiness of a website"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The difference between synchronous and asynchronous transmission",
-    "options": [
-      "Store small pieces of data about user sessions on a website",
-      "Synchronous uses a shared clock; asynchronous uses start/stop bits",
-      "7",
-      "Ensures reliable end-to-end data delivery"
+      "System program",
+      "Utility program",
+      "Library program",
+      "Application program"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Cookies in web browsing",
+    "question": "What is the primary function of the CPU in a computer system?",
     "options": [
-      "The identity and trustworthiness of a website",
-      "The number of transistors on a chip doubles approximately every two years",
-      "Store small pieces of data about user sessions on a website",
-      "Automates repetitive tasks using recorded instructions"
+      "B. To store data permanently",
+      "C. To transmit data between devices",
+      "A",
+      "D. To generate output for the user"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A computer program that is designed to perform a specific task is called an _______.",
+    "options": [
+      "Library program",
+      "Application program",
+      "Utility program",
+      "System program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A database that is stored on multiple computers is called a _______ database.",
+    "options": [
+      "Single user",
+      "Cloud",
+      "Client-server",
+      "Multi-user"
+    ],
+    "correctIndex": 3
   }
 ]

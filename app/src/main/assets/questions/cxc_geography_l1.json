@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is a 'map'?",
+    "question": "Which of the following is a characteristic of a desert climate?",
     "options": [
-      "A type of graph",
-      "A flat representation of the Earth's surface",
-      "A photograph",
-      "A weather chart"
+      "Moderate rainfall and moderate temperatures throughout the year",
+      "Low rainfall and high temperatures throughout the year",
+      "No distinct wet and dry seasons",
+      "High rainfall and low temperatures throughout the year"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'latitude' measure?",
+    "question": "Which of the following is a type of ecosystem?",
     "options": [
-      "Distance east or west",
-      "Distance north or south of the equator",
-      "Height above sea level",
-      "Distance from the coast"
+      "Marine ecosystem",
+      "Atmospheric ecosystem",
+      "Freshwater ecosystem",
+      "Terrestrial ecosystem"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the equator?",
+    "question": "What is the name of the largest desert in the Caribbean?",
     "options": [
-      "The prime meridian",
-      "An imaginary line at 0\u00b0 dividing Earth into Northern and Southern hemispheres",
-      "A mountain range",
-      "A major river"
+      "Cuban Desert",
+      "Hispaniolan Desert",
+      "Bahamian Desert",
+      "Antillean Desert"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is 'erosion'?",
+    "question": "Which of the following is a type of settlement pattern?",
     "options": [
-      "Building up of land",
-      "Wearing away of rock and soil by wind, water or ice",
-      "Growing of crops",
-      "Formation of mountains"
+      "Linear settlement",
+      "Dispersed settlement",
+      "Circular settlement",
+      "Nucleated settlement"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What type of climate does the Caribbean have?",
+    "question": "Which of the following is a characteristic of a tropical savanna climate?",
     "options": [
-      "Polar",
-      "Temperate",
-      "Tropical",
-      "Desert"
+      "High temperatures and low rainfall throughout the year",
+      "No distinct wet and dry seasons",
+      "Moderate temperatures and moderate rainfall throughout the year",
+      "Low temperatures and high rainfall throughout the year"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a tropical rainforest?",
+    "options": [
+      "High rainfall and high temperatures throughout the year",
+      "Low rainfall and low temperatures throughout the year",
+      "Moderate rainfall and moderate temperatures throughout the year",
+      "No distinct wet and dry seasons"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the largest island in the Caribbean?",
+    "options": [
+      "Cuba",
+      "Puerto Rico",
+      "Jamaica",
+      "Hispaniola"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of natural hazard?",
+    "options": [
+      "Hurricane",
+      "Flood",
+      "Drought",
+      "Landslide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe the study of the Earth's atmosphere?",
+    "options": [
+      "Oceanography",
+      "Geology",
+      "Meteorology",
+      "Geography"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a 'river delta'?",
+    "question": "Which of the following is a type of settlement pattern?",
     "options": [
-      "The source of a river",
-      "Fan-shaped deposit of sediment at a river's mouth",
-      "A waterfall",
-      "A type of lake"
+      "Circular settlement",
+      "Nucleated settlement",
+      "Dispersed settlement",
+      "Linear settlement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A map projection that is commonly used for world maps is the _______.",
+    "options": [
+      "Mercator",
+      "Azimuthal",
+      "Gall-Peters",
+      "Robinson"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term used to describe the study of the Earth's physical features?",
+    "options": [
+      "Oceanography",
+      "Geography",
+      "Meteorology",
+      "Geology"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'population density'?",
+    "question": "What is the name of the largest mountain range in the Caribbean?",
     "options": [
-      "Total population of a country",
-      "Number of people per unit area",
-      "Rate of population growth",
-      "Number of cities"
+      "Cordillera de la Costa",
+      "Cordillera Central",
+      "Cordillera de M\u00e9rida",
+      "Cordillera de Perij\u00e1"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What causes seasons?",
+    "question": "Which of the following is a type of natural hazard?",
     "options": [
-      "Distance from the sun",
-      "Tilt of Earth's axis as it orbits the sun",
-      "Moon's gravity",
-      "Cloud cover"
+      "Earthquake",
+      "Flood",
+      "Tsunami",
+      "Hurricane"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is a 'hurricane'?",
+    "question": "What is the term used to describe the study of the Earth's physical features and human populations?",
     "options": [
-      "A light breeze",
-      "A large rotating tropical storm with strong winds",
-      "A type of rainfall",
-      "A cold front"
+      "Human geography",
+      "Meteorology",
+      "Physical geography",
+      "Geology"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'deforestation' cause?",
-    "options": [
-      "More rainfall",
-      "Soil erosion, flooding and loss of biodiversity",
-      "Better farming",
-      "Cooler temperatures"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'urbanisation'?",
-    "options": [
-      "Building farms",
-      "Growth of cities as people move from rural to urban areas",
-      "Cutting down trees",
-      "Ocean pollution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'contour line' on a map?",
-    "options": [
-      "A road",
-      "A line connecting points of equal elevation",
-      "A river",
-      "A political boundary"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'coral reef'?",
-    "options": [
-      "An underwater mountain",
-      "Marine ecosystem built by coral polyps; found in warm shallow waters",
-      "A type of seaweed",
-      "An ocean current"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the 'water cycle'?",
-    "options": [
-      "Water flowing in a pipe",
-      "Continuous movement of water through evaporation, condensation and precipitation",
-      "Ocean tides",
-      "River flooding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these is a renewable resource?",
-    "options": [
-      "Coal",
-      "Oil",
-      "Natural gas",
-      "Solar energy"
-    ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

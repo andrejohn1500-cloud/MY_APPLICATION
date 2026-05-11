@@ -1,1 +1,152 @@
-[{"question":"Purpose of a memorandum?","options":["Internal communication within an organisation","External communication","A formal contract","A legal document"],"correctIndex":0},{"question":"What is 'petty cash'?","options":["Small fund for minor office expenses","A type of bank account","Employee salary","Office equipment budget"],"correctIndex":0},{"question":"What is a 'requisition form'?","options":["A request for supplies or services","A payment receipt","An employee contract","A customer order"],"correctIndex":0},{"question":"What does 'agendum' mean in a meeting?","options":["An item on the agenda","The meeting minutes","A type of report","A business letter"],"correctIndex":0},{"question":"What is 'reprographics'?","options":["Copying and printing documents","Filing documents","Sending emails","Organising meetings"],"correctIndex":0},{"question":"Purpose of an invoice?","options":["Request for payment for goods or services","A receipt of payment","A purchase order","A delivery note"],"correctIndex":0},{"question":"What is 'time management'?","options":["Planning and organising tasks efficiently","Managing employee schedules","Setting office hours","Tracking project deadlines"],"correctIndex":0},{"question":"What is a 'circular'?","options":["A document sent to many people","A round office memo","A type of meeting","A filing system"],"correctIndex":0},{"question":"What is 'ergonomics'?","options":["Designing workplaces for efficiency and comfort","Office decoration","Equipment maintenance","Staff training"],"correctIndex":0},{"question":"What does 'FYI' mean?","options":["For Your Information","Forward Your Invoice","File Your Information","For Your Inquiry"],"correctIndex":0},{"question":"What is a 'press release'?","options":["Official statement issued to media","An internal memo","A company newsletter","A marketing brochure"],"correctIndex":0},{"question":"What is 'confidentiality' in an office?","options":["Keeping sensitive information private","Filing documents securely","Locking office doors","Password protecting computers"],"correctIndex":0},{"question":"Function of a receptionist?","options":["First point of contact for visitors and callers","Managing company finances","Organising company events","Supervising staff"],"correctIndex":0},{"question":"What is a 'business report'?","options":["Formal document presenting information for decision making","A company newsletter","A sales brochure","An employee handbook"],"correctIndex":0},{"question":"What is 'electronic filing'?","options":["Storing documents digitally","Printing documents","Scanning documents","Emailing documents"],"correctIndex":0}]
+[
+  {
+    "question": "What is the purpose of an employee separation policy?",
+    "options": [
+      "To outline the company's approach to managing employee separation",
+      "To describe the work environment",
+      "To set employee performance goals",
+      "To determine employee salaries"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of evaluating employee performance?",
+    "options": [
+      "Employee communication",
+      "Performance appraisal",
+      "Employee development",
+      "Employee recruitment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a photocopier?",
+    "options": [
+      "To scan documents",
+      "To fax documents",
+      "To make copies of documents",
+      "To shred documents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a performance improvement plan?",
+    "options": [
+      "To outline actions to improve employee performance",
+      "To determine employee salaries",
+      "To set employee performance goals",
+      "To describe the work environment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a training needs assessment?",
+    "options": [
+      "To describe the work environment",
+      "To identify the training needs of employees",
+      "To determine employee salaries",
+      "To set employee performance goals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of an occupational health and safety policy?",
+    "options": [
+      "To determine employee salaries",
+      "To set employee performance goals",
+      "To outline the company's approach to managing occupational health and safety",
+      "To describe the work environment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of an employee relations policy?",
+    "options": [
+      "To determine employee salaries",
+      "To describe the work environment",
+      "To set employee performance goals",
+      "To outline the company's approach to managing employee relations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of receiving and directing visitors in an office?",
+    "options": [
+      "Mail handling",
+      "Switchboard operation",
+      "Reception",
+      "Typing and filing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of managing employee termination?",
+    "options": [
+      "Employee separation management",
+      "Employee communication",
+      "Employee recruitment",
+      "Employee development"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of an employee wellness program?",
+    "options": [
+      "To set employee performance goals",
+      "To promote employee physical and mental well-being",
+      "To determine employee salaries",
+      "To describe the work environment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a business card?",
+    "options": [
+      "To display a company logo",
+      "To promote a service",
+      "To provide contact information",
+      "To showcase a product"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of managing employee attendance?",
+    "options": [
+      "Employee development",
+      "Employee performance management",
+      "Time and attendance management",
+      "Leave management"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of managing employee safety and health?",
+    "options": [
+      "Occupational health and safety management",
+      "Employee communication",
+      "Employee recruitment",
+      "Employee development"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of managing employee relations?",
+    "options": [
+      "Employee development",
+      "Employee relations management",
+      "Employee recruitment",
+      "Employee communication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a performance improvement plan?",
+    "options": [
+      "To outline actions to improve employee performance",
+      "To determine employee salaries",
+      "To set employee performance goals",
+      "To describe the work environment"
+    ],
+    "correctIndex": 0
+  }
+]

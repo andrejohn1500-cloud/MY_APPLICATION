@@ -1,151 +1,121 @@
 [
   {
-    "question": "The process of starting up a computer",
+    "question": "What is the primary function of a hub in a computer network?",
     "options": [
-      "Access and view websites on the internet",
-      "Power is switched off",
-      "Booting",
-      "Hertz (Hz)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "FTP stands for",
-    "options": [
-      "Graphical User Interface (GUI)",
-      "Access and view websites on the internet",
-      "File Transfer Protocol",
-      "A file sent along with an email message"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A pixel is",
-    "options": [
-      "The smallest unit of a digital image",
-      "Text editing",
-      "Portable Document Format",
-      "Access and view websites on the internet"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Bluetooth is used for",
-    "options": [
-      "Short-range wireless communication between devices",
-      "Booting",
-      "File Transfer Protocol",
-      "Graphical User Interface (GUI)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A browser is used to",
-    "options": [
-      "The smallest unit of a digital image",
-      "Access and view websites on the internet",
-      "Power is switched off",
-      "Text editing"
+      "Providing antivirus protection",
+      "Connecting devices within a network",
+      "Directing traffic between networks",
+      "Providing encryption"
     ],
     "correctIndex": 1
   },
   {
-    "question": "JPEG is a file format used for",
+    "question": "What is the term for a type of malware that is disguised as a legitimate program?",
     "options": [
-      "Find information on the internet",
-      "Short-range wireless communication between devices",
-      "A file sent along with an email message",
-      "Images and photographs"
+      "Spyware",
+      "Adware",
+      "Trojan Horse",
+      "Ransomware"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "The function of a router",
+    "question": "What type of software is Microsoft Word?",
     "options": [
-      "File Transfer Protocol",
-      "Hertz (Hz)",
-      "Text editing",
-      "Direct data packets between networks"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Hard copy output is produced by",
-    "options": [
-      "Direct data packets between networks",
-      "A printer",
-      "Text editing",
-      "Power is switched off"
+      "Database Software",
+      "Word Processing Software",
+      "Spreadsheet Software",
+      "Operating System"
     ],
     "correctIndex": 1
   },
   {
-    "question": "PDF stands for",
+    "question": "What is the term for a type of programming language that is used for building applications?",
     "options": [
-      "Portable Document Format",
-      "The smallest unit of a digital image",
-      "A printer",
-      "Graphical User Interface (GUI)"
+      "Application Programming Language",
+      "Declarative Language",
+      "Functional Language",
+      "Object-Oriented Language"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The desktop is part of the",
+    "question": "What is the primary function of a firewall in cybersecurity?",
     "options": [
-      "Graphical User Interface (GUI)",
-      "Power is switched off",
-      "File Transfer Protocol",
-      "The smallest unit of a digital image"
+      "Blocking unauthorized access to a computer system",
+      "Providing antivirus protection",
+      "Providing encryption",
+      "Allowing unauthorized access"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Copy and paste is an example of",
+    "question": "What is the primary function of a computer's storage devices?",
     "options": [
-      "Short-range wireless communication between devices",
-      "Images and photographs",
-      "Portable Document Format",
-      "Text editing"
+      "Providing power",
+      "Storing data",
+      "Printing documents",
+      "Processing information"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a computer's monitor?",
+    "options": [
+      "Processing information",
+      "Storing data",
+      "Printing documents",
+      "Displaying information"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A search engine is used to",
+    "question": "What is the primary function of a browser in a computer system?",
     "options": [
-      "Find information on the internet",
-      "Direct data packets between networks",
-      "File Transfer Protocol",
-      "Access and view websites on the internet"
+      "Providing spreadsheet analysis",
+      "Providing email services",
+      "Allowing access to the internet",
+      "Providing word processing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a spreadsheet in a computer system?",
+    "options": [
+      "Storing and managing data",
+      "Providing word processing",
+      "Analyzing and presenting numerical data",
+      "Processing information"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a search engine in a computer system?",
+    "options": [
+      "Providing email services",
+      "Providing spreadsheet analysis",
+      "Locating specific information on the internet",
+      "Providing word processing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of malware that secretly monitors and collects user data?",
+    "options": [
+      "Spyware",
+      "Ransomware",
+      "Adware",
+      "Trojan Horse"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Volatile memory loses data when",
+    "question": "What is the term for a type of database that is easily accessible and modifiable?",
     "options": [
-      "Power is switched off",
-      "Portable Document Format",
-      "The smallest unit of a digital image",
-      "Direct data packets between networks"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "An email attachment is",
-    "options": [
-      "Power is switched off",
-      "Find information on the internet",
-      "Access and view websites on the internet",
-      "A file sent along with an email message"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The refresh rate of a monitor is measured in",
-    "options": [
-      "Hertz (Hz)",
-      "File Transfer Protocol",
-      "Direct data packets between networks",
-      "A printer"
+      "Flat File Database",
+      "Hierarchical Database",
+      "Network Database",
+      "Relational Database"
     ],
     "correctIndex": 0
   }

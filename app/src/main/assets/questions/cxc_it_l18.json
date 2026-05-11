@@ -1,152 +1,122 @@
 [
   {
-    "question": "The concept of 'the semantic web' (Web 3.0)",
+    "question": "Which of the following is a benefit of using a cloud-based service?",
     "options": [
-      "Direct communication pathways between the brain and external devices",
-      "Technology seamlessly embedded in the environment responding to users naturally",
-      "Machine-readable web where data is linked and has meaning",
-      "Overlaying digital content on the real world using devices"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Decentralised autonomous organisations' (DAOs)",
-    "options": [
-      "Blockchain-based organisations governed by code and token holders",
-      "Determining how self-governing AI systems should make moral decisions",
-      "Direct communication pathways between the brain and external devices",
-      "Theoretically unhackable communication using quantum entanglement"
+      "D",
+      "A. It reduces data security risks",
+      "B. It increases data storage costs",
+      "C. It reduces network bandwidth"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'non-fungible tokens' (NFTs)",
+    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of graph-structured data, making it ideal for applications such as social media and recommendation systems.",
     "options": [
-      "Systems that can recognise, interpret and simulate human emotions",
-      "Virtual replicas of physical systems updated in real-time from sensor data",
-      "Hypothetical matter that can change physical properties on command",
-      "Unique digital assets verified on a blockchain"
+      "key-value",
+      "document-oriented",
+      "column-family",
+      "graph"
     ],
     "correctIndex": 3
   },
   {
-    "question": "'Web3 principles' include",
+    "question": "A ____ network is a type of network that uses a combination of wired and wireless technologies to manage and control access to resources on the network.",
     "options": [
-      "Decentralisation, token-based economics and user ownership of data",
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Virtual replicas of physical systems updated in real-time from sensor data",
-      "Overlaying digital content on the real world using devices"
+      "wireless local area network (WLAN)",
+      "wireless metropolitan area network (WMAN)",
+      "wireless wide area network (WWAN)",
+      "wireless personal area network (WPAN)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'augmented reality' development",
+    "question": "A device that uses the principles of fiber optic communication to transmit data over long distances is classified as a type of:",
     "options": [
-      "Dividing 5G network into virtual networks with specific characteristics for different uses",
-      "Direct communication pathways between the brain and external devices",
-      "Unique digital assets verified on a blockchain",
-      "Overlaying digital content on the real world using devices"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "'Digital twins' in IT",
-    "options": [
-      "Unique digital assets verified on a blockchain",
-      "Overlaying digital content on the real world using devices",
-      "Blockchain-based organisations governed by code and token holders",
-      "Virtual replicas of physical systems updated in real-time from sensor data"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of '5G network slicing'",
-    "options": [
-      "Dividing 5G network into virtual networks with specific characteristics for different uses",
-      "Unique digital assets verified on a blockchain",
-      "Determining how self-governing AI systems should make moral decisions",
-      "Hypothetical matter that can change physical properties on command"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "'Brain-computer interfaces' (BCI)",
-    "options": [
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Direct communication pathways between the brain and external devices",
-      "Decentralisation, token-based economics and user ownership of data",
-      "Technology seamlessly embedded in the environment responding to users naturally"
+      "switch",
+      "repeater",
+      "router",
+      "bridge"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'ambient computing'",
+    "question": "Which of the following is a type of database that is designed to handle large amounts of structured data?",
     "options": [
-      "Overlaying digital content on the real world using devices",
-      "Decentralisation, token-based economics and user ownership of data",
-      "Technology seamlessly embedded in the environment responding to users naturally",
-      "Virtual replicas of physical systems updated in real-time from sensor data"
+      "B. NoSQL database",
+      "A. Object-oriented database",
+      "D",
+      "C. Relational database"
     ],
     "correctIndex": 2
   },
   {
-    "question": "'Swarm robotics' is inspired by",
+    "question": "In the context of computer networking, what is the term for the process of dividing a large file into smaller chunks for transmission over a network?",
     "options": [
-      "Collective behaviour of social insects to coordinate large groups of simple robots",
-      "Overlaying digital content on the real world using devices",
-      "Direct communication pathways between the brain and external devices",
-      "Blockchain-based organisations governed by code and token holders"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'affective computing'",
-    "options": [
-      "Dividing 5G network into virtual networks with specific characteristics for different uses",
-      "Direct communication pathways between the brain and external devices",
-      "Systems that can recognise, interpret and simulate human emotions",
-      "Technology seamlessly embedded in the environment responding to users naturally"
+      "concatenation",
+      "segmentation",
+      "fragmentation",
+      "packetization"
     ],
     "correctIndex": 2
   },
   {
-    "question": "'Quantum internet' would enable",
+    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of users in a real-world environment using a technique called A/B testing?",
     "options": [
-      "Theoretically unhackable communication using quantum entanglement",
-      "Technology seamlessly embedded in the environment responding to users naturally",
-      "Decentralisation, token-based economics and user ownership of data",
-      "Overlaying digital content on the real world using devices"
+      "integration testing",
+      "A/B testing",
+      "system testing",
+      "acceptance testing"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The concept of 'space computing'",
+    "question": "In the context of computer hardware, what is the term for the process of converting digital signals to analog signals?",
     "options": [
-      "Machine-readable web where data is linked and has meaning",
-      "Determining how self-governing AI systems should make moral decisions",
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Decentralisation, token-based economics and user ownership of data"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Programmable matter'",
-    "options": [
-      "Hypothetical matter that can change physical properties on command",
-      "Machine-readable web where data is linked and has meaning",
-      "Processing data in orbit to reduce bandwidth and latency of space-to-Earth transmission",
-      "Virtual replicas of physical systems updated in real-time from sensor data"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'autonomous systems ethics'",
-    "options": [
-      "Decentralisation, token-based economics and user ownership of data",
-      "Hypothetical matter that can change physical properties on command",
-      "Dividing 5G network into virtual networks with specific characteristics for different uses",
-      "Determining how self-governing AI systems should make moral decisions"
+      "A/D conversion",
+      "I/O conversion",
+      "sampling",
+      "D/A conversion"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "The ____ protocol is used for secure communication between a web browser and a web server over a network using a technique called encryption?",
+    "options": [
+      "FTP",
+      "HTTPS",
+      "SFTP",
+      "SCP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A ____ network is a type of network that uses a combination of client-server and peer-to-peer approaches to manage and control access to resources on the network.",
+    "options": [
+      "peer-to-peer",
+      "client-server",
+      "hybrid",
+      "local area network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A ____ database stores data in a format that is optimized for fast search and retrieval, making it ideal for applications such as online shopping and social media.",
+    "options": [
+      "object-oriented",
+      "NoSQL",
+      "hierarchical",
+      "relational"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals?",
+    "options": [
+      "D/A conversion",
+      "I/O conversion",
+      "A/D conversion",
+      "sampling"
+    ],
+    "correctIndex": 2
   }
 ]

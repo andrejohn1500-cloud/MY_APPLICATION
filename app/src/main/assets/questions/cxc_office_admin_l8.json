@@ -1,152 +1,72 @@
 [
   {
-    "question": "The chain of command in an organisation",
+    "question": "What is the purpose of a mailroom log?",
     "options": [
-      "The hierarchy through which authority and instructions pass",
-      "Reduce defects and improve process quality",
-      "Authority is the right to act; responsibility is the obligation to perform",
-      "Maintaining communication, security and productivity"
+      "To generate invoices and receipts",
+      "To record and track the movement of mail and packages.",
+      "To manage office supplies and stationery",
+      "To handle customer complaints and concerns"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of meeting involves a formal discussion and decision-making process?",
+    "options": [
+      "Formal meeting.",
+      "Conference meeting",
+      "Informal meeting",
+      "Committee meeting"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Delegation of authority means",
+    "question": "What type of communication involves the use of written messages, such as letters and emails?",
     "options": [
-      "Assigning tasks and responsibility to a subordinate",
-      "Authority is the right to act; responsibility is the obligation to perform",
-      "A group of employees who meet regularly to identify and solve work problems",
-      "Few levels of hierarchy and a wide span of control"
+      "Written communication.",
+      "Electronic communication",
+      "Nonverbal communication",
+      "Verbal communication"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The span of control refers to",
+    "question": "What type of communication involves the use of a combination of visual and auditory messages?",
     "options": [
-      "To compare organisational performance against best practice standards",
-      "Authority is the right to act; responsibility is the obligation to perform",
-      "To ensure consistent messaging across the organisation",
-      "The number of subordinates a manager directly supervises"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A flat organisational structure has",
-    "options": [
-      "A group of employees who meet regularly to identify and solve work problems",
-      "Maintaining communication, security and productivity",
-      "Few levels of hierarchy and a wide span of control",
-      "Continuous improvement of processes and customer satisfaction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A tall organisational structure has",
-    "options": [
-      "Authority is the right to act; responsibility is the obligation to perform",
-      "Many levels of hierarchy and a narrow span of control",
-      "Reduce defects and improve process quality",
-      "Contracting external providers to perform certain business functions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The difference between authority and responsibility",
-    "options": [
-      "Maintaining communication, security and productivity",
-      "Continuous improvement of processes and customer satisfaction",
-      "Functional and project-based management",
-      "Authority is the right to act; responsibility is the obligation to perform"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Matrix organisational structure combines",
-    "options": [
-      "The number of subordinates a manager directly supervises",
-      "Functional and project-based management",
-      "The hierarchy through which authority and instructions pass",
-      "Few levels of hierarchy and a wide span of control"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A quality circle is",
-    "options": [
-      "Many levels of hierarchy and a narrow span of control",
-      "The number of subordinates a manager directly supervises",
-      "A group of employees who meet regularly to identify and solve work problems",
-      "The hierarchy through which authority and instructions pass"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Total quality management (TQM) focuses on",
-    "options": [
-      "To ensure consistent messaging across the organisation",
-      "Reduce defects and improve process quality",
-      "Continuous improvement of processes and customer satisfaction",
-      "The hierarchy through which authority and instructions pass"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The purpose of benchmarking",
-    "options": [
-      "The number of subordinates a manager directly supervises",
-      "A group of employees who meet regularly to identify and solve work problems",
-      "Reduce defects and improve process quality",
-      "To compare organisational performance against best practice standards"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Outsourcing in office management means",
-    "options": [
-      "To ensure consistent messaging across the organisation",
-      "Contracting external providers to perform certain business functions",
-      "Reduce defects and improve process quality",
-      "A group of employees who meet regularly to identify and solve work problems"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A memo of transmittal accompanies",
-    "options": [
-      "To compare organisational performance against best practice standards",
-      "Many levels of hierarchy and a narrow span of control",
-      "A report, explaining its purpose and origin",
-      "The number of subordinates a manager directly supervises"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The purpose of a corporate communication policy",
-    "options": [
-      "Reduce defects and improve process quality",
-      "To ensure consistent messaging across the organisation",
-      "Functional and project-based management",
-      "Continuous improvement of processes and customer satisfaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Six Sigma methodology aims to",
-    "options": [
-      "A report, explaining its purpose and origin",
-      "Continuous improvement of processes and customer satisfaction",
-      "Reduce defects and improve process quality",
-      "Maintaining communication, security and productivity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Remote working challenges in office administration include",
-    "options": [
-      "Maintaining communication, security and productivity",
-      "Many levels of hierarchy and a narrow span of control",
-      "The hierarchy through which authority and instructions pass",
-      "Functional and project-based management"
+      "Nonverbal communication.",
+      "Written communication",
+      "Electronic communication",
+      "Verbal communication"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the primary responsibility of a receptionist?",
+    "options": [
+      "To handle customer complaints and concerns",
+      "To manage office supplies and stationery",
+      "To generate invoices and receipts",
+      "To greet and direct visitors, clients, and customers, and to ensure a professional first impression of the organization."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a meeting invitation?",
+    "options": [
+      "To distribute meeting minutes",
+      "To record the decisions made during the meeting",
+      "To send meeting reminders",
+      "To inform participants of the meeting date, time, location, and agenda."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary responsibility of a human resources (HR) department?",
+    "options": [
+      "To manage office supplies and stationery",
+      "To manage and maintain employee records, and to provide support and guidance to employees.",
+      "To generate invoices and receipts",
+      "To handle customer complaints and concerns"
+    ],
+    "correctIndex": 1
   }
 ]

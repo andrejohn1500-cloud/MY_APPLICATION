@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is a 'business'?",
+    "question": "What is the function of accounting in a business organisation?",
     "options": [
-      "Only a large company",
-      "An organisation that produces goods or services to satisfy needs and wants",
-      "A government department",
-      "A school"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these is a factor of production?",
-    "options": [
-      "Money in your pocket",
-      "Land, Labour, Capital and Enterprise",
-      "Only machinery",
-      "Only workers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'profit' mean?",
-    "options": [
-      "Total sales revenue",
-      "Revenue minus all costs",
-      "Money borrowed",
-      "Goods produced"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'sole trader'?",
-    "options": [
-      "A business owned by two people",
-      "A business owned and run by one person",
-      "A government business",
-      "A large corporation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these is a type of business ownership?",
-    "options": [
-      "Democracy",
-      "Partnership",
-      "Parliament",
-      "Census"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'demand' in economics?",
-    "options": [
-      "What businesses want to produce",
-      "The quantity of goods consumers are willing and able to buy at a given price",
-      "Government requirements",
-      "Imports from abroad"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a business plan?",
-    "options": [
-      "To list employees",
-      "To outline goals, strategies and financial projections for a business",
-      "To pay taxes",
-      "To advertise products"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these is a fixed cost?",
-    "options": [
-      "Raw materials",
-      "Rent for premises",
-      "Sales commission",
-      "Packaging costs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'supply' mean in business?",
-    "options": [
-      "What consumers want",
-      "The quantity of goods producers are willing to sell at a given price",
-      "Government provision",
-      "Imported goods"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'marketing'?",
-    "options": [
-      "Only advertising",
-      "Activities promoting and selling products including research, advertising and distribution",
-      "Only selling",
-      "Only making products"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a 'limited liability' company?",
-    "options": [
-      "A company with no debts",
-      "A company where owners' financial responsibility is limited to their investment",
-      "A very small company",
-      "A government company"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'break-even' mean?",
-    "options": [
-      "When a business fails",
-      "When total revenue equals total costs \u2014 neither profit nor loss",
-      "When profit is highest",
-      "When costs are zero"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these is an internal stakeholder?",
-    "options": [
-      "A customer",
-      "A supplier",
-      "An employee",
-      "A competitor"
+      "To provide production information",
+      "To provide human resource information",
+      "To provide financial information for decision-making",
+      "To provide marketing information"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 'entrepreneurship'?",
+    "question": "What is the responsibility of businesses towards the community?",
     "options": [
-      "Working for someone else",
-      "Starting and running a new business taking on financial risk",
-      "Managing a government office",
-      "Studying business"
+      "Philanthropic responsibility",
+      "Legal responsibility",
+      "Economic responsibility",
+      "Social responsibility"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is responsible for implementing the marketing mix in a business organisation?",
+    "options": [
+      "The human resource manager",
+      "The marketing manager",
+      "The finance manager",
+      "The production manager"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'invoice' mean?",
+    "question": "Who is responsible for managing the financial resources of a business in the Caribbean?",
     "options": [
-      "An advertisement",
-      "A document showing goods supplied and amount owed",
-      "A bank statement",
-      "A business plan"
+      "The accountant",
+      "The manager",
+      "The customer",
+      "The owner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the study of how to make a business more competitive in the market?",
+    "options": [
+      "Market research",
+      "Market development",
+      "Market analysis",
+      "Market competition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of the Central Bank in the Caribbean economy?",
+    "options": [
+      "To promote economic growth and development",
+      "To generate revenue only",
+      "To regulate economic activities",
+      "To regulate the money supply and maintain financial stability"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of how to make a business more competitive in the Caribbean market?",
+    "options": [
+      "Market research in the Caribbean",
+      "Market analysis in the Caribbean",
+      "Market competition in the Caribbean",
+      "Market development in the Caribbean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of the government in promoting entrepreneurship in the Caribbean?",
+    "options": [
+      "To promote economic growth and development",
+      "To provide support and resources for entrepreneurs",
+      "To regulate economic activities",
+      "To generate revenue only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is responsible for managing the human resources of a business?",
+    "options": [
+      "The finance manager",
+      "The production manager",
+      "The marketing manager",
+      "The human resource manager"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of how to make a business more competitive in the global market?",
+    "options": [
+      "Global finance",
+      "Global human resources",
+      "International business",
+      "Global marketing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who is responsible for making financial decisions in a business organisation?",
+    "options": [
+      "The customer",
+      "The accountant",
+      "The manager",
+      "The owner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of how consumers make purchasing decisions in the Caribbean market?",
+    "options": [
+      "Consumer behaviour in the Caribbean",
+      "Consumer analysis in the Caribbean",
+      "Consumer research in the Caribbean",
+      "Consumer marketing in the Caribbean"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is responsible for implementing the marketing mix in the Caribbean market?",
+    "options": [
+      "The production manager",
+      "The finance manager",
+      "The human resource manager",
+      "The marketing manager"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of marketing?",
+    "options": [
+      "decreased costs",
+      "increased sales and revenue",
+      "reduced competition",
+      "improved quality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the impact of business on the environment in the Caribbean?",
+    "options": [
+      "Sustainability studies in the Caribbean",
+      "Environmental studies in the Caribbean",
+      "Corporate social responsibility in the Caribbean",
+      "Economic studies in the Caribbean"
     ],
     "correctIndex": 1
   }

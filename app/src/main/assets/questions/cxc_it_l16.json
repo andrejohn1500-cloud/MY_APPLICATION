@@ -1,152 +1,152 @@
 [
   {
-    "question": "The concept of 'serverless computing'",
+    "question": "What is the purpose of a hash function in a database?",
     "options": [
-      "Enable asynchronous communication between services",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Running code without managing servers — cloud provider handles infrastructure",
-      "Infrastructure layer handling service-to-service communication"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "'Infrastructure as Code' (IaC)",
-    "options": [
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Understanding system state through logs, metrics and traces",
-      "Running code without managing servers — cloud provider handles infrastructure"
+      "D",
+      "B. To compress data",
+      "C. To verify data integrity",
+      "A. To encrypt data"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'containerisation' (Docker)",
+    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals using a technique called oversampling?",
     "options": [
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Horizontal adds more machines; vertical increases capacity of existing machines",
-      "Packaging applications with their dependencies into portable containers",
-      "Using Git as the single source of truth for infrastructure and application state"
+      "sampling",
+      "A/D conversion",
+      "undersampling",
+      "oversampling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A ____ network is a type of network that uses a combination of wired and wireless technologies to manage and control access to resources on the network, making it ideal for applications such as online gaming and video streaming.",
+    "options": [
+      "wireless wide area network (WWAN)",
+      "wireless local area network (WLAN)",
+      "wireless metropolitan area network (WMAN)",
+      "wireless personal area network (WPAN)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "'Container orchestration' (Kubernetes)",
+    "question": "The ____ protocol is used for secure communication between two devices over a network.",
     "options": [
-      "Deliberately introducing failures to test system resilience",
-      "Service level agreements, objectives and indicators define reliability expectations",
-      "Automates deployment, scaling and management of containerised applications",
-      "Running code without managing servers — cloud provider handles infrastructure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'load balancing'",
-    "options": [
-      "Packaging applications with their dependencies into portable containers",
-      "Distributing network traffic across multiple servers to prevent overload",
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "Distribute content across geographically dispersed servers for faster delivery"
+      "SCP",
+      "SSL",
+      "SSH",
+      "TLS"
     ],
     "correctIndex": 1
   },
   {
-    "question": "'Content delivery networks' (CDN)",
+    "question": "A database management system that uses a hierarchical structure to store and manage data is classified as a type of ____ database.",
     "options": [
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Enable asynchronous communication between services",
-      "Running code without managing servers — cloud provider handles infrastructure"
+      "object-oriented",
+      "hierarchical",
+      "relational",
+      "network"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'horizontal vs vertical scaling'",
+    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of test cases to ensure it is working correctly?",
     "options": [
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Enable asynchronous communication between services",
-      "Horizontal adds more machines; vertical increases capacity of existing machines"
+      "performance testing",
+      "beta testing",
+      "load testing",
+      "stress testing"
     ],
     "correctIndex": 3
   },
   {
-    "question": "'Message queues' in distributed systems",
+    "question": "A ____ database stores data in a format that is optimized for fast insertion and deletion of data, making it ideal for applications such as online banking and e-commerce.",
     "options": [
-      "Enable asynchronous communication between services",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Packaging applications with their dependencies into portable containers"
+      "graph",
+      "document-oriented",
+      "column-family",
+      "key-value"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The concept of 'eventual consistency' in distributed systems",
+    "question": "A ____ network is a type of network that uses a decentralized approach to manage and control access to resources on the network.",
     "options": [
-      "Using Git as the single source of truth for infrastructure and application state",
-      "Distributing network traffic across multiple servers to prevent overload",
-      "Managing and provisioning infrastructure through machine-readable configuration files",
-      "All nodes will eventually have the same data, but not necessarily at the same time"
+      "wide area network",
+      "peer-to-peer",
+      "local area network",
+      "client-server"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "'Service mesh architecture'",
+    "question": "In the context of data modeling, what is the term for the process of creating a conceptual representation of data and its relationships?",
     "options": [
-      "Infrastructure layer handling service-to-service communication",
-      "Deliberately introducing failures to test system resilience",
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Horizontal adds more machines; vertical increases capacity of existing machines"
+      "structured modeling",
+      "entity-relationship modeling",
+      "relational modeling",
+      "object-oriented modeling"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The concept of 'chaos engineering'",
+    "question": "The ____ protocol is used for secure communication between a web browser and a web server.",
     "options": [
-      "Service level agreements, objectives and indicators define reliability expectations",
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Deliberately introducing failures to test system resilience",
-      "Infrastructure layer handling service-to-service communication"
+      "SCP",
+      "SFTP",
+      "HTTPS",
+      "FTP"
     ],
     "correctIndex": 2
   },
   {
-    "question": "'Observability' in systems engineering",
+    "question": "A ____ network is a type of network that uses a central server to manage and control access to resources on the network.",
     "options": [
-      "Understanding system state through logs, metrics and traces",
-      "Service level agreements, objectives and indicators define reliability expectations",
-      "Distributing network traffic across multiple servers to prevent overload",
-      "Infrastructure layer handling service-to-service communication"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The concept of 'SLA, SLO and SLI'",
-    "options": [
-      "Infrastructure layer handling service-to-service communication",
-      "Enable asynchronous communication between services",
-      "Deliberately introducing failures to test system resilience",
-      "Service level agreements, objectives and indicators define reliability expectations"
+      "local area network",
+      "peer-to-peer",
+      "wide area network",
+      "client-server"
     ],
     "correctIndex": 3
   },
   {
-    "question": "'GitOps' practice",
+    "question": "The ____ protocol is used for secure communication between two devices over a network using a technique called encryption?",
     "options": [
-      "Using Git as the single source of truth for infrastructure and application state",
-      "Infrastructure layer handling service-to-service communication",
-      "Distribute content across geographically dispersed servers for faster delivery",
-      "Automates deployment, scaling and management of containerised applications"
+      "SCP",
+      "SSH",
+      "SFTP",
+      "FTP"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The concept of 'edge computing' vs cloud computing",
+    "question": "The ____ protocol is used for secure communication between two devices over a network using a technique called encryption?",
     "options": [
-      "Deliberately introducing failures to test system resilience",
-      "Distributing network traffic across multiple servers to prevent overload",
-      "Edge processes data near source for speed; cloud centralises for scale",
-      "Distribute content across geographically dispersed servers for faster delivery"
+      "SCP",
+      "SFTP",
+      "FTP",
+      "SSH"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "The ____ unit is responsible for controlling the flow of data between different components of a computer system.",
+    "options": [
+      "power supply unit",
+      "hard drive",
+      "motherboard",
+      "central processing unit (CPU)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the context of computer hardware, what is the term for the process of converting digital signals to analog signals using a technique called undersampling?",
+    "options": [
+      "A/D conversion",
+      "oversampling",
+      "sampling",
+      "undersampling"
+    ],
+    "correctIndex": 3
   }
 ]

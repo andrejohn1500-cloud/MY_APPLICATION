@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does 'hardware' refer to in computing?",
+    "question": "What is the term for a type of programming language that is used for web development?",
     "options": [
-      "Computer programs",
-      "Physical components of a computer",
-      "Internet connections",
-      "Data files"
+      "Scripting Language",
+      "Object-Oriented Language",
+      "Declarative Language",
+      "Functional Language"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does 'software' mean?",
+    "question": "What is the term for a type of malware that demands payment in exchange for restoring access to a computer system?",
     "options": [
-      "Physical computer parts",
-      "Programs and applications that run on a computer",
-      "The computer screen",
-      "The keyboard"
+      "Ransomware",
+      "Adware",
+      "Spyware",
+      "Trojan Horse"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the function of an operating system?",
+    "question": "What is the primary function of a computer's keyboard?",
     "options": [
-      "Play music",
-      "Manage computer hardware and software resources",
-      "Only run games",
-      "Store documents"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'CPU' stand for?",
-    "options": [
-      "Computer Processing Unit",
-      "Central Processing Unit",
-      "Core Program Utility",
-      "Computer Program Unit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'data'?",
-    "options": [
-      "Only numbers",
-      "Raw facts and figures that can be processed by a computer",
-      "Finished reports",
-      "Computer programs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'input' mean in computing?",
-    "options": [
-      "Data produced by the computer",
-      "Data entered into the computer for processing",
+      "Processing information",
+      "Entering data",
       "Storing data",
-      "Displaying results"
+      "Printing documents"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'database'?",
+    "question": "What is the primary function of a computer's graphics processing unit (GPU)?",
     "options": [
-      "A type of network",
-      "Organised collection of structured data for easy access and management",
-      "A programming language",
-      "A type of hardware"
+      "Printing documents",
+      "Rendering graphics",
+      "Storing data",
+      "Processing information"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'email'?",
+    "question": "What is the primary function of a network interface card (NIC) in a computer system?",
     "options": [
-      "A type of hardware",
-      "Electronic mail \u2014 messages sent and received over the internet",
-      "A programming language",
-      "A social media platform"
+      "Providing encryption",
+      "Providing firewall protection",
+      "Allowing communication over a network",
+      "Providing antivirus protection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a database in a computer system?",
+    "options": [
+      "Processing information",
+      "Printing documents",
+      "Storing and managing data",
+      "Providing encryption"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of malware that displays unwanted advertisements?",
+    "options": [
+      "Spyware",
+      "Adware",
+      "Trojan Horse",
+      "Ransomware"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'http' stand for?",
+    "question": "What is the primary function of a computer's graphics card?",
     "options": [
-      "Home Transfer Text Protocol",
-      "HyperText Transfer Protocol",
-      "High Traffic Transfer Protocol",
-      "HyperText Technical Process"
+      "Storing data",
+      "Printing documents",
+      "Processing information",
+      "Rendering graphics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a computer's Central Processing Unit (CPU)?",
+    "options": [
+      "Storing data",
+      "Executing instructions",
+      "Transferring data",
+      "Printing documents"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'virus' in computing?",
+    "question": "What is the primary function of a computer's keyboard interface?",
     "options": [
-      "A helpful program",
-      "Malicious software that can damage files and spread to other computers",
-      "A type of hardware",
-      "An internet connection"
+      "Providing firewall protection",
+      "Allowing user input",
+      "Providing encryption",
+      "Providing antivirus protection"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'RAM'?",
+    "question": "What is the primary function of a router in a computer network?",
     "options": [
-      "Read Access Memory",
-      "Random Access Memory \u2014 temporary working memory",
-      "Remote Access Module",
-      "Rapid Application Memory"
+      "Directing traffic between networks",
+      "Providing firewall protection",
+      "Providing encryption",
+      "Providing antivirus protection"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does 'output' mean in computing?",
+    "question": "What is the primary function of a computer's network interface card (NIC)?",
     "options": [
-      "Data entered by user",
-      "Results produced by the computer after processing",
-      "Storing information",
-      "Programs running"
+      "Allowing communication over a network",
+      "Providing antivirus protection",
+      "Providing encryption",
+      "Providing firewall protection"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is a 'spreadsheet'?",
+    "question": "What is the primary function of a modem in a computer system?",
     "options": [
-      "A type of printer",
-      "Software organising data in rows and columns for calculation",
-      "A word processor",
-      "A database program"
+      "Storing data",
+      "Processing information",
+      "Allowing communication over a telephone line",
+      "Printing documents"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is 'backup'?",
+    "question": "What is the primary function of a computer's mouse?",
     "options": [
-      "Going backwards",
-      "Creating a copy of data to protect against loss",
-      "Deleting files",
-      "Formatting a drive"
+      "Printing documents",
+      "Processing information",
+      "Controlling the cursor",
+      "Storing data"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the internet?",
+    "question": "What is the primary function of a computer's power supply unit (PSU)?",
     "options": [
-      "A single large computer",
-      "A global network of interconnected computers",
-      "A type of software",
-      "A company"
+      "Providing power to components",
+      "Processing information",
+      "Storing data",
+      "Printing documents"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]
