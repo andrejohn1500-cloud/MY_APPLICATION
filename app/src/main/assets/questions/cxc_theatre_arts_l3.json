@@ -1,42 +1,112 @@
 [
   {
-    "question": "Which of the following types of costumes is characterized by its use of fantasy and imagination?",
+    "question": "The play 'An Empty Bottle' is a significant work in the history of Caribbean theatre. In which country was it first performed?",
     "options": [
-      "Fantasy Costumes",
-      "Abstract Costumes",
-      "Modern Costumes",
-      "Historical Costumes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following theatre practitioners is credited with the development of the 'Method' acting technique?",
-    "options": [
-      "Harold Clurman",
-      "Konstantin Stanislavski",
-      "Lee Strasberg",
-      "Stella Adler"
+      "St. Lucia",
+      "Trinidad and Tobago",
+      "Jamaica",
+      "Barbados"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following theatre practitioners is credited with the development of the 'Bertolt Brecht' approach to directing?",
+    "question": "What is the term for the process of applying makeup to an actor's face to create a specific character or effect?",
     "options": [
-      "Vsevolod Meyerhold",
-      "Lee Strasberg",
-      "Bertolt Brecht",
-      "Konstantin Stanislavski"
+      "Makeup application",
+      "Wig application",
+      "Special effects",
+      "Prosthetics application"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of rehearsing a scene or a play in a specific location?",
+    "options": [
+      "Blocking",
+      "Scene rehearsal",
+      "Location rehearsal",
+      "Table read"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of rehearsing a play with a focus on the emotional and psychological aspects of performance?",
+    "question": "What is the term for the movement or style of acting that emphasizes the actor's personal interpretation of the role?",
     "options": [
-      "Blocking",
+      "Method acting",
+      "Script interpretation",
       "Improvisation",
-      "Scene Study",
-      "Rehearsal"
+      "Physical theatre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a stage direction?",
+    "options": [
+      "Exeunt",
+      "Scene 2",
+      "Stage left",
+      "Enter"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Who is the playwright of the play 'A Lesson Before Dying'?",
+    "options": [
+      "Wole Soyinka",
+      "Langston Hughes",
+      "Ernest J. Gaines",
+      "August Wilson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following Caribbean folk forms is a form of storytelling?",
+    "options": [
+      "Kaiso",
+      "Pantomime",
+      "Jab molassie",
+      "Anansi stories"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of planning and organizing the lighting design for a production?",
+    "options": [
+      "Lighting design",
+      "Lighting plot",
+      "Lighting cueing",
+      "Lighting planning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of a sound control element?",
+    "options": [
+      "Fader",
+      "Mixer",
+      "Monitor",
+      "Headphones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement or style of acting that emphasizes the actor's physicality and movement?",
+    "options": [
+      "Physical theatre",
+      "Improvisation",
+      "Script interpretation",
+      "Method acting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a costume design element?",
+    "options": [
+      "Wig",
+      "Prosthetics",
+      "Accessories",
+      "Makeup"
+    ],
+    "correctIndex": 0
   }
 ]

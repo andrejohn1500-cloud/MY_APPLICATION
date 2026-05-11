@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "question": "What is the term for the study of the impact of tourism on the environment?",
+    "options": [
+      "Environmental impact assessment",
+      "Sustainability assessment",
+      "Cultural impact assessment",
+      "Social impact assessment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the famous waterfall in Jamaica?",
+    "options": [
+      "Blue Hole",
+      "Devil's Pool",
+      "Dunn's River Falls",
+      "Welch Pool"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the famous city in Barbados?",
+    "options": [
+      "Oistins",
+      "Bridgetown",
+      "Speightstown",
+      "Holetown"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the physical and emotional changes that occur when a person experiences a cultural shock?",
+    "options": [
+      "Cultural adaptation",
+      "Cross-cultural understanding",
+      "Tourist fatigue",
+      "Culture shock"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What was the primary factor that led to the decline of the tourism industry in the Caribbean during the 1980s?",
+    "options": [
+      "Environmental degradation",
+      "Natural disasters",
+      "Economic crises",
+      "Over-tourism"
+    ],
+    "correctIndex": 2
+  }
+]

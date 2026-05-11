@@ -1,152 +1,152 @@
 [
   {
-    "question": "In orthographic projection, what is the term for the view of an object from below?",
+    "question": "A drawing that shows only one side of an object is called a _____.",
     "options": [
-      "End View",
-      "Top View",
-      "Side View",
-      "Front View"
+      "oblique projection",
+      "axonometric projection",
+      "orthographic projection",
+      "isometric drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The angle formed by two lines is called a _____.",
+    "options": [
+      "interior angle",
+      "intersection",
+      "vertex",
+      "exterior angle"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of view that shows an object from a 45-degree angle?",
+    "question": "The process of drawing an object in a cutaway view is called _____.",
     "options": [
-      "Orthographic View",
-      "Perspective View",
-      "Oblique View",
-      "Isometric View"
+      "axonometric drawing",
+      "sectional drawing",
+      "isometric drawing",
+      "orthographic drawing"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for a line that is drawn in a curved shape to connect two points?",
+    "question": "The line that divides a triangle into two equal parts is called a _____.",
     "options": [
-      "Dimension Line",
-      "Straight Line",
-      "Freehand Line",
-      "Extension Line"
+      "altitude",
+      "hypotenuse",
+      "median",
+      "centroid"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a type of view that shows an object from a 30-degree angle?",
+    "question": "A line that extends infinitely in two directions is called a _____.",
     "options": [
-      "Isometric View",
-      "Orthographic View",
-      "Perspective View",
-      "Oblique View"
+      "endpoint",
+      "line",
+      "ray",
+      "line segment"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of drawing that shows the relationship between different parts of an object?",
+    "question": "The process of drawing an object from different angles is called _____.",
     "options": [
-      "Assembly Drawing",
-      "Isometric Drawing",
-      "Sectional View",
-      "Engineering Drawing"
+      "orthographic projection",
+      "isometric drawing",
+      "axonometric projection",
+      "oblique projection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A drawing that shows all six sides of an object is called a _____.",
+    "options": [
+      "isometric drawing",
+      "orthographic projection",
+      "axonometric projection",
+      "oblique projection"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In CAD, what is the term for the process of creating a new drawing from an existing drawing?",
+    "question": "The line that divides a triangle into two equal parts is also called a _____.",
     "options": [
-      "Modifying",
-      "Saving",
-      "Editing",
-      "Creating"
+      "median",
+      "altitude",
+      "centroid",
+      "hypotenuse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A two-dimensional representation of an object is called a _____.",
+    "options": [
+      "scale model",
+      "isometric drawing",
+      "projection",
+      "model"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The method of drawing a line that is parallel to another line is called _____.",
+    "options": [
+      "radius method",
+      "strait line method",
+      "angle method",
+      "arc method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The line that divides a triangle into two equal angles is called a _____.",
+    "options": [
+      "hypotenuse",
+      "centroid",
+      "altitude",
+      "median"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A drawing that shows an object in a cutaway view is also called a _____.",
+    "options": [
+      "isometric drawing",
+      "sectional drawing",
+      "orthographic projection",
+      "axonometric projection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The point of intersection of two or more lines is called a _____.",
+    "options": [
+      "endpoint",
+      "termination",
+      "corner",
+      "vertex"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process of drawing a building or structure is called _____.",
+    "options": [
+      "building drawing",
+      "technical drawing",
+      "engineering drawing",
+      "assembly drawing"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In building drawing, what is the term for the process of creating a drawing from a 3D object?",
+    "question": "The method of drawing an object in a cutaway view is called _____.",
     "options": [
-      "Oblique Projection",
-      "Perspective Drawing",
-      "Orthographic Projection",
-      "Isometric Projection"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of projection that shows an object from a 45-degree angle?",
-    "options": [
-      "Orthographic Projection",
-      "Isometric Projection",
-      "Perspective Projection",
-      "Oblique Projection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what is the term for the process of creating a new drawing from scratch?",
-    "options": [
-      "Modifying",
-      "Saving",
-      "Editing",
-      "Creating"
+      "orthographic projection",
+      "isometric drawing",
+      "axonometric projection",
+      "sectional view"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D object?",
-    "options": [
-      "Oblique Projection",
-      "Isometric Projection",
-      "Orthographic Projection",
-      "Perspective Drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In building drawing, what is the term for the process of creating a drawing from a set of plans?",
-    "options": [
-      "Sectional View",
-      "Assembly Drawing",
-      "Engineering Drawing",
-      "Detail Drawing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In CAD, what is the term for the process of saving a drawing?",
-    "options": [
-      "Modifying",
-      "Saving",
-      "Creating",
-      "Editing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what is the term for the process of creating a new drawing from an existing drawing?",
-    "options": [
-      "Saving",
-      "Creating",
-      "Editing",
-      "Modifying"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a line that is drawn to show the center of an object?",
-    "options": [
-      "Extension Line",
-      "Center Line",
-      "Hidden Line",
-      "Dimension Line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what is the term for the process of editing a drawing?",
-    "options": [
-      "Creating",
-      "Saving",
-      "Editing",
-      "Modifying"
-    ],
-    "correctIndex": 2
   }
 ]

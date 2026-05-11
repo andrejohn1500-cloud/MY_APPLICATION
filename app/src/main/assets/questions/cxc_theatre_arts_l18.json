@@ -1,42 +1,52 @@
 [
   {
-    "question": "Who is the Jamaican playwright and poet known for his plays such as 'The Hills of Hebron' and 'Pantomime 4'",
+    "question": "In the context of directing, what is the term for the process of shaping the actors' performances through verbal and non-verbal cues?",
     "options": [
-      "Erna Brodber",
-      "Derek Walcott",
-      "Barbara Jenkins",
-      "Neville Dawes"
+      "rehearsal",
+      "table read",
+      "run-through",
+      "blocking"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the process of rehearsing a scene or a play in a slow and detailed manner to develop the character's actions and emotions?",
+    "question": "The influence of African oral traditions on Caribbean folk forms is most evident in the use of _____.",
     "options": [
-      "Choreography",
-      "Rehearsal",
-      "Blocking",
-      "Staging"
+      "realism in setting",
+      "call-and-response patterns",
+      "stream-of-consciousness narrative",
+      "dramatic irony"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The playwright's use of _____ in 'The Beautyful Ones Are Not Yet Born' by Ayi Kwei Armah contributes to the play's exploration of identity and cultural heritage.",
+    "options": [
+      "dramatic irony",
+      "foreshadowing",
+      "imagery",
+      "symbolism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of building a set piece or a prop in a way that makes it appear to be made of many different materials?",
+    "question": "The playwright's use of _____ in 'No Village Left Behind' by Linton Kwesi Johnson contributes to the play's exploration of identity and cultural heritage.",
     "options": [
-      "Model-making",
-      "Foam casting",
-      "Painting",
-      "Composite construction"
+      "imagery",
+      "symbolism",
+      "foreshadowing",
+      "dramatic irony"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "The use of sound system in theatre can create which of the following effects?",
+    "question": "In the context of acting techniques, what is the term for the process of fully immersing oneself in the character's emotions and experiences?",
     "options": [
-      "Creating mood",
-      "Creating atmosphere",
-      "Creating character",
-      "Creating action"
+      "invention",
+      "imagination",
+      "identification",
+      "empathy"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "In a sectional drawing, what is the term used to describe the view of the section line from the side?",
+    "question": "In CAD, what is the term for the process of creating a new part by modifying an existing part?",
     "options": [
-      "Sectional elevation",
-      "Hidden line",
-      "Frontal section",
-      "Plan view"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In building drawing, what is the term for the process of creating a drawing from a set of plans?",
-    "options": [
-      "Orthographic Projection",
-      "Detail Drawing",
-      "Sectional View",
-      "Assembly Drawing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building drawing that shows the front and rear elevations of a building is also known as a ?",
-    "options": [
-      "Elevation drawing",
-      "Floor plan",
-      "Block plan",
-      "Site plan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In CAD, what does the acronym 'DWG' stand for?",
-    "options": [
-      "Design Workgroup Format",
-      "Drawing Workgroup Format",
-      "Drawing Interface Format",
-      "Drawing Interchange Format"
+      "Assembly",
+      "CAD modeling",
+      "Design simulation",
+      "Modification"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term used to describe the line used to separate different sections in a sectional drawing?",
+    "question": "In a building drawing, what is the term for the elevation that shows the side of a building?",
     "options": [
-      "Section line",
-      "Hatching line",
-      "Hidden line",
-      "Centre line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a stair?",
-    "options": [
-      "Hidden line",
-      "Hatching line",
-      "Centre line",
-      "Section line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term used to describe the process of adding a title block to a drawing?",
-    "options": [
-      "Adding a legend",
-      "Adding a key",
-      "Adding a scale",
-      "Adding a title block"
+      "Front elevation",
+      "End elevation",
+      "Back elevation",
+      "Side elevation"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In CAD, what does the acronym 'DWG' stand for?",
+    "question": "In geometric construction, what is the term for the process of drawing a line or shape using a compass and ruler?",
     "options": [
-      "Drawing Interface Format",
-      "Drawing Interchange Format",
-      "Design Workgroup Format",
-      "Drawing Workgroup Format"
+      "Drawing a circle",
+      "Creating a polygon",
+      "Dividing a line",
+      "Making an angle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The method of representing an engineering design is called _____.",
+    "options": [
+      "assembly drawing",
+      "engineering drawing",
+      "technical drawing",
+      "building drawing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A section cut is made at a plane that passes through the center of the object, what is the resulting view called?",
+    "question": "In a building drawing, what is the term for the plan that shows the layout of a floor?",
     "options": [
-      "Plan view",
       "Elevation",
-      "Frontal section",
-      "Side view"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term used to describe the process of adding dimensions to a drawing?",
-    "options": [
-      "Adding a title block",
-      "Adding dimensions",
-      "Adding a key",
-      "Adding a scale"
+      "Floor plan",
+      "Section",
+      "Detail"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In CAD, what does the term 'block' refer to?",
+    "question": "What is the term for a line that is neither horizontal nor vertical?",
     "options": [
-      "A group of objects that can be used as a single entity",
-      "A group of objects that can be moved as a single entity",
-      "A group of objects that can be edited as a single entity",
-      "A group of objects that can be deleted as a single entity"
+      "Vertical line",
+      "Horizontal line",
+      "Oblique line",
+      "Diagonal line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a centre line in a drawing?",
+    "options": [
+      "To indicate the centre of an object",
+      "To show the direction of a force",
+      "To represent a boundary",
+      "To define a datum point"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A building drawing that shows the location of all the rooms in a building and is drawn to a scale of 1:200 is also known as a ?",
+    "question": "A drawing that shows an object in a hidden view is called a _____.",
     "options": [
-      "Floor plan",
-      "Site plan",
-      "Elevation drawing",
-      "Block plan"
+      "hidden view",
+      "isometric drawing",
+      "axonometric projection",
+      "sectional view"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the term used to describe the method of drawing a plan view of a building on a large scale?",
+    "question": "In a building drawing, what is the term for the view that shows the underside of a building?",
     "options": [
-      "Elevation drawing",
-      "Site plan",
-      "Block plan",
-      "Floor plan"
+      "Elevation",
+      "Detail",
+      "Section",
+      "Undercroft"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of a title block in an engineering drawing?",
+    "options": [
+      "To indicate the scale",
+      "To define the limits of the drawing",
+      "To show the datum points",
+      "To provide information about the drawing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building detail is typically drawn at what scale?",
+    "options": [
+      "1:20 or 1:10",
+      "1:100 or 1:50",
+      "1:2000 or 1:5000",
+      "1:500 or 1:1000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A centre punch mark is typically drawn ______ the centre of a hole.",
+    "options": [
+      "Below",
+      "To the side of",
+      "At",
+      "Above"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A building drawing that shows the floor plan of a building and is drawn to a scale of 1:100 is also known as a ?",
+    "question": "In isometric drawing, what is the angle between the x, y, and z axes?",
     "options": [
-      "Floor plan",
-      "Site plan",
-      "Elevation drawing",
-      "Block plan"
+      "120 degrees",
+      "30 degrees",
+      "90 degrees",
+      "60 degrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In orthographic projection, what is the term for the view that shows the right side of an object?",
+    "options": [
+      "Perspective view",
+      "Right side view",
+      "Left side view",
+      "Front view"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term used to describe the line used to represent the surface of an object in a sectional drawing?",
+    "question": "A sectional view is typically drawn at what angle to the main view?",
     "options": [
-      "Hidden line",
-      "Centre line",
-      "Section line",
-      "Hatching line"
+      "60 degrees",
+      "120 degrees",
+      "90 degrees",
+      "45 degrees"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   }
 ]

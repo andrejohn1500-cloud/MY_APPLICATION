@@ -1,121 +1,131 @@
 [
   {
-    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to a single appliance?",
+    "question": "In safety, what is the term for the process of identifying and mitigating the potential hazards associated with a particular activity or process?",
     "options": [
-      "Ring Circuit",
-      "Wye Circuit",
-      "Radial Circuit",
-      "Delta Circuit"
+      "Hazard Control",
+      "Hazard Identification",
+      "Hazard Assessment",
+      "Hazard Elimination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the process of designing and optimizing the performance of a mechanical system?",
+    "options": [
+      "Mechanical Design",
+      "System Design",
+      "Machine Design",
+      "Component Design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In technical drawing, what is the term for the process of creating a detailed drawing of a mechanical component or assembly, including dimensions and tolerances?",
+    "options": [
+      "Component Drawing",
+      "Assembly Drawing",
+      "Dimensional Drawing",
+      "Layout Drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of years required for a school to offer a technical drawing course at the CXC level?",
+    "question": "In construction technology, what is the term for the process of building or repairing structures using materials such as brick, block, or concrete?",
     "options": [
-      "5 years",
-      "6 years",
-      "3 years",
-      "4 years"
+      "Roofing",
+      "Masonry",
+      "Glazing",
+      "Carpentry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the process of designing and optimizing the performance of a machine or system?",
+    "options": [
+      "Design Development",
+      "Design Optimization",
+      "Design Validation",
+      "Design Review"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In safety, what is the term for the process of identifying and mitigating the potential risks associated with a particular activity or process, including the use of safety protocols and procedures?",
+    "options": [
+      "Safety Management",
+      "Risk Assessment",
+      "Hazard Prevention",
+      "Risk Control"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a mechanical fastener with a coarse thread?",
+    "question": "In construction technology, what is the term for the process of preparing the ground for construction, including excavation and grading?",
     "options": [
-      "Welding",
-      "Bonding",
-      "Riveting",
-      "Soldering"
+      "Site Development",
+      "Site Preparation",
+      "Site Planing",
+      "Site Excavation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to multiple light fixtures?",
+    "question": "In workshop technology, what is the type of drill used for drilling small holes in metal, characterized by a rotating cutting edge and a lightweight design?",
     "options": [
-      "Polyphase Circuit",
-      "Delta Circuit",
-      "Single-Phase Circuit",
-      "Three-Phase Circuit"
+      "Cordless Drill",
+      "Drill Press",
+      "Power Drill",
+      "Hand Drill"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the process of creating materials with unique properties, such as high strength or low density?",
+    "options": [
+      "Materials Design",
+      "Materials Development",
+      "Materials Engineering",
+      "Materials Research"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of fluids in motion with a high velocity?",
+    "question": "In mechanical engineering, what is the term for the study of the behavior of machines under various loads?",
     "options": [
-      "Hydrodynamics",
+      "Mechanics",
       "Thermodynamics",
-      "Electromagnetics",
-      "Pneumatics"
+      "Heat transfer",
+      "Materials science"
     ],
     "correctIndex": 0
   },
   {
-    "question": "According to the Caribbean vocational education syllabus, what is the maximum number of students required for a school to offer a technical drawing course at the CXC level?",
+    "question": "In electrical technology, what is the term for the measure of the amount of electric charge transferred per unit time?",
     "options": [
-      "18 students",
-      "20 students",
-      "22 students",
-      "15 students"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under compressive stress?",
-    "options": [
-      "Shear Strength",
-      "Compressive Strength",
-      "Flexural Strength",
-      "Tensile Strength"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a flexible fastener?",
-    "options": [
-      "Bonding",
-      "Welding",
-      "Ductile Fastening",
-      "Soldering"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist heat transfer?",
-    "options": [
-      "Thermal Conductivity",
-      "Thermal Expansion",
-      "Latent Heat",
-      "Specific Heat Capacity"
+      "Current",
+      "Resistance",
+      "Power",
+      "Voltage"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In construction technology, what is the term for the process of connecting two or more structural members together?",
+    "question": "In mechanical engineering, what is the term for the process of designing and optimizing the performance of a machine or system, including the use of computer-aided design (CAD) software?",
     "options": [
-      "Cutting",
-      "Splicing",
-      "Drilling",
-      "Welding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of fluids in motion?",
-    "options": [
-      "Electromagnetics",
-      "Pneumatics",
-      "Hydraulics",
-      "Thermodynamics"
+      "Computer-Aided Engineering (CAE)",
+      "Computer-Aided Manufacturing (CAM)",
+      "Computer-Aided Design (CAD)",
+      "Computer-Aided Drafting (CAD)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of gases in motion?",
+    "question": "In electrical technology, what is the term for the measure of the opposition to the flow of current in a circuit, excluding the resistance of the wires?",
     "options": [
-      "Thermodynamics",
-      "Pneumatics",
-      "Electromagnetics",
-      "Hydraulics"
+      "Resistance",
+      "Impedance",
+      "Admittance",
+      "Reactance"
     ],
     "correctIndex": 1
   }

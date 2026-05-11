@@ -1,22 +1,62 @@
 [
   {
-    "question": "What is the term for a line that is drawn to show the edge of an object?",
+    "question": "The process of drawing a triangle is called _____.",
     "options": [
-      "Edge Line",
-      "Hidden Line",
-      "Extension Line",
-      "Center Line"
+      "arc method",
+      "radius method",
+      "compass and straightedge method",
+      "protractor method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The method of drawing a circle using a protractor is called _____.",
+    "options": [
+      "compass method",
+      "arc method",
+      "radius method",
+      "circumference method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The line that divides a plane into two equal parts is called a _____.",
+    "options": [
+      "altitude",
+      "hypotenuse",
+      "centroid",
+      "median"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The method of drawing a rectangle using a compass is called _____.",
+    "options": [
+      "compass and straightedge method",
+      "arc method",
+      "protractor method",
+      "radius method"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a line that is drawn to extend a feature of an object?",
+    "question": "A drawing that shows an object in a cutaway view is called a _____.",
     "options": [
-      "Extension Line",
-      "Hidden Line",
-      "Center Line",
-      "Dimension Line"
+      "orthographic projection",
+      "sectional view",
+      "axonometric projection",
+      "isometric drawing"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of drawing a building is called _____.",
+    "options": [
+      "engineering drawing",
+      "building drawing",
+      "technical drawing",
+      "assembly drawing"
+    ],
+    "correctIndex": 1
   }
 ]

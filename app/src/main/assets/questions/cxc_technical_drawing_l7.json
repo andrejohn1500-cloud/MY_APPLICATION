@@ -1,152 +1,152 @@
 [
   {
-    "question": "In CAD, what does the term 'layer' refer to?",
+    "question": "In orthographic projection, what is the term for the view that shows the left side of an object?",
     "options": [
-      "A layer is a group of objects that can be turned on or off as a group",
-      "A layer is a group of objects that can be edited as a group",
-      "A layer is a group of objects that can be deleted as a group",
-      "A layer is a group of objects that can be moved as a group"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term used to describe the method of representing a three-dimensional object on a two-dimensional plane by drawing all sides of the object simultaneously?",
-    "options": [
-      "Geometric construction",
-      "Orthographic projection",
-      "Perspective drawing",
-      "Isometric drawing"
+      "Right side view",
+      "Front view",
+      "Perspective view",
+      "Left side view"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A building drawing that shows the location of all the rooms in a building and is drawn to a scale of 1:50 is also known as a ?",
+    "question": "In geometric construction, what is the term for the process of drawing a line or shape using a straightedge and compass?",
     "options": [
-      "Block plan",
-      "Elevation drawing",
-      "Floor plan",
-      "Site plan"
+      "Making an angle",
+      "Creating a polygon",
+      "Dividing a line",
+      "Drawing a circle"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for a type of view that shows an object from a 90-degree angle?",
+    "question": "In CAD, what is the term for the process of creating a 3D model from a 2D drawing?",
     "options": [
-      "Orthographic View",
-      "Oblique View",
-      "Perspective View",
-      "Isometric View"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term used to describe the method of drawing a section view of a building as a cut through it?",
-    "options": [
-      "Elevation drawing",
-      "Sectional view",
-      "Block plan",
-      "Plan view"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what does the acronym 'DXF' stand for?",
-    "options": [
-      "Drawing Exchange Format",
-      "Design Exchange Format",
-      "Data Exchange Format",
-      "Drawing Interchange Format"
+      "Design simulation",
+      "Surface modeling",
+      "Wireframe modeling",
+      "Solid modeling"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In CAD, what is the term for the process of saving a drawing?",
+    "question": "In geometric construction, what is the term for the process of drawing a circle?",
     "options": [
-      "Creating",
-      "Editing",
-      "Saving",
-      "Modifying"
+      "Dividing a line",
+      "Making an angle",
+      "Drawing a circle",
+      "Creating a polygon"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In an isometric drawing, what is the angle between each principal axis?",
+    "question": "In CAD, what is the term for the process of creating a 2D drawing from a 3D model?",
     "options": [
-      "60 degrees",
-      "120 degrees",
-      "90 degrees",
-      "45 degrees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a door?",
-    "options": [
-      "Centre line",
-      "Hidden line",
-      "Hatching line",
-      "Section line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term used to describe the process of taking measurements from an object and transferring them onto a drawing?",
-    "options": [
-      "Designing and drafting",
-      "Drawing and drafting",
-      "Measuring and setting out",
-      "Engineering and drafting"
+      "Design simulation",
+      "Surface modeling",
+      "2D drafting",
+      "Wireframe modeling"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term used to describe the process of adding a scale to a drawing?",
+    "question": "The process of representing an assembly of parts is called _____.",
     "options": [
-      "Adding a title block",
-      "Adding a legend",
-      "Adding a scale",
-      "Adding a key"
+      "building drawing",
+      "technical drawing",
+      "assembly drawing",
+      "engineering drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term used to describe the line used to represent the surface of an object in a plan view?",
+    "question": "In isometric drawing, what is the term for a line that is drawn at a 120-degree angle to the x-axis?",
     "options": [
-      "Section line",
-      "Hatching line",
-      "Centre line",
-      "Hidden line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a window?",
-    "options": [
-      "Hidden line",
-      "Hatching line",
-      "Section line",
-      "Centre line"
+      "Isometric line",
+      "Horizontal line",
+      "Oblique line",
+      "Vertical line"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a wall?",
+    "question": "In a building drawing, what is the term for the view that shows the interior of a building?",
     "options": [
-      "Section line",
-      "Centre line",
-      "Hidden line",
-      "Hatching line"
+      "Section",
+      "Plan",
+      "Detail",
+      "Elevation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A dimension line is typically drawn ______ the feature being dimensioned.",
+    "options": [
+      "Diverging from",
+      "Parallel to",
+      "Converging to",
+      "Perpendicular to"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term used to describe the line that indicates the height of the section line in a sectional drawing?",
+    "question": "In a building drawing, what is the term for the elevation that shows the front of a building?",
     "options": [
-      "Section height line",
-      "Section centre line",
-      "Section title line",
-      "Section number line"
+      "Front elevation",
+      "Side elevation",
+      "End elevation",
+      "Back elevation"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "A dimension line is typically drawn ______ the feature being dimensioned.",
+    "options": [
+      "Converging to",
+      "Diverging from",
+      "Perpendicular to",
+      "Parallel to"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In CAD, what is the term for the process of creating a 3D model from a 2D drawing?",
+    "options": [
+      "Solid modeling",
+      "Wireframe modeling",
+      "Surface modeling",
+      "Design simulation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In CAD, what is the term for the process of creating a new part by combining existing parts?",
+    "options": [
+      "Engineering drawing",
+      "CAD modeling",
+      "Design simulation",
+      "Assembly"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a building drawing, what is the term for the view that shows the exterior of a building?",
+    "options": [
+      "Elevation",
+      "Section",
+      "Detail",
+      "Plan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a building drawing, what is the term for the elevation that shows the back of a building?",
+    "options": [
+      "Side elevation",
+      "End elevation",
+      "Back elevation",
+      "Front elevation"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -1,82 +1,102 @@
 [
   {
-    "question": "When creating an isometric drawing, what is the term for the method of representing a 3D object as a 2D image using a 45-45-90 triangle?",
+    "question": "In a geometric construction, what is the angle between the bisector of an angle and the angle itself?",
     "options": [
-      "one-third angle projection",
-      "two-thirds angle projection",
-      "one-half angle projection",
-      "30-60-90 triangle projection"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A CAD drawing is represented as a 2D vector image. What is the term for the process of creating a 3D model from a 2D vector image?",
-    "options": [
-      "wireframe modeling",
-      "solid modeling",
-      "surface modeling",
-      "mesh modeling"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When creating an assembly drawing, what is the term for the arrangement of parts in a non-standard position using a computer-aided design software?",
-    "options": [
-      "standard position",
-      "component position",
-      "assembly position",
-      "auxiliary position"
+      "75\u00b0",
+      "45\u00b0",
+      "60\u00b0",
+      "90\u00b0"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A dimension is represented as 5 mm. What is the equivalent dimension in inches?",
+    "question": "A dimension is drawn to show the distance between two points in a drawing. What is the primary rule for the placement of dimensions in terms of precision?",
     "options": [
-      "0.15 inches",
-      "0.2 inches",
-      "0.197 inches",
-      "0.18 inches"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When creating an assembly drawing, what is the term for the arrangement of parts in a non-standard position?",
-    "options": [
-      "auxiliary position",
-      "assembly position",
-      "standard position",
-      "component position"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When creating an assembly drawing, what is the term for the arrangement of parts in a standard position using a computer-aided design software?",
-    "options": [
-      "component position",
-      "standard position",
-      "auxiliary position",
-      "assembly position"
+      "Dimensions should be placed outside the object",
+      "Dimensions should be placed accurately to the nearest 0.1mm",
+      "Dimensions should be placed on the edge of the object",
+      "Dimensions should be placed randomly"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A dimension is represented as 6 mm. What is the equivalent dimension in inches?",
+    "question": "A developer wants to create a detailed drawing of a component using CAD software. Which of the following software would be best suited for this task?",
     "options": [
-      "0.22 inches",
-      "0.24 inches",
-      "0.236 inches",
-      "0.25 inches"
+      "SolidWorks",
+      "CATIA",
+      "Solid Edge",
+      "Autodesk Inventor"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a title block in a building drawing?",
+    "options": [
+      "To indicate a surface finish",
+      "To identify a material",
+      "To display the drawing's dimensions",
+      "To provide information about the building, including the date, time, and drafter's name"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a geometric tolerance in an engineering drawing?",
+    "options": [
+      "To identify a material",
+      "To indicate a surface finish",
+      "To specify the acceptable limits of variation in the part's dimensions",
+      "To display the drawing's dimensions"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A dimension is represented as 9 1/2 inches. What is the decimal equivalent of this dimension?",
+    "question": "A CAD system uses a layering system to organize the drawing into separate layers. What is the purpose of the '0' layer?",
     "options": [
-      "9 inches",
-      "9.25 inches",
-      "9.5 inches",
-      "10 inches"
+      "To indicate the drawing's surface finish",
+      "To display the drawing's dimensions",
+      "To represent the drawing's center lines",
+      "To store the drawing's title block and other non-geometric information"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "In an assembly drawing, what is the name of the diagram that shows the exploded view of an assembly with the parts labelled and numbered?",
+    "options": [
+      "Exploded View",
+      "Assembly Diagram",
+      "Parts List",
+      "Bill of Materials"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a title block in an engineering drawing?",
+    "options": [
+      "To display the drawing's dimensions",
+      "To provide information about the drawing, including the date, time, and drafter's name",
+      "To identify a material",
+      "To indicate a surface finish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A building drawing is drawn to a scale of 1:5. What is the ratio of the actual size to the represented size?",
+    "options": [
+      "50:1",
+      "20:1",
+      "10:1",
+      "5:1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a datum plane in an engineering drawing?",
+    "options": [
+      "To indicate a surface finish",
+      "To define the size of a component",
+      "To identify a material",
+      "To establish a reference plane for the part's dimensions"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the phenomenon where a wave changes speed and direction as it passes from one medium to another?",
+    "question": "In workshop technology, what is the term for the tool used to cut metal using a rotating cutting wheel?",
     "options": [
-      "Diffraction",
-      "Total Internal Reflection",
-      "Interference",
-      "Refraction"
+      "Jigsaw",
+      "Hacksaw",
+      "Band saw",
+      "Circular saw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the study of the behavior of fluids under various conditions?",
+    "options": [
+      "Thermodynamics",
+      "Heat transfer",
+      "Materials science",
+      "Fluid mechanics"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In construction technology, what is the term for the process of designing a building with a modular system to reduce construction time and cost?",
+    "question": "What is the term for the personal protective equipment used to protect workers from electrical shock in electrical technology?",
     "options": [
-      "Modular Construction",
-      "Panelized Construction",
-      "Site-Assembled Construction",
-      "Prefabricated Construction"
+      "Steel-toed boots",
+      "Safety glasses",
+      "Insulated gloves",
+      "Hard hat"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In electrical technology, what is the term for the device that converts electrical energy into heat energy?",
+    "question": "In electrical technology, what is the term for the device that converts electrical energy into mechanical energy?",
     "options": [
       "Transformer",
-      "Resistor",
-      "Inductor",
-      "Capacitor"
+      "Motor",
+      "Generator",
+      "Switch"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A mechanical engineer is designing a braking system for a vehicle. The braking ratio is 4:1 and the input force is 100 N. What is the output force?",
+    "question": "What is the term for the personal protective equipment used to protect workers from eye damage in workshop technology?",
     "options": [
-      "75 N",
-      "25 N",
-      "100 N",
-      "50 N"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A mechanical engineer is designing a gear system for a machine. The gear ratio is 2:1 and the input torque is 100 Nm. What is the output torque?",
-    "options": [
-      "75 Nm",
-      "150 Nm",
-      "100 Nm",
-      "50 Nm"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In electrical technology, what is the term for the device that regulates the flow of current in a circuit?",
-    "options": [
-      "Current Regulator",
-      "Resistance Regulator",
-      "Voltage Regulator",
-      "Power Regulator"
+      "Earplugs",
+      "Hard hat",
+      "Safety glasses",
+      "Steel-toed boots"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A mechanical engineer is designing a gear system for a machine. The gear ratio is 4:1 and the input torque is 200 Nm. What is the output torque?",
+    "question": "What is the term for the process of converting electrical energy from one form to another in electrical technology?",
     "options": [
-      "75 Nm",
-      "100 Nm",
-      "50 Nm",
-      "200 Nm"
+      "Electrical conversion",
+      "Electrical generation",
+      "Electrical transmission",
+      "Electrical distribution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the personal protective equipment used to protect workers from foot damage in construction technology?",
+    "options": [
+      "Earplugs",
+      "Safety glasses",
+      "Steel-toed boots",
+      "Hard hat"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the phenomenon where a wave passes through a narrow opening and changes direction?",
+    "question": "In materials science, what is the term for the process of changing the chemical composition of a material using heat and pressure?",
     "options": [
-      "Diffraction",
-      "Refraction",
-      "Interference",
-      "Total Internal Reflection"
+      "Ceramics",
+      "Polymers",
+      "Metallurgy",
+      "Composites"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "A workshop technician is using a lathe machine to turn a metal part. The cutting speed is 15 m/min and the feed rate is 0.15 mm/min. What is the turning speed?",
+    "question": "In mechanical engineering, what is the term for the ratio of the force applied to an object to the force required to move it?",
     "options": [
-      "200 rpm",
-      "100 rpm",
-      "50 rpm",
-      "150 rpm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A technician is working with a lathe machine. What is the term for the process of removing excess metal from the workpiece using a cutting tool?",
-    "options": [
-      "Turning Operation",
-      "Drilling Operation",
-      "Milliing Operation",
-      "Facing Operation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In electrical technology, what is the term for the device that converts electrical energy into light energy?",
-    "options": [
-      "Lamp",
-      "Light Emitting Diode",
-      "Fluorescent Tube",
-      "Bulb"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In construction technology, what is the term for the process of designing a building to withstand natural disasters such as earthquakes and hurricanes?",
-    "options": [
-      "Load Design",
-      "Wind Design",
-      "Fatigue Design",
-      "Seismic Design"
+      "Mechanical velocity",
+      "Mechanical efficiency",
+      "Mechanical power",
+      "Mechanical advantage"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the phenomenon where two or more waves overlap to produce a new wave pattern?",
+    "question": "In mechanical engineering, what is the term for the ratio of the output power to the input power in a machine?",
     "options": [
-      "Diffraction",
-      "Interference",
-      "Refraction",
-      "Total Internal Reflection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A workshop technician is using a drill press to drill a hole in a metal part. The drill bit is rotating at 600 rpm. The feed rate is 1.5 mm/min. What is the drilling speed?",
-    "options": [
-      "0.75 mm/min",
-      "0.5 mm/min",
-      "1 mm/min",
-      "1.5 mm/min"
+      "Mechanical efficiency",
+      "Mechanical power",
+      "Mechanical advantage",
+      "Mechanical velocity"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In construction technology, what is the term for the process of designing a building to be energy-efficient and environmentally friendly?",
+    "question": "What is the term for the personal protective equipment used to protect workers from hearing damage in workshop technology?",
     "options": [
-      "Energy-Efficient Building Design",
-      "Green Building Design",
-      "Sustainable Building Design",
-      "Eco-Friendly Building Design"
+      "Earplugs",
+      "Steel-toed boots",
+      "Hard hat",
+      "Safety glasses"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "In materials science, what is the term for the process of changing the shape of a material using a combination of heat and pressure?",
+    "options": [
+      "Forging",
+      "Forming",
+      "Machining",
+      "Casting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a material that can be drawn out to a thin wire without breaking in materials science?",
+    "options": [
+      "Brittle",
+      "Elastic",
+      "Ductile",
+      "Malleable"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of using a micrometer in workshop technology?",
+    "options": [
+      "To measure small dimensions accurately",
+      "To polish metal finishes",
+      "To cut metal accurately",
+      "To grind metal surfaces"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the study of the design and operation of engines?",
+    "options": [
+      "Heat transfer",
+      "Materials science",
+      "Fluid mechanics",
+      "Thermodynamics"
+    ],
+    "correctIndex": 3
   }
 ]

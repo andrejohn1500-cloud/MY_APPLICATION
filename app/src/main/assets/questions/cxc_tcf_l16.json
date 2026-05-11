@@ -1,152 +1,152 @@
 [
   {
-    "question": "In workshop technology, what is the term for the process of removing a workpiece from a lathe?",
+    "question": "In workshop technology, what is the type of saw used for cutting wood, characterized by a rotating cutting blade and a lightweight design?",
     "options": [
-      "Facing",
-      "Parting Off",
-      "Turning",
-      "Knurling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In mechanical engineering, what is the term for the study of the relationship between forces and motion?",
-    "options": [
-      "Dynamics",
-      "Statics",
-      "Kinetics",
-      "Kinematics"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of teachers required for a school to offer a technical drawing course at the CXC level?",
-    "options": [
-      "3 teachers",
-      "1 teacher",
-      "2 teachers",
-      "4 teachers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In workshop technology, what is the term for the process of shaping a workpiece using a rotating cutting tool?",
-    "options": [
-      "Grinding",
-      "Turning",
-      "Drilling",
-      "Milling"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In workshop technology, what is the primary function of a lathe?",
-    "options": [
-      "Sawing",
-      "Milling",
-      "Drilling",
-      "Turning"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of hours required for a student to complete a technical drawing course at the CXC level?",
-    "options": [
-      "220 hours",
-      "200 hours",
-      "240 hours",
-      "180 hours"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under stress?",
-    "options": [
-      "Flexural Strength",
-      "Compressive Strength",
-      "Shear Strength",
-      "Tensile Strength"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under impact loading?",
-    "options": [
-      "Compressive Strength",
-      "Impact Strength",
-      "Shear Strength",
-      "Tensile Strength"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A mechanical engineer is designing a gear system for a machine. The gear ratio is 3:1 and the input torque is 150 Nm. What is the output torque?",
-    "options": [
-      "100 Nm",
-      "75 Nm",
-      "50 Nm",
-      "150 Nm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of sound waves in a system?",
-    "options": [
-      "Hydraulics",
-      "Thermodynamics",
-      "Acoustics",
-      "Pneumatics"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In construction technology, what is the term for the process of joining two or more structural members together using a binding agent?",
-    "options": [
-      "Bonding",
-      "Welding",
-      "Soldering",
-      "Splicing"
+      "Circular Saw",
+      "Jigsaw Saw",
+      "Reciprocating Saw",
+      "Band Saw"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In workshop technology, what is the term for the process of removing a workpiece from a milling machine?",
+    "question": "In electrical technology, what is the term for the measure of the potential difference between two points in a circuit?",
     "options": [
-      "Turning",
-      "Knurling",
-      "Parting Off",
-      "Facing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In electrical technology, what type of electrical circuit is used in a commercial building to supply power to high-power appliances?",
-    "options": [
-      "Single-Phase Circuit",
-      "Delta Circuit",
-      "Three-Phase Circuit",
-      "Polyphase Circuit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of students required for a school to offer a technical drawing course at the CXC level?",
-    "options": [
-      "20 students",
-      "15 students",
-      "10 students",
-      "5 students"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In technical drawing, what is the term for the process of creating a 3D model from 2D drawings?",
-    "options": [
-      "Isometric Drawing",
-      "Perspective Projection",
-      "Oblique Drawing",
-      "Orthographic Projection"
+      "Power",
+      "Resistance",
+      "Current",
+      "Voltage"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "In workshop technology, what is the type of drill used for drilling large holes in metal, characterized by a rotating cutting edge and a heavy-duty design?",
+    "options": [
+      "Tile Drill",
+      "Concrete Drill",
+      "Masonry Drill",
+      "Core Drill"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the study of the properties and characterization of materials, including their structure, properties, and applications?",
+    "options": [
+      "Materials Chemistry",
+      "Materials Technology",
+      "Materials Physics",
+      "Materials Science and Engineering"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the process of creating materials with unique properties, such as superconductivity or self-healing?",
+    "options": [
+      "Materials Research",
+      "Materials Science",
+      "Materials Development",
+      "Materials Engineering"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In safety, what is the term for the process of evaluating and mitigating the risks associated with a particular activity or process?",
+    "options": [
+      "Risk Identification",
+      "Risk Assessment",
+      "Risk Control",
+      "Risk Management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of developing and implementing programs to improve the employability of school leavers?",
+    "options": [
+      "Labour Market Analysis",
+      "Youth Employment Strategy",
+      "Workforce Development",
+      "Skills Planning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of developing and implementing programs to improve the skills and knowledge of the workforce?",
+    "options": [
+      "Skills Planning",
+      "Employer Engagement",
+      "Workforce Development",
+      "Labour Market Analysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical technology, what is the term for the ratio of the output voltage to the input voltage of a transformer?",
+    "options": [
+      "Turns Ratio",
+      "Voltage Ratio",
+      "Transformation Ratio",
+      "Efficiency"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In construction technology, what is the term for the process of building or repairing structures using materials such as steel, aluminum, or fiberglass?",
+    "options": [
+      "Masonry",
+      "Metal Framing",
+      "Roofing",
+      "Carpentry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In workshop technology, what is the type of grinding wheel used for sharpening cutting tools, characterized by a relatively soft abrasive and an open structure?",
+    "options": [
+      "Emery Wheel",
+      "Aluminum Oxide Wheel",
+      "Ceramic Wheel",
+      "Silicon Carbide Wheel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In workshop technology, what is the type of saw used for cutting metal, characterized by a rotating cutting blade and a durable design?",
+    "options": [
+      "Reciprocating Saw",
+      "Band Saw",
+      "Jigsaw Saw",
+      "Circular Saw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the process of shaping metal using a rotating cutting tool?",
+    "options": [
+      "Machining",
+      "Turning",
+      "Grinding",
+      "Broaching"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In safety, what is the term for the process of identifying and mitigating the potential hazards associated with a particular activity or process, including the use of personal protective equipment (PPE)?",
+    "options": [
+      "Hazard Prevention",
+      "Hazard Control",
+      "Hazard Elimination",
+      "Hazard Assessment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In technical drawing, what is the term for the process of creating a detailed drawing of a mechanical component or assembly, including dimensions and tolerances, using computer-aided design (CAD) software?",
+    "options": [
+      "Dimensional Drawing",
+      "Assembly Drawing",
+      "Layout Drawing",
+      "Component Drawing"
+    ],
+    "correctIndex": 0
   }
 ]

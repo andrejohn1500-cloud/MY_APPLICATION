@@ -1,151 +1,151 @@
 [
   {
-    "question": "In construction technology, what is the term for the process of designing a building to withstand natural disasters such as floods and landslides?",
+    "question": "In electrical technology, what is the term for the circuit that provides power to a device or circuit?",
     "options": [
-      "Natural Hazard Design",
-      "Load Design",
-      "Wind Design",
-      "Seismic Design"
+      "Power supply circuit",
+      "Ground circuit",
+      "Control circuit",
+      "Signal circuit"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A technician is working with a milling machine. What is the term for the process of removing excess material from a workpiece using a rotating cutting tool?",
+    "question": "In electrical technology, what is the term for the circuit that provides a return path for electrical energy?",
     "options": [
-      "Turning Operation",
-      "Milling Operation",
-      "Drilling Operation",
-      "Facing Operation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A mechanical engineer is designing a braking system for a vehicle. The braking ratio is 3:1 and the input force is 150 N. What is the output force?",
-    "options": [
-      "150 N",
-      "100 N",
-      "50 N",
-      "75 N"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the process of changing the temperature of a material without changing its shape?",
-    "options": [
-      "Creep Expansion",
-      "Plastic Expansion",
-      "Elastic Expansion",
-      "Thermal Expansion"
+      "Power supply circuit",
+      "Control circuit",
+      "Signal circuit",
+      "Ground circuit"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A mechanical engineer is designing a braking system for a vehicle. The braking ratio is 2:1 and the input force is 120 N. What is the output force?",
+    "question": "In construction technology, what is the term for the process of constructing a building using pre-fabricated components?",
     "options": [
-      "75 N",
-      "120 N",
-      "60 N",
-      "90 N"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the process of changing the crystal structure of a material to improve its properties?",
-    "options": [
-      "Thermal Annealing",
-      "Diffusion Annealing",
-      "Electrical Annealing",
-      "Mechanical Annealing"
+      "Hybrid construction",
+      "Panelized construction",
+      "Site-built construction",
+      "Modular construction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A technician is working with a drill press. What is the term for the process of drilling a hole in a workpiece using a rotating cutting tool?",
+    "question": "In construction technology, what is the term for the process of constructing a building using pre-fabricated components?",
     "options": [
-      "Facing Operation",
-      "Turning Operation",
-      "Drilling Operation",
-      "Milliing Operation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In construction technology, what is the term for the process of designing a building to be safe and accessible for people with disabilities?",
-    "options": [
-      "Adaptive Design",
-      "Universal Design",
-      "Accessible Design",
-      "Inclusive Design"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the process of changing the shape of a material without changing its volume?",
-    "options": [
-      "Creep Deformation",
-      "Plastic Deformation",
-      "Elastic Deformation",
-      "Fracture Deformation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A workshop technician is using a lathe machine to turn a metal part. The cutting speed is 10 m/min and the feed rate is 0.1 mm/min. What is the turning speed?",
-    "options": [
-      "200 rpm",
-      "150 rpm",
-      "100 rpm",
-      "50 rpm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the phenomenon where a wave is bent around a corner or obstacle?",
-    "options": [
-      "Refraction",
-      "Total Internal Reflection",
-      "Diffraction",
-      "Interference"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In materials science, what is the term for the process of changing the shape of a material without changing its volume?",
-    "options": [
-      "Fracture Deformation",
-      "Creep Deformation",
-      "Elastic Deformation",
-      "Plastic Deformation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A technician is working with a lathe machine. What is the term for the process of removing excess material from a workpiece using a cutting tool?",
-    "options": [
-      "Turning Operation",
-      "Drilling Operation",
-      "Facing Operation",
-      "Milliing Operation"
+      "Panelized construction",
+      "Site-built construction",
+      "Prefabricated construction",
+      "Modular construction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In electrical technology, what is the term for the device that stores electrical energy?",
+    "question": "In construction technology, what is the term for the process of constructing a building using pre-fabricated walls and floors?",
     "options": [
-      "Inductor",
-      "Battery",
-      "Capacitor",
-      "Transformer"
+      "Modular construction",
+      "Site-built construction",
+      "Hybrid construction",
+      "Panelized construction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the process of changing the shape of a material using heat and pressure?",
+    "options": [
+      "Forging",
+      "Machining",
+      "Forming",
+      "Casting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In construction technology, what is the term for the process of constructing a building using a combination of site-built and prefabricated components?",
+    "options": [
+      "Modular construction",
+      "Panelized construction",
+      "Site-built construction",
+      "Hybrid construction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the process of changing the chemical composition of a material?",
+    "options": [
+      "Ceramics",
+      "Metallurgy",
+      "Composites",
+      "Polymers"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In construction technology, what is the term for the process of designing a building to withstand seismic activity?",
+    "question": "In construction technology, what is the term for the process of constructing a building using a combination of site-built and modular components?",
     "options": [
-      "Seismic Design",
-      "Wind Design",
-      "Load Design",
-      "Fatigue Design"
+      "Panelized construction",
+      "Modular construction",
+      "Site-built construction",
+      "Hybrid construction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In electrical technology, what is the term for the circuit that controls the flow of electrical energy?",
+    "options": [
+      "Signal circuit",
+      "Control circuit",
+      "Ground circuit",
+      "Power supply circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of material that is brittle and prone to cracking under stress in materials science?",
+    "options": [
+      "Fibrous material",
+      "Ductile material",
+      "Malleable material",
+      "Brittle material"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In workshop technology, what is the term for the tool used to grind metal surfaces?",
+    "options": [
+      "Drill press",
+      "Grinder",
+      "Sander",
+      "Polisher"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In materials science, what is the term for the process of changing the shape of a material without altering its chemical composition?",
+    "options": [
+      "Recrystallization",
+      "Diffusion",
+      "Transformation",
+      "Deformation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the ratio of the output force to the input force in a machine?",
+    "options": [
+      "Mechanical efficiency",
+      "Mechanical velocity",
+      "Mechanical power",
+      "Mechanical advantage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the personal protective equipment used to protect workers from falling objects in construction technology?",
+    "options": [
+      "Hard hat",
+      "Safety glasses",
+      "Steel-toed boots",
+      "Earplugs"
     ],
     "correctIndex": 0
   }

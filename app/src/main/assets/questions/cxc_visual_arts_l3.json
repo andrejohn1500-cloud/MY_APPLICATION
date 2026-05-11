@@ -1,42 +1,102 @@
 [
   {
-    "question": "Which principle of design refers to the way an artist uses shape, size, and placement to create a sense of balance?",
+    "question": "Which of the following principles of design refers to the use of contrast to create a sense of visual interest?",
     "options": [
-      "Proportion",
       "Balance",
-      "Movement",
-      "Emphasis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Who is the famous Caribbean artist known for his watercolor paintings of Jamaican landscapes?",
-    "options": [
-      "Hilton Dias",
-      "Errol Lloyd",
-      "Edna Manley",
-      "Albert Chettah"
+      "Emphasis",
+      "Contrast",
+      "Proportion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which element of art refers to the use of color to create a specific mood or atmosphere?",
+    "question": "Which of the following art movements emphasized the use of everyday objects and consumer culture in art?",
     "options": [
-      "Texture",
-      "Value",
-      "Space",
-      "Color"
+      "Fauvism",
+      "Art Nouveau",
+      "Pop Art",
+      "Expressionism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the arrangement of visual elements in a composition to create a sense of harmony?",
+    "options": [
+      "Layout",
+      "Composition",
+      "Arrangement",
+      "Display"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a sculpture that is created by shaping a material into a three-dimensional shape?",
+    "options": [
+      "Sculpture",
+      "Drawing",
+      "Printmaking",
+      "Painting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following art movements emphasized the use of fantasy and imagination in art?",
+    "options": [
+      "Fauvism",
+      "Pop Art",
+      "Expressionism",
+      "Surrealism"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which principle of design refers to the way an artist uses shape, size, and placement to create a sense of balance?",
+    "question": "Who is a Barbadian artist known for her paintings of Barbadian landscapes and still lifes?",
     "options": [
-      "Movement",
+      "Sydney Stovell",
+      "Albert Marryshow",
+      "Errol Lloyd",
+      "Beryl McBurnie"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following principles of design refers to the placement of visual elements to draw attention?",
+    "options": [
       "Balance",
+      "Movement",
       "Emphasis",
       "Proportion"
     ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the cultural and historical context of art?",
+    "options": [
+      "Art Theory",
+      "Art Criticism",
+      "Art Appreciation",
+      "Art History"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the arrangement of visual elements in a composition to create a sense of movement?",
+    "options": [
+      "Composition",
+      "Movement",
+      "Display",
+      "Arrangement"
+    ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the use of a single color or a limited palette of colors in a painting?",
+    "options": [
+      "Chromatic",
+      "Polychromatic",
+      "Tinted",
+      "Monochromatic"
+    ],
+    "correctIndex": 2
   }
 ]

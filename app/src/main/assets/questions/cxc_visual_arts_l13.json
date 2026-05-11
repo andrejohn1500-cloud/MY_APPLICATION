@@ -1,12 +1,62 @@
 [
   {
-    "question": "Which principle of design refers to the repetition of similar elements in a work of art to create a specific effect or mood?",
+    "question": "The use of shapes, lines, and forms to create a sense of movement or energy in a two-dimensional artwork is known as?",
     "options": [
-      "Repetition",
-      "Harmony",
-      "Movement",
-      "Emphasis"
+      "Composition",
+      "Texture",
+      "Color",
+      "Value"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "The style of sculpture characterized by the use of abstract forms and a focus on the emotional expression of the artist is known as?",
+    "options": [
+      "Abstract Expressionism",
+      "Surrealism",
+      "Fauvism",
+      "Cubism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following art movements is characterized by the use of geometric shapes and a focus on the viewer's experience?",
+    "options": [
+      "Kubist Movement",
+      "Abstract Expressionist Movement",
+      "Impressionist Movement",
+      "Expressionist Movement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The style of sculpture characterized by the use of abstract forms and a focus on the emotional expression of the artist is known as?",
+    "options": [
+      "Abstract Expressionism",
+      "Cubism",
+      "Surrealism",
+      "Fauvism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The term used to describe the quality of an object's surface that can be seen under magnification is known as?",
+    "options": [
+      "Value",
+      "Surface texture",
+      "Color",
+      "Pattern"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of printmaking, what is the term for the process of applying ink to a printing plate?",
+    "options": [
+      "Screen printing",
+      "Relief printing",
+      "Lithography",
+      "Etching"
+    ],
+    "correctIndex": 3
   }
 ]

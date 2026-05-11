@@ -1,72 +1,102 @@
 [
   {
-    "question": "The Sandals Resorts International chain is a well-known Caribbean brand, what type of accommodations does it offer?",
+    "question": "The development of tourism in Grenada has been influenced by the country's geographical features and natural resources. Which of the following geographical features is NOT a primary motivator for tourism in the country?",
     "options": [
-      "Luxury boutique hotels",
-      "Eco-lodges and eco-resorts",
-      "All-inclusive resorts",
-      "Budget-friendly hostels"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The development of tourism in the Caribbean has led to the growth of a number of different types of transportation, what are some of the key types of transportation in the region?",
-    "options": [
-      "Rail travel and public transportation",
-      "Horseback riding and horse-drawn carriages",
-      "Air travel, sea travel, and road travel",
-      "Cycling and walking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Caribbean is home to a rich and diverse cultural heritage, what are some of the key cultural attractions in the region?",
-    "options": [
-      "National parks and wildlife reserves",
-      "Historic sites, museums, and festivals",
-      "Golf courses and casinos",
-      "Beaches and water sports"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
-    "options": [
-      "Rail travel and public transportation",
-      "Air travel, sea travel, and road travel",
-      "Cycling and walking",
-      "Horseback riding and horse-drawn carriages"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
-    "options": [
-      "Rail travel and public transportation",
-      "Cycling and walking",
-      "Air travel, sea travel, and road travel",
-      "Horseback riding and horse-drawn carriages"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
-    "options": [
-      "Horseback riding and horse-drawn carriages",
-      "Cycling and walking",
-      "Air travel, sea travel, and road travel",
-      "Rail travel and public transportation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of eco-tourism is becoming increasingly popular in the Caribbean, what are some of the key characteristics of eco-tourism?",
-    "options": [
-      "Mass tourism and large crowds",
-      "Luxury and high-end experiences",
-      "Themed parks and attractions",
-      "Environmental conservation, sustainable practices, and local community involvement"
+      "Island nation and tropical climate",
+      "Volcanic regions and geothermal hotspots",
+      "Beaches and coastal areas",
+      "Mountainous terrain and rugged landscapes"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "The development of tourism in the Bahamas has been influenced by the country's geographical features and natural resources. Which of the following geographical features is NOT a primary motivator for tourism in the country?",
+    "options": [
+      "Coral reefs and marine biodiversity",
+      "Beaches and coastal areas",
+      "Mountainous terrain and rugged landscapes",
+      "Island nation and tropical climate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in Montserrat has been influenced by the country's historical sites and cultural attractions. Which of the following historical sites is NOT a primary tourist destination on the island?",
+    "options": [
+      "The Montserrat Volcano Observatory and its geological activity",
+      "The Montserrat National Trust and its cultural exhibits",
+      "The Geralds",
+      "The Little Bay and its picturesque harbor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in the Turks and Caicos Islands has been influenced by the country's geographical features and natural resources. Which of the following geographical features is NOT a primary motivator for tourism in the country?",
+    "options": [
+      "Beaches and coastal areas",
+      "Island nation and tropical climate",
+      "Mountainous terrain and rugged landscapes",
+      "Coral reefs and marine biodiversity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in St. Vincent and the Grenadines has been influenced by the country's historical sites and cultural attractions. Which of the following historical sites is NOT a primary tourist destination on the island?",
+    "options": [
+      "The St. Vincent Museum and its cultural exhibits",
+      "The Arnos Vale Botanical Gardens and its tropical flora",
+      "The Kingstown Botanical Gardens",
+      "The Fort Charlotte and its colonial history"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in St. Lucia has been influenced by the country's historical sites and cultural attractions. Which of the following historical sites is NOT a primary tourist destination on the island?",
+    "options": [
+      "The Soufri\u00e8re Sulphur Springs and its geothermal activity",
+      "The St. Lucia Botanical Gardens and its tropical flora",
+      "The Pigeon Island National Landmark",
+      "The Marigot Bay and its picturesque harbor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in the Cayman Islands has been influenced by the country's geographical features and natural resources. Which of the following geographical features is NOT a primary motivator for tourism in the country?",
+    "options": [
+      "Mountainous terrain and rugged landscapes",
+      "Beaches and coastal areas",
+      "Coral reefs and marine biodiversity",
+      "Island nation and tropical climate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The development of tourism in St. Eustatius has been influenced by the country's historical sites and cultural attractions. Which of the following historical sites is NOT a primary tourist destination on the island?",
+    "options": [
+      "The Fort Oranje and its colonial history",
+      "The Oranje Bay",
+      "The St. Eustatius National Museum and its cultural exhibits",
+      "The Quill National Park and its unique geology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of 'Caribbean' is often associated with the Rastafarian movement and its emphasis on African culture and identity. Which of the following events is NOT a significant event in the history of the Rastafarian movement?",
+    "options": [
+      "The Marcus Garvey visit to Jamaica in 1935",
+      "The Bob Marley concert at the One Love Peace Concert in 1978",
+      "The coronation of Haile Selassie as Emperor of Ethiopia in 1930",
+      "The Jamaican independence from British colonial rule in 1962"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in Antigua and Barbuda has been influenced by the country's historical sites and cultural attractions. Which of the following historical sites is NOT a primary tourist destination on the island?",
+    "options": [
+      "The Shirley Heights",
+      "The Antigua and Barbuda Museum and its cultural exhibits",
+      "The English Harbour and its picturesque harbor",
+      "The Nelson's Dockyard and its colonial history"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "In technical drawing, what is the term for a symbol that represents a bolt?",
+    "question": "What is the purpose of a datum line in an engineering drawing?",
     "options": [
-      "Rivet symbol",
-      "Nut symbol",
-      "Bolt symbol",
-      "Screw symbol"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In orthographic projection, what is the term for a view that shows the object in a full-face position?",
-    "options": [
-      "Elevation view",
-      "Plan view",
-      "Side view",
-      "Front view"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A building plan is represented with a scale of 1:100. What is the actual distance represented by 1 grid unit?",
-    "options": [
-      "1 meter",
-      "0.5 meters",
-      "2 meters",
-      "0.1 meters"
+      "To establish a reference point for dimensions",
+      "To identify a material",
+      "To define the size of a component",
+      "To indicate a surface finish"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 2D image using a computer-aided design software and a 3D modeling software?",
+    "question": "A developer wants to create a 2D drawing of a simple object using CAD software. Which of the following software would be best suited for this task?",
     "options": [
-      "wireframe modeling",
-      "solid modeling",
-      "surface modeling",
-      "CAD drafting"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "When creating an isometric drawing, what is the term for the method of representing a 3D object as a 2D image?",
-    "options": [
-      "two-thirds angle projection",
-      "one-third angle projection",
-      "30-60-90 triangle projection",
-      "45-45-90 triangle projection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D model using a computer-aided design software?",
-    "options": [
-      "surface modeling",
-      "CAD drafting",
-      "wireframe modeling",
-      "solid modeling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 2D image?",
-    "options": [
-      "rendering",
-      "sketching",
-      "drawing",
-      "drafting"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A dimension is represented as 2 3/4 inches. What is the decimal equivalent of this dimension?",
-    "options": [
-      "2.5 inches",
-      "2.25 inches",
-      "2.75 inches",
-      "2 inches"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a three-dimensional object?",
-    "options": [
-      "orthographic projection",
-      "axonometric projection",
-      "isometric projection",
-      "perspective projection"
+      "SketchUp",
+      "CATIA",
+      "SolidWorks",
+      "Autodesk Inventor"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In CAD, what is the term for a 3D model that is made up of connected surfaces and solids?",
+    "question": "A building drawing is drawn to a scale of 1:10. What is the scale factor?",
     "options": [
-      "Solid model",
-      "Mixed model",
-      "Surface model",
-      "Wireframe model"
+      "1:20",
+      "1:5",
+      "1:50",
+      "1:10"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A developer wants to create a 3D model of a complex object using CAD software. Which of the following is not a requirement for creating a 3D model?",
+    "options": [
+      "A 3D view of the object",
+      "A 2D drawing of the object",
+      "A list of the object's dimensions",
+      "A list of the object's materials"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A building plan is represented with a scale of 1:50. What is the actual distance represented by 1 grid unit?",
+    "question": "A developer wants to create an assembly drawing of a machine. Which of the following software would be best suited for this task?",
     "options": [
-      "0.04 meters",
-      "0.03 meters",
-      "0.02 meters",
-      "0.01 meters"
+      "CATIA",
+      "SolidWorks",
+      "Autodesk AutoCAD",
+      "Solid Edge"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A dimension is represented as 3 1/4 inches. What is the decimal equivalent of this dimension?",
+    "question": "A sectional view of a building shows a floor plan with a section line that passes through a wall. Which type of section is being represented?",
     "options": [
-      "3.5 inches",
-      "3.75 inches",
-      "3.25 inches",
-      "3 inches"
+      "Plan section",
+      "Oblique section",
+      "Alcisection",
+      "Elevation section"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a datum line in an assembly drawing?",
+    "options": [
+      "To establish a reference point for the assembly's dimensions",
+      "To indicate a surface finish",
+      "To identify a material",
+      "To define the size of a component"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A developer wants to create a 2D drawing of a simple object using CAD software. Which of the following software would be best suited for this task?",
+    "options": [
+      "SolidWorks",
+      "Autodesk Inventor",
+      "SketchUp",
+      "CATIA"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A building plan is represented as a grid system with a scale of 1:10. What is the actual distance represented by 1 grid unit?",
+    "question": "A CAD drawing is used to create a 3D model of an object. What is the primary software used to create the CAD drawing in design applications?",
     "options": [
-      "0.05 meters",
-      "0.2 meters",
-      "0.3 meters",
-      "0.1 meters"
+      "AutoCAD",
+      "Revit",
+      "Catia",
+      "SolidWorks"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "A building plan is represented with a scale of 1:100. What is the actual distance represented by 1 grid unit?",
+    "question": "A CAD system uses a layering system to organize the drawing into separate layers. What is the purpose of the 'surface finish' layer?",
     "options": [
-      "0.1 meters",
-      "2 meters",
-      "0.5 meters",
-      "1 meter"
+      "To represent the drawing's center lines",
+      "To display the drawing's dimensions",
+      "To indicate the drawing's surface finish",
+      "To store the drawing's title block"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "A building plan is represented as a grid system with a scale of 1:20. What is the actual distance represented by 1 grid unit?",
+    "question": "A CAD system uses a layering system to organize the drawing into separate layers. What is the purpose of the 'center lines' layer?",
     "options": [
-      "0.01 meters",
-      "0.05 meters",
-      "0.1 meters",
-      "0.3 meters"
+      "To display the drawing's dimensions",
+      "To represent the drawing's center lines",
+      "To store the drawing's title block",
+      "To indicate the drawing's surface finish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A developer wants to create an engineering drawing of a complex component. Which of the following software would be best suited for this task?",
+    "options": [
+      "SolidWorks",
+      "CATIA",
+      "Autodesk AutoCAD",
+      "Solid Edge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building drawing is drawn to a scale of 1:10. What is the ratio of the actual size to the represented size?",
+    "options": [
+      "20:1",
+      "5:1",
+      "10:1",
+      "50:1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A CAD system uses a geometric dimensioning and tolerancing (GD&T) system to specify the geometric characteristics of a part. What is the purpose of a datum axis?",
+    "options": [
+      "To define the size of a component",
+      "To indicate a surface finish",
+      "To establish a reference axis for the part's dimensions",
+      "To identify a material"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building drawing is used to show the overall plan of a building. What is the primary information contained in the building drawing in terms of layout?",
+    "options": [
+      "Type of roofing used",
+      "Location of rooms, corridors, and staircases",
+      "Location of electrical outlets",
+      "Type of flooring used"
     ],
     "correctIndex": 1
   }

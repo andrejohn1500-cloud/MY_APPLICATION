@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the line that connects the center point of an arc to the endpoint?",
+    "question": "The process of drawing a square is called _____.",
     "options": [
-      "Chord",
-      "Diameter",
-      "Radius",
-      "Circumference"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In orthographic projection, what is the term for the view of an object from the side?",
-    "options": [
-      "End View",
-      "Top View",
-      "Front View",
-      "Side View"
+      "protractor method",
+      "arc method",
+      "radius method",
+      "compass and straightedge method"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a line that is drawn to show the direction of view?",
+    "question": "The method of drawing a hexagon using a compass is called _____.",
     "options": [
-      "Hidden Line",
-      "Center Line",
-      "Direction Line",
-      "Extension Line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In building drawing, what is the term for the process of creating a 2D representation of a 3D object?",
-    "options": [
-      "Orthographic Projection",
-      "Oblique Projection",
-      "Perspective Drawing",
-      "Isometric Projection"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a drawing that shows the different parts of an object?",
-    "options": [
-      "Engineering Drawing",
-      "Sectional View",
-      "Assembly Drawing",
-      "Isometric Drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a line that is drawn to show the direction of view?",
-    "options": [
-      "Hidden Line",
-      "Center Line",
-      "Direction Line",
-      "Extension Line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In orthographic projection, what is the term for the view of an object from above?",
-    "options": [
-      "Front View",
-      "End View",
-      "Side View",
-      "Top View"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a line that is drawn to show the extent of an object?",
-    "options": [
-      "Hidden Line",
-      "Dimension Line",
-      "Extension Line",
-      "Center Line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of view shows the inside of an object?",
-    "options": [
-      "Front View",
-      "Elevation",
-      "Top View",
-      "Sectional View"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of line that is used to show the direction of view?",
-    "options": [
-      "Extension Line",
-      "Direction Line",
-      "Center Line",
-      "Hidden Line"
+      "arc method",
+      "compass and straightedge method",
+      "radius method",
+      "protractor method"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a line that is drawn to show the extent of an object?",
+    "question": "A straight line with no beginning or end is called a _____.",
     "options": [
-      "Hidden Line",
-      "Center Line",
-      "Dimension Line",
-      "Extension Line"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a set of plans?",
-    "options": [
-      "Orthographic Projection",
-      "Detail Drawing",
-      "Assembly Drawing",
-      "Sectional View"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of creating a drawing using a computer?",
-    "options": [
-      "Engineering Design",
-      "Graphic Design",
-      "CAD",
-      "Technical Drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In orthographic projection, what is the term for the view of an object from the front?",
-    "options": [
-      "Front View",
-      "End View",
-      "Top View",
-      "Side View"
+      "limit",
+      "endpoint",
+      "intersection",
+      "termination"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of view that shows an object from a 90-degree angle?",
+    "question": "The process of adding dimensions to a drawing is called _____.",
     "options": [
-      "Oblique View",
-      "Perspective View",
-      "Orthographic View",
-      "Isometric View"
+      "drawing scale",
+      "dimensioning",
+      "drawing proportion",
+      "projection scale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of drawing a circle is called _____.",
+    "options": [
+      "radius method",
+      "arc method",
+      "circumference method",
+      "straight line method"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The method of drawing an object with a hidden view is called _____.",
+    "options": [
+      "sectional view",
+      "hidden line technique",
+      "axonometric projection",
+      "isometric drawing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The method of drawing a circle using a radius is called _____.",
+    "options": [
+      "arc method",
+      "compass method",
+      "circumference method",
+      "radius method"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process of drawing a polygon is called _____.",
+    "options": [
+      "compass and straightedge method",
+      "arc method",
+      "radius method",
+      "protractor method"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The point where two lines meet is called a _____.",
+    "options": [
+      "vertex",
+      "intersection",
+      "termination",
+      "endpoint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The method of drawing a hexagon is called _____.",
+    "options": [
+      "protractor method",
+      "radius method",
+      "compass and straightedge method",
+      "arc method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The method of drawing a rectangle is called _____.",
+    "options": [
+      "arc method",
+      "radius method",
+      "compass and straightedge method",
+      "protractor method"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The point where three or more lines meet is called a _____.",
+    "options": [
+      "termination",
+      "endpoint",
+      "intersection",
+      "vertex"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The method of drawing a circle using a compass is called _____.",
+    "options": [
+      "arc method",
+      "circumference method",
+      "protractor method",
+      "radius method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The method of drawing a circle using a compass and a straightedge is called _____.",
+    "options": [
+      "radius method",
+      "arc method",
+      "protractor method",
+      "compass and straightedge method"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A line that extends infinitely in one direction is called a _____.",
+    "options": [
+      "ray",
+      "line segment",
+      "endpoint",
+      "straight line"
+    ],
+    "correctIndex": 0
   }
 ]

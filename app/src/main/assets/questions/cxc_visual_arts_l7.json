@@ -1,152 +1,152 @@
 [
   {
-    "question": "The term for the way in which the artist uses contrast to create a sense of visual interest or tension in a composition is called what?",
+    "question": "Which of the following art forms involves creating a design or image on a surface by applying paint or ink to a material such as wood or fabric?",
+    "options": [
+      "Sculpture",
+      "Painting",
+      "Printmaking",
+      "Drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the use of warm and cool colors to create a sense of mood and atmosphere in a composition?",
     "options": [
       "Contrast",
-      "Harmony",
-      "Proportion",
-      "Balance"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The term for the use of light and shadow to create a sense of depth and volume in a composition is called what?",
-    "options": [
-      "Atmospheric Perspective",
-      "Linear Perspective",
-      "Chiaroscuro",
-      "Aerial Perspective"
+      "Balance",
+      "Color Harmony",
+      "Proportion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The artistic movement that emphasizes the use of bold, expressive brushstrokes and vivid colors to convey a sense of emotion or feeling is called what?",
+    "question": "The term used to describe the quality of an object's surface that can be felt by touch is known as?",
     "options": [
-      "Expressionism",
-      "Cubism",
-      "Fauvism",
-      "Surrealism"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Caribbean artist known for her vibrant and colorful paintings of Trinidadian Carnival is who?",
-    "options": [
-      "Hilton Dias",
-      "Althea McNish",
-      "Errol Lloyd",
-      "Malcolm Jack"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term for the use of different textures and materials to add depth and interest to a composition is called what?",
-    "options": [
-      "Mosaic",
-      "Multilayering",
-      "Collage",
-      "Assemblage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Caribbean artist known for his sculptures of everyday objects is who?",
-    "options": [
-      "Errol Lloyd",
-      "Althea McNish",
-      "Hilton Dias",
-      "Malcolm Jack"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The term for the way in which the artist uses line to create a sense of movement or energy in a composition is called what?",
-    "options": [
-      "Dynamic Line",
-      "Continuous Line",
-      "Broken Line",
-      "Static Line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The artistic movement that emphasizes the use of fantasy and imagination to create a sense of wonder or awe is called what?",
-    "options": [
-      "Cubism",
-      "Fauvism",
-      "Abstract Expressionism",
-      "Surrealism"
+      "Value",
+      "Color",
+      "Pattern",
+      "Texture"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The artistic movement that emphasizes the use of bold, expressive brushstrokes and vivid colors to convey a sense of emotion or feeling is called what?",
+    "question": "What is the term for the use of value to create a sense of depth and space in a composition?",
     "options": [
-      "Fauvism",
-      "Cubism",
-      "Expressionism",
-      "Surrealism"
+      "Line",
+      "Value",
+      "Shape",
+      "Texture"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "The Caribbean artist known for his vibrant and expressive paintings of Jamaican jazz musicians is who?",
+    "question": "Which of the following art movements is characterized by a focus on distorting forms and breaking free from traditional techniques?",
     "options": [
-      "Hilton Dias",
-      "Althea McNish",
-      "Errol Lloyd",
-      "Malcolm Jack"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The artistic movement that emphasizes the use of fantasy and imagination to create a sense of wonder or awe is called what?",
-    "options": [
-      "Surrealism",
+      "Impressionism",
+      "Realism",
       "Cubism",
-      "Fauvism",
       "Abstract Expressionism"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The Caribbean artist known for his sculptures of abstract forms is who?",
+    "question": "Who is the Trinidadian artist known for her sculptures that explore the relationship between nature and human experience?",
     "options": [
-      "Malcolm Jack",
-      "Hilton Dias",
-      "Althea McNish",
-      "Errol Lloyd"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Who is the famous Caribbean artist known for his sculptures of African masks?",
-    "options": [
-      "Errol Lloyd",
+      "Erna Brodber",
       "Edna Manley",
-      "Hilton Dias",
-      "Albert Chettah"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The Caribbean artist known for her mixed-media collages is who?",
-    "options": [
-      "Althea McNish",
-      "Errol Lloyd",
-      "Malcolm Jack",
-      "Hilton Dias"
+      "Eldon Garnett",
+      "Laura Facey"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The term for the use of different shapes and forms to create a sense of balance or harmony in a composition is called what?",
+    "question": "What is the term for the use of lines to create a sense of movement and energy in a composition?",
     "options": [
-      "Geometric Shape",
-      "Abstract Shape",
-      "Organic Shape",
-      "Amorphous Shape"
+      "Value Movement",
+      "Line Movement",
+      "Shape Movement",
+      "Texture Movement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which principle of design is concerned with the way elements are arranged to create a sense of balance?",
+    "options": [
+      "Balance",
+      "Unity",
+      "Proportion",
+      "Emphasis"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which element of art is characterized by the arrangement of shapes, lines, and forms to create a composition?",
+    "options": [
+      "Color",
+      "Texture",
+      "Composition",
+      "Value"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The term used to describe the arrangement of elements in art to create a sense of movement or energy is known as?",
+    "options": [
+      "Harmony",
+      "Movement",
+      "Balance",
+      "Proportion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In painting, the process of applying thin layers of transparent paint to achieve a glaze effect is known as?",
+    "options": [
+      "Glazing",
+      "Wash",
+      "Scumbling",
+      "Impasto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the use of shapes to create a sense of balance and harmony in a composition?",
+    "options": [
+      "Line Harmony",
+      "Shape Harmony",
+      "Value Harmony",
+      "Texture Harmony"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following art movements is characterized by a focus on capturing the human form and exploring the relationship between artist and subject?",
+    "options": [
+      "Impressionism",
+      "Realism",
+      "Cubism",
+      "Abstract Expressionism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the use of texture to create a sense of interest and engagement in a composition?",
+    "options": [
+      "Shape",
+      "Line",
+      "Value",
+      "Texture"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a visual arts exhibition in the Caribbean?",
+    "options": [
+      "To explain the historical context of an artwork",
+      "To showcase Caribbean art and culture",
+      "To describe the materials and techniques used",
+      "To provide a subjective interpretation of an artwork"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,21 +1,71 @@
 [
   {
-    "question": "Which of the following is an example of a 'natural attraction' in the Caribbean?",
+    "question": "Which of the following is an example of a tourist attraction in Trinidad and Tobago?",
     "options": [
-      "The Dunn's River Falls in Jamaica",
-      "A historic site such as the Taino Petroglyphs",
-      "A cultural attraction such as Carnival",
-      "A recreational activity such as snorkeling"
+      "The Fort King George",
+      "The Pitch Lake",
+      "The Queen's Park Oval",
+      "The Emperor Valley Zoo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the first major cruise ship terminal in the Caribbean?",
+    "options": [
+      "Port Royal Cruise Ship Terminal",
+      "Kingston Cruise Ship Terminal",
+      "Nassau Cruise Ship Terminal",
+      "Montego Bay Cruise Ship Terminal"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the main goal of sustainable tourism in the Caribbean?",
+    "question": "Which of the following is an example of a tourist attraction in the Bahamas?",
     "options": [
-      "To increase tourist arrivals and revenue",
-      "To maximize economic growth and profit",
-      "To promote cultural heritage and traditions",
-      "To minimize the negative impacts of tourism on the environment and local communities"
+      "The Queen's Staircase",
+      "The Straw Market",
+      "Fort Fincastle",
+      "Atlantis, Paradise Island"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the impact of tourism on the social structure of a destination?",
+    "options": [
+      "Environmental impact",
+      "Economic impact",
+      "Social impact",
+      "Cultural impact"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the cultural exchange between tourists and locals in the Caribbean?",
+    "options": [
+      "Cultural exchange",
+      "Cultural immersion",
+      "Cultural sensitivity",
+      "Cultural awareness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of a tourism master plan?",
+    "options": [
+      "To control tourism in a destination",
+      "To guide the development of tourism in a destination",
+      "To regulate tourism in a destination",
+      "To promote tourism in a destination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of accommodation that offers guests a high level of luxury and service?",
+    "options": [
+      "Guesthouse",
+      "Bed-and-breakfast",
+      "Hostel",
+      "Luxury resort"
     ],
     "correctIndex": 3
   }

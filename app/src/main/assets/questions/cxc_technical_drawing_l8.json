@@ -1,61 +1,81 @@
 [
   {
-    "question": "What is the term used to describe the method of drawing a plan view of a building on a small scale?",
+    "question": "The method of representing an assembly of parts is called _____.",
     "options": [
-      "Elevation drawing",
-      "Site plan",
-      "Block plan",
-      "Floor plan"
+      "building drawing",
+      "engineering drawing",
+      "technical drawing",
+      "assembly drawing"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A building drawing that shows the location of all the rooms in a building is also known as a ?",
+    "question": "In geometric construction, what is the term for the process of drawing a line or shape using a ruler and pencil?",
     "options": [
-      "Floor plan",
-      "Block plan",
-      "Elevation drawing",
-      "Site plan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what does the acronym 'LWP' stand for?",
-    "options": [
-      "Lightweight part",
-      "Large workpiece",
-      "Linear weight profile",
-      "Layered workpiece"
+      "Drawing a line",
+      "Dividing a line",
+      "Creating a polygon",
+      "Making an angle"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term used to describe the process of adding a legend to a drawing?",
+    "question": "In orthographic projection, what is the term for the view that shows the front of an object?",
     "options": [
-      "Adding a key",
-      "Adding a scale",
-      "Adding a title block",
-      "Adding a legend"
+      "Perspective view",
+      "Top view",
+      "Front view",
+      "Side view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A datum point is typically drawn ______ a feature of an object.",
+    "options": [
+      "To the side of",
+      "Above or below",
+      "Far from",
+      "Near to"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In CAD, what does the acronym '3D' stand for?",
+    "question": "A building plan is typically drawn at what scale?",
     "options": [
-      "Three-Dimensional Drawing",
-      "Two-dimensional",
-      "Three-Dimensional Design",
-      "Three-dimensional"
+      "1:500 or 1:1000",
+      "1:2000 or 1:5000",
+      "1:100 or 1:50",
+      "1:20 or 1:10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building section is typically drawn at what angle to the main view?",
+    "options": [
+      "120 degrees",
+      "60 degrees",
+      "90 degrees",
+      "45 degrees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In orthographic projection, what is the term for the view that shows the top of an object?",
+    "options": [
+      "Perspective view",
+      "Front view",
+      "Side view",
+      "Top view"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A building drawing that shows the front, side and rear elevations of a building is also known as a ?",
+    "question": "A building plan is typically drawn ______ a grid pattern.",
     "options": [
-      "Floor plan",
-      "Block plan",
-      "Elevation drawing",
-      "Site plan"
+      "Above or below",
+      "Off",
+      "On",
+      "To the side of"
     ],
     "correctIndex": 2
   }

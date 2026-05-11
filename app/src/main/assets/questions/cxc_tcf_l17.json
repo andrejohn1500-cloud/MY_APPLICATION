@@ -1,152 +1,152 @@
 [
   {
-    "question": "In workshop technology, what is the term for the process of shaping a workpiece using a rotating sanding tool?",
+    "question": "In Caribbean vocational education, what is the term for the process of developing and implementing programs to improve the employability of school leavers, including work experience and job placement?",
     "options": [
-      "Buffing",
-      "Sanding",
-      "Grinding",
-      "Polishing"
+      "Skills Planning",
+      "Youth Employment Strategy",
+      "Labour Market Analysis",
+      "Workforce Development"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In workshop technology, what is the term for the process of shaping a workpiece using a rotating sanding tool with a high-speed motor?",
+    "question": "In technical drawing, what is the term for a line that indicates a break in a solid object, allowing for the depiction of the interior of the object?",
     "options": [
-      "Grinding",
-      "Buffing",
-      "Polishing",
-      "Sawing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In electrical technology, what type of electrical circuit is used in a commercial building to supply power to a single appliance?",
-    "options": [
-      "Ring Circuit",
-      "Radial Circuit",
-      "Delta Circuit",
-      "Wye Circuit"
+      "Extension Line",
+      "Section Line",
+      "Hatch Line",
+      "Centre Line"
     ],
     "correctIndex": 1
   },
   {
-    "question": "According to the Caribbean vocational education syllabus, what is the maximum number of hours required for a student to complete a technical drawing course at the CXC level?",
+    "question": "In safety, what is the term for the process of identifying and mitigating the potential risks associated with a particular activity or process?",
     "options": [
-      "300 hours",
-      "280 hours",
-      "250 hours",
-      "320 hours"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under flexural stress?",
-    "options": [
-      "Shear Strength",
-      "Compressive Strength",
-      "Tensile Strength",
-      "Flexural Strength"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In electrical technology, what type of electrical circuit is used in a commercial building to supply power to multiple appliances?",
-    "options": [
-      "Polyphase Circuit",
-      "Single-Phase Circuit",
-      "Three-Phase Circuit",
-      "Delta Circuit"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of electromagnetic waves in a system?",
-    "options": [
-      "Hydraulics",
-      "Thermodynamics",
-      "Electromagnetics",
-      "Pneumatics"
+      "Risk Control",
+      "Risk Management",
+      "Risk Identification",
+      "Risk Assessment"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to a single light fixture?",
+    "question": "In technical drawing, what is the term for the process of creating a detailed drawing of a building or structure?",
     "options": [
-      "Wye Circuit",
-      "Radial Circuit",
-      "Delta Circuit",
-      "Ring Circuit"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a rigid fastener?",
-    "options": [
-      "Bonding",
-      "Soldering",
-      "Screw Fastening",
-      "Welding"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a mechanical fastener?",
-    "options": [
-      "Fastening",
-      "Bonding",
-      "Soldering",
-      "Welding"
+      "Architectural Drawing",
+      "Design Drawing",
+      "Detail Drawing",
+      "Engineering Drawing"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to lighting and small appliances?",
+    "question": "In technical drawing, what is the term for the process of creating a detailed drawing of a building or structure, including elevations and floor plans?",
     "options": [
-      "Radial Circuit",
-      "Delta Circuit",
-      "Wye Circuit",
-      "Ring Circuit"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under shear stress?",
-    "options": [
-      "Flexural Strength",
-      "Tensile Strength",
-      "Compressive Strength",
-      "Shear Strength"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In mechanical engineering, what is the term for the study of the behavior of heat transfer in a system?",
-    "options": [
-      "Electromagnetics",
-      "Pneumatics",
-      "Thermodynamics",
-      "Hydraulics"
+      "Detail Drawing",
+      "Engineering Drawing",
+      "Architectural Drawing",
+      "Design Drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In workshop technology, what is the term for the process of shaping a workpiece using a rotating cutting tool with a carbide-tipped edge?",
+    "question": "In materials science, what is the term for the process of creating materials with unique properties, such as high strength or low density, using advanced manufacturing techniques such as 3D printing?",
     "options": [
-      "Honing",
-      "Grinding",
-      "Buffing",
-      "Polishing"
+      "Materials Engineering",
+      "Materials Research",
+      "Materials Design",
+      "Materials Development"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In electrical technology, what is the term for the measure of the amount of power transferred per unit time?",
+    "options": [
+      "Power",
+      "Resistance",
+      "Voltage",
+      "Current"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In electrical technology, what is the term for the device that converts electrical energy into heat energy?",
+    "question": "In technical drawing, what is the term for the process of creating a detailed drawing of a mechanical component or assembly?",
     "options": [
-      "Inductor",
-      "Transformer",
-      "Capacitor",
-      "Resistor"
+      "Layout Drawing",
+      "Component Drawing",
+      "Detail Drawing",
+      "Assembly Drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of developing and implementing programs to improve the skills and knowledge of the workforce, including apprenticeships and on-the-job training?",
+    "options": [
+      "Employer Engagement",
+      "Apprenticeships and On-the-Job Training",
+      "Labour Market Analysis",
+      "Skills Planning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In workshop technology, what is the type of drill used for drilling large holes in metal, characterized by a rotating cutting edge and a heavy-duty design, including a drill press?",
+    "options": [
+      "Cordless Drill",
+      "Hand Drill",
+      "Drill Press",
+      "Power Drill"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In construction technology, what is the term for the process of building or repairing structures using materials such as wood, steel, or aluminum?",
+    "options": [
+      "Roofing",
+      "Masonry",
+      "Carpentry",
+      "Glazing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the process of designing and optimizing the performance of a mechanical system, including the use of finite element analysis (FEA)?",
+    "options": [
+      "Computer-Aided Design (CAD)",
+      "Computer-Aided Manufacturing (CAM)",
+      "Computer-Aided Engineering (CAE)",
+      "Finite Element Analysis (FEA)"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of identifying the needs and requirements of employers and the workforce, and developing programs to meet those needs?",
+    "options": [
+      "Labour Market Analysis",
+      "Skills Planning",
+      "Workforce Development",
+      "Employer Engagement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In materials science, what is the term for the process of creating materials with unique properties, such as self-healing or anti-bacterial properties?",
+    "options": [
+      "Materials Research",
+      "Materials Design",
+      "Materials Engineering",
+      "Materials Development"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In construction technology, what is the term for the process of planning and managing the construction process, including budgeting, scheduling, and resource allocation?",
+    "options": [
+      "Construction Management",
+      "Building Management",
+      "Site Management",
+      "Project Management"
+    ],
+    "correctIndex": 0
   }
 ]

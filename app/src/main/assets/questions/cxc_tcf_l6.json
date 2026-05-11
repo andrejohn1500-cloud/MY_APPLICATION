@@ -1,152 +1,152 @@
 [
   {
-    "question": "The modulus of elasticity of a material is 200 GPa. What does this indicate?",
+    "question": "What is the term for the study of the design, construction, and operation of engines in mechanical engineering?",
     "options": [
-      "Low Density",
-      "Low Stiffness",
-      "High Hardness",
-      "High Stiffness"
+      "Mechanics",
+      "Pneumatics",
+      "Electronics",
+      "Thermodynamics"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A gear has a pitch circle diameter of 300 mm and a pressure angle of 25\u00b0. What is its dedendum?",
+    "question": "What is the primary function of a first aid box in safety?",
     "options": [
-      "10 mm",
-      "5 mm",
-      "7.5 mm",
-      "15 mm"
+      "To store hazardous materials",
+      "To provide fire extinguishers",
+      "To provide immediate medical treatment in case of an emergency",
+      "To keep records of accidents"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the resistance of a material to deformation under stress?",
+    "question": "What is the term for the study of the design, construction, and operation of mechanical systems in mechanical engineering?",
     "options": [
-      "Toughness",
-      "Density",
-      "Stiffness",
-      "Hardness"
+      "Thermodynamics",
+      "Pneumatics",
+      "Mechanics",
+      "Electronics"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The modulus of elasticity of a material is 200 GPa. What does this indicate?",
+    "question": "What is the term for the process of joining two or more materials together using heat in workshop technology?",
     "options": [
-      "High Hardness",
-      "Low Density",
-      "High Stiffness",
-      "Low Stiffness"
+      "Soldering",
+      "Glazing",
+      "Welding",
+      "Brazing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of removing the surface layer of a material using a sharp tool?",
+    "question": "What is the term for a material that can be drawn out to a thin wire without breaking in materials science?",
     "options": [
-      "Polishing",
-      "Drilling",
-      "Grinding",
-      "Tapping"
+      "Malleable",
+      "Ductile",
+      "Brittle",
+      "Elastic"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A technical drawing sheet size of A1 is equivalent to a sheet size of 840 x 1180 mm. What is the approximate sheet size of A2?",
+    "question": "What is the term for the process of joining two or more materials together using a chemical reaction in workshop technology?",
     "options": [
-      "860 x 1180 mm",
-      "840 x 600 mm",
-      "840 x 1180 mm",
-      "840 x 1180 mm"
+      "Brazing",
+      "Glazing",
+      "Soldering",
+      "Welding"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 45\u00b0 incline?",
+    "question": "What is the term for the process of using a machine to shape a material in workshop technology?",
     "options": [
-      "150 N",
-      "100 N",
-      "70.7 N",
-      "50 N"
+      "Machining",
+      "Welding",
+      "Soldering",
+      "Drilling"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of joining two metal pieces by melting and flowing?",
+    "question": "What is the term for a material that can be molded or shaped without breaking in materials science?",
     "options": [
-      "Brazing",
-      "Soldering",
-      "Fusion",
-      "Welding"
+      "Ductile",
+      "Brittle",
+      "Elastic",
+      "Malleable"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A gear has a pitch circle diameter of 300 mm and a pressure angle of 20\u00b0. What is its dedendum?",
+    "question": "What is the term for the study of the design, construction, and operation of electronic systems in electrical technology?",
     "options": [
-      "6 mm",
-      "4 mm",
-      "10 mm",
-      "8 mm"
+      "Pneumatics",
+      "Thermodynamics",
+      "Mechanics",
+      "Electronics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a thermometer in electrical technology?",
+    "options": [
+      "To measure resistance",
+      "To measure current",
+      "To measure voltage",
+      "To measure temperature"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the design, construction, and operation of electrical systems in electrical technology?",
+    "options": [
+      "Electronics",
+      "Thermodynamics",
+      "Electrical engineering",
+      "Mechanical engineering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a safety helmet in safety?",
+    "options": [
+      "To protect the head from injury in case of a fall",
+      "To provide eye protection",
+      "To provide fire extinguishers",
+      "To keep records of accidents"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A gear has a pitch circle diameter of 200 mm and a pressure angle of 20\u00b0. What is its clearance?",
+    "question": "What is the term for the process of using a machine to cut a material in workshop technology?",
     "options": [
-      "1.5 mm",
-      "2 mm",
-      "4 mm",
-      "3 mm"
+      "Drilling",
+      "Machining",
+      "Welding",
+      "Soldering"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a hard hat in safety?",
+    "options": [
+      "To provide fire extinguishers",
+      "To protect the head from injury in case of a fall",
+      "To keep records of accidents",
+      "To provide eye protection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a material that can be molded or shaped without breaking in materials science?",
+    "options": [
+      "Malleable",
+      "Ductile",
+      "Brittle",
+      "Elastic"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "A material has a tensile strength of 500 MPa and a yield strength of 300 MPa. What is its factor of safety?",
-    "options": [
-      "2.00",
-      "1.33",
-      "1.67",
-      "3.00"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A concrete mix has a water-cement ratio of 0.6. What does this indicate?",
-    "options": [
-      "High Workability",
-      "Low Workability",
-      "Poor Workability",
-      "Good Workability"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A building has a height of 5 stories, each with a floor area of 500 m^2. What is the total floor area?",
-    "options": [
-      "1,000 m^2",
-      "5,000 m^2",
-      "2,500 m^2",
-      "500 m^2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The modulus of rupture of a material is 100 MPa. What does this indicate?",
-    "options": [
-      "High Hardness",
-      "Low Strength",
-      "High Strength",
-      "Low Density"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A material has a tensile strength of 500 MPa and a yield strength of 300 MPa. What is its factor of safety?",
-    "options": [
-      "1.33",
-      "3.00",
-      "1.67",
-      "2.00"
-    ],
-    "correctIndex": 2
   }
 ]

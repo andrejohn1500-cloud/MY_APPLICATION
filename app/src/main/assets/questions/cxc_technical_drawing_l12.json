@@ -1,151 +1,151 @@
 [
   {
-    "question": "In dimensioning, what is the term for a line that indicates the location of a dimension?",
+    "question": "In an engineering drawing, what is the term for the symbol used to indicate a bolt in the drawing?",
     "options": [
-      "Extension line",
-      "Arrow line",
-      "Leader line",
-      "Dimension line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In isometric drawing, what is the term for a line that connects two points on a grid?",
-    "options": [
-      "Grid line",
-      "Reference line",
-      "Axis line",
-      "Centre line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In isometric drawing, what is the term for a line that connects two points on a surface?",
-    "options": [
-      "Grid line",
-      "Centre line",
-      "Surface line",
-      "Axis line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In technical drawing, what is the term for a drawing that shows the exploded view of a building?",
-    "options": [
-      "Assembly drawing",
-      "Machine drawing",
-      "Building drawing",
-      "Engine drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a drawing that shows the exploded view of an assembly?",
-    "options": [
-      "Assembly drawing",
-      "Engineering drawing",
-      "Sectional drawing",
-      "Building drawing"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a break line in a technical drawing?",
-    "options": [
-      "It is used to show the direction of motion",
-      "It is used to indicate a centre line",
-      "It is used to indicate the size of an object",
-      "It is used to indicate a break in a view."
+      "Square with a cross",
+      "Square with a centre dot",
+      "Circle with a centre dot",
+      "Circle with a cross"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In engineering drawing, what is the term for a symbol that represents a screw thread?",
+    "question": "A building elevation is typically drawn to the horizontal plane of the main view. What is the primary purpose of the elevation?",
     "options": [
-      "Nut symbol",
-      "Thread symbol",
-      "Bolt symbol",
-      "Screw symbol"
+      "To show the location of electrical outlets",
+      "To show the exterior of the building",
+      "To show the type of flooring used",
+      "To show the interior of the building"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In CAD, what is the term for a set of commands that provide a way to create and edit 2D objects?",
+    "question": "A building drawing is used to show the overall plan of a building. What is the primary scale used for the building drawing?",
     "options": [
-      "Draw tools",
-      "View tools",
-      "Modify tools",
-      "Format tools"
+      "1:50",
+      "1:200",
+      "1:100",
+      "1:50"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In CAD, what is the term for a 3D model that is made up of connected solids?",
+    "question": "A dimension is drawn to show the distance between two points in a drawing. What is the primary unit of measurement used for the dimension in architectural drawings?",
     "options": [
-      "Surface model",
-      "Wireframe model",
-      "Hidden line removed model",
-      "Solid model"
+      "Fractional Unit",
+      "Decimal Unit",
+      "Metric Unit",
+      "Imperial Unit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an orthographic projection, what is the name of the view that shows the front side of an object?",
+    "options": [
+      "Plan View",
+      "Front View",
+      "Top View",
+      "Side View"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the method of drawing an object as if it is viewed from 30\u00b0 to the right of the main view?",
+    "options": [
+      "Perspective Projection",
+      "Isometric Projection",
+      "Axonometric Projection",
+      "Oblique Projection"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term used to describe the process of adding a key to a drawing?",
+    "question": "A dimension is drawn to show the distance between two points in a drawing. What is the primary rule for the placement of dimensions in terms of clarity?",
     "options": [
-      "Adding a legend",
-      "Adding a scale",
-      "Adding a title block",
-      "Adding a key"
+      "Dimensions should be placed in a clear and unambiguous manner",
+      "Dimensions should be placed on the edge of the object",
+      "Dimensions should be placed outside the object",
+      "Dimensions should be placed randomly"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In an engineering drawing, what is the term for the symbol used to indicate a washer in the drawing?",
+    "options": [
+      "Circle with a dot",
+      "Square with a cross",
+      "Circle with a centre cross",
+      "Square with a centre dot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a building drawing, what is the term for the view that shows the layout of a building on a site?",
+    "options": [
+      "Floor plan",
+      "Elevation",
+      "Section",
+      "Site plan"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term used to describe the method of drawing a plan view of a building as a cut through it?",
+    "question": "In an assembly drawing, what is the name of the diagram that shows the assembly of the parts with the parts labelled?",
     "options": [
-      "Elevation drawing",
-      "Sectional view",
-      "Block plan",
-      "Plan view"
+      "Bill of Materials",
+      "Exploded View",
+      "Parts List",
+      "Assembly Diagram"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A dimension is drawn to show the distance between two points in a drawing. What is the primary rule for the placement of dimensions?",
+    "options": [
+      "Dimensions should be placed inside the object or on the centre line",
+      "Dimensions should be placed outside the object",
+      "Dimensions should be placed on the edge of the object",
+      "Dimensions should be placed on the surface of the object"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A CAD drawing is used to create a 2D model of an object. What is the primary software used to create the CAD drawing?",
+    "options": [
+      "SolidWorks",
+      "Revit",
+      "Catia",
+      "AutoCAD"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In CAD, what is the term for a set of commands that automate a sequence of steps?",
+    "question": "A sectional view is drawn to show the interior details of a building wall. What is the primary purpose of the line used to indicate the cutting plane?",
     "options": [
-      "Subroutine",
-      "Script",
-      "Macro",
-      "Procedure"
+      "To indicate the cutting plane",
+      "To show a dimension",
+      "To show the location of a bolt",
+      "To indicate a change in material"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for a line that indicates the boundary of a view in a technical drawing?",
+    "question": "A geometric construction is used to draw a triangle with a base of 6cm and a height of 8cm. What is the length of the hypotenuse of the triangle?",
     "options": [
-      "Grid line",
-      "Reference line",
-      "Extension line",
-      "Boundary line"
+      "10cm",
+      "12cm",
+      "4cm",
+      "8cm"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "In technical drawing, what is the term for a symbol that represents a hole?",
+    "question": "In an orthographic projection, what is the term for the view that shows the left side of an object?",
     "options": [
-      "Nut symbol",
-      "Bolt symbol",
-      "Circle symbol",
-      "Screw symbol"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In isometric drawing, what is the term for a line that connects the ends of two axes?",
-    "options": [
-      "Centre line",
-      "Grid line",
-      "Axis line",
-      "Reference line"
+      "Top View",
+      "Front View",
+      "Left View",
+      "Plan View"
     ],
     "correctIndex": 2
   }

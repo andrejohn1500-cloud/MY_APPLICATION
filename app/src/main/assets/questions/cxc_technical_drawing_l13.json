@@ -1,61 +1,91 @@
 [
   {
-    "question": "In engineering drawing, what is the term for a symbol that represents a rivet?",
+    "question": "A geometric construction is used to draw a circle with a radius of 3cm. What is the length of the arc intercepted by a central angle of 90\u00b0?",
     "options": [
-      "Screw symbol",
-      "Nut symbol",
-      "Bolt symbol",
-      "Rivet symbol"
+      "1.57cm",
+      "3.15cm",
+      "3.14cm",
+      "2.09cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building drawing is used to show the overall plan of a building. What is the primary information contained in the building drawing in terms of layout?",
+    "options": [
+      "Type of roofing used",
+      "Location of electrical outlets",
+      "Location of rooms and corridors",
+      "Type of flooring used"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A CAD drawing is used to create a 3D model of an object. What is the primary software used to create the CAD drawing?",
+    "options": [
+      "Revit",
+      "AutoCAD",
+      "Catia",
+      "SolidWorks"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A geometric construction is used to draw a circle with a radius of 4cm. What is the length of the arc intercepted by a central angle of 60\u00b0?",
+    "options": [
+      "4\u00d7 \u03c0cm",
+      "3.14cm",
+      "1\u00d7 3.14cm",
+      "2\u00d7 3.14cm"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a roof?",
+    "question": "A building drawing is used to show the overall plan of a building. What is the primary information contained in the building drawing?",
     "options": [
-      "Hidden line",
-      "Hatching line",
-      "Centre line",
-      "Section line"
+      "Type of roofing used",
+      "Type of flooring used",
+      "Location of rooms and their dimensions",
+      "Location of electrical outlets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an orthographic projection, what is the term for the view that shows the top side of an object?",
+    "options": [
+      "Plan View",
+      "Front View",
+      "Side View",
+      "Top View"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building drawing is used to show the overall plan of a building. What is the primary scale used for the building drawing in terms of accuracy?",
+    "options": [
+      "1:10",
+      "1:100",
+      "1:200",
+      "1:50"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In CAD, what does the acronym 'DXF' stand for?",
+    "question": "In an orthographic projection, what is the term for the view that shows the right side of an object?",
     "options": [
-      "Drawing Exchange Format",
-      "Drawing Interchange Format",
-      "Design Exchange Format",
-      "Data Exchange Format"
+      "Top View",
+      "Right View",
+      "Plan View",
+      "Front View"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In CAD, what is the term for a command that allows you to undo a previous action?",
+    "question": "In an assembly drawing, what is the name of the diagram that shows the assembly of the parts?",
     "options": [
-      "Copy command",
-      "Undo command",
-      "Cut command",
-      "Redo command"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a centre line in a technical drawing?",
-    "options": [
-      "It is used to indicate the centre of a symmetrical object.",
-      "It is used to indicate the size of an object",
-      "It is used to indicate the boundary of a view",
-      "It is used to show the direction of motion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a title block in a technical drawing?",
-    "options": [
-      "It shows the direction of motion",
-      "It indicates the type of material used",
-      "It indicates the size of an object",
-      "It provides information about the drawing."
+      "Bill of Materials",
+      "Exploded View",
+      "Parts List",
+      "Assembly Diagram"
     ],
     "correctIndex": 3
   }

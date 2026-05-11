@@ -1,71 +1,81 @@
 [
   {
-    "question": "The 'Orisha' is a type of supernatural being in Yoruba mythology, which of the following is a common characteristic of Orishas?",
+    "question": "The 'Masquerade' tradition in the Caribbean is a performance art that emphasizes disguise and deception. What is an example of a Masquerade performance?",
     "options": [
-      "The ability to perform only good deeds",
-      "The ability to exist only in the spiritual realm",
-      "The ability to communicate with humans only",
-      "The ability to influence the natural world"
+      "A character who wears a mask or a costume to conceal their identity",
+      "A character who uses a lot of special effects or technology",
+      "A character who uses a lot of scripts or written material",
+      "A character who wears a mask or a costume to reveal their true identity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the Caribbean folk form of 'Calypso', the use of irony and satire is common. What is an example of irony in a calypso song?",
+    "options": [
+      "A song that uses humor to praise social injustice",
+      "A song that uses humor to criticize social injustice",
+      "A song that uses irony to make a literal statement",
+      "A song that uses irony to create a sense of confusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A playwright's use of symbolism can add depth and complexity to a play. What is an example of a symbol in a play that might be considered abstract?",
+    "options": [
+      "A setting that represents a real place or time",
+      "A plot twist that represents a real surprise",
+      "An object or a character that represents an abstract idea or concept, but is not immediately clear or literal",
+      "A literal object or character that represents a real thing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The 'Masks' in Noh Theatre are designed to represent specific emotions or characters. What is the primary function of these masks?",
+    "options": [
+      "To create a sense of realism and naturalism",
+      "To distract the audience from the actor's movements",
+      "To provide a sense of historical accuracy",
+      "To convey the emotions and character of the actor"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The term 'Pantomime' was first used to describe a type of dramatic form that originated in which European country?",
+    "question": "The use of lighting is an essential aspect of creating a visually appealing and engaging environment for the audience. What is the primary purpose of lighting in theatre?",
     "options": [
-      "France",
-      "Germany",
-      "Spain",
-      "Italy"
+      "To create a specific mood or atmosphere in the play",
+      "To provide a sense of realism in the play",
+      "To distract from the main action of the play",
+      "To create a sense of confusion or disorientation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The term 'Pantomime Theatre' was first used to describe a type of dramatic form that originated in which European country?",
+    "question": "The 'Unity of Action' is a dramatic principle that requires a play to have a single, coherent storyline. What is an example of a play that violates this principle?",
     "options": [
-      "France",
-      "Spain",
-      "Italy",
-      "Germany"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The 'Calypso' is a type of folk song that originated in which Caribbean island?",
-    "options": [
-      "St. Lucia",
-      "Barbados",
-      "Trinidad and Tobago",
-      "Jamaica"
+      "A Midsummer Night's Dream",
+      "Macbeth",
+      "Hamlet",
+      "Othello"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The term 'Pantomime' was first used to describe a type of dramatic form that originated in France, which of the following is a key principle of pantomime?",
+    "question": "A playwright's use of symbolism can add depth and complexity to a play. What is an example of a symbol in a play?",
     "options": [
-      "The use of the body to convey emotions and actions",
-      "The use of facial expressions to convey emotions",
-      "The use of text to convey meaning",
-      "The use of vocal inflections to convey emotions"
+      "A plot twist that represents a real surprise",
+      "A literal object or character that represents a real thing",
+      "A setting that represents a real place or time",
+      "An object or a character that represents an abstract idea or concept"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The term 'Postmodern Theatre' was first used to describe a type of dramatic form that emerged in the late 20th century, which of the following is a key feature of postmodern theatre?",
+    "question": "A playwright's use of metaphors can add depth and complexity to a play. What is an example of a metaphor in a play that might be considered abstract?",
     "options": [
-      "The use of a single, dominant narrative voice",
-      "The use of realistic sets and costumes",
-      "The use of non-linear narrative structures",
-      "The use of a traditional dramatic structure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The use of 'Costume' in drama involves the use of clothing and accessories to convey meaning, which of the following is a key principle of costume design?",
-    "options": [
-      "The use of fantasy to create a sense of wonder",
-      "The use of historical accuracy to recreate a specific time period",
-      "The use of realism to create a sense of authenticity",
-      "The use of color and texture to create a specific mood or atmosphere"
+      "A personification or a characterization",
+      "A comparison between two unlike things that is clear and literal",
+      "A simile or a simulative expression",
+      "A comparison between two unlike things that is not immediately clear or literal"
     ],
     "correctIndex": 3
   }

@@ -1,42 +1,92 @@
 [
   {
-    "question": "The artistic movement that emphasizes the use of abstract forms and shapes to create a sense of emotion or feeling is called what?",
+    "question": "Who is the Jamaican artist known for his vibrant and dynamic paintings of Caribbean landscapes and people?",
     "options": [
-      "Surrealism",
-      "Cubism",
-      "Fauvism",
-      "Abstract Expressionism"
+      "Laura Facey",
+      "Erna Brodber",
+      "Edna Manley",
+      "Kofi Setor"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The artistic movement that emphasizes the use of abstract forms and shapes to create a sense of movement or energy is called what?",
+    "question": "What is the term for the use of line to create a sense of movement and energy in a composition?",
     "options": [
-      "Cubism",
-      "Surrealism",
-      "Abstract Expressionism",
-      "Fauvism"
+      "Value",
+      "Shape",
+      "Line",
+      "Texture"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The artistic movement that emphasizes the use of abstract forms and shapes to create a sense of balance or harmony is called what?",
+    "question": "Which of the following art movements is characterized by a focus on exploring the relationship between nature and human experience?",
     "options": [
-      "Abstract Expressionism",
-      "Surrealism",
+      "Still Life Painting",
+      "Landscape Painting",
+      "Portrait Painting",
+      "Abstract Painting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following art movements is characterized by a focus on exploring the human experience and emotions through art?",
+    "options": [
+      "Impressionism",
       "Cubism",
-      "Fauvism"
+      "Abstract Expressionism",
+      "Realism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a color palette in art?",
+    "options": [
+      "To add depth to a composition",
+      "To describe the materials and techniques used",
+      "To demonstrate the relationships between colors",
+      "To create a sense of contrast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the arrangement of visual elements in a composition?",
+    "options": [
+      "Harmony",
+      "Composition",
+      "Proportion",
+      "Balance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the use of multiple viewpoints to create a sense of depth and space in a composition?",
+    "options": [
+      "Atmospheric Perspective",
+      "Linear Perspective",
+      "Aerial Perspective",
+      "One-Point Perspective"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Caribbean artist known for his vibrant and expressive paintings of Jamaican life is who?",
+    "question": "Who is the renowned Jamaican artist known for her vibrant depictions of Jamaican culture?",
     "options": [
-      "Malcolm Jack",
-      "Althea McNish",
-      "Errol Lloyd",
-      "Hilton Dias"
+      "Laura Facey",
+      "Erna Brodber",
+      "Lester Watson",
+      "Edna Manley"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a visual arts critique in the Caribbean?",
+    "options": [
+      "To provide a subjective interpretation of an artwork",
+      "To provide a critical evaluation of Caribbean art and culture",
+      "To describe the materials and techniques used",
+      "To explain the historical context of an artwork"
+    ],
+    "correctIndex": 1
   }
 ]

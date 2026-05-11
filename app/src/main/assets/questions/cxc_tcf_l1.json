@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which type of construction material is known for its high strength-to-weight ratio?",
+    "question": "In safety, what is the term for the process of monitoring and controlling the workplace environment to prevent accidents?",
     "options": [
-      "Concrete",
-      "Aluminum",
-      "Wood",
-      "Steel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the ability of a material to resist wear and tear?",
-    "options": [
-      "Hardness",
-      "Impact resistance",
-      "Wear resistance",
-      "Toughness"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A DC motor has a rating of 4 kW and operates at 240 V. What is its current draw?",
-    "options": [
-      "0.25 A",
-      "1.67 A",
-      "16.67 A",
-      "100 A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a technical drawing?",
-    "options": [
-      "To accurately communicate design intentions",
-      "To estimate material quantities",
-      "To draw a picture of a person",
-      "To build a model of an object"
+      "Environmental monitoring and control",
+      "Environmental impact assessment",
+      "Environmental management",
+      "Environmental protection"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a gearbox in a mechanical assembly?",
+    "question": "What is the term for the process of fitting two or more parts together in workshop technology?",
     "options": [
-      "To change the speed or torque of a motor or engine",
-      "To increase speed",
-      "To change direction",
-      "To decrease speed"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What safety precaution should be taken when working with power tools?",
-    "options": [
-      "Wearing protective eyewear and gloves",
-      "Removing safety guards",
-      "Not wearing protective gear",
-      "Working in a cluttered environment"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the ability of a material to resist corrosion?",
-    "options": [
-      "Toughness",
-      "Impact resistance",
-      "Hardness",
-      "Corrosion resistance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a rivet in a mechanical assembly?",
-    "options": [
-      "To secure a bolt",
-      "To join two metal pieces together",
-      "To hold a screw",
-      "To attach a nut"
+      "Disassembly",
+      "Assembly",
+      "Fitting",
+      "Manufacturing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of electrical circuit uses a single path for current flow?",
+    "question": "In workshop technology, what is the term for the machine used to shape and cut metal?",
     "options": [
-      "Series circuit",
-      "Parallel circuit",
-      "Shunt circuit",
-      "Combination circuit"
+      "Lathe",
+      "Drilling machine",
+      "Grinding machine",
+      "Milling machine"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a template in electrical technology?",
+    "question": "What is the term for the process of converting a 2D drawing into a 3D model?",
     "options": [
-      "To copy a design",
-      "To draw a freehand sketch",
-      "To create a precise representation of an electrical circuit or device",
-      "To create a rough outline"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the ability of a material to withstand impact without deforming or breaking?",
-    "options": [
-      "Hardness",
-      "Stiffness",
-      "Toughness",
-      "Impact resistance"
+      "Interpretation",
+      "Representation",
+      "Elevation",
+      "Projection"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which type of electrical circuit uses multiple paths for current flow?",
+    "question": "What is the primary function of the concrete mixer in construction technology?",
     "options": [
-      "Combination circuit",
-      "Parallel circuit",
-      "Shunt circuit",
-      "Series circuit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a template in technical drawing?",
-    "options": [
-      "To create a precise representation of an object or shape",
-      "To draw a freehand sketch",
-      "To copy a design",
-      "To create a rough outline"
+      "To mix and blend concrete ingredients",
+      "To test and inspect concrete",
+      "To transport and place concrete",
+      "To clean and maintain equipment"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of construction material is known for its high thermal insulation properties?",
+    "question": "In safety, what is the term for the process of identifying and evaluating potential hazards?",
     "options": [
-      "Steel",
-      "Wood",
-      "Fiberglass",
-      "Concrete"
+      "Risk elimination",
+      "Hazard identification",
+      "Risk assessment",
+      "Risk management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In safety, what is the term for the process of identifying and controlling potential hazards?",
+    "options": [
+      "Risk elimination",
+      "Risk management",
+      "Risk assessment",
+      "Risk mitigation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of joining two metal pieces together using a rivet gun and rivets?",
+    "question": "What is the term for the type of bearing that uses rolling elements to reduce friction?",
     "options": [
-      "Welding",
-      "Soldering",
-      "Riveting",
-      "Brazing"
+      "Journal bearing",
+      "Plain bearing",
+      "Sleeve bearing",
+      "Ball bearing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the protractor in technical drawing?",
+    "options": [
+      "To measure and draw angles",
+      "To draw curves and arcs",
+      "To draw circles and arcs",
+      "To draw points and lines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of learning by working under the guidance of an experienced worker?",
+    "options": [
+      "Experiential learning",
+      "Theoretical learning",
+      "Apprenticeship",
+      "Practical learning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In materials science, what is the term for the study of the structure and properties of materials?",
+    "options": [
+      "Materials properties",
+      "Materials applications",
+      "Materials behavior",
+      "Materials science"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In construction technology, what is the term for the process of designing and planning a construction project?",
+    "options": [
+      "Testing and commissioning",
+      "Design and planning",
+      "Construction and execution",
+      "Maintenance and repair"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of material that is made from the fibers of plants?",
+    "options": [
+      "Cellulose",
+      "Metal",
+      "Polymer",
+      "Ceramic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In materials science, what is the term for the study of the properties and applications of materials?",
+    "options": [
+      "Materials technology",
+      "Materials engineering",
+      "Materials science",
+      "Metallurgy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Caribbean vocational education, what is the term for the process of learning by doing?",
+    "options": [
+      "Theoretical learning",
+      "Practical learning",
+      "Experiential learning",
+      "Apprenticeship"
     ],
     "correctIndex": 2
   }

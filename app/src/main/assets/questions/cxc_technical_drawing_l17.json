@@ -1,151 +1,151 @@
 [
   {
-    "question": "When creating an axonometric drawing, what is the angle between the vertical and horizontal axes in a one-third angle projection?",
+    "question": "A building drawing is drawn to a scale of 1:20. What is the ratio of the actual size to the represented size?",
     "options": [
-      "135 degrees",
-      "120 degrees",
-      "90 degrees",
-      "60 degrees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building plan is represented as a grid system with a scale of 1:50. What is the actual distance represented by 1 grid unit?",
-    "options": [
-      "0.05 meters",
-      "0.02 meters",
-      "0.01 meters",
-      "0.03 meters"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A point is located 6 units from a line, 8 units from another line, and 10 units from a third line. Determine the type of triangle formed by these lines.",
-    "options": [
-      "obtuse-angled",
-      "equilateral",
-      "right-angled",
-      "acute-angled"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When creating a sectional view, what is the term for the plane that passes through the view line of the section?",
-    "options": [
-      "auxiliary plane",
-      "reference plane",
-      "cutting plane",
-      "view plane"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D object using a computer-aided design software?",
-    "options": [
-      "surface modeling",
-      "solid modeling",
-      "wireframe modeling",
-      "CAD drafting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A dimension is represented as 3 7/8 inches. What is the decimal equivalent of this dimension?",
-    "options": [
-      "3.5 inches",
-      "3.875 inches",
-      "4 inches",
-      "3.75 inches"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A rectangular solid has dimensions of 6 units by 8 units by 10 units. Determine the method of representing the solid in an isometric drawing.",
-    "options": [
-      "using a 30-60-90 triangle",
-      "using a 45-45-90 triangle",
-      "using a 90-60-30 triangle",
-      "using a 45-60-75 triangle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D model?",
-    "options": [
-      "surface modeling",
-      "rendering",
-      "solid modeling",
-      "wireframe modeling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In technical drawing, what is the term for a drawing that shows the assembly of a machine with the parts exploded?",
-    "options": [
-      "Engine drawing",
-      "Machine drawing",
-      "Motor drawing",
-      "Assembly drawing"
+      "1:5",
+      "1:50",
+      "1:10",
+      "1:20"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When creating an orthographic drawing, what is the term for the set of lines that define the edges of a part?",
+    "question": "A developer wants to create an isometric drawing of a complex 3D object. Which of the following software would be best suited for this task?",
     "options": [
-      "projection lines",
-      "view lines",
-      "contour lines",
-      "edge lines"
+      "CATIA",
+      "Autodesk Inventor",
+      "SketchUp",
+      "SolidWorks"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In isometric drawing, what is the term for a line that connects the centre of a circle to its circumference?",
+    "question": "In an engineering drawing, what is the term for the symbol used to indicate a screw in the drawing?",
     "options": [
-      "Radius line",
-      "Diameter line",
-      "Arc line",
-      "Chord line"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When creating an assembly drawing, what is the term for the arrangement of parts in a standard position?",
-    "options": [
-      "assembly position",
-      "component position",
-      "standard position",
-      "auxiliary position"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A dimension is represented as 4.5 mm. What is the equivalent dimension in inches?",
-    "options": [
-      "0.18 inches",
-      "0.2 inches",
-      "0.175 inches",
-      "0.1778 inches"
+      "Square with a centre dot",
+      "Circle with a centre cross",
+      "Circle with a centre dot",
+      "Three lines with a circle"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 2D image using a computer-aided design software?",
+    "question": "A rectangular prism is projected orthographically onto a plane. What is the name of the view that shows the top surface of the prism?",
     "options": [
-      "CAD drafting",
-      "wireframe modeling",
-      "solid modeling",
-      "surface modeling"
+      "Plan",
+      "Isometric view",
+      "Elevation",
+      "Section"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When creating an isometric drawing, what is the term for the method of representing a 3D object as a 2D image using a 30-60-90 triangle?",
+    "question": "A building elevation is typically drawn in which orientation?",
     "options": [
-      "45-45-90 triangle projection",
-      "one-third angle projection",
-      "30-60-90 triangle projection",
-      "two-thirds angle projection"
+      "East-west orientation",
+      "North-south orientation",
+      "South-west orientation",
+      "South-east orientation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A CAD system uses a drawing environment to organize the drawing into separate areas. What is the purpose of the 'drawing toolbar'?",
+    "options": [
+      "To display the drawing's dimensions",
+      "To indicate the drawing's surface finish",
+      "To provide quick access to common drawing tools",
+      "To represent the drawing's center lines"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a title block in an assembly drawing?",
+    "options": [
+      "To indicate a surface finish",
+      "To provide information about the drawing, including the date, time, and drafter's name",
+      "To display the drawing's dimensions",
+      "To identify a material"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A CAD system uses a geometric dimensioning and tolerancing (GD&T) system to specify the geometric characteristics of a part. What is the purpose of a datum point?",
+    "options": [
+      "To indicate a surface finish",
+      "To establish a reference point for the part's dimensions",
+      "To identify a material",
+      "To define the size of a component"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A CAD system uses a layering system to organize the drawing into separate layers. What is the purpose of the 'dimensions' layer?",
+    "options": [
+      "To represent the drawing's center lines",
+      "To store the drawing's dimensions",
+      "To indicate the drawing's surface finish",
+      "To display the drawing's title block"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A building elevation is typically drawn in which format?",
+    "options": [
+      "Isometric projection",
+      "Oblique projection",
+      "Orthographic projection",
+      "Perspective projection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of an auxiliary view in an engineering drawing?",
+    "options": [
+      "To provide additional views of the component from different angles",
+      "To indicate a surface finish",
+      "To identify a material",
+      "To provide a detailed view of a component"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building drawing is drawn to a scale of 1:20. What is the scale factor?",
+    "options": [
+      "1:20",
+      "1:5",
+      "1:50",
+      "1:10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A CAD system uses a geometric dimensioning and tolerancing (GD&T) system to specify the geometric characteristics of a part. What is the purpose of a datum plane?",
+    "options": [
+      "To establish a reference plane for the part's dimensions",
+      "To indicate a surface finish",
+      "To define the size of a component",
+      "To identify a material"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building drawing is drawn to a scale of 1:20. What is the scale factor?",
+    "options": [
+      "1:5",
+      "1:50",
+      "1:20",
+      "1:10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A building drawing is drawn to a scale of 1:50. What is the ratio of the actual size to the represented size?",
+    "options": [
+      "5:1",
+      "50:1",
+      "10:1",
+      "20:1"
     ],
     "correctIndex": 1
   }

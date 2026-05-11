@@ -1,102 +1,102 @@
 [
   {
-    "question": "What is the primary function of a bearing in a mechanical assembly?",
+    "question": "In materials science, what is the term for the study of the behavior of materials under different conditions?",
     "options": [
-      "To absorb shock",
-      "To support weight",
-      "To reduce friction between moving parts",
-      "To increase friction"
+      "Materials behavior",
+      "Materials properties",
+      "Materials applications",
+      "Materials science"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In technical drawing, what is the term for the symbol used to represent a bolt?",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In workshop technology, what is the term for the machine used to cut and shape metal?",
+    "options": [
+      "Grinding machine",
+      "Lathe",
+      "Milling machine",
+      "Drilling machine"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a template in a mechanical assembly?",
+    "question": "In construction technology, what is the term for the process of maintaining and repairing a construction project?",
     "options": [
-      "To create a rough outline",
-      "To copy a design",
-      "To draw a freehand sketch",
-      "To create a precise representation of an object or shape"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What safety precaution should be taken when working with electrical tools in a wet environment?",
-    "options": [
-      "Removing safety guards",
-      "Not wearing protective gear",
-      "Using a GFCI outlet and keeping the area well-ventilated",
-      "Working in a cluttered environment"
+      "Testing and inspection",
+      "Design and planning",
+      "Maintenance and repair",
+      "Construction and execution"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of a fuse in electrical circuits?",
+    "question": "In construction technology, what is the term for the process of testing and inspecting a construction project?",
     "options": [
-      "To increase voltage levels",
-      "To decrease resistance",
-      "To protect the circuit from excessive current flow",
-      "To improve circuit efficiency"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the ability of a material to withstand high temperatures without deforming or breaking?",
-    "options": [
-      "Impact resistance",
-      "Hardness",
-      "Toughness",
-      "High-temperature resistance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the force that opposes the motion of an object moving through a fluid?",
-    "options": [
-      "Buoyancy",
-      "Gravity",
-      "Drag",
-      "Friction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a pulley in a mechanical assembly?",
-    "options": [
-      "To increase force",
-      "To change the direction of force or motion",
-      "To change the speed of motion",
-      "To decrease force"
+      "Maintenance and repair",
+      "Testing and inspection",
+      "Construction and execution",
+      "Design and planning"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the process of joining two metal pieces together using a torch and filler metal in a vacuum environment?",
+    "question": "In electrical technology, what is the term for the device used to control the flow of current?",
     "options": [
-      "Soldering",
-      "Cutting",
-      "Welding",
-      "Vacuum brazing"
+      "Transformer",
+      "Switch",
+      "Circuit breaker",
+      "Fuse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a drawing scale in technical drawing?",
+    "options": [
+      "To make a drawing more complex",
+      "To make calculations easier",
+      "To add aesthetic value to a drawing",
+      "To represent a large scale object in a reduced form"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which workshop tool is used to sharpen cutting tools?",
+    "question": "In electrical technology, what is the term for the device used to measure the flow of current?",
     "options": [
-      "Drill press",
-      "Miter saw",
-      "Band saw",
-      "Sharpening stone"
+      "Ohmmeter",
+      "Wattmeter",
+      "Voltmeter",
+      "Ammeter"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What safety precaution should be taken when working with hazardous materials?",
+    "question": "In construction technology, what is the term for the process of constructing a building or structure?",
     "options": [
-      "Mixing chemicals without caution",
-      "Not wearing protective gear",
-      "Wearing protective gear and following proper disposal procedures",
-      "Inhaling fumes"
+      "Testing and commissioning",
+      "Maintenance and repair",
+      "Design and planning",
+      "Construction"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "In electrical technology, what is the term for the device used to protect against overcurrent?",
+    "options": [
+      "Fuse",
+      "Switch",
+      "Transformer",
+      "Circuit breaker"
+    ],
+    "correctIndex": 3
   }
 ]

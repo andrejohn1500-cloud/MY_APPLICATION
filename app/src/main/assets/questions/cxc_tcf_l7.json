@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the term for the process of shaping a metal by applying heat and pressure?",
+    "question": "What is the primary function of a fuse in electrical technology?",
     "options": [
-      "Welding",
+      "To distribute electricity to multiple circuits",
+      "To protect a circuit from overcurrent",
+      "To conduct electricity safely",
+      "To switch on and off a circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the behavior of fluids in mechanical engineering?",
+    "options": [
+      "Mechanics",
+      "Thermodynamics",
+      "Hydraulics",
+      "Pneumatics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a fuse in electrical technology?",
+    "options": [
+      "To switch on and off a circuit",
+      "To distribute electricity to multiple circuits",
+      "To protect a circuit from overcurrent",
+      "To conduct electricity safely"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a circuit breaker in electrical technology?",
+    "options": [
+      "To automatically switch off a circuit in case of an overload",
+      "To switch on and off a circuit",
+      "To conduct electricity safely",
+      "To distribute electricity to multiple circuits"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a fuse in electrical technology?",
+    "options": [
+      "To switch on and off a circuit",
+      "To distribute electricity to multiple circuits",
+      "To conduct electricity safely",
+      "To protect a circuit from overcurrent"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a spirit level in construction technology?",
+    "options": [
+      "To check the quality of a surface",
+      "To ensure that a surface is level and plumb",
+      "To measure the length of a surface",
+      "To cut a surface to size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a spirit level in construction technology?",
+    "options": [
+      "To check the quality of a surface",
+      "To ensure that a surface is level and plumb",
+      "To measure the length of a surface",
+      "To cut a surface to size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a spirit level in construction technology?",
+    "options": [
+      "To measure the length of a surface",
+      "To ensure that a surface is level and plumb",
+      "To cut a surface to size",
+      "To check the quality of a surface"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a spirit level in construction technology?",
+    "options": [
+      "To ensure that a surface is level and plumb",
+      "To measure the length of a surface",
+      "To cut a surface to size",
+      "To check the quality of a surface"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the study of the behavior of gases in mechanical engineering?",
+    "options": [
+      "Thermodynamics",
+      "Mechanics",
+      "Pneumatics",
+      "Electronics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of joining two or more materials together using a liquid in workshop technology?",
+    "options": [
       "Brazing",
-      "Forging",
+      "Glazing",
+      "Welding",
       "Soldering"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A concrete mix has a slump of 100 mm. What does this indicate?",
-    "options": [
-      "High Workability",
-      "Poor Workability",
-      "Low Workability",
-      "Good Workability"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process of removing the surface layer of a metal to reveal a smooth surface?",
-    "options": [
-      "Grinding",
-      "Polishing",
-      "Tapping",
-      "Drilling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 30\u00b0 incline?",
-    "options": [
-      "98.1 N",
-      "150 N",
-      "50 N",
-      "100 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A building has a height of 10 stories, each with a floor area of 1000 m^2. What is the total floor area?",
-    "options": [
-      "1,000 m^2",
-      "5,000 m^2",
-      "20,000 m^2",
-      "10,000 m^2"
-    ],
     "correctIndex": 3
   },
   {
-    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 30\u00b0 incline?",
+    "question": "What is the primary function of a safety harness in safety?",
     "options": [
-      "150 N",
-      "100 N",
-      "50 N",
-      "98.1 N"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The ratio of the length of a beam to its depth is 4:1. What is the angle of the beam?",
-    "options": [
-      "90\u00b0",
-      "60\u00b0",
-      "26.57\u00b0",
-      "45\u00b0"
+      "To provide eye protection",
+      "To provide fire extinguishers",
+      "To prevent falls from heights",
+      "To keep records of accidents"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In electrical technology, what is the term for the flow of current in a circuit due to the presence of a voltage source?",
+    "question": "What is the primary function of a circuit breaker in electrical technology?",
     "options": [
-      "Capacitive Current",
-      "Dielectric Current",
-      "Ohmic Current",
-      "Inductive Current"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A gear has a pitch circle diameter of 200 mm and a pressure angle of 20\u00b0. What is its addendum?",
-    "options": [
-      "12 mm",
-      "8 mm",
-      "10 mm",
-      "4 mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A gear has a pitch circle diameter of 400 mm and a pressure angle of 25\u00b0. What is its addendum?",
-    "options": [
-      "15 mm",
-      "10 mm",
-      "12 mm",
-      "8 mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of joining two metal pieces by using a filler material?",
-    "options": [
-      "Soldering",
-      "Brazing",
-      "Welding",
-      "Fusion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A building has a height of 10 meters and a width of 10 meters. What is its perimeter?",
-    "options": [
-      "40 m",
-      "10 m",
-      "20 m",
-      "30 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process of joining two metal pieces by applying heat and pressure?",
-    "options": [
-      "Forging",
-      "Soldering",
-      "Brazing",
-      "Welding"
+      "To distribute electricity to multiple circuits",
+      "To conduct electricity safely",
+      "To switch on and off a circuit",
+      "To automatically switch off a circuit in case of an overload"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A building has a height of 10 meters and a width of 5 meters. What is its perimeter?",
+    "question": "What is the primary function of a safety harness in safety?",
     "options": [
-      "20 m",
-      "50 m",
-      "30 m",
-      "10 m"
+      "To provide fire extinguishers",
+      "To prevent falls from heights",
+      "To keep records of accidents",
+      "To provide eye protection"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A workshop technician is using a milling machine to cut a metal part. The milling cutter is rotating at 1000 rpm. The cutting speed of the milling cutter is 100 m/min. What is the diameter of the milling cutter?",
+    "question": "What is the primary function of a circuit tester in electrical technology?",
     "options": [
-      "0.01 m",
-      "0.02 m",
-      "0.03 m",
-      "0.04 m"
+      "To measure current",
+      "To check the continuity of a circuit",
+      "To measure resistance",
+      "To measure voltage"
     ],
     "correctIndex": 1
   }

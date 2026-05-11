@@ -1,62 +1,52 @@
 [
   {
-    "question": "The term 'director' refers to a person who is responsible for interpreting the script and bringing it to life on stage.",
+    "question": "The use of props is an essential aspect of creating a believable and engaging environment for the audience. What is the primary purpose of props in theatre?",
     "options": [
-      "It refers to a person who assists the stage manager in coordinating the production",
-      "True",
-      "False",
-      "It refers to a person who assists the director in developing the script"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term 'set dressing' refers to the process of decorating the set with props and other items.",
-    "options": [
-      "It refers to the process of building the set",
-      "False",
-      "True",
-      "It refers to the process of designing the set"
+      "To create a sense of spectacle or grandeur",
+      "To provide a sense of confusion or disorientation",
+      "To add detail and authenticity to the set and characters",
+      "To distract from the main action of the play"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The term 'stage manager' refers to a person who is responsible for coordinating the technical aspects of a production.",
+    "question": "In the context of theatre production, what is the term for the process of rehearsing a play with a live audience?",
     "options": [
-      "False",
-      "It refers to a person who assists the stage manager in coordinating the production",
-      "It refers to a person who assists the director in developing the script",
-      "True"
+      "Preview performance",
+      "Dress rehearsal",
+      "Technical rehearsal",
+      "Public rehearsal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The term 'dramatic irony' refers to a situation in which the audience knows something that the characters do not. What is the primary effect of dramatic irony on the audience?",
+    "options": [
+      "It creates a sense of confusion or disorientation",
+      "It distracts from the main action of the play",
+      "It provides a sense of relief or resolution to the conflict",
+      "It creates a sense of tension and suspense, as the audience is aware of the conflict or problem before the characters are"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The term 'sound design' refers to the process of creating the sound effects and music for a production.",
+    "question": "In the context of playwriting, what is the term for the process of creating a detailed plan for the staging of the play?",
     "options": [
-      "It refers to the process of lighting the production",
-      "False",
-      "True",
-      "It refers to the process of designing the set"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'mise-en-sc\u00e8ne' refers to the physical and visual elements of a production.",
-    "options": [
-      "It refers to the musical elements of a production",
-      "It refers to the lighting and sound elements of a production",
-      "True",
-      "False"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'costume designer' refers to a person who creates the costumes for a production.",
-    "options": [
-      "True",
-      "It refers to a person who assists the director in developing the script",
-      "False",
-      "It refers to a person who assists the stage manager in coordinating the production"
+      "Staging",
+      "Dialogue writing",
+      "Character creation",
+      "Plot development"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the primary purpose of a 'sight line' in the design of a theatre?",
+    "options": [
+      "To provide a distraction from the main action of the play",
+      "To create a sense of grandeur in the theatre",
+      "To create a sense of intimacy between the actors and the audience",
+      "To ensure that all members of the audience have a clear view of the action on stage"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "In orthographic projection, what is the term for the plane view of an object?",
+    "question": "A building elevation is typically drawn to the vertical plane of the main view. What is the primary purpose of the elevation?",
     "options": [
-      "Sectional view",
-      "Elevation view",
-      "Isometric view",
-      "Plan view"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a note in a technical drawing?",
-    "options": [
-      "It provides additional information about the drawing.",
-      "It shows the direction of motion",
-      "It indicates the type of material used",
-      "It indicates the size of an object"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a drawing that shows a cut-away view of an object?",
-    "options": [
-      "Sectional view",
-      "Perspective view",
-      "Elevation view",
-      "Orthographic view"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In building drawing, what is the term for a drawing that shows the floor plan of a building?",
-    "options": [
-      "Site plan",
-      "Elevation plan",
-      "Sectional plan",
-      "Layout plan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In technical drawing, what is the term for a drawing that shows the assembly of a machine?",
-    "options": [
-      "Motor drawing",
-      "Assembly drawing",
-      "Machine drawing",
-      "Engine drawing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In CAD, what is the term for a command that allows you to delete a previous action?",
-    "options": [
-      "Paste command",
-      "Copy command",
-      "Cut command",
-      "Undo command"
+      "To show the location of electrical outlets",
+      "To show the type of flooring used",
+      "To show the exterior of the building",
+      "To show the interior of the building"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In CAD, what is the term for a 2D representation of a 3D object?",
+    "question": "In an assembly drawing, what is the name of the diagram that shows the exploded view of an assembly?",
     "options": [
-      "Surface model",
-      "Hidden line removed model",
-      "Solid model",
-      "Wireframe model"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a detail drawing in a technical drawing?",
-    "options": [
-      "It shows the details of a part or assembly.",
-      "It shows the direction of motion",
-      "It indicates the size of an object",
-      "It shows the overall view of a part or assembly"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In technical drawing, what is the term for a drawing that shows the exploded view of a machine?",
-    "options": [
-      "Engine drawing",
-      "Motor drawing",
-      "Pump drawing",
-      "Machine drawing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In CAD, what is the term for a set of commands that provide a way to customize the drawing environment?",
-    "options": [
-      "Menus",
-      "Icons",
-      "Shortcuts",
-      "Toolbars"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In orthographic projection, what is the term for a view that shows the object in a three-quarter position?",
-    "options": [
-      "Cabinet view",
-      "Cavalier view",
-      "Oblique view",
-      "Elevation view"
+      "Isometric View",
+      "Exploded View",
+      "Sectional View",
+      "Detail View"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In building drawing, what is the term for a drawing that shows the elevation of a building?",
+    "question": "A building elevation is typically drawn to the horizontal plane of the main view. What is the primary purpose of the elevation in terms of functionality?",
     "options": [
-      "Layout plan",
-      "Sectional plan",
-      "Site plan",
-      "Elevation plan"
+      "To show the location of electrical outlets",
+      "To show the location of doors and windows",
+      "To show the interior of the building",
+      "To show the type of flooring used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an orthographic projection, what is the term for the view that shows the bottom side of an object?",
+    "options": [
+      "Bottom View",
+      "Top View",
+      "Plan View",
+      "Front View"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building elevation is typically drawn to the vertical plane of the main view. What is the primary purpose of the elevation in terms of aesthetics?",
+    "options": [
+      "To show the interior of the building",
+      "To show the style and design of the building",
+      "To show the location of electrical outlets",
+      "To show the type of flooring used"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In geometric construction, what is the term for the process of drawing a circle using a compass?",
+    "options": [
+      "Creating a polygon",
+      "Making an angle",
+      "Drawing a circle",
+      "Dividing a line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In isometric drawing, what is the angle between the x and y axes?",
+    "question": "A building elevation is typically drawn at what angle to the main view?",
     "options": [
-      "30 degrees",
       "90 degrees",
       "120 degrees",
+      "45 degrees",
       "60 degrees"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In engineering drawing, what is the term for a symbol that represents a nut?",
-    "options": [
-      "Nut symbol",
-      "Bolt symbol",
-      "Screw symbol",
-      "Rivet symbol"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In CAD, what is the term for a 3D model that is made up of connected surfaces?",
+    "question": "A geometric construction is used to draw a triangle with a base of 5cm and a height of 6cm. What is the length of the hypotenuse of the triangle?",
     "options": [
-      "Solid model",
-      "Wireframe model",
-      "Surface model",
-      "Hidden line removed model"
+      "6cm",
+      "8cm",
+      "7cm",
+      "4cm"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "In an engineering drawing, what is the term for the symbol used to indicate a hole in the drawing?",
+    "options": [
+      "Square with a centre cross",
+      "Square with a centre dot",
+      "Circle with a centre dot",
+      "Circle with a centre cross"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A CAD drawing is used to create a 3D model of an object. What is the primary software used to create the CAD drawing in engineering applications?",
+    "options": [
+      "Catia",
+      "AutoCAD",
+      "SolidWorks",
+      "Revit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A CAD drawing is used to create a 2D model of an object. What is the primary software used to create the CAD drawing in architectural applications?",
+    "options": [
+      "SolidWorks",
+      "Catia",
+      "Revit",
+      "AutoCAD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A geometric construction is used to draw a square with a diagonal length of 8cm. What is the length of the side of the square?",
+    "options": [
+      "8cm",
+      "4cm",
+      "6cm",
+      "5.66cm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In an assembly drawing, what is the name of the diagram that shows the exploded view of an assembly with the parts labelled?",
+    "options": [
+      "Assembly Diagram",
+      "Bill of Materials",
+      "Exploded View",
+      "Parts List"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an engineering drawing, what is the term for the symbol used to indicate a rivet in the drawing?",
+    "options": [
+      "Circle with a centre dot",
+      "Cross with a tail",
+      "Circle with a centre cross",
+      "Square with a centre dot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A dimension is drawn to show the distance between two points in a drawing. What is the primary unit of measurement used for the dimension?",
+    "options": [
+      "Decimal Unit",
+      "Fractional Unit",
+      "Imperial Unit",
+      "Metric Unit"
+    ],
+    "correctIndex": 3
   }
 ]
