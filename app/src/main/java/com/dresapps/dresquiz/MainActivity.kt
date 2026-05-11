@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
         kotlinx.coroutines.CoroutineScope(kotlinx.coroutines.Dispatchers.Main).launch {
             com.onesignal.OneSignal.Notifications.requestPermission(true)
         }
-        com.onesignal.OneSignal.Notifications.requestPermission(true)
         // Fetch and store FCM token
         com.google.firebase.messaging.FirebaseMessaging.getInstance().token
             .addOnSuccessListener { token: String ->

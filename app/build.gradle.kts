@@ -64,6 +64,7 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation(platform("com.google.firebase:firebase-bom:33.7.0"))
     implementation("com.onesignal:OneSignal:5.1.6")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("com.google.firebase:firebase-messaging-ktx")
     implementation("com.google.firebase:firebase-firestore-ktx")
     implementation("com.google.firebase:firebase-auth-ktx")
