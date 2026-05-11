@@ -32,35 +32,49 @@
             android:gravity="center"
             android:layout_marginBottom="48dp"/>
 
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/btnViewStory"
-            android:backgroundTint="@null"
-            android:stateListAnimator="@null"
             android:layout_width="260dp"
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="16dp"
-            android:background="@drawable/bg_button_accent"
+            app:backgroundTint="#2D3561"
+            app:strokeColor="#FFD700"
+            app:strokeWidth="1.5dp"
+            app:cornerRadius="12dp"
+            app:rippleColor="#66FFD700"
+            android:stateListAnimator="@null"
+            android:elevation="0dp"
             android:text="📖 READ MY STORY"
             android:textColor="@color/gold"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:letterSpacing="0.06"/>
+            android:textAllCaps="false"
+            android:letterSpacing="0.06"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"/>
 
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/btnBackStory"
-            android:backgroundTint="@null"
-            android:stateListAnimator="@null"
             android:layout_width="260dp"
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="24dp"
-            android:background="@drawable/bg_button_accent"
+            app:backgroundTint="#2D3561"
+            app:strokeColor="#FFD700"
+            app:strokeWidth="1.5dp"
+            app:cornerRadius="12dp"
+            app:rippleColor="#66FFD700"
+            android:stateListAnimator="@null"
+            android:elevation="0dp"
             android:text="← BACK"
             android:textColor="@color/gold"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:letterSpacing="0.06"/>
+            android:textAllCaps="false"
+            android:letterSpacing="0.06"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"/>
 
     </LinearLayout>
 </ScrollView>

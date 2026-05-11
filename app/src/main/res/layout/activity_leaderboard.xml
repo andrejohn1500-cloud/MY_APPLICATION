@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/navy_dark"
@@ -83,20 +84,27 @@
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
-    <Button
+    <com.google.android.material.button.MaterialButton
             android:id="@+id/btnBack"
-            android:backgroundTint="@null"
-            android:stateListAnimator="@null"
             android:layout_width="260dp"
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="80dp"
-            android:background="@drawable/bg_button_accent"
-            android:text="BACK"
+            app:backgroundTint="#2D3561"
+            app:strokeColor="#FFD700"
+            app:strokeWidth="1.5dp"
+            app:cornerRadius="12dp"
+            app:rippleColor="#66FFD700"
+            android:stateListAnimator="@null"
+            android:elevation="0dp"
+            android:text="← BACK"
             android:textColor="@color/gold"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:letterSpacing="0.06"/>
+            android:textAllCaps="false"
+            android:letterSpacing="0.06"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"/>
 
 </LinearLayout>
