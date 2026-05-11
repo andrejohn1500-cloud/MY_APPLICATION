@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organ pumps blood around the body?",
+    "question": "What is the process by which the body makes energy from food?",
     "options": [
-      "Brain",
-      "Heart",
-      "Lungs",
-      "Kidneys"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What do plants need to make their own food through photosynthesis?",
-    "options": [
-      "Moonlight and water",
-      "Sunlight, water, and carbon dioxide",
-      "Sunlight and oxygen",
-      "Water and nitrogen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which state of matter has a definite shape and volume?",
-    "options": [
-      "Gas",
-      "Liquid",
-      "Solid",
-      "Plasma"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main gas that animals breathe in?",
-    "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a mammal?",
-    "options": [
-      "Crocodile",
-      "Parrot",
-      "Dolphin",
-      "Frog"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does a thermometer measure?",
-    "options": [
-      "Rainfall",
-      "Temperature",
-      "Wind speed",
-      "Air pressure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "options": [
-      "Venus",
-      "Earth",
-      "Mars",
-      "Mercury"
+      "excretion",
+      "photosynthesis",
+      "transpiration",
+      "respiration"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the force that pulls objects toward the Earth?",
+    "question": "What is the process by which plants release excess water into the air?",
     "options": [
-      "Friction",
-      "Magnetism",
-      "Gravity",
-      "Electricity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the plant absorbs water and minerals from the soil?",
-    "options": [
-      "Leaves",
-      "Stem",
-      "Roots",
-      "Flowers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of animal eats only plants?",
-    "options": [
-      "Carnivore",
-      "Omnivore",
-      "Herbivore",
-      "Predator"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a source of light energy?",
-    "options": [
-      "Rock",
-      "Wood",
-      "The Sun",
-      "Soil"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many bones are in the adult human body?",
-    "options": [
-      "106",
-      "206",
-      "306",
-      "406"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What gas do plants release during photosynthesis?",
-    "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Hydrogen",
-      "Oxygen"
+      "respiration",
+      "photosynthesis",
+      "evaporation",
+      "transpiration"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a conductor of electricity?",
+    "question": "What is the term for the 'study of the Earth's oceans and sea life'?",
     "options": [
-      "Plastic",
-      "Wood",
-      "Copper",
-      "Rubber"
+      "geology",
+      "geography",
+      "oceanography",
+      "meteorology"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the unit used to measure temperature?",
+    "question": "What type of force is needed to pull an object apart?",
     "options": [
-      "Kilograms",
-      "Metres",
-      "Degrees Celsius",
-      "Newtons"
+      "frictional force",
+      "tensile force",
+      "normal force",
+      "centripetal force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the scientific term for the 'building blocks of life'?",
+    "options": [
+      "molecules",
+      "organisms",
+      "cells",
+      "tissues"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of the roots of a plant?",
+    "options": [
+      "producing flowers and fruits",
+      "absorbing water and minerals from the soil",
+      "controlling the plant's growth",
+      "making food through photosynthesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the 'study of the body's systems and organs'?",
+    "options": [
+      "physiology",
+      "pathology",
+      "pharmacology",
+      "anatomy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of energy?",
+    "options": [
+      "thermal energy",
+      "electrical energy",
+      "potential energy",
+      "kinetic energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the 'study of the Earth's weather and atmosphere'?",
+    "options": [
+      "oceanography",
+      "geology",
+      "meteorology",
+      "geography"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the 'study of the structure of the Earth's crust'?",
+    "options": [
+      "geology",
+      "meteorology",
+      "geography",
+      "oceanography"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of force is needed to pull an object apart?",
+    "options": [
+      "normal force",
+      "frictional force",
+      "tensile force",
+      "centripetal force"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the 'study of the structure of the human body'?",
+    "options": [
+      "pharmacology",
+      "physiology",
+      "pathology",
+      "anatomy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the 'study of the body's systems and organs'?",
+    "options": [
+      "pathology",
+      "physiology",
+      "pharmacology",
+      "anatomy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the 'study of the body's systems and organs'?",
+    "options": [
+      "pathology",
+      "pharmacology",
+      "anatomy",
+      "physiology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of energy?",
+    "options": [
+      "kinetic energy",
+      "thermal energy",
+      "potential energy",
+      "electrical energy"
+    ],
+    "correctIndex": 0
   }
 ]

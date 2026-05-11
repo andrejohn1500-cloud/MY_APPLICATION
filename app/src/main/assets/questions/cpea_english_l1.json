@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a noun?",
+    "question": "Which literary device involves giving human-like qualities to non-human entities?",
     "options": [
-      "Run",
-      "Beautiful",
-      "Happiness",
-      "Quickly"
+      "Personification",
+      "Alliteration",
+      "Simile",
+      "Metaphor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which literary device involves comparing two things using 'like' or 'as'?",
+    "options": [
+      "Alliteration",
+      "Simile",
+      "Metaphor",
+      "Personification"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which grammatical term refers to a word or phrase that functions as a single unit in a sentence?",
+    "options": [
+      "Clause",
+      "Phrase",
+      "Sentence",
+      "Paragraph"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a conclusion in an essay?",
+    "options": [
+      "To summarize the main points and restate the thesis",
+      "To provide evidence",
+      "To introduce a new idea",
+      "To ask a question"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a word that has the opposite meaning of another word?",
+    "options": [
+      "Homophone",
+      "Homograph",
+      "Antonym",
+      "Synonym"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What punctuation mark is used at the end of a question?",
+    "question": "What is the purpose of a transition word or phrase in a text?",
     "options": [
-      "Full stop",
-      "Question mark",
+      "To connect ideas and show relationships between sentences",
+      "To introduce a new idea",
+      "To provide evidence",
+      "To conclude the text"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which punctuation mark is used to indicate a direct quote?",
+    "options": [
+      "Semi-colon",
+      "Comma",
+      "Colon",
+      "Quotation marks"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which punctuation mark is used to indicate a pause that is longer than a comma?",
+    "options": [
+      "Semi-colon",
+      "Dash",
       "Exclamation mark",
-      "Comma"
+      "Colon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which grammatical term refers to a group of words that express a complete thought?",
+    "options": [
+      "Phrase",
+      "Sentence",
+      "Paragraph",
+      "Clause"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is a synonym for 'happy'?",
+    "question": "Which literary device involves using words that imitate the sounds they describe?",
     "options": [
-      "Sad",
-      "Angry",
-      "Joyful",
-      "Tired"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence is written in the past tense?",
-    "options": [
-      "She walks to school.",
-      "She will walk to school.",
-      "She walked to school.",
-      "She is walking to school."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the plural of 'child'?",
-    "options": [
-      "Childs",
-      "Children",
-      "Childes",
-      "Childrens"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a vowel?",
-    "options": [
-      "B",
-      "T",
-      "E",
-      "M"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is an adjective in the sentence: 'The big dog barked loudly'?",
-    "options": [
-      "Dog",
-      "Barked",
-      "Big",
-      "Loudly"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following words is spelled correctly?",
-    "options": [
-      "Freind",
-      "Friend",
-      "Frend",
-      "Friand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the word 'enormous' mean?",
-    "options": [
-      "Very small",
-      "Very fast",
-      "Very loud",
-      "Very large"
+      "Alliteration",
+      "Consonance",
+      "Assonance",
+      "Onomatopoeia"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which sentence uses a capital letter correctly?",
+    "question": "Which punctuation mark is used to indicate a pause that is shorter than a comma?",
     "options": [
-      "my name is john.",
-      "My name is john.",
-      "my name is John.",
-      "My name is John."
+      "Dash",
+      "Comma",
+      "Semi-colon",
+      "Period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a word that has the same sound but different spellings?",
+    "options": [
+      "Homophone",
+      "Antonym",
+      "Homograph",
+      "Synonym"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of a comma in a sentence?",
+    "options": [
+      "To join two clauses together",
+      "To show emphasis",
+      "To indicate a question",
+      "To separate items in a list or to indicate a pause"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a verb?",
+    "question": "What is the term for a sentence that contains a subject and a predicate?",
     "options": [
-      "Chair",
-      "Blue",
-      "Jump",
-      "Slowly"
+      "Complex sentence",
+      "Compound sentence",
+      "Compound-complex sentence",
+      "Simple sentence"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the opposite of 'hot'?",
+    "question": "What is the purpose of a title page in a text?",
     "options": [
-      "Warm",
-      "Cold",
-      "Bright",
-      "Soft"
+      "To conclude the text",
+      "To provide evidence",
+      "To introduce the main idea",
+      "To provide information about the text and its author"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word correctly completes the sentence: 'She ___ her homework every night'?",
-    "options": [
-      "do",
-      "does",
-      "doing",
-      "done"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a story, where would you usually find out what happens first?",
-    "options": [
-      "The conclusion",
-      "The middle",
-      "The beginning",
-      "The title page"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a compound word?",
-    "options": [
-      "Running",
-      "Sunflower",
-      "Happily",
-      "Quickly"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

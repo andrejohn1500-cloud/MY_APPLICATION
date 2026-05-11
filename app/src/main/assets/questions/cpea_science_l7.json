@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organelle is responsible for producing energy in animal cells?",
+    "question": "A magnet is placed under a sheet of paper on which a nail is lying. What will happen?",
     "options": [
-      "Nucleus",
-      "Mitochondria",
-      "Chloroplast",
-      "Vacuole"
+      "The magnet will attract the nail",
+      "The nail will fall off the paper",
+      "The magnet will repel the nail",
+      "The magnet will have no effect on the nail"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the chemical formula for water?",
+    "question": "What is the largest mountain range in the world?",
     "options": [
-      "CO2",
-      "H2O",
-      "O2",
-      "NaCl"
+      "Rocky Mountains",
+      "Mount Everest",
+      "Andes mountain range",
+      "Himalayan mountain range"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which type of rock is formed from cooled magma or lava?",
+    "question": "What is the process called when plants make their own food from sunlight?",
     "options": [
-      "Sedimentary",
-      "Metamorphic",
-      "Igneous",
-      "Limestone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What process do plants use to make their own food using sunlight?",
-    "options": [
+      "Fermentation",
       "Respiration",
-      "Digestion",
       "Photosynthesis",
-      "Transpiration"
+      "Decomposition"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which force pulls objects towards the centre of the Earth?",
+    "question": "What is the process by which plants and animals adapt to their environment?",
     "options": [
-      "Magnetism",
-      "Friction",
-      "Tension",
-      "Gravity"
+      "Evolution",
+      "Natural selection",
+      "Genetics",
+      "Mutation"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the unit used to measure electric current?",
+    "question": "Which type of rock is formed from the pressure and heat of the Earth's crust?",
     "options": [
-      "Volt",
-      "Watt",
-      "Ampere",
-      "Ohm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the human digestive system absorbs most nutrients into the bloodstream?",
-    "options": [
-      "Stomach",
-      "Large intestine",
-      "Mouth",
-      "Small intestine"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What type of mixture can be separated by filtration?",
-    "options": [
-      "Salt dissolved in water",
-      "Sugar dissolved in juice",
-      "Sand mixed with water",
-      "Alcohol mixed with water"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main function of red blood cells in the human body?",
-    "options": [
-      "Fight infections",
-      "Carry oxygen",
-      "Produce hormones",
-      "Clot blood"
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Igneous rock",
+      "Fossil rock"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which planet in our solar system is known as the Red Planet?",
+    "question": "Which part of the human body is responsible for controlling body temperature?",
     "options": [
-      "Venus",
-      "Jupiter",
-      "Saturn",
-      "Mars"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What type of energy is stored in food?",
-    "options": [
-      "Kinetic energy",
-      "Chemical energy",
-      "Thermal energy",
-      "Light energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a conductor of electricity?",
-    "options": [
-      "Rubber",
-      "Plastic",
-      "Copper",
-      "Wood"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the process by which water vapour cools and turns into liquid water called?",
-    "options": [
-      "Evaporation",
-      "Condensation",
-      "Precipitation",
-      "Transpiration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which organ in the human body filters waste products from the blood to produce urine?",
-    "options": [
-      "Liver",
       "Lungs",
+      "Kidneys",
+      "Sweat glands",
+      "Heart"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the study of the movement of the Earth and its rotation?",
+    "options": [
+      "Meteorology",
+      "Ecology",
+      "Oceanography",
+      "Geophysics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the scientific term for the study of the Earth's physical structure, composition, and processes?",
+    "options": [
+      "Ecology",
+      "Geology",
+      "Meteorology",
+      "Oceanography"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the human body is responsible for producing tears?",
+    "options": [
       "Heart",
+      "Tears glands",
+      "Lungs",
       "Kidneys"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the human body is responsible for regulating body temperature?",
+    "options": [
+      "Kidneys",
+      "Lungs",
+      "Sweat glands",
+      "Heart"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapour?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Evaporation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the movement of water from the roots to the leaves of a plant?",
+    "options": [
+      "Transpiration",
+      "Translocation",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the human body is responsible for producing urine?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Liver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of rock is formed from the pressure and heat of the Earth's crust?",
+    "options": [
+      "Fossil rock",
+      "Metamorphic rock",
+      "Sedimentary rock",
+      "Igneous rock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the movement of water through a plant, from the roots to the leaves?",
+    "options": [
+      "Translocation",
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis"
+    ],
+    "correctIndex": 0
   }
 ]

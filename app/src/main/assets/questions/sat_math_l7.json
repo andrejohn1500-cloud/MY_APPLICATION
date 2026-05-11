@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the solution set of |x - 3| = 5?",
+    "question": "A store sells a shirt for $20. If the sales tax is 8%, how much will the customer pay in total?",
     "options": [
-      "x = 8 or x = 2",
-      "x = 8 only",
-      "x = -8 or x = 2",
-      "x = 8 or x = -2"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A line passes through (0, 4) and (2, 8). What is its equation?",
-    "options": [
-      "y = 2x + 4",
-      "y = x + 4",
-      "y = 4x + 2",
-      "y = 2x - 4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of (2x - 3)\u00b2 when x = 4?",
-    "options": [
-      "49",
-      "13",
-      "25",
-      "22"
+      "$22.00",
+      "$23.00",
+      "$21.60",
+      "$22.50"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the distance between points (1, 2) and (4, 6)?",
+    "question": "A bakery sells 250 loaves of bread per day. If they make a profit of $0.50 per loaf, how much profit do they make in a day?",
     "options": [
-      "3",
-      "5",
+      "$150",
+      "$125",
+      "$200",
+      "$300"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If f(x) = 2x^2 - 5x - 3 and g(x) = x^2 + 2x - 1, what is the value of (f + g)(-1)?",
+    "options": [
+      "-6",
       "4",
+      "-4",
       "7"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What are the roots of x\u00b2 - 5x + 6 = 0?",
-    "options": [
-      "x = -2 and x = -3",
-      "x = 2 and x = 3",
-      "x = 1 and x = 6",
-      "x = 5 and x = 1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If p(x) = x\u00b2 - 4x + 3, what is p(1)?",
-    "options": [
-      "-1",
-      "0",
-      "2",
-      "1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the equation of a line parallel to y = 3x + 1 passing through (0, -2)?",
-    "options": [
-      "y = 3x + 2",
-      "y = (1/3)x - 2",
-      "y = 3x - 2",
-      "y = -3x - 2"
-    ],
     "correctIndex": 2
   },
   {
-    "question": "If 3x + 2y = 12 and x = 2, what is y?",
+    "question": "Solve the equation: x^2 + 2x - 3 = 0.",
     "options": [
-      "3",
-      "6",
-      "2",
-      "4"
+      "x = 3 or x = -1",
+      "x = -2",
+      "x = 1",
+      "x = 2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A circle has a radius of 5. What is its area?",
+    "question": "The function f(x) = 2x^2 - 3x - 1 has a root at x = 2. What is the other root of the function?",
     "options": [
-      "5\u03c0",
-      "25\u03c0",
-      "10\u03c0",
-      "50\u03c0"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the value of (x + y)\u00b2 - (x - y)\u00b2 simplified?",
-    "options": [
-      "2x\u00b2 + 2y\u00b2",
-      "x\u00b2 - y\u00b2",
-      "2xy",
-      "4xy"
+      "3",
+      "-2",
+      "4",
+      "-1"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If a rectangle has area 48 and width 6, what is its perimeter?",
+    "question": "The average of five numbers is 15. If one of the numbers is 10, what is the sum of the other four numbers?",
     "options": [
-      "22",
-      "48",
-      "28",
-      "24"
+      "80",
+      "60",
+      "70",
+      "50"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solve the inequality: 2x + 5 > 11.",
+    "options": [
+      "x < 3",
+      "x = 3",
+      "x > 1",
+      "x > 3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The area of a rectangle is 24 square units. If the length is 4 units, what is the width?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The average of five numbers is 15. If one of the numbers is 10, what is the sum of the other four numbers?",
+    "options": [
+      "80",
+      "60",
+      "70",
+      "90"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In an isosceles triangle with two sides equal to 5 and an angle of 120 degrees, what is the length of the third side?",
+    "options": [
+      "4.33",
+      "6.06",
+      "8.17",
+      "10.1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve the system of equations: x + y = 4 and x - y = 2.",
+    "options": [
+      "x = 4, y = 0",
+      "x = 2, y = 2",
+      "x = 1, y = 3",
+      "x = 3, y = 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a triangle, the length of one side is 8 and the length of another side is 5. What is the maximum possible length of the third side?",
+    "options": [
+      "8",
+      "9",
+      "11",
+      "10"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the slope of a line perpendicular to y = (1/2)x + 3?",
+    "question": "A box with a square base has a volume of 32 cubic meters and a height of 4 meters. What is the area of the base?",
     "options": [
-      "-1/2",
-      "-2",
-      "2",
-      "1/2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the ratio of boys to girls is 3:5 and there are 40 students total, how many boys are there?",
-    "options": [
-      "25",
-      "20",
+      "8",
       "12",
-      "15"
+      "20",
+      "16"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the 10th term of the arithmetic sequence 3, 7, 11, 15...?",
+    "question": "Solve the quadratic equation: x^2 + 4x + 4 = 0.",
     "options": [
-      "43",
-      "39",
-      "35",
-      "37"
+      "0",
+      "-2",
+      "1",
+      "-1"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Simplify: (x\u00b3)(x\u2074)",
+    "question": "In a triangle, the length of one side is 8 and the length of another side is 5. What is the perimeter of the triangle?",
     "options": [
-      "2x\u2077",
-      "x",
-      "x\u00b9\u00b2",
-      "x\u2077"
+      "19",
+      "21",
+      "20",
+      "18"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "Two angles are supplementary. One is 70\u00b0. What is the other?",
-    "options": [
-      "70\u00b0",
-      "110\u00b0",
-      "20\u00b0",
-      "290\u00b0"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A store marks up an item by 20% then discounts it 20%. What is the net effect?",
-    "options": [
-      "2% decrease",
-      "4% increase",
-      "No change",
-      "4% decrease"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A bag has 4 red and 6 blue balls. What is the probability of picking a red ball?",
-    "options": [
-      "4/10 simplified to 2/4",
-      "2/5",
-      "3/5",
-      "1/4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Solve the system: x + y = 10 and x - y = 4",
-    "options": [
-      "x = 3, y = 7",
-      "x = 6, y = 4",
-      "x = 5, y = 5",
-      "x = 7, y = 3"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "If 40% of a number is 28, what is the number?",
-    "options": [
-      "40",
-      "70",
-      "56",
-      "112"
-    ],
-    "correctIndex": 1
   }
 ]

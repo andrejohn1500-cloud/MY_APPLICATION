@@ -1,152 +1,152 @@
 [
   {
-    "question": "A cell is placed in a solution and water moves out of the cell by osmosis. What can be concluded about the external solution?",
+    "question": "What is the scientific method used to test a hypothesis?",
     "options": [
-      "It is hypotonic to the cell contents",
-      "It is hypertonic to the cell contents",
-      "It is isotonic to the cell contents",
-      "It has a higher water potential than the cell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the process of meiosis?",
-    "options": [
-      "Cell division that produces two genetically identical diploid daughter cells",
-      "Cell division that produces four genetically unique haploid daughter cells",
-      "Cell division that produces two genetically unique haploid daughter cells",
-      "Cell division that produces four genetically identical diploid daughter cells"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a circuit, three resistors of 4\u03a9, 6\u03a9, and 12\u03a9 are connected in parallel. What is the total resistance of the combination?",
-    "options": [
-      "22\u03a9",
-      "2\u03a9",
-      "4\u03a9",
-      "0.5\u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of bond is formed when electrons are transferred from one atom to another?",
-    "options": [
-      "Covalent bond",
-      "Metallic bond",
-      "Ionic bond",
-      "Hydrogen bond"
+      "inference",
+      "classification",
+      "experimentation",
+      "observation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A plant is kept in the dark for 48 hours and then a leaf is tested for starch. What result would be expected and why?",
+    "question": "What is the process by which an object moves from one place to another?",
     "options": [
-      "Starch present, because the plant stored starch from previous photosynthesis in all leaves",
-      "No starch present, because without light the plant cannot perform photosynthesis to produce glucose for starch synthesis",
-      "Starch present, because respiration produces starch as a byproduct in the dark",
-      "No starch present, because the plant converts all starch to proteins in the dark"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The half-life of a radioactive isotope is 20 years. If a sample initially contains 80g of the isotope, how much remains after 60 years?",
-    "options": [
-      "40g",
-      "20g",
-      "10g",
-      "5g"
+      "force",
+      "velocity",
+      "displacement",
+      "acceleration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following correctly describes the role of enzymes in biochemical reactions?",
+    "question": "What is the process by which plants convert sunlight into energy?",
     "options": [
-      "They are consumed in the reaction and increase the activation energy",
-      "They lower the activation energy and are not permanently altered by the reaction",
-      "They raise the activation energy and are regenerated at the end",
-      "They provide energy for the reaction and change their shape permanently"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which electromagnetic waves have the shortest wavelength?",
-    "options": [
-      "Radio waves",
-      "Visible light",
-      "Ultraviolet rays",
-      "Gamma rays"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In the Haber process, nitrogen and hydrogen react to form ammonia. Which conditions are used to achieve an economically viable yield?",
-    "options": [
-      "High temperature (800\u00b0C), low pressure, and no catalyst",
-      "Low temperature (150\u00b0C), high pressure (200 atm), and iron catalyst",
-      "Moderate temperature (450\u00b0C), high pressure (200 atm), and iron catalyst",
-      "High temperature (450\u00b0C), low pressure (10 atm), and platinum catalyst"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A food chain is: grass \u2192 grasshopper \u2192 frog \u2192 snake \u2192 hawk. If the grass contains 100,000 kJ of energy, assuming a 10% efficiency at each trophic level, how much energy is available to the hawk?",
-    "options": [
-      "10 kJ",
-      "1 kJ",
-      "100 kJ",
-      "1000 kJ"
+      "photosynthesis",
+      "respiration",
+      "transpiration",
+      "evaporation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which statement correctly describes the difference between mitosis and meiosis?",
+    "question": "The process of cellular respiration is an example of what type of chemical reaction?",
     "options": [
-      "Mitosis produces haploid cells; meiosis produces diploid cells",
-      "Mitosis results in genetic variation through crossing over; meiosis does not",
-      "Mitosis produces genetically identical cells for growth and repair; meiosis produces genetically diverse gametes",
-      "Mitosis involves two rounds of cell division; meiosis involves only one round"
+      "decomposition",
+      "reduction",
+      "synthesis",
+      "oxidation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The human heart pumps blood throughout the body in order to supply what?",
+    "options": [
+      "oxygen and nutrients",
+      "body heat",
+      "hormones",
+      "waste removal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement of water from the surface of the Earth to the atmosphere?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Runoff",
+      "Transpiration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The human eye is an example of an organ that is responsible for what?",
+    "options": [
+      "smell",
+      "sight",
+      "hearing",
+      "taste"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A cell is the basic unit of what in living organisms?",
+    "options": [
+      "energy",
+      "function",
+      "structure",
+      "material"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A negatively charged rod is brought near an uncharged metal sphere. Which phenomenon is responsible for the redistribution of charge in the sphere?",
+    "question": "The concept of conservation of energy states that energy cannot be created or destroyed, only what?",
     "options": [
-      "Electromagnetic induction",
-      "Electrostatic induction",
-      "Photoelectric effect",
-      "Thermionic emission"
+      "transformed",
+      "converted",
+      "transferred",
+      "absorbed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The human eye is an example of a sensory organ that is responsible for what?",
+    "options": [
+      "smell",
+      "sight",
+      "hearing",
+      "taste"
     ],
     "correctIndex": 1
   },
   {
-    "question": "An object is placed 15 cm from a converging lens with a focal length of 10 cm. What is the nature and position of the image formed?",
+    "question": "The concept of homeostasis states that the human body maintains a stable internal environment, despite changes in what?",
     "options": [
-      "Virtual, upright image at 30 cm on the same side as the object",
-      "Real, inverted image at 30 cm on the opposite side of the lens",
-      "Real, upright image at 6 cm on the opposite side of the lens",
-      "Virtual, inverted image at 6 cm on the same side as the object"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a correct statement about natural selection?",
-    "options": [
-      "Organisms develop new traits by willing themselves to change in response to the environment",
-      "Individuals with favorable heritable traits are more likely to survive and reproduce, passing those traits to offspring",
-      "All members of a species evolve at the same rate in response to environmental changes",
-      "Mutations always benefit an organism and increase its chances of survival"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When copper(II) sulfate solution undergoes electrolysis using copper electrodes, what happens at the anode?",
-    "options": [
-      "Hydrogen gas is released as water is oxidized",
-      "Oxygen gas is produced as sulfate ions are discharged",
-      "Copper atoms are oxidized and the anode gradually dissolves into solution",
-      "Copper ions are reduced and deposited on the anode"
+      "blood pressure",
+      "body temperature",
+      "external environment",
+      "internal environment"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The human body is composed of several systems, including the circulatory, respiratory and what?",
+    "options": [
+      "muscular system",
+      "nervous system",
+      "digestive system",
+      "skeletal system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the scientific term for the study of the Earth's physical structure, composition and processes?",
+    "options": [
+      "geology",
+      "meteorology",
+      "hydrology",
+      "oceanography"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the human body is responsible for regulating body temperature?",
+    "options": [
+      "Sweat glands",
+      "Lungs",
+      "Heart",
+      "Kidneys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The human body requires a balanced diet of carbohydrates, proteins and what?",
+    "options": [
+      "vitamins",
+      "minerals",
+      "water",
+      "fats"
+    ],
+    "correctIndex": 3
   }
 ]

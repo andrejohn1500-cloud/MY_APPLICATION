@@ -1,152 +1,72 @@
 [
   {
-    "question": "Which organ pumps blood around the body?",
+    "question": "What type of force is needed to hold an object together?",
     "options": [
-      "Brain",
-      "Heart",
-      "Lungs",
-      "Kidneys"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What gas do plants take in during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a mammal?",
-    "options": [
-      "Frog",
-      "Shark",
-      "Dolphin",
-      "Eagle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main source of energy for the Earth?",
-    "options": [
-      "The Moon",
-      "The Sun",
-      "Wind",
-      "Water"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which state of matter has a definite shape and volume?",
-    "options": [
-      "Gas",
-      "Liquid",
-      "Plasma",
-      "Solid"
+      "frictional force",
+      "centripetal force",
+      "normal force",
+      "tensile force"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What do we call animals that eat only plants?",
+    "question": "Which part of the human body is responsible for breathing?",
     "options": [
-      "Carnivores",
-      "Omnivores",
-      "Herbivores",
-      "Decomposers"
+      "lungs",
+      "stomach",
+      "heart",
+      "brain"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which part of the plant absorbs water from the soil?",
+    "question": "What is the process by which the body gets rid of excess water?",
     "options": [
-      "Leaves",
-      "Flowers",
-      "Roots",
-      "Stem"
+      "urination",
+      "excretion",
+      "respiration",
+      "transpiration"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the unit used to measure temperature?",
+    "question": "What is the term for the study of the structure of the Earth?",
     "options": [
-      "Kilograms",
-      "Metres",
-      "Degrees Celsius",
-      "Newtons"
+      "oceanography",
+      "geology",
+      "meteorology",
+      "geography"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is a renewable source of energy?",
+    "question": "What type of force is needed to hold an object against a surface?",
     "options": [
-      "Coal",
-      "Natural gas",
-      "Oil",
-      "Solar energy"
+      "normal force",
+      "frictional force",
+      "tensile force",
+      "centripetal force"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which the body gets rid of waste products through the skin?",
+    "options": [
+      "perspiration",
+      "respiration",
+      "excretion",
+      "transpiration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the 'study of the body as a whole'?",
+    "options": [
+      "anatomy",
+      "pathology",
+      "pharmacology",
+      "physiology"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "How many legs does an insect have?",
-    "options": [
-      "Four",
-      "Six",
-      "Eight",
-      "Ten"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What force pulls objects toward the center of the Earth?",
-    "options": [
-      "Magnetism",
-      "Friction",
-      "Gravity",
-      "Tension"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which planet is closest to the Sun?",
-    "options": [
-      "Earth",
-      "Venus",
-      "Mercury",
-      "Mars"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the process by which water turns into water vapor called?",
-    "options": [
-      "Condensation",
-      "Freezing",
-      "Evaporation",
-      "Melting"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nutrient helps build and repair body tissues?",
-    "options": [
-      "Carbohydrates",
-      "Protein",
-      "Fat",
-      "Vitamins"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of rock is formed from cooled lava?",
-    "options": [
-      "Sedimentary",
-      "Metamorphic",
-      "Igneous",
-      "Limestone"
-    ],
-    "correctIndex": 2
   }
 ]

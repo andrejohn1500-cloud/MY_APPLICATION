@@ -1,152 +1,92 @@
 [
   {
-    "question": "Which of the following best explains why water has an unusually high boiling point compared to other molecules of similar molecular mass?",
+    "question": "What is the term for the study of the relationship between living organisms and their environment?",
     "options": [
-      "Water molecules form hydrogen bonds with each other, requiring more energy to separate them",
-      "Water has a very high molecular mass that prevents easy evaporation",
-      "Water molecules are non-polar and therefore attract each other strongly",
-      "Water contains ionic bonds that must be broken during boiling"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A student measures the voltage across a resistor as 12 V and the current through it as 0.5 A. What is the resistance of the resistor?",
-    "options": [
-      "6 \u03a9",
-      "24 \u03a9",
-      "0.04 \u03a9",
-      "12.5 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During aerobic respiration, glucose is completely oxidised. Which pair of products is released?",
-    "options": [
-      "Carbon dioxide and water",
-      "Carbon dioxide and ethanol",
-      "Lactic acid and water",
-      "Oxygen and water"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A metal object is placed in a solution of copper sulfate. The metal object gains a coating of copper. Which conclusion is correct?",
-    "options": [
-      "The metal object is more reactive than copper",
-      "The metal object is less reactive than copper",
-      "The metal object and copper have equal reactivity",
-      "Copper sulfate is an acid that corrodes the metal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which organelle is responsible for producing ATP through aerobic respiration in eukaryotic cells?",
-    "options": [
-      "Ribosome",
-      "Nucleus",
-      "Mitochondrion",
-      "Chloroplast"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A ray of light passes from water (refractive index 1.33) into air (refractive index 1.00). What happens to the ray at the boundary?",
-    "options": [
-      "It bends away from the normal",
-      "It bends toward the normal",
-      "It continues in a straight line",
-      "It is completely absorbed"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following represents the correct word equation for the thermal decomposition of calcium carbonate?",
-    "options": [
-      "Calcium carbonate \u2192 calcium oxide + carbon dioxide",
-      "Calcium carbonate \u2192 calcium hydroxide + carbon",
-      "Calcium carbonate + water \u2192 calcium hydroxide + carbon dioxide",
-      "Calcium carbonate \u2192 calcium + carbon + oxygen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a food chain, energy is lost between trophic levels primarily because:",
-    "options": [
-      "Producers absorb too much sunlight",
-      "Consumers excrete all the food they eat",
-      "Energy is used in respiration, movement and is lost as heat",
-      "Decomposers steal energy from consumers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Two resistors of 4 \u03a9 and 6 \u03a9 are connected in parallel. What is their combined resistance?",
-    "options": [
-      "10 \u03a9",
-      "2.4 \u03a9",
-      "1.67 \u03a9",
-      "5 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of electromagnetic wave has the shortest wavelength and the most energy per photon?",
-    "options": [
-      "Radio waves",
-      "Visible light",
-      "Ultraviolet rays",
-      "Gamma rays"
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Ecology"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A plant is placed in a sealed transparent container in bright light. Over time, which change in gas composition would be expected?",
+    "question": "Which of the following is an example of a symbiotic relationship in nature?",
     "options": [
-      "Oxygen decreases and carbon dioxide increases",
-      "Oxygen increases and carbon dioxide decreases",
-      "Both oxygen and carbon dioxide increase",
-      "Both oxygen and carbon dioxide decrease"
+      "parasitism",
+      "predation",
+      "mutualism",
+      "competition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process by which water moves through a plant, from roots to leaves, is called what?",
+    "options": [
+      "transpiration",
+      "photosynthesis",
+      "respiration",
+      "evaporation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which an object changes from one state of matter to another?",
+    "options": [
+      "melting point",
+      "phase transition",
+      "physical change",
+      "chemical reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The pH of a solution is 2. Which statement correctly describes this solution?",
+    "question": "The Caribbean region is prone to natural disasters such as hurricanes and what?",
     "options": [
-      "It is strongly alkaline with a high concentration of OH\u207b ions",
-      "It is weakly acidic with a low concentration of H\u207a ions",
-      "It is strongly acidic with a high concentration of H\u207a ions",
-      "It is neutral with equal concentrations of H\u207a and OH\u207b ions"
+      "volcanic eruptions",
+      "wildfires",
+      "tsunamis",
+      "earthquakes"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which process describes the movement of water molecules from a region of high water potential to a region of low water potential through a selectively permeable membrane?",
+    "question": "The scientific term for the study of the structure and function of living organisms is what?",
     "options": [
-      "Active transport",
-      "Diffusion",
-      "Osmosis",
-      "Transpiration"
+      "mathematics",
+      "chemistry",
+      "biology",
+      "physics"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A rock sample contains equal amounts of a radioactive isotope and its stable decay product. If the half-life of the isotope is 1,000 years, how old is the rock sample?",
+    "question": "The study of the structure and function of the human body is known as what?",
     "options": [
-      "500 years",
-      "1,000 years",
-      "2,000 years",
-      "4,000 years"
+      "pathology",
+      "embryology",
+      "physiology",
+      "anatomy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The four types of matter are solid, liquid, gas and what?",
+    "options": [
+      "crystal",
+      "plasma",
+      "ion",
+      "liquid metal"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the periodic table, elements in the same group have similar chemical properties because they:",
+    "question": "The study of the structure and function of the human body is known as what?",
     "options": [
-      "Have the same number of protons in their nuclei",
-      "Have the same number of neutrons",
-      "Have the same number of electrons in their outermost shell",
-      "Have the same atomic mass"
+      "anatomy",
+      "physiology",
+      "pathology",
+      "embryology"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "A shopkeeper buys an article for $240 and sells it at a profit of 35%. What is the selling price?",
+    "question": "In a survey of 100 people, 70% prefer coffee and 30% prefer tea. How many people prefer coffee?",
     "options": [
-      "$275.00",
-      "$324.00",
-      "$288.00",
-      "$312.00"
+      "30",
+      "70",
+      "90",
+      "50"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Simplify: 3x\u00b2 + 5x - 2x\u00b2 - 3x + 7",
+    "question": "Solve for x: 3x^2 - 8x - 2 = 0",
     "options": [
-      "x\u00b2 + 2x + 7",
-      "5x\u00b2 + 8x + 7",
-      "x\u00b2 - 2x + 7",
-      "5x\u00b2 + 2x - 7"
+      "-1",
+      "4",
+      "-2",
+      "2.67"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A rectangle has a length of (2x + 3) cm and a width of (x - 1) cm. What is the area in terms of x?",
+    "question": "Solve for x: 4x^2 + 3x - 1 = 0",
     "options": [
-      "2x\u00b2 - 2x + 3x - 3",
-      "2x\u00b2 + x - 3",
-      "2x\u00b2 + 5x - 3",
-      "3x\u00b2 + x - 3"
+      "-1",
+      "2",
+      "1",
+      "-0.5"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "The ratio of boys to girls in a school is 3:5. If there are 120 boys, how many students are there altogether?",
+    "question": "Solve for x: x^2 - 6x - 7 = 0",
     "options": [
-      "200",
-      "240",
-      "320",
-      "160"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the value of 2\u00b3 \u00d7 3\u00b2 \u00f7 6?",
-    "options": [
-      "12",
-      "24",
+      "-2",
       "6",
-      "18"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
-    "options": [
-      "1540 cm\u00b3",
-      "2200 cm\u00b3",
-      "4400 cm\u00b3",
-      "770 cm\u00b3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Solve for x: 3(2x - 4) = 2(x + 6)",
-    "options": [
-      "x = 6",
-      "x = 5",
-      "x = 3",
-      "x = 7.5"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the simple interest on $2500 for 3 years is $375, what is the rate of interest per annum?",
-    "options": [
-      "4%",
-      "5%",
-      "6%",
-      "3%"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A triangle has vertices at coordinates (0,0), (4,0) and (0,3). What is the area of the triangle?",
-    "options": [
-      "12 sq units",
-      "6 sq units",
-      "7 sq units",
-      "10 sq units"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 15% of 360 added to 25% of 200?",
-    "options": [
-      "94",
-      "100",
-      "104",
-      "154"
+      "7",
+      "-1"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A car travels 180 km in 2.5 hours. What is its average speed in km/h?",
+    "question": "A car travels from City A to City B at an average speed of 70 km/h and returns at an average speed of 60 km/h. What is the average speed for the entire trip?",
     "options": [
-      "68 km/h",
-      "70 km/h",
-      "72 km/h",
-      "75 km/h"
+      "90",
+      "70",
+      "60",
+      "63.64"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Factorise completely: 6x\u00b2 - 9x",
+    "question": "A rectangular prism has a length of 18 cm, a width of 15 cm, and a height of 9 cm. What is its volume?",
     "options": [
-      "3(2x\u00b2 - 3x)",
-      "3x(2x - 3)",
-      "6x(x - 3)",
-      "2x(3x - 9)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The angles of a quadrilateral are in the ratio 2:3:4:6. What is the size of the largest angle?",
-    "options": [
-      "120\u00b0",
-      "144\u00b0",
-      "108\u00b0",
-      "160\u00b0"
+      "2160",
+      "2430",
+      "2700",
+      "1920"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A data set has values: 12, 15, 18, 22, 18, 14, 18, 20. What is the mode?",
+    "question": "A company has 2500 shares, and 15% are held by a single investor. How many shares are held by the investor?",
     "options": [
-      "18",
-      "15",
-      "20",
-      "22"
+      "375",
+      "500",
+      "300",
+      "450"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If f(x) = 3x\u00b2 - 2x + 1, what is f(-2)?",
+    "question": "A car travels from City A to City B at an average speed of 60 km/h and takes 4.5 hours. What is the distance between the two cities?",
+    "options": [
+      "270",
+      "360",
+      "240",
+      "300"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has 500 employees, and 10% are on leave. How many employees are on leave?",
+    "options": [
+      "50",
+      "80",
+      "40",
+      "60"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a geometric sequence with first term 5 and common ratio 3, what is the value of the 3rd term?",
+    "options": [
+      "36",
+      "24",
+      "45",
+      "27"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular prism has a length of 12 cm, a width of 9 cm, and a height of 6 cm. What is its surface area?",
+    "options": [
+      "360",
+      "240",
+      "306",
+      "270"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular prism has a length of 10 cm, a width of 8 cm, and a height of 5 cm. What is its volume?",
+    "options": [
+      "400",
+      "320",
+      "360",
+      "480"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x: x^2 - 7x - 18 = 0",
     "options": [
       "9",
-      "17",
-      "13",
-      "21"
+      "8",
+      "-2",
+      "-3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangular prism has a length of 16 cm, a width of 13 cm, and a height of 8 cm. What is its surface area?",
+    "options": [
+      "480",
+      "640",
+      "576",
+      "528"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve for x: x^2 + 9x + 8 = 0",
+    "options": [
+      "9",
+      "-8",
+      "1",
+      "-1"
     ],
     "correctIndex": 1
   }

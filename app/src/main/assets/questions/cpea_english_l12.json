@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which sentence correctly uses a semicolon?",
+    "question": "Which of the following is an example of a narrative essay?",
     "options": [
-      "I enjoy reading; because it relaxes me.",
-      "She studied hard; therefore, she passed the exam.",
-      "He went to the store; and bought milk.",
-      "They played outside; until it got dark."
+      "The effects of climate change on the environment",
+      "The story of how I overcame my fear of public speaking.",
+      "The benefits of regular exercise",
+      "The history of a particular country"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Identify the literary device in the following line: 'The wind whispered secrets through the trees.'",
+    "question": "What is the main difference between a persuasive essay and a descriptive essay?",
     "options": [
-      "Simile",
-      "Hyperbole",
-      "Personification",
-      "Alliteration"
+      "A persuasive essay aims to entertain the reader, while a descriptive essay aims to inform the reader",
+      "A persuasive essay aims to convince the reader of a particular point of view, while a descriptive essay aims to describe a person, place, or thing.",
+      "A persuasive essay aims to inform the reader, while a descriptive essay aims to entertain the reader",
+      "A persuasive essay aims to describe a person, place, or thing, while a descriptive essay aims to convince the reader of a particular point of view"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "question": "Which of the following is an example of a complex sentence?",
     "options": [
-      "The dog barked and the cat ran.",
-      "She sings beautifully.",
-      "Although it was raining, they continued the match.",
-      "He ran fast but still missed the bus."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct passive voice form of: 'The teacher marked the papers'?",
-    "options": [
-      "The papers were marked by the teacher.",
-      "The papers are marked by the teacher.",
-      "The teacher had marked the papers.",
-      "The papers have been marking by the teacher."
+      "The teacher, who was tired, decided to rest at home.",
+      "The teacher rested at home because she was tired",
+      "The teacher was tired and decided to rest at home",
+      "The teacher rested at home"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word is a synonym for 'ambiguous'?",
+    "question": "What is the main difference between a narrative essay and a descriptive essay?",
     "options": [
-      "Clear",
-      "Vague",
-      "Precise",
-      "Obvious"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In poetry, what term describes the repetition of consonant sounds at the beginning of words in close succession?",
-    "options": [
-      "Assonance",
-      "Rhyme",
-      "Alliteration",
-      "Onomatopoeia"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence contains a dangling modifier?",
-    "options": [
-      "Running quickly, she caught the bus.",
-      "Having finished the test, the results were checked by Maria.",
-      "Tired after the race, John sat down to rest.",
-      "The broken vase was swept up by the janitor."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the prefix 'bene-' mean in words like 'beneficial' and 'benevolent'?",
-    "options": [
-      "Against",
-      "Good or well",
-      "Below",
-      "Around"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the tone of a persuasive essay?",
-    "options": [
-      "Reflective and nostalgic",
-      "Objective and detached",
-      "Assertive and convincing",
-      "Humorous and light-hearted"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Identify the type of conflict in a story where a character struggles with a difficult personal decision.",
-    "options": [
-      "Person vs. Person",
-      "Person vs. Nature",
-      "Person vs. Society",
-      "Person vs. Self"
+      "A narrative essay is more formal, while a descriptive essay is more casual",
+      "A narrative essay is more casual, while a descriptive essay is more formal",
+      "A narrative essay describes a person, place, or thing, while a descriptive essay tells a story",
+      "A narrative essay tells a story, while a descriptive essay describes a person, place, or thing."
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which sentence uses the subjunctive mood correctly?",
+    "question": "Which of the following is an example of a formal report?",
     "options": [
-      "If she was here, she would help.",
-      "I wish he were more careful.",
-      "She was tired if she worked hard.",
-      "He is as if he were a king."
+      "A business report or a scientific report.",
+      "A personal essay or a reflective piece",
+      "A news article or a feature story",
+      "A letter to a friend or family member"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of a topic sentence in a paragraph?",
-    "options": [
-      "To provide evidence for the main argument",
-      "To conclude the paragraph with a summary",
-      "To introduce and state the main idea of the paragraph",
-      "To present a counterargument to the thesis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly identifies the figurative language: 'Life is a journey with no map.'?",
-    "options": [
-      "Simile",
-      "Metaphor",
-      "Hyperbole",
-      "Irony"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In formal writing, which of the following expressions should be avoided?",
-    "options": [
-      "Furthermore",
-      "Nevertheless",
-      "Lots of",
-      "In addition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which punctuation mark is used to introduce a list or a clause that explains or expands upon the preceding clause?",
-    "options": [
-      "Semicolon",
-      "Comma",
-      "Colon",
-      "Em dash"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

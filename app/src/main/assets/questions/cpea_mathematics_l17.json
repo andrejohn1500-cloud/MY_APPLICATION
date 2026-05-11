@@ -1,152 +1,152 @@
 [
   {
-    "question": "If f(x) = 3x\u00b2 - 5x + 2, what is the value of f(-2)?",
+    "question": "Solve for x: x^2 + 4x - 5 = 0",
     "options": [
-      "A. 24",
-      "B. 20",
-      "C. 16",
-      "D. 12"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A circle has an equation x\u00b2 + y\u00b2 - 6x + 4y - 12 = 0. What are the coordinates of the centre?",
-    "options": [
-      "A. (3, -2)",
-      "B. (-3, 2)",
-      "C. (6, -4)",
-      "D. (-6, 4)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the sum of the interior angles of a decagon?",
-    "options": [
-      "A. 1440\u00b0",
-      "B. 1260\u00b0",
-      "C. 1800\u00b0",
-      "D. 1080\u00b0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Solve for x: log\u2082(x + 3) + log\u2082(x - 1) = 5",
-    "options": [
-      "A. x = 5",
-      "B. x = 4",
-      "C. x = 6",
-      "D. x = 3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A geometric series has first term 4 and common ratio 3. What is the sum of the first 6 terms?",
-    "options": [
-      "A. 1456",
-      "B. 1296",
-      "C. 1024",
-      "D. 2916"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If sin \u03b8 = 5/13 and \u03b8 is in the first quadrant, what is the value of tan \u03b8?",
-    "options": [
-      "A. 5/12",
-      "B. 12/13",
-      "C. 5/13",
-      "D. 13/12"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the derivative of y = x\u00b3 ln x?",
-    "options": [
-      "A. x\u00b2(3 ln x + 1)",
-      "B. 3x\u00b2 ln x",
-      "C. x\u00b2(ln x + 3)",
-      "D. 3x\u00b2 + x\u00b2ln x"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The probability that event A occurs is 0.4 and the probability that event B occurs is 0.5. If A and B are independent, what is P(A \u222a B)?",
-    "options": [
-      "A. 0.70",
-      "B. 0.20",
-      "C. 0.90",
-      "D. 0.45"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the remainder when 2x\u00b3 - 3x\u00b2 + x - 5 is divided by (x - 2)?",
-    "options": [
-      "A. 1",
-      "B. -1",
-      "C. 3",
-      "D. -3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A right circular cone has a base radius of 6 cm and a slant height of 10 cm. What is the total surface area of the cone?",
-    "options": [
-      "A. 48\u03c0 cm\u00b2",
-      "B. 96\u03c0 cm\u00b2",
-      "C. 60\u03c0 cm\u00b2",
-      "D. 36\u03c0 cm\u00b2"
+      "1",
+      "-1",
+      "-2",
+      "5"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is the solution set of |2x - 3| \u2264 7?",
+    "question": "Solve for x: 2x^2 + 5x - 3 = 0",
     "options": [
-      "A. -2 \u2264 x \u2264 5",
-      "B. x \u2264 -2 or x \u2265 5",
-      "C. -5 \u2264 x \u2264 2",
-      "D. x \u2264 -5 or x \u2265 2"
+      "-2",
+      "0.5",
+      "1",
+      "-1.5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A rectangular prism has a length of 6 cm, a width of 4 cm, and a height of 3 cm. What is its volume?",
+    "options": [
+      "36",
+      "60",
+      "72",
+      "48"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company has 3000 shares, and 25% are held by a single investor. How many shares are held by the investor?",
+    "options": [
+      "750",
+      "1200",
+      "600",
+      "900"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Find the area enclosed between y = x\u00b2 and y = x + 6.",
+    "question": "A bakery sells 480 muffins in a day. If they make a profit of $0.50 on each muffin, what is their total profit for the day?",
     "options": [
-      "A. 125/6",
-      "B. 20/3",
-      "C. 36",
-      "D. 18"
+      "300",
+      "240",
+      "500",
+      "2400"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 80 km/h and takes 4 hours. What is the distance between the two cities?",
+    "options": [
+      "320",
+      "240",
+      "400",
+      "360"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the nth term of the sequence: 2, 6, 12, 20, 30, ...?",
+    "question": "In a survey of 500 people, 30% prefer coffee and 20% prefer tea. How many people prefer coffee?",
     "options": [
-      "A. n(n + 1)",
-      "B. n\u00b2 + 1",
-      "C. 2n\u00b2",
-      "D. n\u00b2 + n - 1"
+      "180",
+      "150",
+      "220",
+      "120"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a geometric sequence with first term 2 and common ratio 3, what is the value of the 5th term?",
+    "options": [
+      "1024",
+      "1921",
+      "512",
+      "1458"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a geometric sequence with first term 3 and common ratio 2, what is the value of the 4th term?",
+    "options": [
+      "16",
+      "48",
+      "32",
+      "12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a geometric sequence with first term 3 and common ratio 5, what is the value of the 2nd term?",
+    "options": [
+      "12",
+      "15",
+      "30",
+      "18"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has 2000 shares, and 20% are held by a single investor. How many shares are held by the investor?",
+    "options": [
+      "500",
+      "600",
+      "400",
+      "300"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 50 km/h and returns at an average speed of 70 km/h. What is the average speed for the entire trip?",
+    "options": [
+      "50",
+      "80",
+      "70",
+      "58.33"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 70 km/h and takes 3 hours. What is the distance between the two cities?",
+    "options": [
+      "210",
+      "140",
+      "280",
+      "300"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Two vectors are given as a = 3i + 4j and b = i - 2j. What is the angle between vectors a and b?",
+    "question": "In a geometric sequence with first term 2 and common ratio 4, what is the value of the 2nd term?",
     "options": [
-      "A. cos\u207b\u00b9(-1/\u221a125)",
-      "B. cos\u207b\u00b9(1/\u221a125)",
-      "C. cos\u207b\u00b9(5/\u221a125)",
-      "D. cos\u207b\u00b9(-5/\u221a50)"
+      "4",
+      "16",
+      "6",
+      "8"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The matrix A = [[2, 1], [5, 3]]. What is A\u207b\u00b9?",
+    "question": "Solve for x: 3x - 2 = 14",
     "options": [
-      "A. [[3, -1], [-5, 2]]",
-      "B. [[-3, 1], [5, -2]]",
-      "C. [[3, 1], [5, 2]]",
-      "D. [[2, -1], [-5, 3]]"
+      "1",
+      "4.67",
+      "6",
+      "-2"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

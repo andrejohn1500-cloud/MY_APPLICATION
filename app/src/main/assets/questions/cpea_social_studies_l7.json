@@ -1,152 +1,112 @@
 [
   {
-    "question": "Which of the following describes Nine Mornings in St. Vincent and the Grenadines?",
+    "question": "Which of the following is a major challenge facing the Caribbean region in terms of environmental degradation?",
     "options": [
-      "A unique pre-Christmas cultural tradition with early morning festivities",
-      "A religious fast lasting nine days",
-      "A cricket tournament",
-      "None of the above"
+      "Climate change only",
+      "Overfishing",
+      "Pollution from factories",
+      "Deforestation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key principle of the Universal Declaration of Human Rights?",
+    "options": [
+      "Right to vote only",
+      "Equality and non-discrimination",
+      "Freedom of speech and assembly only",
+      "Right to life and liberty only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of the United Nations Development Programme (UNDP) in the Caribbean?",
+    "options": [
+      "To promote economic growth and increase inequality",
+      "To promote tourism and entertainment",
+      "To reduce the standard of living and increase poverty",
+      "To promote sustainable development and reduce poverty"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the significance of the Organization of American States (OAS) in the Caribbean?",
+    "options": [
+      "To promote authoritarianism and human rights abuses",
+      "To promote democracy and human rights",
+      "To celebrate cultural heritage",
+      "To promote economic growth and development"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of governance where power is exercised by a group of leaders who are elected by the people?",
+    "options": [
+      "Democratic regime",
+      "Authoritarian regime",
+      "Federal regime",
+      "Parliamentary regime"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Vincentian volcano La Soufriere last had a major eruption in",
+    "question": "What is the name of the organization that promotes economic integration and cooperation among Caribbean countries?",
     "options": [
-      "2021",
-      "1979",
-      "1902",
-      "None of the above"
+      "Caribbean Development Bank",
+      "Caribbean Free Trade Association",
+      "Caribbean Export Development Agency (CARICOM Secretariat)",
+      "Caribbean Trade Union Congress"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following BEST describes the role of the judiciary?",
+    "question": "Which of the following is a key aspect of Caribbean culture?",
     "options": [
-      "To interpret laws and decide legal cases fairly",
-      "To make new laws for the country",
-      "To collect taxes from citizens",
-      "None of the above"
+      "Language only",
+      "Architecture only",
+      "Cuisine only",
+      "Music and dance"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The Senate in a Caribbean parliament is described as",
+    "question": "Which of the following was a significant event in the history of the Caribbean that led to the abolition of slavery?",
     "options": [
-      "The upper house that reviews legislation",
-      "The lower hower house where elected members sit",
-      "The court of final appeal",
-      "None of the above"
+      "The Cuban Revolution",
+      "The Barbados Slave Rebellion",
+      "The Grenada Revolution",
+      "The Haitian Revolution"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following BEST explains why Caribbean nations formed CARICOM?",
+    "question": "Which of the following is a type of economic system where the means of production are owned and controlled by the community?",
     "options": [
-      "To give Caribbean nations greater collective strength in trade and development",
-      "To create a single Caribbean country",
-      "To control Caribbean elections",
-      "None of the above"
+      "Market economy",
+      "Cooperative economy",
+      "Laissez-faire economy",
+      "Command economy"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a primary industry in SVG?",
+    "question": "What is the term for a group of people who share a common ancestry, language, and culture?",
     "options": [
-      "Banana and arrowroot farming",
-      "A car manufacturing plant",
-      "A call centre",
-      "None of the above"
+      "Caste system",
+      "Ethnic group",
+      "Social class",
+      "Occupational group"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a tertiary industry?",
+    "question": "Which of the following is a type of economic system where the means of production are owned and controlled by the state?",
     "options": [
-      "A hotel providing tourism services",
-      "A farmer growing crops",
-      "A factory making clothes",
-      "None of the above"
+      "Market economy",
+      "Laissez-faire economy",
+      "Mixed economy",
+      "Command economy"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does interregional trade mean?",
-    "options": [
-      "Trade between countries within the same region",
-      "Trade between a country and a very distant continent",
-      "Trade only within one country",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an effect of overfishing on Caribbean communities?",
-    "options": [
-      "Depletion of fish stocks threatening fishing livelihoods",
-      "More fish for everyone",
-      "Lower prices for fish",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following BEST describes the role of the Governor General in Caribbean nations?",
-    "options": [
-      "Representing the head of state and performing constitutional duties",
-      "Running the government daily",
-      "Making laws for the country",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following describes bartering?",
-    "options": [
-      "Exchanging goods for other goods without using money",
-      "Selling goods for money",
-      "Importing goods from abroad",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is the BEST reason to protect mangroves in the Caribbean?",
-    "options": [
-      "They protect coastlines and serve as nurseries for marine life",
-      "They are only useful for timber",
-      "They have no environmental value",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Crop rotation is beneficial to farmers because it",
-    "options": [
-      "Maintains soil fertility by growing different crops in the same field each season",
-      "Destroys pests permanently",
-      "Removes the need for irrigation",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following BEST describes what a constitution does?",
-    "options": [
-      "Sets out the basic laws and rights of a country",
-      "Lists all citizens of a country",
-      "Describes the country's geography",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a way citizens can hold their government accountable?",
-    "options": [
-      "Voting, peaceful protest and contacting their representatives",
-      "Only paying taxes",
-      "Only attending government functions",
-      "None of the above"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

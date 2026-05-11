@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which sentence uses the correct form of the verb?",
+    "question": "What is the purpose of a thesis statement in an essay?",
     "options": [
-      "She don't like mangoes.",
-      "She doesn't likes mangoes.",
-      "She doesn't like mangoes.",
-      "She don't likes mangoes."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the plural form of the word 'leaf'?",
-    "options": [
-      "Leafs",
-      "Leaves",
-      "Leafes",
-      "Leives"
+      "To introduce a new idea",
+      "To state the main argument or claim of the essay",
+      "To provide evidence",
+      "To conclude the essay"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Read the sentence: 'The children played in the park until the sun set.' What is the subject of this sentence?",
+    "question": "What is the term for a word that is used to describe or modify another word?",
     "options": [
-      "played",
-      "park",
-      "The children",
-      "sun"
+      "Adjective",
+      "Verb",
+      "Noun",
+      "Adverb"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which literary device involves using sensory details to create a vivid image in the reader's mind?",
+    "options": [
+      "Alliteration",
+      "Consonance",
+      "Assonance",
+      "Imagery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which literary device involves using repetition to create a musical or rhythmic effect?",
+    "options": [
+      "Onomatopoeia",
+      "Assonance",
+      "Alliteration",
+      "Consonance"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which word is an antonym of 'ancient'?",
+    "question": "What is the main difference between a simile and a metaphor?",
     "options": [
-      "Old",
-      "Historic",
-      "Modern",
-      "Worn"
+      "A simile is a figure of speech that uses hyperbole",
+      "A metaphor is a figure of speech that uses alliteration",
+      "A simile is a figure of speech that uses personification",
+      "A simile compares two things using 'like' or 'as', while a metaphor compares two things directly without using 'like' or 'as'"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which punctuation mark is used to show possession?",
-    "options": [
-      "Comma",
-      "Apostrophe",
-      "Colon",
-      "Hyphen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Identify the adjective in the following sentence: 'The tall boy climbed the rough wall.'",
-    "options": [
-      "climbed",
-      "boy",
-      "tall",
-      "wall"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence is written in the passive voice?",
-    "options": [
-      "Maria baked the cake.",
-      "The cake was baked by Maria.",
-      "Maria is baking a cake.",
-      "Maria will bake the cake."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the idiom 'break a leg' mean?",
-    "options": [
-      "To injure yourself",
-      "Good luck",
-      "To dance well",
-      "To run fast"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word correctly completes the sentence? 'Neither the teacher nor the students _____ ready.'",
-    "options": [
-      "was",
-      "were",
-      "is",
-      "are being"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a formal letter, which greeting is most appropriate?",
-    "options": [
-      "Hey there,",
-      "What's up,",
-      "Dear Sir or Madam,",
-      "Yo,"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which literary device is used in the phrase: 'The wind whispered through the trees'?",
-    "options": [
-      "Simile",
-      "Hyperbole",
-      "Personification",
-      "Alliteration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a persuasive text?",
-    "options": [
-      "To entertain the reader with a story",
-      "To describe a place or event",
-      "To convince the reader to accept a point of view",
-      "To explain how something works"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correctly spelled word:",
-    "options": [
-      "Recieve",
-      "Beleive",
-      "Achieve",
-      "Freind"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence contains a compound subject?",
-    "options": [
-      "The dog barked loudly.",
-      "Sara and James won the competition.",
-      "He finished his homework.",
-      "They left early."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Read this sentence: 'Although it was raining, we went to the beach.' What type of clause is 'Although it was raining'?",
-    "options": [
-      "Main clause",
-      "Independent clause",
-      "Subordinate clause",
-      "Relative clause"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

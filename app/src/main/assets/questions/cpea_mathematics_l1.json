@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is 345 + 278?",
+    "question": "A person has 18 pencils and she gives 1/6 of them to her friend, how many does she have left?",
     "options": [
-      "623",
-      "613",
-      "633",
-      "603"
+      "17",
+      "15",
+      "16",
+      "14"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular garden measures 6 meters by 4 meters. What is its area?",
+    "options": [
+      "24",
+      "16",
+      "20",
+      "12"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is 900 - 364?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have $120 to share, how much will each person get?",
     "options": [
-      "536",
-      "546",
-      "436",
-      "526"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following numbers is even?",
-    "options": [
-      "47",
-      "83",
-      "62",
-      "91"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 6 \u00d7 7?",
-    "options": [
-      "42",
-      "36",
-      "48",
-      "54"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is 56 \u00f7 8?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the value of the digit 4 in the number 3,472?",
-    "options": [
-      "4",
-      "40",
-      "400",
-      "4000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fraction is equivalent to one half?",
-    "options": [
-      "2/3",
-      "3/4",
-      "4/8",
-      "5/9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the perimeter of a square with sides of 5 cm?",
-    "options": [
-      "10 cm",
-      "15 cm",
-      "20 cm",
-      "25 cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the area of a rectangle that is 4 cm long and 3 cm wide?",
-    "options": [
-      "7 sq cm",
-      "14 sq cm",
-      "12 sq cm",
-      "10 sq cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many minutes are in one hour?",
-    "options": [
+      "60",
+      "80",
       "30",
-      "45",
-      "100",
-      "60"
+      "40"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What shape has 3 sides and 3 angles?",
+    "question": "If Sally has 15 pencils and she gives 1/3 of them to her friend, how many does she have left?",
     "options": [
-      "Square",
-      "Rectangle",
-      "Triangle",
-      "Circle"
+      "12",
+      "8",
+      "15",
+      "10"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which number comes next in the pattern: 5, 10, 15, 20, ___?",
+    "question": "What is the mean of 15, 18, 20, and 22?",
     "options": [
-      "24",
+      "19",
       "25",
-      "26",
-      "30"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 25% of 80?",
-    "options": [
       "20",
-      "25",
-      "40",
       "15"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If a bag of apples costs $3.50 and you pay with a $5.00 bill, how much change will you receive?",
+    "question": "In a set of numbers {1, 2, 2, 3, 3, 3}, what is the mode?",
     "options": [
-      "$1.00",
-      "$1.50",
-      "$2.00",
-      "$2.50"
+      "3",
+      "1",
+      "2",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the probability of getting an even number when rolling a die?",
+    "options": [
+      "1/3",
+      "2/3",
+      "3/4",
+      "1/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the value of 6 \u00d7 9?",
+    "options": [
+      "70",
+      "60",
+      "45",
+      "54"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Solve the equation 2x = 6:",
+    "options": [
+      "4",
+      "1",
+      "6",
+      "3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the probability of getting a head when flipping a coin?",
+    "options": [
+      "3/4",
+      "1/3",
+      "2/3",
+      "1/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "50% of 120 is equal to what number?",
+    "options": [
+      "20",
+      "80",
+      "60",
+      "100"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the area of a circle with radius 5 cm?",
+    "options": [
+      "50",
+      "25",
+      "100",
+      "78.5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm?",
+    "options": [
+      "10",
+      "12",
+      "6",
+      "8"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the line of symmetry in a shape?",
+    "question": "What is 3/4 of 48?",
     "options": [
-      "A line that makes the shape bigger",
-      "A line that divides the shape into two equal halves",
-      "A line that goes around the shape",
-      "A line that measures the length of the shape"
+      "40",
+      "24",
+      "36",
+      "30"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of 2 + 3?",
+    "options": [
+      "5",
+      "1",
+      "9",
+      "7"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which sentence uses the correct form of the verb?",
+    "question": "What is the purpose of a letter of application?",
     "options": [
-      "She don't like mangoes.",
-      "She doesn't likes mangoes.",
-      "She doesn't like mangoes.",
-      "She don't likes mangoes."
+      "To conclude the letter",
+      "To introduce oneself",
+      "To provide information",
+      "To apply for a job or a place at a school"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the plural form of the word 'leaf'?",
+    "question": "What is the purpose of a report?",
     "options": [
-      "leafs",
-      "leaves",
-      "leafes",
-      "leafs"
+      "To introduce a new idea",
+      "To conclude the report",
+      "To provide evidence",
+      "To provide information on a specific topic or issue"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Read the sentence: 'The children played in the park until it was dark.' What is the tense of this sentence?",
+    "question": "Which literary device involves comparing two things without using 'like' or 'as'?",
     "options": [
-      "Present tense",
-      "Future tense",
-      "Past tense",
-      "Present perfect tense"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is a synonym for 'happy'?",
-    "options": [
-      "Sad",
-      "Angry",
-      "Joyful",
-      "Tired"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence contains a simile?",
-    "options": [
-      "The dog barked loudly all night.",
-      "Her smile lit up the room.",
-      "He ran like the wind across the field.",
-      "The tree stood tall in the garden."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correct punctuation for the sentence: 'Maria said ___ I will come to your party tomorrow'",
-    "options": [
-      "Maria said, 'I will come to your party tomorrow.'",
-      "Maria said I will come to your party tomorrow.",
-      "Maria said; I will come to your party tomorrow.",
-      "Maria said: i will come to your party tomorrow."
+      "Metaphor",
+      "Personification",
+      "Alliteration",
+      "Simile"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the prefix 'un-' mean in the word 'unhappy'?",
+    "question": "Which grammatical term refers to a group of words that cannot stand alone as a complete thought?",
     "options": [
-      "Very",
-      "Again",
-      "Not",
-      "Before"
+      "Sentence",
+      "Paragraph",
+      "Clause",
+      "Phrase"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a compound sentence?",
+    "question": "Which of the following is an example of a literary device used in poetry to create a sense of rhythm and rhyme?",
     "options": [
-      "The cat sat on the mat.",
-      "Although it was raining, we went outside.",
-      "The dog barked, and the cat ran away.",
-      "Running through the park quickly."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word best completes the sentence? 'The athlete trained _______ to prepare for the competition.'",
-    "options": [
-      "lazy",
-      "lazily",
-      "diligently",
-      "careless"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What literary device is used in the phrase: 'The thunder grumbled and growled across the sky'?",
-    "options": [
-      "Simile",
-      "Alliteration",
       "Personification",
-      "Rhyme"
+      "Hyperbole",
+      "Alliteration",
+      "Onomatopoeia"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which sentence is written in the passive voice?",
+    "question": "What is the term for a poem that has a regular rhythm and meter?",
     "options": [
-      "The baker baked a delicious cake.",
-      "The children enjoyed the party.",
-      "The trophy was won by the school team.",
-      "Maria painted the beautiful mural."
+      "Ode",
+      "Free verse",
+      "Sonnet",
+      "Haiku"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A reader can infer from a text by using _______.",
+    "question": "Which of the following best describes the tone of the passage in 'The Tell-Tale Heart' by Edgar Allan Poe?",
     "options": [
-      "only the pictures in the text",
-      "clues from the text and their own knowledge",
-      "only what the author directly states",
-      "the title of the text alone"
+      "The tone is one of love and romance",
+      "The tone is one of excitement and adventure",
+      "The tone is one of suspense and horror.",
+      "The tone is one of sadness and melancholy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a summary in a text?",
+    "options": [
+      "To conclude the text",
+      "To provide a brief overview of the main points",
+      "To introduce a new idea",
+      "To provide evidence"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is an antonym of 'ancient'?",
+    "question": "What is the term for a word that is used to modify a verb, an adjective, or another adverb?",
     "options": [
-      "Old",
-      "Historic",
-      "Modern",
-      "Traditional"
+      "Noun",
+      "Verb",
+      "Adjective",
+      "Adverb"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a sentence that contains two or more independent clauses?",
+    "options": [
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence",
+      "Simple sentence"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the use of metaphors in the novel 'To Kill a Mockingbird' by Harper Lee?",
+    "options": [
+      "To convey complex moral themes and ideas",
+      "To provide a sense of historical context",
+      "To create a vivid and imaginative description of characters and events.",
+      "To create a sense of realism and authenticity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of writing would you use to convince someone to recycle more?",
+    "question": "Which literary device involves using words that have a strong emotional connotation?",
     "options": [
-      "Narrative writing",
-      "Descriptive writing",
-      "Persuasive writing",
-      "Expository writing"
+      "Imagery",
+      "Assonance",
+      "Consonance",
+      "Alliteration"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Choose the sentence that uses apostrophes correctly.",
+    "question": "What is the purpose of using a colon (:) in a sentence?",
     "options": [
-      "The boys's bicycles were parked outside.",
-      "The boys' bicycles were parked outside.",
-      "The boys bicycles were parked outside.",
-      "The boy's' bicycles were parked outside."
+      "To introduce a list, a quote, or an explanation.",
+      "To introduce a conclusion or a summary",
+      "To introduce a question or a dialogue",
+      "To introduce a description or a detail"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "Which grammatical term refers to a word that is used to indicate a relationship between words or phrases?",
+    "options": [
+      "Interjection",
+      "Conjunction",
+      "Article",
+      "Preposition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which punctuation mark is used to indicate a break in thought or to set off a nonessential clause?",
+    "options": [
+      "Comma",
+      "Dash",
+      "Period",
+      "Semi-colon"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organ pumps blood around the body?",
+    "question": "Which of the following is a type of Caribbean ecosystem?",
     "options": [
-      "Brain",
-      "Heart",
-      "Lungs",
-      "Kidneys"
+      "rainforest",
+      "desert",
+      "grassland",
+      "coral reef"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": [
+      "transpiration",
+      "evaporation",
+      "respiration",
+      "photosynthesis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Uranus",
+      "Jupiter",
+      "Earth",
+      "Saturn"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What gas do plants take in during photosynthesis?",
+    "question": "What type of force is needed to keep an object moving in a circle?",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which state of matter has a definite shape and volume?",
-    "options": [
-      "Gas",
-      "Liquid",
-      "Plasma",
-      "Solid"
+      "frictional force",
+      "tensile force",
+      "normal force",
+      "centripetal force"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the basic unit of life?",
+    "question": "What is the process by which the body gets rid of excess heat?",
     "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Atom"
+      "sweating",
+      "respiration",
+      "transpiration",
+      "excretion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which the body gets rid of waste products?",
+    "options": [
+      "excretion",
+      "photosynthesis",
+      "respiration",
+      "transpiration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which plants make seeds?",
+    "options": [
+      "pollination",
+      "transpiration",
+      "photosynthesis",
+      "respiration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ecosystem?",
+    "options": [
+      "rainforest",
+      "desert",
+      "coral reef",
+      "grassland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of force is needed to keep an object moving in a straight line?",
+    "options": [
+      "normal force",
+      "frictional force",
+      "centripetal force",
+      "tensile force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ecosystem?",
+    "options": [
+      "grassland",
+      "coral reef",
+      "rainforest",
+      "desert"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ecosystem?",
+    "options": [
+      "coral reef",
+      "desert",
+      "rainforest",
+      "grassland"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the process by which water moves through a plant, from the roots to the leaves?",
+    "options": [
+      "respiration",
+      "photosynthesis",
+      "transpiration",
+      "translocation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which planet is closest to the Sun?",
+    "question": "What type of force is needed to keep an object stationary?",
     "options": [
-      "Venus",
-      "Earth",
-      "Mars",
-      "Mercury"
+      "frictional force",
+      "tensile force",
+      "normal force",
+      "centripetal force"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What do we call animals that eat only plants?",
+    "question": "What is the term for the 'study of the Earth's atmosphere and weather'?",
     "options": [
-      "Carnivores",
-      "Omnivores",
-      "Herbivores",
-      "Decomposers"
+      "geology",
+      "oceanography",
+      "meteorology",
+      "geography"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a good conductor of electricity?",
+    "question": "What is the scientific method that is used to solve problems?",
     "options": [
-      "Plastic",
-      "Wood",
-      "Rubber",
-      "Copper"
+      "scientific experimentation",
+      "scientific inquiry",
+      "scientific investigation",
+      "scientific observation"
     ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What force pulls objects towards the centre of the Earth?",
-    "options": [
-      "Magnetism",
-      "Friction",
-      "Gravity",
-      "Tension"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the plant absorbs water and minerals from the soil?",
-    "options": [
-      "Leaves",
-      "Stem",
-      "Flowers",
-      "Roots"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the chemical symbol for water?",
-    "options": [
-      "CO2",
-      "NaCl",
-      "H2O",
-      "O2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of rock is formed from cooled lava?",
-    "options": [
-      "Sedimentary",
-      "Metamorphic",
-      "Limestone",
-      "Igneous"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the main source of energy for the Earth?",
-    "options": [
-      "The Moon",
-      "Wind",
-      "The Sun",
-      "Volcanoes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a vertebrate animal?",
-    "options": [
-      "Earthworm",
-      "Butterfly",
-      "Snail",
-      "Frog"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What do we call the change of state from liquid to gas?",
-    "options": [
-      "Melting",
-      "Condensation",
-      "Freezing",
-      "Evaporation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which nutrient is the main source of energy for the body?",
-    "options": [
-      "Protein",
-      "Vitamins",
-      "Carbohydrates",
-      "Minerals"
-    ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

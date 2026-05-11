@@ -1,152 +1,152 @@
 [
   {
-    "question": "A cell is placed in a solution and water moves out of the cell by osmosis. What can be concluded about the solution surrounding the cell?",
+    "question": "The process of mitosis is an example of what type of cell division?",
     "options": [
-      "The solution has a lower solute concentration than the cell cytoplasm",
-      "The solution is isotonic to the cell",
-      "The solution has a higher solute concentration than the cell cytoplasm",
-      "The solution has a higher water potential than the cell cytoplasm"
+      "ternary",
+      "asexual",
+      "sexual",
+      "binary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of conservation of mass states that mass cannot be created or destroyed, only what?",
+    "options": [
+      "converted",
+      "transferred",
+      "transformed",
+      "absorbed"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following correctly describes the process of transcription in eukaryotic cells?",
+    "question": "The process of osmosis is an example of what type of movement?",
     "options": [
-      "DNA is translated into protein in the cytoplasm",
-      "mRNA is synthesised from a DNA template in the nucleus using RNA polymerase",
-      "tRNA carries amino acids to the ribosome during protein synthesis",
-      "DNA is replicated semi-conservatively before cell division"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A metal displaces hydrogen from dilute hydrochloric acid. Which property of the metal allows it to do this?",
-    "options": [
-      "It is less reactive than hydrogen",
-      "It is more reactive than hydrogen",
-      "It has a higher atomic mass than hydrogen",
-      "It has more electrons than hydrogen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a food chain, energy is lost between trophic levels. Which process accounts for the GREATEST loss of energy from one trophic level to the next?",
-    "options": [
-      "Excretion of waste materials",
-      "Energy used in reproduction",
-      "Energy lost as heat through cellular respiration",
-      "Reflection of light from organisms"
+      "filtration",
+      "active",
+      "passive",
+      "diffusion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best explains why noble gases are unreactive?",
+    "question": "The concept of diffusion states that particles move from an area of high concentration to an area of what?",
     "options": [
-      "They have very low boiling points",
-      "They exist as monatomic gases at room temperature",
-      "They have a complete outermost electron shell",
-      "They have the highest ionisation energies of all elements"
+      "low pressure",
+      "equal concentration",
+      "high pressure",
+      "low concentration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The human body is composed of several systems, including the skeletal, muscular and what?",
+    "options": [
+      "digestive system",
+      "respiratory system",
+      "nervous system",
+      "circulatory system"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A wave travels from air into glass and its speed decreases. Which statement correctly describes what happens to its frequency and wavelength?",
+    "question": "The study of the structure and function of the Caribbean ecosystem is known as what?",
     "options": [
-      "Frequency increases and wavelength decreases",
-      "Frequency stays the same and wavelength decreases",
-      "Frequency decreases and wavelength stays the same",
-      "Both frequency and wavelength decrease"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During meiosis, genetic variation is increased by which TWO processes?",
-    "options": [
-      "DNA replication and cytokinesis",
-      "Crossing over and independent assortment of chromosomes",
-      "Mitosis and independent assortment",
-      "Crossing over and semi-conservative replication"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A student titrates 25.0 cm\u00b3 of NaOH solution with 0.1 mol/dm\u00b3 HCl solution. The titre is 20.0 cm\u00b3. What is the concentration of the NaOH solution?",
-    "options": [
-      "0.08 mol/dm\u00b3",
-      "0.125 mol/dm\u00b3",
-      "0.1 mol/dm\u00b3",
-      "0.05 mol/dm\u00b3"
+      "ecology",
+      "biomechanics",
+      "biophysics",
+      "biogeography"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a correct statement about enzymes?",
+    "question": "What is the force that attracts objects with mass towards each other?",
     "options": [
-      "Enzymes are consumed during the reactions they catalyse",
-      "Enzymes lower the activation energy of a reaction",
-      "Enzymes increase the activation energy to speed up reactions",
-      "Enzymes change the overall energy released in a reaction"
+      "friction",
+      "gravity",
+      "buoyancy",
+      "air resistance"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A circuit contains a resistor of 10 \u03a9 connected to a 20 V battery. What is the power dissipated by the resistor?",
+    "question": "The Caribbean region is home to a wide variety of marine ecosystems, including coral reefs and what?",
     "options": [
-      "2 W",
-      "200 W",
-      "40 W",
-      "0.5 W"
+      "grasslands",
+      "rainforests",
+      "mangrove forests",
+      "deserts"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which statement correctly explains why the melting point of sodium chloride is much higher than that of iodine?",
+    "question": "The human body requires a constant supply of oxygen and what?",
     "options": [
-      "Sodium chloride has stronger covalent bonds than iodine",
-      "Sodium chloride has an ionic lattice requiring large amounts of energy to break, while iodine has weak van der Waals forces between molecules",
-      "Iodine has a larger molecular mass than sodium chloride",
-      "Sodium chloride molecules have stronger dipole-dipole interactions than iodine"
+      "water",
+      "salts",
+      "glucose",
+      "minerals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The human brain is responsible for controlling what in the body?",
+    "options": [
+      "cells",
+      "tissues",
+      "functions",
+      "organs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The scientific term for the study of the Earth's atmosphere is what?",
+    "options": [
+      "meteorology",
+      "hydrology",
+      "oceanography",
+      "geology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the scientific term for the ability of an object to do work?",
+    "options": [
+      "momentum",
+      "torque",
+      "energy",
+      "force"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of adaptation states that living organisms change in response to their environment in order to what?",
+    "options": [
+      "migrate",
+      "survive",
+      "die",
+      "thrive"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A population of bacteria doubles every 20 minutes. Starting with 100 bacteria, how many will be present after 1 hour?",
+    "question": "The concept of inheritance states that characteristics are passed down from parents to offspring through what?",
     "options": [
-      "400",
-      "600",
-      "800",
-      "1600"
+      "DNA",
+      "chromosomes",
+      "genes",
+      "RNA"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following statements about the carbon cycle is correct?",
+    "question": "The process of decomposition is an example of what type of chemical reaction?",
     "options": [
-      "Combustion removes carbon dioxide from the atmosphere",
-      "Photosynthesis releases carbon dioxide into the atmosphere",
-      "Decomposition by microorganisms returns carbon to the atmosphere as carbon dioxide",
-      "Respiration fixes carbon dioxide into organic compounds"
+      "respiration",
+      "photosynthesis",
+      "anabolism",
+      "catabolism"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An object of mass 5 kg is lifted to a height of 4 m above the ground. What is its gravitational potential energy? (g = 10 m/s\u00b2)",
-    "options": [
-      "20 J",
-      "9 J",
-      "200 J",
-      "2 J"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly identifies the role of the left ventricle in the human circulatory system?",
-    "options": [
-      "It receives oxygenated blood from the body and pumps it to the lungs",
-      "It receives deoxygenated blood from the body and pumps it to the lungs",
-      "It receives oxygenated blood from the lungs and pumps it to the body at high pressure",
-      "It receives deoxygenated blood from the lungs and pumps it to the body"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

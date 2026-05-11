@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which organ in the human body is responsible for pumping blood throughout the body?",
+    "question": "What is the term for the study of the Earth's physical properties and processes?",
     "options": [
-      "Lungs",
-      "Heart",
-      "Kidneys",
-      "Liver"
+      "Meteorology",
+      "Geophysics",
+      "Geology",
+      "Ecology"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the process by which plants make their own food using sunlight, water, and carbon dioxide?",
+    "question": "What is the term for the study of the relationship between living organisms and their environment?",
+    "options": [
+      "Physics",
+      "Ecology",
+      "Biology",
+      "Chemistry"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the human body is responsible for filtering waste from the blood?",
+    "options": [
+      "Kidneys",
+      "Lungs",
+      "Liver",
+      "Heart"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of rock is formed from the cooling and solidification of molten lava?",
+    "options": [
+      "Metamorphic rock",
+      "Igneous rock",
+      "Fossil rock",
+      "Sedimentary rock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the Earth's magnetic field and its effects on living organisms?",
+    "options": [
+      "Meteorology",
+      "Geology",
+      "Geomagnetism",
+      "Ecology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Skin",
+      "Heart"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of the root system in a plant?",
+    "options": [
+      "To protect the plant from pests and diseases",
+      "To produce food through photosynthesis",
+      "To store water and nutrients",
+      "To absorb water and nutrients from the soil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the movement of materials from one place to another?",
+    "options": [
+      "Distribution",
+      "Transportation",
+      "Production",
+      "Communication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the process by which water is heated and turns into water vapour?",
     "options": [
       "Respiration",
+      "Evaporation",
       "Transpiration",
-      "Photosynthesis",
-      "Digestion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a conductor of electricity?",
-    "options": [
-      "Rubber",
-      "Wood",
-      "Plastic",
-      "Copper"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What force pulls objects toward the center of the Earth?",
-    "options": [
-      "Magnetism",
-      "Friction",
-      "Gravity",
-      "Tension"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the plant absorbs water and minerals from the soil?",
-    "options": [
-      "Leaves",
-      "Stem",
-      "Roots",
-      "Flowers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the chemical symbol for water?",
-    "options": [
-      "CO2",
-      "O2",
-      "H2O",
-      "NaCl"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of rock is formed from cooled magma or lava?",
-    "options": [
-      "Sedimentary",
-      "Metamorphic",
-      "Igneous",
-      "Limestone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What happens to most substances when they are heated?",
-    "options": [
-      "They contract",
-      "They expand",
-      "They dissolve",
-      "They evaporate"
+      "Condensation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which gas do humans exhale in greater amounts compared to what they inhale?",
+    "question": "What is the process by which the Earth's plates move and change?",
     "options": [
-      "Oxygen",
-      "Nitrogen",
+      "Geological time scale",
+      "Plate tectonics",
+      "Sea floor spreading",
+      "Continental drift"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the Earth's atmosphere and its effects on living organisms?",
+    "options": [
+      "Geology",
+      "Ecology",
+      "Geophysics",
+      "Meteorology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Sahel Desert",
+      "Gobi Desert",
+      "Mojave Desert"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the human body is responsible for filtering waste from the blood and forming urine?",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Heart",
+      "Kidneys"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main component of the Earth's atmosphere?",
+    "options": [
       "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the unit used to measure force?",
-    "options": [
-      "Kilogram",
-      "Joule",
-      "Newton",
-      "Watt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following animals is a mammal?",
-    "options": [
-      "Crocodile",
-      "Salmon",
-      "Dolphin",
-      "Eagle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of change occurs when ice melts into water?",
-    "options": [
-      "Chemical change",
-      "Permanent change",
-      "Physical change",
-      "Biological change"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which planet in our solar system is known as the Red Planet?",
-    "options": [
-      "Jupiter",
-      "Venus",
-      "Saturn",
-      "Mars"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the main function of red blood cells in the human body?",
-    "options": [
-      "Fight infections",
-      "Carry oxygen",
-      "Produce hormones",
-      "Digest food"
+      "Nitrogen",
+      "Oxygen",
+      "Helium"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes a food chain?",
+    "question": "Which type of rock is formed from the compression of sediments?",
     "options": [
-      "A cycle showing how water moves through the environment",
-      "A diagram showing how energy flows from one organism to another",
-      "A list of all animals in an ecosystem",
-      "A map showing where plants grow"
+      "Metamorphic rock",
+      "Sedimentary rock",
+      "Fossil rock",
+      "Igneous rock"
     ],
     "correctIndex": 1
   }

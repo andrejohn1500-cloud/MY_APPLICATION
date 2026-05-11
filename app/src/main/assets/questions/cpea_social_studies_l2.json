@@ -1,152 +1,112 @@
 [
   {
-    "question": "A family with only a mother, father and their children is called",
+    "question": "Which of the following is a type of governance where power is exercised by a council of leaders?",
     "options": [
-      "A nuclear family",
-      "An extended family",
-      "A single parent family",
-      "None of the above"
+      "Council system",
+      "Monarchy",
+      "Theocracy",
+      "Parliamentary system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following practices contributes to good health?",
+    "question": "What is the main purpose of the Sustainable Development Goals (SDGs) in the Caribbean?",
     "options": [
-      "Practising personal hygiene",
-      "Eating as one likes",
-      "Watching television all night",
-      "None of the above"
+      "To reduce the standard of living and increase poverty",
+      "To promote tourism and entertainment",
+      "To promote sustainable development and reduce poverty",
+      "To promote economic growth and increase inequality"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term used to describe the destruction of the indigenous population of the Caribbean?",
+    "options": [
+      "Immigration",
+      "Colonization",
+      "Assimilation",
+      "Genocide"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a human right that is fundamental to the dignity of all individuals?",
+    "options": [
+      "Right to freedom of speech",
+      "Right to life",
+      "Right to live in a designated area",
+      "Right to bear arms"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of economic system where the state plays a minimal role in the economy?",
+    "options": [
+      "Laissez-faire economy",
+      "Command economy",
+      "Mixed economy",
+      "Market economy"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If garbage collectors do NOT do their job, what is MOST likely to happen?",
+    "question": "What is the main purpose of the CARICOM Single Market and Economy (CSME)?",
     "options": [
-      "An outbreak of diseases",
-      "Soil erosion",
-      "Noise pollution",
-      "None of the above"
+      "To promote tourism and entertainment",
+      "To promote economic integration and cooperation among member states",
+      "To celebrate cultural heritage",
+      "To provide aid to non-member states"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of government where power is divided between a central authority and smaller regional governments?",
+    "options": [
+      "Confederate system",
+      "Monarchic system",
+      "Federal system",
+      "Unitary system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the significance of the Montego Bay Convention in the Caribbean?",
+    "options": [
+      "To provide aid to non-member states",
+      "To address issues related to the environment and human rights",
+      "To celebrate cultural heritage",
+      "To promote trade and commerce"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a fundamental right of a citizen?",
+    "options": [
+      "Right to bear arms only",
+      "Freedom of speech",
+      "Right to vote only for men",
+      "Right to live only in a designated area"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of a family?",
+    "options": [
+      "To provide love and support to its members",
+      "To earn wealth",
+      "To obtain power",
+      "To gain recognition"
     ],
     "correctIndex": 0
   },
   {
-    "question": "People of African descent were brought to the Caribbean under which system?",
+    "question": "What is the significance of the African diaspora in the Caribbean?",
     "options": [
-      "Slavery",
-      "Indentureship",
-      "Conscription",
-      "None of the above"
+      "To promote indigenous culture and identity",
+      "To promote Asian culture and identity",
+      "To promote African culture and identity",
+      "To promote European culture and identity"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "People of Indian descent were brought to the Caribbean under which system?",
-    "options": [
-      "Indentureship",
-      "Slavery",
-      "Volunteering",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is the MOST suitable method of ensuring safe drinking water?",
-    "options": [
-      "Adding chlorine to treat it",
-      "Adding ice cubes",
-      "Reducing leaks in pipes",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Andrea moved from her village to work in the city. This type of movement is called",
-    "options": [
-      "Internal migration",
-      "External migration",
-      "Rural migration",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "National symbols are important because they",
-    "options": [
-      "Promote pride among citizens",
-      "Identify only one ethnic group",
-      "Represent economic wealth only",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In most Caribbean countries, general elections are due every",
-    "options": [
-      "Five years",
-      "Four years",
-      "Ten years",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Citizens can keep their governments responsive by",
-    "options": [
-      "Participating in elections",
-      "Seeking employment only",
-      "Attending political meetings only",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which organisation was formed when Caribbean countries decided to work together as a trading group?",
-    "options": [
-      "CARICOM",
-      "CEDEMA",
-      "NATO",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When Caribbean countries trade with each other this is called",
-    "options": [
-      "Interregional trade",
-      "Local trade",
-      "International trade",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Caribbean countries trade with other countries mainly because they want to",
-    "options": [
-      "Earn foreign exchange",
-      "Protect the natural environment",
-      "Share cultural experiences only",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following activities helps farmers preserve the environment?",
-    "options": [
-      "Replanting trees",
-      "Removing topsoil from the land",
-      "Burning sugar cane before reaping",
-      "None of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Ecotourism is BEST related to the development of",
-    "options": [
-      "Nature resources",
-      "Sports only",
-      "Festivals only",
-      "None of the above"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]
