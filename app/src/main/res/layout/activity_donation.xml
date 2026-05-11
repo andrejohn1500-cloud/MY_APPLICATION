@@ -47,7 +47,7 @@
         android:id="@+id/btnBackDonate"
         android:layout_width="260dp"
         android:layout_height="52dp"
-        android:background="@drawable/bg_button_light"
+        android:background="@drawable/bg_button_accent"
         android:text="← BACK"
         android:textColor="@color/gold"
         android:textStyle="bold"/>
