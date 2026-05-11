@@ -34,25 +34,33 @@
 
         <Button
             android:id="@+id/btnViewStory"
-            android:layout_width="match_parent"
-            android:layout_height="52dp"
+            android:backgroundTint="@null"
+            android:stateListAnimator="@null"
+            android:layout_width="260dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
             android:layout_marginBottom="16dp"
             android:background="@drawable/bg_button_accent"
-        android:backgroundTint="@null"
             android:text="📖 READ MY STORY"
             android:textColor="@color/gold"
-            android:textStyle="bold"/>
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.06"/>
 
         <Button
             android:id="@+id/btnBackStory"
-            android:layout_width="match_parent"
-            android:layout_height="52dp"
+            android:backgroundTint="@null"
+            android:stateListAnimator="@null"
+            android:layout_width="260dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
             android:layout_marginBottom="24dp"
             android:background="@drawable/bg_button_accent"
-        android:backgroundTint="@null"
             android:text="← BACK"
             android:textColor="@color/gold"
-            android:textStyle="bold"/>
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.06"/>
 
     </LinearLayout>
 </ScrollView>

@@ -34,25 +34,32 @@
         android:layout_marginBottom="40dp"/>
 
     <Button
-        style="@style/Widget.AppCompat.Button"
-        android:id="@+id/btnPayPal"
-        android:layout_width="260dp"
-        android:layout_height="56dp"
-        android:background="@drawable/bg_button_accent"
-        android:backgroundTint="@null"
-        android:text="💳  DONATE VIA PAYPAL"
-        android:textColor="@color/gold"
-        android:textStyle="bold"
-        android:layout_marginBottom="16dp"/>
+            android:id="@+id/btnPayPal"
+            android:backgroundTint="@null"
+            android:stateListAnimator="@null"
+            android:layout_width="260dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/bg_button_accent"
+            android:text="💳  DONATE VIA PAYPAL"
+            android:textColor="@color/gold"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.06"/>
 
     <Button
-        style="@style/Widget.AppCompat.Button"
-        android:id="@+id/btnBackDonate"
-        android:layout_width="260dp"
-        android:layout_height="52dp"
-        android:background="@drawable/bg_button_accent"
-        android:backgroundTint="@null"
-        android:text="← BACK"
-        android:textColor="@color/gold"
-        android:textStyle="bold"/>
+            android:id="@+id/btnBackDonate"
+            android:backgroundTint="@null"
+            android:stateListAnimator="@null"
+            android:layout_width="260dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/bg_button_accent"
+            android:text="← BACK"
+            android:textColor="@color/gold"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.06"/>
 </LinearLayout>
