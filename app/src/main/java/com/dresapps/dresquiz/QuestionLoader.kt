@@ -11,7 +11,7 @@ object QuestionLoader {
             val json = context.assets.open("questions/$fileName")
                 .bufferedReader().use { it.readText() }
             val questions = parseQuestions(json)
-            if (clean.startsWith("CPEA")) {
+            if (fileName.contains("cpea")) {
                 questions.map { q ->
                     val trimmed = q.options.take(3).toMutableList()
                     trimmed.add("Not applicable")
