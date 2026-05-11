@@ -244,7 +244,8 @@ class ResultActivity : AppCompatActivity() {
                     "country"    to country,
                     "rating"     to rating,
                     "time_taken" to timeTaken,
-                    "timestamp"  to System.currentTimeMillis()
+                    "timestamp"  to System.currentTimeMillis(),
+            "fcm_token"    to (getSharedPreferences("fcm_prefs", MODE_PRIVATE).getString("fcm_token", "") ?: "")
                 )
                 if (existing != null) existing.reference.set(data)
                 else db.collection("leaderboard").add(data)

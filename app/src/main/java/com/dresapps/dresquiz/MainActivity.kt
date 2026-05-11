@@ -14,6 +14,12 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Fetch and store FCM token
+        com.google.firebase.messaging.FirebaseMessaging.getInstance().token
+            .addOnSuccessListener { token ->
+                getSharedPreferences("fcm_prefs", MODE_PRIVATE)
+                    .edit().putString("fcm_token", token).apply()
+            }
         MobileAds.initialize(this) {}
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
