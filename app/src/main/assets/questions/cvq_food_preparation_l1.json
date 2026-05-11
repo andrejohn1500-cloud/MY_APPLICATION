@@ -1,153 +1,152 @@
 [
   {
-    "question": "What does FIFO stand for in food storage?",
+    "question": "Which ingredient is a staple in Jamaican cuisine?",
     "options": [
-      "First In First Out",
-      "First In Final Out",
-      "Food In Food Out",
-      "Fresh In Fresh Out"
+      "Curry powder",
+      "Chili flakes",
+      "Jerk seasoning",
+      "Garam masala"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a kitchen inventory report?",
+    "options": [
+      "To choose the type of cuisine",
+      "To decide on the layout of the kitchen",
+      "To provide a record of the use and stock of ingredients",
+      "To determine the cost of food"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which kitchen appliance is used to heat food quickly and evenly?",
+    "options": [
+      "Oven",
+      "Refrigerator",
+      "Stove",
+      "Microwave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What does HACCP stand for in the context of kitchen safety and hygiene?",
+    "options": [
+      "Hygiene and Cleaning Control Practices Only",
+      "Highly Advanced Cleaning and Control Procedures",
+      "Hotel and Accommodation Cleaning Centre Procedures",
+      "Hazard Analysis and Critical Control Points"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of wearing gloves in the kitchen?",
+    "options": [
+      "To prevent the spread of infection",
+      "To improve grip on utensils",
+      "To add flavor to food",
+      "To keep hands warm"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which temperature range is known as the 'danger zone' for bacterial growth in food?",
+    "question": "What is the purpose of a recipe?",
     "options": [
-      "0\u00b0C to 5\u00b0C",
-      "5\u00b0C to 63\u00b0C",
-      "63\u00b0C to 100\u00b0C",
-      "100\u00b0C to 150\u00b0C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct internal temperature for cooked chicken to be considered safe to eat?",
-    "options": [
-      "65\u00b0C",
-      "70\u00b0C",
-      "75\u00b0C",
-      "80\u00b0C"
+      "To explain the cooking methods only",
+      "To describe the ingredients only",
+      "To provide instructions on how to prepare a dish",
+      "To give nutritional information"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which knife is best used for peeling and trimming vegetables?",
+    "question": "Which ingredient is a key component of traditional Caribbean curry?",
     "options": [
-      "Chef's knife",
-      "Bread knife",
-      "Paring knife",
-      "Boning knife"
+      "Cumin",
+      "Coriander",
+      "Turmeric",
+      "Ginger"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the term 'mise en place' mean in the kitchen?",
+    "question": "What is the purpose of a menu plan?",
     "options": [
-      "Clean as you go",
-      "Everything in its place",
-      "Cook quickly",
-      "Serve immediately"
+      "To decide on the type of cuisine",
+      "To determine the cost of food",
+      "To choose the layout of the kitchen",
+      "To ensure that ingredients are ordered and prepared in advance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a root vegetable?",
+    "question": "What is the term for the process of adding a layer of fat or oil to a dish to enhance flavor and texture?",
     "options": [
-      "Broccoli",
-      "Spinach",
-      "Carrot",
-      "Zucchini"
+      "Barding",
+      "Glazing",
+      "Marinating",
+      "Braising"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What type of contamination occurs when bacteria transfer from raw meat to ready-to-eat food?",
-    "options": [
-      "Chemical contamination",
-      "Physical contamination",
-      "Cross-contamination",
-      "Biological oxidation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cooking method involves submerging food completely in hot oil?",
-    "options": [
-      "Grilling",
-      "Steaming",
-      "Deep frying",
-      "Poaching"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "function": "Which colour chopping board is typically used for raw red meat?",
-    "options": [
-      "Green",
-      "Yellow",
-      "Blue",
-      "Red"
-    ],
-    "correctIndex": 3,
-    "question": "Which colour chopping board is typically used for raw red meat?"
-  },
-  {
-    "question": "What is the purpose of blanching vegetables before freezing?",
-    "options": [
-      "To add flavour",
-      "To stop enzyme activity and preserve quality",
-      "To make them softer",
-      "To remove salt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a dry heat cooking method?",
+    "question": "What is the term for the process of cooking food quickly in a hot pan with a small amount of oil?",
     "options": [
       "Boiling",
-      "Steaming",
       "Roasting",
-      "Poaching"
+      "Steaming",
+      "Searing"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What should you do immediately after handling raw poultry?",
+    "question": "How often should raw meat, poultry, and seafood be washed?",
     "options": [
-      "Wipe hands on a cloth",
-      "Wash hands thoroughly with soap and water",
-      "Put on gloves",
-      "Continue cooking"
+      "Daily",
+      "Not at all, as washing can spread bacteria",
+      "Before cooking",
+      "After every use"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which nutrient is the main energy source for the body?",
+    "question": "What is the term for the process of mixing ingredients together to create a uniform consistency?",
     "options": [
-      "Protein",
-      "Fat",
-      "Carbohydrate",
-      "Vitamins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'al dente' mean when cooking pasta?",
-    "options": [
-      "Very soft",
-      "Overcooked",
-      "Firm to the bite",
-      "Completely raw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which piece of equipment is used to measure the temperature of cooked food?",
-    "options": [
-      "Thermometer",
-      "Hygrometer",
-      "Barometer",
-      "Scale"
+      "Emulsification",
+      "Folding",
+      "Kneading",
+      "Whipping"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a kitchen inventory?",
+    "options": [
+      "To determine the cost of food",
+      "To track the use and stock of ingredients",
+      "To decide on the layout of the kitchen",
+      "To choose the type of cuisine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of adding flavor to food with herbs and spices?",
+    "options": [
+      "Seasoning",
+      "Braising",
+      "Marinating",
+      "Glazing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which ingredient is a key component of traditional Caribbean jerk seasoning?",
+    "options": [
+      "Ginger",
+      "Cinnamon",
+      "Allspice",
+      "Nutmeg"
+    ],
+    "correctIndex": 2
   }
 ]

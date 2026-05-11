@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which OSI layer is responsible for end-to-end error detection and flow control between two hosts?",
+    "question": "Which of the following software applications is used for creating and editing digital photographs?",
     "options": [
-      "Network Layer",
-      "Data Link Layer",
-      "Transport Layer",
-      "Session Layer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the acronym 'RAID' stand for in the context of storage systems?",
-    "options": [
-      "Random Access In Drives",
-      "Redundant Array of Independent Disks",
-      "Rapid Access of Integrated Data",
-      "Redundant Allocation of Internal Drives"
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "CorelDRAW",
+      "Google Docs"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which IP address range is reserved for private networks according to RFC 1918?",
+    "question": "What is the primary function of a switch in a computer network?",
     "options": [
-      "100.0.0.0 to 100.255.255.255",
-      "192.168.0.0 to 192.168.255.255",
-      "200.0.0.0 to 200.255.255.255",
-      "172.32.0.0 to 172.47.255.255"
+      "To display images on the screen",
+      "To connect multiple devices and direct traffic between them",
+      "To speed up internet connections",
+      "To block unauthorized access to a network"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a relational database, which normal form requires that all non-key attributes are fully functionally dependent on the entire primary key?",
+    "question": "What is the difference between a 32-bit and 64-bit operating system?",
     "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
+      "64-bit operating systems can handle more RAM and larger files than 32-bit operating systems",
+      "64-bit operating systems are only for laptops",
+      "32-bit operating systems are more secure",
+      "64-bit operating systems can only run 64-bit applications"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of network topology that involves connecting all devices in a star configuration?",
+    "options": [
+      "Ring Network Topology",
+      "Star Network Topology",
+      "Mesh Network Topology",
+      "Bus Network Topology"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of malware disguises itself as legitimate software to trick users into installing it?",
+    "question": "Which of the following software applications is used for creating and editing audio files?",
     "options": [
-      "Worm",
-      "Trojan Horse",
+      "CorelDRAW",
+      "Adobe Audition",
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing graphs and charts?",
+    "options": [
+      "Google Docs",
+      "CorelDRAW",
+      "Adobe Illustrator",
+      "Microsoft Excel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of cyberattack that involves using a fake website or email to trick users into divulging sensitive information?",
+    "options": [
+      "Spear Phishing",
+      "Whaling",
+      "Smishing",
+      "Phishing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of cyberattack that involves using a Trojan to gain unauthorized access to a computer system or network?",
+    "options": [
+      "Malware",
+      "Phishing",
       "Ransomware",
-      "Adware"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a subnet mask in networking?",
-    "options": [
-      "To encrypt data packets during transmission",
-      "To identify the network and host portions of an IP address",
-      "To assign dynamic IP addresses to devices",
-      "To filter incoming and outgoing network traffic"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which programming paradigm treats computation as the evaluation of mathematical functions and avoids changing state?",
-    "options": [
-      "Object-Oriented Programming",
-      "Procedural Programming",
-      "Functional Programming",
-      "Event-Driven Programming"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'SLA' stand for in IT service management?",
-    "options": [
-      "Software Licensing Agreement",
-      "Service Level Agreement",
-      "System Load Analysis",
-      "Secure Login Authentication"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sorting algorithm has an average-case time complexity of O(n log n)?",
-    "options": [
-      "Bubble Sort",
-      "Selection Sort",
-      "Insertion Sort",
-      "Merge Sort"
+      "Trojan"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In cybersecurity, what is a 'DMZ' used for?",
+    "question": "Which of the following is a type of database management system that stores data in a hierarchical structure?",
     "options": [
-      "To store encrypted user credentials",
-      "To segment a network and expose services to the internet while protecting the internal network",
-      "To monitor all internal network traffic",
-      "To provide VPN access to remote users"
+      "Relational Database Management System (RDBMS)",
+      "Hierarchical Database Management System (HDBMS)",
+      "Network Database Management System (NDBMS)",
+      "Object-Oriented Database Management System (OODBMS)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which HTTP status code indicates that a requested resource has been permanently moved to a new URL?",
+    "question": "Which of the following is a type of database management system that stores data in an object-oriented structure?",
     "options": [
-      "200",
-      "301",
-      "404",
-      "500"
+      "Network Database Management System (NDBMS)",
+      "Object-Oriented Database Management System (OODBMS)",
+      "Hierarchical Database Management System (HDBMS)",
+      "Relational Database Management System (RDBMS)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the function of a DNS server?",
+    "question": "What is the primary function of a server in a computer network?",
     "options": [
-      "It assigns IP addresses dynamically to network devices",
-      "It translates domain names into IP addresses",
-      "It manages firewall rules for a network",
-      "It encrypts web traffic between client and server"
+      "To provide resources and services to clients on the network",
+      "To connect peripherals to the computer",
+      "To block unauthorized access to a network",
+      "To speed up internet connections"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which data structure operates on a Last In, First Out (LIFO) principle?",
+    "question": "Which of the following is a type of computer hardware that stores data and programs?",
     "options": [
-      "Queue",
-      "Linked List",
-      "Stack",
-      "Binary Tree"
+      "Mouse",
+      "Keyboard",
+      "Hard Drive",
+      "Monitor"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In project management, what does the critical path method (CPM) help determine?",
+    "question": "What is the primary function of a router in a wireless network?",
     "options": [
-      "The total budget required for the project",
-      "The longest sequence of dependent tasks that determines the minimum project duration",
-      "The number of resources needed for each task",
-      "The risk assessment for each project phase"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which wireless security protocol is considered the most secure for protecting Wi-Fi networks?",
-    "options": [
-      "WEP",
-      "WPA",
-      "WPA2",
-      "WPA3"
+      "To speed up internet connections",
+      "To block unauthorized access to a network",
+      "To display images on the screen",
+      "To connect multiple devices and direct traffic between them"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which of the following operating systems is commonly used on desktop and laptop computers?",
+    "options": [
+      "Windows",
+      "MacOS",
+      "Chrome OS",
+      "Linux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing 3D animations?",
+    "options": [
+      "Microsoft Word",
+      "Autodesk Maya",
+      "Google Docs",
+      "CorelDRAW"
+    ],
+    "correctIndex": 1
   }
 ]

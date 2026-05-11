@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which cooking method involves submerging food in oil at temperatures between 160\u00b0C and 190\u00b0C to achieve a crispy exterior through the Maillard reaction?",
+    "question": "What is the recommended way to store food in a commercial kitchen?",
     "options": [
-      "A. Poaching",
-      "B. Deep frying",
-      "C. Braising",
-      "D. Steaming"
+      "In a warm and humid environment",
+      "At the correct temperature and humidity level",
+      "In a cold and dry environment",
+      "At room temperature and humidity level"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When preparing a classical French mother sauce, which of the following is the correct ratio of fat to flour for a roux?",
+    "question": "What is the term for the process of cooking food in a dry heat environment?",
     "options": [
-      "A. 1 part fat to 2 parts flour by weight",
-      "B. 2 parts fat to 1 part flour by weight",
-      "C. Equal parts fat and flour by weight",
-      "D. 3 parts fat to 1 part flour by weight"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the HACCP system, which step involves identifying points in the food preparation process where hazards can be prevented, eliminated, or reduced to acceptable levels?",
-    "options": [
-      "A. Hazard Analysis",
-      "B. Verification",
-      "C. Critical Control Point identification",
-      "D. Corrective Action"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of pastry relies on lamination technique, creating hundreds of flaky layers through repeated folding and rolling with fat?",
-    "options": [
-      "A. Choux pastry",
-      "B. Shortcrust pastry",
-      "C. Suet pastry",
-      "D. Puff pastry"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary purpose of blanching vegetables before freezing them?",
-    "options": [
-      "A. To enhance colour only",
-      "B. To inactivate enzymes that cause deterioration",
-      "C. To add nutritional value",
-      "D. To reduce water content"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which emulsifying agent found in egg yolk is responsible for stabilising classic mayonnaise?",
-    "options": [
-      "A. Albumen",
-      "B. Cholesterol",
-      "C. Lecithin",
-      "D. Casein"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A chef is preparing a Hollandaise sauce and notices it has begun to curdle. Which of the following is the most effective method to rescue the sauce?",
-    "options": [
-      "A. Add cold water immediately and whisk vigorously",
-      "B. Place the sauce over direct high heat",
-      "C. Whisk a new egg yolk in a clean bowl and gradually add the curdled sauce",
-      "D. Add more butter and continue whisking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which internal temperature must poultry reach to be considered safe for consumption according to food safety standards?",
-    "options": [
-      "A. 63\u00b0C",
-      "B. 70\u00b0C",
-      "C. 74\u00b0C",
-      "D. 82\u00b0C"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In charcuterie, the process of curing meat using salt, nitrates, and spices primarily serves which dual function?",
-    "options": [
-      "A. Tenderising and flavouring",
-      "B. Preservation and flavour development",
-      "C. Colouring and tenderising",
-      "D. Hydration and colouring"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which knife cut produces uniform cubes measuring approximately 6mm x 6mm x 6mm?",
-    "options": [
-      "A. Brunoise",
-      "B. Jardini\u00e8re",
-      "C. Julienne",
-      "D. Mac\u00e9doine"
+      "Roasting",
+      "Searing",
+      "Grilling",
+      "Pan roasting"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When producing bread dough, the process of gluten development is enhanced by which action?",
+    "question": "Which of the following is an important consideration when selecting ingredients for a baked good?",
     "options": [
-      "A. Adding excess sugar",
-      "B. Reducing kneading time",
-      "C. Mechanical kneading and hydration",
-      "D. Adding oil before flour"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which method of thickening a sauce uses a mixture of equal parts soft butter and flour worked together without cooking?",
-    "options": [
-      "A. Liaison",
-      "B. Beurre mani\u00e9",
-      "C. Velout\u00e9 reduction",
-      "D. Slurry"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In garde manger, which preparation technique involves encasing a forcemeat mixture in pastry dough and baking it to create a self-contained dish?",
-    "options": [
-      "A. Terrine",
-      "B. Galantine",
-      "C. P\u00e2t\u00e9 en cro\u00fbte",
-      "D. Ballotine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which chemical reaction is responsible for the browning of bread crust, seared meats, and roasted vegetables at high temperatures?",
-    "options": [
-      "A. Caramelisation",
-      "B. Enzymatic browning",
-      "C. Gelatinisation",
-      "D. Maillard reaction"
+      "The cost and availability of the ingredients",
+      "The serving style and presentation of the dish",
+      "The cultural and culinary preferences of the guests",
+      "The quality and freshness of the ingredients"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When calculating food cost percentage, a dish has a portion cost of $12.50 and a selling price of $50.00. What is the food cost percentage?",
+    "question": "Which of the following is a key consideration when planning a menu for a food festival?",
     "options": [
-      "A. 20%",
-      "B. 25%",
-      "C. 30%",
-      "D. 40%"
+      "The variety and appeal of the dishes",
+      "The serving style and presentation of the dishes",
+      "The nutritional value and allergenic potential of each dish",
+      "The cultural and culinary preferences of the guests"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a common characteristic of a well-balanced Caribbean cuisine dish?",
+    "options": [
+      "A lack of presentation and garnishes",
+      "A limited range of flavors and textures",
+      "A combination of flavors, textures and colors",
+      "A focus on a single main ingredient"
+    ],
+    "correctIndex": 2
   }
 ]

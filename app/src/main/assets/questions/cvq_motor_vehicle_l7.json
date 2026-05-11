@@ -1,152 +1,62 @@
 [
   {
-    "question": "What is the primary function of the alternator in a motor vehicle electrical system?",
+    "question": "What is the primary function of a vehicle's anti-lock braking system (ABS) light?",
     "options": [
-      "To start the engine by converting electrical energy to mechanical energy",
-      "To convert mechanical energy into electrical energy to charge the battery and power electrical loads",
-      "To regulate fuel injection timing",
-      "To control the ignition timing advance"
+      "To indicate the vehicle's temperature",
+      "To indicate the vehicle's oil pressure",
+      "To indicate the vehicle's fuel level",
+      "To alert the driver of a loss of ABS function"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which type of brake system uses hydraulic fluid to transmit force from the brake pedal to the wheel cylinders?",
+    "question": "What is the primary function of a vehicle's reverse light?",
     "options": [
-      "Mechanical drum brake system",
-      "Hydraulic brake system",
-      "Air brake system",
-      "Electric brake system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a four-stroke petrol engine, what is the correct order of the strokes?",
-    "options": [
-      "Intake, Compression, Power, Exhaust",
-      "Compression, Intake, Exhaust, Power",
-      "Power, Intake, Compression, Exhaust",
-      "Exhaust, Power, Intake, Compression"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does the term 'valve timing' refer to in an internal combustion engine?",
-    "options": [
-      "The speed at which the valves open and close per minute",
-      "The precise crankshaft angle positions at which intake and exhaust valves open and close",
-      "The pressure required to open the valves",
-      "The temperature at which valves expand"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which component in a manual transmission is responsible for smoothly engaging and disengaging the engine from the gearbox?",
-    "options": [
-      "Flywheel",
-      "Torque converter",
-      "Clutch",
-      "Differential"
+      "To improve visibility to the rear of the vehicle when driving forward",
+      "To improve visibility to the sides of the vehicle when reversing",
+      "To improve visibility to the rear of the vehicle when reversing",
+      "To improve visibility to the front of the vehicle when reversing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a catalytic converter in a vehicle exhaust system?",
+    "question": "What is the purpose of a vehicle's fuel gauge?",
     "options": [
-      "To increase exhaust gas velocity and improve engine performance",
-      "To reduce harmful emissions such as CO, HC, and NOx by converting them into less harmful substances",
-      "To muffle exhaust noise",
-      "To cool exhaust gases before they exit the tailpipe"
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's speed"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In a vehicle cooling system, what is the role of the thermostat?",
+    "question": "What is the purpose of a vehicle's high beam light?",
     "options": [
-      "To pump coolant through the engine block",
-      "To regulate engine operating temperature by controlling coolant flow to the radiator",
-      "To remove air bubbles from the cooling system",
-      "To measure the temperature of the exhaust gases"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of suspension system uses a single wishbone-shaped arm connected to the wheel hub and the vehicle chassis?",
-    "options": [
-      "MacPherson strut suspension",
-      "Double wishbone suspension",
-      "Trailing arm suspension",
-      "Solid axle suspension"
+      "To improve visibility at night",
+      "To improve visibility in heavy rain",
+      "To improve visibility in foggy conditions",
+      "To improve visibility in bright sunlight"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes the function of an anti-lock braking system (ABS)?",
+    "question": "What is the primary function of a vehicle's seatbelt warning light?",
     "options": [
-      "It increases braking force beyond normal pedal pressure",
-      "It prevents wheel lockup during braking to maintain steering control",
-      "It automatically applies brakes when an obstacle is detected",
-      "It reduces brake fade during prolonged braking"
+      "To indicate the vehicle's fuel level",
+      "To indicate the vehicle's oil pressure",
+      "To indicate the vehicle's temperature",
+      "To alert the driver of an unfastened seatbelt"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the purpose of engine oil viscosity ratings such as 10W-40?",
+    "question": "What is the primary function of a vehicle's oil pressure gauge?",
     "options": [
-      "To indicate the oil's fuel economy rating",
-      "To describe the oil's flow characteristics at both low and high temperatures",
-      "To specify the oil's chemical composition",
-      "To indicate the oil change interval in thousands of kilometres"
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's speed",
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's oil pressure"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a diesel engine, how is the air-fuel mixture ignited?",
-    "options": [
-      "By a spark plug fired by the ignition coil",
-      "By compression of air to a high temperature which ignites the injected fuel",
-      "By a glow plug that continuously burns during operation",
-      "By a pre-chamber flame that ignites the main charge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of the differential in a vehicle's drivetrain?",
-    "options": [
-      "To increase torque output from the gearbox",
-      "To allow driven wheels to rotate at different speeds when cornering",
-      "To reduce the gear ratio between engine and wheels",
-      "To engage four-wheel drive when required"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tyre construction has cords arranged at right angles to the direction of travel and is known for better fuel efficiency and handling?",
-    "options": [
-      "Bias-ply tyre",
-      "Radial-ply tyre",
-      "Cross-ply tyre",
-      "Belted bias tyre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a vehicle's OBD-II system primarily do?",
-    "options": [
-      "Controls the automatic transmission shift points",
-      "Monitors and diagnoses engine and emissions-related systems, storing fault codes when anomalies are detected",
-      "Manages the audio and entertainment systems",
-      "Controls the electronic stability program sensors"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When performing a wheel alignment, which angle describes the inward or outward tilt of the wheel when viewed from the front of the vehicle?",
-    "options": [
-      "Toe angle",
-      "Caster angle",
-      "Camber angle",
-      "Steering axis inclination"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

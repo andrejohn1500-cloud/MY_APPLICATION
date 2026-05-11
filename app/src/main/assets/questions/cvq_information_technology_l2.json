@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does CPU stand for?",
+    "question": "What is the main purpose of a Browser in a computer system?",
     "options": [
-      "Central Processing Unit",
-      "Computer Personal Unit",
-      "Central Program Utility",
-      "Core Processing Unit"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an example of an input device?",
-    "options": [
-      "Monitor",
-      "Printer",
-      "Keyboard",
-      "Speaker"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the full form of RAM?",
-    "options": [
-      "Read Access Memory",
-      "Random Access Memory",
-      "Rapid Access Memory",
-      "Read Allocated Memory"
+      "Transferring files between devices",
+      "Accessing and displaying web pages on the internet",
+      "Creating and editing documents",
+      "Managing databases"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which storage device uses magnetic platters to store data?",
+    "question": "Which of the following is a type of Caribbean ICT application used for online education and training?",
     "options": [
-      "USB Flash Drive",
-      "Solid State Drive",
-      "Hard Disk Drive",
-      "CD-ROM"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'WWW' stand for in a web address?",
-    "options": [
-      "World Wide Web",
-      "World Wide Wire",
-      "Wide World Web",
-      "Worldwide Website"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an operating system?",
-    "options": [
-      "Microsoft Word",
-      "Google Chrome",
-      "Windows 10",
-      "Adobe Photoshop"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'URL' stand for?",
-    "options": [
-      "Uniform Resource Locator",
-      "Universal Record Link",
-      "Unified Resource Language",
-      "Uniform Relay Location"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best describes software?",
-    "options": [
-      "Physical components of a computer",
-      "Programs and instructions that run on a computer",
-      "The screen of a computer",
-      "The keyboard and mouse"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of an antivirus program?",
-    "options": [
-      "To speed up the internet",
-      "To detect and remove malicious software",
-      "To create documents",
-      "To manage files and folders"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which file extension is commonly associated with a Microsoft Word document?",
-    "options": [
-      ".xlsx",
-      ".pptx",
-      ".docx",
-      ".pdf"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'LAN' stand for?",
-    "options": [
-      "Large Area Network",
-      "Local Area Network",
-      "Linked Access Node",
-      "Long Area Network"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of output device?",
-    "options": [
-      "Scanner",
-      "Microphone",
-      "Printer",
-      "Keyboard"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the binary number system based on?",
-    "options": [
-      "Base 8",
-      "Base 16",
-      "Base 10",
-      "Base 2"
+      "Digital Payment Gateway",
+      "Electronic Voting System",
+      "E-Government Portal",
+      "Online Learning Platform"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a web browser?",
+    "question": "What is the main purpose of a Virus Scanner in a computer system?",
     "options": [
-      "Microsoft Excel",
-      "Mozilla Firefox",
-      "Windows Explorer",
-      "Adobe Reader"
+      "Running software applications",
+      "Connecting peripherals to the computer",
+      "Detecting and removing malware and viruses",
+      "Providing power to the computer system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Computer Mouse in a computer system?",
+    "options": [
+      "Running software applications",
+      "Connecting peripherals to the computer",
+      "Providing power to the computer system",
+      "Controlling the cursor on the screen and interacting with applications"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of software application used for creating and editing presentations?",
+    "options": [
+      "Spreadsheets Software",
+      "Word Processing Software",
+      "Presentation Software",
+      "Database Management Software"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of software application used for creating and editing databases?",
+    "options": [
+      "Spreadsheets Software",
+      "Presentation Software",
+      "Database Management Software",
+      "Word Processing Software"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ICT application used for digital identity verification and authentication?",
+    "options": [
+      "Online Banking System",
+      "E-Government Portal",
+      "Digital Identity Verification System",
+      "Electronic Voting System"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Webcam in a computer system?",
+    "options": [
+      "Capturing and transmitting video and audio signals",
+      "Connecting peripherals to the computer",
+      "Providing power to the computer system",
+      "Running software applications"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a Router in a computer network?",
+    "options": [
+      "Encrypting data for secure transmission",
+      "Directing data packets between networks",
+      "Switching data packets between devices on the same network",
+      "Authenticating user identities"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'ISP' stand for?",
+    "question": "Which of the following is a type of software application used for creating and editing digital music?",
     "options": [
-      "Internet Service Provider",
-      "Internal System Protocol",
-      "Integrated Software Program",
-      "Internet Security Protocol"
+      "Digital Audio Workstation Software",
+      "Word Processing Software",
+      "Database Management Software",
+      "Spreadsheets Software"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of a Network Switch in a computer network?",
+    "options": [
+      "Authenticating user identities",
+      "Encrypting data for secure transmission",
+      "Switching data packets between devices on the same network",
+      "Directing data packets between networks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a Backup in a computer system?",
+    "options": [
+      "Running software applications",
+      "Restoring data in case of a disaster or loss",
+      "Providing power to the computer system",
+      "Connecting peripherals to the computer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of verifying the identity of users before granting access to a computer system or network?",
+    "options": [
+      "Authentication",
+      "Authorization",
+      "Auditing",
+      "Accountability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a UPS in a computer system?",
+    "options": [
+      "Connecting peripherals to the computer",
+      "Providing power backup and protection against power outages",
+      "Running software applications",
+      "Storing data temporarily"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of software application used for creating and editing documents?",
+    "options": [
+      "Database Management Software",
+      "Word Processing Software",
+      "Graphics Design Software",
+      "Spreadsheets Software"
+    ],
+    "correctIndex": 1
   }
 ]

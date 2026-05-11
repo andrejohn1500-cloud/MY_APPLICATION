@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which cooking method involves submerging food completely in hot fat or oil at temperatures between 175\u00b0C and 190\u00b0C?",
+    "question": "What is the purpose of clarifying butter?",
     "options": [
-      "A. Shallow frying",
-      "B. Deep frying",
-      "C. Saut\u00e9ing",
-      "D. Stir frying"
+      "To remove any impurities or sediment from the butter and make it clearer and more appealing",
+      "To add extra flavor to the butter",
+      "To add extra texture to the butter",
+      "To add extra moisture to the butter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are some common nutrients found in meat?",
+    "options": [
+      "Protein, iron, zinc, B vitamins",
+      "Fiber, vitamin C, potassium, calcium",
+      "Carbohydrates, protein, fiber, vitamin B12",
+      "Fat, sugar, salt, cholesterol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the 'first-in-first-out' rule in food handling?",
+    "options": [
+      "To ensure that all food is cooked for the same amount of time",
+      "To ensure that all food is stored at room temperature",
+      "To ensure that all raw meat is stored in the same fridge compartment",
+      "To ensure that the oldest stock is used before it goes past its use-by date"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of kneading dough in bread making?",
+    "options": [
+      "To add extra salt to the mixture",
+      "To add extra sugar to the mixture",
+      "To develop the gluten in the flour and create a smooth, elastic texture",
+      "To add extra yeast to the mixture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are some common cooking techniques used in Caribbean cuisine?",
+    "options": [
+      "Grilling, roasting, frying, baking",
+      "Searing, basting, glazing, marinating",
+      "Boiling, poaching, saut\u00e9ing, braising",
+      "Grilling, roasting, frying, steaming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of plating a dish?",
+    "options": [
+      "To add extra flavor to the dish",
+      "To add extra texture to the dish",
+      "To add extra moisture to the dish",
+      "To make the dish visually appealing and appetizing to the customer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct way to hold a chef's knife?",
+    "options": [
+      "With a firm grip and the blade facing away from you",
+      "With a firm, but not overly tight, grip and the blade facing towards you",
+      "With a loose grip and the blade facing towards you",
+      "With a loose grip and the blade facing away from you"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the correct internal temperature for cooked poultry to ensure food safety?",
+    "question": "What are some common vegetables used in Caribbean cuisine?",
     "options": [
-      "A. 63\u00b0C",
-      "B. 70\u00b0C",
-      "C. 74\u00b0C",
-      "D. 82\u00b0C"
+      "Broccoli, cauliflower, mushrooms, bell peppers",
+      "Carrots, potatoes, celery, parsley",
+      "Spinach, lettuce, cucumber, tomato",
+      "Peppers, onions, garlic, thyme"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which sauce is classified as a derivative of B\u00e9chamel?",
+    "question": "What are some common cooking techniques used in Caribbean cuisine?",
     "options": [
-      "A. Velout\u00e9",
-      "B. Mornay",
-      "C. Espagnole",
-      "D. Hollandaise"
+      "Searing, basting, glazing, marinating",
+      "Grilling, roasting, frying, baking",
+      "Boiling, poaching, saut\u00e9ing, braising",
+      "Grilling, roasting, frying, steaming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the difference between a 'stock' and a 'sauce'?",
+    "options": [
+      "A 'stock' is a liquid made from a combination of ingredients, while a 'sauce' is a solid made from bones and vegetables",
+      "A 'stock' is a clear liquid made from bones and vegetables, while a 'sauce' is a thick, flavorful liquid made from a combination of ingredients",
+      "A 'stock' is a solid made from bones and vegetables, while a 'sauce' is a liquid made from a combination of ingredients",
+      "A 'stock' is a thick, flavorful liquid made from a combination of ingredients, while a 'sauce' is a clear liquid made from bones and vegetables"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The term 'mise en place' refers to which of the following?",
+    "question": "What is the purpose of tempering eggs in a cake recipe?",
     "options": [
-      "A. A French garnishing technique",
-      "B. The preparation and organisation of ingredients before cooking",
-      "C. A method of presenting plated dishes",
-      "D. The process of reducing sauces"
+      "To add extra air to the mixture",
+      "To add extra moisture to the mixture",
+      "To add extra sweetness to the mixture",
+      "To prevent the eggs from scrambling when they meet the hot mixture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which thickening agent is made by combining equal parts of flour and fat cooked together?",
+    "question": "What is the difference between a 'batter' and a 'dough'?",
     "options": [
-      "A. Slurry",
-      "B. Beurre mani\u00e9",
-      "C. Roux",
-      "D. Liaison"
+      "A 'batter' is a solid made from flour, eggs, and liquid, while a 'dough' is a liquid made from flour, water, and yeast",
+      "A 'batter' is a thick, elastic mixture made from flour, water, and yeast, while a 'dough' is a liquid mixture made from flour, eggs, and liquid",
+      "A 'batter' is a liquid made from flour, eggs, and liquid, while a 'dough' is a solid made from flour, water, and yeast",
+      "A 'batter' is a liquid mixture made from flour, eggs, and liquid, while a 'dough' is a thick, elastic mixture made from flour, water, and yeast"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a correct method of cooking protein to a safe temperature?",
+    "options": [
+      "Cooking for 2 hours at 60\u00b0C",
+      "Cooking at room temperature",
+      "Cooking for exactly 30 minutes",
+      "Cooking to an internal temperature of 65\u00b0C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of clarifying a sauce?",
+    "options": [
+      "To remove any impurities or sediment from the sauce and make it clearer and more appealing",
+      "To add extra texture to the sauce",
+      "To add extra flavor to the sauce",
+      "To add extra moisture to the sauce"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between a stew and a braise?",
+    "options": [
+      "A stew is cooked with a lot of liquid, while a braise is cooked with minimal liquid",
+      "A stew is cooked in a saucepan, while a braise is cooked in an oven",
+      "A stew is cooked with minimal liquid, while a braise is cooked with a lot of liquid",
+      "A stew is cooked at high heat, while a braise is cooked at low heat"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What does the FIFO principle stand for in food storage?",
-    "options": [
-      "A. Fresh In, Fresh Out",
-      "B. First In, First Out",
-      "C. Food Inspection For Operations",
-      "D. First Inventory, Final Order"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of knife is best suited for filleting fish?",
-    "options": [
-      "A. Chef's knife",
-      "B. Paring knife",
-      "C. Filleting knife",
-      "D. Boning knife"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of moist heat cooking?",
-    "options": [
-      "A. Grilling",
-      "B. Roasting",
-      "C. Braising",
-      "D. Baking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Hollandaise sauce is an emulsion of which two main components?",
-    "options": [
-      "A. Butter and cream",
-      "B. Egg yolks and clarified butter",
-      "C. Whole eggs and vegetable oil",
-      "D. Cream and white wine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What temperature range is considered the food temperature danger zone?",
-    "options": [
-      "A. 0\u00b0C to 5\u00b0C",
-      "B. 5\u00b0C to 63\u00b0C",
-      "C. 10\u00b0C to 75\u00b0C",
-      "D. 20\u00b0C to 80\u00b0C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which stock is produced by roasting bones before simmering them with vegetables and aromatics?",
-    "options": [
-      "A. White stock",
-      "B. Court bouillon",
-      "C. Brown stock",
-      "D. Remouillage"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The cooking technique 'en papillote' involves cooking food in which of the following?",
-    "options": [
-      "A. A sealed bag submerged in water",
-      "B. A covered casserole dish in the oven",
-      "C. Parchment paper or foil parcels",
-      "D. A steamer basket over boiling water"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which dietary requirement must be considered when preparing food for a lacto-vegetarian?",
-    "options": [
-      "A. Avoiding all animal products including dairy",
-      "B. Avoiding meat and fish but permitting dairy and eggs",
-      "C. Avoiding meat and fish but permitting dairy only",
-      "D. Avoiding only red meat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of blanching vegetables before freezing them?",
-    "options": [
-      "A. To fully cook the vegetables",
-      "B. To add colour and flavour",
-      "C. To inactivate enzymes that cause deterioration",
-      "D. To remove excess moisture"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the culinary term 'julienne'?",
-    "options": [
-      "A. Cutting food into small cubes of approximately 5mm",
-      "B. Cutting food into thin matchstick strips approximately 3mm x 3mm x 5cm",
-      "C. Cutting food into rough irregular chunks",
-      "D. Slicing food into thin rounds"
-    ],
-    "correctIndex": 1
   }
 ]

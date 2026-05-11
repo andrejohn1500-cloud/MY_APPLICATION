@@ -1,152 +1,132 @@
 [
   {
-    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "question": "What is the primary function of a firewall in a computer network?",
     "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
+      "To transfer data between devices",
+      "To block unauthorized access and malicious traffic",
+      "To display the IP address of a device",
+      "To allow all incoming and outgoing traffic"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In asymmetric encryption, which key is used to encrypt data that only the recipient can decrypt?",
+    "question": "What is the difference between a router and a switch in a computer network?",
     "options": [
-      "The recipient's private key",
-      "The sender's private key",
-      "The recipient's public key",
-      "A shared symmetric key"
+      "A router can only connect two networks",
+      "A router connects multiple networks, while a switch connects devices within a network",
+      "A switch is more secure than a router",
+      "A router is faster than a switch"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which OSI layer is responsible for end-to-end error detection and flow control between hosts?",
+    "question": "What is the purpose of a database management system?",
     "options": [
-      "Network Layer",
-      "Data Link Layer",
-      "Transport Layer",
-      "Session Layer"
+      "To execute instructions and perform calculations",
+      "To manage and maintain a database in a computer system",
+      "To display graphics and images",
+      "To transfer data between devices"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "A company's web server returns HTTP status code 503. What does this indicate?",
+    "question": "What is the purpose of a database management system?",
     "options": [
-      "The requested resource has been permanently moved",
-      "The client is not authorized to access the resource",
-      "The server is temporarily unavailable or overloaded",
-      "The request syntax was malformed"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a divide-and-conquer strategy by selecting a pivot element?",
-    "options": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Quick Sort",
-      "Selection Sort"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, which principle states that a subclass should be substitutable for its superclass without altering program correctness?",
-    "options": [
-      "Open/Closed Principle",
-      "Dependency Inversion Principle",
-      "Interface Segregation Principle",
-      "Liskov Substitution Principle"
+      "To display graphics and images",
+      "To execute instructions and perform calculations",
+      "To transfer data between devices",
+      "To manage and maintain a database in a computer system"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which RAID level provides disk striping with distributed parity, requiring a minimum of three drives?",
+    "question": "What is the purpose of a database management system?",
     "options": [
-      "RAID 0",
-      "RAID 1",
-      "RAID 5",
-      "RAID 10"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a DMZ (Demilitarized Zone) in network security architecture?",
-    "options": [
-      "To encrypt all internal network traffic",
-      "To host publicly accessible services while isolating them from the internal network",
-      "To provide VPN access for remote employees",
-      "To monitor and log all network packets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which SQL command is used to remove all rows from a table without logging individual row deletions and without the ability to roll back?",
-    "options": [
-      "DELETE",
-      "DROP",
-      "REMOVE",
-      "TRUNCATE"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In IPv6, how many bits are used to represent an address?",
-    "options": [
-      "32",
-      "64",
-      "128",
-      "256"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which software development methodology emphasizes iterative development, customer collaboration, and responding to change over following a fixed plan?",
-    "options": [
-      "Waterfall Model",
-      "Agile Methodology",
-      "V-Model",
-      "Spiral Model"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of malware disguises itself as legitimate software but creates a backdoor allowing unauthorized remote access?",
-    "options": [
-      "Worm",
-      "Ransomware",
-      "Trojan Horse",
-      "Adware"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which data structure operates on a Last-In-First-Out (LIFO) principle and is commonly used in recursive function call management?",
-    "options": [
-      "Queue",
-      "Stack",
-      "Linked List",
-      "Binary Tree"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a relational database, which constraint ensures that a value in one table's column must exist as a primary key in another table?",
-    "options": [
-      "Unique Constraint",
-      "Check Constraint",
-      "Foreign Key Constraint",
-      "Not Null Constraint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which wireless security protocol replaced WEP and uses TKIP for encryption but is considered less secure than WPA2?",
-    "options": [
-      "WPA (Wi-Fi Protected Access)",
-      "WPA2",
-      "WPA3",
-      "802.1X"
+      "To manage and maintain a database in a computer system",
+      "To transfer data between devices",
+      "To display graphics and images",
+      "To execute instructions and perform calculations"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a digital certificate in computer security?",
+    "options": [
+      "To transfer data between devices",
+      "To display the IP address of a device",
+      "To verify the identity of a user or device",
+      "To allow all incoming and outgoing traffic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the difference between a Caribbean ICT and a European ICT?",
+    "options": [
+      "Caribbean ICT can only be used in the Caribbean region",
+      "Caribbean ICT refers to information and communication technology used in the Caribbean region, while European ICT refers to information and communication technology used in Europe",
+      "European ICT is a type of virus",
+      "Caribbean ICT is a type of malware"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a local area network (LAN) and a wide area network (WAN)?",
+    "options": [
+      "A LAN connects devices within a small geographic area, while a WAN connects devices over a larger geographic area",
+      "A LAN can only connect two devices",
+      "A LAN is faster than a WAN",
+      "A WAN is more secure than a LAN"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "To display the IP address of a device",
+      "To transfer data between devices",
+      "To block unauthorized access and malicious traffic",
+      "To allow all incoming and outgoing traffic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "To allow all incoming and outgoing traffic",
+      "To transfer data between devices",
+      "To block unauthorized access and malicious traffic",
+      "To display the IP address of a device"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a digital certificate in computer security?",
+    "options": [
+      "To allow all incoming and outgoing traffic",
+      "To verify the identity of a user or device",
+      "To transfer data between devices",
+      "To display the IP address of a device"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a digital certificate in computer security?",
+    "options": [
+      "To transfer data between devices",
+      "To allow all incoming and outgoing traffic",
+      "To verify the identity of a user or device",
+      "To display the IP address of a device"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a database management system?",
+    "options": [
+      "To transfer data between devices",
+      "To display graphics and images",
+      "To execute instructions and perform calculations",
+      "To manage and maintain a database in a computer system"
+    ],
+    "correctIndex": 3
   }
 ]

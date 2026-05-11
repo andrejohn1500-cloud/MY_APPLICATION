@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which normal form eliminates transitive dependencies in a relational database?",
+    "question": "What is the purpose of a backup in computer systems?",
     "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
+      "To display graphics and images",
+      "To restore data in case of hardware failure or data loss",
+      "To encrypt data",
+      "To transfer data between devices"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "In object-oriented programming, which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?",
+    "question": "What is the purpose of a proxy server in computer networks?",
     "options": [
-      "Encapsulation",
-      "Abstraction",
-      "Method Overriding",
-      "Method Overloading"
+      "To transfer data between devices",
+      "To act as an intermediary between a client device and a server",
+      "To allow all incoming and outgoing traffic",
+      "To display the IP address of a device"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which TCP/IP layer is responsible for logical addressing and routing of packets between networks?",
+    "question": "What is the purpose of a virus scanner in computer security?",
     "options": [
-      "Transport Layer",
-      "Data Link Layer",
-      "Network Layer",
-      "Application Layer"
+      "To allow all incoming and outgoing traffic",
+      "To detect and remove malware from a computer system",
+      "To transfer data between devices",
+      "To display the IP address of a device"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "A company wants to ensure that only authorized users can access a specific database table. Which SQL command is used to grant privileges to a user?",
+    "question": "What is the purpose of encryption in computer security?",
     "options": [
-      "ALLOW",
-      "PERMIT",
-      "GRANT",
-      "AUTHORIZE"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of attack involves an attacker intercepting and possibly altering communications between two parties without their knowledge?",
-    "options": [
-      "Phishing Attack",
-      "Denial of Service Attack",
-      "Man-in-the-Middle Attack",
-      "SQL Injection Attack"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a binary tree, what is the maximum number of nodes at level 4 (where root is level 1)?",
-    "options": [
-      "8",
-      "16",
-      "12",
-      "4"
+      "To protect data from unauthorized access and malicious attacks",
+      "To display the IP address of a device",
+      "To transfer data between devices",
+      "To allow all incoming and outgoing traffic"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which sorting algorithm has an average-case time complexity of O(n log n)?",
+    "question": "What is the purpose of a virus scanner in computer security?",
     "options": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Merge Sort",
-      "Selection Sort"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the acronym RAID stand for in storage technology?",
-    "options": [
-      "Redundant Array of Independent Disks",
-      "Random Access Integrated Drive",
-      "Rapid Array of Interconnected Devices",
-      "Redundant Access of Integrated Data"
+      "To detect and remove malware from a computer system",
+      "To display the IP address of a device",
+      "To transfer data between devices",
+      "To allow all incoming and outgoing traffic"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which CSS property is used to create a flexible box layout that allows responsive design without using float or positioning?",
+    "question": "What is the primary function of a spreadsheet in office software?",
     "options": [
-      "display: grid",
-      "display: flex",
-      "position: relative",
-      "float: left"
+      "To transfer data between devices",
+      "To create and manage tables of data",
+      "To execute instructions and perform calculations",
+      "To display graphics and images"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In network subnetting, a subnet mask of 255.255.255.192 creates how many usable host addresses per subnet?",
+    "question": "What is the primary function of a database in a computer system?",
     "options": [
-      "30",
-      "62",
-      "14",
-      "126"
+      "To store and manage data in a structured and organized manner",
+      "To execute instructions and perform calculations",
+      "To display graphics and images",
+      "To transfer data between devices"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between a LAN switch and a LAN router?",
+    "options": [
+      "A LAN switch can only connect two devices",
+      "A LAN switch connects devices within a network, while a LAN router connects multiple networks",
+      "A LAN router is more secure than a LAN switch",
+      "A LAN switch is faster than a LAN router"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which design pattern ensures that a class has only one instance and provides a global point of access to it?",
+    "question": "What is the difference between a network protocol and a network interface?",
     "options": [
-      "Factory Pattern",
-      "Observer Pattern",
-      "Singleton Pattern",
-      "Decorator Pattern"
+      "A network protocol is a type of malware",
+      "A network protocol defines how data is transmitted, while a network interface defines how data is transmitted over a physical medium",
+      "A network interface is a type of virus",
+      "A network protocol can only be used over a single network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a LAN and a WAN?",
+    "options": [
+      "A LAN is faster than a WAN",
+      "A WAN is more secure than a LAN",
+      "A LAN connects devices within a small geographic area, while a WAN connects devices over a larger geographic area",
+      "A LAN can only connect two devices"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of a foreign key in a relational database?",
+    "question": "What is the primary function of a database in a computer system?",
     "options": [
-      "To uniquely identify each record in a table",
-      "To enforce referential integrity between two tables",
-      "To speed up query performance",
-      "To prevent duplicate values in a column"
+      "To store and manage data in a structured and organized manner",
+      "To execute instructions and perform calculations",
+      "To display graphics and images",
+      "To transfer data between devices"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In cybersecurity, which encryption standard uses a 128-bit, 192-bit, or 256-bit key and is currently considered the most secure symmetric encryption algorithm?",
+    "question": "What is the difference between a Trojan horse and a worm in computer security?",
     "options": [
-      "DES",
-      "3DES",
-      "RSA",
-      "AES"
+      "A worm is a type of malware",
+      "A Trojan horse is a type of virus",
+      "A Trojan horse can only be spread through email",
+      "A Trojan horse disguises itself as a legitimate program, while a worm replicates itself to spread to other devices"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which JavaScript method is used to execute a function repeatedly at specified time intervals?",
+    "question": "What is the purpose of a proxy server in computer networks?",
     "options": [
-      "setTimeout()",
-      "setInterval()",
-      "setDelay()",
-      "repeatFunction()"
+      "To transfer data between devices",
+      "To act as an intermediary between a client device and a server",
+      "To display the IP address of a device",
+      "To allow all incoming and outgoing traffic"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In software development, which methodology emphasizes iterative development, collaboration, and responding to change over following a fixed plan?",
+    "question": "What is the primary function of a word processor in office software?",
     "options": [
-      "Waterfall Model",
-      "Agile Methodology",
-      "Spiral Model",
-      "V-Model"
+      "To display graphics and images",
+      "To create and edit text documents",
+      "To execute instructions and perform calculations",
+      "To transfer data between devices"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a Linux and a Windows operating system?",
+    "options": [
+      "Linux is an open-source operating system, while Windows is a proprietary operating system",
+      "Linux is a type of malware",
+      "Linux can only be used on laptops",
+      "Windows is a type of virus"
+    ],
+    "correctIndex": 0
   }
 ]

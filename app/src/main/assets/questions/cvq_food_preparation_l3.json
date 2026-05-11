@@ -1,152 +1,72 @@
 [
   {
-    "question": "What does HACCP stand for?",
+    "question": "Which kitchen tool is used to measure ingredients accurately?",
     "options": [
-      "Hazard Analysis and Critical Control Points",
-      "Health And Cleanliness Control Procedures",
-      "Hazard Assessment and Catering Control Points",
-      "Health Analysis and Critical Cooking Procedures"
+      "Measuring spoons",
+      "Digital scale",
+      "Measuring cups",
+      "Kitchen timer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which ingredient is a key component of traditional Caribbean callaloo?",
+    "options": [
+      "Leafy greens",
+      "Seafood",
+      "Root vegetables",
+      "Meat"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which cooking method involves submerging food completely in hot oil?",
+    "question": "Which area of the kitchen is typically used for food storage and preparation?",
     "options": [
-      "Shallow frying",
-      "Poaching",
-      "Deep frying",
-      "Braising"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct internal temperature for cooked poultry to be considered safe to eat?",
-    "options": [
-      "63\u00b0C",
-      "72\u00b0C",
-      "75\u00b0C",
-      "85\u00b0C"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a raising agent used in baking?",
-    "options": [
-      "Salt",
-      "Baking powder",
-      "Cream of tartar",
-      "Cornstarch"
+      "Dining area",
+      "Preparation area",
+      "Cooking area",
+      "Waste disposal area"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What term describes cutting vegetables into thin, uniform matchstick shapes?",
+    "question": "What is the role of yeast in baking?",
     "options": [
-      "Brunoise",
-      "Julienne",
-      "Chiffonade",
-      "Mirepoix"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nutrient is the primary source of energy for the body?",
-    "options": [
-      "Protein",
-      "Fat",
-      "Carbohydrates",
-      "Vitamins"
+      "To add flavor to dough",
+      "To color dough",
+      "To cause dough to rise",
+      "To soften dough"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the temperature danger zone for bacterial growth in food?",
+    "question": "Which ingredient is a key component of traditional Caribbean pepper pot soup?",
     "options": [
-      "0\u00b0C to 10\u00b0C",
-      "5\u00b0C to 63\u00b0C",
-      "10\u00b0C to 75\u00b0C",
-      "20\u00b0C to 80\u00b0C"
+      "Onions",
+      "Garlic",
+      "Tomatoes",
+      "Hot peppers"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which sauce is made from butter and egg yolks and is a classic emulsion sauce?",
+    "question": "Which cooking method is used to cook food quickly by cooking it in a small amount of oil or fat?",
     "options": [
-      "B\u00e9chamel",
-      "Velout\u00e9",
-      "Hollandaise",
-      "Espagnole"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of knife is best suited for peeling and trimming small fruits and vegetables?",
-    "options": [
-      "Chef's knife",
-      "Bread knife",
-      "Paring knife",
-      "Boning knife"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which method of cooking uses moist heat and is suitable for tougher cuts of meat?",
-    "options": [
-      "Grilling",
+      "Searing",
+      "Frying",
       "Roasting",
-      "Braising",
-      "Saut\u00e9ing"
+      "Steaming"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the main function of gluten in bread making?",
+    "question": "How should you store flour to prevent contamination?",
     "options": [
-      "To add sweetness",
-      "To provide structure and elasticity",
-      "To speed up fermentation",
-      "To add colour to the crust"
+      "In a plastic bag",
+      "In a cardboard box",
+      "In an open container",
+      "In an airtight container"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a complete protein food?",
-    "options": [
-      "White rice",
-      "Lentils",
-      "Eggs",
-      "Bread"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'mise en place' mean in professional cooking?",
-    "options": [
-      "A French dessert",
-      "Everything in its place",
-      "A cooking technique",
-      "A type of garnish"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which preservation method removes moisture from food to prevent bacterial growth?",
-    "options": [
-      "Refrigeration",
-      "Pickling",
-      "Dehydration",
-      "Blanching"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct hand washing duration recommended to remove bacteria effectively?",
-    "options": [
-      "5 seconds",
-      "10 seconds",
-      "20 seconds",
-      "60 seconds"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

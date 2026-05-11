@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which cooking method involves submerging food in oil at temperatures between 160\u00b0C and 190\u00b0C to achieve a crispy exterior through the Maillard reaction?",
+    "question": "Which of the following is a key consideration when selecting ingredients for a Caribbean cuisine dish?",
     "options": [
-      "A. Braising",
-      "B. Deep frying",
-      "C. Steaming",
-      "D. Poaching"
+      "The serving style and presentation of the dish",
+      "The cost and availability of the ingredients",
+      "The cultural and culinary preferences of the guests",
+      "The nutritional value and allergenic potential of each dish"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "When preparing a classical French mother sauce, which of the following is the correct ratio of fat to flour for a standard roux?",
+    "question": "What is the recommended way to check the doneness of a cake?",
     "options": [
-      "A. 1 part fat to 2 parts flour by weight",
-      "B. 1 part fat to 1 part flour by weight",
-      "C. 2 parts fat to 1 part flour by weight",
-      "D. 3 parts fat to 1 part flour by weight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In HACCP principles, what does the acronym CCP stand for?",
-    "options": [
-      "A. Critical Control Point",
-      "B. Contamination Control Procedure",
-      "C. Critical Cooking Process",
-      "D. Contamination Check Protocol"
+      "By inserting a toothpick into the center and checking for moisture",
+      "By checking the color of the cake",
+      "By feeling the texture of the cake",
+      "By smelling the aroma of the cake"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which internal temperature must poultry reach to be considered safe for consumption according to food safety standards?",
+    "question": "Which of the following is a key consideration when planning a menu for a buffet-style event?",
     "options": [
-      "A. 63\u00b0C",
-      "B. 70\u00b0C",
-      "C. 74\u00b0C",
-      "D. 82\u00b0C"
+      "The serving style and presentation of the dishes",
+      "The nutritional value and allergenic potential of each dish",
+      "The cultural and culinary preferences of the guests",
+      "The variety and appeal of the dishes"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the primary purpose of blanching vegetables before freezing them?",
+    "question": "Which of the following is a characteristic of a well-made sauce?",
     "options": [
-      "A. To enhance their colour artificially",
-      "B. To destroy pathogenic bacteria completely",
-      "C. To inactivate enzymes that cause deterioration",
-      "D. To increase their sugar content"
+      "It has a grainy texture and a bland flavor",
+      "It has a lumpy texture and a strong flavor",
+      "It has a smooth texture but a strong flavor",
+      "It has a smooth, even texture and a balanced flavor"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best describes the process of 'deglaze' in professional cookery?",
+    "question": "Which of the following is a characteristic of a well-made roux?",
     "options": [
-      "A. Removing fat from a sauce using a ladle",
-      "B. Adding liquid to a hot pan to dissolve caramelized food particles",
-      "C. Clarifying stock by removing impurities",
-      "D. Reducing a sauce to concentrate its flavour"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A chef is preparing a classical Hollandaise sauce. Which type of emulsion does this sauce represent?",
-    "options": [
-      "A. Oil-in-water temporary emulsion",
-      "B. Water-in-oil permanent emulsion",
-      "C. Oil-in-water semi-permanent emulsion",
-      "D. Water-in-fat temporary emulsion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In bread making, what is the primary role of gluten development during kneading?",
-    "options": [
-      "A. To incorporate fat into the dough",
-      "B. To create a network that traps carbon dioxide gas produced by yeast",
-      "C. To activate the baking powder within the mixture",
-      "D. To dissolve the salt and sugar evenly throughout the dough"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which knife cut produces uniform cubes measuring approximately 3mm x 3mm x 3mm?",
-    "options": [
-      "A. Brunoise",
-      "B. Julienne",
-      "C. Chiffonade",
-      "D. Mac\u00e9doine"
+      "It has a smooth, even texture and a neutral flavor",
+      "It has a lumpy texture and a strong flavor",
+      "It has a smooth texture but a strong flavor",
+      "It has a grainy texture and a bland flavor"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the danger zone temperature range within which bacterial growth is most rapid in food?",
+    "question": "What is the recommended internal cooking temperature for poultry to prevent foodborne illness?",
     "options": [
-      "A. 0\u00b0C to 5\u00b0C",
-      "B. 5\u00b0C to 63\u00b0C",
-      "C. 63\u00b0C to 75\u00b0C",
-      "D. 75\u00b0C to 100\u00b0C"
+      "70\u00b0C",
+      "60\u00b0C",
+      "68\u00b0C",
+      "74\u00b0C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the 'HACCP' system in a commercial kitchen?",
+    "options": [
+      "To create a kitchen menu",
+      "To train new staff members",
+      "To ensure employee punctuality",
+      "To identify and control hazards in the food chain"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of mixing yeast, flour and water to create a risen dough?",
+    "options": [
+      "Kneading",
+      "Fermenting",
+      "Whisking",
+      "Proofing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a key consideration when selecting ingredients for a Caribbean cuisine dish?",
+    "options": [
+      "The nutritional value and allergenic potential of each dish",
+      "The cultural and culinary preferences of the guests",
+      "The serving style and presentation of the dish",
+      "The cost and availability of the ingredients"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When producing a classical consomm\u00e9, which clarification agent is traditionally used to remove impurities from the stock?",
+    "question": "What is the term for the process of mixing yeast, flour and water to create a risen dough?",
     "options": [
-      "A. Arrowroot and egg yolks",
-      "B. A clearmeat containing lean ground meat, egg whites, and mirepoix",
-      "C. Gelatin and cold water",
-      "D. Cornstarch and lemon juice"
+      "Proofing",
+      "Kneading",
+      "Fermenting",
+      "Whisking"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes the term 'mise en place' as applied in professional kitchen operations?",
+    "question": "Which of the following is a key consideration when planning a menu for a special dietary needs event?",
     "options": [
-      "A. The plating and garnishing of a finished dish",
-      "B. The systematic preparation and organization of ingredients and equipment before cooking",
-      "C. The process of cleaning and sanitizing the kitchen at the end of service",
-      "D. The technique of tasting and adjusting seasoning in a dish"
+      "The serving style and presentation of the dishes",
+      "The cultural and culinary preferences of the guests",
+      "The cost and availability of ingredients",
+      "The nutritional value and allergenic potential of each dish"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In cake making, what function does baking powder serve in the batter?",
+    "question": "What is the recommended way to handle raw meat, poultry and fish in a kitchen?",
     "options": [
-      "A. It adds sweetness and improves browning",
-      "B. It acts as a chemical leavening agent releasing carbon dioxide to aerate the batter",
-      "C. It strengthens gluten structure to prevent sinking",
-      "D. It emulsifies fats and liquids to create a smooth batter"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of heat transfer is primarily responsible for cooking food in a conventional oven where hot air surrounds the food?",
-    "options": [
-      "A. Conduction",
-      "B. Radiation",
-      "C. Convection",
-      "D. Induction"
+      "On a dirty surface, using the same utensils",
+      "On a surface contaminated with ready-to-eat foods",
+      "On a clean surface, using separate utensils and gloves",
+      "On a surface contaminated with raw meat, poultry and fish"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A chef needs to calculate the food cost percentage for a dish. If the total food cost is $4.50 and the selling price is $18.00, what is the food cost percentage?",
+    "question": "Which of the following is a key consideration when planning a menu for a buffet-style event?",
     "options": [
-      "A. 20%",
-      "B. 25%",
-      "C. 30%",
-      "D. 35%"
+      "The serving style and presentation of the dishes",
+      "The cultural and culinary preferences of the guests",
+      "The variety and appeal of the dishes",
+      "The nutritional value and allergenic potential of each dish"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-made sauce?",
+    "options": [
+      "It has a smooth texture but a strong flavor",
+      "It has a lumpy texture and a strong flavor",
+      "It has a smooth, even texture and a balanced flavor",
+      "It has a grainy texture and a bland flavor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended way to store knives in a kitchen?",
+    "options": [
+      "In a drawer with other utensils",
+      "In a container with sharp objects",
+      "On a hook or in a basket",
+      "In a knife block or on a magnetic strip"
+    ],
+    "correctIndex": 3
   }
 ]

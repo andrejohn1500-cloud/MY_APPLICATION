@@ -1,152 +1,142 @@
 [
   {
-    "question": "What does CPU stand for?",
+    "question": "What is the term for the process of ensuring that data is accurate and reliable, and that it can be trusted?",
     "options": [
-      "Central Processing Unit",
-      "Computer Personal Unit",
-      "Central Program Utility",
-      "Core Processing Unit"
+      "Data Confidentiality",
+      "Data Authenticity",
+      "Data Availability",
+      "Data Integrity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the Central Processing Unit (CPU)?",
+    "options": [
+      "Connecting peripherals to the computer",
+      "Storing data and applications",
+      "Transferring data between devices",
+      "Executing instructions and performing calculations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Memory Stick in a computer system?",
+    "options": [
+      "Storing data temporarily for transfer between devices",
+      "Running software applications",
+      "Connecting peripherals to the computer",
+      "Providing power to the computer system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is an example of an input device?",
+    "question": "Which of the following is a type of Caribbean ICT application used for online voting and elections?",
     "options": [
-      "Monitor",
-      "Printer",
-      "Keyboard",
-      "Speaker"
+      "Digital Payment Gateway",
+      "Online Banking System",
+      "Electronic Voting System",
+      "E-Government Portal"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of RAM in a computer?",
+    "question": "What is the primary function of a Printer in a computer system?",
     "options": [
-      "Permanently stores data",
-      "Temporarily stores data currently being used",
-      "Controls the CPU speed",
-      "Manages network connections"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which file extension is commonly associated with a Microsoft Word document?",
-    "options": [
-      ".xlsx",
-      ".pptx",
-      ".docx",
-      ".pdf"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'HTTP' stand for?",
-    "options": [
-      "HyperText Transfer Protocol",
-      "High Transfer Text Protocol",
-      "HyperText Transmission Process",
-      "Home Tool Transfer Protocol"
+      "Printing physical copies of digital documents",
+      "Running software applications",
+      "Connecting peripherals to the computer",
+      "Providing power to the computer system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is an operating system?",
+    "question": "Which of the following is a type of software application used for creating and editing digital videos?",
     "options": [
-      "Microsoft Word",
-      "Adobe Photoshop",
-      "Windows 10",
-      "Google Chrome"
+      "Database Management Software",
+      "Spreadsheets Software",
+      "Video Editing Software",
+      "Word Processing Software"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a spreadsheet application primarily used for?",
+    "question": "Which of the following is a type of software application used for creating and editing digital graphics?",
     "options": [
-      "Creating presentations",
-      "Editing images",
-      "Organizing and calculating numerical data",
-      "Browsing the internet"
+      "Graphics Design Software",
+      "Database Management Software",
+      "Word Processing Software",
+      "Spreadsheets Software"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing spreadsheets?",
+    "options": [
+      "Google Docs",
+      "Microsoft Excel",
+      "CorelDRAW",
+      "Adobe Photoshop"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of ensuring that data is available and accessible when needed?",
+    "options": [
+      "Data Availability",
+      "Data Confidentiality",
+      "Data Authenticity",
+      "Data Integrity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ICT application used for online banking and financial transactions?",
+    "options": [
+      "Electronic Voting System",
+      "Online Banking System",
+      "Digital Payment Gateway",
+      "E-Government Portal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer system?",
+    "options": [
+      "To display images on the screen",
+      "To detect and remove malware",
+      "To speed up internet connections",
+      "To block unauthorized access to a computer or network"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a group of connected computers that can share resources and communicate with each other?",
+    "options": [
+      "Peripheral",
+      "Internet",
+      "Server",
+      "Network"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ICT application used for e-government services and citizen engagement?",
+    "options": [
+      "Electronic Voting System",
+      "Digital Payment Gateway",
+      "E-Government Portal",
+      "Online Banking System"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which device is used to connect a computer to the internet via a telephone line?",
+    "question": "What is the primary function of a Switch in a computer network?",
     "options": [
-      "Router",
-      "Modem",
-      "Switch",
-      "Hub"
+      "Switching data packets between devices on the same network",
+      "Encrypting data for secure transmission",
+      "Directing data packets between networks",
+      "Authenticating user identities"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'URL' stand for?",
-    "options": [
-      "Universal Resource Locator",
-      "Uniform Resource Locator",
-      "United Resource Link",
-      "Uniform Retrieval Locator"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is considered secondary storage?",
-    "options": [
-      "RAM",
-      "Cache memory",
-      "Hard Disk Drive",
-      "Registers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of an antivirus program?",
-    "options": [
-      "Speed up internet connection",
-      "Detect and remove malicious software",
-      "Increase RAM capacity",
-      "Manage printer settings"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which network topology connects all devices to a single central cable?",
-    "options": [
-      "Star",
-      "Ring",
-      "Bus",
-      "Mesh"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'GUI' stand for?",
-    "options": [
-      "General User Interface",
-      "Graphical User Interface",
-      "Global Utility Interface",
-      "Graphical Utility Input"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of open source software?",
-    "options": [
-      "Microsoft Windows",
-      "Adobe Acrobat",
-      "LibreOffice",
-      "Apple macOS"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a firewall?",
-    "options": [
-      "Speed up computer performance",
-      "Monitor and control incoming and outgoing network traffic",
-      "Store backup files",
-      "Increase screen resolution"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

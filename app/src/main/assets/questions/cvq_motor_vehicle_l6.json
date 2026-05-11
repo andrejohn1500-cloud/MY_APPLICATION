@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary purpose of a differential in a vehicle's drivetrain?",
+    "question": "What is the purpose of a vehicle's side marker light?",
     "options": [
-      "To increase engine torque output",
-      "To allow wheels on the same axle to rotate at different speeds",
-      "To engage and disengage the clutch",
-      "To regulate fuel delivery to the engine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which component in a hydraulic braking system is responsible for converting mechanical force into hydraulic pressure?",
-    "options": [
-      "Wheel cylinder",
-      "Brake caliper",
-      "Master cylinder",
-      "Brake booster"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a four-stroke petrol engine, what occurs during the compression stroke?",
-    "options": [
-      "Both intake and exhaust valves are open",
-      "The piston moves down and the intake valve opens",
-      "The piston moves up with both valves closed, compressing the air-fuel mixture",
-      "The spark plug fires and the piston is pushed down"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'valve timing' refer to in engine operation?",
-    "options": [
-      "The interval between spark plug firings",
-      "The precise moment valves open and close relative to piston position",
-      "The speed at which the camshaft rotates",
-      "The duration of the fuel injection pulse"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of suspension system uses a single pivot arm attached to the vehicle chassis to support the wheel?",
-    "options": [
-      "MacPherson strut",
-      "Double wishbone",
-      "Trailing arm",
-      "Torsion bar"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of the catalytic converter in a vehicle's exhaust system?",
-    "options": [
-      "To increase exhaust gas flow velocity",
-      "To reduce harmful emissions by converting them into less toxic substances",
-      "To muffle exhaust noise",
-      "To measure oxygen levels in exhaust gases"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In an automatic transmission, what is the role of the torque converter?",
-    "options": [
-      "It replaces the flywheel and acts as a fluid coupling to transfer engine torque to the transmission",
-      "It mechanically locks the gears in position",
-      "It controls hydraulic pressure to the brake system",
-      "It manages fuel delivery based on vehicle speed"
+      "To indicate the vehicle's presence to the side",
+      "To indicate the vehicle's direction",
+      "To indicate the vehicle's fuel level",
+      "To indicate the vehicle's speed"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does a lambda sensor (oxygen sensor) measure in a vehicle's engine management system?",
+    "question": "What is the purpose of a vehicle's headlamp washer?",
     "options": [
-      "Coolant temperature",
-      "Mass airflow into the engine",
-      "Oxygen content in the exhaust gases",
-      "Throttle position angle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which steering geometry angle describes the inward or outward tilt of the wheel when viewed from the front of the vehicle?",
-    "options": [
-      "Castor",
-      "Toe",
-      "Camber",
-      "King pin inclination"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of an engine's crankshaft vibration damper (harmonic balancer)?",
-    "options": [
-      "To balance the rotating assembly during high-speed operation and reduce torsional vibrations",
-      "To dampen suspension oscillations",
-      "To reduce noise from the timing chain",
-      "To prevent crankshaft end-float"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a common rail diesel injection system, at what approximate pressure range is fuel stored in the rail?",
-    "options": [
-      "10\u201350 bar",
-      "100\u2013200 bar",
-      "1000\u20132500 bar",
-      "5000\u20138000 bar"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main advantage of a disc brake over a drum brake?",
-    "options": [
-      "Lower manufacturing cost",
-      "Better heat dissipation and more consistent braking performance",
-      "Simpler self-adjusting mechanism",
-      "Higher mechanical advantage"
+      "To increase the headlamp's brightness",
+      "To clean the headlamps during operation",
+      "To dry the headlamps",
+      "To change the headlamp's color"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which electrical law states that voltage equals current multiplied by resistance?",
+    "question": "What is the purpose of a vehicle's maintenance reminder light?",
     "options": [
-      "Faraday's Law",
-      "Kirchhoff's Voltage Law",
-      "Ohm's Law",
-      "Coulomb's Law"
+      "To indicate the vehicle's fuel level",
+      "To indicate the vehicle's temperature",
+      "To alert the driver of upcoming maintenance",
+      "To indicate the vehicle's oil pressure"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary cause of diesel engine knock?",
+    "question": "What is the primary function of a vehicle's parking light?",
     "options": [
-      "Over-advanced ignition timing",
-      "Excessive fuel pressure in the rail",
-      "A delay in ignition of the fuel charge causing rapid pressure rise",
-      "Lean air-fuel mixture entering the cylinder"
+      "To indicate the vehicle's speed",
+      "To indicate the vehicle's presence when parked",
+      "To indicate the vehicle's direction",
+      "To indicate the vehicle's fuel level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a vehicle's brake fluid level gauge?",
+    "options": [
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's brake fluid level",
+      "To measure the vehicle's temperature"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a vehicle's cooling system, what is the function of the thermostat?",
+    "question": "What is the purpose of a vehicle's horn?",
     "options": [
-      "To pressurise the cooling system",
-      "To circulate coolant using an impeller",
-      "To regulate coolant flow and maintain optimum engine operating temperature",
-      "To remove air pockets from the cooling circuit"
+      "To operate the headlights",
+      "To start the engine",
+      "To operate the windshield wipers",
+      "To alert other road users of the vehicle's presence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's rear fog light?",
+    "options": [
+      "To improve visibility to the rear of the vehicle in heavy rain",
+      "To improve visibility to the rear of the vehicle in bright sunlight",
+      "To improve visibility to the rear of the vehicle at night",
+      "To improve visibility to the rear of the vehicle in foggy conditions"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a vehicle's roadside assistance light?",
+    "options": [
+      "To indicate the vehicle's temperature",
+      "To indicate the vehicle's oil pressure",
+      "To indicate the vehicle's fuel level",
+      "To alert the driver of a need for roadside assistance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a vehicle's fog light?",
+    "options": [
+      "To improve visibility in heavy rain",
+      "To improve visibility in foggy conditions",
+      "To improve visibility at night",
+      "To improve visibility in bright sunlight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's temperature gauge?",
+    "options": [
+      "To measure the vehicle's speed",
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's engine temperature"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's transmission fluid level gauge?",
+    "options": [
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's transmission fluid level",
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's oil pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's electronic stability control light?",
+    "options": [
+      "To indicate the vehicle's temperature",
+      "To indicate the vehicle's oil pressure",
+      "To indicate the vehicle's fuel level",
+      "To alert the driver of a loss of stability control"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's hazard warning light?",
+    "options": [
+      "To indicate the vehicle's fuel level",
+      "To indicate the vehicle's direction",
+      "To alert other road users of a hazard or emergency",
+      "To indicate the vehicle's speed"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a vehicle's coolant level gauge?",
+    "options": [
+      "To measure the vehicle's coolant level",
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's fuel level"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a vehicle's low beam light?",
+    "options": [
+      "To improve visibility in heavy rain",
+      "To improve visibility in bright sunlight or foggy conditions",
+      "To improve visibility in heavy snow",
+      "To improve visibility at night"
+    ],
+    "correctIndex": 1
   }
 ]

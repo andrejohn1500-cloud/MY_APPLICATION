@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery between host systems?",
+    "question": "What is the primary function of a webcam in a computer system?",
     "options": [
-      "Network Layer",
-      "Transport Layer",
-      "Session Layer",
-      "Data Link Layer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In object-oriented programming, what is the concept of hiding internal implementation details and exposing only necessary functionality called?",
-    "options": [
-      "Inheritance",
-      "Polymorphism",
-      "Encapsulation",
-      "Abstraction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which normal form eliminates transitive dependencies in a relational database?",
-    "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of attack involves an attacker intercepting communications between two parties without their knowledge?",
-    "options": [
-      "Phishing Attack",
-      "Man-in-the-Middle Attack",
-      "SQL Injection",
-      "Denial of Service Attack"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which data structure operates on a Last In First Out (LIFO) principle?",
-    "options": [
-      "Queue",
-      "Linked List",
-      "Stack",
-      "Binary Tree"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In project management, what does the acronym SDLC stand for?",
-    "options": [
-      "Software Design and Logic Control",
-      "System Development Life Cycle",
-      "Software Deployment and Launch Cycle",
-      "Structured Data and Logic Creation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which IP address class supports the largest number of hosts per network?",
-    "options": [
-      "Class A",
-      "Class B",
-      "Class C",
-      "Class D"
+      "To capture and transmit video and audio signals",
+      "To speed up internet connections",
+      "To block unauthorized access to a network",
+      "To connect peripherals to the computer"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary purpose of a primary key in a relational database table?",
+    "question": "What is the primary function of a modem in a computer system?",
     "options": [
-      "To link two tables together",
-      "To uniquely identify each record in the table",
-      "To sort records alphabetically",
-      "To encrypt sensitive data"
+      "To block unauthorized access to a network",
+      "To connect to the internet using a dial-up or broadband connection",
+      "To speed up internet connections",
+      "To display images on the screen"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which software testing methodology tests the internal structure and logic of the code?",
+    "question": "What is the term for a set of rules that govern how data is stored and retrieved in a database?",
     "options": [
-      "Black-box testing",
-      "Gray-box testing",
-      "White-box testing",
-      "Regression testing"
+      "Database",
+      "Table",
+      "Schema",
+      "Field"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the acronym HTML stand for?",
+    "question": "Which of the following software applications is used for creating and editing web pages?",
     "options": [
-      "Hyper Transfer Markup Language",
-      "HyperText Markup Language",
-      "High-level Text Management Language",
-      "Hyper Typed Machine Language"
+      "Google Docs",
+      "CorelDRAW",
+      "Adobe Dreamweaver",
+      "Microsoft Word"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing 3D models?",
+    "options": [
+      "Google Docs",
+      "CorelDRAW",
+      "Microsoft Word",
+      "Blender"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a router in a computer network?",
+    "options": [
+      "To speed up internet connections",
+      "To block unauthorized access to a network",
+      "To display images on the screen",
+      "To connect multiple networks and direct traffic between them"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a printer in a computer system?",
+    "options": [
+      "To connect peripherals to the computer",
+      "To speed up internet connections",
+      "To print documents and images",
+      "To block unauthorized access to a network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing web pages using a visual interface?",
+    "options": [
+      "Adobe Muse",
+      "Microsoft Word",
+      "Google Docs",
+      "CorelDRAW"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing videos?",
+    "options": [
+      "Microsoft PowerPoint",
+      "CorelDRAW",
+      "Adobe Premiere Pro",
+      "Google Slides"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of computer hardware that displays images and video signals?",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Mouse",
+      "USB Port"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the Central Processing Unit (CPU) in a computer system?",
+    "options": [
+      "Storing data",
+      "Transferring data",
+      "Executing instructions and performing calculations",
+      "Displaying graphics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of cyberattack that involves using a rootkit to gain unauthorized access to a computer system or network?",
+    "options": [
+      "Malware",
+      "Rootkit",
+      "Phishing",
+      "Ransomware"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In networking, what device operates at Layer 3 of the OSI model and forwards data packets between different networks?",
+    "question": "What is the term for a type of cyberattack that involves using a virus to damage or destroy data on a computer system or network?",
     "options": [
-      "Switch",
-      "Hub",
-      "Router",
-      "Bridge"
+      "Phishing",
+      "Ransomware",
+      "Malware",
+      "Virus"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which type of software license allows users to freely use, modify, and distribute the software?",
+    "question": "What is the term for a type of cyberattack that involves using social engineering tactics to trick users into divulging sensitive information?",
     "options": [
-      "Proprietary License",
-      "Open Source License",
-      "Freeware License",
-      "Shareware License"
+      "Social Engineering",
+      "Whaling",
+      "Phishing",
+      "Spear Phishing"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the time complexity of a binary search algorithm on a sorted array of n elements?",
+    "question": "What is the term for a type of cyberattack that involves sending a fake email that appears to be from a legitimate source?",
     "options": [
-      "O(n)",
-      "O(n\u00b2)",
-      "O(log n)",
-      "O(n log n)"
+      "Spear Phishing",
+      "Whaling",
+      "Smishing",
+      "Phishing"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which protocol is used to assign IP addresses automatically to devices on a network?",
-    "options": [
-      "DNS",
-      "FTP",
-      "DHCP",
-      "SMTP"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a relational database, what is a foreign key?",
-    "options": [
-      "A key used to encrypt database records",
-      "An attribute that uniquely identifies records in its own table",
-      "An attribute in one table that references the primary key of another table",
-      "A key used to sort records in descending order"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

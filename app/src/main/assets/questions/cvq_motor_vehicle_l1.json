@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary function of the engine in a motor vehicle?",
+    "question": "What is the primary function of a vehicle's maintenance schedule?",
     "options": [
-      "To convert fuel energy into mechanical energy",
-      "To store electrical energy",
-      "To filter engine oil",
-      "To cool the transmission fluid"
+      "To provide information on vehicle specifications",
+      "To provide guidelines for regular maintenance and repairs",
+      "To provide information on vehicle performance",
+      "To provide information on vehicle safety features"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's roadworthiness certificate?",
+    "options": [
+      "To confirm the vehicle meets performance standards",
+      "To confirm the vehicle meets road safety standards",
+      "To confirm the vehicle meets environmental standards",
+      "To confirm the vehicle meets cosmetic standards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a vehicle's speed limiter?",
+    "options": [
+      "To decrease the vehicle's acceleration",
+      "To improve the vehicle's fuel efficiency",
+      "To increase the vehicle's top speed",
+      "To restrict the vehicle's maximum speed"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a fuel filter in a vehicle's engine system?",
+    "options": [
+      "To cool the engine",
+      "To add fuel to the engine",
+      "To remove dirt and debris from the fuel before it reaches the engine",
+      "To generate power for the starter motor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a vehicle's tachometer?",
+    "options": [
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's engine speed",
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's fuel level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's headlamp aiming system?",
+    "options": [
+      "To reduce the headlamp's brightness",
+      "To ensure the headlamps are aimed correctly for safe driving",
+      "To change the headlamp's color",
+      "To increase the headlamp's range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a scan tool in a vehicle's diagnostic system?",
+    "options": [
+      "To diagnose faults in the electrical system",
+      "To check the vehicle's oil level",
+      "To communicate with the vehicle's onboard computer",
+      "To measure the vehicle's tire pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a vehicle's speedometer?",
+    "options": [
+      "To measure the vehicle's speed",
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's oil pressure",
+      "To measure the vehicle's temperature"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of engine uses a spark plug to ignite the fuel-air mixture?",
+    "question": "What is the purpose of a vehicle's parking brake?",
     "options": [
-      "Diesel engine",
-      "Petrol engine",
-      "Rotary engine",
-      "Turbine engine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What fluid is used in a hydraulic braking system?",
-    "options": [
-      "Engine oil",
-      "Coolant",
-      "Brake fluid",
-      "Transmission fluid"
+      "To apply the brakes",
+      "To release the brakes",
+      "To secure the vehicle when parked on an incline",
+      "To lock the steering wheel"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which component stores electrical energy in a vehicle?",
+    "question": "What is the primary function of a steering gear box in a vehicle's steering system?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Battery",
-      "Distributor"
+      "To connect the steering column to the wheels",
+      "To release the parking brake",
+      "To convert the rotational motion of the steering column into linear motion",
+      "To engage the transfer case"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of the radiator in a vehicle?",
+    "question": "What is the primary function of a vehicle's wiper motor?",
     "options": [
-      "To increase engine power",
-      "To cool the engine coolant",
-      "To filter fuel",
-      "To lubricate the engine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How many strokes does a four-stroke engine complete in one full cycle?",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Six"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which tool is used to measure the diameter of a shaft or bolt?",
-    "options": [
-      "Torque wrench",
-      "Vernier caliper",
-      "Feeler gauge",
-      "Spirit level"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the abbreviation 'RPM' stand for in automotive terms?",
-    "options": [
-      "Rotations Per Minute",
-      "Revolutions Per Mile",
-      "Rapid Power Management",
-      "Rotor Phase Measurement"
+      "To operate the windshield wipers",
+      "To operate the parking brake",
+      "To operate the headlights",
+      "To operate the horn"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which part of the vehicle connects the engine to the gearbox?",
+    "question": "What is the purpose of a timing belt in a vehicle's engine system?",
     "options": [
-      "Drive shaft",
-      "Clutch",
-      "Differential",
-      "Axle"
+      "To generate power for the starter motor",
+      "To synchronize the rotation of the crankshaft and camshaft",
+      "To increase the compression ratio of the engine",
+      "To reduce the engine's combustion temperature"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the main purpose of engine oil?",
+    "question": "What is the primary function of a vehicle's safety inspection?",
     "options": [
-      "To cool the radiator",
-      "To lubricate moving engine parts",
-      "To clean the fuel system",
-      "To charge the battery"
+      "To identify potential cosmetic issues",
+      "To identify potential maintenance needs",
+      "To identify potential performance issues",
+      "To identify potential safety hazards"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which component converts alternating current (AC) into direct current (DC) in the charging system?",
+    "question": "What is the purpose of a fuse in a vehicle's electrical system?",
     "options": [
-      "Transformer",
-      "Rectifier",
-      "Capacitor",
-      "Solenoid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of fire extinguisher should be used on an electrical fire in a workshop?",
-    "options": [
-      "Water extinguisher",
-      "Foam extinguisher",
-      "CO2 extinguisher",
-      "Sand bucket"
+      "To decrease the resistance of the electrical circuit",
+      "To increase the voltage of the electrical system",
+      "To protect the electrical circuit from excessive current",
+      "To connect multiple electrical components together"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of the differential in a vehicle?",
+    "question": "What is the purpose of a vehicle's odometer?",
     "options": [
-      "To increase fuel efficiency",
-      "To allow wheels to rotate at different speeds when cornering",
-      "To filter exhaust gases",
-      "To regulate battery voltage"
+      "To measure the vehicle's distance traveled",
+      "To measure the vehicle's temperature",
+      "To measure the vehicle's fuel level",
+      "To measure the vehicle's oil pressure"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which instrument is used to measure tyre pressure?",
-    "options": [
-      "Hydrometer",
-      "Tachometer",
-      "Tyre pressure gauge",
-      "Multimeter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What safety equipment should always be worn when working under a vehicle?",
-    "options": [
-      "Gloves only",
-      "Safety glasses and overalls",
-      "Hard hat only",
-      "Ear defenders only"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

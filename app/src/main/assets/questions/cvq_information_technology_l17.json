@@ -1,151 +1,151 @@
 [
   {
-    "question": "In a relational database, which normal form eliminates transitive dependencies among non-key attributes?",
+    "question": "What is the primary function of a computer's BIOS (Basic Input/Output System) chip?",
     "options": [
-      "First Normal Form (1NF)",
-      "Second Normal Form (2NF)",
-      "Third Normal Form (3NF)",
-      "Boyce-Codd Normal Form (BCNF)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cryptographic protocol provides forward secrecy by generating a unique session key for each session, ensuring past sessions remain secure even if the long-term key is compromised?",
-    "options": [
-      "RSA key exchange",
-      "Diffie-Hellman Ephemeral (DHE)",
-      "MD5 hashing",
-      "DES encryption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In object-oriented programming, what principle states that objects of a subclass should be substitutable for objects of the superclass without altering program correctness?",
-    "options": [
-      "Open/Closed Principle",
-      "Interface Segregation Principle",
-      "Liskov Substitution Principle",
-      "Dependency Inversion Principle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which TCP/IP layer is responsible for logical addressing and routing packets between different networks?",
-    "options": [
-      "Data Link Layer",
-      "Transport Layer",
-      "Network Layer",
-      "Application Layer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A company needs to store 500 TB of rarely accessed archival data at minimal cost. Which AWS storage class is MOST appropriate?",
-    "options": [
-      "Amazon S3 Standard",
-      "Amazon S3 Intelligent-Tiering",
-      "Amazon S3 Glacier Deep Archive",
-      "Amazon EBS Provisioned IOPS"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In software testing, which technique derives test cases from the internal structure and code logic of a program?",
-    "options": [
-      "Black-box testing",
-      "White-box testing",
-      "User acceptance testing",
-      "Exploratory testing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following RAID levels provides both striping and mirroring, requiring a minimum of four disks and offering fault tolerance for up to one disk failure per mirrored pair?",
-    "options": [
-      "RAID 0",
-      "RAID 1",
-      "RAID 5",
-      "RAID 10"
+      "To control the flow of data between the CPU and RAM",
+      "To generate heat for the CPU",
+      "To provide a secondary power supply for peripherals",
+      "To provide a low-level interface between the operating system and hardware, controlling the boot process and managing hardware settings"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In network security, what type of attack involves an adversary secretly relaying and possibly altering communications between two parties who believe they are communicating directly?",
+    "question": "Which of the following software applications is primarily used for creating and editing digital images?",
     "options": [
-      "Denial of Service (DoS) attack",
-      "SQL Injection attack",
-      "Man-in-the-Middle (MitM) attack",
-      "Cross-Site Scripting (XSS) attack"
+      "Adobe Photoshop",
+      "CorelDRAW X8",
+      "Google Photos",
+      "Microsoft Paint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a CPU cache in a computer system?",
+    "options": [
+      "To generate heat for the CPU",
+      "To control the flow of data between the CPU and RAM",
+      "To provide a secondary power supply for peripherals",
+      "To store frequently accessed data and instructions to improve system performance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating and editing databases?",
+    "options": [
+      "Microsoft Access",
+      "Microsoft Excel",
+      "Google Sheets",
+      "LibreOffice Base"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between a hub and a switch in a network?",
+    "options": [
+      "A switch is a more advanced device that connects multiple devices and can direct traffic between them, whereas a hub simply forwards traffic to all connected devices",
+      "A hub is a more advanced device that can direct traffic between devices",
+      "A hub and a switch are interchangeable terms",
+      "A switch is a device that connects a single device to the network"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following cybersecurity protocols is used to encrypt data in transit between a web server and a client?",
+    "options": [
+      "SSL/TLS",
+      "FTP",
+      "SSH",
+      "SFTP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a computer's power supply unit (PSU)?",
+    "options": [
+      "To control the flow of data between the CPU and RAM",
+      "To generate heat for the CPU",
+      "To provide a secondary power supply for peripherals",
+      "To convert AC power from the wall outlet to DC power for the computer's components"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of a network interface card (NIC) in a computer system?",
+    "options": [
+      "To connect a computer to a network and provide a physical interface for data transfer",
+      "To troubleshoot hardware issues",
+      "To create and manage user accounts",
+      "To configure network settings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating and editing video?",
+    "options": [
+      "Google Video Editor",
+      "VLC Media Player",
+      "Adobe Premiere Pro",
+      "Microsoft Video Editor"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which sorting algorithm has an average-case time complexity of O(n log n) and uses a divide-and-conquer approach by partitioning arrays around a pivot element?",
+    "question": "What is the primary purpose of a network bridge in a network?",
     "options": [
-      "Bubble Sort",
-      "Insertion Sort",
-      "Quick Sort",
-      "Selection Sort"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In project management, the Critical Path Method (CPM) is used to identify tasks that directly affect the project completion date. What does 'float' or 'slack' represent in CPM?",
-    "options": [
-      "The total budget allocated to a task",
-      "The amount of time a task can be delayed without delaying the project end date",
-      "The number of resources assigned to a critical task",
-      "The dependency relationship between two tasks"
+      "To configure network settings",
+      "To connect two or more networks together and allow traffic to flow between them",
+      "To create and manage user accounts",
+      "To troubleshoot hardware issues"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which IPv6 address type is used to send a packet to the nearest interface in a group of interfaces assigned the same address?",
+    "question": "Which of the following software applications is primarily used for creating and editing spreadsheets?",
     "options": [
-      "Unicast",
-      "Multicast",
-      "Anycast",
-      "Broadcast"
+      "Microsoft Word",
+      "LibreOffice Calc",
+      "Microsoft Excel",
+      "Google Sheets"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In cybersecurity, what does the term 'SQL Injection' primarily exploit?",
+    "question": "Which of the following cybersecurity threats involves the use of malware to extort money from a victim?",
     "options": [
-      "Weak password policies in user authentication",
-      "Insufficient input validation allowing malicious SQL statements to be executed",
-      "Unpatched vulnerabilities in operating system kernels",
-      "Misconfigured firewall rules on database servers"
+      "Malware attacks",
+      "Denial of Service (DoS) attacks",
+      "Phishing scams",
+      "Ransomware"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which software development methodology emphasizes iterative development, customer collaboration, and responding to change over following a fixed plan?",
+    "question": "Which of the following cybersecurity best practices involves regularly updating and patching software to prevent exploitation of known vulnerabilities?",
     "options": [
-      "Waterfall Model",
-      "V-Model",
-      "Agile Methodology",
-      "Spiral Model"
+      "Keeping software up to date",
+      "Enabling two-factor authentication",
+      "Using strong passwords",
+      "Avoiding suspicious links and attachments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following cybersecurity best practices involves using a virtual private network (VPN) to encrypt internet traffic?",
+    "options": [
+      "Enabling two-factor authentication",
+      "Keeping software up to date",
+      "Using a VPN",
+      "Avoiding suspicious links and attachments"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In computer architecture, what is the function of the Memory Management Unit (MMU)?",
+    "question": "What is the primary purpose of a router in a network?",
     "options": [
-      "It manages input and output operations between the CPU and peripheral devices",
-      "It translates virtual memory addresses to physical memory addresses",
-      "It controls the clock speed and power consumption of the processor",
-      "It manages the cache hierarchy between L1, L2, and L3 caches"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which network topology provides the highest level of redundancy by connecting every node to every other node, but is least scalable due to exponential cabling requirements?",
-    "options": [
-      "Bus topology",
-      "Star topology",
-      "Ring topology",
-      "Mesh topology"
+      "To configure network settings",
+      "To create and manage user accounts",
+      "To troubleshoot hardware issues",
+      "To connect multiple networks together and direct traffic between them"
     ],
     "correctIndex": 3
   }
