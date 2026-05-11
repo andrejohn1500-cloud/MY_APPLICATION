@@ -1,152 +1,142 @@
 [
   {
-    "question": "Which of the following best defines scarcity in economics?",
+    "question": "The multiplier effect is a concept used to describe the impact of a change in aggregate demand on the overall level of economic activity. Which of the following is a characteristic of the multiplier effect?",
     "options": [
-      "The limited availability of goods in developing countries",
-      "The condition where unlimited wants exceed limited resources",
-      "The shortage of money in an economy",
-      "The inability of firms to produce enough goods"
+      "A change in aggregate demand leads to a change in real GDP",
+      "A change in aggregate demand leads to a change in inflation",
+      "A change in aggregate demand leads to a change in interest rates",
+      "A change in aggregate demand leads to a change in unemployment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of supply and demand is used to describe the interaction between buyers and sellers in a market. Which of the following is a result of an increase in supply?",
+    "options": [
+      "Decrease in quantity supplied",
+      "Increase in price",
+      "Decrease in price",
+      "Increase in quantity demanded"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Inflation is a sustained increase in the general price level of goods and services in an economy. Which of the following is a cause of inflation?",
+    "options": [
+      "Decrease in supply",
+      "Increase in demand",
+      "Stable supply",
+      "Increase in interest rates"
     ],
     "correctIndex": 1
   },
   {
-    "question": "If the price of a good rises and the quantity demanded falls, this is known as:",
+    "question": "The budget deficit is a situation in which government expenditure exceeds government revenue. Which of the following is a consequence of a budget deficit?",
     "options": [
-      "An increase in supply",
-      "A contraction in demand",
-      "An extension in supply",
-      "An expansion in demand"
+      "Decrease in inflation",
+      "Increase in savings",
+      "Increase in national debt",
+      "Decrease in national debt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The terms of trade refer to the ratio of the price of exports to imports. If the price of a country's exports increases while the price of its imports remains constant, what will happen to the terms of trade?",
+    "options": [
+      "Be unaffected",
+      "Increase",
+      "Decrease",
+      "Remain the same"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of production involves the extraction of raw materials from the earth?",
+    "question": "In a perfectly competitive market, how do firms respond to changes in the market price when the marginal cost curve is below the average revenue curve?",
     "options": [
-      "Secondary production",
-      "Tertiary production",
-      "Quaternary production",
-      "Primary production"
+      "By decreasing production",
+      "By increasing production",
+      "By increasing prices",
+      "By maintaining current production levels"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concept of supply and demand is used to describe the interaction between buyers and sellers in a market. Which of the following is a result of an increase in supply?",
+    "options": [
+      "Increase in price",
+      "Decrease in quantity supplied",
+      "Decrease in price",
+      "Increase in quantity demanded"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country's balance of trade is said to be in surplus when the value of its exports exceeds the value of its imports. Which of the following is a result of a trade surplus?",
+    "options": [
+      "Increase in national debt",
+      "Decrease in inflation",
+      "Increase in foreign exchange reserves",
+      "Decrease in foreign exchange reserves"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of supply and demand is used to describe the interaction between buyers and sellers in a market. Which of the following is a result of an increase in demand?",
+    "options": [
+      "Increase in price",
+      "Decrease in quantity demanded",
+      "Increase in quantity supplied",
+      "Decrease in price"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of supply and demand is used to describe the interaction between buyers and sellers in a market. Which of the following is a result of an increase in supply?",
+    "options": [
+      "Increase in quantity demanded",
+      "Decrease in price",
+      "Decrease in quantity supplied",
+      "Increase in price"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Unemployment is a situation in which a person who is able and willing to work is unable to find employment. Which of the following is a type of unemployment?",
+    "options": [
+      "Structural Unemployment",
+      "Seasonal Unemployment",
+      "Frictional Unemployment",
+      "Cyclical Unemployment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of the economy of the Caribbean?",
+    "options": [
+      "Manufacturing based economy",
+      "Primary commodities based economy",
+      "Agriculture based economy",
+      "Diversified economy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A perfectly competitive market is characterized by:",
+    "question": "The concept of supply and demand is used to describe the interaction between buyers and sellers in a market. Which of the following is a result of an increase in demand?",
     "options": [
-      "A few large firms dominating the market",
-      "One firm controlling the entire market",
-      "Many buyers and sellers with homogeneous products",
-      "Firms selling differentiated products with high barriers to entry"
+      "Increase in price",
+      "Increase in quantity supplied",
+      "Decrease in quantity demanded",
+      "Decrease in price"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "When the government imposes a maximum price below the equilibrium price, the result is:",
+    "question": "Fiscal policy involves the use of government expenditure and taxation to influence the overall level of economic activity. Which of the following is a type of fiscal policy?",
     "options": [
-      "A surplus of goods in the market",
-      "An excess demand or shortage in the market",
-      "A decrease in consumer demand",
-      "An increase in the equilibrium price"
+      "Contractionary Fiscal Policy",
+      "Expansionary Fiscal Policy",
+      "Automatic Fiscal Policy",
+      "Neutral Fiscal Policy"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a public good?",
-    "options": [
-      "A private hospital",
-      "A toll highway",
-      "National defence",
-      "A supermarket"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Consumer Price Index (CPI) is used to measure:",
-    "options": [
-      "The total output of an economy",
-      "Changes in the general price level over time",
-      "The rate of unemployment in a country",
-      "The balance of payments deficit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a regressive tax?",
-    "options": [
-      "A tax that takes a higher percentage from high-income earners",
-      "A tax that takes the same percentage from all income levels",
-      "A tax that takes a higher percentage from low-income earners",
-      "A tax that only applies to corporations"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Gross Domestic Product (GDP) measures:",
-    "options": [
-      "The total value of goods and services produced by a country's citizens abroad",
-      "The total value of goods and services produced within a country in a given period",
-      "The net income earned by residents of a country",
-      "The government's total expenditure in a fiscal year"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "An increase in the money supply, with output remaining constant, will most likely lead to:",
-    "options": [
-      "Deflation",
-      "Unemployment",
-      "Inflation",
-      "Economic growth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The multiplier effect in economics refers to:",
-    "options": [
-      "The increase in tax revenue when income rises",
-      "The proportional increase in national income resulting from an initial injection of spending",
-      "The effect of interest rates on investment",
-      "The relationship between imports and exports"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which factor of production earns rent as its reward?",
-    "options": [
-      "Labour",
-      "Capital",
-      "Land",
-      "Enterprise"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A current account deficit in the balance of payments means that:",
-    "options": [
-      "The country is exporting more than it imports",
-      "The country's imports of goods and services exceed its exports",
-      "The government is spending more than it earns in taxes",
-      "Foreign direct investment has decreased"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Economies of scale refer to:",
-    "options": [
-      "The increase in costs as a firm reduces its output",
-      "The reduction in average costs as a firm increases its scale of production",
-      "The savings made by consumers when buying in bulk",
-      "The profits earned by monopoly firms"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a contractionary fiscal policy measure?",
-    "options": [
-      "Decreasing interest rates",
-      "Increasing government spending",
-      "Reducing taxes to stimulate spending",
-      "Increasing taxes and reducing government expenditure"
-    ],
-    "correctIndex": 3
   }
 ]

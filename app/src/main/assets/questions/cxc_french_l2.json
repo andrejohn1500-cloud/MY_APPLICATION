@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the French word for 'apple'?",
+    "question": "Quel est le mot qui signifie 'je suis en voiture' en fran\u00e7ais ?",
     "options": [
-      "La pomme",
-      "La poire",
-      "La banane",
-      "La cerise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "How do you say 'I am hungry' in French?",
-    "options": [
-      "J'ai soif",
-      "J'ai froid",
-      "J'ai faim",
-      "J'ai peur"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is the correct translation of 'the red house'?",
-    "options": [
-      "La maison rouge",
-      "Le maison rouge",
-      "La rouge maison",
-      "Les maison rouge"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the correct French greeting for 'Good evening'?",
-    "options": [
-      "Bonjour",
-      "Bonsoir",
-      "Bonne nuit",
-      "Salut"
+      "Je suis \u00e0 la maison",
+      "Je suis en voiture",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which verb means 'to eat' in French?",
+    "question": "Quel est le mot qui signifie 'je suis en train' en fran\u00e7ais ?",
     "options": [
-      "Boire",
-      "Dormir",
-      "Manger",
-      "Parler"
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc",
+      "Je suis en train",
+      "Je suis \u00e0 la maison"
     ],
     "correctIndex": 2
   },
   {
-    "question": "How do you say 'my brother' in French?",
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je m'appelle Marie' en fran\u00e7ais ?",
     "options": [
-      "Ma soeur",
-      "Mon fr\u00e8re",
-      "Mon p\u00e8re",
-      "Ma m\u00e8re"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the French word for 'school'?",
-    "options": [
-      "La biblioth\u00e8que",
-      "Le magasin",
-      "L'\u00e9cole",
-      "Le bureau"
+      "Je suis fatigu\u00e9",
+      "Je suis heureux",
+      "Je m'appelle Marie",
+      "Je suis content"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which sentence correctly means 'She is a doctor'?",
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis \u00e0 l'\u00e9cole' en fran\u00e7ais ?",
     "options": [
-      "Il est m\u00e9decin",
-      "Elle est m\u00e9decin",
-      "Elle a m\u00e9decin",
-      "Ils sont m\u00e9decin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'Quel \u00e2ge as-tu?' mean in English?",
-    "options": [
-      "Where do you live?",
-      "What is your name?",
-      "How old are you?",
-      "How are you?"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following numbers is 'soixante-dix' in French?",
-    "options": [
-      "60",
-      "65",
-      "70",
-      "80"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct French phrase for 'I like football'?",
-    "options": [
-      "J'aime le football",
-      "Je d\u00e9teste le football",
-      "Je joue football",
-      "J'ai le football"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "How do you say 'Please' in French?",
-    "options": [
-      "Merci",
-      "Pardon",
-      "S'il vous pla\u00eet",
-      "De rien"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is the correct French translation of 'white'?",
-    "options": [
-      "Noir",
-      "Bleu",
-      "Vert",
-      "Blanc"
+      "Je suis \u00e0 la maison",
+      "Je suis au travail",
+      "Je suis au parc",
+      "Je suis \u00e0 l'\u00e9cole"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does 'Je m'appelle Marie' mean in English?",
+    "question": "Quel est le mot qui signifie 'je suis \u00e0 la plage' en fran\u00e7ais ?",
     "options": [
-      "I am from Marie",
-      "My name is Marie",
-      "I like Marie",
-      "I have Marie"
+      "Je suis au parc",
+      "Je suis \u00e0 la plage",
+      "Je suis au travail",
+      "Je suis \u00e0 la maison"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a correct French sentence meaning 'We are going to the beach'?",
+    "question": "Comment s'appelle la langue que les Canadiens parlent ?",
     "options": [
-      "Nous allons \u00e0 la plage",
-      "Nous avons \u00e0 la plage",
-      "Nous sommes \u00e0 la plage hier",
-      "Nous faisons la plage"
+      "L'allemand",
+      "L'anglais",
+      "L'espagnol",
+      "Le fran\u00e7ais"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quel est le mot qui signifie 'amour' en fran\u00e7ais ?",
+    "options": [
+      "Famille",
+      "Ennui",
+      "Amour",
+      "Amiti\u00e9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis en vacances' en fran\u00e7ais ?",
+    "options": [
+      "Je suis \u00e0 la maison",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis en vacances",
+      "Je suis au parc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je m'appelle' en fran\u00e7ais ?",
+    "options": [
+      "Je suis fatigu\u00e9",
+      "Je m'appelle",
+      "Je suis content",
+      "Je suis heureux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis heureux' en fran\u00e7ais ?",
+    "options": [
+      "Je suis triste",
+      "Je suis confus",
+      "Je suis heureux",
+      "Je suis fatigu\u00e9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Qu'est-ce que le mot 'bonjour' signifie ?",
+    "options": [
+      "Bonjour signifie 'au revoir'",
+      "Bonjour signifie 'merci'",
+      "Bonjour signifie 'bonne journ\u00e9e'",
+      "Bonjour signifie 'excusez-moi'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis perdu(e)' en fran\u00e7ais ?",
+    "options": [
+      "Je suis perdu(e)",
+      "Je suis content",
+      "Je suis fatigu\u00e9",
+      "Je suis heureux"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Comment s'appelle le drapeau de la France ?",
+    "options": [
+      "Le drapeau noir",
+      "Le drapeau rouge",
+      "Le drapeau tricolore",
+      "Le drapeau blanc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis d\u00e9sol\u00e9(e)' en fran\u00e7ais ?",
+    "options": [
+      "Je suis content",
+      "Je suis heureux",
+      "Je suis d\u00e9sol\u00e9(e)",
+      "Je suis fatigu\u00e9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis en avion' en fran\u00e7ais ?",
+    "options": [
+      "Je suis \u00e0 la maison",
+      "Je suis en avion",
+      "Je suis au parc",
+      "Je suis \u00e0 l'\u00e9cole"
+    ],
+    "correctIndex": 1
   }
 ]

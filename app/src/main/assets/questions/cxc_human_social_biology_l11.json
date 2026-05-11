@@ -1,152 +1,144 @@
 [
   {
-    "question": "Which enzyme is responsible for catalyzing the conversion of fibrinogen to fibrin during blood clotting?",
+    "question": "Which of the following nutrients is primarily responsible for the maintenance of healthy bone structure in the body?",
     "options": [
-      "Thrombin",
-      "Prothrombin",
-      "Thromboplastin",
-      "Plasmin"
+      "Magnesium",
+      "Phosphorus",
+      "Vitamin D",
+      "Calcium"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "During the light-dependent stage of photosynthesis, water molecules are split in a process called photolysis. What are the direct products of this reaction?",
+    "question": "The primary function of the kidneys in the urinary system is to",
     "options": [
-      "Oxygen, hydrogen ions and electrons",
-      "Carbon dioxide and water",
-      "ATP and NADPH only",
-      "Glucose and oxygen"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A person with blood type AB negative receives a transfusion of blood type O positive. Which of the following best describes the likely outcome?",
-    "options": [
-      "Agglutination will occur due to Rh factor incompatibility",
-      "No reaction will occur because O is the universal donor",
-      "Agglutination will occur due to ABO incompatibility",
-      "The transfusion will be successful because AB accepts all ABO types"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly describes the role of the loop of Henle in the nephron?",
-    "options": [
-      "It creates a concentration gradient in the medulla enabling water reabsorption",
-      "It filters blood under high pressure to produce filtrate",
-      "It reabsorbs glucose and amino acids via active transport",
-      "It secretes hydrogen ions to regulate blood pH"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Nondisjunction during meiosis II results in which of the following?",
-    "options": [
-      "Two normal gametes and two abnormal gametes",
-      "Four abnormal gametes",
-      "One gamete with an extra chromosome and one missing a chromosome, plus two normal gametes",
-      "All gametes receiving an extra chromosome"
+      "Maintain blood pH and transport nutrients",
+      "Filter waste products from the blood and produce hormones",
+      "Remove waste products and excess fluids from the blood",
+      "Regulate blood pressure and maintain blood volume"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A student measures the oxygen consumption of a germinating seed at different temperatures and finds maximum consumption at 37\u00b0C with a sharp decline at 45\u00b0C. Which explanation best accounts for the decline?",
+    "question": "The main function of the pancreas in the digestive system is to",
     "options": [
-      "Enzyme denaturation reduces the rate of cellular respiration",
-      "All substrate has been consumed",
-      "The seed enters dormancy at high temperatures",
-      "Oxygen becomes less soluble and unavailable"
+      "Filter waste products and produce hormones",
+      "Produce hormones and regulate blood sugar levels",
+      "Digest food and absorb nutrients",
+      "Regulate blood pressure and transport nutrients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Golgi apparatus is responsible for which of the following functions in a cell?",
+    "options": [
+      "Regulation of gene expression through transcription",
+      "Synthesis of ATP through cellular respiration",
+      "Regulation of cell signaling through protein phosphorylation",
+      "Modification and packaging of proteins and lipids"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The primary function of the hypothalamus in the endocrine system is to",
+    "options": [
+      "Filter waste products and produce hormones",
+      "Regulate body temperature and maintain homeostasis",
+      "Produce hormones and regulate growth",
+      "Maintain blood sugar levels and store glycogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which both species benefit is known as",
+    "options": [
+      "Commensalism, Symbiosis, Parasitism",
+      "Mutualism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with a diet lacking in vitamin B12 may experience the following symptoms:",
+    "options": [
+      "Nausea, headaches, and dizziness",
+      "Fatigue, weakness, and neurological problems",
+      "Increased urination, muscle weakness, and dry skin",
+      "Rapid heartbeat, high blood pressure, and tremors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of genetic variation in a population is increased by",
+    "options": [
+      "Mutation, gene flow, and genetic recombination",
+      "Gene flow and genetic recombination",
+      "Selection and genetic drift",
+      "Genetic recombination and mutation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following hormones directly stimulates the reabsorption of sodium ions in the distal convoluted tubule and collecting duct?",
+    "question": "The main function of the spleen in the lymphatic system is to",
     "options": [
-      "Aldosterone",
-      "Antidiuretic hormone",
-      "Insulin",
-      "Glucagon"
+      "Filter waste products and store red blood cells",
+      "Regulate blood pressure and transport nutrients",
+      "Maintain blood pH and transport gases",
+      "Filter waste products and produce hormones"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a population where 16% of individuals show the recessive phenotype for a trait, what is the frequency of the dominant allele according to the Hardy-Weinberg principle?",
+    "question": "The process of gas exchange in the lungs is primarily facilitated by which of the following structures?",
     "options": [
-      "0.60",
-      "0.40",
-      "0.84",
-      "0.36"
+      "Trachea",
+      "Aorta",
+      "Pulmonary veins",
+      "Alveoli"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A person with a diet lacking in vitamin D may experience the following symptoms:",
+    "options": [
+      "Nausea, headaches, and dizziness",
+      "Increased urination, muscle weakness, and dry skin",
+      "Weakened bones, fatigue, and increased risk of fractures",
+      "Rapid heartbeat, high blood pressure, and tremors"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which one species is harmed and the other species benefits is known as",
+    "options": [
+      "Parasitism",
+      "Commensalism, Symbiosis, Mutualism"
     ],
     "correctIndex": 0
   },
   {
-    "question": "During an inflammatory response, which cells release histamine causing vasodilation and increased capillary permeability?",
+    "question": "The process of symbiotic relationship between two species in which both species benefit is known as",
     "options": [
-      "Mast cells",
-      "Neutrophils",
-      "Cytotoxic T cells",
-      "B lymphocytes"
+      "Commensalism, Symbiosis, Parasitism",
+      "Mutualism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which one species is harmed and the other species benefits is known as",
+    "options": [
+      "Parasitism",
+      "Commensalism, Symbiosis, Mutualism"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following correctly describes the mechanism by which action potentials are propagated along a myelinated nerve fibre?",
+    "question": "The primary function of the adrenal medulla in the endocrine system is to",
     "options": [
-      "Saltatory conduction where the impulse jumps between nodes of Ranvier",
-      "Continuous conduction along the entire length of the axon membrane",
-      "Passive diffusion of sodium ions along the entire fibre",
-      "The impulse travels through the myelin sheath directly"
+      "Maintain blood sugar levels and store glycogen",
+      "Filter waste products and produce hormones",
+      "Regulate stress response and maintain blood pressure",
+      "Produce hormones and regulate growth"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A heterozygous tall plant (Tt) is crossed with a dwarf plant (tt). If 240 offspring are produced, how many would be expected to be tall?",
-    "options": [
-      "120",
-      "60",
-      "180",
-      "240"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which statement accurately describes the difference between humoral and cell-mediated immunity?",
-    "options": [
-      "Humoral immunity involves antibody production by B cells while cell-mediated immunity involves T cells directly attacking infected cells",
-      "Humoral immunity involves T cells while cell-mediated immunity uses antibodies",
-      "Both types use identical mechanisms but target different pathogens",
-      "Cell-mediated immunity is faster acting than humoral immunity in all cases"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In the cardiac cycle, which event corresponds to the closure of the atrioventricular valves producing the first heart sound?",
-    "options": [
-      "The beginning of ventricular systole when ventricular pressure exceeds atrial pressure",
-      "The end of ventricular diastole",
-      "The opening of the semilunar valves",
-      "The completion of atrial systole"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A mutation causes a change in the third base of a codon from UAU to UAC. The amino acid tyrosine is coded by both UAU and UAC. This type of mutation is best described as which of the following?",
-    "options": [
-      "A silent or synonymous mutation",
-      "A missense mutation",
-      "A nonsense mutation",
-      "A frameshift mutation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly explains why carbon monoxide poisoning is life-threatening?",
-    "options": [
-      "Carbon monoxide binds irreversibly to haemoglobin at the same site as oxygen, forming carboxyhaemoglobin and reducing oxygen transport",
-      "Carbon monoxide destroys red blood cells reducing their total number",
-      "Carbon monoxide blocks oxygen from entering the alveoli",
-      "Carbon monoxide reacts with plasma proteins preventing oxygen dissolution"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

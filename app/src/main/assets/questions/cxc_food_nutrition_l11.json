@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which enzyme is responsible for the initial digestion of starch in the mouth?",
+    "question": "A person with a history of heart disease is advised to consume a diet low in saturated fats. What is the likely impact on their cholesterol levels?",
     "options": [
-      "A. Pepsin",
-      "B. Salivary amylase",
-      "C. Lipase",
-      "D. Trypsin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A person consuming a diet deficient in Vitamin C over a prolonged period would most likely develop which condition?",
-    "options": [
-      "A. Rickets",
-      "B. Pellagra",
-      "C. Scurvy",
-      "D. Beriberi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the Maillard reaction in food preparation?",
-    "options": [
-      "A. The breakdown of fats by heat causing rancidity",
-      "B. The browning reaction between amino acids and reducing sugars when heated",
-      "C. The caramelization of sucrose at high temperatures",
-      "D. The coagulation of proteins in the presence of acid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When calculating the energy value of a food that contains 10g protein, 15g carbohydrate and 8g fat, what is the total energy in kilocalories?",
-    "options": [
-      "A. 212 kcal",
-      "B. 218 kcal",
-      "C. 236 kcal",
-      "D. 198 kcal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which method of heat transfer is primarily responsible for cooking food in a microwave oven?",
-    "options": [
-      "A. Conduction",
-      "B. Convection",
-      "C. Radiation",
-      "D. Dielectric heating"
+      "An increase in high-density lipoprotein (HDL) cholesterol",
+      "An increase in low-density lipoprotein (LDL) cholesterol",
+      "No change in cholesterol levels",
+      "A reduction in low-density lipoprotein (LDL) cholesterol"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The Dietary Reference Values (DRVs) include which of the following components?",
+    "question": "A food item is labeled as 'organically grown'. What does this mean?",
     "options": [
-      "A. Estimated Average Requirement, Reference Nutrient Intake, and Lower Reference Nutrient Intake",
-      "B. Recommended Daily Allowance, Tolerable Upper Intake Level, and Adequate Intake",
-      "C. Basal Metabolic Rate, Physical Activity Level, and Total Energy Expenditure",
-      "D. Protein Efficiency Ratio, Net Protein Utilization, and Biological Value"
+      "The food item was grown using genetically modified organisms",
+      "The food item was grown using conventional farming methods",
+      "The food item was grown without the use of synthetic pesticides or fertilizers",
+      "The food item was grown using hydroponics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A food handler is preparing a meal for a person with a history of food allergies. What is the most important method of safe food handling to prevent cross-contamination?",
+    "options": [
+      "Using a food thermometer to check for doneness",
+      "Washing hands frequently",
+      "Preventing cross-contamination of allergenic ingredients",
+      "Refrigerating food at a temperature below 40\u00b0F (4\u00b0C)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A food handler is preparing a meal for a person with a weakened immune system. What is the most important method of safe food handling to prevent foodborne illness?",
+    "options": [
+      "Cooking food to the correct internal temperature",
+      "Using a food thermometer to check for doneness",
+      "Refrigerating food at a temperature below 40\u00b0F (4\u00b0C)",
+      "Washing hands frequently"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In food preservation, which principle does freeze-drying (lyophilization) primarily rely upon to extend shelf life?",
+    "question": "A food handler is preparing a meal for a person with celiac disease. What is the most important method of safe food handling to prevent cross-contamination?",
     "options": [
-      "A. Destruction of microorganisms through high temperature",
-      "B. Prevention of enzymatic activity through acidification",
-      "C. Removal of water through sublimation preventing microbial growth",
-      "D. Creation of anaerobic conditions to inhibit aerobic bacteria"
+      "Refrigerating food at a temperature below 40\u00b0F (4\u00b0C)",
+      "Washing hands frequently",
+      "Preparing the meal in a dedicated gluten-free area",
+      "Using a food thermometer to check for doneness"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following fatty acids is classified as an omega-3 essential fatty acid?",
+    "question": "A food item is labeled as 'organic'. What does this mean?",
     "options": [
-      "A. Oleic acid",
-      "B. Linoleic acid",
-      "C. Arachidonic acid",
-      "D. Alpha-linolenic acid"
+      "The food item was grown without the use of synthetic pesticides or fertilizers",
+      "The food item was grown using hydroponics",
+      "The food item was grown using conventional farming methods",
+      "The food item was grown using genetically modified organisms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A traditional Caribbean dish is made with a combination of fish, coconut milk, and spices. What is the likely source of omega-3 fatty acids in this dish?",
+    "options": [
+      "The spices",
+      "The combination of all three ingredients",
+      "The fish",
+      "The coconut milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A food item is labeled as 'raw'. What does this mean?",
+    "options": [
+      "The food item is made from a combination of cooked and raw ingredients",
+      "The food item is made from raw ingredients",
+      "The food item has not been cooked or processed in any way",
+      "The food item is made from cooked ingredients"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A meal plan for a person with a history of osteoporosis includes a serving of vitamin D-rich foods. What is the likely reason for this inclusion?",
+    "options": [
+      "To provide a source of complex carbohydrates",
+      "To prevent further bone loss",
+      "To provide a source of protein",
+      "To provide a source of healthy fats"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with a history of heart disease is advised to consume a diet low in cholesterol. What is the likely impact on their cholesterol levels?",
+    "options": [
+      "An increase in high-density lipoprotein (HDL) cholesterol",
+      "No change in cholesterol levels",
+      "A reduction in low-density lipoprotein (LDL) cholesterol",
+      "An increase in low-density lipoprotein (LDL) cholesterol"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A traditional Caribbean dish is made with a combination of yams, callaloo, and coconut milk. What is the likely source of fiber in this dish?",
+    "options": [
+      "The combination of all three ingredients",
+      "The yams",
+      "The callaloo",
+      "The coconut milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A meal plan for a person with kidney disease includes a serving of lean meat. What is the likely reason for this inclusion?",
+    "options": [
+      "To provide a source of fiber",
+      "To provide a source of complex carbohydrates",
+      "To provide a source of protein without excessive sodium",
+      "To provide a source of healthy fats"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A food handler is preparing a meal for a person with a weakened immune system. What is the most important method of personal hygiene to prevent cross-contamination?",
+    "options": [
+      "Wearing a hairnet",
+      "Wearing gloves and changing them frequently",
+      "Washing hands frequently",
+      "Using a hand sanitizer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A food handler is preparing a meal for a person with a weakened immune system. What is the most important method of safe food handling to prevent foodborne illness?",
+    "options": [
+      "Washing hands frequently",
+      "Using a food thermometer to check for doneness",
+      "Refrigerating food at a temperature below 40\u00b0F (4\u00b0C)",
+      "Cooking food to the correct internal temperature"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A food label states that a product contains hydrogenated vegetable oil. This process is significant nutritionally because it",
+    "question": "A food item is labeled as 'gluten-free'. What does this mean?",
     "options": [
-      "A. Increases the unsaturated fat content making the product healthier",
-      "B. Converts unsaturated fats to saturated trans fats potentially increasing cardiovascular risk",
-      "C. Removes cholesterol from the product completely",
-      "D. Increases the omega-3 fatty acid content of the product"
+      "The food item is made from gluten-rich ingredients",
+      "The food item has been treated with gluten to improve its texture",
+      "The food item is suitable for individuals with celiac disease",
+      "The food item contains no gluten, a protein found in wheat, barley, and rye"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which condition is correctly matched with its causative nutritional deficiency?",
-    "options": [
-      "A. Kwashiorkor \u2014 deficiency of total caloric intake",
-      "B. Marasmus \u2014 deficiency of protein with adequate calories",
-      "C. Osteomalacia \u2014 deficiency of Vitamin D in adults",
-      "D. Anaemia \u2014 deficiency of Vitamin A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the HACCP system used in food safety management, which of the following correctly defines a Critical Control Point (CCP)?",
-    "options": [
-      "A. Any step in food preparation where a food safety hazard could occur",
-      "B. A step at which control can be applied to prevent, eliminate or reduce a food safety hazard to acceptable levels",
-      "C. The final inspection stage before food is served to consumers",
-      "D. A monitoring procedure used to verify that temperature logs are accurate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best explains why legumes are considered an incomplete protein source when consumed alone?",
-    "options": [
-      "A. They contain all essential amino acids but in quantities too low to meet daily requirements",
-      "B. They are deficient in the essential amino acids methionine and cysteine",
-      "C. They lack the essential amino acids lysine and threonine",
-      "D. They contain anti-nutritional factors that prevent all protein absorption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The glycaemic index (GI) of a food measures which of the following?",
-    "options": [
-      "A. The total amount of carbohydrate present per serving of the food",
-      "B. The rate at which insulin is secreted in response to food consumption",
-      "C. The relative ability of a carbohydrate food to raise blood glucose compared to a reference food",
-      "D. The digestibility coefficient of starch molecules in the small intestine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following changes occurs when egg white is beaten to form a foam, and what functional property of protein does this demonstrate?",
-    "options": [
-      "A. Coagulation \u2014 protein molecules solidify upon mechanical action",
-      "B. Denaturation and foam formation \u2014 proteins unfold and trap air demonstrating aeration",
-      "C. Gelatinization \u2014 protein granules absorb water and swell",
-      "D. Hydrolysis \u2014 peptide bonds are broken releasing amino acids"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A consumer notices that canned food has a bulging lid. This is most likely caused by which of the following and what action should be taken?",
-    "options": [
-      "A. Normal pressure changes during transport; the food is safe to consume after refrigeration",
-      "B. Gas production by Clostridium botulinum or other microorganisms indicating spoilage; the can should be discarded",
-      "C. Incomplete vacuum sealing during manufacturing; the food can be used immediately after opening",
-      "D. Chemical reaction between the food acids and the can lining producing harmless gases"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

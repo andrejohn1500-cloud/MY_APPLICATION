@@ -1,152 +1,82 @@
 [
   {
-    "question": "Which organ in the human body is responsible for pumping blood throughout the circulatory system?",
+    "question": "Which type of ecological relationship involves a competition between two species for resources?",
     "options": [
-      "Lungs",
-      "Kidneys",
-      "Heart",
-      "Liver"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the basic unit of life?",
-    "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Where does digestion of starch begin in the human body?",
-    "options": [
-      "Stomach",
-      "Small intestine",
-      "Large intestine",
-      "Mouth"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which blood cells are responsible for fighting infections in the body?",
-    "options": [
-      "Red blood cells",
-      "Platelets",
-      "White blood cells",
-      "Plasma cells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the process by which the body breaks down food into simpler substances?",
-    "options": [
-      "Respiration",
-      "Digestion",
-      "Absorption",
-      "Excretion"
+      "Mutualism",
+      "Competition",
+      "Commensalism",
+      "Predation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which part of the plant cell contains chlorophyll?",
+    "question": "Which type of reproductive cell is haploid and has a single set of chromosomes?",
     "options": [
-      "Nucleus",
-      "Cell wall",
-      "Vacuole",
-      "Chloroplast"
+      "Egg cell",
+      "Fertilized egg cell",
+      "Zygote",
+      "Sperm cell"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What type of joint is found at the shoulder?",
+    "question": "Which type of ecological relationship involves a symbiotic relationship between two species where one species benefits and the other species is harmed?",
     "options": [
-      "Hinge joint",
-      "Fixed joint",
-      "Ball and socket joint",
-      "Gliding joint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nutrient provides the body with the most energy per gram?",
-    "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Vitamins",
-      "Fats"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the tube that carries air from the throat to the lungs?",
-    "options": [
-      "Oesophagus",
-      "Trachea",
-      "Bronchiole",
-      "Alveolus"
+      "Commensalism",
+      "Parasitism",
+      "Mutualism",
+      "Predation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+    "question": "Which organ is responsible for synthesizing hormones?",
     "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the process by which plants make their own food?",
-    "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Digestion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organ filters waste products from the blood to produce urine?",
-    "options": [
-      "Liver",
-      "Kidney",
-      "Bladder",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Thyroid gland",
       "Pancreas"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the name of the female reproductive cell?",
+    "question": "Which gas is primarily responsible for the transport of oxygen from the lungs to the body cells?",
     "options": [
-      "Sperm",
-      "Zygote",
-      "Ovum",
-      "Embryo"
+      "Oxygen",
+      "Helium",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of cell is responsible for the production of white blood cells?",
+    "options": [
+      "Spleen",
+      "Liver",
+      "Bone marrow",
+      "Thymus"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which disease is caused by a deficiency of Vitamin C?",
+    "question": "What is the primary function of the thyroid gland in the body?",
     "options": [
-      "Rickets",
-      "Anaemia",
-      "Scurvy",
-      "Goitre"
+      "To regulate body temperature",
+      "To synthesize new proteins",
+      "To regulate metabolism",
+      "To store genetic information"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which organ is responsible for regulating body temperature?",
+    "options": [
+      "Adrenal gland",
+      "Hypothalamus",
+      "Pituitary gland",
+      "Thyroid gland"
+    ],
+    "correctIndex": 1
   }
 ]

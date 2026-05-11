@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the French word for 'apple'?",
+    "question": "Qu'est-ce que le mot 's'il vous pla\u00eet' signifie ?",
     "options": [
-      "La pomme",
-      "La poire",
-      "La fraise",
-      "La banane"
+      "S'il vous pla\u00eet signifie 'pourriez-vous'",
+      "S'il vous pla\u00eet signifie 'au revoir'",
+      "S'il vous pla\u00eet signifie 'merci'",
+      "S'il vous pla\u00eet signifie 'excusez-moi'"
     ],
     "correctIndex": 0
   },
   {
-    "question": "How do you say 'Good morning' in French?",
+    "question": "Quel est le mot qui signifie 'je suis au bureau' en fran\u00e7ais ?",
     "options": [
-      "Bonsoir",
-      "Bonne nuit",
-      "Bonjour",
-      "Salut"
+      "Je suis \u00e0 la maison",
+      "Je suis au parc",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au bureau"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following means 'I am hungry' in French?",
+    "question": "Qu'est-ce que le mot 'merci' signifie ?",
     "options": [
-      "J'ai soif",
-      "J'ai faim",
-      "J'ai peur",
-      "J'ai froid"
+      "Merci signifie 'bonne chance'",
+      "Merci signifie 'gr\u00e2ce'",
+      "Merci signifie 'excusez-moi'",
+      "Merci signifie 'au revoir'"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the correct French word for 'school'?",
+    "question": "Qu'est-ce que la bonne r\u00e9ponse \u00e0 dire lorsque quelqu'un vous demande 'Comment \u00e7a va ?' ",
     "options": [
-      "La maison",
-      "Le magasin",
-      "L'\u00e9cole",
-      "La gare"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How do you say 'My name is Marie' in French?",
-    "options": [
-      "Je m'appelle Marie",
-      "J'ai Marie",
-      "Je suis Marie",
-      "Mon nom Marie"
+      "Je vais bien, merci.",
+      "Je ne sais pas, merci.",
+      "Je suis heureux, merci.",
+      "Je suis fatigu\u00e9, merci."
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word means 'red' in French?",
+    "question": "Quel est le mot qui signifie 'je suis au parc' en fran\u00e7ais ?",
     "options": [
-      "Bleu",
-      "Vert",
-      "Rouge",
-      "Jaune"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'O\u00f9 habites-tu?' mean in English?",
-    "options": [
-      "How old are you?",
-      "What is your name?",
-      "Where do you live?",
-      "What do you do?"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is the correct French word for 'brother'?",
-    "options": [
-      "La s\u0153ur",
-      "Le fr\u00e8re",
-      "Le p\u00e8re",
-      "L'oncle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How do you say 'I like to play football' in French?",
-    "options": [
-      "J'aime jouer au football",
-      "Je mange du football",
-      "Je joue football bien",
-      "J'ai du football"
+      "Je suis au parc",
+      "Je suis \u00e0 la maison",
+      "Je suis au travail",
+      "Je suis \u00e0 l'\u00e9cole"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does 'Quel \u00e2ge as-tu?' mean in English?",
+    "question": "Quel est le mot qui signifie 'je suis confus' en fran\u00e7ais ?",
     "options": [
-      "Where are you from?",
-      "How are you?",
-      "How old are you?",
-      "What time is it?"
+      "Je suis heureux",
+      "Je suis triste",
+      "Je suis fatigu\u00e9",
+      "Je suis confus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Qu'est-ce que le mot 'bonne nuit' signifie ?",
+    "options": [
+      "Bonne nuit signifie 'au revoir'",
+      "Bonne nuit signifie 'merci'",
+      "Bonnes nuits signifie 'bonne nuit'",
+      "Bonne nuit signifie 'excusez-moi'"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which French word means 'teacher'?",
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis au travail' en fran\u00e7ais ?",
     "options": [
-      "L'\u00e9l\u00e8ve",
-      "Le professeur",
-      "Le m\u00e9decin",
-      "L'avocat"
+      "Je suis \u00e0 la maison",
+      "Je suis au travail",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 'Monday' in French?",
+    "question": "Comment s'appelle la f\u00eate qui se c\u00e9l\u00e8bre le 1er janvier ?",
     "options": [
-      "Mercredi",
-      "Mardi",
-      "Lundi",
-      "Jeudi"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How do you say 'I live in Martinique' in French?",
-    "options": [
-      "Je vais \u00e0 Martinique",
-      "J'habite \u00e0 la Martinique",
-      "Je suis Martinique",
-      "Je reste Martinique"
+      "La f\u00eate des Rois",
+      "La Saint-Sylvestre",
+      "P\u00e2ques",
+      "No\u00ebl"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly describes the weather as 'It is sunny'?",
+    "question": "Quel est le mot qui signifie 'je suis \u00e0 la biblioth\u00e8que' en fran\u00e7ais ?",
     "options": [
-      "Il pleut",
-      "Il neige",
-      "Il fait beau",
-      "Il fait froid"
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc",
+      "Je suis \u00e0 la biblioth\u00e8que",
+      "Je suis \u00e0 la maison"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the verb 'manger' mean in English?",
+    "question": "Quel est le mot qui signifie 'grand-m\u00e8re' en fran\u00e7ais ?",
     "options": [
-      "To drink",
-      "To sleep",
-      "To eat",
-      "To run"
+      "Maman",
+      "P\u00e8re",
+      "Fr\u00e8re",
+      "Grand-m\u00e8re"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Merci, c'est gentil de votre part' en fran\u00e7ais ?",
+    "options": [
+      "Merci, c'est mal de votre part",
+      "Merci, c'est mauvais de votre part",
+      "Merci, c'est gentil de votre part",
+      "Merci, c'est ennuyeux de votre part"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis fatigu\u00e9' en fran\u00e7ais ?",
+    "options": [
+      "Je suis triste",
+      "Je suis fatigu\u00e9",
+      "Je suis confus",
+      "Je suis heureux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis aux courses' en fran\u00e7ais ?",
+    "options": [
+      "Je suis aux courses",
+      "Je suis \u00e0 la maison",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quelle est la bonne fa\u00e7on de dire 'Je suis \u00e0 la gare' en fran\u00e7ais ?",
+    "options": [
+      "Je suis \u00e0 la maison",
+      "Je suis \u00e0 la gare",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc"
+    ],
+    "correctIndex": 1
   }
 ]

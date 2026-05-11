@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organ in the human body is responsible for pumping blood throughout the body?",
+    "question": "Which organ is responsible for filtering waste from the blood?",
     "options": [
-      "Lungs",
-      "Heart",
+      "Kidney",
       "Liver",
-      "Kidneys"
+      "Pancreas",
+      "Spleen"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the basic unit of life?",
+    "question": "Which type of cell division results in the production of daughter cells with the same number and structure of chromosomes as the parent cell?",
     "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
+      "Endomitosis",
+      "Meiosis",
+      "Mitosis",
+      "Binary fission"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of red blood cells?",
+    "question": "What is the primary function of the atria in the heart?",
     "options": [
-      "Fight infections",
-      "Carry oxygen",
-      "Produce hormones",
-      "Clot blood"
+      "To receive blood from the veins and pump it into the ventricles",
+      "To regulate heart rate",
+      "To filter waste from the blood",
+      "To pump blood to the lungs and brain"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which part of the digestive system is responsible for absorbing most nutrients?",
+    "question": "Which type of cell division results in the production of daughter cells with a different number and structure of chromosomes than the parent cell?",
     "options": [
-      "Stomach",
-      "Large intestine",
-      "Small intestine",
-      "Oesophagus"
+      "Binary fission",
+      "Mitosis",
+      "Meiosis",
+      "Endomitosis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the name of the process by which the body breaks down food into simpler substances?",
+    "question": "Which artery supplies oxygenated blood to the stomach?",
     "options": [
-      "Respiration",
-      "Digestion",
-      "Absorption",
-      "Excretion"
+      "Superior mesenteric artery",
+      "Left gastric artery",
+      "Right coronary artery",
+      "Common hepatic artery"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+    "question": "What is the main difference between a dominant allele and a recessive allele?",
     "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "A dominant allele will always be expressed when paired with a recessive allele",
+      "A dominant allele is always recessive",
+      "A dominant allele is only expressed when paired with another dominant allele",
+      "A recessive allele is always dominant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the cerebellum in the brain?",
+    "options": [
+      "To regulate body temperature",
+      "To coordinate muscle movements",
+      "To synthesize neurotransmitters",
+      "To store genetic information"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the role of cholecystokinin in the digestive process?",
+    "options": [
+      "Stimulation of the release of digestive enzymes from the pancreas",
+      "Inhibition of gastric acid secretion",
+      "Absorption of nutrients from the small intestine",
+      "Stimulation of gastric emptying"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of cell division results in the production of gametes?",
+    "options": [
+      "Endomitosis",
+      "Mitosis",
+      "Binary fission",
+      "Meiosis"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the main function of the kidneys?",
+    "question": "Which type of ecological relationship involves a competition between two species for resources where one species is able to outcompete the other species?",
     "options": [
-      "Produce bile",
-      "Filter blood and remove waste",
-      "Pump blood",
-      "Produce insulin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of blood vessel carries blood away from the heart?",
-    "options": [
-      "Veins",
-      "Capillaries",
-      "Arteries",
-      "Venules"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which organisms produce offspring?",
-    "options": [
-      "Respiration",
-      "Reproduction",
-      "Excretion",
-      "Digestion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nutrient provides the body with the most energy per gram?",
-    "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Fats",
-      "Vitamins"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the hormone produced by the pancreas that regulates blood sugar?",
-    "options": [
-      "Adrenaline",
-      "Oestrogen",
-      "Insulin",
-      "Testosterone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the brain controls balance and coordination?",
-    "options": [
-      "Cerebrum",
-      "Medulla oblongata",
-      "Hypothalamus",
-      "Cerebellum"
+      "Commensalism",
+      "Mutualism",
+      "Predation",
+      "Competitive exclusion"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the process by which plants make their own food using sunlight?",
+    "question": "Which type of ecological relationship involves one species benefiting and the other species being unaffected?",
     "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Digestion"
+      "Commensalism",
+      "Mutualism",
+      "Competition",
+      "Predation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which disease is caused by a deficiency of Vitamin C?",
+    "question": "What is the main function of the villi in the small intestine?",
     "options": [
-      "Rickets",
-      "Anaemia",
-      "Scurvy",
-      "Goitre"
+      "To increase the surface area for absorption of nutrients",
+      "To store digestive enzymes",
+      "To synthesize new proteins",
+      "To break down food into smaller particles"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of cell is responsible for the production of red blood cells?",
+    "options": [
+      "T cell",
+      "B cell",
+      "Erythrocyte",
+      "Macrophage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of ecological relationship involves a predator and its prey?",
+    "options": [
+      "Competition",
+      "Mutualism",
+      "Commensalism",
+      "Predation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of cell is responsible for the production of antibodies?",
+    "options": [
+      "Erythrocyte",
+      "T cell",
+      "Macrophage",
+      "B cell"
+    ],
+    "correctIndex": 3
   }
 ]

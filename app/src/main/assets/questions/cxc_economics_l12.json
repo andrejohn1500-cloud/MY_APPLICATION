@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the concept of 'derived demand' in the context of factor markets?",
+    "question": "A country's national income is calculated as the sum of the value of all final goods and services produced within the country in a given period. Which of the following is the formula for national income?",
     "options": [
-      "Demand for a good that arises from consumer preferences",
-      "Demand for a factor of production that arises from the demand for the final product it helps produce",
-      "Demand created by government subsidies on production inputs",
-      "Demand for imports derived from domestic consumption patterns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a perfectly competitive market, a firm's long-run equilibrium is characterized by which of the following conditions?",
-    "options": [
-      "Price equals marginal cost only",
-      "Price equals average total cost and marginal cost, yielding normal profit",
-      "Price exceeds average total cost, yielding supernormal profit",
-      "Marginal revenue exceeds marginal cost, signaling expansion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the cross-price elasticity of demand between two goods is negative, the goods are best classified as:",
-    "options": [
-      "Substitutes",
-      "Independent goods",
-      "Complements",
-      "Inferior goods"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is the most accurate description of 'stagflation'?",
-    "options": [
-      "A period of rapid economic growth accompanied by rising prices",
-      "A simultaneous occurrence of high unemployment and high inflation",
-      "A condition where GDP grows while unemployment falls",
-      "Deflation accompanied by stagnant consumer spending"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A government imposes a specific tax on producers of a good with perfectly inelastic demand. The tax burden will be borne:",
-    "options": [
-      "Entirely by producers",
-      "Equally between producers and consumers",
-      "Entirely by consumers",
-      "Proportionally based on market share"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of national income accounting, which of the following correctly states the relationship between GDP and GNP for a country that has more factor income earned abroad than paid abroad?",
-    "options": [
-      "GDP is greater than GNP",
-      "GNP is greater than GDP",
-      "GDP equals GNP in all open economies",
-      "The relationship depends solely on the rate of depreciation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Lorenz curve is used to measure:",
-    "options": [
-      "The relationship between inflation and unemployment",
-      "The degree of income inequality within an economy",
-      "The efficiency of resource allocation in a market",
-      "The relationship between money supply and price levels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which monetary policy tool directly controls the minimum fraction of deposits that commercial banks must hold as reserves?",
-    "options": [
-      "Open market operations",
-      "Discount rate policy",
-      "Reserve requirement ratio",
-      "Moral suasion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A monopolist maximizes profit by producing at a level where:",
-    "options": [
-      "Price equals marginal cost",
-      "Marginal revenue equals marginal cost",
-      "Average revenue equals average total cost",
-      "Total revenue is maximized"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The J-curve effect in international economics suggests that following a currency depreciation:",
-    "options": [
-      "The trade balance improves immediately and then worsens",
-      "The trade balance initially worsens before eventually improving",
-      "The current account surplus increases proportionally to depreciation",
-      "Exports fall while imports rise simultaneously and permanently"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a negative externality in production?",
-    "options": [
-      "A beekeeper whose bees pollinate neighboring farms",
-      "A factory that releases untreated effluents into a river",
-      "A homeowner who maintains a beautiful garden for public enjoyment",
-      "A firm that trains workers who later benefit other employers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under a fixed exchange rate system, a balance of payments deficit requires the central bank to:",
-    "options": [
-      "Increase interest rates to attract foreign investment only",
-      "Sell foreign currency reserves to support the domestic currency",
-      "Print more domestic currency to increase money supply",
-      "Allow the exchange rate to depreciate to restore equilibrium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'comparative advantage' implies that mutually beneficial trade can occur even when one country:",
-    "options": [
-      "Has an absolute advantage in producing all goods",
-      "Has lower production costs in all industries than its trading partner",
-      "Has a higher opportunity cost in all goods",
-      "Imposes tariffs on all imported goods"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Keynesian economics, the multiplier effect occurs because:",
-    "options": [
-      "An initial increase in government spending leads to progressively larger rounds of spending and income throughout the economy",
-      "Tax cuts automatically lead to balanced budgets over the business cycle",
-      "An increase in money supply reduces interest rates proportionally",
-      "Consumer spending always equals investment spending in equilibrium"
+      "Y = C + I + G + (X - M)",
+      "Y = C + I + G + X",
+      "Y = C + I - G + X - M",
+      "Y = C + I + G - M"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best explains why a public good leads to market failure?",
+    "question": "The concept of the poverty line suggests that a family's expenditure on basic necessities is below the poverty line. Which of the following is the formula for the poverty line?",
     "options": [
-      "Public goods are too expensive for private firms to produce profitably",
-      "The non-excludable and non-rival nature of public goods leads to the free-rider problem, preventing private provision",
-      "Public goods generate negative externalities that exceed their social benefits",
-      "Governments deliberately prevent private firms from supplying public goods"
+      "P = (E + T) / (P + T)",
+      "P = (E - T) / (P - T)",
+      "P = (E + T) / (P - T)",
+      "P = (E - T) / (P + T)"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "The concept of the inflation rate suggests that the rate of inflation is the rate of change of the price level. Which of the following is the formula for the inflation rate?",
+    "options": [
+      "\u03c0 = (P1 - P0) / P0",
+      "\u03c0 = (P1 + P0) / P0",
+      "\u03c0 = (P1 - P0) / (P1 + P0)",
+      "\u03c0 = (P1 + P0) / (P1 - P0)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of comparative advantage suggests that countries should specialize in producing goods for which they have a lower opportunity cost. Which of the following is an example of comparative advantage?",
+    "options": [
+      "A country producing a good that is in high demand",
+      "A country producing more of a good than others for which it has a lower opportunity cost",
+      "A country producing a good of higher quality than others",
+      "A country producing a good at a lower price than others"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country imposes an import tariff on a good to protect its domestic producers. What is the likely effect on the demand for the import?",
+    "options": [
+      "An increase in supply",
+      "An increase in demand",
+      "No change in demand",
+      "A decrease in demand"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of the circular flow model suggests that the flow of goods and services in an economy is matched by the flow of income. Which of the following is the formula for the circular flow model?",
+    "options": [
+      "Y = C + I + G + X",
+      "Y = C + I - G + X - M",
+      "Y = C + I + G + (X - M)",
+      "Y = C + I + G - (X - M)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a monetary economy, if the supply of money increases and velocity of circulation remains constant, what is the likely effect on the price level?",
+    "options": [
+      "A decrease in the price level",
+      "No change in the price level",
+      "No change in aggregate demand",
+      "An increase in the price level"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country with a high savings rate is said to have a high propensity to save. What is the likely effect of an increase in the savings rate on the level of national income?",
+    "options": [
+      "A decrease in national income",
+      "A decrease in consumption",
+      "An increase in national income",
+      "No change in national income"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The unemployment rate is calculated as the percentage of the labor force that is unemployed. Which of the following is the formula for the unemployment rate?",
+    "options": [
+      "U = (L + F) / F",
+      "U = (L - F) / F",
+      "U = (L + F) / L",
+      "U = (L - F) / L"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of the balance of payments accounting suggests that a country's international transactions can be categorized into current and capital accounts. Which of the following is the formula for the balance of payments accounting?",
+    "options": [
+      "BOP = (X + M) + (FA - FDI)",
+      "BOP = (X - M) - (FA - FDI)",
+      "BOP = (X - M) + (FA - FDI)",
+      "BOP = (X + M) - (FA - FDI)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country with a high level of economic development is said to have a high level of human development. What is the likely effect of an increase in human development on the level of economic growth?",
+    "options": [
+      "A decrease in the level of poverty",
+      "An increase in economic growth",
+      "A decrease in economic growth",
+      "No change in economic growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The government uses fiscal policy to reduce the budget deficit. What is the likely effect on the money supply?",
+    "options": [
+      "No change in the money supply",
+      "An increase in the money supply",
+      "A decrease in the money supply",
+      "An increase in the budget deficit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of opportunity cost is used to describe the value of the next best alternative that is given up when a choice is made. Which of the following is an example of opportunity cost in the context of a firm's production decisions?",
+    "options": [
+      "The value of the next best employee to be hired",
+      "The value of the next best product to be produced",
+      "The value of the next best alternative use of a resource",
+      "The value of the next best market to be served"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of the national income identity suggests that a country's national income is equal to the sum of its consumption, investment, government spending, and net exports. Which of the following is the formula for the national income identity?",
+    "options": [
+      "Y = C + I + G - (X - M)",
+      "Y = C + I - G + X - M",
+      "Y = C + I + G + (X - M)",
+      "Y = C + I + G + X"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country with a high level of inflation is said to be experiencing a cost-push inflation. What is the likely effect of an increase in the money supply on the level of inflation?",
+    "options": [
+      "An increase in the level of inflation",
+      "A decrease in the level of unemployment",
+      "A decrease in the level of inflation",
+      "No change in the level of inflation"
+    ],
+    "correctIndex": 0
   }
 ]

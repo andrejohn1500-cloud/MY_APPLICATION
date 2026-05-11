@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which of the following best explains why the encomienda system was established in the Spanish Caribbean during the early sixteenth century?",
+    "question": "Which of the following best describes the impact of colonialism on the political institutions of the Caribbean?",
     "options": [
-      "To provide Spanish settlers with a legal framework for trading enslaved Africans",
-      "To grant conquistadors rights to indigenous labour in exchange for Christianisation and protection",
-      "To establish a plantation economy based on sugar cultivation",
-      "To regulate the movement of indigenous peoples between islands"
+      "Colonialism led to the decline of political institutions in the region",
+      "Colonialism had no significant impact on the political institutions of the Caribbean",
+      "Colonialism led to the promotion of indigenous political systems and the development of a distinct Caribbean identity",
+      "Colonialism had a profound impact on the political institutions of the Caribbean, leading to the imposition of European-dominated institutions and the suppression of indigenous political systems"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What was the main objective of the British government's policy of 'integration' in the Caribbean?",
+    "options": [
+      "To promote the growth of a local capitalist class",
+      "To promote the development of distinct Caribbean cultures and identities",
+      "To establish a decentralized colonial administration in each territory",
+      "To integrate the Caribbean region into the British economy and society"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "How did the economic policies of the British colonial administration in Jamaica contribute to the development of a manufacturing economy?",
+    "options": [
+      "The British colonial administration focused on developing the plantation economy rather than the manufacturing sector",
+      "The British colonial administration provided incentives and subsidies to manufacturers, leading to the expansion of the manufacturing sector and the growth of the export economy",
+      "The British colonial administration had no significant impact on the development of the manufacturing sector",
+      "The British colonial administration imposed restrictions on manufacturers, limiting the growth of the manufacturing sector"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The Haitian Revolution of 1791\u20131804 was significant in Caribbean history primarily because it:",
+    "question": "Which of the following best describes the impact of colonialism on the educational institutions of the Caribbean?",
     "options": [
-      "Led directly to the abolition of slavery throughout the British Caribbean",
-      "Demonstrated that an enslaved population could successfully overthrow a colonial power and establish an independent state",
-      "Caused France to abandon all its Caribbean colonies immediately",
-      "Resulted in a formal alliance between Haiti and the United States"
+      "Colonialism led to the promotion of indigenous knowledge and the development of a distinct Caribbean identity",
+      "Colonialism had a profound impact on the educational institutions of the Caribbean, leading to the suppression of indigenous knowledge and the imposition of European-dominated institutions",
+      "Colonialism led to the decline of educational institutions in the region",
+      "Colonialism had no significant impact on the educational institutions of the Caribbean"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which economic theory underpinned British colonial policy in the Caribbean during the seventeenth and eighteenth centuries, emphasising that colonies existed to benefit the mother country?",
+    "question": "How did the economic policies of the British colonial administration in Trinidad and Tobago contribute to the development of a manufacturing economy?",
     "options": [
-      "Capitalism",
-      "Free trade liberalism",
-      "Mercantilism",
-      "Physiocracy"
+      "The British colonial administration imposed restrictions on manufacturers, limiting the growth of the manufacturing sector",
+      "The British colonial administration had no significant impact on the development of the manufacturing sector",
+      "The British colonial administration focused on developing the plantation economy rather than the manufacturing sector",
+      "The British colonial administration provided incentives and subsidies to manufacturers, leading to the expansion of the manufacturing sector and the growth of the export economy"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The 1938 labour disturbances across the British Caribbean were most directly responsible for:",
-    "options": [
-      "The immediate granting of universal adult suffrage in all British colonies",
-      "The establishment of the Moyne Commission to investigate social and economic conditions",
-      "The formation of the West Indies Federation",
-      "The abolition of the Crown Colony system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What was the primary purpose of the Asiento agreement in the context of Atlantic trade?",
-    "options": [
-      "It granted Britain exclusive rights to supply enslaved Africans to Spanish colonies in the Americas",
-      "It established free trade zones between European powers in the Caribbean",
-      "It regulated the price of sugar on the London commodity market",
-      "It authorised French buccaneers to attack Spanish shipping legally"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The West Indies Federation (1958\u20131962) collapsed principally because:",
-    "options": [
-      "Britain withdrew financial support before the federation became fully operational",
-      "Jamaica and Trinidad and Tobago withdrew following referendums and disagreements over freedom of movement and fiscal arrangements",
-      "The United States pressured Caribbean nations to remain separate for strategic Cold War reasons",
-      "Inter-island conflicts over sugar quotas could not be resolved diplomatically"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the concept of 'seasoning' as it applied to enslaved Africans in the Caribbean?",
-    "options": [
-      "The process by which enslaved people were taught local languages and customs",
-      "The brutal period of adjustment to plantation labour, climate, and disease that resulted in high mortality rates",
-      "The practice of mixing different African ethnic groups to prevent rebellion",
-      "The agricultural training provided to newly arrived captives before fieldwork began"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Plantation System in the Caribbean differed from earlier encomienda arrangements primarily in that it:",
-    "options": [
-      "Relied on free wage labour rather than coerced labour",
-      "Used large-scale African enslaved labour to produce export crops for European markets",
-      "Was organised by indigenous communities rather than European settlers",
-      "Focused on subsistence farming to feed the colonial population"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which factor most significantly contributed to the decline of the sugar industry in the British Caribbean after 1838?",
-    "options": [
-      "A series of devastating hurricanes that destroyed sugar infrastructure",
-      "The abolition of preferential tariffs under the Sugar Duties Act of 1846, exposing Caribbean producers to free market competition",
-      "The mass emigration of formerly enslaved people to North America",
-      "Brazil's refusal to sell fertilisers to British Caribbean planters"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Maroon Treaty of 1739 between the British and the Jamaican Maroons was controversial among the enslaved population primarily because:",
-    "options": [
-      "It required Maroons to pay taxes to the British colonial government",
-      "Maroons agreed to return escaped enslaved people to the plantations in exchange for freedom and land",
-      "It gave Maroons the right to own enslaved people themselves",
-      "The treaty was written only in English, which Maroons could not read"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Indentured labour immigration to the Caribbean after 1838 is best understood as:",
-    "options": [
-      "A humanitarian initiative to provide employment opportunities for South Asian workers",
-      "A system designed to maintain cheap agricultural labour and undermine the bargaining power of the freed population",
-      "A voluntary migration scheme fully supported by workers who were fully informed of all conditions",
-      "A temporary arrangement that was quickly replaced by free wage labour within a decade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements most accurately characterises the role of the Catholic Church in the Spanish colonial Caribbean?",
-    "options": [
-      "The Church consistently opposed slavery and advocated for the rights of both indigenous peoples and Africans",
-      "The Church served both as an agent of colonialism through Christianisation and as an occasional defender of indigenous rights, as seen in the work of Bartolom\u00e9 de las Casas",
-      "The Church had no political authority in the colonies and focused solely on spiritual matters",
-      "The Church actively encouraged the transatlantic slave trade to fund its missionary activities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Cuban Revolution of 1959 had which of the following most significant long-term effects on Caribbean geopolitics?",
-    "options": [
-      "It led to the formation of CARICOM as a direct counter to Cuban influence",
-      "It intensified Cold War tensions in the region, leading the US to intervene in other Caribbean states and shaping regional politics for decades",
-      "It caused the immediate collapse of all remaining European colonial relationships in the Caribbean",
-      "It prompted Britain and France to grant independence to all their Caribbean territories within five years"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Eric Williams's thesis in 'Capitalism and Slavery' (1944) argued that:",
-    "options": [
-      "Slavery was abolished primarily due to the moral campaigns of British humanitarians such as William Wilberforce",
-      "The profits of the transatlantic slave trade and Caribbean slavery were crucial to financing Britain's Industrial Revolution, and abolition came when slavery became economically unviable",
-      "Caribbean enslaved people were the primary drivers of abolition through constant rebellion and resistance",
-      "The British government abolished slavery to gain a strategic trade advantage over France and Spain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The system of Crown Colony government introduced in Trinidad in 1797 and extended across the British Caribbean was characterised by:",
-    "options": [
-      "Elected legislatures with full powers of self-government under British supervision",
-      "Executive authority concentrated in a Governor appointed by the Crown, with minimal elected representation, limiting local political participation",
-      "A bicameral parliament modelled directly on the Westminster system",
-      "Shared governance between British officials and representatives of the planter class through an elected assembly"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which organ system is responsible for transporting oxygen and nutrients throughout the body?",
+    "question": "What is the primary cause of the spread of zoonotic diseases in the Caribbean?",
     "options": [
-      "Digestive system",
-      "Circulatory system",
-      "Respiratory system",
-      "Nervous system"
+      "Poor sanitation and hygiene",
+      "Lack of access to healthcare",
+      "Poor animal control",
+      "Climate change"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary cause of the spread of infectious diseases in the Caribbean?",
+    "options": [
+      "Lack of access to healthcare",
+      "Poor sanitation and hygiene",
+      "Vehicles of disease",
+      "Climate change"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the basic unit of life?",
+    "question": "What is the primary cause of the spread of water-borne diseases in the Caribbean?",
     "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
+      "Climate change",
+      "Lack of access to healthcare",
+      "Poor sanitation and hygiene",
+      "Poor mosquito control"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which part of the plant cell is not found in an animal cell?",
+    "question": "What is the main function of the cell membrane in plant and animal cells?",
     "options": [
-      "Cell membrane",
-      "Nucleus",
-      "Cell wall",
-      "Mitochondria"
+      "To regulate the movement of substances in and out of the cell",
+      "To provide structural support to the cell",
+      "To store genetic information",
+      "To synthesize proteins within the cell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of the dendrites in a neuron?",
+    "options": [
+      "To transmit signals to other neurons",
+      "To store genetic information",
+      "To receive signals from other neurons",
+      "To synthesize neurotransmitters"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "question": "What is the primary function of the immune system?",
     "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
+      "To synthesize proteins in the cell",
+      "To defend against pathogens and foreign substances",
+      "To store genetic information",
+      "To regulate body temperature"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Which blood cells are responsible for fighting infections?",
+    "question": "Which organelle is involved in protein synthesis in a cell?",
     "options": [
-      "Red blood cells",
-      "Platelets",
-      "Plasma",
-      "White blood cells"
+      "Rough endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Lysosome"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "Where does digestion of food begin in the human body?",
+    "question": "What is the primary function of the hypothalamus in the brain?",
     "options": [
-      "Stomach",
-      "Small intestine",
+      "To transmit signals to other neurons",
+      "To regulate body temperature, hunger, and thirst",
+      "To store genetic information",
+      "To synthesize neurotransmitters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the adrenal gland in the body?",
+    "options": [
+      "To regulate blood pressure and respond to stress",
+      "To regulate body temperature",
+      "To store genetic information",
+      "To synthesize new proteins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the digestive system is responsible for the mechanical breakdown of food?",
+    "options": [
       "Mouth",
-      "Oesophagus"
+      "Small intestine",
+      "Stomach",
+      "Esophagus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of the cilia in the respiratory system?",
+    "options": [
+      "To synthesize new proteins",
+      "To store genetic information",
+      "To move mucus and debris out of the lungs",
+      "To transport oxygen to the body cells"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the name of the process by which plants make their own food?",
+    "question": "What is the primary cause of the spread of vector-borne diseases in the Caribbean?",
     "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Digestion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organ in the human body is responsible for pumping blood?",
-    "options": [
-      "Liver",
-      "Kidney",
-      "Lung",
-      "Heart"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the main function of red blood cells?",
-    "options": [
-      "Fighting disease",
-      "Clotting blood",
-      "Carrying oxygen",
-      "Producing hormones"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nutrient provides the body with its main source of energy?",
-    "options": [
-      "Proteins",
-      "Vitamins",
-      "Carbohydrates",
-      "Minerals"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the tube that carries food from the mouth to the stomach?",
-    "options": [
-      "Trachea",
-      "Oesophagus",
-      "Bronchus",
-      "Intestine"
+      "Lack of access to healthcare",
+      "Poor mosquito control",
+      "Poor sanitation and hygiene",
+      "Climate change"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+    "question": "Which organ is responsible for synthesizing digestive enzymes?",
     "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Small intestine"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for organisms that make their own food?",
+    "question": "Which type of ecological relationship involves a symbiotic relationship between two species?",
     "options": [
-      "Consumers",
-      "Decomposers",
-      "Producers",
-      "Parasites"
+      "Mutualism",
+      "Competition",
+      "Predation",
+      "Commensalism"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which part of the human eye controls the amount of light entering?",
+    "question": "What is the primary function of the thalamus in the brain?",
     "options": [
-      "Retina",
-      "Cornea",
-      "Iris",
-      "Lens"
+      "To relay sensory information to the cortex",
+      "To regulate body temperature",
+      "To synthesize neurotransmitters",
+      "To store genetic information"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the process by which water moves from an area of high concentration to low concentration through a semi-permeable membrane?",
-    "options": [
-      "Diffusion",
-      "Active transport",
-      "Osmosis",
-      "Transpiration"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

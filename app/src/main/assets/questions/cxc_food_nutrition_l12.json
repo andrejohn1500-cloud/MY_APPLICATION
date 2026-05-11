@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which enzyme is responsible for the initial digestion of starch in the mouth?",
+    "question": "A person with a history of high blood pressure is advised to consume a diet low in sodium. What is the likely impact on their blood pressure?",
     "options": [
-      "Pepsin",
-      "Salivary amylase",
-      "Lipase",
-      "Trypsin"
+      "An increase in blood pressure",
+      "An increase in pulse rate",
+      "A reduction in blood pressure",
+      "No change in blood pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A traditional Caribbean dish is made with a combination of rice, peas, and coconut milk. What is the likely source of protein in this dish?",
+    "options": [
+      "The coconut milk",
+      "The peas",
+      "The combination of all three ingredients",
+      "The rice"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A client presents with night blindness and dry skin. Which nutrient deficiency is most likely responsible?",
+    "question": "A 30-year-old female with a history of osteoporosis is advised to consume more of which nutrient to prevent further bone loss?",
     "options": [
-      "Vitamin D",
       "Vitamin C",
-      "Vitamin A",
-      "Vitamin B12"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "During the Maillard reaction, which two components interact to produce browning in foods?",
-    "options": [
-      "Fat and water",
-      "Reducing sugars and amino acids",
-      "Starch and enzymes",
-      "Vitamins and minerals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of heat transfer is primarily responsible for cooking food in a convection oven?",
-    "options": [
-      "Conduction",
-      "Radiation",
-      "Convection",
-      "Induction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Recommended Daily Allowance (RDA) for protein in an average adult is approximately how many grams per kilogram of body weight?",
-    "options": [
-      "0.4 g/kg",
-      "0.8 g/kg",
-      "1.5 g/kg",
-      "2.2 g/kg"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which functional property of egg whites makes them suitable for use in meringues?",
-    "options": [
-      "Emulsification",
-      "Coagulation",
-      "Foam formation",
-      "Gelatinization"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A diet consistently high in saturated fats is most likely to increase the risk of which condition?",
-    "options": [
-      "Osteoporosis",
-      "Cardiovascular disease",
-      "Type 1 diabetes",
-      "Iron deficiency anaemia"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following preservation methods relies on reducing the water activity of food to inhibit microbial growth?",
-    "options": [
-      "Blanching",
-      "Dehydration",
-      "Pasteurization",
-      "Irradiation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The HACCP system in food safety stands for Hazard Analysis and Critical Control what?",
-    "options": [
-      "Conditions",
-      "Points",
-      "Principles",
-      "Processes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Collagen in meat is converted to which substance when subjected to prolonged moist heat cooking?",
-    "options": [
-      "Elastin",
-      "Myosin",
-      "Gelatin",
-      "Keratin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which vitamin acts as an antioxidant and is essential for the synthesis of collagen?",
-    "options": [
-      "Vitamin K",
-      "Vitamin B6",
-      "Vitamin E",
-      "Vitamin C"
+      "Protein",
+      "Iron",
+      "Calcium"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In menu planning for a pregnant woman in her third trimester, which nutrient combination should be prioritised above all others?",
+    "question": "A meal plan for a person with a history of kidney disease includes a serving of low-sodium foods. What is the likely reason for this inclusion?",
     "options": [
-      "Vitamin C and zinc",
-      "Iron, calcium, and folate",
-      "Vitamin D and potassium",
-      "Sodium and magnesium"
+      "To provide a source of complex carbohydrates",
+      "To reduce the risk of kidney damage",
+      "To provide a source of healthy fats",
+      "To provide a source of protein"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The glycaemic index measures which characteristic of carbohydrate-containing foods?",
+    "question": "A food handler is preparing a salad with raw vegetables. What is the most important method of personal hygiene to prevent cross-contamination?",
     "options": [
-      "Total caloric content of the food",
-      "The rate at which blood glucose rises after consumption",
-      "The amount of dietary fibre per serving",
-      "The ratio of simple to complex carbohydrates"
+      "Washing hands frequently",
+      "Wearing gloves and changing them frequently",
+      "Using a hand sanitizer",
+      "Wearing a hairnet"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which emulsifying agent found naturally in egg yolk is responsible for stabilising mayonnaise?",
+    "question": "A meal plan for a person with diabetes includes a serving of boiled green leafy vegetables. What is the likely reason for this inclusion?",
     "options": [
-      "Casein",
-      "Lecithin",
-      "Pectin",
-      "Gluten"
+      "To provide a source of healthy fats",
+      "To provide a source of calories",
+      "To provide fiber and slow down carbohydrate digestion",
+      "To provide a source of protein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A traditional Caribbean dish is made with a combination of rice, chicken, and spices. What is the likely source of vitamin B6 in this dish?",
+    "options": [
+      "The spices",
+      "The combination of all three ingredients",
+      "The rice",
+      "The chicken"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A can of tuna is stored in a warm cupboard for several days. What is likely to happen to the nutrient content of the tuna?",
+    "options": [
+      "The nutrients will degrade and the food will spoil",
+      "The nutrients will be destroyed and the food will become toxic",
+      "The nutrients will increase and the food will become more nutritious",
+      "The nutrients will remain the same and the food will be safe to eat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A person with a history of high blood sugar is advised to consume a diet low in carbohydrates. What is the likely impact on their blood sugar levels?",
+    "options": [
+      "An increase in blood sugar levels",
+      "A reduction in blood sugar levels",
+      "No change in blood sugar levels",
+      "An increase in pulse rate"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A food product labelled as having a water activity (aw) of 0.85 would be classified in which category?",
+    "question": "A meal plan for a person with a history of kidney stones includes a serving of low-oxalate foods. What is the likely reason for this inclusion?",
     "options": [
-      "High-moisture food susceptible to all spoilage",
-      "Intermediate moisture food resistant to bacterial growth",
-      "Completely dry food with no microbial risk",
-      "Frozen food requiring no preservation method"
+      "To provide a source of complex carbohydrates",
+      "To provide a source of healthy fats",
+      "To provide a source of protein",
+      "To reduce the risk of kidney stone formation"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "A food item is labeled as 'pasteurized'. What does this mean?",
+    "options": [
+      "The food item has been frozen to prevent spoilage",
+      "The food item has been cooked to a high temperature",
+      "The food item has been refrigerated to prevent spoilage",
+      "The food item has been heat-treated to kill bacteria and other microorganisms"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A traditional Caribbean dish is made with a combination of peas, rice, and coconut milk. What is the likely source of protein in this dish?",
+    "options": [
+      "The rice",
+      "The coconut milk",
+      "The combination of all three ingredients",
+      "The peas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A meal plan for a person with a history of osteoporosis includes a serving of calcium-rich foods. What is the likely reason for this inclusion?",
+    "options": [
+      "To prevent further bone loss",
+      "To provide a source of healthy fats",
+      "To provide a source of protein",
+      "To provide a source of complex carbohydrates"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A meal plan for a person with a history of kidney stones includes a serving of low-oxalate foods. What is the likely reason for this inclusion?",
+    "options": [
+      "To provide a source of healthy fats",
+      "To provide a source of complex carbohydrates",
+      "To provide a source of protein",
+      "To reduce the risk of kidney stone formation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The recommended daily intake of protein is 0.8 grams per kilogram of body weight. Which of the following individuals would require a higher intake of protein?",
+    "options": [
+      "A 6-year-old child",
+      "A pregnant woman",
+      "A sedentary office worker",
+      "An athlete training for a marathon"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,151 +1,111 @@
 [
   {
-    "question": "What is the basic economic problem?",
+    "question": "A market structure in which a single firm supplies the entire market with a particular good or service is an example of a:",
     "options": [
-      "Unemployment",
-      "Scarcity",
-      "Inflation",
-      "Poverty"
+      "Monopsony",
+      "Monopoly",
+      "Oligopoly",
+      "Perfect Competition"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a capital good?",
+    "question": "A country's balance of payments is:",
     "options": [
-      "Bread",
-      "A factory machine",
-      "A television set",
-      "Clothing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does GDP stand for?",
-    "options": [
-      "Gross Domestic Product",
-      "General Domestic Price",
-      "Gross Demand Production",
-      "General Demand Price"
+      "a statement of its transactions with the rest of the world",
+      "a statement of its transactions with its domestic economy",
+      "a statement of its transactions with its foreign exchange market",
+      "a statement of its transactions with its financial sector"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of economy is controlled entirely by the government?",
+    "question": "The law of diminishing marginal utility states that:",
     "options": [
-      "Mixed economy",
-      "Market economy",
-      "Command economy",
-      "Traditional economy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the next best alternative given up when making a choice?",
-    "options": [
-      "Profit",
-      "Opportunity cost",
-      "Marginal cost",
-      "Sunk cost"
+      "no relationship between quantity and marginal utility",
+      "as the quantity of a good consumed increases, the marginal utility decreases",
+      "as the quantity of a good consumed increases, the marginal utility increases",
+      "as the quantity of a good consumed increases, the marginal utility remains the same"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a factor of production?",
+    "question": "What is the term for a situation in which the quantity of a good or service that consumers are willing and able to buy exceeds the quantity that producers are willing and able to sell?",
     "options": [
-      "Money",
-      "Land",
-      "Tax",
-      "Imports"
+      "Excess supply",
+      "Market equilibrium",
+      "Shortage",
+      "Excess demand"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's exchange rate is:",
+    "options": [
+      "the price of one currency in terms of another currency",
+      "the price of one currency in terms of a basket of goods and services",
+      "the price of one currency in terms of a composite index of prices",
+      "the price of one currency in terms of a physical quantity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a mixed economy?",
+    "options": [
+      "B. No government intervention in the economy",
+      "A. Private ownership of the means of production",
+      "D",
+      "C. Government ownership of the means of production"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country's balance of trade deficit is:",
+    "options": [
+      "the difference between its imports and exports",
+      "the sum of its imports and exports",
+      "the difference between its exports and imports",
+      "the ratio of its imports to exports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country's national expenditure is:",
+    "options": [
+      "the total amount spent by households, firms and government on domestic goods and services",
+      "the total amount spent by households, firms, government and foreigners on domestic goods and services",
+      "the total amount spent by households and firms on domestic goods and services",
+      "the total amount spent by foreigners on domestic goods and services"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What happens to demand for a normal good when consumer income increases?",
+    "question": "What is the term for the total value of all final goods and services produced within a country during a specific time period, excluding net income from abroad?",
     "options": [
-      "Demand decreases",
-      "Demand stays the same",
-      "Demand increases",
-      "Demand becomes zero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Inflation is best described as",
-    "options": [
-      "A fall in the general price level",
-      "A rise in unemployment",
-      "A sustained rise in the general price level",
-      "A decrease in national income"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an indirect tax?",
-    "options": [
-      "Income tax",
-      "Corporation tax",
-      "Value Added Tax",
-      "Capital gains tax"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A market is said to be in equilibrium when",
-    "options": [
-      "Supply exceeds demand",
-      "Demand exceeds supply",
-      "Quantity demanded equals quantity supplied",
-      "Price is at its highest"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sector of the economy involves the extraction of natural resources?",
-    "options": [
-      "Tertiary sector",
-      "Secondary sector",
-      "Primary sector",
-      "Quaternary sector"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the total income earned by a country's residents in a year?",
-    "options": [
-      "Gross Domestic Product",
-      "Gross National Product",
-      "Net National Product",
-      "National Expenditure"
+      "Gross National Product (GNP)",
+      "Gross Domestic Product (GDP) at market price",
+      "Net Domestic Product (NDP)",
+      "Net National Product (NNP)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes a public good?",
+    "question": "A country's comparative advantage refers to its ability to produce:",
     "options": [
-      "A good sold in public markets",
-      "A good that is non-rival and non-excludable",
-      "A good produced by the government for profit",
-      "A good available only to high-income earners"
+      "goods at a lower opportunity cost",
+      "goods with a higher productivity",
+      "goods at a higher opportunity cost",
+      "goods with a lower quality"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is unemployment?",
+    "question": "The main function of a central bank is to:",
     "options": [
-      "People who choose not to work",
-      "People of working age who are willing and able to work but cannot find jobs",
-      "People who work part-time",
-      "People who are retired"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a visible export?",
-    "options": [
-      "Tourism services",
-      "Banking services",
-      "Bauxite sold to another country",
-      "Insurance services"
+      "regulate the level of inflation",
+      "regulate the level of unemployment",
+      "regulate the money supply and maintain price stability",
+      "regulate the level of economic growth"
     ],
     "correctIndex": 2
   }

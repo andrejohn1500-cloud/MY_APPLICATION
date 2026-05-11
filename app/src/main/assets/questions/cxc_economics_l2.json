@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the basic economic problem?",
+    "question": "A country's net foreign factor income is:",
     "options": [
-      "Inflation",
-      "Scarcity",
-      "Unemployment",
-      "Poverty"
+      "the ratio of its net investment income to net transfers",
+      "the difference between its net transfers and net investment income",
+      "the difference between its net investment income and net transfers",
+      "the sum of its net investment income and net transfers"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of a capital good?",
+    "question": "The main disadvantage of a cartel is:",
     "options": [
-      "A loaf of bread",
-      "A factory machine",
-      "A pair of shoes",
-      "A television set"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does GDP stand for?",
-    "options": [
-      "Gross Domestic Product",
-      "General Development Plan",
-      "Gross Development Programme",
-      "General Domestic Production"
+      "a decrease in economic efficiency and an increase in prices",
+      "an increase in economic growth and a decrease in unemployment",
+      "an increase in economic efficiency and a decrease in prices",
+      "no change in economic efficiency and no change in prices"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of economy is controlled entirely by the government?",
+    "question": "A firm operating in a perfectly competitive market is a:",
     "options": [
-      "Market economy",
-      "Mixed economy",
-      "Command economy",
-      "Traditional economy"
+      "monopolist",
+      "price maker",
+      "oligopolist",
+      "price taker"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the term for the next best alternative forgone when making a choice?",
+    "question": "The main disadvantage of a protectionist policy is:",
     "options": [
-      "Sunk cost",
-      "Opportunity cost",
-      "Fixed cost",
-      "Variable cost"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes inflation?",
-    "options": [
-      "A fall in the general price level",
-      "A rise in the general price level",
-      "An increase in unemployment",
-      "A decrease in production"
+      "no change in economic efficiency and no change in prices",
+      "a decrease in economic efficiency and an increase in prices",
+      "an increase in economic efficiency and a decrease in prices",
+      "an increase in economic growth and a decrease in unemployment"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of unemployment occurs when workers are between jobs?",
+    "question": "The unemployment rate is calculated as:",
     "options": [
-      "Structural unemployment",
-      "Cyclical unemployment",
-      "Frictional unemployment",
-      "Seasonal unemployment"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which factor of production refers to human effort used in production?",
-    "options": [
-      "Land",
-      "Capital",
-      "Labour",
-      "Enterprise"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A demand curve typically slopes:",
-    "options": [
-      "Upward from left to right",
-      "Downward from left to right",
-      "Horizontally",
-      "Vertically"
+      "the number of employed persons as a percentage of the labour force",
+      "the number of unemployed persons as a percentage of the labour force",
+      "the number of unemployed persons as a percentage of the population",
+      "the number of employed persons as a percentage of the population"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What happens to quantity demanded when the price of a good falls, assuming all else remains equal?",
+    "question": "What is the term for a situation in which the quantity of a good or service that producers are willing and able to sell exceeds the quantity that consumers are willing and able to buy?",
     "options": [
-      "It falls",
-      "It stays the same",
-      "It rises",
-      "It becomes zero"
+      "Excess demand",
+      "Shortage",
+      "Excess supply",
+      "Market equilibrium"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a direct tax?",
+    "question": "The main goal of a fiscal policy is to:",
     "options": [
-      "VAT",
-      "Excise duty",
-      "Income tax",
-      "Sales tax"
+      "regulate the level of unemployment and stabilize the economy",
+      "regulate the level of inflation and stabilize the economy",
+      "regulate the level of economic growth and stabilize the economy",
+      "regulate the level of aggregate demand and stabilize the economy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the total value of all final goods and services produced within a country during a specific time period?",
+    "options": [
+      "Net Domestic Product (NDP)",
+      "Gross Domestic Product (GDP)",
+      "Net National Product (NNP)",
+      "Gross National Product (GNP)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country's nominal GDP is:",
+    "options": [
+      "the total value of all capital goods and services produced within a country during a specific time period",
+      "the total value of all intermediate goods and services produced within a country during a specific time period",
+      "the total value of all final goods and services produced within a country during a specific time period, measured in constant prices",
+      "the total value of all final goods and services produced within a country during a specific time period, measured in current prices"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's unemployment rate is:",
+    "options": [
+      "the percentage of the population that is employed",
+      "the percentage of the labour force that is employed",
+      "the percentage of the labour force that is unemployed",
+      "the percentage of the population that is unemployed"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a subsidy?",
+    "question": "What is the term for a market structure in which a single firm supplies the entire market with a particular good or service?",
     "options": [
-      "A tax on imports",
-      "A payment made by the government to producers to lower costs",
-      "A fine imposed on businesses",
-      "A type of consumer loan"
+      "perfect competition",
+      "oligopoly",
+      "monopoly",
+      "monopolistic competition"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which term describes the total revenue minus total cost in a business?",
+    "question": "A firm operating in a monopolistically competitive market is a:",
     "options": [
-      "Turnover",
-      "Profit",
-      "Expenditure",
-      "Investment"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the meaning of a balance of trade deficit?",
-    "options": [
-      "Imports are greater than exports",
-      "Exports are greater than imports",
-      "Government spending exceeds revenue",
-      "Revenue exceeds government spending"
+      "price maker",
+      "price taker",
+      "oligopolist",
+      "monopolist"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which organisation is responsible for setting international trade rules?",
+    "question": "The main advantage of a tariff is:",
     "options": [
-      "IMF",
-      "World Bank",
-      "WTO",
-      "CARICOM"
+      "a decrease in the level of imports",
+      "a decrease in the level of exports",
+      "no change in the level of imports",
+      "an increase in the level of imports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country's money supply is increased by:",
+    "options": [
+      "an increase in imports",
+      "a commercial bank increasing lending",
+      "a central bank buying government bonds",
+      "a decrease in taxes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The main goal of economic development is to:",
+    "options": [
+      "increase the government's revenue",
+      "decrease the level of poverty",
+      "raise the standard of living of the population",
+      "reduce the level of unemployment"
     ],
     "correctIndex": 2
   }

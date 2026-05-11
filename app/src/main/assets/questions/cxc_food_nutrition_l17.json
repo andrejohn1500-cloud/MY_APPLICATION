@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which enzyme is responsible for the hydrolysis of peptide bonds during protein digestion in the small intestine?",
+    "question": "Which food group is rich in omega-3 fatty acids and is often used in Caribbean cuisine?",
     "options": [
-      "Pepsin",
-      "Trypsin",
-      "Amylase",
-      "Lipase"
+      "Meat and poultry",
+      "Fruits",
+      "Dairy products",
+      "Fish and seafood"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A person consuming a diet deficient in vitamin B12 is MOST likely to develop which condition?",
+    "question": "What is the term for the process by which microorganisms such as bacteria and yeast multiply and grow?",
     "options": [
-      "Rickets",
-      "Pernicious anaemia",
-      "Pellagra",
-      "Scurvy"
+      "Fermentation",
+      "Putrefaction",
+      "Spoilage",
+      "Rancidity"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following fatty acids is classified as an omega-3 polyunsaturated fatty acid?",
+    "question": "What is the term for the process by which food is preserved by using a combination of heat and vacuum?",
     "options": [
-      "Oleic acid",
-      "Linoleic acid",
-      "Alpha-linolenic acid",
-      "Palmitic acid"
+      "Refrigeration",
+      "Freezing",
+      "Canning",
+      "Thermal vacuum packaging"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by using a combination of heat and vacuum?",
+    "options": [
+      "Canning",
+      "Freezing",
+      "Refrigeration",
+      "Thermal vacuum packaging"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which food is heated to a high temperature and then cooled to preserve it?",
+    "options": [
+      "Dehydration",
+      "Refrigeration",
+      "Canning",
+      "Freezing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Maillard reaction in food preparation involves the interaction between which two components?",
+    "question": "Which nutrient is essential for the absorption of iron in the body?",
     "options": [
-      "Fats and water",
-      "Reducing sugars and amino acids",
-      "Starch and lipids",
-      "Vitamins and minerals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of food preservation works primarily by reducing water activity to inhibit microbial growth?",
-    "options": [
-      "Pasteurisation",
-      "Dehydration",
-      "Irradiation",
-      "Blanching"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A food label shows 25g of fat per 100g serving. What percentage of the food's mass is comprised of fat?",
-    "options": [
-      "2.5%",
-      "25%",
-      "0.25%",
-      "250%"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is the BEST indicator of protein quality in a food source?",
-    "options": [
-      "Total nitrogen content",
-      "Biological Value (BV)",
-      "Gross energy value",
-      "Water content"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Kwashiorkor is nutritionally distinguished from marasmus primarily by the presence of which symptom?",
-    "options": [
-      "Muscle wasting",
-      "Oedema",
-      "Extreme weight loss",
-      "Fatigue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which vitamin acts as a coenzyme in the metabolism of carbohydrates, specifically in the conversion of pyruvate to acetyl-CoA?",
-    "options": [
+      "Folate",
       "Vitamin B12",
-      "Vitamin B1 (Thiamine)",
       "Vitamin C",
       "Vitamin D"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In food science, the term 'emulsification' refers to which process?",
+    "question": "Which nutrient is responsible for maintaining the body's acid-base balance?",
     "options": [
-      "Separation of oil and water",
-      "Uniform dispersion of two immiscible liquids stabilised by an emulsifier",
-      "Crystallisation of fats",
-      "Hydrolysis of lipids"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following represents the correct sequence of digestion of starch beginning in the mouth?",
-    "options": [
-      "Salivary amylase \u2192 maltose \u2192 glucose",
-      "Pepsin \u2192 peptides \u2192 amino acids",
-      "Lipase \u2192 glycerol \u2192 fatty acids",
-      "Sucrase \u2192 fructose \u2192 glucose"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A catering establishment uses the HACCP system. What does the acronym HACCP stand for?",
-    "options": [
-      "Hazard Analysis and Critical Control Points",
-      "Health and Cleanliness Control Procedures",
-      "Hygienic Assessment of Catering and Consumer Protection",
-      "Hazardous Activity Compliance and Checking Protocol"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which mineral is essential for the synthesis of haemoglobin and its deficiency leads to microcytic hypochromic anaemia?",
-    "options": [
+      "Phosphate",
+      "Potassium",
       "Calcium",
-      "Zinc",
-      "Iron",
       "Magnesium"
     ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which food group is rich in fiber and is often used in Caribbean cuisine?",
+    "options": [
+      "Protein foods",
+      "Vegetables",
+      "Legumes",
+      "Fruits"
+    ],
     "correctIndex": 2
   },
   {
-    "question": "The glycaemic index (GI) of a food measures which of the following?",
+    "question": "What is the term for the process by which the body uses energy from one source to fuel another process?",
     "options": [
-      "The total carbohydrate content of a food",
-      "The rate at which a food raises blood glucose levels compared to a reference food",
-      "The amount of dietary fibre present in a food",
-      "The caloric density of a carbohydrate-rich food"
+      "Glycolysis",
+      "Substrate-level phosphorylation",
+      "Oxidative phosphorylation",
+      "Photophosphorylation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following cooking methods BEST preserves the water-soluble vitamins in vegetables?",
+    "question": "What is the primary function of the enzyme amylase in the mouth?",
     "options": [
-      "Boiling in large amounts of water",
-      "Pressure cooking",
-      "Steaming",
-      "Roasting at high temperatures"
+      "To break down starches into maltose",
+      "To break down fats into fatty acids",
+      "To break down proteins into amino acids",
+      "To break down carbohydrates into glucose"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which food group is rich in vitamin C and is often used in Caribbean cuisine?",
+    "options": [
+      "Fruits",
+      "Protein foods",
+      "Vegetables",
+      "Dairy products"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which food group is rich in omega-3 fatty acids and is often used in Caribbean cuisine?",
+    "options": [
+      "Dairy products",
+      "Fruits",
+      "Fish and seafood",
+      "Meat and poultry"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by removing the water content from it?",
+    "options": [
+      "Dehydration",
+      "Freezing",
+      "Canning",
+      "Refrigeration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by using a combination of heat and vacuum?",
+    "options": [
+      "Refrigeration",
+      "Freezing",
+      "Thermal vacuum packaging",
+      "Canning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by using a combination of heat and vacuum?",
+    "options": [
+      "Refrigeration",
+      "Canning",
+      "Freezing",
+      "Thermal vacuum packaging"
+    ],
+    "correctIndex": 3
   }
 ]

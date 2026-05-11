@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "question": "The process of cellular respiration can be affected by which of the following factors?",
     "options": [
-      "DNA polymerase",
-      "Helicase",
-      "Ligase",
-      "Primase"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During aerobic respiration, the net gain of ATP molecules from the complete oxidation of one glucose molecule is approximately:",
-    "options": [
-      "2 ATP",
-      "8 ATP",
-      "38 ATP",
-      "100 ATP"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the role of the Bundle of His in cardiac function?",
-    "options": [
-      "It initiates the heartbeat at the sinoatrial node",
-      "It conducts electrical impulses from the atrioventricular node to the ventricles",
-      "It prevents backflow of blood between the atria and ventricles",
-      "It supplies oxygenated blood to the myocardium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A person with blood type AB negative can receive blood from which of the following donors without risk of agglutination?",
-    "options": [
-      "AB positive only",
-      "Any ABO blood type but must be Rh negative",
-      "O negative only",
-      "Any blood type including all Rh factors"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process by which the kidney regulates blood pH by excreting hydrogen ions and reabsorbing bicarbonate ions occurs primarily in the:",
-    "options": [
-      "Glomerulus",
-      "Loop of Henle",
-      "Proximal convoluted tubule",
-      "Distal convoluted tubule and collecting duct"
+      "Light, darkness, and gravity",
+      "Humidity, atmospheric pressure, and wind speed",
+      "Pressure, volume, and gas concentration",
+      "Temperature, pH, and oxygen levels"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following hormones is secreted by the anterior pituitary gland and directly stimulates the thyroid gland?",
+    "question": "The process of cellular respiration can be affected by which of the following factors?",
     "options": [
-      "Thyroxine",
-      "Thyroid-stimulating hormone (TSH)",
-      "Calcitonin",
-      "Antidiuretic hormone (ADH)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the process of meiosis, crossing over occurs during:",
-    "options": [
-      "Prophase I",
-      "Metaphase I",
-      "Anaphase II",
-      "Telophase II"
+      "Temperature, pH, and oxygen levels",
+      "Light, darkness, and gravity",
+      "Humidity, atmospheric pressure, and wind speed",
+      "Pressure, volume, and gas concentration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following statements correctly describes the mechanism of action of a competitive inhibitor on an enzyme?",
+    "question": "The primary function of the thyroid gland is to produce which of the following hormones?",
     "options": [
-      "It permanently binds to the active site and denatures the enzyme",
-      "It binds to the allosteric site and changes the shape of the active site",
-      "It competes with the substrate for the active site and its effect can be overcome by increasing substrate concentration",
-      "It breaks the peptide bonds within the enzyme structure"
+      "Adrenocorticotropic hormone and growth hormone",
+      "Thyroxine and triiodothyronine",
+      "Prolactin and growth hormone",
+      "Insulin and glucagon"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Sickle cell anaemia is caused by a point mutation that results in the substitution of which amino acid in the haemoglobin beta chain?",
+    "question": "Which of the following stages of cell division is characterized by the formation of a spindle apparatus?",
     "options": [
-      "Glutamic acid is replaced by valine",
-      "Valine is replaced by glutamic acid",
-      "Glycine is replaced by alanine",
-      "Leucine is replaced by proline"
+      "Mitosis",
+      "Cytokinesis",
+      "Meiosis II",
+      "Meiosis I"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The myelin sheath around a nerve fibre is formed by which type of cell in the peripheral nervous system?",
+    "question": "The process of gene expression is primarily regulated by which of the following mechanisms?",
     "options": [
-      "Astrocytes",
-      "Oligodendrocytes",
-      "Schwann cells",
-      "Microglia"
+      "Gene silencing and gene activation",
+      "Translational regulation and post-translational regulation",
+      "Epigenetic regulation and genetic mutations",
+      "Transcriptional regulation and post-transcriptional regulation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The primary function of the pancreas is to regulate which of the following physiological processes?",
+    "options": [
+      "Digestion and absorption of nutrients",
+      "Red blood cell production and bone marrow function",
+      "Heart rate and blood pressure",
+      "Blood glucose levels and insulin production"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process of cellular respiration can be divided into which of the following three stages?",
+    "options": [
+      "Fermentation, lactic acidosis, and alcoholic ketoacidosis",
+      "Glycolysis, the citric acid cycle, and oxidative phosphorylation",
+      "Photosynthesis, respiration, and fermentation",
+      "Aerobic respiration, anaerobic respiration, and fermentation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The primary function of the kidneys is to regulate which of the following physiological processes?",
+    "options": [
+      "Blood pressure and heart rate",
+      "Digestion and absorption of nutrients",
+      "Red blood cell production and bone marrow function",
+      "Electrolyte balance and acid-base balance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The process of cellular respiration can be affected by which of the following diseases?",
+    "options": [
+      "Hypertension, obesity, and asthma",
+      "Tuberculosis, malaria, and HIV/AIDS",
+      "Diabetes, heart disease, and cancer",
+      "Gastrointestinal disorders, liver disease, and kidney disease"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following correctly describes the role of surfactant in the lungs?",
+    "question": "The primary function of the pituitary gland is to produce which of the following hormones?",
     "options": [
-      "It increases the surface tension of alveolar walls to prevent collapse",
-      "It reduces surface tension in the alveoli to prevent them from collapsing during exhalation",
-      "It facilitates the transport of oxygen across the alveolar membrane into the blood",
-      "It filters pathogens entering the respiratory tract"
+      "Insulin and glucagon",
+      "Thyroid-stimulating hormone, growth hormone, and adrenocorticotropic hormone",
+      "Prolactin and oxytocin",
+      "Growth hormone and thyroid-stimulating hormone"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A heterozygous tall pea plant (Tt) is crossed with a homozygous short pea plant (tt). What is the expected phenotypic ratio of the offspring?",
+    "question": "The process of gene expression is primarily influenced by which of the following factors?",
     "options": [
-      "3 tall : 1 short",
-      "1 tall : 1 short",
-      "All tall",
-      "1 tall : 3 short"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is the correct sequence of events in the female menstrual cycle, starting from menstruation?",
-    "options": [
-      "Menstruation, proliferative phase, ovulation, secretory phase",
-      "Ovulation, secretory phase, menstruation, proliferative phase",
-      "Proliferative phase, secretory phase, ovulation, menstruation",
-      "Secretory phase, ovulation, proliferative phase, menstruation"
+      "Environmental factors and epigenetic modifications",
+      "Nutritional factors and lifestyle choices",
+      "Genetic factors and genetic mutations",
+      "Hormonal factors and hormonal imbalances"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The condition kwashiorkor is characterised by oedema primarily because protein deficiency leads to:",
+    "question": "The process of gene expression is primarily influenced by which of the following factors?",
     "options": [
-      "Increased production of plasma proteins raising osmotic pressure",
-      "Decreased plasma protein concentration reducing blood osmotic pressure causing fluid to accumulate in tissues",
-      "Excess sodium retention by the kidneys",
-      "Increased capillary permeability due to vitamin deficiency"
+      "Genetic factors and epigenetic modifications",
+      "Genetic factors and genetic mutations",
+      "Nutritional factors and lifestyle choices",
+      "Environmental factors and hormonal imbalances"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The process of cellular respiration can be affected by which of the following factors?",
+    "options": [
+      "Temperature, pH, and oxygen levels",
+      "Humidity, atmospheric pressure, and wind speed",
+      "Pressure, volume, and gas concentration",
+      "Light, darkness, and gravity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The primary function of the thyroid gland is to regulate which of the following physiological processes?",
+    "options": [
+      "Heart rate, blood pressure, and respiration",
+      "Metabolism and energy production",
+      "Hunger, thirst, and body temperature",
+      "Growth and development, sexual behavior, and emotional behavior"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following lymphocytes is responsible for the production of antibodies in the humoral immune response?",
+    "question": "The primary function of the adrenal cortex is to produce which of the following hormones?",
     "options": [
-      "Cytotoxic T cells",
-      "Helper T cells",
-      "B plasma cells",
-      "Natural killer cells"
+      "Insulin and glucagon",
+      "Thyroid-stimulating hormone and prolactin",
+      "Adrenocorticotropic hormone and growth hormone",
+      "Cortisol and aldosterone"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which nutrient is primarily responsible for the growth and repair of body tissues?",
+    "question": "Which nutrient is primarily responsible for the maintenance of healthy muscle function?",
     "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Fats",
-      "Vitamins"
+      "Vitamin D",
+      "Calcium",
+      "Protein",
+      "Iron"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the practice of preserving food by adding a high concentration of sugar or salt?",
+    "options": [
+      "Canning",
+      "Pickling",
+      "Freezing",
+      "Dehydrating"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a rich source of Vitamin C?",
+    "question": "Which nutrient is primarily responsible for the maintenance of healthy blood cells?",
     "options": [
-      "Butter",
-      "Milk",
-      "Guava",
-      "Rice"
+      "Vitamin D",
+      "Protein",
+      "Calcium",
+      "Iron"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Caribbean Food and Nutrition Institute, how many portions of fruits and vegetables should a person consume daily?",
+    "options": [
+      "4-5 portions",
+      "3-4 portions",
+      "5 portions",
+      "6-7 portions"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The process by which green plants make food using sunlight is called:",
+    "question": "Which food group provides a rich source of healthy carbohydrates?",
     "options": [
-      "Respiration",
-      "Fermentation",
-      "Photosynthesis",
-      "Digestion"
+      "Dairy and alternatives",
+      "Protein-rich foods",
+      "Fruits and vegetables",
+      "Grains"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which cooking method involves cooking food in a small amount of oil or fat, often using a pan or skillet?",
+    "options": [
+      "Steaming",
+      "Grilling",
+      "Saut\u00e9ing",
+      "Roasting"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which cooking method involves submerging food completely in hot oil?",
+    "question": "According to the Caribbean Food and Nutrition Institute, how many portions of grains should a person consume daily?",
     "options": [
-      "Shallow frying",
-      "Stir frying",
-      "Deep frying",
-      "Saut\u00e9ing"
+      "7 portions",
+      "5 portions",
+      "6-8 portions",
+      "4-6 portions"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Kwashiorkor is a deficiency disease caused by lack of:",
+    "question": "According to the Food Guide Pyramid, how many servings of fruits and vegetables should a person consume daily?",
     "options": [
-      "Vitamin A",
+      "4-5 portions",
+      "5 portions",
+      "3-4 portions",
+      "6-7 portions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the enzyme lipase in the digestion of fats?",
+    "options": [
+      "Breaking down proteins into amino acids",
+      "Breaking down starches into simple sugars",
+      "Breaking down fiber into soluble fibers",
+      "Breaking down fats into fatty acids and glycerol"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of canning in food preservation?",
+    "options": [
+      "Killing yeast and mold",
+      "Killing harmful bacteria and extending shelf life",
+      "Reducing acidity",
+      "Preserving color and texture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which nutrient is primarily responsible for the maintenance of healthy immune function?",
+    "options": [
       "Iron",
       "Protein",
-      "Calcium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a complete protein?",
-    "options": [
-      "Bread",
-      "Eggs",
-      "Peas",
-      "Corn"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Maillard reaction in cooking refers to:",
-    "options": [
-      "Browning of sugars by heat alone",
-      "A reaction between amino acids and sugars that causes browning",
-      "The curdling of milk proteins",
-      "The gelatinisation of starch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which vitamin is produced by the body when skin is exposed to sunlight?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
+      "Calcium",
       "Vitamin D"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Gelatinisation occurs when starch granules are heated in the presence of:",
+    "question": "Which cooking method involves cooking food in a small amount of oil or fat?",
     "options": [
-      "Fat",
-      "Water",
-      "Salt",
-      "Sugar"
+      "Saut\u00e9ing",
+      "Grilling",
+      "Roasting",
+      "Steaming"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following preservation methods uses salt to inhibit microbial growth?",
+    "question": "Which nutrient is primarily responsible for the maintenance of healthy vision?",
     "options": [
-      "Blanching",
-      "Curing",
-      "Pasteurisation",
-      "Irradiation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Dietary Reference Values recommend that fat should provide no more than what percentage of total energy intake?",
-    "options": [
-      "15%",
-      "25%",
-      "35%",
-      "45%"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which mineral is essential for the formation of haemoglobin in red blood cells?",
-    "options": [
-      "Calcium",
-      "Phosphorus",
+      "Vitamin A",
       "Iron",
-      "Sodium"
+      "Calcium",
+      "Vitamin D"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes a balanced diet?",
+    "question": "According to the Caribbean Food and Nutrition Institute, how many portions of dairy and alternatives should a person consume daily?",
     "options": [
-      "A diet containing only fruits and vegetables",
-      "A diet that provides all nutrients in appropriate amounts for good health",
-      "A diet that eliminates all fats and sugars",
-      "A diet high in protein and low in carbohydrates"
+      "2-3 portions",
+      "1-2 portions",
+      "4-5 portions",
+      "3-4 portions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the Food Pyramid, how many servings of grains should a person consume daily?",
+    "options": [
+      "7 servings",
+      "6-8 servings",
+      "4-6 servings",
+      "5 servings"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Emulsification in food preparation refers to:",
-    "options": [
-      "The thickening of sauces with starch",
-      "The mixing of two immiscible liquids into a stable mixture",
-      "The process of adding air to a mixture",
-      "The breaking down of proteins by heat"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a function of dietary fibre in the body?",
-    "options": [
-      "Provides concentrated energy",
-      "Aids in the absorption of fat-soluble vitamins only",
-      "Promotes healthy bowel movement and prevents constipation",
-      "Builds and repairs muscle tissue"
-    ],
-    "correctIndex": 2
   }
 ]

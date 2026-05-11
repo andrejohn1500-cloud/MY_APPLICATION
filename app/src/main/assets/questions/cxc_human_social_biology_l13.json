@@ -1,152 +1,70 @@
 [
   {
-    "question": "Which enzyme is responsible for catalyzing the conversion of fibrinogen to fibrin during blood clotting?",
+    "question": "The human population in the Caribbean is increasing at a rate of 1.5% per year. What is the approximate population growth rate per decade?",
     "options": [
-      "Thrombin",
-      "Prothrombin",
-      "Thromboplastin",
-      "Plasmin"
+      "20%",
+      "15%",
+      "18.2%",
+      "12.5%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with a diet lacking in folic acid may experience the following symptoms:",
+    "options": [
+      "Nausea, headaches, and dizziness",
+      "Rapid heartbeat, high blood pressure, and tremors",
+      "Fatigue, weakness, and neurological problems",
+      "Increased urination, muscle weakness, and dry skin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The primary function of the liver in the digestive system is to",
+    "options": [
+      "Filter waste products and produce hormones",
+      "Detoxify the blood and produce bile",
+      "Digest food and absorb nutrients",
+      "Regulate blood sugar levels and store glycogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which one species benefits and the other species is unaffected is known as",
+    "options": [
+      "Commensalism",
+      "Mutualism, Symbiosis, Parasitism"
     ],
     "correctIndex": 0
   },
   {
-    "question": "During the light-dependent reactions of photosynthesis, which molecule acts as the primary electron donor?",
+    "question": "The process of genetic recombination during meiosis results in",
     "options": [
-      "NADPH",
-      "Water",
-      "Carbon dioxide",
-      "ATP"
+      "Identical combinations of alleles in offspring",
+      "Unique combinations of alleles in offspring",
+      "Decreased fertility",
+      "Increased risk of genetic disorders"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A person with blood type AB negative can receive blood from which of the following donors without risk of agglutination?",
+    "question": "The process of genetic drift in small populations can lead to",
     "options": [
-      "AB positive only",
-      "O negative only",
-      "Any ABO group but Rh negative only",
-      "Any blood type"
+      "Increased genetic variation and improved disease resistance",
+      "No effect on genetic variation or population growth",
+      "Loss of genetic variation and increased risk of genetic disorders",
+      "Decreased risk of genetic disorders and improved population growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following correctly describes the role of the loop of Henle in the nephron?",
+    "question": "A person with a diet lacking in vitamin A may experience the following symptoms:",
     "options": [
-      "It filters blood under high pressure to produce glomerular filtrate",
-      "It reabsorbs glucose and amino acids by active transport",
-      "It creates an osmotic gradient in the medulla that facilitates water reabsorption",
-      "It secretes hydrogen ions to regulate blood pH only"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The condition phenylketonuria (PKU) results from the inability to convert phenylalanine to tyrosine. This is caused by a deficiency of which enzyme?",
-    "options": [
-      "Tyrosinase",
-      "Phenylalanine hydroxylase",
-      "Tryptophan synthetase",
-      "Homogentisate oxidase"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which phase of mitosis is characterized by the alignment of chromosomes along the metaphase plate?",
-    "options": [
-      "Prophase",
-      "Anaphase",
-      "Metaphase",
-      "Telophase"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "During aerobic respiration, the net gain of ATP molecules from the complete oxidation of one molecule of glucose is approximately:",
-    "options": [
-      "2 ATP",
-      "8 ATP",
-      "36-38 ATP",
-      "24 ATP"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following hormones stimulates the reabsorption of sodium ions in the distal convoluted tubule and collecting duct of the nephron?",
-    "options": [
-      "ADH (vasopressin)",
-      "Aldosterone",
-      "Renin",
-      "Atrial natriuretic peptide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A child displays a genetic disorder that skips generations and predominantly affects males. This pattern of inheritance is most consistent with:",
-    "options": [
-      "Autosomal dominant inheritance",
-      "Autosomal recessive inheritance",
-      "X-linked recessive inheritance",
-      "Mitochondrial inheritance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best explains why carbon monoxide poisoning is life-threatening?",
-    "options": [
-      "It destroys the alveolar walls reducing surface area for gas exchange",
-      "It irreversibly binds to haemoglobin with a higher affinity than oxygen, preventing oxygen transport",
-      "It increases the viscosity of blood preventing normal circulation",
-      "It denatures enzymes involved in cellular respiration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process by which mRNA is synthesized from a DNA template is called transcription. Which enzyme is directly responsible for catalyzing this process?",
-    "options": [
-      "DNA polymerase",
-      "RNA primase",
-      "RNA polymerase",
-      "Reverse transcriptase"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the human immune response, which type of T lymphocyte is primarily responsible for destroying body cells that have been infected by a virus?",
-    "options": [
-      "Helper T cells",
-      "Regulatory T cells",
-      "Memory T cells",
-      "Cytotoxic T cells"
+      "Increased urination, muscle weakness, and dry skin",
+      "Nausea, headaches, and dizziness",
+      "Rapid heartbeat, high blood pressure, and tremors",
+      "Night blindness, dry skin, and impaired immune function"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "During the cardiac cycle, which event corresponds to the 'lub' sound heard through a stethoscope?",
-    "options": [
-      "Closure of the semilunar valves at the start of diastole",
-      "Closure of the atrioventricular valves at the start of ventricular systole",
-      "Opening of the aortic valve during ventricular systole",
-      "Contraction of the atria during atrial systole"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements correctly describes the mechanism of enzyme inhibition by a competitive inhibitor?",
-    "options": [
-      "It binds permanently to the active site and denatures the enzyme",
-      "It binds to the allosteric site changing the shape of the active site",
-      "It binds to the active site competing with the substrate and this inhibition can be overcome by increasing substrate concentration",
-      "It increases the activation energy required for the reaction to proceed"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Sickle cell anaemia is caused by a single point mutation in the gene encoding the beta-globin chain of haemoglobin. Which amino acid substitution causes this condition?",
-    "options": [
-      "Glutamic acid replaced by valine",
-      "Valine replaced by lysine",
-      "Glutamic acid replaced by glycine",
-      "Lysine replaced by glutamic acid"
-    ],
-    "correctIndex": 0
   }
 ]

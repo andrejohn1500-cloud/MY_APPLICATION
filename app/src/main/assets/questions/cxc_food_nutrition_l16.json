@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following best describes the Maillard reaction in food preparation?",
+    "question": "What is the term for the process by which food is preserved by using a combination of salt and sugar to draw out moisture?",
     "options": [
-      "A non-enzymatic browning reaction between amino acids and reducing sugars when heated",
-      "An enzymatic oxidation of phenolic compounds causing discolouration",
-      "A caramelisation process involving only sucrose molecules",
-      "A fermentation process producing lactic acid in bread dough"
+      "Curing",
+      "Smoking",
+      "Pickling",
+      "Salting"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A diet consistently high in saturated fatty acids is most likely to increase the risk of which condition?",
+    "question": "Which food group is rich in vitamin A and is often used in Caribbean cuisine?",
     "options": [
-      "Osteoporosis",
-      "Cardiovascular disease",
-      "Type 1 diabetes",
-      "Pellagra"
+      "Fruits",
+      "Vegetables",
+      "Dairy products",
+      "Protein foods"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which vitamin is synthesised in the skin upon exposure to ultraviolet radiation and is essential for calcium absorption?",
+    "question": "Which nutrient is essential for the maintenance of healthy nerves and muscles?",
     "options": [
-      "Vitamin A",
-      "Vitamin E",
       "Vitamin D",
-      "Vitamin K"
+      "Iron",
+      "Vitamin B12",
+      "Folate"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The HACCP system in food safety stands for which of the following?",
+    "question": "What is the term for the process by which food is preserved by using a combination of salt and sugar?",
     "options": [
-      "Hygiene and Cleanliness Control Procedures",
-      "Hazard Analysis and Critical Control Points",
-      "Health and Catering Compliance Protocol",
-      "Hazardous Agent Containment and Control Plan"
+      "Curing",
+      "Smoking",
+      "Salting",
+      "Pickling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which nutrient is essential for the maintenance of healthy skin and hair?",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by using a combination of salt and sugar to draw out moisture?",
+    "options": [
+      "Curing",
+      "Salting",
+      "Smoking",
+      "Pickling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which food is preserved by using a combination of salt and sugar?",
+    "options": [
+      "Smoking",
+      "Curing",
+      "Pickling",
+      "Canning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food preparation method involves cooking food in a sealed container with steam?",
+    "options": [
+      "Boiling",
+      "Roasting",
+      "Grilling",
+      "Steaming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which nutrient is essential for the maintenance of healthy bones and teeth?",
+    "options": [
+      "Phosphorus",
+      "Magnesium",
+      "Calcium",
+      "Potassium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food group is rich in vitamin A and is often used in Caribbean cuisine?",
+    "options": [
+      "Fruits",
+      "Protein foods",
+      "Dairy products",
+      "Vegetables"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which nutrient is essential for the maintenance of healthy bones and teeth?",
+    "options": [
+      "Magnesium",
+      "Calcium",
+      "Potassium",
+      "Phosphorus"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following cooking methods best preserves water-soluble vitamins in vegetables?",
+    "question": "What is the term for the process by which food is preserved by using a combination of heat and acid?",
     "options": [
-      "Boiling in large volumes of water",
-      "Pressure cooking with minimal water",
-      "Deep frying at high temperatures",
-      "Prolonged simmering in open pots"
+      "Refrigeration",
+      "Canning",
+      "Thermal processing",
+      "Freezing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which nutrient is essential for the maintenance of healthy skin and hair?",
+    "options": [
+      "Magnesium",
+      "Zinc",
+      "Iron",
+      "Potassium"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Phenylketonuria (PKU) is a metabolic disorder that requires restriction of which nutrient in the diet?",
+    "question": "Which food group is rich in vitamin E and is often used in Caribbean cuisine?",
     "options": [
-      "Phenylalanine",
-      "Tyrosine",
-      "Tryptophan",
-      "Methionine"
+      "Nuts and seeds",
+      "Protein foods",
+      "Fruits",
+      "Vegetables"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When preparing a b\u00e9chamel sauce, the thickening agent used is a roux. What is a roux?",
+    "question": "What is the term for the process by which food is preserved by using a combination of salt and sugar?",
     "options": [
-      "A mixture of egg yolk and cream used to enrich sauces",
-      "Equal parts of cooked flour and fat blended together",
-      "A reduction of stock and vegetable pur\u00e9e",
-      "Cornstarch dissolved in cold liquid before adding to hot liquid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following emulsifiers is naturally present in egg yolk and commonly used in food production?",
-    "options": [
-      "Pectin",
-      "Lecithin",
-      "Agar",
-      "Carrageenan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The biological value (BV) of a protein refers to which of the following?",
-    "options": [
-      "The total nitrogen content of the protein per gram",
-      "The proportion of absorbed nitrogen retained in the body for growth and maintenance",
-      "The speed at which protein is digested in the stomach",
-      "The caloric value provided per gram of protein consumed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which foodborne pathogen is most commonly associated with improperly canned low-acid foods and produces a deadly neurotoxin?",
-    "options": [
-      "Salmonella typhi",
-      "Listeria monocytogenes",
-      "Clostridium botulinum",
-      "Staphylococcus aureus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Glycaemic index (GI) measures which property of carbohydrate-containing foods?",
-    "options": [
-      "The total amount of carbohydrate per serving of food",
-      "The rate at which a food raises blood glucose levels compared to pure glucose",
-      "The number of simple sugars present in a carbohydrate molecule",
-      "The caloric density of carbohydrate in a given food portion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A teenager who follows a strict vegan diet is most at risk of deficiency in which combination of nutrients?",
-    "options": [
-      "Vitamin C, folate, and potassium",
-      "Vitamin B12, iron, calcium, and zinc",
-      "Vitamin A, riboflavin, and magnesium",
-      "Thiamine, niacin, and selenium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of food preservation, which method relies on reducing water activity (aw) to inhibit microbial growth?",
-    "options": [
-      "Pasteurisation",
-      "Irradiation",
-      "Dehydration",
-      "Modified atmosphere packaging"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is the primary structural polysaccharide found in plant cell walls that humans cannot digest?",
-    "options": [
-      "Glycogen",
-      "Starch",
-      "Cellulose",
-      "Dextrin"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A consumer reads a food label and notes the product contains 'hydrogenated vegetable oil'. This ingredient is associated with the presence of which type of fatty acid?",
-    "options": [
-      "Omega-3 polyunsaturated fatty acids",
-      "Short-chain saturated fatty acids",
-      "Trans fatty acids",
-      "Conjugated linoleic acid"
+      "Salting",
+      "Smoking",
+      "Pickling",
+      "Curing"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,82 @@
 [
   {
-    "question": "Which of the following best describes the concept of 'derived demand' in the context of factor markets?",
+    "question": "A country with a high level of unemployment is said to be experiencing a labor surplus. What is the likely effect of an increase in the minimum wage on the level of economic growth?",
     "options": [
-      "The demand for a factor of production that arises because of the demand for the good or service it helps to produce",
-      "The demand created by consumers for luxury goods derived from basic necessities",
-      "The demand for imports derived from domestic production shortfalls",
-      "The demand for capital goods derived from government infrastructure spending"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If the marginal propensity to consume (MPC) is 0.75, what is the value of the fiscal multiplier?",
-    "options": [
-      "3",
-      "4",
-      "2.5",
-      "1.33"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A country operating under a fixed exchange rate system is experiencing a balance of payments deficit. Which policy would MOST likely be used to correct this without changing the exchange rate?",
-    "options": [
-      "Expansionary monetary policy to increase money supply",
-      "Deflationary fiscal policy to reduce aggregate demand and imports",
-      "Increasing government expenditure on public goods",
-      "Reducing income tax to stimulate consumer spending"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a perfectly competitive market, a firm is in long-run equilibrium when:",
-    "options": [
-      "Price equals marginal cost only",
-      "Price equals average total cost and marginal cost, earning normal profit",
-      "Price exceeds average total cost, earning supernormal profit",
-      "Marginal revenue exceeds marginal cost, signalling expansion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a negative externality in production?",
-    "options": [
-      "A beekeeper whose bees pollinate nearby farmers' crops",
-      "A factory emitting carbon dioxide into the atmosphere during manufacturing",
-      "A firm providing free training that benefits other employers",
-      "A lighthouse providing navigational safety to all passing ships"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The J-curve effect illustrates that following a currency depreciation:",
-    "options": [
-      "The current account improves immediately due to cheaper exports",
-      "The current account initially worsens before eventually improving as trade volumes adjust",
-      "The capital account surplus increases proportionally with depreciation",
-      "Inflation falls before eventually rising in the long run"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which condition must be satisfied for price discrimination to be successfully practiced by a firm?",
-    "options": [
-      "The market must be perfectly competitive with many sellers",
-      "The firm must have market power and be able to separate markets with different price elasticities of demand",
-      "The product must be a public good with non-excludable characteristics",
-      "Consumers must have perfect information about prices in all markets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to the Heckscher-Ohlin theory of international trade, a country will export goods that:",
-    "options": [
-      "Are produced using the factor of production with which it is relatively scarce",
-      "Intensively use the factor of production with which it is relatively well-endowed",
-      "Have the highest world market price regardless of production costs",
-      "Require the most advanced technology available in global markets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In national income accounting, which of the following would be included in the calculation of Gross Domestic Product (GDP)?",
-    "options": [
-      "Transfer payments such as welfare benefits paid by the government",
-      "The value of goods produced and sold in the underground economy",
-      "The imputed rent of owner-occupied housing",
-      "Financial transactions such as the purchase of stocks and bonds"
+      "A decrease in the level of unemployment",
+      "No change in the level of economic growth",
+      "A decrease in the level of economic growth",
+      "An increase in the level of economic growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "If the cross-price elasticity of demand between two goods is negative, this indicates that the goods are:",
+    "question": "The concept of the supply and demand model suggests that the equilibrium price and quantity are determined by the intersection of the supply and demand curves. Which of the following is the formula for the supply and demand model?",
     "options": [
-      "Substitutes, where a price increase in one leads to increased demand for the other",
-      "Complements, where a price increase in one leads to decreased demand for the other",
-      "Independent goods with no relationship in consumption",
-      "Inferior goods whose demand falls as consumer income rises"
+      "Qs + Qd = 0",
+      "Qs - Qd = 0",
+      "Qs = Qd",
+      "Qs = -Qd"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following best explains why Caribbean small island developing states (SIDS) often face structural trade deficits?",
+    "question": "The concept of the multiplier suggests that an increase in aggregate demand has a multiplied effect on the level of national income. Which of the following is the formula for the multiplier?",
     "options": [
-      "Their large domestic markets allow excessive consumption beyond production capacity",
-      "Narrow export bases, high import dependency for food and fuel, and limited productive diversification",
-      "Their currencies are perpetually overvalued, making exports uncompetitive",
-      "Preferential trade agreements systematically favour imports over exports"
+      "M = MPC - 1",
+      "M = 1 + MPC",
+      "M = 1 - MPC",
+      "M = 1 / (1 - MPC)"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Under an oligopolistic market structure, the kinked demand curve model predicts price rigidity because:",
+    "question": "The concept of the monetary policy suggests that the central bank can use interest rates and the money supply to stabilize the economy. Which of the following is the likely effect of a decrease in interest rates on the level of aggregate demand?",
     "options": [
-      "Firms collude openly to fix prices at the profit-maximising level",
-      "Rivals match price reductions but ignore price increases, creating a discontinuity in the marginal revenue curve",
-      "Government regulation prevents any price changes without prior approval",
-      "Barriers to entry ensure that new competitors cannot undercut existing prices"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The crowding-out effect in macroeconomics refers to:",
-    "options": [
-      "The displacement of private investment due to increased government borrowing that raises interest rates",
-      "The reduction in exports caused by an appreciation of the domestic currency",
-      "The decline in consumer spending when personal income taxes are increased",
-      "The fall in long-run aggregate supply caused by excessive government regulation"
+      "An increase in aggregate demand",
+      "A decrease in aggregate demand",
+      "No change in aggregate demand",
+      "A decrease in the money supply"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes 'terms of trade' and the impact of a deterioration for a developing country?",
+    "question": "The concept of the inflation tax suggests that the government can finance its spending by printing more money. Which of the following is the effect of the inflation tax on the level of inflation?",
     "options": [
-      "An improvement in trade laws; deterioration leads to more favourable export conditions",
-      "The ratio of export prices to import prices; deterioration means more exports are needed to purchase the same volume of imports",
-      "The balance between visible and invisible trade; deterioration increases the current account surplus",
-      "The total volume of trade; deterioration reflects reduced trade activity with major partners"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of Caribbean economic integration, which institution is primarily responsible for implementing the CARICOM Single Market and Economy (CSME)?",
-    "options": [
-      "The Caribbean Development Bank (CDB)",
-      "The Caribbean Court of Justice (CCJ)",
-      "The CARICOM Secretariat",
-      "The Eastern Caribbean Central Bank (ECCB)"
+      "A decrease in the level of unemployment",
+      "No change in the level of inflation",
+      "An increase in the level of inflation",
+      "A decrease in the level of inflation"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A country with a high level of unemployment is said to be experiencing a labor surplus. What is the likely effect of an increase in the minimum wage on the level of unemployment?",
+    "options": [
+      "An increase in the level of unemployment",
+      "No change in the level of unemployment",
+      "A decrease in the level of inflation",
+      "A decrease in the level of unemployment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country with a large trade deficit is said to be experiencing a current account deficit. What is the likely effect of a depreciation on the trade deficit?",
+    "options": [
+      "A decrease in the trade deficit",
+      "A decrease in imports",
+      "An increase in the trade deficit",
+      "No change in the trade deficit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of the foreign exchange market suggests that the exchange rate is determined by the supply and demand for foreign exchange. Which of the following is the effect of a depreciation on the trade balance?",
+    "options": [
+      "A decrease in exports",
+      "An improvement in the trade balance",
+      "A deterioration in the trade balance",
+      "No change in the trade balance"
+    ],
+    "correctIndex": 1
   }
 ]

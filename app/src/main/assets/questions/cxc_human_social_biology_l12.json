@@ -1,152 +1,144 @@
 [
   {
-    "question": "Which enzyme is responsible for catalyzing the conversion of angiotensinogen to angiotensin I in the renin-angiotensin-aldosterone system?",
+    "question": "The central nervous system is comprised of which of the following two parts?",
     "options": [
-      "Renin",
-      "ACE (Angiotensin-Converting Enzyme)",
-      "Aldosterone synthase",
-      "Carbonic anhydrase"
+      "Brain and spinal cord",
+      "Spinal cord and peripheral nerves",
+      "Cerebrum and cerebellum",
+      "Brain and peripheral nerves"
     ],
     "correctIndex": 0
   },
   {
-    "question": "During a nerve impulse, the repolarization phase is primarily caused by:",
+    "question": "The process of genetic variation in a population is decreased by",
     "options": [
-      "Rapid influx of sodium ions",
-      "Rapid efflux of potassium ions",
-      "Influx of calcium ions",
-      "Active transport of chloride ions inward"
+      "Genetic drift and selection",
+      "Genetic recombination and mutation",
+      "Gene flow and genetic recombination",
+      "Mutation and gene flow"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following correctly describes the Bohr effect in relation to oxygen dissociation from haemoglobin?",
+    "question": "A person with a diet lacking in vitamin E may experience the following symptoms:",
     "options": [
-      "Increased pH causes haemoglobin to release more oxygen",
-      "Increased carbon dioxide concentration decreases haemoglobin's affinity for oxygen",
-      "Decreased temperature increases oxygen release from haemoglobin",
-      "Increased oxygen partial pressure decreases haemoglobin saturation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A patient has a urine sample showing high levels of glucose and amino acids but normal blood glucose levels. This most likely indicates damage to the:",
-    "options": [
-      "Glomerulus",
-      "Loop of Henle",
-      "Proximal convoluted tubule",
-      "Collecting duct"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cells in the testes are responsible for the production of testosterone?",
-    "options": [
-      "Sertoli cells",
-      "Spermatogonia",
-      "Leydig (interstitial) cells",
-      "Primary spermatocytes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The P wave on an electrocardiogram (ECG) represents:",
-    "options": [
-      "Ventricular depolarization",
-      "Atrial repolarization",
-      "Atrial depolarization",
-      "Ventricular repolarization"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the mechanism by which aldosterone increases sodium reabsorption in the kidney?",
-    "options": [
-      "It directly opens sodium channels in the glomerulus",
-      "It stimulates synthesis of sodium-potassium ATPase pumps and sodium channels in the collecting duct",
-      "It inhibits the secretion of ADH from the posterior pituitary",
-      "It increases the permeability of the loop of Henle to water"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the immune response, which cell type is responsible for presenting antigens to helper T lymphocytes?",
-    "options": [
-      "Natural killer cells",
-      "Plasma cells",
-      "Mast cells",
-      "Dendritic cells"
+      "Rapid heartbeat, high blood pressure, and tremors",
+      "Nausea, headaches, and dizziness",
+      "Increased urination, muscle weakness, and dry skin",
+      "Fatigue, weakness, and impaired immune function"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which phase of the menstrual cycle is characterized by rising levels of FSH stimulating follicle development and increasing oestrogen production?",
+    "question": "The main function of the pituitary gland in the endocrine system is to",
     "options": [
-      "Luteal phase",
-      "Secretory phase",
-      "Follicular phase",
-      "Menstruation"
+      "Regulate hormone secretion in other endocrine glands",
+      "Filter waste products and produce hormones",
+      "Maintain blood pressure and transport nutrients",
+      "Produce hormones and regulate growth"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Phenylketonuria (PKU) is caused by a deficiency of the enzyme phenylalanine hydroxylase. This condition follows which pattern of inheritance?",
+    "question": "The process of symbiotic relationship between two species in which both species are affected is known as",
     "options": [
-      "Autosomal dominant",
-      "X-linked recessive",
-      "Autosomal recessive",
-      "X-linked dominant"
+      "Symbiosis",
+      "Commensalism, Mutualism, Parasitism"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following correctly pairs a hormone with its site of production and its primary target?",
+    "question": "The main function of the photosynthetic pigments in plants is to",
     "options": [
-      "Glucagon \u2013 beta cells of pancreas \u2013 liver",
-      "Insulin \u2013 alpha cells of pancreas \u2013 muscle",
-      "ADH \u2013 anterior pituitary \u2013 collecting duct of kidney",
-      "PTH \u2013 parathyroid gland \u2013 bone and kidneys"
+      "Produce heat and maintain growth",
+      "Filter waste products and produce hormones",
+      "Regulate water content and transport nutrients",
+      "Absorb light energy and convert it into chemical energy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "During aerobic respiration, where does the Krebs (citric acid) cycle take place?",
+    "question": "The main function of the adrenal glands in the endocrine system is to",
     "options": [
-      "Cytoplasm",
-      "Outer mitochondrial membrane",
-      "Matrix of the mitochondria",
-      "Inner mitochondrial membrane"
+      "Maintain blood sugar levels and store glycogen",
+      "Produce hormones and regulate growth",
+      "Regulate stress response and maintain blood pressure",
+      "Filter waste products and produce hormones"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A child born with 47 chromosomes due to nondisjunction of chromosome 21 during meiosis will most likely present with:",
+    "question": "An individual with a weakened immune system is more susceptible to",
     "options": [
-      "Turner syndrome",
-      "Klinefelter syndrome",
-      "Down syndrome",
-      "Patau syndrome"
+      "Psychological disorders and mental illness",
+      "Cancer and genetic disorders",
+      "Infections and diseases",
+      "Nutritional deficiencies and environmental toxins"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following statements about synaptic transmission is correct?",
+    "question": "The process by which the body regulates body temperature is known as",
     "options": [
-      "Action potentials can travel in both directions across a synapse",
-      "Neurotransmitters are released from the postsynaptic membrane",
-      "Acetylcholine is broken down by acetylcholinesterase in the synaptic cleft",
-      "The refractory period allows continuous stimulation without depolarization"
+      "Thermoregulation",
+      "Hormone regulation, Circadian rhythm, Metabolism"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "An individual with blood type AB negative requires a blood transfusion. Which statement about this individual is most accurate?",
+    "question": "The process of genetic variation in a population is decreased by",
     "options": [
-      "They can receive blood from any ABO blood type but must receive Rh-positive blood",
-      "They have both A and B antigens on red blood cells and no Rh antigen, making them a universal recipient for ABO but restricted for Rh factor",
-      "They produce anti-A and anti-B antibodies in their plasma",
-      "They are considered a universal donor because they lack A, B, and Rh antigens"
+      "Mutation and gene flow",
+      "Genetic drift, selection, and mutation",
+      "Gene flow and genetic recombination",
+      "Genetic recombination and mutation"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which one species benefits and the other species is harmed is known as",
+    "options": [
+      "Mutualism, Symbiosis, Parasitism",
+      "Commensalism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The primary function of the thyroid gland in the endocrine system is to",
+    "options": [
+      "Maintain blood pressure and transport nutrients",
+      "Regulate metabolism and maintain growth",
+      "Produce hormones and regulate growth",
+      "Filter waste products and produce hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of symbiotic relationship between two species in which one species benefits and the other species is harmed is known as",
+    "options": [
+      "Mutualism, Symbiosis, Parasitism",
+      "Commensalism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A person with a diet lacking in calcium may experience the following symptoms:",
+    "options": [
+      "Weakened bones, fatigue, and increased risk of fractures",
+      "Nausea, headaches, and dizziness",
+      "Increased urination, muscle weakness, and dry skin",
+      "Rapid heartbeat, high blood pressure, and tremors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A person with a diet lacking in iron may experience the following symptoms:",
+    "options": [
+      "Increased urination, muscle weakness, and dry skin",
+      "Nausea, headaches, and dizziness",
+      "Rapid heartbeat, high blood pressure, and tremors",
+      "Fatigue, weakness, and shortness of breath"
+    ],
+    "correctIndex": 3
   }
 ]

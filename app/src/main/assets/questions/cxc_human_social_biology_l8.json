@@ -1,152 +1,102 @@
 [
   {
-    "question": "Which organelle is responsible for producing energy in the form of ATP through cellular respiration?",
+    "question": "What is the primary cause of the spread of infectious diseases?",
     "options": [
-      "Ribosome",
-      "Mitochondria",
-      "Nucleus",
-      "Golgi apparatus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the movement of water molecules from a region of higher water potential to a region of lower water potential through a semi-permeable membrane?",
-    "options": [
-      "Diffusion",
-      "Active transport",
-      "Osmosis",
-      "Facilitated diffusion"
+      "The presence of ultraviolet radiation from the sun",
+      "The presence of pollutants in the air we breathe",
+      "The movement of infected individuals from one region to another",
+      "The presence of ozone in the stratosphere"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which blood type is considered the universal donor?",
+    "question": "What is the function of the alveoli in the lungs?",
     "options": [
-      "Type A",
-      "Type B",
-      "Type AB",
-      "Type O"
+      "Storage of oxygen",
+      "Exchange of oxygen and carbon dioxide between the lungs and the bloodstream",
+      "Removal of dust particles from the air we breathe",
+      "Production of surfactant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of nerve fibre transmits sensory information to the central nervous system?",
+    "options": [
+      "Motor or A-alpha fibre",
+      "Sensory or A-beta fibre",
+      "Motor or A-beta fibre",
+      "Sensory or A-alpha fibre"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In which part of the human digestive system does most chemical digestion and absorption of nutrients occur?",
+    "question": "What is the primary function of the zona pellucida in the reproductive process?",
     "options": [
-      "Stomach",
-      "Large intestine",
-      "Small intestine",
-      "Oesophagus"
+      "To facilitate sperm penetration during fertilization",
+      "To regulate the release of hormones from the ovaries",
+      "To provide nutrition to the embryo during development",
+      "To support the growth of the embryo during implantation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the role of insulin in the human body?",
+    "question": "A person with a diet lacking in vitamin C may experience the following symptoms:",
     "options": [
-      "Increases blood glucose levels",
-      "Decreases blood glucose levels by promoting uptake of glucose by cells",
-      "Stimulates glycogen breakdown in the liver",
-      "Promotes fat breakdown"
+      "Nausea, headaches, and dizziness",
+      "Fatigue, swollen gums, and poor wound healing",
+      "Increased urination, muscle weakness, and dry skin",
+      "Rapid heartbeat, high blood pressure, and tremors"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which structure in the kidney is responsible for the initial filtration of blood?",
+    "question": "What is the term for the process by which the body defends itself against pathogens and other foreign substances?",
     "options": [
-      "Loop of Henle",
-      "Collecting duct",
-      "Glomerulus",
-      "Bowman's capsule"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of reproduction involves only one parent and produces genetically identical offspring?",
-    "options": [
-      "Sexual reproduction",
-      "Fertilisation",
-      "Asexual reproduction",
-      "Cross-pollination"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which vitamin is produced in the skin when exposed to sunlight and is essential for calcium absorption?",
-    "options": [
-      "Vitamin A",
-      "Vitamin C",
-      "Vitamin K",
-      "Vitamin D"
+      "Disease",
+      "Illness",
+      "Infection",
+      "Immunity"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the process by which green plants manufacture their own food using sunlight?",
+    "question": "Which type of immunoglobulin is primarily involved in the primary immune response?",
     "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Transpiration",
-      "Digestion"
+      "IgM",
+      "IgA",
+      "IgE",
+      "IgG"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary cause of the greenhouse effect?",
+    "options": [
+      "The presence of ozone in the stratosphere",
+      "The presence of pollutants in the air we breathe",
+      "The presence of carbon dioxide and other greenhouse gases in the atmosphere",
+      "The presence of ultraviolet radiation from the sun"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the kidneys in the urinary system?",
+    "options": [
+      "To regulate blood pressure and to control the amount of salt and water in the body",
+      "To filter waste products from the blood and to regulate the volume of fluids in the body",
+      "To produce urine and to regulate the pH of the blood",
+      "To produce hormones that regulate the menstrual cycle"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which part of the brain controls balance and coordination of movement?",
+    "question": "The main function of the epidermis in the skin is to",
     "options": [
-      "Cerebrum",
-      "Medulla oblongata",
-      "Cerebellum",
-      "Hypothalamus"
+      "Provide sensation and produce melanin",
+      "Regulate body temperature and produce sweat",
+      "Filter waste products and produce hormones",
+      "Prevent water loss and protect the body from external factors"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "During meiosis, how many daughter cells are produced from one parent cell, and what is their chromosome number relative to the parent?",
-    "options": [
-      "2 cells with the same chromosome number",
-      "4 cells with double the chromosome number",
-      "4 cells with half the chromosome number",
-      "2 cells with half the chromosome number"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which disease is caused by the deficiency of iodine in the diet?",
-    "options": [
-      "Scurvy",
-      "Rickets",
-      "Goitre",
-      "Anaemia"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of red blood cells?",
-    "options": [
-      "Fight infection and produce antibodies",
-      "Transport oxygen and carbon dioxide",
-      "Assist in blood clotting",
-      "Produce hormones"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hormone is responsible for the development of secondary sexual characteristics in males during puberty?",
-    "options": [
-      "Oestrogen",
-      "Progesterone",
-      "Testosterone",
-      "Adrenaline"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of pathogen causes malaria?",
-    "options": [
-      "Bacterium",
-      "Virus",
-      "Protozoan",
-      "Fungus"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

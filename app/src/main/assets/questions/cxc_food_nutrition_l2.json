@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which nutrient is the main source of energy for the body?",
+    "question": "What is the primary function of carbohydrates in the human body?",
     "options": [
-      "Protein",
-      "Carbohydrates",
-      "Vitamins",
-      "Minerals"
+      "To regulate body temperature",
+      "To provide energy for the body",
+      "To build and repair tissues",
+      "To aid in the digestion of proteins"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which vitamin is known as the 'sunshine vitamin' because it is produced when skin is exposed to sunlight?",
+    "question": "What is the name of the method of food preservation that involves removing the air from a container?",
     "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin D"
+      "Refrigeration",
+      "Dehydration",
+      "Vacuum packing",
+      "Freezing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food group contains foods that are high in protein?",
+    "options": [
+      "Dairy products and alternatives",
+      "Fruits and vegetables",
+      "Grains and starches",
+      "Protein foods"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a good source of dietary fiber?",
+    "question": "What is the name of the process by which the body breaks down glycogen into glucose?",
     "options": [
-      "White bread",
-      "Whole wheat bread",
-      "Butter",
-      "Chicken breast"
+      "Glycogenesis",
+      "Lipolysis",
+      "Glycogenolysis",
+      "Fatty acid synthesis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in fruits and vegetables?",
+    "options": [
+      "Increasing the risk of chronic diseases",
+      "Providing essential nutrients",
+      "Reducing the risk of chronic diseases",
+      "Providing energy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a balanced diet?",
+    "options": [
+      "Is high in sugar and fat",
+      "Meets the body's nutritional needs",
+      "Is low in calories",
+      "Is limited in nutrients"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the main function of protein in the body?",
+    "question": "What is the name of the disease caused by a deficiency of vitamin C?",
     "options": [
+      "Goiter",
+      "Scurvy",
+      "Anemia",
+      "Rickets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the process by which the body breaks down fat into fatty acids and glycerol?",
+    "options": [
+      "Glycogenolysis",
+      "Lipolysis",
+      "Fatty acid synthesis",
+      "Protein hydrolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in calcium?",
+    "options": [
+      "Reducing the risk of osteoporosis",
       "Providing energy",
-      "Growth and repair of body tissues",
-      "Regulating body temperature",
-      "Transporting oxygen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which cooking method uses dry heat in an enclosed space such as an oven?",
-    "options": [
-      "Boiling",
-      "Steaming",
-      "Baking",
-      "Frying"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following foods is a complete protein?",
-    "options": [
-      "Rice",
-      "Lentils",
-      "Egg",
-      "Corn"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What term describes the process of harmful bacteria multiplying to dangerous levels in food?",
-    "options": [
-      "Fermentation",
-      "Food spoilage",
-      "Cross-contamination",
-      "Food poisoning"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mineral is most important for building strong bones and teeth?",
-    "options": [
-      "Iron",
-      "Calcium",
-      "Sodium",
-      "Potassium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What temperature range is known as the 'danger zone' for bacterial growth in food?",
-    "options": [
-      "0\u00b0C to 10\u00b0C",
-      "5\u00b0C to 63\u00b0C",
-      "70\u00b0C to 100\u00b0C",
-      "100\u00b0C to 150\u00b0C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a fat-soluble vitamin?",
-    "options": [
-      "Vitamin C",
-      "Vitamin B1",
-      "Vitamin A",
-      "Vitamin B12"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nutrient helps carry oxygen in the blood?",
-    "options": [
-      "Calcium",
-      "Iron",
-      "Zinc",
-      "Vitamin C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of food preservation involves adding salt to food?",
-    "options": [
-      "Canning",
-      "Freezing",
-      "Curing",
-      "Dehydration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does BMI stand for?",
-    "options": [
-      "Body Mass Index",
-      "Basic Metabolic Intake",
-      "Body Mineral Index",
-      "Basic Mass Indicator"
+      "Providing essential nutrients",
+      "Increasing the risk of osteoporosis"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a root vegetable?",
+    "question": "What is the process by which the body breaks down complex carbohydrates into simpler sugars?",
     "options": [
-      "Cabbage",
-      "Spinach",
-      "Carrot",
-      "Broccoli"
+      "Fermentation",
+      "Glycogenolysis",
+      "Lipolysis",
+      "Protein hydrolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the method of food preservation that involves using radiation to kill bacteria?",
+    "options": [
+      "Refrigeration",
+      "Freezing",
+      "Canning",
+      "Irradiation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a healthy snack?",
+    "options": [
+      "Is high in sugar and fat",
+      "Is limited in nutrients",
+      "Is low in sugar and fat",
+      "Is high in calories"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which food group provides the body with the most concentrated source of energy?",
+    "question": "What is the name of the method of food preservation that involves removing the water from food?",
     "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Fats and oils",
-      "Vitamins"
+      "Freezing",
+      "Refrigeration",
+      "Canning",
+      "Dehydration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a method of food preservation?",
+    "options": [
+      "Canning",
+      "Refrigeration",
+      "Fermentation",
+      "Freezing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the process by which bacteria can multiply and cause food spoilage?",
+    "options": [
+      "Food decay",
+      "Food rancidity",
+      "Food poisoning",
+      "Food fermentation"
     ],
     "correctIndex": 2
   }

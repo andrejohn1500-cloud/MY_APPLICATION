@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which nutrient provides the body with energy and is found in foods like bread, rice, and pasta?",
+    "question": "What is the name of the process by which the body converts fatty acids into energy?",
     "options": [
-      "Carbohydrates",
-      "Vitamins",
-      "Minerals",
-      "Water"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which vitamin is known as the 'sunshine vitamin' because it is produced when skin is exposed to sunlight?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B",
-      "Vitamin C",
-      "Vitamin D"
+      "Protein hydrolysis",
+      "Lipolysis",
+      "Fatty acid synthesis",
+      "Beta-oxidation"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the main function of protein in the body?",
+    "question": "What is the name of the process by which the body converts glucose into energy?",
     "options": [
-      "To provide heat and energy",
-      "To build and repair body tissues",
-      "To regulate body temperature",
-      "To transport oxygen in the blood"
+      "Fatty acid synthesis",
+      "Lipolysis",
+      "Protein synthesis",
+      "Glycolysis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the process by which the body converts glucose into glycogen?",
+    "options": [
+      "Glycogenolysis",
+      "Fatty acid synthesis",
+      "Lipolysis",
+      "Glycogenesis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in vitamin D?",
+    "options": [
+      "Providing energy",
+      "Reducing the risk of osteoporosis",
+      "Increasing the risk of osteoporosis",
+      "Providing essential nutrients"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a good source of calcium?",
-    "options": [
-      "Oranges",
-      "Milk",
-      "Rice",
-      "Chicken"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What cooking method involves submerging food completely in hot oil?",
-    "options": [
-      "Steaming",
-      "Grilling",
-      "Deep frying",
-      "Baking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a root vegetable?",
-    "options": [
-      "Cabbage",
-      "Tomato",
-      "Carrot",
-      "Lettuce"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does a balanced diet mean?",
-    "options": [
-      "Eating only vegetables and fruits",
-      "Eating foods that contain all necessary nutrients in the right proportions",
-      "Eating three meals per day",
-      "Eating only low-fat foods"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which food group does butter and oil belong to?",
-    "options": [
-      "Proteins",
-      "Carbohydrates",
-      "Fats and oils",
-      "Vitamins and minerals"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the safe temperature range known as the 'danger zone' for bacterial growth in food?",
-    "options": [
-      "0\u00b0C to 10\u00b0C",
-      "5\u00b0C to 63\u00b0C",
-      "100\u00b0C to 120\u00b0C",
-      "63\u00b0C to 100\u00b0C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a method of food preservation?",
-    "options": [
-      "Boiling",
-      "Freezing",
-      "Steaming",
-      "Frying"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Iron is an important mineral in the diet because it helps to?",
-    "options": [
-      "Build strong bones",
-      "Form haemoglobin in red blood cells",
-      "Regulate blood sugar",
-      "Improve eyesight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following foods is a legume?",
-    "options": [
-      "Potato",
-      "Lentils",
-      "Cabbage",
-      "Mango"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What term describes the process of planning and managing money spent on food?",
-    "options": [
-      "Menu planning",
-      "Food budgeting",
-      "Meal preparation",
-      "Food storage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nutrient is most important for keeping the body hydrated?",
+    "question": "Which of the following is a type of carbohydrate?",
     "options": [
       "Fat",
-      "Protein",
       "Water",
-      "Carbohydrates"
+      "Protein",
+      "Fiber"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which cooking method is considered the healthiest because it uses no added fat?",
+    "question": "Which of the following is a characteristic of a balanced meal?",
     "options": [
-      "Frying",
-      "Roasting",
-      "Steaming",
-      "Saut\u00e9ing"
+      "Is low in calories",
+      "Includes a variety of food groups",
+      "Is high in sugar and fat",
+      "Is limited in nutrients"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the method of food preservation that involves heating food to a high temperature?",
+    "options": [
+      "Canning",
+      "Dehydration",
+      "Freezing",
+      "Refrigeration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a healthy meal?",
+    "options": [
+      "Is low in calories",
+      "Is high in sugar and fat",
+      "Is limited in nutrients",
+      "Includes a variety of food groups"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of food safety precaution?",
+    "options": [
+      "Not cooking food to a safe temperature",
+      "Washing hands before handling food",
+      "Not washing hands before handling food",
+      "Not storing food properly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the process by which the body converts protein into energy?",
+    "options": [
+      "Glycogenolysis",
+      "Protein hydrolysis",
+      "Lipolysis",
+      "Fatty acid synthesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of food additive?",
+    "options": [
+      "Sweeteners",
+      "Flavor enhancers",
+      "Colorants",
+      "Emulsifiers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the method of cooking that involves cooking food in a sealed bag?",
+    "options": [
+      "Roasting",
+      "Poaching",
+      "Grilling",
+      "Steaming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of food additive?",
+    "options": [
+      "Flavor enhancers",
+      "Preservatives",
+      "Colorants",
+      "Sweeteners"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in omega-3 fatty acids?",
+    "options": [
+      "Reducing the risk of heart disease",
+      "Increasing the risk of heart disease",
+      "Providing energy",
+      "Providing essential nutrients"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the process by which the body breaks down protein into amino acids?",
+    "options": [
+      "Protein hydrolysis",
+      "Glycogenolysis",
+      "Fatty acid synthesis",
+      "Lipolysis"
+    ],
+    "correctIndex": 0
   }
 ]

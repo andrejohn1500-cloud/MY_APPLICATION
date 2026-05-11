@@ -1,152 +1,52 @@
 [
   {
-    "question": "Choisissez la bonne forme du verbe 'avoir' pour compl\u00e9ter la phrase: 'Ils _____ faim apr\u00e8s le match.'",
+    "question": "Quel est le mot qui signifie 'je suis en train de faire des devoirs' en fran\u00e7ais ?",
     "options": [
-      "ont",
-      "avons",
-      "avez",
-      "a"
+      "Je suis au parc",
+      "Je suis \u00e0 la maison",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis en train de faire des devoirs"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Quelle est la forme correcte du pass\u00e9 compos\u00e9 du verbe 'partir' avec 'elle'?",
+    "question": "Quelle est la traduction de 'La maison est grande' en fran\u00e7ais ?",
     "options": [
-      "elle a parti",
-      "elle est partie",
-      "elle est parti",
-      "elle a partis"
+      "La maison est petite",
+      "La maison est sale",
+      "La maison est jolie",
+      "La maison est grande"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis en train de faire un cadeau' en fran\u00e7ais ?",
+    "options": [
+      "Je suis \u00e0 la maison",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis au parc",
+      "Je suis en train de faire un cadeau"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quel est le mot qui signifie 'je suis en train de faire une surprise' en fran\u00e7ais ?",
+    "options": [
+      "Je suis \u00e0 la maison",
+      "Je suis en train de faire une surprise",
+      "Je suis au parc",
+      "Je suis \u00e0 l'\u00e9cole"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Compl\u00e9tez la phrase avec le bon pronom r\u00e9fl\u00e9chi: 'Nous _____ levons t\u00f4t le matin.'",
+    "question": "Quel est le mot qui signifie 'je suis en train de manger' en fran\u00e7ais ?",
     "options": [
-      "me",
-      "te",
-      "nous",
-      "se"
+      "Je suis au parc",
+      "Je suis \u00e0 l'\u00e9cole",
+      "Je suis \u00e0 la maison",
+      "Je suis en train de manger"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Quel est le f\u00e9minin du mot 'boulanger'?",
-    "options": [
-      "boulang\u00e8re",
-      "boulangeuse",
-      "boulangerie",
-      "boulangresse"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Choisissez la bonne pr\u00e9position: 'Elle habite _____ Paris depuis deux ans.'",
-    "options": [
-      "en",
-      "au",
-      "\u00e0",
-      "de"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Quelle phrase utilise correctement le verbe 'faire' \u00e0 l'imparfait?",
-    "options": [
-      "Il faisait beau hier.",
-      "Il fesait beau hier.",
-      "Il faisait beau demain.",
-      "Il fera beau hier."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Que signifie l'expression 'avoir le cafard'?",
-    "options": [
-      "Avoir peur des insectes",
-      "\u00catre tr\u00e8s fatigu\u00e9",
-      "Se sentir d\u00e9prim\u00e9",
-      "Avoir tr\u00e8s chaud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choisissez le bon article partitif: 'Je voudrais _____ eau, s'il vous pla\u00eet.'",
-    "options": [
-      "du",
-      "de la",
-      "de l'",
-      "des"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Quelle est la bonne traduction de 'I have been living here for three years'?",
-    "options": [
-      "J'ai habit\u00e9 ici pour trois ans.",
-      "J'habitais ici depuis trois ans.",
-      "J'habite ici depuis trois ans.",
-      "Je vivais ici pour trois ans."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Compl\u00e9tez avec le bon adjectif possessif: 'Marie a oubli\u00e9 _____ cahier \u00e0 l'\u00e9cole.'",
-    "options": [
-      "son",
-      "sa",
-      "ses",
-      "leur"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quel est le superlatif de 'bon'?",
-    "options": [
-      "le plus bon",
-      "le meilleur",
-      "le mieux",
-      "le tr\u00e8s bon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choisissez la bonne forme du subjonctif: 'Il faut que tu _____ tes devoirs.'",
-    "options": [
-      "fasses",
-      "fais",
-      "feras",
-      "faites"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Quelle phrase est au futur simple?",
-    "options": [
-      "Nous avons mang\u00e9 hier.",
-      "Nous mangeons maintenant.",
-      "Nous mangerons demain.",
-      "Nous mangions souvent."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Que signifie le mot 'un quartier'?",
-    "options": [
-      "Un quart d'heure",
-      "Un quartier de ville",
-      "Un quart de litre",
-      "Un instrument de musique"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choisissez la bonne forme du conditionnel: 'Si j'avais de l'argent, je _____ un voyage.'",
-    "options": [
-      "ferais",
-      "ferai",
-      "fais",
-      "fasse"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

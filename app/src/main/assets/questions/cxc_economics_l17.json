@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following best describes the concept of 'derived demand' in factor markets?",
+    "question": "According to the Phillips Curve, there is a trade-off between inflation and unemployment. Which of the following is a consequence of a movement along the Phillips Curve?",
     "options": [
-      "The demand for a factor of production that arises from the demand for the good or service it helps to produce",
-      "The demand created when consumers substitute one factor for another",
-      "The demand for goods that are produced using advanced technology",
-      "The demand for luxury goods derived from high income levels"
+      "A change in the interest rate",
+      "A change in the inflation rate",
+      "A change in the unemployment rate",
+      "No change in the inflation rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the Harrod-Domar model, economic growth is determined by the rate of investment and the capital-output ratio. Which of the following is a reason for the Harrod-Domar model to break down?",
+    "options": [
+      "An increase in the labor force",
+      "A decrease in the labor force",
+      "A change in the capital-output ratio",
+      "A change in the rate of investment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of the Mundell-Fleming model suggests that there are three types of exchange rate regimes: fixed, floating, and managed. Which of the following is a consequence of a fixed exchange rate?",
+    "options": [
+      "A country may experience a decrease in inflation",
+      "A country may experience an increase in economic growth",
+      "A country may experience a loss of monetary policy independence",
+      "A country may experience an increase in international trade"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of the Harrod-Domar model suggests that economic growth is determined by the rate of investment and the capital-output ratio. Which of the following is a reason for the Harrod-Domar model to break down?",
+    "options": [
+      "A change in the capital-output ratio",
+      "A change in the rate of investment",
+      "An increase in the labor force",
+      "A decrease in the labor force"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a small open economy operating under a fixed exchange rate system, an expansionary fiscal policy will primarily result in:",
+    "question": "The concept of the Mundell-Fleming model suggests that there are three types of exchange rate regimes: fixed, floating, and managed. Which of the following is a consequence of a managed exchange rate?",
     "options": [
-      "A significant increase in real output due to the multiplier effect",
-      "Complete crowding out of net exports leaving output unchanged",
-      "Hyperinflation due to excess money supply",
-      "A balance of payments surplus with no change in domestic output"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Lorenz curve moves further away from the line of perfect equality when:",
-    "options": [
-      "The Gini coefficient decreases",
-      "Income redistribution policies are highly effective",
-      "The share of income earned by the poorest percentiles falls relative to the richest",
-      "Unemployment rates decline significantly"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which condition must hold for a third-degree price discriminating monopolist to maximise profit?",
-    "options": [
-      "MR1 = MR2 = MC, where markets have different price elasticities of demand",
-      "MC = AC in all market segments simultaneously",
-      "Price must be equal in all market segments",
-      "Total revenue must be equal across all market segments"
+      "A country may experience a loss of control over the exchange rate",
+      "A country may experience a decrease in inflation",
+      "A country may experience an increase in economic growth",
+      "A country may experience an increase in international trade"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the context of Caribbean economic integration, the CARICOM Single Market and Economy (CSME) primarily aims to:",
+    "question": "The concept of the foreign exchange market suggests that the exchange rate is determined by the supply and demand for foreign exchange. Which of the following is the effect of a depreciation on the price level?",
     "options": [
-      "Establish a common external tariff only among OECS member states",
-      "Allow free movement of goods, services, capital, and labour among member states",
-      "Create a single currency for all CARICOM member states immediately",
-      "Eliminate all forms of taxation within member states"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When the central bank engages in open market operations by selling government securities, the immediate effect on the commercial banking system is:",
-    "options": [
-      "An increase in commercial bank reserves leading to credit expansion",
-      "A decrease in commercial bank reserves leading to a contraction of the money supply",
-      "An increase in the money multiplier",
-      "A reduction in the central bank's liabilities with no effect on money supply"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The J-curve effect in international trade suggests that following a currency depreciation:",
-    "options": [
-      "The trade balance improves immediately and then deteriorates over time",
-      "The trade balance initially worsens before eventually improving",
-      "Export volumes increase immediately in proportion to the depreciation",
-      "Import prices fall faster than export prices adjust"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements correctly distinguishes between economic growth and economic development?",
-    "options": [
-      "Economic growth measures qualitative improvements in living standards while development measures GDP",
-      "Economic growth refers to an increase in real GDP while development encompasses broader improvements including equity, health, and education",
-      "Economic development always precedes economic growth in developing countries",
-      "Economic growth and economic development are interchangeable terms used in national income accounting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A negative externality in production causes the market equilibrium to result in:",
-    "options": [
-      "Output below the socially optimal level and price above the social optimum",
-      "Output above the socially optimal level because the social marginal cost exceeds private marginal cost",
-      "Output equal to the socially optimal level if firms are profit maximisers",
-      "Underproduction and a deadweight welfare loss to consumers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the Heckscher-Ohlin theory of international trade, a Caribbean country abundant in unskilled labour should:",
-    "options": [
-      "Import labour-intensive goods and export capital-intensive goods",
-      "Export labour-intensive goods and import capital-intensive goods",
-      "Avoid specialisation to protect domestic industries",
-      "Impose tariffs on labour-intensive imports to maximise welfare"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The accelerator theory of investment suggests that investment depends primarily on:",
-    "options": [
-      "The current level of national income",
-      "The rate of change of national income or output",
-      "The prevailing rate of interest set by the central bank",
-      "The level of government expenditure in the previous period"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly explains the 'resource curse' phenomenon experienced by some Caribbean economies?",
-    "options": [
-      "Countries with abundant natural resources tend to develop stronger manufacturing sectors",
-      "An abundance of natural resources can lead to Dutch Disease, reducing competitiveness in other sectors",
-      "Resource-rich countries always experience higher rates of economic growth than resource-poor countries",
-      "Natural resource revenues consistently lead to equitable income distribution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a two-sector Keynesian model, if the marginal propensity to consume (MPC) is 0.75, the value of the government spending multiplier is:",
-    "options": [
-      "0.75",
-      "1.33",
-      "4",
-      "3"
+      "No change in the price level",
+      "A decrease in the level of unemployment",
+      "An increase in the price level",
+      "A decrease in the price level"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which market structure characteristic best explains why an oligopolist's demand curve is kinked at the prevailing price?",
+    "question": "According to the Phillips Curve, there is a trade-off between inflation and unemployment. Which of the following is a consequence of a movement along the Phillips Curve?",
     "options": [
-      "Rivals will match price increases but not price decreases, creating elastic demand above and inelastic demand below the current price",
-      "Rivals match both price increases and decreases making demand perfectly elastic",
-      "Rivals will match price decreases but not price increases, creating inelastic demand above and elastic demand below the current price",
-      "The government regulates prices above and below the kink point"
+      "No change in the inflation rate",
+      "A change in the unemployment rate",
+      "A change in the interest rate",
+      "A change in the inflation rate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of the Mundell-Fleming model suggests that there are three types of exchange rate regimes: fixed, floating, and managed. Which of the following is a consequence of a floating exchange rate?",
+    "options": [
+      "A country may experience a loss of control over the exchange rate",
+      "A country may experience an increase in international trade",
+      "A country may experience an increase in economic growth",
+      "A country may experience a decrease in inflation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A perfectly competitive market is characterized by a homogeneous product, free entry and exit, and perfect knowledge among buyers and sellers. Which of the following is a consequence of the firm's decision to produce in a perfectly competitive market?",
+    "options": [
+      "The firm will produce at the maximum possible quantity.",
+      "The firm will produce at the point where P=MC.",
+      "The firm will produce no quantity at all.",
+      "The firm will produce at the point where MR = MC."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The concept of the Mundell-Fleming model suggests that there are three types of exchange rate regimes: fixed, floating, and managed. Which of the following is a benefit of a floating exchange rate?",
+    "options": [
+      "It can help to increase international trade",
+      "It can help to decrease exchange rate flexibility",
+      "It can help to increase exchange rate flexibility",
+      "It can help to decrease economic growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Human Development Index (HDI) as used by the UNDP combines which three dimensions to measure development?",
+    "question": "A country's unemployment rate is the percentage of the labor force that is unemployed. Which of the following is a reason for cyclical unemployment?",
     "options": [
-      "GDP per capita, literacy rate, and infant mortality rate",
-      "Life expectancy, education, and GNI per capita adjusted for purchasing power",
-      "Real GDP growth, income inequality measured by the Gini coefficient, and access to healthcare",
-      "Poverty rate, employment rate, and access to clean water"
+      "A decrease in the labor force",
+      "An increase in aggregate demand",
+      "An increase in the labor force",
+      "A decrease in aggregate demand"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The money multiplier is the reciprocal of the money multiplier formula, which is (1/RC). Which of the following is an effect of an increase in the money multiplier?",
+    "options": [
+      "No change in the money supply",
+      "A decrease in the money supply",
+      "An increase in the money supply",
+      "A decrease in the interest rate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A fixed exchange rate is a system in which the exchange rate is fixed by the government. Which of the following is a consequence of a fixed exchange rate?",
+    "options": [
+      "A country may experience a decrease in inflation",
+      "A country may experience an increase in international trade",
+      "A country may experience an increase in economic growth",
+      "A country may experience a loss of monetary policy independence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's national income can be calculated using the expenditure approach, which is the sum of consumption, investment, government spending, and net exports. Which of the following is an example of an autonomous component of aggregate demand?",
+    "options": [
+      "Net exports",
+      "Private consumption",
+      "Investment in new capital goods",
+      "Government spending"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's economic development can be measured using the Human Development Index (HDI), which takes into account life expectancy, literacy rate, and GDP per capita. Which of the following is a limitation of the HDI?",
+    "options": [
+      "It does not account for infant mortality rates",
+      "It does not account for income inequality",
+      "It does not account for poverty rates",
+      "It does not account for access to education"
     ],
     "correctIndex": 1
   }

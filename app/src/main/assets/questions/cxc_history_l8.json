@@ -1,153 +1,92 @@
 [
   {
-    "question": "Which European country was the first to establish a permanent settlement in the Caribbean?",
+    "question": "What was the name of the system of governance in which the British monarch served as the head of state, but the Prime Minister held actual power?",
     "options": [
-      "England",
-      "Spain",
-      "France",
-      "Portugal"
+      "Constitutional monarchy",
+      "Absolute monarchy",
+      "Theocracy",
+      "Oligarchy"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "The encomienda system in the Spanish Caribbean was primarily designed to:",
+    "question": "The CARICOM Single Market and Economy (CSME) was established in 2006 to",
     "options": [
-      "Encourage free trade among colonists",
-      "Grant Spanish settlers the right to use indigenous labour",
-      "Establish Catholic missions for converting Africans",
-      "Distribute land equally among European settlers"
+      "Establish a single government for member states",
+      "Promote economic isolation and competition among member states",
+      "Restrict trade and commerce among member states",
+      "Promote economic integration and cooperation among member states"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What was the main economic activity that drove the demand for enslaved Africans in the Caribbean during the 17th and 18th centuries?",
-    "options": [
-      "Gold mining",
-      "Tobacco farming",
-      "Sugar production",
-      "Cotton cultivation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Middle Passage refers to:",
-    "options": [
-      "The trade route between Europe and Asia",
-      "The journey of enslaved Africans from Africa to the Americas",
-      "The path taken by Columbus on his first voyage",
-      "The route used to transport sugar from the Caribbean to Europe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Caribbean island was known as the 'Pearl of the Antilles' due to its great wealth from sugar production?",
-    "options": [
-      "Jamaica",
-      "Barbados",
-      "Haiti (Saint-Domingue)",
-      "Trinidad"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Haitian Revolution of 1791 to 1804 is historically significant because it:",
-    "options": [
-      "Was the first successful revolt led by indentured workers",
-      "Resulted in Haiti becoming a British colony",
-      "Was the only successful slave revolution that led to an independent nation",
-      "Ended the transatlantic slave trade permanently"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What was the primary purpose of the Crown Colony system of government introduced in many British Caribbean territories?",
-    "options": [
-      "To give more power to the local planter class",
-      "To allow universal adult suffrage",
-      "To increase British Crown control over colonial administration",
-      "To promote federation among Caribbean islands"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Morant Bay Rebellion of 1865 in Jamaica was led by:",
-    "options": [
-      "Toussaint L'Ouverture",
-      "Paul Bogle",
-      "Marcus Garvey",
-      "Sam Sharpe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Indentured labourers brought to the Caribbean after emancipation came predominantly from which country?",
-    "options": [
-      "China",
-      "West Africa",
-      "India",
-      "Portugal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What was the significance of the Emancipation Act of 1833?",
-    "options": [
-      "It immediately freed all enslaved people in the British Empire",
-      "It abolished the transatlantic slave trade",
-      "It granted freedom to enslaved people after an apprenticeship period",
-      "It gave formerly enslaved people the right to vote"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organisation was founded by Marcus Garvey to promote Black nationalism and economic self-sufficiency?",
-    "options": [
-      "The Caribbean Labour Congress",
-      "The Universal Negro Improvement Association",
-      "The Pan-African Federation",
-      "The West Indian National Party"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The 1937 and 1938 labour disturbances across the British Caribbean were mainly caused by:",
-    "options": [
-      "Disagreements over federation plans",
-      "Poor wages, unemployment, and harsh working conditions",
-      "Protests against indentureship",
-      "Resistance to new immigration policies"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "function": "placeholder",
-    "question": "The West Indies Federation, established in 1958, collapsed primarily because of:",
-    "options": [
-      "External pressure from the United States",
-      "Disagreements over freedom of movement and federal taxation among member states",
-      "Opposition from the United Nations",
-      "A major economic recession that affected all member states"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following leaders was most closely associated with the independence movement in Trinidad and Tobago?",
+    "question": "The People's National Party (PNP) in Jamaica was founded in 1938 by",
     "options": [
       "Norman Manley",
-      "Grantley Adams",
-      "Eric Williams",
-      "Alexander Bustamante"
+      "Adlai Stevenson",
+      "Alexander Bustamante",
+      "Marcus Garvey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following was a major factor that contributed to the growth of socialism in the Caribbean during the mid-20th century?",
+    "options": [
+      "Growing economic inequality and poverty",
+      "Growing sense of racial superiority",
+      "Growing sense of colonial loyalty",
+      "Growing economic prosperity and equality"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The British government passed the Jamaica Constitution Act in 1866, which granted",
+    "options": [
+      "Full independence to Jamaica",
+      "Restriction of the franchise to fewer Jamaicans",
+      "Expansion of the franchise to more Jamaicans",
+      "Limited self-government to Jamaica"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following was a major consequence of the Haitian Revolution on the institution of slavery in the Caribbean?",
+    "options": [
+      "The Haitian Revolution led to an increase in the use of slave codes to control enslaved populations",
+      "The Haitian Revolution had no significant impact on the institution of slavery in the Caribbean",
+      "The Haitian Revolution resulted in the abolition of slavery in all Caribbean colonies",
+      "The Haitian Revolution contributed to the decline of the slave trade and led to increased calls for emancipation in other Caribbean colonies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following was a major consequence of the COVID-19 pandemic in the Caribbean?",
+    "options": [
+      "Improved economic growth and increased prosperity",
+      "Failing to restrict trade and commerce",
+      "Decimated tourism and economic growth",
+      "Establishment of a single currency"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The CARICOM organisation, established in 1973, replaced which earlier regional body?",
+    "question": "The Caribbean Community (CARICOM) has its headquarters in",
     "options": [
-      "The West Indies Federation",
-      "CARIFTA",
-      "The Caribbean Development Bank",
-      "The British Caribbean Federation"
+      "Kingston, Jamaica",
+      "Georgetown, Guyana",
+      "Port of Spain, Trinidad and Tobago",
+      "Castries, St. Lucia"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following was a major factor that contributed to the growth of environmentalism in the Caribbean during the late 20th century?",
+    "options": [
+      "Growing awareness of the importance of globalization",
+      "Growing awareness of the importance of colonialism",
+      "Growing awareness of the importance of conservation",
+      "Growing awareness of the importance of imperialism"
+    ],
+    "correctIndex": 2
   }
 ]

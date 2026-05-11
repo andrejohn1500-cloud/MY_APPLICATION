@@ -1,151 +1,81 @@
 [
   {
-    "question": "Which nutrient is the main source of energy for the body?",
+    "question": "Which of the following is a characteristic of a healthy diet?",
     "options": [
-      "Protein",
-      "Carbohydrates",
-      "Vitamins",
-      "Minerals"
+      "High in sugar and fat",
+      "Limited in nutrients",
+      "High in calories",
+      "Variety and balance"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which vitamin is produced by the body when skin is exposed to sunlight?",
+    "question": "What is the name of the method of food preservation that involves heating food to a high temperature and then sealing it in a container?",
     "options": [
-      "Vitamin A",
-      "Vitamin C",
-      "Vitamin D",
-      "Vitamin K"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which the body breaks down food into nutrients?",
-    "options": [
-      "Absorption",
-      "Digestion",
-      "Metabolism",
-      "Excretion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which food group provides the body with calcium for strong bones and teeth?",
-    "options": [
-      "Fruits and vegetables",
-      "Fats and oils",
-      "Dairy products",
-      "Grains and cereals"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a complete protein source?",
-    "options": [
-      "Rice",
-      "Eggs",
-      "Bread",
-      "Carrots"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does BMI stand for?",
-    "options": [
-      "Body Mass Index",
-      "Body Muscle Indicator",
-      "Basic Metabolic Index",
-      "Body Mineral Intake"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which method of cooking uses dry heat in an enclosed space?",
-    "options": [
-      "Boiling",
-      "Steaming",
-      "Baking",
-      "Poaching"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nutrient helps the body fight infections and heal wounds?",
-    "options": [
-      "Vitamin C",
-      "Vitamin D",
-      "Iron",
-      "Calcium"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the recommended daily number of glasses of water a person should drink?",
-    "options": [
-      "2-3 glasses",
-      "4-5 glasses",
-      "6-8 glasses",
-      "10-12 glasses"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a fat-soluble vitamin?",
-    "options": [
-      "Vitamin C",
-      "Vitamin B12",
-      "Vitamin A",
-      "Vitamin B6"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of carbohydrate is found in fruits and provides natural sweetness?",
-    "options": [
-      "Starch",
-      "Cellulose",
-      "Fructose",
-      "Lactose"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which food preservation method involves adding salt to food?",
-    "options": [
-      "Canning",
+      "Dehydration",
+      "Refrigeration",
       "Freezing",
-      "Curing",
-      "Pasteurization"
+      "Canning"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the function of dietary fibre in the body?",
+    "question": "What is the name of the method of food preservation that involves using salt to prevent bacterial growth?",
     "options": [
-      "Builds muscles",
-      "Provides energy",
-      "Aids digestion and prevents constipation",
-      "Strengthens bones"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is NOT a function of protein in the body?",
-    "options": [
-      "Growth and repair",
-      "Energy storage as fat",
-      "Producing enzymes",
-      "Building body tissues"
+      "Dehydration",
+      "Salting",
+      "Refrigeration",
+      "Freezing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What temperature range is known as the food danger zone where bacteria multiply rapidly?",
+    "question": "What is the name of the process by which food is ground into a smooth mass?",
     "options": [
-      "0\u00b0C - 10\u00b0C",
-      "5\u00b0C - 63\u00b0C",
-      "70\u00b0C - 100\u00b0C",
-      "100\u00b0C - 150\u00b0C"
+      "Mashing",
+      "Pureeing",
+      "Chopping",
+      "Mincing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in whole grains?",
+    "options": [
+      "Providing energy",
+      "Providing essential nutrients",
+      "Increasing the risk of chronic diseases",
+      "Reducing the risk of chronic diseases"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of eating a diet high in fiber?",
+    "options": [
+      "Providing essential nutrients",
+      "Providing energy",
+      "Increasing the risk of chronic diseases",
+      "Reducing the risk of chronic diseases"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the method of food preservation that involves using heat to kill bacteria?",
+    "options": [
+      "Refrigeration",
+      "Freezing",
+      "Pasteurization",
+      "Canning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a benefit of eating a variety of fruits and vegetables?",
+    "options": [
+      "Providing essential nutrients",
+      "Reducing the risk of chronic diseases",
+      "Increasing the risk of chronic diseases",
+      "Providing energy"
     ],
     "correctIndex": 1
   }

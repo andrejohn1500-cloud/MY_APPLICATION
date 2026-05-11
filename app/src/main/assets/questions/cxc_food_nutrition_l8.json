@@ -1,152 +1,92 @@
 [
   {
-    "question": "Which nutrient is primarily responsible for building and repairing body tissues?",
+    "question": "According to the Food Guide Pyramid, how many servings of fats and oils should a person consume daily?",
     "options": [
-      "Carbohydrates",
-      "Proteins",
-      "Vitamins",
-      "Minerals"
+      "3-4 servings",
+      "1-2 servings",
+      "4-5 servings",
+      "2-3 servings"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Food Guide Pyramid, how many servings of dairy and alternatives should a person consume daily?",
+    "options": [
+      "3-4 servings",
+      "4-5 servings",
+      "2-3 servings",
+      "1-2 servings"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food group provides a rich source of protein?",
+    "options": [
+      "Protein-rich foods",
+      "Grains",
+      "Fruits and vegetables",
+      "Dairy and alternatives"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary purpose of pasteurization in food preservation?",
+    "options": [
+      "Preserving color and texture",
+      "Reducing acidity",
+      "Extending shelf life",
+      "Killing harmful bacteria"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Food Guide Pyramid, how many servings of protein-rich foods should a person consume daily?",
+    "options": [
+      "1-2 servings",
+      "2-3 servings",
+      "4-5 servings",
+      "3-4 servings"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a good source of Vitamin C?",
+    "question": "Which nutrient is primarily responsible for the maintenance of healthy bones and teeth?",
     "options": [
-      "Rice",
-      "Butter",
-      "Oranges",
-      "Chicken"
+      "Iron",
+      "Protein",
+      "Vitamin D",
+      "Calcium"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "The process by which green plants make their own food using sunlight is called:",
-    "options": [
-      "Respiration",
-      "Fermentation",
-      "Photosynthesis",
-      "Digestion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cooking method involves surrounding food with dry heat in an enclosed space?",
+    "question": "What is the term for the process of cooking food in a sealed container using high heat?",
     "options": [
       "Boiling",
+      "Roasting",
       "Steaming",
-      "Baking",
-      "Frying"
+      "Grilling"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is classified as a complete protein?",
+    "question": "What is the primary purpose of refrigeration in food preservation?",
     "options": [
-      "Rice",
-      "Lentils",
-      "Eggs",
-      "Bread"
+      "Reducing acidity",
+      "Preserving color and texture",
+      "Preventing bacterial growth and spoilage",
+      "Extending shelf life"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The Body Mass Index (BMI) is calculated using which two measurements?",
+    "question": "What is the term for the practice of preserving food by removing moisture from the food?",
     "options": [
-      "Age and height",
-      "Weight and height",
-      "Age and weight",
-      "Waist and hip circumference"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mineral is essential for the formation of red blood cells?",
-    "options": [
-      "Calcium",
-      "Iodine",
-      "Iron",
-      "Phosphorus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Kwashiorkor is a deficiency disease caused by lack of:",
-    "options": [
-      "Carbohydrates",
-      "Vitamin A",
-      "Protein",
-      "Iron"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which food preservation method uses salt or sugar to prevent microbial growth?",
-    "options": [
-      "Refrigeration",
+      "Freezing",
+      "Pickling",
       "Canning",
-      "Curing",
-      "Blanching"
+      "Dehydrating"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Dietary Reference Values (DRVs) are used to:",
-    "options": [
-      "Measure the quality of food",
-      "Plan and assess diets of population groups",
-      "Determine food prices",
-      "Calculate food energy only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a fat-soluble vitamin?",
-    "options": [
-      "Vitamin C",
-      "Vitamin B12",
-      "Vitamin D",
-      "Vitamin B1"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of carbohydrate cannot be digested by the human body but aids in bowel movement?",
-    "options": [
-      "Starch",
-      "Glucose",
-      "Dietary fibre",
-      "Sucrose"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When planning meals for a lacto-vegetarian, which food would be excluded?",
-    "options": [
-      "Milk",
-      "Cheese",
-      "Fish",
-      "Yogurt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which food safety temperature range is known as the 'danger zone' for bacterial growth?",
-    "options": [
-      "0\u00b0C to 5\u00b0C",
-      "5\u00b0C to 63\u00b0C",
-      "63\u00b0C to 75\u00b0C",
-      "75\u00b0C to 100\u00b0C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes an emulsifier?",
-    "options": [
-      "A substance that speeds up chemical reactions in food",
-      "A substance that helps oil and water mix together",
-      "A substance that adds colour to food",
-      "A substance that prevents food from spoiling"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

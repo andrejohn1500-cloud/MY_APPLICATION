@@ -1,151 +1,151 @@
 [
   {
-    "question": "Choisissez la forme correcte du subjonctif dans la phrase suivante : Il faut que nous _____ partir avant minuit.",
+    "question": "Quelle est la forme n\u00e9gative de la phrase 'J'ai une s\u0153ur' ?",
     "options": [
-      "devons",
-      "devions",
-      "devrons",
-      "devrions"
+      "J'ai une s\u0153ur",
+      "J'ai un fr\u00e8re",
+      "J'ai un oncle",
+      "J'ai pas de s\u0153ur"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quelle est la forme interrogative de la phrase 'Je suis \u00e9tudiante' ?",
+    "options": [
+      "Soyez-vous enseignante ?",
+      "Soyez-vous administratrice ?",
+      "Soyez-vous polici\u00e8re ?",
+      "Soyez-vous \u00e9tudiante ?"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quelle est la forme interrogative de la phrase 'Je suis administrateur(e)' ?",
+    "options": [
+      "Soyez-vous \u00e9tudiant(e) ?",
+      "Soyez-vous administrateur(e) ?",
+      "Soyez-vous policier(e) ?",
+      "Soyez-vous enseignant(e) ?"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Quelle est la traduction correcte de 'despite having worked all day, she was not tired'?",
+    "question": "Quelle est la forme interrogative de la phrase 'Je suis enseignant(e)' ?",
     "options": [
-      "Malgr\u00e9 avoir travaill\u00e9 toute la journ\u00e9e, elle n'\u00e9tait pas fatigu\u00e9e.",
-      "Bien qu'elle avait travaill\u00e9 toute la journ\u00e9e, elle n'\u00e9tait pas fatigu\u00e9e.",
-      "Bien qu'elle ait travaill\u00e9 toute la journ\u00e9e, elle n'\u00e9tait pas fatigu\u00e9e.",
-      "Quoique elle travaillait toute la journ\u00e9e, elle n'\u00e9tait pas fatigu\u00e9e."
+      "Soyez-vous administrateur(e) ?",
+      "Soyez-vous \u00e9tudiant(e) ?",
+      "Soyez-vous enseignant(e) ?",
+      "Soyez-vous policier(e) ?"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Identifiez la phrase qui utilise correctement le conditionnel pass\u00e9.",
+    "question": "Quel est le nom du c\u00e9l\u00e8bre historien fran\u00e7ais ?",
     "options": [
-      "Si j'aurais su, je serais venu plus t\u00f4t.",
-      "Si j'avais su, je serai venu plus t\u00f4t.",
-      "Si j'avais su, je serais venu plus t\u00f4t.",
-      "Si je savais, je serais venu plus t\u00f4t."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Dans la phrase 'Les livres dont tu m'as parl\u00e9 sont \u00e9puis\u00e9s', que remplace le pronom relatif 'dont'?",
-    "options": [
-      "les livres",
-      "de ces livres",
-      "tu m'as parl\u00e9",
-      "sont \u00e9puis\u00e9s"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Laquelle de ces phrases utilise correctement le plus-que-parfait?",
-    "options": [
-      "Elle avait d\u00e9j\u00e0 mang\u00e9 quand il arriva.",
-      "Elle a d\u00e9j\u00e0 mang\u00e9 quand il arrivait.",
-      "Elle avait d\u00e9j\u00e0 manger quand il arriva.",
-      "Elle \u00e9tait d\u00e9j\u00e0 mang\u00e9 quand il arriva."
+      "Jacques Le Goff",
+      "Marc Bloch",
+      "Alphonse Dupront",
+      "Pierre Nora"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Choisissez la r\u00e9ponse correcte pour compl\u00e9ter la phrase avec le bon pronom d'objet indirect : Je _____ ai expliqu\u00e9 la situation hier.",
+    "question": "Quel est le nom du po\u00e8te qui a \u00e9crit 'Les Illuminations' ?",
     "options": [
-      "le",
-      "la",
-      "lui",
-      "y"
+      "Verlaine",
+      "Hugo",
+      "Villon",
+      "Baudelaire"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Quelle phrase exprime correctement la voix passive au pass\u00e9 compos\u00e9?",
+    "question": "Quel est le nom du c\u00e9l\u00e8bre philosophe fran\u00e7ais ?",
     "options": [
-      "Le rapport a \u00e9t\u00e9 \u00e9crit par le directeur.",
-      "Le rapport \u00e9tait \u00e9crit par le directeur.",
-      "Le rapport a \u00e9crit par le directeur.",
-      "Le rapport fut \u00e9crit par le directeur hier."
+      "Maurice Merleau-Ponty",
+      "Gabriel Marcel",
+      "Martin Heidegger",
+      "Jean-Paul Sartre"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Quel mot compl\u00e8te correctement la phrase : C'est le meilleur film _____ j'aie jamais vu.",
+    "question": "Quelle est la diff\u00e9rence principale entre le 'plus-que-parfait' et le 'pass\u00e9 simple' ?",
     "options": [
-      "qui",
-      "que",
-      "dont",
-      "lequel"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Identifiez la phrase qui contient une erreur d'accord du participe pass\u00e9.",
-    "options": [
-      "Les lettres qu'il a \u00e9crites sont longues.",
-      "Elle s'est lav\u00e9e les mains.",
-      "Les filles sont arriv\u00e9es en retard.",
-      "Nous nous sommes parl\u00e9 pendant des heures."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Compl\u00e9tez la phrase avec la pr\u00e9position correcte : Elle r\u00eave _____ devenir m\u00e9decin depuis l'enfance.",
-    "options": [
-      "\u00e0",
-      "de",
-      "pour",
-      "en"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Laquelle de ces phrases utilise correctement le discours indirect?",
-    "options": [
-      "Il a dit qu'il viendra demain.",
-      "Il a dit qu'il viendrait le lendemain.",
-      "Il a dit qu'il est venu le lendemain.",
-      "Il a dit qu'il venait demain."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quel est le sens de l'expression idiomatique 'avoir le cafard'?",
-    "options": [
-      "\u00catre tr\u00e8s occup\u00e9",
-      "Avoir peur des insectes",
-      "Se sentir d\u00e9prim\u00e9 ou m\u00e9lancolique",
-      "\u00catre en bonne sant\u00e9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Dans quel cas emploie-t-on 'lequel' plut\u00f4t que 'qui' comme pronom relatif?",
-    "options": [
-      "Quand le pronom repr\u00e9sente une personne sujet",
-      "Quand le pronom suit une pr\u00e9position et repr\u00e9sente une chose",
-      "Quand le pronom repr\u00e9sente le compl\u00e9ment d'objet direct",
-      "Quand le pronom suit le verbe \u00eatre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choisissez la forme verbale correcte : Quoi qu'il _____, nous resterons ensemble.",
-    "options": [
-      "arrive",
-      "arrivera",
-      "arriverait",
-      "soit arriv\u00e9"
+      "Le moment de l'action",
+      "Le temps de l'action",
+      "Le lieu de l'action",
+      "Le sujet de l'action"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Quelle phrase illustre correctement l'emploi du g\u00e9rondif pour exprimer la simultan\u00e9it\u00e9?",
+    "question": "En quelle situation est-il pr\u00e9f\u00e9rable d'utiliser l'imp\u00e9ratif ?",
     "options": [
-      "Il a appris le fran\u00e7ais en vivant \u00e0 Paris.",
-      "Il apprenait le fran\u00e7ais pendant vivre \u00e0 Paris.",
-      "Il a appris le fran\u00e7ais en vivant \u00e0 Paris et il \u00e9tait heureux.",
-      "En avoir v\u00e9cu \u00e0 Paris, il a appris le fran\u00e7ais."
+      "Quand on d\u00e9crit un paysage",
+      "Quand on raconte une histoire",
+      "Quand on donne des ordres ou des conseils",
+      "Quand on discute d'une id\u00e9e"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La description d'un paysage utilisant les verbes 'voir', 'entendre' et 'sentir' est un exemple de laquelle de ces figures de style ?",
+    "options": [
+      "Les all\u00e9gories",
+      "Les m\u00e9taphores",
+      "Les hyperboles",
+      "Les \u00e9pith\u00e8tes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quelle est la forme n\u00e9gative de la phrase 'J'ai un chat' ?",
+    "options": [
+      "J'ai un chat",
+      "J'ai un chien",
+      "J'ai un oiseau",
+      "J'ai pas de chat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "En fran\u00e7ais, le choix de l'article d\u00e9fini ou ind\u00e9fini d\u00e9pend duquel de ces facteurs ?",
+    "options": [
+      "La nature de l'objet",
+      "La quantit\u00e9 de l'objet",
+      "La proximit\u00e9 de l'objet",
+      "L'ant\u00e9riorit\u00e9 ou la post\u00e9riorit\u00e9 de l'objet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quelle est la traduction de 'La femme est gentille' en fran\u00e7ais ?",
+    "options": [
+      "La femme est injuste",
+      "La femme est m\u00e9chante",
+      "La femme est cruelle",
+      "La femme est gentille"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quelle est la forme interrogative de la phrase 'Je suis policier(e)' ?",
+    "options": [
+      "Soyez-vous policier(e) ?",
+      "Soyez-vous enseignant(e) ?",
+      "Soyez-vous administrateur(e) ?",
+      "Soyez-vous \u00e9tudiant(e) ?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quel est le nom du c\u00e9l\u00e8bre compositeur fran\u00e7ais ?",
+    "options": [
+      "Claude Debussy",
+      "\u00c9rik Satie",
+      "Darius Milhaud",
+      "Maurice Ravel"
     ],
     "correctIndex": 0
   }
