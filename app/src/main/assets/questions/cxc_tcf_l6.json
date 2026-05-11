@@ -1,202 +1,152 @@
 [
   {
-    "question": "Which tool is used to transfer pattern markings to fabric?",
+    "question": "The modulus of elasticity of a material is 200 GPa. What does this indicate?",
     "options": [
-      "Tracing wheel",
-      "Coco Chanel",
-      "Equal distribution of visual weight",
-      "Extra room added for comfort and movement"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which fabric is made from the hair of the Angora goat?",
-    "options": [
-      "Mohair",
-      "Spinning",
-      "Silk",
-      "Cotton"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which fabric requires dry cleaning only?",
-    "options": [
-      "Creating a focal point or centre of interest",
-      "Silk",
-      "Seam roll",
-      "An opening in a garment that allows it to be put on and taken off"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is negative ease in a garment?",
-    "options": [
-      "A sleeve that extends to the collar without a shoulder seam",
-      "Threads running lengthwise on the loom",
-      "Twill weave",
-      "When the garment is smaller than the body measurement"
+      "Low Density",
+      "Low Stiffness",
+      "High Hardness",
+      "High Stiffness"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does emphasis in design mean?",
+    "question": "A gear has a pitch circle diameter of 300 mm and a pressure angle of 25\u00b0. What is its dedendum?",
     "options": [
-      "Red, yellow and blue",
-      "Equal distribution of visual weight",
-      "A triangular piece of fabric that adds fullness",
-      "Creating a focal point or centre of interest"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which fabric characteristic refers to how it drapes?",
-    "options": [
-      "A process to prevent shrinkage in cotton fabric",
-      "A triangle with a cross",
-      "Hand or drape",
-      "Measuring tape"
+      "10 mm",
+      "5 mm",
+      "7.5 mm",
+      "15 mm"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is smocking?",
+    "question": "What is the term for the resistance of a material to deformation under stress?",
     "options": [
-      "The extra fabric between the seam line and the cut edge",
-      "A decorative technique that gathers fabric in a pattern",
-      "A symbol or name that identifies a brand",
-      "Plain weave"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fabric care symbol means do not bleach?",
-    "options": [
-      "Waterproofing",
-      "Hand or drape",
-      "An opening in a garment that allows it to be put on and taken off",
-      "A triangle with a cross"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which fibre absorbs moisture and wicks it away?",
-    "options": [
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Ready to wear",
-      "Coco Chanel",
-      "Bamboo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which designer created the little black dress?",
-    "options": [
-      "Ready to wear",
-      "To add structure and support to fabric",
-      "Coco Chanel",
-      "Creating a focal point or centre of interest"
+      "Toughness",
+      "Density",
+      "Stiffness",
+      "Hardness"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What temperature does a hot iron setting reach?",
+    "question": "The modulus of elasticity of a material is 200 GPa. What does this indicate?",
     "options": [
-      "Seam gauge",
-      "A single design unit that can be repeated",
-      "Silkworm",
-      "210 degrees Celsius"
+      "High Hardness",
+      "Low Density",
+      "High Stiffness",
+      "Low Stiffness"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "Which principle of design refers to the repetition of elements?",
+    "question": "What is the term for the process of removing the surface layer of a material using a sharp tool?",
     "options": [
-      "When the garment is smaller than the body measurement",
-      "Rhythm",
-      "Waterproofing",
-      "Hand or drape"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a pattern in sewing?",
-    "options": [
-      "A triangular piece of fabric that adds fullness",
-      "A template used to cut fabric pieces",
-      "Tracing wheel",
-      "Threads running crosswise on the loom"
+      "Polishing",
+      "Drilling",
+      "Grinding",
+      "Tapping"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is haute couture?",
+    "question": "A technical drawing sheet size of A1 is equivalent to a sheet size of 840 x 1180 mm. What is the approximate sheet size of A2?",
     "options": [
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Seam gauge",
-      "Box pleat",
-      "High-end custom-fitted fashion made by leading designers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which stitch is used for attaching elastic?",
-    "options": [
-      "Nylon",
-      "Zigzag stitch",
-      "The finished edge that prevents fraying",
-      "Cotton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tool is used to measure fabric?",
-    "options": [
-      "Threads running lengthwise on the loom",
-      "Silkworm",
-      "Silk",
-      "Measuring tape"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a gore in garment construction?",
-    "options": [
-      "A triangular piece of fabric that adds fullness",
-      "A decorative technique that gathers fabric in a pattern",
-      "Seam roll",
-      "Silkworm"
+      "860 x 1180 mm",
+      "840 x 600 mm",
+      "840 x 1180 mm",
+      "840 x 1180 mm"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of pleat faces away from the centre?",
+    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 45\u00b0 incline?",
     "options": [
-      "Plain weave",
-      "Nylon",
-      "Viscose/Rayon",
-      "Box pleat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the principle of balance in design?",
-    "options": [
-      "Spinning",
-      "Cotton",
-      "Equal distribution of visual weight",
-      "A small collection of versatile, timeless clothing"
+      "150 N",
+      "100 N",
+      "70.7 N",
+      "50 N"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which fabric is most absorbent?",
+    "question": "What is the term for the process of joining two metal pieces by melting and flowing?",
     "options": [
-      "Wool",
-      "An opening in a garment that allows it to be put on and taken off",
-      "The direction of the threads in the fabric",
-      "Cotton"
+      "Brazing",
+      "Soldering",
+      "Fusion",
+      "Welding"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "A gear has a pitch circle diameter of 300 mm and a pressure angle of 20\u00b0. What is its dedendum?",
+    "options": [
+      "6 mm",
+      "4 mm",
+      "10 mm",
+      "8 mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A gear has a pitch circle diameter of 200 mm and a pressure angle of 20\u00b0. What is its clearance?",
+    "options": [
+      "1.5 mm",
+      "2 mm",
+      "4 mm",
+      "3 mm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A material has a tensile strength of 500 MPa and a yield strength of 300 MPa. What is its factor of safety?",
+    "options": [
+      "2.00",
+      "1.33",
+      "1.67",
+      "3.00"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A concrete mix has a water-cement ratio of 0.6. What does this indicate?",
+    "options": [
+      "High Workability",
+      "Low Workability",
+      "Poor Workability",
+      "Good Workability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A building has a height of 5 stories, each with a floor area of 500 m^2. What is the total floor area?",
+    "options": [
+      "1,000 m^2",
+      "5,000 m^2",
+      "2,500 m^2",
+      "500 m^2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The modulus of rupture of a material is 100 MPa. What does this indicate?",
+    "options": [
+      "High Hardness",
+      "Low Strength",
+      "High Strength",
+      "Low Density"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A material has a tensile strength of 500 MPa and a yield strength of 300 MPa. What is its factor of safety?",
+    "options": [
+      "1.33",
+      "3.00",
+      "1.67",
+      "2.00"
+    ],
+    "correctIndex": 2
   }
 ]

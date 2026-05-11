@@ -1,202 +1,122 @@
 [
   {
-    "question": "What is a flat-felled seam used for?",
+    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to a single appliance?",
     "options": [
-      "When the garment is smaller than the body measurement",
-      "Australia",
-      "Strong visible seams in jeans and sportswear",
-      "Small balls of fibre that form on the surface"
+      "Ring Circuit",
+      "Wye Circuit",
+      "Radial Circuit",
+      "Delta Circuit"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is haute couture?",
+    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of years required for a school to offer a technical drawing course at the CXC level?",
     "options": [
-      "High-end custom-fitted fashion made by leading designers",
-      "The extra fabric between the seam line and the cut edge",
-      "Running stitch",
-      "Creating a focal point or centre of interest"
+      "5 years",
+      "6 years",
+      "3 years",
+      "4 years"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which stitch creates a decorative zigzag effect?",
+    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a mechanical fastener with a coarse thread?",
     "options": [
-      "Extra room added for comfort and movement",
-      "Blanket stitch",
-      "Linen",
-      "Velvet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a placket?",
-    "options": [
-      "Twill weave",
-      "Wool",
-      "Threads running crosswise on the loom",
-      "An opening in a garment that allows it to be put on and taken off"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does GSM stand for in fabric?",
-    "options": [
-      "A wax-resist dyeing technique applied to cloth",
-      "Equal distribution of visual weight",
-      "Grams per square metre",
-      "Twill weave"
+      "Welding",
+      "Bonding",
+      "Riveting",
+      "Soldering"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which fibre is naturally flame resistant?",
+    "question": "In electrical technology, what type of electrical circuit is used in a residential building to supply power to multiple light fixtures?",
     "options": [
-      "Tracing wheel",
-      "Wool",
-      "Grams per square metre",
-      "A folded and stitched edge of fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What temperature does a hot iron setting reach?",
-    "options": [
-      "The direction of the threads in the fabric",
-      "Fibres obtained from plants and animals",
-      "A folded and stitched edge of fabric",
-      "210 degrees Celsius"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which finishing process makes fabric water repellent?",
-    "options": [
-      "Threads running lengthwise on the loom",
-      "Waterproofing",
-      "Nylon",
-      "A template used to cut fabric pieces"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which country is known for producing fine wool?",
-    "options": [
-      "When the garment is smaller than the body measurement",
-      "Australia",
-      "Reactive dye",
-      "Button"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of pleat faces away from the centre?",
-    "options": [
-      "Box pleat",
-      "Zigzag stitch",
-      "A triangular piece of fabric that adds fullness",
-      "An opening in a garment that allows it to be put on and taken off"
+      "Polyphase Circuit",
+      "Delta Circuit",
+      "Single-Phase Circuit",
+      "Three-Phase Circuit"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the bias of a fabric?",
+    "question": "In mechanical engineering, what is the term for the study of the behavior of fluids in motion with a high velocity?",
     "options": [
-      "Cotton",
-      "Box pleat",
-      "The diagonal direction at 45 degrees to the grain",
-      "A triangular piece of fabric that adds fullness"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of interfacing?",
-    "options": [
-      "To add structure and support to fabric",
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Fibres obtained from plants and animals",
-      "Cotton"
+      "Hydrodynamics",
+      "Thermodynamics",
+      "Electromagnetics",
+      "Pneumatics"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the term bias cut mean in fashion?",
+    "question": "According to the Caribbean vocational education syllabus, what is the maximum number of students required for a school to offer a technical drawing course at the CXC level?",
     "options": [
-      "Texture",
-      "Cutting fabric diagonally across the grain",
-      "Victorian era",
-      "Felt"
+      "18 students",
+      "20 students",
+      "22 students",
+      "15 students"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a blended fabric?",
+    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under compressive stress?",
     "options": [
-      "To add structure and support to fabric",
-      "A sleeve that extends to the collar without a shoulder seam",
-      "A visual collage that communicates design concepts",
-      "A fabric made from two or more different fibres"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is batik?",
-    "options": [
-      "Measuring tape",
-      "Reactive dye",
-      "Texture",
-      "A wax-resist dyeing technique applied to cloth"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which tool is used to open seams when pressing?",
-    "options": [
-      "A triangular piece of fabric that adds fullness",
-      "Seam roll",
-      "Cotton",
-      "Cutting fabric diagonally across the grain"
+      "Shear Strength",
+      "Compressive Strength",
+      "Flexural Strength",
+      "Tensile Strength"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which element of design refers to surface decoration?",
+    "question": "In construction technology, what is the term for the process of connecting two or more structural members together using a flexible fastener?",
     "options": [
-      "Waterproofing",
-      "Texture",
-      "Decorative fabric pieces sewn onto a base fabric",
-      "Washing instructions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is pilling on fabric?",
-    "options": [
-      "Calendering",
-      "Small balls of fibre that form on the surface",
-      "Box pleat",
-      "A measure of the fineness or thickness of yarn"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the grain of a fabric?",
-    "options": [
-      "Strong visible seams in jeans and sportswear",
-      "Reactive dye",
-      "The direction of the threads in the fabric",
-      "Swimwear and lingerie"
+      "Bonding",
+      "Welding",
+      "Ductile Fastening",
+      "Soldering"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which tool is used to press open seams?",
+    "question": "In materials science, what is the term for the property of a material that describes its ability to resist heat transfer?",
     "options": [
-      "A fabric made from two or more different fibres",
-      "Adjusting a pattern to a different size",
-      "Zigzag stitch",
-      "Iron and pressing cloth"
+      "Thermal Conductivity",
+      "Thermal Expansion",
+      "Latent Heat",
+      "Specific Heat Capacity"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
+  },
+  {
+    "question": "In construction technology, what is the term for the process of connecting two or more structural members together?",
+    "options": [
+      "Cutting",
+      "Splicing",
+      "Drilling",
+      "Welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the study of the behavior of fluids in motion?",
+    "options": [
+      "Electromagnetics",
+      "Pneumatics",
+      "Hydraulics",
+      "Thermodynamics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the study of the behavior of gases in motion?",
+    "options": [
+      "Thermodynamics",
+      "Pneumatics",
+      "Electromagnetics",
+      "Hydraulics"
+    ],
+    "correctIndex": 1
   }
 ]

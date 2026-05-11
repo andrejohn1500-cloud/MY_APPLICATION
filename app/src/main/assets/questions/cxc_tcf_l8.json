@@ -1,202 +1,92 @@
 [
   {
-    "question": "Which fastener uses interlocking teeth?",
+    "question": "A building has a height of 5 stories, each with a floor area of 1000 m^2. What is the total floor area?",
     "options": [
-      "Zip/zipper",
-      "A triangle with a cross",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "A wax-resist dyeing technique applied to cloth"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which colour scheme uses colours next to each other on the colour wheel?",
-    "options": [
-      "To press curved seams and shaped areas",
-      "Analogous",
-      "Threads running lengthwise on the loom",
-      "Victorian era"
+      "10,000 m^2",
+      "5,000 m^2",
+      "1,000 m^2",
+      "2,000 m^2"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is tie-dyeing?",
+    "question": "A gear has a pitch circle diameter of 200 mm and a pressure angle of 25\u00b0. What is its addendum?",
     "options": [
-      "Threads running crosswise on the loom",
-      "Screen printing",
-      "Tracing wheel",
-      "A method of dyeing fabric by tying sections to resist the dye"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is applique?",
-    "options": [
-      "Decorative fabric pieces sewn onto a base fabric",
-      "A decorative technique that gathers fabric in a pattern",
-      "Knitting",
-      "Extra room added for comfort and movement"
+      "8 mm",
+      "12 mm",
+      "5 mm",
+      "10 mm"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the process of making yarn from fibres called?",
+    "question": "A material has a density of 8 g/cm^3 and a volume of 100 cm^3. What is its mass?",
     "options": [
-      "Line",
-      "Equal distribution of visual weight",
-      "A small collection of versatile, timeless clothing",
-      "Spinning"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a motif in textile design?",
-    "options": [
-      "A single design unit that can be repeated",
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Ready to wear",
-      "Analogous"
+      "800 g",
+      "600 g",
+      "700 g",
+      "500 g"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is yarn count?",
+    "question": "A mechanical engineer is designing a gear system for a machine. The gear ratio is 3:1 and the input speed is 120 rpm. What is the output speed?",
     "options": [
-      "To add structure and support to fabric",
-      "A wax-resist dyeing technique applied to cloth",
-      "A measure of the fineness or thickness of yarn",
-      "Silk"
+      "60 rpm",
+      "80 rpm",
+      "120 rpm",
+      "40 rpm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A material has a tensile strength of 500 MPa and a compressive strength of 600 MPa. What is its factor of safety?",
+    "options": [
+      "1.50",
+      "2.00",
+      "1.25",
+      "1.00"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which printing method uses a mesh screen?",
+    "question": "A residential building is designed to withstand a wind load of 200 N/m2. What is the total wind load on one side of the building if it measures 20 m x 10 m?",
     "options": [
-      "Screen printing",
-      "A folded tuck to shape fabric to the body",
-      "Cotton",
-      "Plain weave"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the warp knit used for?",
-    "options": [
-      "Tracing wheel",
-      "Equal distribution of visual weight",
-      "Hand or drape",
-      "Swimwear and lingerie"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What temperature does a hot iron setting reach?",
-    "options": [
-      "210 degrees Celsius",
-      "To prevent curved edges from stretching",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Iron and pressing cloth"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a mood board in fashion design?",
-    "options": [
-      "A fibre made from chemicals",
-      "A visual collage that communicates design concepts",
-      "Nylon",
-      "Line"
+      "3000 N",
+      "4000 N",
+      "400 N",
+      "2000 N"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does GSM stand for in fabric?",
+    "question": "What is the term for the process of shaping a metal by hammering and shaping?",
     "options": [
-      "Mass-produced clothing in standard sizes",
-      "Polyester",
-      "Cotton",
-      "Grams per square metre"
+      "Brazing",
+      "Welding",
+      "Soldering",
+      "Forging"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which fabric construction method uses loops?",
+    "question": "What is the term for the process of removing the surface layer of a material using an abrasive?",
     "options": [
-      "Mohair",
-      "A decorative technique that gathers fabric in a pattern",
-      "Knitting",
-      "Swimwear and lingerie"
+      "Polishing",
+      "Drilling",
+      "Tapping",
+      "Grinding"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of combining two or more materials to produce a new material with improved properties?",
+    "options": [
+      "Mechanical Engineering",
+      "Workshop Technology",
+      "Material Science",
+      "Electrical Technology"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which stitch is used for hand sewing buttons?",
-    "options": [
-      "The diagonal direction at 45 degrees to the grain",
-      "Thread shank stitch",
-      "Australia",
-      "Cutting fabric diagonally across the grain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a tailor's ham?",
-    "options": [
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Box pleat",
-      "To press curved seams and shaped areas",
-      "Threads running lengthwise on the loom"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a capsule wardrobe?",
-    "options": [
-      "A measure of the fineness or thickness of yarn",
-      "To prevent curved edges from stretching",
-      "Zip/zipper",
-      "A small collection of versatile, timeless clothing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is negative ease in a garment?",
-    "options": [
-      "Bamboo",
-      "Twill weave",
-      "Measuring tape",
-      "When the garment is smaller than the body measurement"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a raglan sleeve?",
-    "options": [
-      "Red, yellow and blue",
-      "Cotton",
-      "Rhythm",
-      "A sleeve that extends to the collar without a shoulder seam"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is smocking?",
-    "options": [
-      "A fabric made from two or more different fibres",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "A decorative technique that gathers fabric in a pattern",
-      "Analogous"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a toile?",
-    "options": [
-      "Hand or drape",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Seam gauge",
-      "An opening in a garment that allows it to be put on and taken off"
-    ],
-    "correctIndex": 1
   }
 ]

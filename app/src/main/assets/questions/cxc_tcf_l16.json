@@ -1,202 +1,152 @@
 [
   {
-    "question": "What are the primary colours?",
+    "question": "In workshop technology, what is the term for the process of removing a workpiece from a lathe?",
     "options": [
-      "Red, yellow and blue",
-      "Twill weave",
-      "Cutting fabric diagonally across the grain",
-      "Adjusting a pattern to a different size"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is yarn count?",
-    "options": [
-      "Velvet",
-      "A measure of the fineness or thickness of yarn",
-      "A wax-resist dyeing technique applied to cloth",
-      "Creating a focal point or centre of interest"
+      "Facing",
+      "Parting Off",
+      "Turning",
+      "Knurling"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which fastener is sewn and requires a buttonhole?",
+    "question": "In mechanical engineering, what is the term for the study of the relationship between forces and motion?",
     "options": [
-      "A measure of the fineness or thickness of yarn",
-      "A triangular piece of fabric that adds fullness",
-      "Coco Chanel",
-      "Button"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the warp knit used for?",
-    "options": [
-      "Swimwear and lingerie",
-      "To add structure and support to fabric",
-      "Strong visible seams in jeans and sportswear",
-      "Viscose/Rayon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which stitch creates a decorative zigzag effect?",
-    "options": [
-      "Blanket stitch",
-      "Seam",
-      "Box pleat",
-      "A vertical seam from shoulder to hem that shapes the bodice"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of pleat faces away from the centre?",
-    "options": [
-      "Cotton",
-      "Box pleat",
-      "Adjusting a pattern to a different size",
-      "Cutting fabric diagonally across the grain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a natural fibre?",
-    "options": [
-      "Screen printing",
-      "Cotton",
-      "The diagonal direction at 45 degrees to the grain",
-      "A piece of fabric used to finish raw edges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre shrinks when washed in hot water?",
-    "options": [
-      "A fabric made from two or more different fibres",
-      "Victorian era",
-      "Reactive dye",
-      "Wool"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the process of making yarn from fibres called?",
-    "options": [
-      "Analogous",
-      "Strong visible seams in jeans and sportswear",
-      "Spinning",
-      "Wool"
+      "Dynamics",
+      "Statics",
+      "Kinetics",
+      "Kinematics"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which tool is used to open seams when pressing?",
+    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of teachers required for a school to offer a technical drawing course at the CXC level?",
     "options": [
-      "A process to prevent shrinkage in cotton fabric",
-      "Velvet",
-      "Swimwear and lingerie",
-      "Seam roll"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a toile?",
-    "options": [
-      "Spinning",
-      "A finishing process that increases the strength and lustre of cotton",
-      "A decorative technique that gathers fabric in a pattern",
-      "A test garment made in cheap fabric before cutting the final fabric"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which sewing technique prevents raw edges from fraying?",
-    "options": [
-      "Clothing produced with minimal environmental and social impact",
-      "Bamboo",
-      "Mass-produced clothing in standard sizes",
-      "Overcasting or serging"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the selvedge of a fabric?",
-    "options": [
-      "The finished edge that prevents fraying",
-      "Nylon",
-      "When the garment is smaller than the body measurement",
-      "Reactive dye"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which fabric is produced from wood pulp?",
-    "options": [
-      "Mass-produced clothing in standard sizes",
-      "Viscose/Rayon",
-      "Analogous",
-      "An opening in a garment that allows it to be put on and taken off"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre absorbs moisture and wicks it away?",
-    "options": [
-      "A measure of the fineness or thickness of yarn",
-      "Threads running lengthwise on the loom",
-      "A fibre made from chemicals",
-      "Bamboo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the tub symbol on a care label indicate?",
-    "options": [
-      "Thread shank stitch",
-      "A symbol or name that identifies a brand",
-      "Washing instructions",
-      "Seam roll"
+      "3 teachers",
+      "1 teacher",
+      "2 teachers",
+      "4 teachers"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a hem?",
+    "question": "In workshop technology, what is the term for the process of shaping a workpiece using a rotating cutting tool?",
     "options": [
-      "A folded and stitched edge of fabric",
-      "A method of dyeing fabric by tying sections to resist the dye",
-      "Zipper foot",
-      "Adjusting a pattern to a different size"
+      "Grinding",
+      "Turning",
+      "Drilling",
+      "Milling"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "What temperature does a hot iron setting reach?",
+    "question": "In workshop technology, what is the primary function of a lathe?",
     "options": [
-      "210 degrees Celsius",
-      "Button",
-      "A fibre made from chemicals",
-      "A triangle with a cross"
+      "Sawing",
+      "Milling",
+      "Drilling",
+      "Turning"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which finishing process makes fabric water repellent?",
+    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of hours required for a student to complete a technical drawing course at the CXC level?",
     "options": [
-      "Seam gauge",
-      "Nylon",
-      "Waterproofing",
-      "Equal distribution of visual weight"
+      "220 hours",
+      "200 hours",
+      "240 hours",
+      "180 hours"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is batik?",
+    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under stress?",
     "options": [
-      "A triangle with a cross",
-      "A wax-resist dyeing technique applied to cloth",
-      "Screen printing",
-      "A folded tuck to shape fabric to the body"
+      "Flexural Strength",
+      "Compressive Strength",
+      "Shear Strength",
+      "Tensile Strength"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In materials science, what is the term for the property of a material that describes its ability to resist deformation under impact loading?",
+    "options": [
+      "Compressive Strength",
+      "Impact Strength",
+      "Shear Strength",
+      "Tensile Strength"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "A mechanical engineer is designing a gear system for a machine. The gear ratio is 3:1 and the input torque is 150 Nm. What is the output torque?",
+    "options": [
+      "100 Nm",
+      "75 Nm",
+      "50 Nm",
+      "150 Nm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In mechanical engineering, what is the term for the study of the behavior of sound waves in a system?",
+    "options": [
+      "Hydraulics",
+      "Thermodynamics",
+      "Acoustics",
+      "Pneumatics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In construction technology, what is the term for the process of joining two or more structural members together using a binding agent?",
+    "options": [
+      "Bonding",
+      "Welding",
+      "Soldering",
+      "Splicing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In workshop technology, what is the term for the process of removing a workpiece from a milling machine?",
+    "options": [
+      "Turning",
+      "Knurling",
+      "Parting Off",
+      "Facing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical technology, what type of electrical circuit is used in a commercial building to supply power to high-power appliances?",
+    "options": [
+      "Single-Phase Circuit",
+      "Delta Circuit",
+      "Three-Phase Circuit",
+      "Polyphase Circuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean vocational education syllabus, what is the minimum number of students required for a school to offer a technical drawing course at the CXC level?",
+    "options": [
+      "20 students",
+      "15 students",
+      "10 students",
+      "5 students"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In technical drawing, what is the term for the process of creating a 3D model from 2D drawings?",
+    "options": [
+      "Isometric Drawing",
+      "Perspective Projection",
+      "Oblique Drawing",
+      "Orthographic Projection"
+    ],
+    "correctIndex": 3
   }
 ]

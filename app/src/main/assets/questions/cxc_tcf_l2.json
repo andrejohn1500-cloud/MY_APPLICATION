@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the grain of a fabric?",
+    "question": "What is the term for the process of joining two metal pieces together using heat and pressure?",
     "options": [
-      "A folded and stitched edge of fabric",
-      "Nylon",
-      "Silkworm",
-      "The direction of the threads in the fabric"
+      "Cutting",
+      "Soldering",
+      "Welding",
+      "Brazing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a bearing in a construction assembly?",
+    "options": [
+      "To reduce friction between moving parts",
+      "To increase friction",
+      "To absorb shock",
+      "To support weight"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What safety precaution should be taken when working with chemicals?",
+    "options": [
+      "Mixing chemicals without caution",
+      "Not wearing protective gear",
+      "Inhaling fumes",
+      "Wearing protective gloves and eyewear"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which sewing machine foot is used for zippers?",
+    "question": "What is the primary function of a bearing in electrical technology?",
     "options": [
-      "An opening in a garment that allows it to be put on and taken off",
-      "Red, yellow and blue",
-      "Tracing wheel",
-      "Zipper foot"
+      "To absorb shock",
+      "To increase friction",
+      "To support weight",
+      "To reduce friction between moving parts"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which fabric weave produces a checkerboard pattern?",
+    "question": "What is the primary function of a gearbox in a construction assembly?",
     "options": [
-      "Strong visible seams in jeans and sportswear",
-      "Plain weave",
-      "Line",
-      "Zigzag stitch"
+      "To change the speed or torque of a motor or engine",
+      "To decrease speed",
+      "To increase speed",
+      "To change direction"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does the term bias cut mean in fashion?",
+    "question": "Which type of electrical circuit uses a combination of series and parallel circuits?",
     "options": [
-      "Creating a focal point or centre of interest",
-      "Cutting fabric diagonally across the grain",
-      "French seam",
-      "Spinning"
+      "Shunt circuit",
+      "Series circuit",
+      "Combination circuit",
+      "Parallel circuit"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is a hem?",
+    "question": "What is the term for the process of joining two metal pieces by applying heat and pressure?",
     "options": [
-      "A decorative technique that gathers fabric in a pattern",
-      "A folded and stitched edge of fabric",
-      "A fibre made from chemicals",
-      "The direction of the threads in the fabric"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the principle of balance in design?",
-    "options": [
-      "Calendering",
-      "Waterproofing",
-      "A triangle with a cross",
-      "Equal distribution of visual weight"
+      "Brazing",
+      "Forging",
+      "Soldering",
+      "Welding"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a natural fibre?",
+    "question": "What is the term for the process of joining two metal pieces together using a soldering iron and solder?",
     "options": [
-      "Cotton",
-      "Waterproofing",
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Silk"
+      "Cutting",
+      "Brazing",
+      "Soldering",
+      "Welding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular steel column is 6 meters long and 0.5 meters wide. What is its cross-sectional area?",
+    "options": [
+      "3 m^2",
+      "0.5 m^2",
+      "6 m^2",
+      "0.3 m^2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of fabric has a raised cut pile?",
+    "question": "What is the term for the ability of a material to resist deformation when subjected to a force?",
     "options": [
-      "A sleeve that extends to the collar without a shoulder seam",
-      "Polyester",
-      "Velvet",
-      "Plain weave"
+      "Toughness",
+      "Impact resistance",
+      "Stiffness",
+      "Hardness"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is haute couture?",
+    "question": "What safety precaution should be taken when working with power tools in a confined space?",
     "options": [
-      "Viscose/Rayon",
-      "Wool",
-      "High-end custom-fitted fashion made by leading designers",
-      "Equal distribution of visual weight"
+      "Removing safety guards",
+      "Using a dust mask and keeping the area well-ventilated",
+      "Not wearing protective gear",
+      "Working in a cluttered environment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a pulley in a construction assembly?",
+    "options": [
+      "To change the speed of motion",
+      "To change the direction of force or motion",
+      "To decrease force",
+      "To increase force"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of joint is used to connect two pieces of wood at a 90-degree angle?",
+    "options": [
+      "Butt Joint",
+      "Dovetail Joint",
+      "Lap Joint",
+      "Mortise and Tenon Joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which printing method uses a mesh screen?",
+    "question": "Which type of construction joint is used to connect two walls that are at right angles to each other?",
     "options": [
-      "Thread shank stitch",
-      "Nylon",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Screen printing"
+      "Lap joint",
+      "Butt joint",
+      "Dado joint",
+      "Corner joint"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which fibre comes from the flax plant?",
+    "question": "What is the term for the process of joining two metal pieces together using a torch and filler metal?",
     "options": [
-      "Zip/zipper",
-      "Plain weave",
-      "Linen",
-      "A process to prevent shrinkage in cotton fabric"
+      "Welding",
+      "Soldering",
+      "Cutting",
+      "Brazing"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a blended fabric?",
-    "options": [
-      "A method of dyeing fabric by tying sections to resist the dye",
-      "A fabric made from two or more different fibres",
-      "Linen",
-      "Red, yellow and blue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is pilling on fabric?",
-    "options": [
-      "Small balls of fibre that form on the surface",
-      "To add structure and support to fabric",
-      "Victorian era",
-      "A piece of fabric used to finish raw edges"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does ease mean in a sewing pattern?",
-    "options": [
-      "Extra room added for comfort and movement",
-      "To press curved seams and shaped areas",
-      "Bamboo",
-      "Tracing wheel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a placket?",
-    "options": [
-      "Iron and pressing cloth",
-      "Overcasting or serging",
-      "An opening in a garment that allows it to be put on and taken off",
-      "Line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a pattern in sewing?",
-    "options": [
-      "Zigzag stitch",
-      "Blanket stitch",
-      "A template used to cut fabric pieces",
-      "When the garment is smaller than the body measurement"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of seam is most durable?",
-    "options": [
-      "French seam",
-      "Overcasting or serging",
-      "Blanket stitch",
-      "Grams per square metre"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is smocking?",
-    "options": [
-      "A decorative technique that gathers fabric in a pattern",
-      "The extra fabric between the seam line and the cut edge",
-      "Decorative fabric pieces sewn onto a base fabric",
-      "Iron and pressing cloth"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which fabric is best for hot climates?",
-    "options": [
-      "Cotton",
-      "Zip/zipper",
-      "The finished edge that prevents fraying",
-      "Box pleat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What are the primary colours?",
-    "options": [
-      "Peter Pan collar",
-      "Red, yellow and blue",
-      "The diagonal direction at 45 degrees to the grain",
-      "A test garment made in cheap fabric before cutting the final fabric"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

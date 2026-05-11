@@ -1,152 +1,42 @@
 [
   {
-    "question": "What is the term used to describe the area of the stage closest to the audience?",
+    "question": "Which of the following types of costumes is characterized by its use of fantasy and imagination?",
     "options": [
-      "Upstage",
-      "Downstage",
-      "Centre stage",
-      "Wings"
+      "Fantasy Costumes",
+      "Abstract Costumes",
+      "Modern Costumes",
+      "Historical Costumes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following theatre practitioners is credited with the development of the 'Method' acting technique?",
+    "options": [
+      "Harold Clurman",
+      "Konstantin Stanislavski",
+      "Lee Strasberg",
+      "Stella Adler"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes a 'monologue' in theatre?",
+    "question": "Which of the following theatre practitioners is credited with the development of the 'Bertolt Brecht' approach to directing?",
     "options": [
-      "A conversation between two actors",
-      "A speech delivered by one actor",
-      "A scene with no dialogue",
-      "A group chorus performance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'blocking' refer to in theatre production?",
-    "options": [
-      "Building the set",
-      "Planning the movements of actors on stage",
-      "Writing the script",
-      "Designing the costumes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of stage has the audience seated on three sides?",
-    "options": [
-      "Proscenium stage",
-      "Thrust stage",
-      "Arena stage",
-      "Black box stage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a 'cyclorama' in theatre?",
-    "options": [
-      "To amplify sound",
-      "To provide a curved background for lighting effects",
-      "To hold costumes",
-      "To store props"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In theatre, what is a 'prop'?",
-    "options": [
-      "A piece of stage furniture too large to move",
-      "An object used by actors during a performance",
-      "A type of stage lighting",
-      "A written note in the script"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the abbreviation 'SR' mean in stage directions?",
-    "options": [
-      "Stage Rear",
-      "Stage Right",
-      "Set Requirement",
-      "Scene Reset"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which element of drama refers to the main problem or struggle in a play?",
-    "options": [
-      "Resolution",
-      "Theme",
-      "Conflict",
-      "Climax"
+      "Vsevolod Meyerhold",
+      "Lee Strasberg",
+      "Bertolt Brecht",
+      "Konstantin Stanislavski"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the role of a 'dramaturg' in a theatre production?",
+    "question": "What is the term for the process of rehearsing a play with a focus on the emotional and psychological aspects of performance?",
     "options": [
-      "Designing the lighting",
-      "Managing the budget",
-      "Researching and developing the script and its context",
-      "Operating the sound system"
+      "Blocking",
+      "Improvisation",
+      "Scene Study",
+      "Rehearsal"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a physical theatre technique?",
-    "options": [
-      "Reading the script aloud",
-      "Using the body expressively to tell a story without words",
-      "Memorising lines",
-      "Writing a character biography"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 'improvisation' in theatre?",
-    "options": [
-      "Performing a scripted play from memory",
-      "Creating and performing scenes without a prepared script",
-      "Rehearsing the same scene repeatedly",
-      "Following exact stage directions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which lighting technique is used to highlight a single actor on an otherwise dark stage?",
-    "options": [
-      "Flood lighting",
-      "Spotlight",
-      "Ambient lighting",
-      "Colour wash"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the 'fourth wall' in theatre?",
-    "options": [
-      "The back wall of the stage",
-      "The imaginary barrier between the actors and the audience",
-      "The side wall where lighting rigs are mounted",
-      "The wall behind the cyclorama"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does 'upstage' mean in theatre terminology?",
-    "options": [
-      "The area of the stage nearest to the audience",
-      "The area of the stage farthest from the audience",
-      "The highest point of the set design",
-      "The most important role in a play"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the 'climax' of a play?",
-    "options": [
-      "The introduction of the main characters",
-      "The point of highest tension or turning point in the story",
-      "The final scene of the play",
-      "The moment when the conflict is resolved"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

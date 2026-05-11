@@ -1,151 +1,71 @@
 [
   {
-    "question": "Which type of tourism involves travelers visiting destinations primarily to receive medical treatments or procedures at lower costs than in their home country?",
+    "question": "The Sandals Resorts International chain is a well-known Caribbean brand, what type of accommodations does it offer?",
     "options": [
-      "Eco-tourism",
-      "Medical tourism",
-      "Cultural tourism",
-      "Adventure tourism"
+      "Luxury boutique hotels",
+      "Eco-lodges and eco-resorts",
+      "All-inclusive resorts",
+      "Budget-friendly hostels"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The development of tourism in the Caribbean has led to the growth of a number of different types of transportation, what are some of the key types of transportation in the region?",
+    "options": [
+      "Rail travel and public transportation",
+      "Horseback riding and horse-drawn carriages",
+      "Air travel, sea travel, and road travel",
+      "Cycling and walking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Caribbean is home to a rich and diverse cultural heritage, what are some of the key cultural attractions in the region?",
+    "options": [
+      "National parks and wildlife reserves",
+      "Historic sites, museums, and festivals",
+      "Golf courses and casinos",
+      "Beaches and water sports"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'carrying capacity' in tourism destination management refers to:",
+    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
     "options": [
-      "The maximum number of aircraft a destination airport can handle per day",
-      "The maximum number of visitors a destination can accommodate without causing unacceptable deterioration of the physical environment and visitor experience",
-      "The total volume of cargo that cruise ships can transport to a destination",
-      "The financial capacity of tourists to spend money at a destination"
+      "Rail travel and public transportation",
+      "Air travel, sea travel, and road travel",
+      "Cycling and walking",
+      "Horseback riding and horse-drawn carriages"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which international organization is primarily responsible for promoting responsible, sustainable, and universally accessible tourism worldwide?",
+    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
     "options": [
-      "World Trade Organization (WTO)",
-      "United Nations World Tourism Organization (UNWTO)",
-      "International Monetary Fund (IMF)",
-      "World Health Organization (WHO)"
+      "Rail travel and public transportation",
+      "Cycling and walking",
+      "Air travel, sea travel, and road travel",
+      "Horseback riding and horse-drawn carriages"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "The Tourism Area Life Cycle (TALC) model, developed by Richard Butler, identifies which sequence of stages for a tourist destination?",
+    "question": "The Caribbean is home to a number of different types of transportation, what are some of the key types of transportation in the region?",
     "options": [
-      "Introduction, Growth, Maturity, Decline, Rejuvenation",
-      "Exploration, Involvement, Development, Consolidation, Stagnation, Decline or Rejuvenation",
-      "Discovery, Promotion, Expansion, Saturation, Collapse",
-      "Awareness, Interest, Desire, Action, Loyalty"
+      "Horseback riding and horse-drawn carriages",
+      "Cycling and walking",
+      "Air travel, sea travel, and road travel",
+      "Rail travel and public transportation"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "In the context of Caribbean tourism, the term 'leakage' refers to:",
+    "question": "The concept of eco-tourism is becoming increasingly popular in the Caribbean, what are some of the key characteristics of eco-tourism?",
     "options": [
-      "The loss of tourists to competing destinations in the region",
-      "The proportion of tourism revenue that flows out of a destination economy rather than remaining to benefit local residents",
-      "Water wastage in hotel operations affecting sustainability ratings",
-      "The reduction of tourist arrivals during the off-peak season"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'sustainable tourism development' according to the UNWTO definition?",
-    "options": [
-      "Tourism that generates the maximum possible revenue for a destination within a five-year period",
-      "Tourism that takes full account of current and future economic, social and environmental impacts, addressing the needs of visitors, the industry, the environment and host communities",
-      "Tourism development that is entirely funded by international aid organizations",
-      "Tourism restricted to natural environments to minimize impact on urban areas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The multiplier effect in tourism economics describes:",
-    "options": [
-      "The increase in tourist numbers resulting from aggressive marketing campaigns",
-      "The process by which initial tourist expenditure circulates through a local economy, generating additional income, employment and output beyond the original spending",
-      "The compounding interest earned by tourism investment funds",
-      "The multiplication of tourism products available at a single destination"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which distribution channel involves a tourist purchasing a holiday package directly from a tour operator without using an intermediary?",
-    "options": [
-      "Indirect distribution",
-      "Direct distribution",
-      "Lateral distribution",
-      "Multi-level distribution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Enclave tourism, commonly observed in some Caribbean destinations, is characterized by:",
-    "options": [
-      "Tourism concentrated in environmentally sensitive ecological zones",
-      "Self-contained resort developments where tourists spend most of their time and money within the resort, limiting economic benefits to the broader local community",
-      "Tourism activities centered around UNESCO World Heritage Sites",
-      "Adventure tourism confined to protected national park areas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The 'honeypot' phenomenon in tourism refers to:",
-    "options": [
-      "Destinations that attract primarily honeymooning couples",
-      "The concentration of large numbers of tourists at a single attractive site, often leading to overcrowding and environmental degradation",
-      "A marketing strategy using social media influencers to attract visitors",
-      "The clustering of tourism businesses in a central business district"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which form of alternative tourism is specifically designed to support conservation efforts and improve the well-being of local communities while educating visitors about natural environments?",
-    "options": [
-      "Heritage tourism",
-      "Eco-tourism",
-      "Sports tourism",
-      "Voluntourism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In hotel management, the 'RevPAR' metric is used to measure:",
-    "options": [
-      "Revenue per available room, calculated by multiplying occupancy rate by average daily rate",
-      "Revenue per arriving passenger at the destination airport",
-      "Return on investment per accommodation property",
-      "Reservation processing rate per available room night"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following factors is considered a 'pull factor' in tourism motivation theory?",
-    "options": [
-      "The desire to escape from everyday routine and stress",
-      "Attractive climate, cultural heritage and recreational facilities at a destination",
-      "Dissatisfaction with current living conditions",
-      "The need for rest and relaxation away from home"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Caribbean Tourism Organization (CTO) has identified which of the following as a primary strategic objective for regional tourism development?",
-    "options": [
-      "Reducing the number of cruise ship arrivals to minimize environmental damage",
-      "Positioning the Caribbean as the most desirable, year-round, warm weather destination, generating sustainable levels of visitor expenditure",
-      "Discouraging foreign direct investment in tourism infrastructure",
-      "Limiting tourism to high-end luxury markets exclusively"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tourist, as classified by Stanley Cohen's typology, prefers to travel independently, seeks authentic local experiences and deliberately avoids mass tourism infrastructure?",
-    "options": [
-      "Organized mass tourist",
-      "Individual mass tourist",
-      "Explorer",
-      "Drifter"
+      "Mass tourism and large crowds",
+      "Luxury and high-end experiences",
+      "Themed parks and attractions",
+      "Environmental conservation, sustainable practices, and local community involvement"
     ],
     "correctIndex": 3
   }

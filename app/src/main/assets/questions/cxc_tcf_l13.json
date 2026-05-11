@@ -1,202 +1,62 @@
 [
   {
-    "question": "What is weft in weaving?",
+    "question": "What is the term for the phenomenon where a wave passes from one medium to another and changes direction?",
     "options": [
-      "Rhythm",
-      "Calendering",
-      "A symbol or name that identifies a brand",
-      "Threads running crosswise on the loom"
+      "Total Internal Reflection",
+      "Diffraction",
+      "Refraction",
+      "Interference"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "Which fabric is made from the hair of the Angora goat?",
+    "question": "What is the term for the phenomenon where a wave is reflected off a surface and changes direction?",
     "options": [
-      "Silk",
-      "Mohair",
-      "Threads running crosswise on the loom",
-      "A folded and stitched edge of fabric"
+      "Reflection",
+      "Interference",
+      "Diffraction",
+      "Refraction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In electrical technology, what is the term for the device that converts electrical energy into mechanical energy?",
+    "options": [
+      "Rectifier",
+      "Generator",
+      "Motor",
+      "Transformer"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which fabric construction method uses loops?",
+    "question": "A workshop technician is using a milling machine to cut a metal part. The cutting speed is 25 m/min and the feed rate is 0.25 mm/min. What is the milling speed?",
     "options": [
-      "A fibre made from chemicals",
-      "A wax-resist dyeing technique applied to cloth",
-      "Knitting",
-      "The diagonal direction at 45 degrees to the grain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which stitch is used to join two pieces of fabric?",
-    "options": [
-      "Threads running crosswise on the loom",
-      "A folded and stitched edge of fabric",
-      "Strong visible seams in jeans and sportswear",
-      "Seam"
+      "150 rpm",
+      "200 rpm",
+      "50 rpm",
+      "100 rpm"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is sanforizing?",
+    "question": "A workshop technician is using a milling machine to cut a metal part. The cutting speed is 20 m/min and the feed rate is 0.2 mm/min. What is the milling speed?",
     "options": [
-      "Fibres obtained from plants and animals",
-      "Cutting fabric diagonally across the grain",
-      "Nylon",
-      "A process to prevent shrinkage in cotton fabric"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which principle of design refers to the repetition of elements?",
-    "options": [
-      "Rhythm",
-      "Waterproofing",
-      "210 degrees Celsius",
-      "Velvet"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which fabric requires dry cleaning only?",
-    "options": [
-      "The direction of the threads in the fabric",
-      "Rhythm",
-      "Silk",
-      "Running stitch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of pleat faces away from the centre?",
-    "options": [
-      "Extra room added for comfort and movement",
-      "Spinning",
-      "Plain weave",
-      "Box pleat"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which stitch is used for gathering fabric?",
-    "options": [
-      "When the garment is smaller than the body measurement",
-      "Running stitch",
-      "Mass-produced clothing in standard sizes",
-      "The extra fabric between the seam line and the cut edge"
+      "200 rpm",
+      "100 rpm",
+      "50 rpm",
+      "150 rpm"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which synthetic fibre is known for its strength and elasticity?",
+    "question": "A workshop technician is using a drill press to drill a hole in a metal part. The drill bit is rotating at 500 rpm. The feed rate is 1 mm/min. What is the drilling speed?",
     "options": [
-      "Line",
-      "The direction of the threads in the fabric",
-      "Nylon",
-      "Polyester"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fabric is most absorbent?",
-    "options": [
-      "Cotton",
-      "Silkworm",
-      "A decorative technique that gathers fabric in a pattern",
-      "Polyester"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of collar lies flat against the garment?",
-    "options": [
-      "Small balls of fibre that form on the surface",
-      "Peter Pan collar",
-      "Viscose/Rayon",
-      "Hand or drape"
+      "1 mm/min",
+      "0.5 mm/min",
+      "0.75 mm/min",
+      "0.25 mm/min"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which stitch is used for hand sewing buttons?",
-    "options": [
-      "Thread shank stitch",
-      "A triangular piece of fabric that adds fullness",
-      "Iron and pressing cloth",
-      "A triangle with a cross"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which weave produces a diagonal pattern?",
-    "options": [
-      "Twill weave",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Small balls of fibre that form on the surface",
-      "Spinning"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a natural fibre?",
-    "options": [
-      "Tracing wheel",
-      "Mass-produced clothing in standard sizes",
-      "Cotton",
-      "Threads running lengthwise on the loom"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a synthetic fibre?",
-    "options": [
-      "A fibre made from chemicals",
-      "Cotton",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "To prevent curved edges from stretching"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the bias of a fabric?",
-    "options": [
-      "A template used to cut fabric pieces",
-      "Small balls of fibre that form on the surface",
-      "Cotton",
-      "The diagonal direction at 45 degrees to the grain"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does RTW stand for in fashion?",
-    "options": [
-      "Ready to wear",
-      "Plain weave",
-      "A measure of the fineness or thickness of yarn",
-      "Non-woven fabric"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of fabric has a raised cut pile?",
-    "options": [
-      "A triangular piece of fabric that adds fullness",
-      "Cotton",
-      "Velvet",
-      "Fibres obtained from plants and animals"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of interfacing?",
-    "options": [
-      "To add structure and support to fabric",
-      "Waterproofing",
-      "Rhythm",
-      "A fibre made from chemicals"
-    ],
-    "correctIndex": 0
   }
 ]

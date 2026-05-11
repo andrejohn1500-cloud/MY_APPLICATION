@@ -1,201 +1,151 @@
 [
   {
-    "question": "Which weave produces a diagonal pattern?",
+    "question": "Which type of construction material is known for its high strength-to-weight ratio?",
     "options": [
-      "Twill weave",
-      "Cotton",
-      "Polyester",
-      "Small balls of fibre that form on the surface"
+      "Concrete",
+      "Aluminum",
+      "Wood",
+      "Steel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the ability of a material to resist wear and tear?",
+    "options": [
+      "Hardness",
+      "Impact resistance",
+      "Wear resistance",
+      "Toughness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A DC motor has a rating of 4 kW and operates at 240 V. What is its current draw?",
+    "options": [
+      "0.25 A",
+      "1.67 A",
+      "16.67 A",
+      "100 A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of a technical drawing?",
+    "options": [
+      "To accurately communicate design intentions",
+      "To estimate material quantities",
+      "To draw a picture of a person",
+      "To build a model of an object"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which principle of design refers to the repetition of elements?",
+    "question": "What is the primary function of a gearbox in a mechanical assembly?",
     "options": [
-      "A visual collage that communicates design concepts",
-      "Rhythm",
-      "Australia",
-      "A template used to cut fabric pieces"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tool measures seam allowances accurately?",
-    "options": [
-      "Polyester",
-      "A method of dyeing fabric by tying sections to resist the dye",
-      "Analogous",
-      "Seam gauge"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which fabric is produced by matting fibres together?",
-    "options": [
-      "Decorative fabric pieces sewn onto a base fabric",
-      "Cotton",
-      "Cotton",
-      "Felt"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which fabric is created by bonding fibres with heat?",
-    "options": [
-      "Seam gauge",
-      "Adjusting a pattern to a different size",
-      "Non-woven fabric",
-      "A triangle with a cross"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the bias of a fabric?",
-    "options": [
-      "210 degrees Celsius",
-      "The diagonal direction at 45 degrees to the grain",
-      "Seam gauge",
-      "A folded tuck to shape fabric to the body"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre is known for being lightweight and quick-drying?",
-    "options": [
-      "Strong visible seams in jeans and sportswear",
-      "The direction of the threads in the fabric",
-      "Texture",
-      "Polyester"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which type of fabric has a raised cut pile?",
-    "options": [
-      "Velvet",
-      "A symbol or name that identifies a brand",
-      "Seam gauge",
-      "A method of dyeing fabric by tying sections to resist the dye"
+      "To change the speed or torque of a motor or engine",
+      "To increase speed",
+      "To change direction",
+      "To decrease speed"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is applique?",
+    "question": "What safety precaution should be taken when working with power tools?",
     "options": [
-      "Linen",
-      "Decorative fabric pieces sewn onto a base fabric",
-      "The direction of the threads in the fabric",
-      "Twill weave"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fibre comes from the flax plant?",
-    "options": [
-      "High-end custom-fitted fashion made by leading designers",
-      "Linen",
-      "Peter Pan collar",
-      "Cutting fabric diagonally across the grain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the process of making yarn from fibres called?",
-    "options": [
-      "Reactive dye",
-      "Cutting fabric diagonally across the grain",
-      "A folded tuck to shape fabric to the body",
-      "Spinning"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which printing method uses a mesh screen?",
-    "options": [
-      "Cotton",
-      "Washing instructions",
-      "Screen printing",
-      "Overcasting or serging"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fabric care symbol means do not bleach?",
-    "options": [
-      "Red, yellow and blue",
-      "Zigzag stitch",
-      "A triangle with a cross",
-      "Cutting fabric diagonally across the grain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a natural fibre?",
-    "options": [
-      "The direction of the threads in the fabric",
-      "Nylon",
-      "Fibres obtained from plants and animals",
-      "Cotton"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a flat-felled seam used for?",
-    "options": [
-      "Strong visible seams in jeans and sportswear",
-      "Polyester",
-      "Wool",
-      "Waterproofing"
+      "Wearing protective eyewear and gloves",
+      "Removing safety guards",
+      "Not wearing protective gear",
+      "Working in a cluttered environment"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is pilling on fabric?",
+    "question": "What is the term for the ability of a material to resist corrosion?",
     "options": [
-      "Cutting fabric diagonally across the grain",
-      "Velvet",
-      "Small balls of fibre that form on the surface",
-      "Analogous"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is grading a pattern?",
-    "options": [
-      "A triangle with a cross",
-      "Adjusting a pattern to a different size",
-      "Analogous",
-      "To press curved seams and shaped areas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is sanforizing?",
-    "options": [
-      "French seam",
-      "Washing instructions",
-      "A process to prevent shrinkage in cotton fabric",
-      "Box pleat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fastener uses interlocking teeth?",
-    "options": [
-      "High-end custom-fitted fashion made by leading designers",
-      "Texture",
-      "Extra room added for comfort and movement",
-      "Zip/zipper"
+      "Toughness",
+      "Impact resistance",
+      "Hardness",
+      "Corrosion resistance"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is weft in weaving?",
+    "question": "What is the primary function of a rivet in a mechanical assembly?",
     "options": [
-      "To prevent curved edges from stretching",
-      "Plain weave",
-      "Threads running crosswise on the loom",
-      "Swimwear and lingerie"
+      "To secure a bolt",
+      "To join two metal pieces together",
+      "To hold a screw",
+      "To attach a nut"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of electrical circuit uses a single path for current flow?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Shunt circuit",
+      "Combination circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a template in electrical technology?",
+    "options": [
+      "To copy a design",
+      "To draw a freehand sketch",
+      "To create a precise representation of an electrical circuit or device",
+      "To create a rough outline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the ability of a material to withstand impact without deforming or breaking?",
+    "options": [
+      "Hardness",
+      "Stiffness",
+      "Toughness",
+      "Impact resistance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of electrical circuit uses multiple paths for current flow?",
+    "options": [
+      "Combination circuit",
+      "Parallel circuit",
+      "Shunt circuit",
+      "Series circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a template in technical drawing?",
+    "options": [
+      "To create a precise representation of an object or shape",
+      "To draw a freehand sketch",
+      "To copy a design",
+      "To create a rough outline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of construction material is known for its high thermal insulation properties?",
+    "options": [
+      "Steel",
+      "Wood",
+      "Fiberglass",
+      "Concrete"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of joining two metal pieces together using a rivet gun and rivets?",
+    "options": [
+      "Welding",
+      "Soldering",
+      "Riveting",
+      "Brazing"
     ],
     "correctIndex": 2
   }

@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following best describes 'ecotourism'?",
+    "question": "Which type of accommodation is typically found in areas with high tourist traffic and offers a range of amenities?",
     "options": [
-      "Tourism focused on luxury resorts in tropical areas",
-      "Responsible travel to natural areas that conserves the environment and improves the well-being of local people",
-      "Tourism that involves extreme sports in remote locations",
-      "Mass tourism to beaches and theme parks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Caribbean Tourism Organization (CTO) is headquartered in which city?",
-    "options": [
-      "Kingston, Jamaica",
-      "Bridgetown, Barbados",
-      "Port of Spain, Trinidad",
-      "Nassau, Bahamas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tourism involves travelers visiting their country of origin after having migrated abroad?",
-    "options": [
-      "Cultural tourism",
-      "Heritage tourism",
-      "Diaspora tourism",
-      "Religious tourism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The multiplier effect in tourism refers to:",
-    "options": [
-      "The increase in tourist numbers during peak season",
-      "The way tourism spending circulates through an economy creating additional income",
-      "The multiplication of hotel rooms to meet demand",
-      "The effect of advertising on tourist arrivals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a negative socio-cultural impact of tourism?",
-    "options": [
-      "Preservation of local traditions",
-      "Demonstration effect leading to changes in local values",
-      "Increased employment opportunities",
-      "Restoration of historic buildings"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A tourist who travels primarily to receive medical treatment in another country is engaging in:",
-    "options": [
-      "Wellness tourism",
-      "Medical tourism",
-      "Health spa tourism",
-      "Recuperation tourism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which document is essential for international travel and serves as proof of citizenship?",
-    "options": [
-      "Driver's licence",
-      "National identification card",
-      "Passport",
-      "Birth certificate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'carrying capacity' in tourism refers to:",
-    "options": [
-      "The number of tourists an airline can transport",
-      "The maximum number of visitors a destination can accommodate without negative impacts",
-      "The amount of luggage tourists can carry",
-      "The capacity of hotel rooms at a resort"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is classified as a 'pull factor' in tourism?",
-    "options": [
-      "Desire to escape cold weather at home",
-      "Political instability in the home country",
-      "Availability of paid vacation leave",
-      "Attractive beaches and warm climate at the destination"
+      "Apartment",
+      "Guesthouse",
+      "Hostel",
+      "Hotel"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The United Nations World Tourism Organization (UNWTO) defines a tourist as someone who stays at a destination for:",
+    "question": "What is the primary function of a tourist information center in the Caribbean?",
     "options": [
-      "Less than 24 hours",
-      "At least one night but no more than one year",
-      "Exactly 7 nights",
-      "More than two weeks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'all-inclusive' tourism?",
-    "options": [
-      "Tourism packages that include flights, accommodation, meals, drinks and activities for one price",
-      "Tourism that covers all countries in a region",
-      "A tour that includes all cultural sites in a destination",
-      "Tourism funded entirely by the government"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Leakage in tourism economies occurs when:",
-    "options": [
-      "Hotels lose water through faulty pipes",
-      "Tourist revenue leaves the destination country rather than circulating locally",
-      "Tourists overstay their visa periods",
-      "Tour operators charge hidden fees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a primary tourism resource in the Caribbean?",
-    "options": [
-      "A five-star hotel",
-      "An international airport",
-      "The coral reef ecosystem",
-      "A souvenir shop"
+      "To offer accommodation services",
+      "To facilitate travel arrangements",
+      "To provide information and assistance to tourists",
+      "To sell tourist products"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Heritage tourism in the Caribbean is best represented by:",
+    "question": "Which of the following is an example of a 'sustainable tourism practice' in the Caribbean?",
     "options": [
-      "Visiting modern shopping malls",
-      "Touring sugar plantation great houses and slavery museums",
-      "Participating in water sports activities",
-      "Staying at eco-lodges in rainforests"
+      "The use of local and indigenous materials in tourism development",
+      "The exploitation of local resources for profit",
+      "The use of non-renewable energy sources such as fossil fuels",
+      "The destruction of natural habitats for tourism development"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a high-end hotel?",
+    "options": [
+      "It caters to a budget-conscious clientele.",
+      "It is typically located in a remote area, far from tourist attractions.",
+      "It offers luxurious amenities and services, such as fine dining, spas, and concierge services.",
+      "It provides limited amenities and services, such as basic room facilities and food service."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a 'tourist product' in the Caribbean?",
+    "options": [
+      "A industry or sector such as agriculture",
+      "A natural resource such as a beach",
+      "A single good or service such as a hotel room",
+      "A package tour that includes accommodation, transportation, and activities"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a tourist development agency in the Caribbean?",
+    "options": [
+      "To provide tourist information and assistance",
+      "To sell tourist products",
+      "To promote and develop tourism in a specific area or region",
+      "To facilitate travel arrangements"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Tourist Information Office?",
+    "options": [
+      "To assist in the development and implementation of tourism policies and plans.",
+      "To promote local products and services to tourists.",
+      "To provide tourists with accurate and up-to-date information on destinations, attractions, and activities within the region.",
+      "To manage and supervise tour operations."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a 'tourist product' in the Caribbean?",
+    "options": [
+      "A package tour that includes accommodation, transportation, and activities",
+      "A natural resource such as a beach",
+      "A industry or sector such as agriculture",
+      "A single good or service such as a hotel room"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main characteristic of a 'tourist product' in the Caribbean?",
+    "options": [
+      "A bundle of goods and services that satisfy a tourist's needs and wants",
+      "An industry or sector",
+      "A single good or service",
+      "A natural resource"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is an example of a 'tourist information service' in the Caribbean?",
+    "options": [
+      "A hotel room",
+      "A restaurant meal",
+      "A tour package",
+      "A tourist information center or website"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of a 'recreational activity' in the Caribbean?",
+    "options": [
+      "Snorkeling or scuba diving",
+      "A historic site such as the Taino Petroglyphs",
+      "A cultural attraction such as Carnival",
+      "A natural attraction such as the Grand Etang National Park"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main impact of tourism on the environment in the Caribbean?",
+    "options": [
+      "No impact on the environment",
+      "Pollution and degradation of natural habitats",
+      "Renewal and restoration of natural habitats",
+      "Conservation and protection of natural habitats"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The role of a destination management organization (DMO) primarily includes:",
+    "question": "What was the primary reason for the decline of pirate tourism in the Caribbean in the 18th century?",
     "options": [
-      "Building hotels and resorts",
-      "Coordinating and marketing tourism at a destination to ensure sustainable development",
-      "Training pilots and airline staff",
-      "Issuing visas to incoming tourists"
+      "Establishment of pirate colonies",
+      "British naval support for pirates",
+      "Decline of piracy and the establishment of British naval presence",
+      "Increased pirate activity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Caribbean region has a rich tourism history dating back to the colonial period. Which of the following events in the 19th century marked a significant milestone in the development of Caribbean tourism?",
+    "options": [
+      "The Caribbean region experienced a decline in tourism during the 19th century due to the devastation caused by the Atlantic slave trade.",
+      "The construction of the Panama Canal in 1881 increased the volume of international trade and commerce in the region, but had little direct impact on tourism.",
+      "The establishment of the first steamship services between the Caribbean and Europe in the early 19th century led to an increase in the number of visitors to the region.",
+      "The abolition of slavery in 1833 led to an influx of European visitors and settlers, contributing to the growth of the tourism industry."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main advantage of using a tourist guide in the Caribbean?",
+    "options": [
+      "Increased independence",
+      "Knowledge of local customs and traditions",
+      "Flexibility and freedom",
+      "Convenience and cost savings"
     ],
     "correctIndex": 1
   }

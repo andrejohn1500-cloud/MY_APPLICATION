@@ -1,151 +1,151 @@
 [
   {
-    "question": "A hexagonal prism is cut by an oblique plane. Which method is most appropriate for developing the lateral surface of the truncated prism?",
+    "question": "In dimensioning, what is the term for a line that indicates the location of a dimension?",
     "options": [
-      "Radial line development",
-      "Parallel line development",
-      "Triangulation development",
-      "Approximate development"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When drawing a true shape of an oblique section through a cone, which auxiliary view technique is required?",
-    "options": [
-      "First auxiliary projection only",
-      "Second auxiliary projection only",
-      "A primary auxiliary view perpendicular to the cutting plane",
-      "A revolution of the cone about its axis"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In first-angle orthographic projection, where is the front view placed relative to the plan view?",
-    "options": [
-      "Above the plan view",
-      "Below the plan view",
-      "To the right of the plan view",
-      "To the left of the plan view"
+      "Extension line",
+      "Arrow line",
+      "Leader line",
+      "Dimension line"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A right circular cone has its apex at the top. When developed using radial line development, the radius of the development sector equals which measurement?",
+    "question": "In isometric drawing, what is the term for a line that connects two points on a grid?",
     "options": [
-      "The diameter of the base",
-      "The perpendicular height of the cone",
-      "The slant height of the cone",
-      "Half the circumference of the base"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which geometric construction accurately bisects a given angle using only a compass and straightedge?",
-    "options": [
-      "Draw arcs from each arm of the angle of equal radius, then connect the intersection to the vertex",
-      "Draw a perpendicular from the vertex to the opposite side",
-      "Draw a circle inscribed within the angle and connect the tangent points",
-      "Measure the angle with a protractor and divide by two"
+      "Grid line",
+      "Reference line",
+      "Axis line",
+      "Centre line"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In isometric drawing, inclined lines that are neither parallel nor perpendicular to the isometric axes must be plotted by:",
+    "question": "In isometric drawing, what is the term for a line that connects two points on a surface?",
     "options": [
-      "Extending the isometric axes proportionally",
-      "Locating the end points using isometric coordinates and joining them",
-      "Converting the line to a true-length measurement first",
-      "Using a 30-60-90 set square directly on the line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When two cylinders of equal diameter intersect at right angles, the curve of interpenetration in the orthographic view is:",
-    "options": [
-      "An ellipse",
-      "A parabola",
-      "Two straight lines",
-      "A sine curve"
+      "Grid line",
+      "Centre line",
+      "Surface line",
+      "Axis line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A cam with a uniform velocity follower rise produces which type of displacement diagram?",
+    "question": "In technical drawing, what is the term for a drawing that shows the exploded view of a building?",
     "options": [
-      "A parabolic curve",
-      "A sinusoidal curve",
-      "A straight inclined line",
-      "A cycloid curve"
+      "Assembly drawing",
+      "Machine drawing",
+      "Building drawing",
+      "Engine drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The involute of a circle is best described as:",
+    "question": "What is the term for a drawing that shows the exploded view of an assembly?",
     "options": [
-      "The path traced by a point on a circle rolling along a straight line",
-      "The curve traced by a point on a taut string unwinding from a circle",
-      "The locus of the center of a circle rolling inside a larger circle",
-      "The intersection of a cone and a plane parallel to its axis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a third-angle projection drawing, the right-side view is positioned:",
-    "options": [
-      "To the left of the front view",
-      "To the right of the front view",
-      "Above the front view",
-      "Below the front view"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which conic section is produced when a cutting plane is parallel to the slant side (generator) of a right circular cone?",
-    "options": [
-      "Circle",
-      "Ellipse",
-      "Parabola",
-      "Hyperbola"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "To find the true length of a line in oblique position in space, the most direct auxiliary view method requires the auxiliary projection plane to be:",
-    "options": [
-      "Perpendicular to the frontal plane only",
-      "Parallel to the line in question",
-      "Perpendicular to the line in question",
-      "At 45 degrees to the horizontal plane"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cycloid is generated by:",
-    "options": [
-      "A point on a circle rolling along the inside of another circle",
-      "A point on a straight line rolling around a circle",
-      "A point on a circle rolling along a straight line",
-      "A point equidistant from a focus and a directrix"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When developing the surface of an oblique cone by triangulation, the development is achieved by:",
-    "options": [
-      "Dividing the base into equal parts, finding true lengths of all generators, and laying them out sequentially",
-      "Using radial lines from the apex and measuring arc lengths directly",
-      "Unrolling the lateral surface about the slant height",
-      "Projecting all generators onto the horizontal plane"
+      "Assembly drawing",
+      "Engineering drawing",
+      "Sectional drawing",
+      "Building drawing"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In an assembly drawing, a hidden detail line is typically:",
+    "question": "What is the primary function of a break line in a technical drawing?",
     "options": [
-      "A continuous thin line",
-      "A chain thin line with dots",
-      "A dashed thin line",
-      "A continuous thick line"
+      "It is used to show the direction of motion",
+      "It is used to indicate a centre line",
+      "It is used to indicate the size of an object",
+      "It is used to indicate a break in a view."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In engineering drawing, what is the term for a symbol that represents a screw thread?",
+    "options": [
+      "Nut symbol",
+      "Thread symbol",
+      "Bolt symbol",
+      "Screw symbol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In CAD, what is the term for a set of commands that provide a way to create and edit 2D objects?",
+    "options": [
+      "Draw tools",
+      "View tools",
+      "Modify tools",
+      "Format tools"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In CAD, what is the term for a 3D model that is made up of connected solids?",
+    "options": [
+      "Surface model",
+      "Wireframe model",
+      "Hidden line removed model",
+      "Solid model"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe the process of adding a key to a drawing?",
+    "options": [
+      "Adding a legend",
+      "Adding a scale",
+      "Adding a title block",
+      "Adding a key"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term used to describe the method of drawing a plan view of a building as a cut through it?",
+    "options": [
+      "Elevation drawing",
+      "Sectional view",
+      "Block plan",
+      "Plan view"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In CAD, what is the term for a set of commands that automate a sequence of steps?",
+    "options": [
+      "Subroutine",
+      "Script",
+      "Macro",
+      "Procedure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a line that indicates the boundary of a view in a technical drawing?",
+    "options": [
+      "Grid line",
+      "Reference line",
+      "Extension line",
+      "Boundary line"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In technical drawing, what is the term for a symbol that represents a hole?",
+    "options": [
+      "Nut symbol",
+      "Bolt symbol",
+      "Circle symbol",
+      "Screw symbol"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In isometric drawing, what is the term for a line that connects the ends of two axes?",
+    "options": [
+      "Centre line",
+      "Grid line",
+      "Axis line",
+      "Reference line"
     ],
     "correctIndex": 2
   }

@@ -1,153 +1,142 @@
 [
   {
-    "question": "Which international organization is primarily responsible for setting global tourism standards and collecting worldwide tourism statistics?",
+    "question": "Which of the following is a characteristic of ecotourism?",
     "options": [
-      "World Travel and Tourism Council (WTTC)",
-      "United Nations World Tourism Organization (UNWTO)",
-      "International Air Transport Association (IATA)",
-      "World Economic Forum (WEF)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Tourism Area Life Cycle (TALC) model, developed by Richard Butler, identifies how many distinct stages in a destination's evolution?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which economic concept best describes the total additional economic activity generated when a tourist spends money in a destination, as it ripples through the local economy?",
-    "options": [
-      "Leakage effect",
-      "Multiplier effect",
-      "Opportunity cost",
-      "Comparative advantage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of Caribbean tourism, 'enclave tourism' is most accurately described as:",
-    "options": [
-      "Tourism that focuses exclusively on natural heritage sites",
-      "A model where tourists remain within self-contained resorts, limiting economic benefits to the broader community",
-      "Tourism concentrated in urban historical zones",
-      "A form of adventure tourism restricted to protected areas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of tourist, according to Cohen's tourist typology, seeks novelty while still requiring some familiar comforts and travels in organized groups?",
-    "options": [
-      "Drifter",
-      "Explorer",
-      "Organized mass tourist",
-      "Individual mass tourist"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The concept of 'carrying capacity' in tourism planning refers to:",
-    "options": [
-      "The maximum number of flights an airport can handle daily",
-      "The maximum level of visitor use an area can sustain without unacceptable alteration to the physical environment and visitor experience",
-      "The total revenue a destination can generate from tourism annually",
-      "The number of hotel rooms available in a destination"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best defines 'leakage' in the context of tourism economics in developing Caribbean nations?",
-    "options": [
-      "The loss of tourists to competing destinations",
-      "The proportion of tourism revenue that leaves the local economy through imports, repatriation of profits, and foreign-owned businesses",
-      "The decline in tourism numbers during the off-peak season",
-      "Environmental damage caused by mass tourism activities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Sustainable tourism development is BEST aligned with which principle of the Brundtland Commission's definition of sustainable development?",
-    "options": [
-      "Maximizing tourist arrivals to generate the highest possible GDP contribution",
-      "Meeting the needs of present tourists and host regions while protecting and enhancing opportunities for the future",
-      "Prioritizing environmental conservation over economic growth at all times",
-      "Ensuring that all tourism revenue is retained within the local economy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly distinguishes 'ecotourism' from general 'nature-based tourism'?",
-    "options": [
-      "Ecotourism takes place exclusively in marine environments while nature-based tourism occurs on land",
-      "Ecotourism specifically involves education, conservation contribution, and minimizing environmental impact, while nature-based tourism simply uses natural settings",
-      "Ecotourism is only practiced in developing countries whereas nature-based tourism is global",
-      "Ecotourism generates higher revenue than nature-based tourism in all contexts"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A tourist who travels primarily to visit friends and relatives (VFR) would MOST LIKELY impact destination accommodation statistics in which way?",
-    "options": [
-      "Significantly increase hotel occupancy rates",
-      "Decrease recorded accommodation statistics since many stay with hosts rather than commercial establishments",
-      "Increase demand for luxury resort facilities",
-      "Have no measurable impact on tourism statistics"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In tourism marketing, the 'tourism product' is BEST described using which concept?",
-    "options": [
-      "A single tangible item such as a hotel room or airline seat",
-      "An amalgam of attractions, facilities, accessibility, image, and price that together create the visitor experience",
-      "The promotional materials and advertising campaigns used to attract visitors",
-      "The natural and cultural resources exclusively owned by the destination"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "Which pull factor would MOST strongly differentiate the Caribbean as a tourism destination from competitors such as Southeast Asia?",
-    "question": "Which pull factor would MOST strongly differentiate the Caribbean as a tourism destination from competitors such as Southeast Asia?",
-    "options": [
-      "Relatively low cost of travel from North American source markets due to geographic proximity",
-      "A wider variety of cultural heritage attractions",
-      "A larger number of UNESCO World Heritage Sites",
-      "More diverse wildlife and biodiversity offerings"
+      "It involves responsible travel to natural areas that conserves the environment and sustains the well-being of local people.",
+      "It involves travel to areas with high levels of human impact, such as beaches and resorts.",
+      "It involves travel to urban areas, such as cities and towns.",
+      "It involves travel to areas with low levels of human impact, such as national parks and wildlife reserves."
     ],
     "correctIndex": 0
   },
   {
-    "question": "The concept of 'dark tourism' refers to visits to:",
+    "question": "Which type of tourist facility is typically characterized by a high level of personalized service and a focus on comfort and relaxation?",
     "options": [
-      "Tourism activities that occur exclusively at night or during evening hours",
-      "Sites associated with death, tragedy, atrocity, or suffering, motivated by a desire to reflect on historical events",
-      "Underground cave systems and subterranean natural attractions",
-      "Tourism in politically unstable or conflict-affected regions"
+      "A motel.",
+      "A boutique hotel.",
+      "A budget hotel.",
+      "A resort hotel."
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which Caribbean regional body is MOST directly responsible for coordinating tourism policy, research, and marketing among member states in the Caribbean?",
+    "question": "What is the primary reason for the development of tourism in the Caribbean during the colonial period?",
     "options": [
-      "CARICOM Secretariat",
-      "Caribbean Tourism Organization (CTO)",
-      "Organisation of Eastern Caribbean States (OECS)",
-      "Caribbean Development Bank (CDB)"
+      "Economic growth and revenue generation",
+      "Promotion of local culture and history",
+      "Infrastructure development and investment",
+      "Environmental conservation and protection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a hotel?",
+    "options": [
+      "It is typically located in a remote area, far from tourist attractions.",
+      "It provides limited amenities and services, such as basic room facilities and food service.",
+      "It caters to a budget-conscious clientele.",
+      "It provides lodging and amenities, such as food service, entertainment, and recreational activities, to guests."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a hotel?",
+    "options": [
+      "It is typically located in a remote area, far from tourist attractions.",
+      "It provides limited amenities and services, such as basic room facilities and food service.",
+      "It caters to a budget-conscious clientele.",
+      "It provides lodging and amenities, such as food service, entertainment, and recreational activities, to guests."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of cultural event that celebrates the traditional music, dance, and art of the host country?",
+    "options": [
+      "A food and drink festival.",
+      "A sporting event.",
+      "A festival of music, dance, and art that celebrates the cultural heritage of the host country.",
+      "A fashion show."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The 'Caribbean Cruise' is an example of which type of tourist activity?",
+    "options": [
+      "A tour of a single attraction or site, such as a museum or historical landmark.",
+      "A stay at a single destination, such as a hotel or resort.",
+      "A participation in a single activity, such as a workshop or class.",
+      "A travel experience that involves visiting multiple destinations in a single trip, often by ship or plane."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The 'Jamaican Music Festival' is an example of which type of cultural event?",
+    "options": [
+      "A food and drink festival.",
+      "A festival of music, dance, and art that celebrates the cultural heritage of the host country.",
+      "A sporting event.",
+      "A fashion show."
     ],
     "correctIndex": 1
   },
   {
-    "question": "A government implementing a 'Tourism Master Plan' would PRIMARILY use this document to:",
+    "question": "The 'Caribbean Cruise' is an example of which type of tourist activity?",
     "options": [
-      "Set daily pricing standards for hotel operators across the destination",
-      "Provide a long-term strategic framework for tourism development, including policies on infrastructure, marketing, human resource development, and sustainability",
-      "Regulate the conduct of tour operators and travel agents within the country",
-      "Establish visa and entry requirements for international visitors"
+      "A travel experience that involves visiting multiple destinations in a single trip, often by ship or plane.",
+      "A tour of a single attraction or site, such as a museum or historical landmark.",
+      "A participation in a single activity, such as a workshop or class.",
+      "A stay at a single destination, such as a hotel or resort."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The 'Jamaican Music Festival' is an example of which type of cultural event?",
+    "options": [
+      "A food and drink festival.",
+      "A festival of music, dance, and art that celebrates the cultural heritage of the host country.",
+      "A fashion show.",
+      "A sporting event."
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a boutique hotel?",
+    "options": [
+      "It provides limited amenities and services, such as basic room facilities and food service.",
+      "It caters to a budget-conscious clientele.",
+      "It offers a high level of personalized service and a focus on comfort and relaxation.",
+      "It is typically located in a remote area, far from tourist attractions."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the Tourist Board?",
+    "options": [
+      "To assist in the development of local products and services.",
+      "To manage and supervise tour operations.",
+      "To provide tourists with accurate and up-to-date information on destinations, attractions, and activities within the region.",
+      "To promote the region as a tourist destination and to develop and implement tourism policies and plans."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a resort hotel?",
+    "options": [
+      "It offers a range of amenities and services, such as dining, entertainment, and recreational activities.",
+      "It provides limited amenities and services, such as basic room facilities and food service.",
+      "It is typically located in a remote area, far from tourist attractions.",
+      "It caters to a budget-conscious clientele."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of tourist facility that specializes in the provision of accommodations and services, such as rooms, meals, and entertainment?",
+    "options": [
+      "A restaurant or cafe.",
+      "A tour operator.",
+      "A souvenir shop.",
+      "A hotel or resort."
+    ],
+    "correctIndex": 3
   }
 ]

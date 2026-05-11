@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which type of line is used to represent hidden edges in an orthographic drawing?",
+    "question": "In CAD, what does the term 'layer' refer to?",
     "options": [
-      "A continuous thin line",
-      "A dashed thin line",
-      "A chain line",
-      "A continuous thick line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In first angle projection, where is the front view placed relative to the plan view?",
-    "options": [
-      "Above the plan view",
-      "Below the plan view",
-      "To the right of the plan view",
-      "To the left of the plan view"
+      "A layer is a group of objects that can be turned on or off as a group",
+      "A layer is a group of objects that can be edited as a group",
+      "A layer is a group of objects that can be deleted as a group",
+      "A layer is a group of objects that can be moved as a group"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the included angle of a standard metric thread (ISO)?",
+    "question": "What is the term used to describe the method of representing a three-dimensional object on a two-dimensional plane by drawing all sides of the object simultaneously?",
     "options": [
-      "55 degrees",
-      "60 degrees",
-      "45 degrees",
-      "90 degrees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which scale would make a drawing larger than the actual object?",
-    "options": [
-      "1:2",
-      "1:5",
-      "2:1",
-      "1:10"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A regular hexagon is a polygon with how many equal sides?",
-    "options": [
-      "Five",
-      "Seven",
-      "Eight",
-      "Six"
+      "Geometric construction",
+      "Orthographic projection",
+      "Perspective drawing",
+      "Isometric drawing"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In third angle projection, the right side view is placed on which side of the front view?",
+    "question": "A building drawing that shows the location of all the rooms in a building and is drawn to a scale of 1:50 is also known as a ?",
     "options": [
-      "Left side",
-      "Right side",
-      "Above",
-      "Below"
+      "Block plan",
+      "Elevation drawing",
+      "Floor plan",
+      "Site plan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of view that shows an object from a 90-degree angle?",
+    "options": [
+      "Orthographic View",
+      "Oblique View",
+      "Perspective View",
+      "Isometric View"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term used to describe the method of drawing a section view of a building as a cut through it?",
+    "options": [
+      "Elevation drawing",
+      "Sectional view",
+      "Block plan",
+      "Plan view"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What instrument is used to measure and transfer angles in technical drawing?",
+    "question": "In CAD, what does the acronym 'DXF' stand for?",
     "options": [
-      "Set square",
-      "Compass",
-      "Protractor",
-      "Dividers"
+      "Drawing Exchange Format",
+      "Design Exchange Format",
+      "Data Exchange Format",
+      "Drawing Interchange Format"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In CAD, what is the term for the process of saving a drawing?",
+    "options": [
+      "Creating",
+      "Editing",
+      "Saving",
+      "Modifying"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of drawing shows all three dimensions of an object in a single view using 30-degree angles to the horizontal?",
+    "question": "In an isometric drawing, what is the angle between each principal axis?",
     "options": [
-      "Oblique drawing",
-      "Isometric drawing",
-      "Orthographic drawing",
-      "Perspective drawing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The development of a cylinder when unrolled produces which flat shape?",
-    "options": [
-      "A triangle",
-      "A circle",
-      "A rectangle",
-      "A trapezium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In an isometric drawing, the three axes are drawn at what angles to each other?",
-    "options": [
-      "90 degrees",
-      "45 degrees",
-      "120 degrees",
-      "60 degrees"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which line type is used to indicate a centre line on a technical drawing?",
-    "options": [
-      "Continuous thick line",
-      "Long chain thin line",
-      "Short dashed thin line",
-      "Continuous thin line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'tolerance' mean in engineering drawing?",
-    "options": [
-      "The exact size of a component",
-      "The permissible variation in a dimension",
-      "The scale of the drawing",
-      "The type of projection used"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cabinet oblique drawing is drawn with receding lines at which angle to the horizontal?",
-    "options": [
-      "30 degrees",
       "60 degrees",
+      "120 degrees",
       "90 degrees",
       "45 degrees"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "Which geometric construction method is used to bisect a straight line?",
+    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a door?",
     "options": [
-      "Drawing arcs from each endpoint and joining the intersection points",
-      "Drawing a perpendicular from one endpoint only",
-      "Using a protractor to measure 90 degrees",
-      "Measuring the line with a ruler and marking the midpoint by eye"
+      "Centre line",
+      "Hidden line",
+      "Hatching line",
+      "Section line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term used to describe the process of taking measurements from an object and transferring them onto a drawing?",
+    "options": [
+      "Designing and drafting",
+      "Drawing and drafting",
+      "Measuring and setting out",
+      "Engineering and drafting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term used to describe the process of adding a scale to a drawing?",
+    "options": [
+      "Adding a title block",
+      "Adding a legend",
+      "Adding a scale",
+      "Adding a key"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term used to describe the line used to represent the surface of an object in a plan view?",
+    "options": [
+      "Section line",
+      "Hatching line",
+      "Centre line",
+      "Hidden line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a window?",
+    "options": [
+      "Hidden line",
+      "Hatching line",
+      "Section line",
+      "Centre line"
     ],
     "correctIndex": 0
   },
   {
-    "question": "On a drawing, the symbol for a countersunk hole is represented by which symbol?",
+    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a wall?",
     "options": [
-      "A circle with a cross inside",
-      "A filled circle",
-      "A circle with a V-shaped symbol",
-      "A dashed circle"
+      "Section line",
+      "Centre line",
+      "Hidden line",
+      "Hatching line"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term used to describe the line that indicates the height of the section line in a sectional drawing?",
+    "options": [
+      "Section height line",
+      "Section centre line",
+      "Section title line",
+      "Section number line"
+    ],
+    "correctIndex": 0
   }
 ]

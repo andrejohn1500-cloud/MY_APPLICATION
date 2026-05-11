@@ -1,151 +1,61 @@
 [
   {
-    "question": "Which type of line is used to represent the outline of a visible edge in technical drawing?",
+    "question": "What is the term used to describe the method of drawing a plan view of a building on a small scale?",
     "options": [
-      "A thin continuous line",
-      "A thick continuous line",
-      "A dashed thin line",
-      "A chain line"
+      "Elevation drawing",
+      "Site plan",
+      "Block plan",
+      "Floor plan"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When drawing an isometric projection, the three principal axes are drawn at what angles to the horizontal?",
+    "question": "A building drawing that shows the location of all the rooms in a building is also known as a ?",
     "options": [
-      "30\u00b0, 90\u00b0, and 30\u00b0",
-      "45\u00b0, 90\u00b0, and 45\u00b0",
-      "60\u00b0, 90\u00b0, and 60\u00b0",
-      "30\u00b0, 60\u00b0, and 90\u00b0"
+      "Floor plan",
+      "Block plan",
+      "Elevation drawing",
+      "Site plan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In CAD, what does the acronym 'LWP' stand for?",
+    "options": [
+      "Lightweight part",
+      "Large workpiece",
+      "Linear weight profile",
+      "Layered workpiece"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the correct first-angle orthographic projection symbol?",
+    "question": "What is the term used to describe the process of adding a legend to a drawing?",
     "options": [
-      "A circle with a truncated cone pointing away from the viewer",
-      "A circle with a truncated cone pointing toward the viewer",
-      "A circle with a full cone pointing left",
-      "A square with diagonal lines"
+      "Adding a key",
+      "Adding a scale",
+      "Adding a title block",
+      "Adding a legend"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A hexagonal prism has how many faces in total?",
+    "question": "In CAD, what does the acronym '3D' stand for?",
     "options": [
-      "6",
-      "8",
-      "10",
-      "12"
+      "Three-Dimensional Drawing",
+      "Two-dimensional",
+      "Three-Dimensional Design",
+      "Three-dimensional"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which instrument is used to measure and transfer angles accurately in technical drawing?",
+    "question": "A building drawing that shows the front, side and rear elevations of a building is also known as a ?",
     "options": [
-      "Set square",
-      "Compass",
-      "Protractor",
-      "Divider"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In orthographic projection, the front view, plan view, and side view are also known respectively as:",
-    "options": [
-      "Elevation, Plan, and End elevation",
-      "Plan, Elevation, and Section",
-      "Section, Plan, and Elevation",
-      "Profile, Section, and Plan"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does a chain line (long dash, short dash) represent in a technical drawing?",
-    "options": [
-      "A hidden detail",
-      "A centre line or axis of symmetry",
-      "A cutting plane",
-      "A dimension line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "To bisect a given straight line using only a compass and straight edge, you draw arcs from each endpoint with a radius greater than:",
-    "options": [
-      "One quarter of the line length",
-      "One third of the line length",
-      "Half the line length",
-      "The full line length"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which scale would make a drawing four times larger than the actual object?",
-    "options": [
-      "1:4",
-      "4:1",
-      "1:2",
-      "2:1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The development of a right circular cylinder produces which geometric shape when unrolled?",
-    "options": [
-      "A trapezium",
-      "A triangle",
-      "A rectangle",
-      "A parallelogram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a third-angle orthographic projection, where is the plan (top view) positioned relative to the front elevation?",
-    "options": [
-      "Below the front elevation",
-      "To the left of the front elevation",
-      "Above the front elevation",
-      "To the right of the front elevation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the included angle of each interior angle of a regular hexagon?",
-    "options": [
-      "108\u00b0",
-      "120\u00b0",
-      "135\u00b0",
-      "150\u00b0"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When constructing an ellipse using the trammel method, the trammel is set with half the:",
-    "options": [
-      "Minor axis and major axis marked on the same edge",
-      "Minor axis on one mark and major axis on another mark",
-      "Perimeter divided into four equal parts",
-      "Diameter of the circle at each focus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cutting plane line in a sectional drawing is represented by:",
-    "options": [
-      "A thick continuous line",
-      "A thin dashed line",
-      "A chain line with thick ends and arrows",
-      "A thin wavy line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes an auxiliary view in technical drawing?",
-    "options": [
-      "A view projected onto a plane parallel to one of the principal planes",
-      "A view projected onto a plane inclined to all three principal planes",
-      "A view projected onto an inclined plane to show the true shape of a slanted surface",
-      "A view showing internal details using hidden lines only"
+      "Floor plan",
+      "Block plan",
+      "Elevation drawing",
+      "Site plan"
     ],
     "correctIndex": 2
   }

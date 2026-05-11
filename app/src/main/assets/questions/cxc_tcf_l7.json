@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is haute couture?",
+    "question": "What is the term for the process of shaping a metal by applying heat and pressure?",
     "options": [
-      "To press curved seams and shaped areas",
-      "High-end custom-fitted fashion made by leading designers",
-      "Swimwear and lingerie",
-      "Spinning"
+      "Welding",
+      "Brazing",
+      "Forging",
+      "Soldering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A concrete mix has a slump of 100 mm. What does this indicate?",
+    "options": [
+      "High Workability",
+      "Poor Workability",
+      "Low Workability",
+      "Good Workability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of removing the surface layer of a metal to reveal a smooth surface?",
+    "options": [
+      "Grinding",
+      "Polishing",
+      "Tapping",
+      "Drilling"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a synthetic fibre?",
+    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 30\u00b0 incline?",
     "options": [
-      "Hand or drape",
-      "Reactive dye",
-      "A fibre made from chemicals",
-      "A triangle with a cross"
+      "98.1 N",
+      "150 N",
+      "50 N",
+      "100 N"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a toile?",
+    "question": "A building has a height of 10 stories, each with a floor area of 1000 m^2. What is the total floor area?",
     "options": [
-      "Screen printing",
-      "Reactive dye",
-      "Fibres obtained from plants and animals",
-      "A test garment made in cheap fabric before cutting the final fabric"
+      "1,000 m^2",
+      "5,000 m^2",
+      "20,000 m^2",
+      "10,000 m^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the grain of a fabric?",
+    "question": "The coefficient of friction between two surfaces is 0.2. What force is required to move an object with a mass of 10 kg up a 30\u00b0 incline?",
     "options": [
-      "Hand or drape",
-      "The direction of the threads in the fabric",
-      "A piece of fabric used to finish raw edges",
-      "Measuring tape"
+      "150 N",
+      "100 N",
+      "50 N",
+      "98.1 N"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The ratio of the length of a beam to its depth is 4:1. What is the angle of the beam?",
+    "options": [
+      "90\u00b0",
+      "60\u00b0",
+      "26.57\u00b0",
+      "45\u00b0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In electrical technology, what is the term for the flow of current in a circuit due to the presence of a voltage source?",
+    "options": [
+      "Capacitive Current",
+      "Dielectric Current",
+      "Ohmic Current",
+      "Inductive Current"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A gear has a pitch circle diameter of 200 mm and a pressure angle of 20\u00b0. What is its addendum?",
+    "options": [
+      "12 mm",
+      "8 mm",
+      "10 mm",
+      "4 mm"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of fabric has a raised cut pile?",
+    "question": "A gear has a pitch circle diameter of 400 mm and a pressure angle of 25\u00b0. What is its addendum?",
     "options": [
-      "Velvet",
-      "Bamboo",
-      "Texture",
-      "Twill weave"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of seam is most durable?",
-    "options": [
-      "French seam",
-      "Ready to wear",
-      "A small collection of versatile, timeless clothing",
-      "Tracing wheel"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What temperature does a hot iron setting reach?",
-    "options": [
-      "Silkworm",
-      "Mohair",
-      "210 degrees Celsius",
-      "Coco Chanel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a facing in sewing?",
-    "options": [
-      "Knitting",
-      "A piece of fabric used to finish raw edges",
-      "Cotton",
-      "Cutting fabric diagonally across the grain"
+      "15 mm",
+      "10 mm",
+      "12 mm",
+      "8 mm"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a motif in textile design?",
+    "question": "What is the term for the process of joining two metal pieces by using a filler material?",
     "options": [
-      "French seam",
-      "Cotton",
-      "A method of dyeing fabric by tying sections to resist the dye",
-      "A single design unit that can be repeated"
+      "Soldering",
+      "Brazing",
+      "Welding",
+      "Fusion"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "Which fastener uses interlocking teeth?",
+    "question": "A building has a height of 10 meters and a width of 10 meters. What is its perimeter?",
     "options": [
-      "A folded tuck to shape fabric to the body",
-      "Box pleat",
-      "A process to prevent shrinkage in cotton fabric",
-      "Zip/zipper"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which tool is used to measure fabric?",
-    "options": [
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "The diagonal direction at 45 degrees to the grain",
-      "Measuring tape",
-      "The finished edge that prevents fraying"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which stitch is used to join two pieces of fabric?",
-    "options": [
-      "Extra room added for comfort and movement",
-      "Peter Pan collar",
-      "A template used to cut fabric pieces",
-      "Seam"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the selvedge of a fabric?",
-    "options": [
-      "A visual collage that communicates design concepts",
-      "Red, yellow and blue",
-      "Threads running crosswise on the loom",
-      "The finished edge that prevents fraying"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which stitch is used for gathering fabric?",
-    "options": [
-      "A measure of the fineness or thickness of yarn",
-      "Felt",
-      "Zipper foot",
-      "Running stitch"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a tailor's ham?",
-    "options": [
-      "To press curved seams and shaped areas",
-      "Bamboo",
-      "A fibre made from chemicals",
-      "Overcasting or serging"
+      "40 m",
+      "10 m",
+      "20 m",
+      "30 m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which fabric is most absorbent?",
+    "question": "What is the term for the process of joining two metal pieces by applying heat and pressure?",
     "options": [
-      "Cotton",
-      "High-end custom-fitted fashion made by leading designers",
-      "A single design unit that can be repeated",
-      "Calendering"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a blended fabric?",
-    "options": [
-      "The direction of the threads in the fabric",
-      "A small collection of versatile, timeless clothing",
-      "A fabric made from two or more different fibres",
-      "Analogous"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which designer created the little black dress?",
-    "options": [
-      "Coco Chanel",
-      "A fabric made from two or more different fibres",
-      "Waterproofing",
-      "A piece of fabric used to finish raw edges"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which dye is used for natural fibres like cotton?",
-    "options": [
-      "Reactive dye",
-      "Small balls of fibre that form on the surface",
-      "A fabric made from two or more different fibres",
-      "A folded tuck to shape fabric to the body"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is weft in weaving?",
-    "options": [
-      "A small collection of versatile, timeless clothing",
-      "Knitting",
-      "Measuring tape",
-      "Threads running crosswise on the loom"
+      "Forging",
+      "Soldering",
+      "Brazing",
+      "Welding"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "A building has a height of 10 meters and a width of 5 meters. What is its perimeter?",
+    "options": [
+      "20 m",
+      "50 m",
+      "30 m",
+      "10 m"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A workshop technician is using a milling machine to cut a metal part. The milling cutter is rotating at 1000 rpm. The cutting speed of the milling cutter is 100 m/min. What is the diameter of the milling cutter?",
+    "options": [
+      "0.01 m",
+      "0.02 m",
+      "0.03 m",
+      "0.04 m"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,202 +1,102 @@
 [
   {
-    "question": "What is warp in weaving?",
+    "question": "What is the primary function of a bearing in a mechanical assembly?",
     "options": [
-      "Threads running lengthwise on the loom",
-      "Non-woven fabric",
-      "Mass-produced clothing in standard sizes",
-      "Equal distribution of visual weight"
+      "To absorb shock",
+      "To support weight",
+      "To reduce friction between moving parts",
+      "To increase friction"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is a pattern in sewing?",
+    "question": "What is the primary function of a template in a mechanical assembly?",
     "options": [
-      "A folded and stitched edge of fabric",
-      "A template used to cut fabric pieces",
-      "Adjusting a pattern to a different size",
-      "A single design unit that can be repeated"
+      "To create a rough outline",
+      "To copy a design",
+      "To draw a freehand sketch",
+      "To create a precise representation of an object or shape"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What safety precaution should be taken when working with electrical tools in a wet environment?",
+    "options": [
+      "Removing safety guards",
+      "Not wearing protective gear",
+      "Using a GFCI outlet and keeping the area well-ventilated",
+      "Working in a cluttered environment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of a fuse in electrical circuits?",
+    "options": [
+      "To increase voltage levels",
+      "To decrease resistance",
+      "To protect the circuit from excessive current flow",
+      "To improve circuit efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the ability of a material to withstand high temperatures without deforming or breaking?",
+    "options": [
+      "Impact resistance",
+      "Hardness",
+      "Toughness",
+      "High-temperature resistance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the force that opposes the motion of an object moving through a fluid?",
+    "options": [
+      "Buoyancy",
+      "Gravity",
+      "Drag",
+      "Friction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a pulley in a mechanical assembly?",
+    "options": [
+      "To increase force",
+      "To change the direction of force or motion",
+      "To change the speed of motion",
+      "To decrease force"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which designer created the little black dress?",
+    "question": "What is the term for the process of joining two metal pieces together using a torch and filler metal in a vacuum environment?",
     "options": [
-      "Swimwear and lingerie",
-      "The finished edge that prevents fraying",
-      "A wax-resist dyeing technique applied to cloth",
-      "Coco Chanel"
+      "Soldering",
+      "Cutting",
+      "Welding",
+      "Vacuum brazing"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which fibre shrinks when washed in hot water?",
+    "question": "Which workshop tool is used to sharpen cutting tools?",
     "options": [
-      "Threads running crosswise on the loom",
-      "High-end custom-fitted fashion made by leading designers",
-      "To add structure and support to fabric",
-      "Wool"
+      "Drill press",
+      "Miter saw",
+      "Band saw",
+      "Sharpening stone"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which fabric characteristic refers to how it drapes?",
+    "question": "What safety precaution should be taken when working with hazardous materials?",
     "options": [
-      "To press curved seams and shaped areas",
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "A symbol or name that identifies a brand",
-      "Hand or drape"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a gore in garment construction?",
-    "options": [
-      "Polyester",
-      "A piece of fabric used to finish raw edges",
-      "A triangular piece of fabric that adds fullness",
-      "Spinning"
+      "Mixing chemicals without caution",
+      "Not wearing protective gear",
+      "Wearing protective gear and following proper disposal procedures",
+      "Inhaling fumes"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which tool is used to open seams when pressing?",
-    "options": [
-      "Bamboo",
-      "Peter Pan collar",
-      "Seam roll",
-      "A small collection of versatile, timeless clothing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of interfacing?",
-    "options": [
-      "Silkworm",
-      "Seam",
-      "To add structure and support to fabric",
-      "Line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which printing method uses a mesh screen?",
-    "options": [
-      "Equal distribution of visual weight",
-      "Overcasting or serging",
-      "Box pleat",
-      "Screen printing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the principle of balance in design?",
-    "options": [
-      "A folded tuck to shape fabric to the body",
-      "Equal distribution of visual weight",
-      "A small collection of versatile, timeless clothing",
-      "An opening in a garment that allows it to be put on and taken off"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is ready-to-wear clothing?",
-    "options": [
-      "Mass-produced clothing in standard sizes",
-      "Decorative fabric pieces sewn onto a base fabric",
-      "Threads running crosswise on the loom",
-      "Knitting"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is tie-dyeing?",
-    "options": [
-      "Calendering",
-      "An opening in a garment that allows it to be put on and taken off",
-      "A method of dyeing fabric by tying sections to resist the dye",
-      "Felt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does ease mean in a sewing pattern?",
-    "options": [
-      "Creating a focal point or centre of interest",
-      "Nylon",
-      "Extra room added for comfort and movement",
-      "Calendering"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term bias cut mean in fashion?",
-    "options": [
-      "Zipper foot",
-      "A process to prevent shrinkage in cotton fabric",
-      "Cutting fabric diagonally across the grain",
-      "Waterproofing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fibre comes from the flax plant?",
-    "options": [
-      "Linen",
-      "Velvet",
-      "Screen printing",
-      "A sleeve that extends to the collar without a shoulder seam"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of seam is most durable?",
-    "options": [
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "French seam",
-      "Knitting",
-      "Line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a toile?",
-    "options": [
-      "A test garment made in cheap fabric before cutting the final fabric",
-      "Washing instructions",
-      "A vertical seam from shoulder to hem that shapes the bodice",
-      "Fibres obtained from plants and animals"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is pilling on fabric?",
-    "options": [
-      "Fibres obtained from plants and animals",
-      "Polyester",
-      "Small balls of fibre that form on the surface",
-      "A wax-resist dyeing technique applied to cloth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fabric requires dry cleaning only?",
-    "options": [
-      "Blanket stitch",
-      "A finishing process that increases the strength and lustre of cotton",
-      "A fabric made from two or more different fibres",
-      "Silk"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the process of making yarn from fibres called?",
-    "options": [
-      "Ready to wear",
-      "Spinning",
-      "Threads running lengthwise on the loom",
-      "Non-woven fabric"
-    ],
-    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "A hexagonal prism is cut by an oblique plane. The true shape of the section is best obtained by which method?",
+    "question": "In technical drawing, what is the term for a symbol that represents a bolt?",
     "options": [
-      "Auxiliary view projection perpendicular to the cutting plane",
-      "Rotating the cutting plane to horizontal",
-      "Direct measurement from the front view",
-      "Rabatment about the trace of the cutting plane"
+      "Rivet symbol",
+      "Nut symbol",
+      "Bolt symbol",
+      "Screw symbol"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In orthographic projection, what is the term for a view that shows the object in a full-face position?",
+    "options": [
+      "Elevation view",
+      "Plan view",
+      "Side view",
+      "Front view"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When drawing the development of an oblique cone, which construction technique is most appropriate?",
+    "question": "A building plan is represented with a scale of 1:100. What is the actual distance represented by 1 grid unit?",
     "options": [
-      "Parallel line development",
-      "Radial line development using approximate slant heights",
-      "Triangulation development",
-      "Orthographic projection only"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In first-angle orthographic projection, where is the plan view located relative to the front elevation?",
-    "options": [
-      "Above the front elevation",
-      "Below the front elevation",
-      "To the right of the front elevation",
-      "To the left of the front elevation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A point P lies 30 mm above the HP and 20 mm in front of the VP. In first-angle projection, the front view of point P is located:",
-    "options": [
-      "30 mm above the XY line",
-      "20 mm above the XY line",
-      "30 mm below the XY line",
-      "20 mm below the XY line"
+      "1 meter",
+      "0.5 meters",
+      "2 meters",
+      "0.1 meters"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The locus of a point that moves so that the ratio of its distance from a fixed point to its distance from a fixed straight line equals 0.6 traces which conic section?",
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 2D image using a computer-aided design software and a 3D modeling software?",
     "options": [
-      "Parabola",
-      "Hyperbola",
-      "Ellipse",
-      "Circle"
+      "wireframe modeling",
+      "solid modeling",
+      "surface modeling",
+      "CAD drafting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When creating an isometric drawing, what is the term for the method of representing a 3D object as a 2D image?",
+    "options": [
+      "two-thirds angle projection",
+      "one-third angle projection",
+      "30-60-90 triangle projection",
+      "45-45-90 triangle projection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D model using a computer-aided design software?",
+    "options": [
+      "surface modeling",
+      "CAD drafting",
+      "wireframe modeling",
+      "solid modeling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 2D image?",
+    "options": [
+      "rendering",
+      "sketching",
+      "drawing",
+      "drafting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A dimension is represented as 2 3/4 inches. What is the decimal equivalent of this dimension?",
+    "options": [
+      "2.5 inches",
+      "2.25 inches",
+      "2.75 inches",
+      "2 inches"
     ],
     "correctIndex": 2
   },
   {
-    "question": "To find the true length of a line AB that appears foreshortened in both the front and plan views, the most direct method is:",
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a three-dimensional object?",
     "options": [
-      "Draw an auxiliary view with the projection plane parallel to AB",
-      "Rotate AB until it is parallel to the VP",
-      "Use the diagonal of a rectangle formed by the projected lengths",
-      "Both A and B are equally valid direct methods"
+      "orthographic projection",
+      "axonometric projection",
+      "isometric projection",
+      "perspective projection"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In isometric drawing, the isometric axes are inclined at what angles to the horizontal?",
+    "question": "In CAD, what is the term for a 3D model that is made up of connected surfaces and solids?",
     "options": [
-      "30\u00b0 and 60\u00b0",
-      "30\u00b0 each side and one vertical",
-      "45\u00b0 each side and one vertical",
-      "60\u00b0 each side and one vertical"
+      "Solid model",
+      "Mixed model",
+      "Surface model",
+      "Wireframe model"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When two unequal diameter cylinders intersect at right angles with their axes on the same horizontal plane, the curve of interpenetration in the front view is:",
+    "question": "A building plan is represented with a scale of 1:50. What is the actual distance represented by 1 grid unit?",
     "options": [
-      "A true circle",
-      "A straight line",
-      "A curve that must be plotted by projection from plan and end views",
-      "An ellipse directly visible in the front view"
+      "0.04 meters",
+      "0.03 meters",
+      "0.02 meters",
+      "0.01 meters"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The development of the lateral surface of a right circular cone with base radius r and slant height l has a sector with radius l and arc length equal to:",
+    "question": "A dimension is represented as 3 1/4 inches. What is the decimal equivalent of this dimension?",
     "options": [
-      "\u03c0 r",
-      "2\u03c0 r",
-      "\u03c0 l",
-      "2\u03c0 l"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a perspective drawing using the two-point method, the vanishing points are located on the:",
-    "options": [
-      "Ground line",
-      "Horizon line",
-      "Picture plane baseline",
-      "Station point line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A regular hexagonal pyramid is standing on its base on the HP. An auxiliary plane inclined at 55\u00b0 to the HP cuts through three alternate faces. The true shape of the cross-section is obtained by projecting onto a plane that is:",
-    "options": [
-      "Parallel to the XY line",
-      "Perpendicular to the VP",
-      "Parallel to the cutting plane",
-      "Perpendicular to the HP and parallel to the VP"
+      "3.5 inches",
+      "3.75 inches",
+      "3.25 inches",
+      "3 inches"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes the involute of a circle?",
+    "question": "A building plan is represented as a grid system with a scale of 1:10. What is the actual distance represented by 1 grid unit?",
     "options": [
-      "The path traced by a point on a circle rolling on a straight line",
-      "The path traced by the end of a taut string unwound from a circle",
-      "The locus of a point at a fixed ratio between a focus and a directrix",
-      "The spiral path traced by a point moving at uniform velocity from the centre of a rotating circle"
+      "0.05 meters",
+      "0.2 meters",
+      "0.3 meters",
+      "0.1 meters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building plan is represented with a scale of 1:100. What is the actual distance represented by 1 grid unit?",
+    "options": [
+      "0.1 meters",
+      "2 meters",
+      "0.5 meters",
+      "1 meter"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A building plan is represented as a grid system with a scale of 1:20. What is the actual distance represented by 1 grid unit?",
+    "options": [
+      "0.01 meters",
+      "0.05 meters",
+      "0.1 meters",
+      "0.3 meters"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "In oblique projection using the cavalier method, receding lines are drawn at 45\u00b0 and their lengths are:",
-    "options": [
-      "Halved",
-      "Two-thirds of true length",
-      "Full true length",
-      "Doubled"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A line makes an angle of 40\u00b0 with the HP and 35\u00b0 with the VP. This statement is:",
-    "options": [
-      "Always possible for any combination of angles",
-      "Possible only if the sum of both angles is less than 90\u00b0",
-      "Impossible because the sum exceeds 90\u00b0",
-      "Possible only if the line is parallel to both planes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When constructing the transition piece that connects a square duct to a circular duct, the development method used is:",
-    "options": [
-      "Parallel line development",
-      "Radial line development",
-      "Triangulation development",
-      "Approximate development only"
-    ],
-    "correctIndex": 2
   }
 ]

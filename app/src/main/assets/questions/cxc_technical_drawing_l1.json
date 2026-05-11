@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the standard angle of a set square used to draw 45\u00b0 angles?",
+    "question": "In orthographic projection, what is the term for the view of an object from below?",
     "options": [
-      "30/60 set square",
-      "45/45 set square",
-      "60/90 set square",
-      "30/45 set square"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which line type is used to represent hidden edges in a technical drawing?",
-    "options": [
-      "Continuous thin line",
-      "Continuous thick line",
-      "Dashed thin line",
-      "Chain line"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'orthographic projection' mean?",
-    "options": [
-      "Drawing objects in 3D perspective",
-      "Representing a 3D object using 2D views at right angles",
-      "Drawing objects using circles only",
-      "Representing objects using isometric axes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In first angle orthographic projection, where is the front view placed?",
-    "options": [
-      "Top left",
-      "Top right",
-      "Bottom left",
-      "Centre top"
+      "End View",
+      "Top View",
+      "Side View",
+      "Front View"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which instrument is used to measure and draw angles?",
+    "question": "What is the term for a type of view that shows an object from a 45-degree angle?",
     "options": [
-      "Compass",
-      "Protractor",
-      "Set square",
-      "Ruler"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the name of the pictorial drawing method where all three axes are drawn at 120\u00b0 to each other?",
-    "options": [
-      "Perspective drawing",
-      "Oblique drawing",
-      "Isometric drawing",
-      "Orthographic drawing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is NOT a standard drawing sheet size?",
-    "options": [
-      "A1",
-      "A2",
-      "A3",
-      "A5"
+      "Orthographic View",
+      "Perspective View",
+      "Oblique View",
+      "Isometric View"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What type of line is used to show the centre of a circle in technical drawing?",
+    "question": "What is the term for a line that is drawn in a curved shape to connect two points?",
     "options": [
-      "Continuous thick line",
-      "Dashed line",
-      "Chain line (centre line)",
-      "Wavy line"
+      "Dimension Line",
+      "Straight Line",
+      "Freehand Line",
+      "Extension Line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A drawing scale of 1:2 means the drawing is drawn at what size compared to the actual object?",
+    "question": "What is the term for a type of view that shows an object from a 30-degree angle?",
     "options": [
-      "Twice the actual size",
-      "Half the actual size",
-      "Same as actual size",
-      "One quarter the actual size"
+      "Isometric View",
+      "Orthographic View",
+      "Perspective View",
+      "Oblique View"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which view in orthographic projection shows the object as seen from directly above?",
+    "question": "What is the term for a type of drawing that shows the relationship between different parts of an object?",
     "options": [
-      "Front view",
-      "Side view",
-      "Plan view",
-      "End view"
+      "Assembly Drawing",
+      "Isometric Drawing",
+      "Sectional View",
+      "Engineering Drawing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In CAD, what is the term for the process of creating a new drawing from an existing drawing?",
+    "options": [
+      "Modifying",
+      "Saving",
+      "Editing",
+      "Creating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In building drawing, what is the term for the process of creating a drawing from a 3D object?",
+    "options": [
+      "Oblique Projection",
+      "Perspective Drawing",
+      "Orthographic Projection",
+      "Isometric Projection"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a title block on a technical drawing?",
+    "question": "What is the term for a type of projection that shows an object from a 45-degree angle?",
     "options": [
-      "To decorate the drawing sheet",
-      "To provide important information such as scale, title and date",
-      "To show the dimensions of the object only",
-      "To indicate the type of pencil used"
+      "Orthographic Projection",
+      "Isometric Projection",
+      "Perspective Projection",
+      "Oblique Projection"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which pencil grade is hardest and most suitable for construction lines?",
+    "question": "In CAD, what is the term for the process of creating a new drawing from scratch?",
     "options": [
-      "HB",
-      "2B",
-      "4H",
-      "B"
+      "Modifying",
+      "Saving",
+      "Editing",
+      "Creating"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a 3D object?",
+    "options": [
+      "Oblique Projection",
+      "Isometric Projection",
+      "Orthographic Projection",
+      "Perspective Drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In oblique drawing, the front face of the object is drawn at what angle to the horizontal?",
+    "question": "In building drawing, what is the term for the process of creating a drawing from a set of plans?",
     "options": [
-      "30\u00b0",
-      "45\u00b0",
-      "60\u00b0",
-      "90\u00b0"
+      "Sectional View",
+      "Assembly Drawing",
+      "Engineering Drawing",
+      "Detail Drawing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In CAD, what is the term for the process of saving a drawing?",
+    "options": [
+      "Modifying",
+      "Saving",
+      "Creating",
+      "Editing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the name of the instrument used to draw circles and arcs?",
+    "question": "In CAD, what is the term for the process of creating a new drawing from an existing drawing?",
     "options": [
-      "Protractor",
-      "Set square",
-      "Compass",
-      "T-square"
+      "Saving",
+      "Creating",
+      "Editing",
+      "Modifying"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a line that is drawn to show the center of an object?",
+    "options": [
+      "Extension Line",
+      "Center Line",
+      "Hidden Line",
+      "Dimension Line"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In CAD, what is the term for the process of editing a drawing?",
+    "options": [
+      "Creating",
+      "Saving",
+      "Editing",
+      "Modifying"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which type of projection shows three faces of an object in one view using 30\u00b0 axes?",
-    "options": [
-      "Orthographic projection",
-      "Isometric projection",
-      "First angle projection",
-      "Third angle projection"
-    ],
-    "correctIndex": 1
   }
 ]

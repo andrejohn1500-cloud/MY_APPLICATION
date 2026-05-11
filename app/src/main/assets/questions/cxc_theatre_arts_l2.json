@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term used to describe the area of the stage closest to the audience?",
+    "question": "What is the term for the study of the ways in which theatre can be used to promote cultural expression and creativity?",
     "options": [
-      "Upstage",
-      "Centre stage",
-      "Downstage",
-      "Wings"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes a monologue?",
-    "options": [
-      "A conversation between two actors",
-      "A speech delivered by one actor alone",
-      "A dance performed by the entire cast",
-      "A song sung in harmony"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'blocking' mean in theatre?",
-    "options": [
-      "Designing the set",
-      "Planning the movements of actors on stage",
-      "Writing the script",
-      "Choosing the costumes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of stage has the audience seated on three sides?",
-    "options": [
-      "Proscenium stage",
-      "Thrust stage",
-      "Arena stage",
-      "Black box theatre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a costume in a theatrical production?",
-    "options": [
-      "To make the actor comfortable",
-      "To help define a character's personality and role",
-      "To hide the actor's identity",
-      "To reduce production costs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Caribbean playwright wrote 'Dream on Monkey Mountain'?",
-    "options": [
-      "Derek Walcott",
-      "Errol Hill",
-      "Trevor Rhone",
-      "Earl Lovelace"
+      "Cultural Expression Theatre",
+      "Theatre for Development",
+      "Theatre Education",
+      "Theatre for Social Justice"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the main problem or struggle in a play?",
+    "question": "What is the term for the process of selecting and arranging the lighting, sound, and other technical elements of a play?",
     "options": [
-      "Resolution",
-      "Climax",
-      "Conflict",
-      "Exposition"
+      "Rehearsal",
+      "Blocking",
+      "Design",
+      "Script Analysis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does 'stage left' mean for an actor standing on stage facing the audience?",
+    "question": "What is the term for the process of rehearsing a play with a focus on the physical and vocal aspects of performance?",
     "options": [
-      "The actor's right side",
-      "The audience's left side",
-      "The actor's left side",
-      "The back of the stage"
+      "Blocking",
+      "Improvisation",
+      "Rehearsal",
+      "Scene Study"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which element of theatre is responsible for controlling the mood through light and shadow?",
+    "question": "What is the term for the study of the ways in which theatre can be used to promote cultural values and traditions?",
     "options": [
-      "Sound design",
-      "Costume design",
-      "Lighting design",
-      "Set design"
+      "Theatre for Development",
+      "Cultural Theatre",
+      "Theatre Education",
+      "Theatre for Social Justice"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is improvisation in theatre?",
+    "question": "What is the term for the process of analyzing a character's motivations and behaviors to inform their performance?",
     "options": [
-      "Performing without a rehearsed script",
-      "Memorising lines perfectly",
-      "Designing the stage layout",
-      "Writing a new play"
+      "Script Analysis",
+      "Scene Study",
+      "Blocking",
+      "Character Analysis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following Caribbean theatre forms is characterized by the use of music, dance, and storytelling to retell mythological and historical events?",
+    "options": [
+      "Calypso",
+      "Kaiso",
+      "Masquerade",
+      "Pantomime"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the name given to the list of characters in a play?",
+    "question": "What is the term for the art of using language and gesture to create a specific mood or atmosphere in a scene?",
     "options": [
-      "Synopsis",
-      "Dramatis personae",
-      "Prologue",
-      "Stage directions"
+      "Playwrighting",
+      "Acting",
+      "Stagecraft",
+      "Directing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a form of Caribbean folk theatre?",
+    "question": "Which of the following Caribbean theatre forms is characterized by the use of music, dance, and storytelling to retell mythological and historical events?",
     "options": [
-      "Opera",
-      "Kabuki",
-      "Carnival masquerade",
-      "Commedia dell'arte"
+      "Masquerade",
+      "Pantomime",
+      "Kaiso",
+      "Calypso"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the role of a director in a theatrical production?",
+    "question": "Which of the following is a key element of a dramatic structure?",
     "options": [
-      "To perform the lead role",
-      "To design the costumes",
-      "To oversee and guide the entire production",
-      "To manage ticket sales"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'upstage' refer to?",
-    "options": [
-      "The area closest to the audience",
-      "The area farthest from the audience",
-      "The left side of the stage",
-      "The front of the stage"
+      " Rising Action",
+      "Exposition",
+      "Denouement",
+      "Climax"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following describes the 'exposition' of a play?",
+    "question": "Which of the following theatre practitioners is credited with the development of the 'Antonin Artaud' approach to theatre?",
     "options": [
-      "The turning point of the story",
-      "The final resolution of the conflict",
-      "The introduction of background information and characters",
-      "The most emotional scene in the play"
+      "Bertolt Brecht",
+      "Eugene Ionesco",
+      "Antonin Artaud",
+      "Samuel Beckett"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which of the following theatre practitioners is credited with the development of the 'Vsevolod Meyerhold' approach to directing?",
+    "options": [
+      "Konstantin Stanislavski",
+      "Lee Strasberg",
+      "Bertolt Brecht",
+      "Vsevolod Meyerhold"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following theatre practitioners is credited with the development of the 'Harold Clurman' approach to theatre?",
+    "options": [
+      "Harold Clurman",
+      "Lee Strasberg",
+      "Stella Adler",
+      "Konstantin Stanislavski"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of masks is characterized by a flat, two-dimensional design?",
+    "options": [
+      "Commedia dell'Arte",
+      "Harlequin",
+      "Greek Mask",
+      "Clown"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of analyzing a script to identify key elements such as character, plot, and setting?",
+    "options": [
+      "Script Analysis",
+      "Blocking",
+      "Character Development",
+      "Scene Study"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of analyzing a play's themes and ideas to inform the production?",
+    "options": [
+      "Blocking",
+      "Script Analysis",
+      "Scene Study",
+      "Thematic Analysis"
+    ],
+    "correctIndex": 3
   }
 ]

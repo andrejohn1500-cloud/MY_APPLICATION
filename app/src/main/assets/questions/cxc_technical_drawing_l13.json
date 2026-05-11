@@ -1,152 +1,62 @@
 [
   {
-    "question": "A regular hexagonal prism is cut by an oblique plane that passes through one of the top edges and exits through the opposite lateral face. When this section is unfolded (developed), the resulting shape on the lateral surface development is best described as:",
+    "question": "In engineering drawing, what is the term for a symbol that represents a rivet?",
     "options": [
-      "A straight horizontal line across all six rectangles",
-      "A zigzag line with varying heights across the six rectangular faces",
-      "A smooth curve passing through all six rectangular faces",
-      "A series of parallel diagonal lines on each rectangular face"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In first-angle orthographic projection, if the front view shows a circle and the side view shows a rectangle, the top view would most likely show:",
-    "options": [
-      "A circle",
-      "A rectangle with a hidden centre line",
-      "A rectangle",
-      "An ellipse"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When constructing an involute of a circle with radius r, the length of the tangent at the nth point of division equals:",
-    "options": [
-      "n \u00d7 r",
-      "n \u00d7 (circumference/number of divisions)",
-      "2\u03c0r/n",
-      "n \u00d7 \u03c0 \u00d7 r"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The true shape of an oblique section cut through a right circular cone is obtained by which auxiliary projection method?",
-    "options": [
-      "Projecting onto a plane parallel to the cutting plane",
-      "Rotating the cone until the section is horizontal",
-      "Using a second auxiliary projection from the primary auxiliary view",
-      "Projecting directly onto the profile plane"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A transition piece connects a square base of 80mm \u00d7 80mm to a circular top of diameter 60mm. The development of this transition piece consists of:",
-    "options": [
-      "Four identical triangles only",
-      "Four triangular and four conical surface segments",
-      "Four trapezoidal panels",
-      "Four conical frustum segments only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When two cylinders of equal diameter intersect at right angles, the curve of interpenetration as seen in the front view is:",
-    "options": [
-      "An ellipse",
-      "Two straight lines forming a cross",
-      "A parabola",
-      "Two straight lines at 45 degrees"
+      "Screw symbol",
+      "Nut symbol",
+      "Bolt symbol",
+      "Rivet symbol"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In isometric drawing, a circle of diameter 40mm appears as an ellipse. The major axis of this isometric ellipse measures approximately:",
+    "question": "In a building drawing, what is the term used to describe a line that indicates the location of a roof?",
     "options": [
-      "40mm",
-      "46.2mm",
-      "56.6mm",
-      "34.6mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A point P is located 30mm above the HP, 25mm in front of the VP, and 20mm to the right of the PP. In first-angle projection, the elevation of point P is:",
-    "options": [
-      "30mm above the XY reference line",
-      "25mm above the XY reference line",
-      "30mm below the XY reference line",
-      "20mm above the XY reference line"
+      "Hidden line",
+      "Hatching line",
+      "Centre line",
+      "Section line"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The helix angle of a screw thread is the angle between the helix and:",
+    "question": "In CAD, what does the acronym 'DXF' stand for?",
     "options": [
-      "The longitudinal axis of the screw",
-      "A plane perpendicular to the axis",
-      "The tangent to the pitch cylinder",
-      "The pitch of the thread"
+      "Drawing Exchange Format",
+      "Drawing Interchange Format",
+      "Design Exchange Format",
+      "Data Exchange Format"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When performing the development of an oblique cone, the method used is:",
+    "question": "In CAD, what is the term for a command that allows you to undo a previous action?",
     "options": [
-      "Parallel line development",
-      "Radial line development using the true apex",
-      "Triangulation method",
-      "Approximate radial line method"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the construction of a conic section, an ellipse is produced when the cutting plane makes an angle with the base that is:",
-    "options": [
-      "Equal to the semi-vertical angle of the cone",
-      "Greater than the semi-vertical angle of the cone",
-      "Less than the semi-vertical angle of the cone",
-      "Parallel to the axis of the cone"
+      "Copy command",
+      "Undo command",
+      "Cut command",
+      "Redo command"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A frustum of a square pyramid has a base of 100mm and a top of 60mm with a height of 80mm. To obtain the true length of the slant edge for development purposes, you would:",
+    "question": "What is the primary function of a centre line in a technical drawing?",
     "options": [
-      "Measure directly from the front elevation",
-      "Use the plan diagonal with the elevation height to find the true length by rotation",
-      "Apply Pythagoras using only the height and base",
-      "Scale from the isometric drawing"
+      "It is used to indicate the centre of a symmetrical object.",
+      "It is used to indicate the size of an object",
+      "It is used to indicate the boundary of a view",
+      "It is used to show the direction of motion"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In assembly drawing, a part that is sectioned and has a shaft passing through its centre \u2014 the shaft is shown in the cross-section as:",
+    "question": "What is the primary function of a title block in a technical drawing?",
     "options": [
-      "Fully cross-hatched like all other parts",
-      "Outlined only, without cross-hatching",
-      "Omitted from the drawing",
-      "Cross-hatched with a different pattern"
+      "It shows the direction of motion",
+      "It indicates the type of material used",
+      "It indicates the size of an object",
+      "It provides information about the drawing."
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When drawing the locus of a point on the circumference of a circle of radius r rolling along the inside of a circle of radius 4r, the resulting curve is known as:",
-    "options": [
-      "Epicycloid",
-      "Hypocycloid",
-      "Prolate trochoid",
-      "Cycloid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The oblique plane cutting an oblique cylinder to produce a true circular cross-section must be oriented:",
-    "options": [
-      "Perpendicular to the lateral surface elements",
-      "Parallel to the axis of the cylinder",
-      "Perpendicular to the axis of the cylinder",
-      "At the same angle as the obliquity of the axis"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

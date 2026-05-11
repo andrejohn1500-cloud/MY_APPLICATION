@@ -1,152 +1,152 @@
 [
   {
-    "question": "What type of line is used to represent the outline of an object in technical drawing?",
+    "question": "What is the term for the line that connects the center point of an arc to the endpoint?",
     "options": [
-      "A thin continuous line",
-      "A thick continuous line",
-      "A dashed line",
-      "A chain line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which instrument is used to measure and draw angles in technical drawing?",
-    "options": [
-      "Compass",
-      "Set square",
-      "Protractor",
-      "Divider"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the abbreviation '\u00d8' represent in a technical drawing?",
-    "options": [
-      "Radius",
-      "Thickness",
+      "Chord",
       "Diameter",
-      "Depth"
+      "Radius",
+      "Circumference"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In first angle orthographic projection, where is the front view placed relative to the plan view?",
+    "question": "In orthographic projection, what is the term for the view of an object from the side?",
     "options": [
-      "Above the plan view",
-      "Below the plan view",
-      "To the right of the plan view",
-      "To the left of the plan view"
+      "End View",
+      "Top View",
+      "Front View",
+      "Side View"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a line that is drawn to show the direction of view?",
+    "options": [
+      "Hidden Line",
+      "Center Line",
+      "Direction Line",
+      "Extension Line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In building drawing, what is the term for the process of creating a 2D representation of a 3D object?",
+    "options": [
+      "Orthographic Projection",
+      "Oblique Projection",
+      "Perspective Drawing",
+      "Isometric Projection"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of line is used to show hidden edges in an orthographic drawing?",
+    "question": "What is the term for a drawing that shows the different parts of an object?",
     "options": [
-      "Thick continuous line",
-      "Thin continuous line",
-      "Short dashed line",
-      "Long chain line"
+      "Engineering Drawing",
+      "Sectional View",
+      "Assembly Drawing",
+      "Isometric Drawing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the name of the view that shows an object as seen from directly above?",
+    "question": "What is the term for a line that is drawn to show the direction of view?",
     "options": [
-      "Front view",
-      "Side view",
-      "Plan view",
-      "Sectional view"
+      "Hidden Line",
+      "Center Line",
+      "Direction Line",
+      "Extension Line"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A circle in isometric drawing appears as which shape?",
+    "question": "In orthographic projection, what is the term for the view of an object from above?",
     "options": [
-      "A true circle",
-      "An ellipse",
-      "A rectangle",
-      "A square"
+      "Front View",
+      "End View",
+      "Side View",
+      "Top View"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a line that is drawn to show the extent of an object?",
+    "options": [
+      "Hidden Line",
+      "Dimension Line",
+      "Extension Line",
+      "Center Line"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of view shows the inside of an object?",
+    "options": [
+      "Front View",
+      "Elevation",
+      "Top View",
+      "Sectional View"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of line that is used to show the direction of view?",
+    "options": [
+      "Extension Line",
+      "Direction Line",
+      "Center Line",
+      "Hidden Line"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What scale would reduce an object to half its actual size?",
+    "question": "What is the term for a line that is drawn to show the extent of an object?",
     "options": [
-      "2:1",
-      "1:1",
-      "1:2",
-      "1:4"
+      "Hidden Line",
+      "Center Line",
+      "Dimension Line",
+      "Extension Line"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a method of orthographic projection?",
+    "question": "In engineering drawing, what is the term for the process of creating a drawing from a set of plans?",
     "options": [
-      "Isometric projection",
-      "Oblique projection",
-      "First angle projection",
-      "Cabinet projection"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a centre line in a technical drawing?",
-    "options": [
-      "To show the outline of an object",
-      "To indicate the axis of symmetry or centre of a circle",
-      "To show hidden features",
-      "To indicate a cutting plane"
+      "Orthographic Projection",
+      "Detail Drawing",
+      "Assembly Drawing",
+      "Sectional View"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In isometric drawing, the three axes are drawn at which angle to the horizontal?",
+    "question": "What is the term for the process of creating a drawing using a computer?",
     "options": [
-      "30 degrees",
-      "45 degrees",
-      "60 degrees",
-      "90 degrees"
+      "Engineering Design",
+      "Graphic Design",
+      "CAD",
+      "Technical Drawing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In orthographic projection, what is the term for the view of an object from the front?",
+    "options": [
+      "Front View",
+      "End View",
+      "Top View",
+      "Side View"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What type of triangle has all three sides of equal length?",
+    "question": "What is the term for a type of view that shows an object from a 90-degree angle?",
     "options": [
-      "Scalene",
-      "Isosceles",
-      "Equilateral",
-      "Right-angled"
+      "Oblique View",
+      "Perspective View",
+      "Orthographic View",
+      "Isometric View"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which instrument is used to draw circles and arcs in technical drawing?",
-    "options": [
-      "Ruler",
-      "Set square",
-      "Compass",
-      "Protractor"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does a sectional view show?",
-    "options": [
-      "The outside surface of an object",
-      "The internal features of an object by cutting through it",
-      "The top of an object",
-      "The shadow of an object"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In oblique drawing, the receding lines are typically drawn at which angle?",
-    "options": [
-      "30 degrees",
-      "45 degrees",
-      "60 degrees",
-      "90 degrees"
-    ],
-    "correctIndex": 1
   }
 ]
