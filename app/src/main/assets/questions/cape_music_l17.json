@@ -1,152 +1,152 @@
 [
   {
-    "question": "In sonata form, which section presents the main themes in the tonic key and then modulates to the dominant (or relative major in minor keys)?",
+    "question": "What is the term for the use of a computer program to create music, often used in electronic music composition?",
     "options": [
-      "Development",
-      "Recapitulation",
-      "Exposition",
-      "Coda"
+      "music notation software",
+      "music recording software",
+      "music software synthesis",
+      "audio editing software"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which harmonic progression is commonly associated with the 'Royal Road to the Subdominant' in tonal music analysis?",
+    "question": "In music technology, what is the term for a software program that allows users to create and edit music, often used in electronic music?",
     "options": [
-      "I - V - vi - IV",
-      "I - IV - I - V",
-      "I - ii - V - I",
-      "IV - V - I - IV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Neapolitan chord (bII6) in the key of C minor resolves most characteristically to which chord?",
-    "options": [
-      "C minor (i)",
-      "G major (V)",
-      "Ab major (bVI)",
-      "E diminished (viio)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which rhythmic device involves the systematic displacement of accents so that they consistently fall on weak beats or between beats?",
-    "options": [
-      "Hemiola",
-      "Syncopation",
-      "Polyrhythm",
-      "Cross-rhythm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of CAPE Music, which form is characterized by a recurring refrain alternating with contrasting episodes, typically labeled ABACADA?",
-    "options": [
-      "Binary form",
-      "Ternary form",
-      "Rondo form",
-      "Through-composed form"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'musique concr\u00e8te' refers to which compositional approach?",
-    "options": [
-      "Music composed using only natural acoustic instruments",
-      "Music created using recorded real-world sounds manipulated electronically",
-      "Music written in the Baroque contrapuntal tradition",
-      "Music based exclusively on concrete rhythmic patterns without melody"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which scale, used extensively in Caribbean folk music, consists of the pitches C, D, Eb, F#, G, Ab, B, C?",
-    "options": [
-      "Whole-tone scale",
-      "Harmonic minor scale",
-      "Hungarian minor scale",
-      "Lydian dominant scale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In serialism, the four basic transformations of a tone row are: Original (P), Retrograde (R), Inversion (I), and which fourth?",
-    "options": [
-      "Augmentation",
-      "Retrograde Inversion",
-      "Transposition",
-      "Diminution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Calypso music from Trinidad and Tobago characteristically employs which time signature as its primary metrical feel?",
-    "options": [
-      "3/4",
-      "6/8",
-      "2/2 (cut time)",
-      "5/4"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which contrapuntal technique involves one voice imitating another at a time interval, where all voices perform exactly the same melody continuously?",
-    "options": [
-      "Fugue",
-      "Imitation",
-      "Canon",
-      "Invertible counterpoint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The augmented sixth chords (Italian, French, German) all share which characteristic intervallic feature?",
-    "options": [
-      "A diminished seventh between the bass and soprano",
-      "An augmented sixth between the flattened sixth scale degree in the bass and the raised fourth scale degree",
-      "A major third between the root and fifth",
-      "A perfect fourth resolving outward to a fifth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Jamaican reggae, the characteristic rhythmic guitar or keyboard pattern emphasizing the offbeats (beats 2 and 4 of the bar) is known as what?",
-    "options": [
-      "Riddim",
-      "Skank",
-      "Drop",
-      "Riddim section"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which 20th-century compositional technique, pioneered by composers such as Gy\u00f6rgy Ligeti, creates sound masses through dense clusters of notes moving in microvariations?",
-    "options": [
-      "Minimalism",
-      "Microtonality",
-      "Spectralism",
-      "Micropolyphony"
+      "Synthesizer",
+      "Plugin",
+      "VST",
+      "DAW"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a fugue, the passage of free counterpoint that follows the exposition and does not contain a complete subject entry in any voice is called a:",
+    "question": "What is the term for the process of altering the harmonic function of a chord through the use of non-diatonic notes?",
     "options": [
-      "Stretto",
-      "Episode",
-      "Counter-subject",
-      "Codetta"
+      "Tonal reharmonization",
+      "Harmonic substitution",
+      "Chromatic alteration",
+      "Modal interchange"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In composition, what is the term for a musical idea that is repeated and varied throughout a piece, often used in classical music?",
+    "options": [
+      "Motif",
+      "Harmony",
+      "Theme",
+      "Melody"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In music technology, what is the term for a hardware device that allows users to create and edit music?",
+    "options": [
+      "MIDI controller",
+      "Synthesizer",
+      "Audio interface",
+      "Studio console"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a musical style that originated in the southern United States, characterized by blues and country influences, often used in zydeco music?",
+    "options": [
+      "Swamp blues",
+      "Chicago blues",
+      "Gulf Coast blues",
+      "Texas blues"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a musical texture that features a single melodic line, often used in folk music?",
+    "options": [
+      "Monophonic texture",
+      "Heterophonic texture",
+      "Polyphonic texture",
+      "Homophonic texture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a fugue, what is the term for the subject that is introduced first in the counterpoint?",
+    "options": [
+      "Epithalamium",
+      "Subject",
+      "Answer",
+      "Countersubject"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The use of 'call and response' as a structural principle in African-Caribbean music most directly relates to which broader musical concept found in Western art music?",
+    "question": "In counterpoint, what is the term for a dissonant interval that occurs between two voices?",
     "options": [
-      "Antiphony",
-      "Heterophony",
-      "Homophony",
-      "Monophony"
+      "Dissonant interval",
+      "Appoggiatura",
+      "Suspension",
+      "Consonant interval"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which of the following world music traditions is characterized by a strong emphasis on percussion and polyrhythms, often used in African music?",
+    "options": [
+      "Balkan music",
+      "Indian classical music",
+      "Javanese gamelan music",
+      "Afro-Cuban music"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a musical style that originated in the southern United States, characterized by blues and country influences?",
+    "options": [
+      "Zydeco",
+      "Texas blues",
+      "Swamp blues",
+      "Gulf Coast blues"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Western tonal harmony, what is the term for the third scale degree when raised to a major second above the tonic?",
+    "options": [
+      "Dominant",
+      "Subdominant",
+      "Leading tone",
+      "Mediant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following Caribbean music genres emerged in the 1980s in Jamaica?",
+    "options": [
+      "Dancehall",
+      "Reggae",
+      "Dub",
+      "Roots music"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following Caribbean music genres emerged in the 1970s in Jamaica?",
+    "options": [
+      "Dub",
+      "Roots music",
+      "Dancehall",
+      "Reggae"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In composition, what is the term for a musical idea that is introduced and then varied throughout a piece?",
+    "options": [
+      "Harmony",
+      "Episode",
+      "Motif",
+      "Theme"
+    ],
+    "correctIndex": 1
   }
 ]

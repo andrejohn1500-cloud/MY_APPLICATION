@@ -1,152 +1,152 @@
 [
   {
-    "question": "If f(x) = ln(x\u00b2 + 1), find f''(x).",
+    "question": "If y = dx/dy, find \u03c0\u221e dy.",
     "options": [
-      "(2 - 2x\u00b2)/(x\u00b2 + 1)\u00b2",
-      "(2x\u00b2 - 2)/(x\u00b2 + 1)\u00b2",
-      "2/(x\u00b2 + 1)",
-      "(2 + 2x\u00b2)/(x\u00b2 + 1)\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The general solution of the differential equation dy/dx + 2y = 4x is:",
-    "options": [
-      "y = 2x - 1 + Ce^(-2x)",
-      "y = 2x + 1 + Ce^(2x)",
-      "y = x - 1 + Ce^(-2x)",
-      "y = 2x + Ce^(-2x)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Find the sum to infinity of the series 3 - 1 + 1/3 - 1/9 + ...",
-    "options": [
-      "9/4",
-      "3/4",
-      "9/2",
-      "27/4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The complex number z satisfies |z - 2| = |z + 2i|. The locus of z in the Argand diagram is:",
-    "options": [
-      "x - y - 1 = 0",
-      "x + y = 0",
-      "2x - 2y = 0",
-      "x - y = 0"
+      "y^2",
+      "-y",
+      "y",
+      "-y^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If A is a 3\u00d73 matrix with det(A) = 5, what is det(3A)?",
+    "question": "Find the value of \u03c0 \u2202\u2202\u03c0/ \u2202x^2.",
     "options": [
-      "135",
-      "15",
-      "45",
-      "27"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Evaluate \u222b\u2080^(\u03c0/2) sin\u00b3x cos\u00b2x dx.",
-    "options": [
-      "2/15",
-      "4/15",
-      "1/15",
-      "2/5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "How many ways can 4 letters be chosen from the word MATHEMATICS?",
-    "options": [
-      "2454",
-      "2652",
-      "1680",
-      "2100"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The roots of 2x\u00b3 - 3x\u00b2 - 11x + 6 = 0 include x = 3. Find the product of the other two roots.",
-    "options": [
+      "0",
       "1",
-      "\u22121",
-      "3",
-      "\u22123"
+      "2",
+      "-1"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "If the expansion of (1 + kx)^8 has a coefficient of x\u00b2 equal to 112, find k.",
+    "question": "If u = e^(2x), find \u03c0u \u2202\u2207u.",
     "options": [
-      "2",
-      "\u22122",
-      "\u00b12",
-      "4"
+      "-2e^(2x)",
+      "e^(2x)",
+      "4e^(2x)",
+      "2e^(2x)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Find the angle between the vectors a = 2i + j \u2212 2k and b = i \u2212 2j + 2k.",
+    "question": "If f(x) = x^2 + 2x - 1, find f'''(x).",
     "options": [
-      "120\u00b0",
-      "90\u00b0",
-      "60\u00b0",
-      "150\u00b0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The line L passes through (1, 2, 3) with direction vector (2, -1, 1). The point on L closest to the origin is:",
-    "options": [
-      "(-1/2, 5/2, 5/2)",
-      "(1, 2, 3)",
-      "(-1, 3, 2)",
-      "(0, 5/2, 5/2)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Solve the equation 2cosh(x) - sinh(x) = 2 for real x.",
-    "options": [
-      "x = 0 or x = ln(4/3)",
-      "x = ln(2)",
-      "x = 0 only",
-      "x = ln(3)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The probability generating function of a discrete random variable X is G(t) = (1/4 + 3t/4)^4. Find E(X).",
-    "options": [
-      "3",
+      "2",
       "4",
-      "1",
-      "2"
+      "0",
+      "-2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A curve is defined parametrically by x = t\u00b2, y = t\u00b3 - 3t. Find the values of t at which the tangent is horizontal.",
-    "options": [
-      "t = \u00b11",
-      "t = 0",
-      "t = \u00b1\u221a3",
-      "t = \u00b13"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Find the radius of convergence of the power series \u03a3(n=0 to \u221e) (n! x\u207f)/3\u207f.",
+    "question": "If a sequence is defined by a_n = (-1)^n(n + 1), find the sum of the first 10 terms.",
     "options": [
       "0",
-      "\u221e",
-      "3",
-      "1/3"
+      "1",
+      "-2",
+      "-1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If a sequence is defined by a_n = \u00b1 1 \u2212 \u00b1 1 \u2212 \u00b1 1... , find the 100th term.",
+    "options": [
+      "\u221211",
+      "0",
+      "1",
+      "-1"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Find the equation of the circle with centre (2,3) and radius 4.",
+    "options": [
+      "(x - 2)^2 + (y + 3)^2 = 16",
+      "(x + 2)^2 + (y + 3)^2 = 16",
+      "(x + 2)^2 + (y - 3)^2 = 16",
+      "(x - 2)^2 + (y - 3)^2 = 16"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If a sequence is defined by a_n = n^3 - 2n^2 + n, find the sum of the first 5 terms.",
+    "options": [
+      "-5",
+      "0",
+      "-15",
+      "-10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If z = 2 - 3i, find |z|.",
+    "options": [
+      "\u221a13",
+      "\u221a12",
+      "\u221a5",
+      "\u221a2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If a matrix A has order 2 x 2 and det(A) = 3, find the inverse of A.",
+    "options": [
+      "A^(-1) = 1/3 \u22121/3 ",
+      "A^(-1) = 1/4 \u22121/4 ",
+      "A^(-1) = \u22121/2 \u22121/2 ",
+      "A^(-1) = 1/2 \u22121/2 "
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve the differential equation dy/dx = y^2.",
+    "options": [
+      "y = x + c",
+      "y = 1/(x + c)",
+      "y = x^2 + c",
+      "y = \u22121/(x + c)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If a matrix A has order 2 x 2 and det(A) = 5, find the product A^2.",
+    "options": [
+      "AA = -5I",
+      "AA = 5I",
+      "AA = 1",
+      "AA = 0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If A = \u22121 2 and B = 1 2 , find the product AB.",
+    "options": [
+      "\u2212 3 4 ",
+      "1 4",
+      "\u2212 2 4",
+      "\u2212 1 2 "
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If A = \u22122 3 and B = \u22121 2 , find the product AB.",
+    "options": [
+      "\u2212 5 6 ",
+      "\u2212 1 4",
+      "\u2212 2 -1 ",
+      "\u2212 2 3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve the differential equation dy/dx = -y.",
+    "options": [
+      "y = c/x^2",
+      "y = c/e^x",
+      "y = c/x",
+      "y = cx"
+    ],
+    "correctIndex": 1
   }
 ]

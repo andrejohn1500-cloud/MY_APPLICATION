@@ -1,152 +1,152 @@
 [
   {
-    "question": "A satellite of mass m orbits a planet of mass M at radius r. If the orbital radius is doubled while the planet's mass remains constant, the orbital period changes by a factor of:",
+    "question": "A tsunami is a type of ocean wave caused by the displacement of a large volume of water. What is the primary factor that determines the size of a tsunami wave?",
     "options": [
-      "2\u221a2",
-      "4",
-      "2",
-      "\u221a2"
+      "Displacement of water",
+      "Distance traveled",
+      "Depth of water",
+      "Speed of wave"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A standing wave is formed on a string of length 0.8 m fixed at both ends. The third harmonic frequency is 450 Hz. What is the wave speed on the string?",
+    "question": "A solar flare is a sudden release of energy from the sun's surface. What is the primary effect of a solar flare on the Earth's magnetic field?",
     "options": [
-      "240 m/s",
-      "180 m/s",
-      "360 m/s",
-      "120 m/s"
+      "Disruption",
+      "Perturbation",
+      "Stability",
+      "Distortion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A wind turbine is a device that converts the kinetic energy of wind into electrical energy. What is the most common type of wind turbine used in commercial applications?",
+    "options": [
+      "Savonius rotor",
+      "Horizontal axis",
+      "Darrieus rotor",
+      "Vertical axis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A seismograph measures the amplitude of seismic waves with a maximum value of 100 \u03bcm. What is the amplitude of the waves in meters?",
+    "options": [
+      "0.0001 m",
+      "0.00005 m",
+      "0.00015 m",
+      "0.00005 m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "An ideal gas undergoes an adiabatic compression. Which of the following statements is correct?",
+    "question": "A patient with a mass of 70 kg and height of 1.8 m is to be scanned using a CT scanner. The scanner produces X-rays with an energy of 100 keV. What is the exposure time to achieve a dose of 10 mGy?",
     "options": [
-      "Internal energy increases and temperature rises",
-      "Internal energy decreases and temperature falls",
-      "Internal energy remains constant while pressure increases",
-      "Heat is absorbed and work is done on the gas"
+      "0.2 s",
+      "0.1 s",
+      "0.3 s",
+      "0.5 s"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "In a photoelectric experiment, the stopping potential for light of frequency 8.0 \u00d7 10\u00b9\u2074 Hz is 1.2 V. What is the work function of the metal? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, e = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "question": "A seismograph is an instrument used to measure the motion of the earth's surface caused by seismic waves. What is the primary type of seismic wave that causes the most damage during an earthquake?",
     "options": [
-      "2.11 eV",
-      "3.31 eV",
-      "1.20 eV",
-      "1.91 eV"
+      "Surface wave",
+      "Shear wave",
+      "Love wave",
+      "P-wave"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A capacitor of capacitance 200 \u03bcF is charged to 50 V and then connected to an uncharged capacitor of 300 \u03bcF. What is the final voltage across the combination?",
+    "question": "A crystal of quartz has a Young's modulus of 8 \u00d7 10\u00b9 Pa and a Poisson's ratio of 0.3. What is the bulk modulus of the crystal?",
     "options": [
-      "20 V",
-      "30 V",
-      "25 V",
-      "10 V"
+      "3.6 \u00d7 10\u00b9 Pa",
+      "2.4 \u00d7 10\u00b9 Pa",
+      "4.8 \u00d7 10\u00b9 Pa",
+      "1.2 \u00d7 10\u00b9 Pa"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly describes the significance of the Millikan oil drop experiment?",
+    "question": "A geothermal power plant has a power output of 100 MW. What is its thermal efficiency?",
     "options": [
-      "It demonstrated the quantisation of electric charge",
-      "It proved the wave nature of electrons",
-      "It determined the charge-to-mass ratio of the electron",
-      "It confirmed the nuclear model of the atom"
+      "0.15",
+      "0.05",
+      "0.2",
+      "0.1"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A proton moves with velocity 2 \u00d7 10\u2076 m/s perpendicular to a magnetic field of 0.5 T. What is the radius of the circular path? (mp = 1.67 \u00d7 10\u207b\u00b2\u2077 kg, e = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "question": "A particle of mass 2 kg is projected upwards from the surface of the earth with an initial velocity of 20 m/s. Assuming g = 10 m/s\u00b2, what is the maximum height reached by the particle?",
     "options": [
-      "0.042 m",
-      "0.084 m",
-      "0.021 m",
-      "0.168 m"
+      "32 m",
+      "12 m",
+      "22 m",
+      "40 m"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The half-life of a radioactive isotope is 5.0 years. What fraction of the original sample remains after 20 years?",
+    "question": "A solar panel is a device that converts sunlight into electrical energy. What is the most common type of solar panel used in industrial applications?",
     "options": [
-      "1/16",
-      "1/8",
-      "1/4",
-      "1/32"
+      "Monocrystalline silicon",
+      "Polycrystalline silicon",
+      "Thin-film solar cell",
+      "Concentrated photovoltaic"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A transformer has 500 turns on the primary coil and 2000 turns on the secondary coil. If the primary current is 8 A, what is the secondary current assuming 100% efficiency?",
+    "question": "A nuclear reactor is a device that generates electricity by harnessing the energy released from the fission of atomic nuclei. What is the primary advantage of using a gas-cooled reactor compared to other types of reactors?",
+    "options": [
+      "Lower cost",
+      "Higher efficiency",
+      "Increased safety",
+      "Simplified maintenance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A seismograph is an instrument used to measure the motion of the earth's surface caused by seismic waves. What is the primary type of seismic wave that is responsible for the greatest damage during an earthquake?",
+    "options": [
+      "Love wave",
+      "P-wave",
+      "Surface wave",
+      "Shear wave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A wave with a frequency of 20 Hz and amplitude of 0.05 m is traveling along a string. If the string is displaced by 0.01 m from its equilibrium position, what is the phase angle of the wave at this point?",
+    "options": [
+      "90\u00b0",
+      "0\u00b0",
+      "45\u00b0",
+      "180\u00b2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A solar flare is a sudden release of energy from the sun's surface. What is the primary type of radiation emitted by a solar flare?",
+    "options": [
+      "Gamma-ray",
+      "Visible light",
+      "X-ray",
+      "Ultraviolet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A battery of emf 12 V and internal resistance of 2 \u03a9 is connected to a 10 \u03a9 resistor in series. What is the current flowing through the circuit?",
     "options": [
       "2 A",
-      "32 A",
-      "4 A",
-      "0.5 A"
+      "8 A",
+      "6 A",
+      "4 A"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "For a converging lens with focal length 15 cm, an object is placed 10 cm from the lens. Where is the image formed and what is its nature?",
-    "options": [
-      "30 cm on the same side as the object, virtual and magnified",
-      "30 cm on the opposite side, real and inverted",
-      "10 cm on the same side, virtual and diminished",
-      "20 cm on the opposite side, real and upright"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which combination of physical quantities has the same dimensions as the Planck constant h?",
-    "options": [
-      "Angular momentum",
-      "Linear momentum \u00d7 acceleration",
-      "Energy \u00d7 time\u00b2",
-      "Power \u00d7 time\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A uniform rod of length 2 m and mass 4 kg is pivoted at one end and held horizontal. What is the initial angular acceleration when released? (g = 10 m/s\u00b2)",
-    "options": [
-      "7.5 rad/s\u00b2",
-      "5.0 rad/s\u00b2",
-      "10.0 rad/s\u00b2",
-      "15.0 rad/s\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a double-slit experiment, the slit separation is 0.5 mm and the screen is 2.0 m away. If the fringe spacing is 2.4 mm, what is the wavelength of the light used?",
-    "options": [
-      "600 nm",
-      "480 nm",
-      "750 nm",
-      "400 nm"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A wire of resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9 m has a length of 2 m and a cross-sectional area of 2 \u00d7 10\u207b\u2076 m\u00b2. If the wire is stretched uniformly to twice its original length, what is the new resistance?",
-    "options": [
-      "0.068 \u03a9",
-      "0.017 \u03a9",
-      "0.034 \u03a9",
-      "0.136 \u03a9"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A particle executes simple harmonic motion with amplitude 0.04 m and period 0.2 s. What is the maximum acceleration of the particle?",
-    "options": [
-      "39.5 m/s\u00b2",
-      "6.28 m/s\u00b2",
-      "0.63 m/s\u00b2",
-      "78.9 m/s\u00b2"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

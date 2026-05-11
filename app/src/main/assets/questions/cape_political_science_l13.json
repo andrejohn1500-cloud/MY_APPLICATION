@@ -1,151 +1,31 @@
 [
   {
-    "question": "Which theoretical framework argues that international institutions can facilitate cooperation among self-interested states by reducing transaction costs and providing information?",
+    "question": "According to the principle of the rule of law, what is the role of the judiciary in a democratic society?",
     "options": [
-      "Realism",
-      "Liberal institutionalism",
-      "Constructivism",
-      "World-systems theory"
+      "To elect the head of state",
+      "To serve as an advisory body to the executive branch",
+      "To make laws and enforce them",
+      "To interpret and apply the law impartially and independently of the other branches of government"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "The concept of 'hegemonic stability theory' suggests that a stable international order requires:",
+    "question": "According to the principles of democratic governance, what is the role of civil society in a democratic society?",
     "options": [
-      "A balance of power among multiple great powers",
-      "A dominant state willing and able to maintain the rules of the system",
-      "A universal democratic government",
-      "Strong international law enforcement mechanisms"
+      "To hold the government accountable for its actions and policies, and to promote transparency and accountability",
+      "To elect the head of state",
+      "To serve as an advisory body to the executive branch",
+      "To make laws and enforce them"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In the context of Caribbean political thought, which scholar is most associated with the concept of 'plantation economy' and its implications for Caribbean development?",
+    "question": "What is the main difference between a federal system of government and a confederal system of government?",
     "options": [
-      "C.L.R. James",
-      "Lloyd Best",
-      "Eric Williams",
-      "Walter Rodney"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The 'democratic peace theory' posits that:",
-    "options": [
-      "Democracies never engage in any form of armed conflict",
-      "Liberal democracies tend not to go to war with each other",
-      "Democracies are more stable than authoritarian regimes",
-      "Democratic elections always produce peaceful transitions of power"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which concept in public administration refers to the principal's difficulty in monitoring the agent's behavior due to information asymmetry?",
-    "options": [
-      "Bureaucratic capture",
-      "Moral hazard",
-      "The principal-agent problem",
-      "Rent-seeking behavior"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Antonio Gramsci's concept of 'hegemony' in political theory primarily refers to:",
-    "options": [
-      "Military dominance of one state over others",
-      "The ideological and cultural dominance of a ruling class that secures consent of subordinate classes",
-      "The legal supremacy of the constitution over ordinary law",
-      "Economic exploitation of peripheral nations by core nations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Westminster model of parliamentary government inherited by many Caribbean states is characterized by all of the following EXCEPT:",
-    "options": [
-      "Fusion of executive and legislative powers",
-      "A ceremonial head of state separate from the head of government",
-      "Proportional representation as the primary electoral system",
-      "Cabinet collective responsibility"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the concept of 'bounded rationality' as introduced by Herbert Simon?",
-    "options": [
-      "Political actors are entirely irrational in their decision-making",
-      "Decision-makers operate with limited information and cognitive capacity, settling for satisfactory rather than optimal solutions",
-      "Rationality is bounded by constitutional constraints",
-      "Economic rationality always supersedes political considerations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Responsibility to Protect (R2P) doctrine adopted at the 2005 UN World Summit fundamentally challenges which traditional principle of international relations?",
-    "options": [
-      "The balance of power",
-      "Sovereign equality of states and non-intervention",
-      "The right to self-determination",
-      "The principle of jus cogens"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In feminist political theory, the distinction between 'sex' and 'gender' is used to argue that:",
-    "options": [
-      "Biological differences naturally determine political roles",
-      "Gender roles and inequalities are socially constructed rather than biologically determined",
-      "Women and men have equal political representation globally",
-      "Political institutions are inherently neutral toward gender"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "CARICOM's Revised Treaty of Chaguaramas (2001) established which organ as the judicial institution responsible for interpreting and applying Community law?",
-    "options": [
-      "The Inter-American Court of Human Rights",
-      "The Caribbean Court of Justice",
-      "The Privy Council",
-      "The CARICOM Arbitration Tribunal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Robert Dahl's concept of 'polyarchy' is best described as:",
-    "options": [
-      "Rule by a small elite group in modern societies",
-      "A real-world approximation of democracy characterized by inclusive participation and political competition",
-      "A system of government combining monarchy and democracy",
-      "Absolute majority rule without minority rights"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which perspective on comparative politics argues that political outcomes are primarily shaped by formal and informal institutional structures that constrain and enable political actors?",
-    "options": [
-      "Behavioralism",
-      "Rational choice theory",
-      "New institutionalism",
-      "Pluralism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The 'resource curse' hypothesis in political economy suggests that:",
-    "options": [
-      "Countries with abundant natural resources always achieve rapid economic development",
-      "Abundant natural resource wealth tends to undermine democratic governance and economic diversification",
-      "Natural resources create political stability through redistribution",
-      "Resource-rich states are more likely to engage in international trade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of Caribbean integration, which of the following represents a significant limitation of the CSME (CARICOM Single Market and Economy)?",
-    "options": [
-      "The absence of a common external tariff among member states",
-      "Incomplete implementation of free movement of all categories of workers and inadequate regional infrastructure",
-      "The exclusion of Trinidad and Tobago from the single market",
-      "The lack of any regional development fund for smaller economies"
+      "In a federal system, the constituent units have more autonomy, while in a confederal system, the central government has more control",
+      "In a federal system, power is divided between the central government and constituent units, while in a confederal system, power is held by the constituent units and is exercised through a central authority",
+      "In a federal system, the central government makes laws and enforces them, while in a confederal system, the constituent units make laws and enforce them",
+      "In a federal system, the central government has absolute power, while in a confederal system, the constituent units have absolute power"
     ],
     "correctIndex": 1
   }

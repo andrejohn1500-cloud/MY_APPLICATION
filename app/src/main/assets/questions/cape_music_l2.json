@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which term describes the speed at which a piece of music is performed?",
+    "question": "Which of the following is an example of a consonant interval?",
     "options": [
-      "Tempo",
-      "Dynamics",
-      "Timbre",
-      "Texture"
+      "Perfect fifth",
+      "Minor second",
+      "Augmented octave",
+      "Major seventh"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does the musical term 'forte' mean?",
+    "question": "The technique of writing music that is not possible for instruments to play is known as?",
     "options": [
-      "Soft",
-      "Very soft",
-      "Loud",
-      "Very loud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many beats are in a bar of 3/4 time?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "6"
+      "Polyphony",
+      "Counterpoint",
+      "Harmony",
+      "Monophony"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a chordophone instrument?",
+    "question": "What is the term for a musical phrase that is repeated at a higher pitch and then returns to the original pitch?",
     "options": [
-      "Flute",
-      "Drum",
-      "Guitar",
-      "Triangle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the interval between C and G called?",
-    "options": [
-      "A third",
-      "A fourth",
-      "A fifth",
-      "A sixth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which musical form consists of a theme followed by variations?",
-    "options": [
-      "Rondo",
-      "Binary",
-      "Theme and Variations",
-      "Ternary"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'piano' mean as a dynamic marking?",
-    "options": [
-      "Loud",
-      "Soft",
-      "Very loud",
-      "Medium loud"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'polyphonic' texture?",
-    "options": [
-      "A single melodic line with no accompaniment",
-      "Two or more independent melodic lines performed simultaneously",
-      "A melody supported by chords",
-      "Complete silence between musical phrases"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Western music notation, what is a rest?",
-    "options": [
-      "A repeat sign",
-      "A symbol indicating silence for a specific duration",
-      "A type of clef",
-      "A dynamic marking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Caribbean musical genre originated in Trinidad and Tobago?",
-    "options": [
-      "Reggae",
-      "Mento",
-      "Calypso",
-      "Kumina"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the scale that uses only the five black keys on a piano?",
-    "options": [
-      "Chromatic scale",
-      "Major scale",
-      "Minor scale",
-      "Pentatonic scale"
+      "Presto",
+      "Accelerando",
+      "Rubato",
+      "Ritardando"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which voice type is the highest male singing voice?",
+    "question": "What is the term for a musical phrase that is repeated at a faster pace?",
     "options": [
-      "Bass",
-      "Baritone",
-      "Tenor",
-      "Alto"
+      "Ritardando",
+      "Presto",
+      "Accelerando",
+      "Rubato"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does 'D.C. al Fine' mean in music?",
+    "question": "What is the name of the musical term for a note that is shorter than a whole note?",
     "options": [
-      "Repeat from the sign to the end",
-      "Go back to the beginning and play to the word Fine",
-      "Play very loudly",
-      "Slow down gradually"
+      "Breve",
+      "Minim",
+      "Semiquaver",
+      "Crotchet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated at a higher pitch?",
+    "options": [
+      "Inversion",
+      "Melodic echo",
+      "Counterpoint",
+      "Harmonic progression"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an aerophone instrument?",
+    "question": "Who is a prominent calypsonian from Trinidad and Tobago?",
     "options": [
+      "Lord Kitchener",
+      "Ramsingh",
+      "Attila the Stock-Fish",
+      "Roaring Lion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of adding chords to a melody to create harmony?",
+    "options": [
+      "Harmonic progression",
+      "Melodic progression",
+      "Counterpoint",
+      "Chord progression"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the musical term for a note that is played with a gentle touch?",
+    "options": [
+      "Mezzo-piano",
+      "Forte",
+      "Mezzo-forte",
+      "Piano"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the musical term for a note that is played with a strong touch?",
+    "options": [
+      "Mezzo-forte",
+      "Mezzo-piano",
+      "Forte",
+      "Piano"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the musical instrument that is similar to a cello?",
+    "options": [
+      "Double bass",
+      "French horn",
       "Violin",
-      "Trumpet",
-      "Xylophone",
-      "Tabla"
+      "Viola"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for the gradual increase in loudness in music?",
+    "question": "Who is a prominent calypsonian from Trinidad and Tobago?",
     "options": [
-      "Decrescendo",
-      "Diminuendo",
-      "Crescendo",
-      "Sforzando"
+      "Lord Kitchener",
+      "Ramsingh",
+      "Attila the Stock-Fish",
+      "Roaring Lion"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the musical term for a dissonant chord?",
+    "options": [
+      "Diminished seventh",
+      "Minor ninth",
+      "Augmented fifth",
+      "Tritone"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the acoustic properties of music?",
+    "options": [
+      "Ethnomusicology",
+      "Music theory",
+      "Music history",
+      "Acoustics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated at a lower pitch and then returns to the original pitch?",
+    "options": [
+      "Accelerando",
+      "Ritardando",
+      "Presto",
+      "Rubato"
+    ],
+    "correctIndex": 0
   }
 ]

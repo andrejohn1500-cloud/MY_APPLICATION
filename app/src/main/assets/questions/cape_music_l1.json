@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does the term 'forte' mean in music?",
+    "question": "What is the term for the repetition of a musical phrase at a slower pace?",
     "options": [
-      "Soft",
-      "Loud",
-      "Fast",
-      "Slow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How many semitones are in an octave?",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a woodwind instrument?",
-    "options": [
-      "Trumpet",
-      "Violin",
-      "Flute",
-      "Trombone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the time signature 3/4 commonly associated with?",
-    "options": [
-      "March",
-      "Waltz",
-      "Hymn",
-      "Blues"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which term describes the speed of a piece of music?",
-    "options": [
-      "Dynamics",
-      "Timbre",
-      "Tempo",
-      "Pitch"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does a rest in music notation indicate?",
-    "options": [
-      "A loud passage",
-      "A period of silence",
-      "A change of key",
-      "A repeat section"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How many lines are there in a standard musical staff?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a Caribbean musical form?",
-    "options": [
-      "Flamenco",
-      "Calypso",
-      "Reggae is from Jamaica but Calypso from Trinidad",
-      "Soca"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for gradually getting louder in music?",
-    "options": [
-      "Diminuendo",
+      "Accelerando",
+      "Presto",
       "Ritardando",
-      "Crescendo",
-      "Staccato"
+      "Rubato"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which clef is commonly used for higher-pitched instruments?",
+    "question": "What is the name of the musical term for a note that is longer than a whole note?",
     "options": [
-      "Bass clef",
-      "Alto clef",
-      "Tenor clef",
-      "Treble clef"
+      "Semibreve",
+      "Minim",
+      "Breve",
+      "Crotchet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the musical instrument that is similar to a guitar?",
+    "options": [
+      "Lute",
+      "Harpsichord",
+      "Cello",
+      "Violin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated at a lower pitch?",
+    "options": [
+      "Inversion",
+      "Counterpoint",
+      "Harmonic progression",
+      "Melodic echo"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does 'piano' mean as a dynamic marking?",
+    "question": "Who is a prominent calypsonian from Grenada?",
     "options": [
-      "Fast",
-      "Soft",
-      "Smooth",
-      "Strong"
+      "Roaring Lion",
+      "The Mighty Sparrow",
+      "Ramsingh",
+      "Attila the Stock-Fish"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following describes the texture of a single melody with no accompaniment?",
+    "question": "What is the term for the repetition of a melodic phrase at a higher or lower pitch?",
     "options": [
-      "Homophony",
-      "Polyphony",
-      "Monophony",
-      "Heterophony"
+      "Harmonic progression",
+      "Inversion",
+      "Transposition",
+      "Counterpoint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the relative minor of C major?",
+    "question": "Who is a prominent composer of classical music?",
     "options": [
-      "G minor",
-      "F minor",
-      "A minor",
-      "E minor"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Pyotr Ilyich Tchaikovsky",
+      "Johann Sebastian Bach"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who is a prominent reggae artist from Jamaica?",
+    "options": [
+      "Bob Marley",
+      "Jimmy Cliff",
+      "Toots and the Maytals",
+      "Peter Tosh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the musical instrument that is similar to a piano?",
+    "options": [
+      "Violin",
+      "Harpsichord",
+      "Cello",
+      "Organ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the musical instrument that is similar to a xylophone?",
+    "options": [
+      "Glockenspiel",
+      "Vibraphone",
+      "Marimba",
+      "Xylophone"
     ],
     "correctIndex": 2
   },
   {
-    "question": "How many beats does a semibreve (whole note) receive in common time?",
+    "question": "What is the term for the study of the historical context of music?",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Music history",
+      "Music theory",
+      "Musicology",
+      "Ethnomusicology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the musical instrument that is similar to a trumpet?",
+    "options": [
+      "Flugelhorn",
+      "French horn",
+      "Trumpet",
+      "Cornet"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a chordophone instrument?",
+    "question": "What is the term for the study of the structure and function of music?",
     "options": [
-      "Flute",
-      "Drum",
-      "Guitar",
-      "Trumpet"
+      "Music theory",
+      "Music history",
+      "Ethnomusicology",
+      "Musicology"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is a prominent reggae artist from Jamaica?",
+    "options": [
+      "Peter Tosh",
+      "Bob Marley",
+      "Toots and the Maytals",
+      "Jimmy Cliff"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the cultural context of music?",
+    "options": [
+      "Music theory",
+      "Musicology",
+      "Music history",
+      "Ethnomusicology"
+    ],
+    "correctIndex": 3
   }
 ]

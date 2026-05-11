@@ -1,152 +1,42 @@
 [
   {
-    "question": "Which term describes the supreme authority of a state to govern itself without external interference?",
+    "question": "What is the purpose of the Inter-American Commission on Human Rights (IACHR) in the region?",
     "options": [
-      "Democracy",
-      "Sovereignty",
-      "Federalism",
-      "Nationalism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a constitution in a political system?",
-    "options": [
-      "To elect government officials",
-      "To establish the fundamental rules and principles governing a state",
-      "To manage the economy",
-      "To control foreign policy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of democracy allows citizens to vote directly on laws and policies?",
-    "options": [
-      "Representative democracy",
-      "Liberal democracy",
-      "Direct democracy",
-      "Constitutional democracy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Caribbean Community (CARICOM) was established in which year?",
-    "options": [
-      "1958",
-      "1962",
-      "1973",
-      "1981"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which branch of government is responsible for making laws?",
-    "options": [
-      "Executive",
-      "Judicial",
-      "Legislative",
-      "Administrative"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a system of government where power is divided between a central government and regional governments?",
-    "options": [
-      "Unitary state",
-      "Confederation",
-      "Monarchy",
-      "Federalism"
+      "To provide economic aid to countries in the region",
+      "To establish a single currency for the region",
+      "To promote regional security through military cooperation",
+      "To promote and protect human rights in the Americas"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which concept refers to the idea that government authority derives from the consent of the governed?",
+    "question": "Which of the following best describes the concept of the rule of law?",
     "options": [
-      "Divine right",
-      "Popular sovereignty",
-      "Authoritarianism",
-      "Oligarchy"
+      "The principle that the head of state is above the law",
+      "The principle that the state can suspend the rule of law in times of emergency",
+      "The principle that the military is the ultimate authority in the country",
+      "The principle that all individuals, including those in power, are subject to the law and must obey it"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following best describes the concept of sovereignty in international relations?",
+    "options": [
+      "The ability of a state to make decisions without consulting other states",
+      "The supreme authority and power of a state to govern itself",
+      "The power of a state to control the actions of other states",
+      "The right of a state to intervene in the internal affairs of another state"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the term 'separation of powers' mean in political science?",
+    "question": "Which of the following best describes the concept of the rule of law?",
     "options": [
-      "The division of a country into states",
-      "The distribution of government power among different branches",
-      "The separation of church and state",
-      "The division of political parties"
+      "The principle that the head of state is above the law",
+      "The principle that all individuals, including those in power, are subject to the law and must obey it",
+      "The principle that the state can suspend the rule of law in times of emergency",
+      "The principle that the military is the ultimate authority in the country"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a characteristic of a totalitarian state?",
-    "options": [
-      "Free and fair elections",
-      "Protection of civil liberties",
-      "Complete government control over all aspects of life",
-      "Independent judiciary"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the role of the Opposition in a Westminster parliamentary system?",
-    "options": [
-      "To support all government policies",
-      "To scrutinize and challenge the government",
-      "To manage foreign affairs",
-      "To appoint judges"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which international organization is responsible for maintaining global peace and security?",
-    "options": [
-      "World Trade Organization",
-      "International Monetary Fund",
-      "United Nations",
-      "World Health Organization"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a pressure group?",
-    "options": [
-      "A political party seeking to win elections",
-      "An organization that seeks to influence government policy without seeking political office",
-      "A group of military officers",
-      "A committee within parliament"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which term describes the process by which individuals learn about political values and attitudes?",
-    "options": [
-      "Political recruitment",
-      "Political socialization",
-      "Political mobilization",
-      "Political participation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the meaning of the term 'bicameral legislature'?",
-    "options": [
-      "A legislature with one chamber",
-      "A legislature with two chambers",
-      "A legislature controlled by the military",
-      "A legislature with no elections"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes human rights?",
-    "options": [
-      "Rights granted only to citizens of wealthy nations",
-      "Rights earned through military service",
-      "Fundamental rights and freedoms to which all humans are entitled",
-      "Rights given by governments that can be freely removed"
-    ],
-    "correctIndex": 2
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "A car accelerates uniformly from rest and travels 80 m in 8 s. What is the acceleration of the car?",
+    "question": "An object with a specific heat capacity of 800 J/kg\u00b0C is heated from 20\u00b0C to 60\u00b0C. What is the change in its internal energy?",
     "options": [
-      "2.5 m/s\u00b2",
-      "1.25 m/s\u00b2",
-      "10 m/s\u00b2",
-      "5 m/s\u00b2"
+      "10000 J",
+      "18000 J",
+      "28000 J",
+      "20000 J"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A body is moving with an initial velocity of 5 m/s and decelerates uniformly to 2 m/s in 12 s. What is its acceleration?",
+    "options": [
+      "-0.5 m/s^2",
+      "-0.1 m/s^2",
+      "-0.25 m/s^2",
+      "0.25 m/s^2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A charged particle of mass 0.1 kg and charge 2 x 10^-6 C is moving at a velocity of 20 m/s in a magnetic field of 0.1 T. What is its acceleration?",
+    "options": [
+      "0.1 m/s^2",
+      "0.04 m/s^2",
+      "0.05 m/s^2",
+      "0.02 m/s^2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A medical imaging device uses gamma rays with an energy of 1 MeV. What is the energy of a photon of this radiation?",
+    "options": [
+      "1.6 x 10^-14 J",
+      "1.6 x 10^-12 J",
+      "1.6 x 10^-15 J",
+      "1.6 x 10^-13 J"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is subjected to a constant force of 5 N. What is its acceleration?",
+    "options": [
+      "0.05 m/s^2",
+      "5 m/s^2",
+      "10 m/s^2",
+      "0.5 m/s^2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the power consumed by a 100 W light bulb?",
+    "options": [
+      "100 W",
+      "150 W",
+      "50 W",
+      "200 W"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A wire of length 2 m and cross-sectional area 4 \u00d7 10\u207b\u2076 m\u00b2 has a resistance of 5 \u03a9. What is the resistivity of the material?",
+    "question": "A nucleus has a mass number of 20 and atomic number of 10. What is its atomic mass?",
     "options": [
-      "1 \u00d7 10\u207b\u2075 \u03a9\u00b7m",
-      "1 \u00d7 10\u207b\u2076 \u03a9\u00b7m",
-      "2.5 \u00d7 10\u207b\u2076 \u03a9\u00b7m",
-      "4 \u00d7 10\u207b\u2076 \u03a9\u00b7m"
+      "19.5 u",
+      "19.1 u",
+      "19.9 u",
+      "19.9 u"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes a transverse wave?",
+    "question": "What is the electric potential difference between two points separated by a distance of 2 m in an electric field of 10 N/C?",
     "options": [
-      "The oscillations are perpendicular to the direction of wave propagation",
-      "The oscillations are parallel to the direction of wave propagation",
-      "The wave requires a medium to travel",
-      "The wave travels in a longitudinal direction only"
+      "10 V",
+      "15 V",
+      "20 V",
+      "5 V"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "A photon has a frequency of 6 \u00d7 10\u00b9\u2074 Hz. What is the energy of the photon? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J\u00b7s)",
+    "question": "A geothermal power plant has a power output of 100 MW. What is its thermal efficiency?",
     "options": [
-      "3.98 \u00d7 10\u207b\u00b9\u2079 J",
-      "3.98 \u00d7 10\u207b\u00b2\u00b9 J",
-      "9.0 \u00d7 10\u207b\u00b2\u2070 J",
-      "6.63 \u00d7 10\u207b\u00b2\u2070 J"
+      "0.2",
+      "0.1",
+      "0.15",
+      "0.05"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "An object of mass 5 kg is lifted to a height of 10 m. What is the gravitational potential energy gained? (g = 10 m/s\u00b2)",
+    "question": "What is the gravitational field strength at a distance of 0.5 m from a mass of 50 kg?",
     "options": [
-      "500 J",
-      "50 J",
-      "5000 J",
-      "250 J"
+      "0.25 N/kg",
+      "0.75 N/kg",
+      "0.5 N/kg",
+      "0.1 N/kg"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Two capacitors of capacitance 6 \u03bcF and 3 \u03bcF are connected in series. What is the total capacitance?",
+    "question": "A voltage of 10 V is applied across a resistor of resistance 20 \u03a9. What is the current?",
     "options": [
-      "2 \u03bcF",
-      "9 \u03bcF",
-      "4.5 \u03bcF",
-      "18 \u03bcF"
+      "0.1 A",
+      "0.75 A",
+      "0.5 A",
+      "0.25 A"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following statements about Newton's third law is correct?",
+    "question": "What is the term for the change in velocity of a body due to a change in force?",
     "options": [
-      "Action and reaction forces act on different objects and are equal and opposite",
-      "Action and reaction forces act on the same object",
-      "Action force is always greater than the reaction force",
-      "Reaction force only occurs when objects are in contact at rest"
+      "Mass",
+      "Force",
+      "Velocity",
+      "Acceleration"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A gas is compressed isothermally. Which statement correctly describes what happens?",
+    "question": "A solar panel has a power output of 100 W. What is its efficiency?",
     "options": [
-      "The pressure increases as the volume decreases at constant temperature",
-      "The temperature increases as the pressure increases",
-      "The volume increases as the pressure increases",
-      "The internal energy increases as work is done on the gas"
+      "0.5",
+      "0.75",
+      "0.25",
+      "0.1"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The half-life of a radioactive isotope is 20 years. What fraction of the original sample remains after 60 years?",
+    "question": "A meteoroid enters the Earth's atmosphere and is heated to a temperature of 1000 K. What is its emissivity?",
     "options": [
-      "1/8",
-      "1/4",
-      "1/6",
-      "1/3"
+      "0.5",
+      "0.9",
+      "0.8",
+      "0.7"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A solenoid carries a current and produces a magnetic field. If the number of turns per unit length is doubled while the current remains constant, the magnetic field inside the solenoid will:",
+    "question": "What is the time period of a simple pendulum of length 0.5 m and mass 0.1 kg?",
     "options": [
-      "Double",
-      "Remain the same",
-      "Halve",
-      "Quadruple"
+      "0.5 s",
+      "2 s",
+      "1 s",
+      "1.5 s"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A wave has a speed of 340 m/s and a wavelength of 0.5 m. What is its frequency?",
-    "options": [
-      "680 Hz",
-      "170 Hz",
-      "340 Hz",
-      "850 Hz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which principle explains why a spinning top remains upright while rotating?",
-    "options": [
-      "Conservation of angular momentum",
-      "Conservation of linear momentum",
-      "Newton's second law of motion",
-      "Conservation of energy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a simple d.c. circuit, a resistor of 10 \u03a9 is connected to a 20 V battery with internal resistance 2 \u03a9. What is the current flowing through the circuit?",
-    "options": [
-      "1.67 A",
-      "2.0 A",
-      "10 A",
-      "0.91 A"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When light passes from air into glass, which of the following quantities remains unchanged?",
-    "options": [
-      "Frequency",
-      "Wavelength",
-      "Speed",
-      "All of the above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The photoelectric effect demonstrates which property of light?",
-    "options": [
-      "Light has particle-like properties (photons)",
-      "Light travels as a transverse wave",
-      "Light can be polarised",
-      "Light undergoes diffraction"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

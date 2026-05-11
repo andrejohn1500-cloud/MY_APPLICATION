@@ -1,152 +1,152 @@
 [
   {
-    "question": "If f(x) = 3x\u00b2 - 2x + 1, what is f'(x)?",
+    "question": "Solve the differential equation y' = 2x.",
     "options": [
-      "6x - 2",
-      "3x - 2",
-      "6x + 1",
-      "3x\u00b2 - 2"
+      "y = 2x + C",
+      "y = x^2 + C",
+      "y = x - C",
+      "y = x + C"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the value of log\u2082(64)?",
+    "question": "Find the equation of the tangent to the curve y = x^3 at the point (1, 1).",
     "options": [
-      "4",
-      "5",
-      "6",
-      "8"
+      "y = 3x^2 + 2",
+      "y = x^2 - 2",
+      "y = 3x^2 - 2",
+      "y = x^2 + 2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The sum of the first n terms of an arithmetic series is given by S\u2099 = n/2(2a + (n-1)d). If a = 3, d = 4, and n = 10, what is S\u2081\u2080?",
+    "question": "A series is defined as S = 1 + (1/2) + (1/4) + (1/8) + ... . Find the sum of the series.",
     "options": [
-      "210",
-      "195",
-      "220",
-      "180"
+      "1",
+      "2",
+      "4/3",
+      "3/2"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is the equation of a circle with centre (2, -3) and radius 5?",
-    "options": [
-      "(x-2)\u00b2 + (y+3)\u00b2 = 25",
-      "(x+2)\u00b2 + (y-3)\u00b2 = 25",
-      "(x-2)\u00b2 + (y-3)\u00b2 = 5",
-      "(x+2)\u00b2 + (y+3)\u00b2 = 25"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Evaluate the integral \u222b(2x + 3)dx from 0 to 2.",
+    "question": "A sequence is defined as 1, 2, 4, 8, ... . Find the next term in the sequence.",
     "options": [
       "10",
-      "8",
       "12",
+      "16",
       "14"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "If the matrix A = [[2, 1], [3, 4]], what is the determinant of A?",
+    "question": "If f(x) = (x^2 + 1) / (x - 1), find f(2).",
     "options": [
-      "5",
-      "11",
-      "8",
-      "3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the general solution of the differential equation dy/dx = 2y?",
-    "options": [
-      "y = Ce^(2x)",
-      "y = 2e^x + C",
-      "y = Ce^x",
-      "y = e^(2x) + C"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The complex number z = 3 + 4i has modulus:",
-    "options": [
-      "5",
-      "7",
-      "\u221a7",
-      "25"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A bag contains 4 red balls and 6 blue balls. Two balls are drawn without replacement. What is the probability that both are red?",
-    "options": [
-      "2/15",
-      "4/25",
-      "6/25",
-      "1/5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the remainder when the polynomial p(x) = x\u00b3 - 3x\u00b2 + 2x - 1 is divided by (x - 2)?",
-    "options": [
-      "\u22121",
-      "1",
       "3",
-      "\u22123"
+      "4",
+      "6",
+      "5"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following vectors is perpendicular to a = (2, -1, 3)?",
+    "question": "Find the inverse of the function f(x) = x^2 - 4x + 1.",
     "options": [
-      "b = (1, 1, -1/3)",
-      "b = (2, 1, 3)",
-      "b = (4, -2, 6)",
-      "b = (1, 2, 1)"
+      "x = (y + 4 - sqrt(16 - 4(y - 1)))/2",
+      "x = (y + 4 + sqrt(16 - 4(y - 1)))/2",
+      "x = (y + 4 - sqrt(16 - 4(y - 1)))/2 + 2",
+      "x = (y + 4 + sqrt(16 - 4(y - 1)))/2 + 2"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the value of sin(75\u00b0)?",
+    "question": "Find the sum of the infinite geometric series with first term 1 and common ratio 1/2.",
     "options": [
-      "(\u221a6 + \u221a2)/4",
-      "(\u221a6 - \u221a2)/4",
-      "(\u221a3 + 1)/2",
-      "(\u221a3 - 1)/2"
+      "1",
+      "3/2",
+      "4/3",
+      "2"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "The lines 2x + 3y = 6 and 4x + 6y = k are parallel and distinct. Which value of k confirms this?",
+    "question": "Find the determinant of the matrix [[2, 1], [4, 3]].",
     "options": [
-      "k = 13",
-      "k = 12",
-      "k = 6",
-      "k = 3"
+      "-2",
+      "6",
+      "2",
+      "4"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "If P(A) = 0.4, P(B) = 0.5, and P(A \u2229 B) = 0.2, what is P(A \u222a B)?",
+    "question": "If z = 2 - 3i, find the modulus of z.",
     "options": [
-      "0.7",
-      "0.9",
-      "0.6",
-      "0.8"
+      "-1",
+      "1",
+      "sqrt(2)",
+      "sqrt(13)"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "What is the coefficient of x\u00b3 in the binomial expansion of (1 + 2x)\u2075?",
+    "question": "Solve the equation 3sin(x) = 2.",
     "options": [
-      "80",
-      "40",
-      "160",
-      "20"
+      "arctan(2/3)",
+      "arcsin(2/3)",
+      "arccos(2/3)",
+      "arcsin(2/3)"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
+  },
+  {
+    "question": "Find the equation of the tangent to the curve y = x^2 at the point (1, 1).",
+    "options": [
+      "y = x + 1",
+      "y = 2x + 1",
+      "y = x - 1",
+      "y = 2x - 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Find the value of the expression 1 + (1 + i) + (1 + i)^2 + (1 + i)^3.",
+    "options": [
+      "3 + 3i",
+      "5 + 5i",
+      "4 + 4i",
+      "6 + 6i"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If f(x) = 2x^2 + 3x - 1, find f(-1).",
+    "options": [
+      "-4",
+      "-7",
+      "-5",
+      "-6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Solve the inequality 2x - 5 > 3.",
+    "options": [
+      "3",
+      "4",
+      "-1",
+      "2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a right-angled triangle, the sine of an angle is 3/5. Find the cosine of the angle.",
+    "options": [
+      "5/4",
+      "4/5",
+      "2/3",
+      "3/4"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the value of 2\u00b3 \u00d7 2\u00b2?",
+    "question": "What is the value of x in the equation x^2 + 5x + 6 = 0?",
     "options": [
-      "2\u2075",
-      "2\u2076",
-      "2\u00b9",
-      "4\u2075"
+      "0",
+      "4",
+      "3",
+      "-2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the value of the expression 2^2 - 3^2?",
+    "options": [
+      "6",
+      "4",
+      "-5",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the value of the limit as x approaches infinity of 1 / x^2?",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "infinite"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a factor of x\u00b2 - 9?",
+    "question": "What is the value of the infinite arithmetic series 1 + 3 + 5 + ...?",
     "options": [
-      "(x - 3)(x + 3)",
-      "(x - 9)(x + 1)",
-      "(x + 3)\u00b2",
-      "(x - 9)\u00b2"
+      "infinite",
+      "1",
+      "5",
+      "-1"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the gradient of the line y = 3x + 5?",
+    "question": "What is the equation of the circle with center (1, 2) and radius 3?",
     "options": [
+      "(x - 1)^2 + (y - 2)^2 = 16",
+      "(x - 1)^2 + (y - 2)^2 = 9",
+      "(x + 1)^2 + (y - 2)^2 = 9",
+      "(x + 1)^2 + (y + 2)^2 = 9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the value of the limit as x approaches 0 of sin(x) / x?",
+    "options": [
+      "1",
+      "1/2",
+      "2",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the equation of the line with slope 1 and y-intercept -2?",
+    "options": [
+      "y = x + 2",
+      "y = x - 2",
+      "y = x + 1",
+      "y = x - 1"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the solution to the differential equation dy/dx = 3y?",
+    "options": [
+      "y = Ce^(x)",
+      "y = Ce^(-3x)",
+      "y = Ce^(-x)",
+      "y = Ce^(3x)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the sum of the eigenvalues of a matrix?",
+    "options": [
+      "trace of the matrix",
+      "determinant of the matrix",
+      "inverse of the matrix",
+      "adjoint of the matrix"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the magnitude of the complex number 3 + 4i?",
+    "options": [
+      "6",
       "3",
       "5",
-      "1/3",
-      "8"
+      "4"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Solve for x: 2x + 4 = 10",
+    "question": "What is the value of tan(30\u00b0)?",
     "options": [
-      "3",
-      "7",
-      "2",
+      "1.0",
+      "0.5774",
+      "0.6",
+      "0.8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the unit vector in the direction of the vector 3i + 4j?",
+    "options": [
+      "(3/3)i + (4/4)j",
+      "(3/4)i + (4/3)j",
+      "(3/5)i + (4/5)j",
+      "(3/4)i + (4/3)j"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A function is defined as f(x) = 2x - 1. What is the value of x when f(x) = 7?",
+    "options": [
+      "8",
+      "4",
+      "10",
       "6"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the value of sin 30\u00b0?",
+    "question": "What is the value of the expression 2^4 + 2^3?",
     "options": [
-      "1/2",
-      "\u221a3/2",
-      "1",
-      "\u221a2/2"
+      "19",
+      "20",
+      "22",
+      "18"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The set A = {1, 2, 3} and B = {2, 3, 4}. What is A \u2229 B?",
+    "question": "What is the sum of the first 5 terms of the geometric sequence 2, 6, 18, ...?",
     "options": [
-      "{2, 3}",
-      "{1, 2, 3, 4}",
-      "{1, 4}",
-      "{2}"
+      "490",
+      "480",
+      "400",
+      "486"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the range of the function f(x) = x\u00b2 for x \u2208 \u211d?",
-    "options": [
-      "f(x) \u2265 0",
-      "f(x) > 0",
-      "All real numbers",
-      "f(x) \u2264 0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the determinant of the matrix [[2, 1], [3, 4]]?",
-    "options": [
-      "5",
-      "11",
-      "8",
-      "14"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Simplify: log\u2082 8",
-    "options": [
-      "3",
-      "4",
-      "2",
-      "8"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The quadratic equation x\u00b2 - 5x + 6 = 0 has roots:",
-    "options": [
-      "2 and 3",
-      "1 and 6",
-      "\u20132 and \u20133",
-      "\u20131 and \u20136"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the sum of the interior angles of a triangle?",
-    "options": [
-      "180\u00b0",
-      "360\u00b0",
-      "90\u00b0",
-      "270\u00b0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If f(x) = 2x - 1, what is f(4)?",
-    "options": [
-      "7",
-      "9",
-      "6",
-      "8"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following represents a geometric sequence?",
-    "options": [
-      "2, 4, 8, 16",
-      "1, 3, 5, 7",
-      "2, 4, 6, 8",
-      "1, 2, 3, 4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the derivative of f(x) = x\u00b3?",
-    "options": [
-      "3x\u00b2",
-      "x\u00b2",
-      "3x",
-      "2x\u00b3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A bag contains 3 red and 7 blue balls. What is the probability of selecting a red ball at random?",
-    "options": [
-      "3/10",
-      "7/10",
-      "1/3",
-      "3/7"
-    ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

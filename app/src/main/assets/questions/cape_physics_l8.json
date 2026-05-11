@@ -1,152 +1,42 @@
 [
   {
-    "question": "A car accelerates uniformly from rest to 20 m/s in 8 seconds. What is the distance travelled during this time?",
+    "question": "A block of mass 5 kg is suspended from a spring scale. If the spring scale reads 10 N, what is the force of gravity acting on the block?",
     "options": [
-      "80 m",
-      "160 m",
-      "40 m",
-      "320 m"
+      "10 N",
+      "20 N",
+      "5 N",
+      "15 N"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes the term 'electric field strength' at a point?",
+    "question": "A blackbody at a temperature of 273 K radiates 300 J of energy per second. What is its emissivity?",
     "options": [
-      "The force per unit positive charge placed at that point",
-      "The energy per unit charge at that point",
-      "The charge per unit area on a conductor",
-      "The potential difference per unit current at that point"
+      "1",
+      "0.75",
+      "0.9",
+      "0.5"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is the speed of the wave?",
+    "question": "A car travels 200 m in 10 s. What is its acceleration?",
     "options": [
-      "340 m/s",
-      "735 m/s",
-      "0.00136 m/s",
-      "170 m/s"
+      "20 m/s^2",
+      "15 m/s^2",
+      "10 m/s^2",
+      "5 m/s^2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which principle explains why a spinning top remains upright while rotating?",
+    "question": "A body is moving with a velocity of 20 m/s in a medium of density 1000 kg/m^3. What is its Mach number?",
     "options": [
-      "Conservation of angular momentum",
-      "Conservation of linear momentum",
-      "Newton's third law of motion",
-      "Conservation of energy"
+      "0.1",
+      "0.02",
+      "0.5",
+      "0.01"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A photon has an energy of 3.2 \u00d7 10\u207b\u00b9\u2079 J. Given that Planck's constant h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, what is the frequency of this photon?",
-    "options": [
-      "4.83 \u00d7 10\u00b9\u2074 Hz",
-      "2.12 \u00d7 10\u00b9\u2074 Hz",
-      "6.30 \u00d7 10\u00b9\u2074 Hz",
-      "1.89 \u00d7 10\u00b9\u2074 Hz"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a transformer, the primary coil has 200 turns and the secondary coil has 50 turns. If the primary voltage is 240 V, what is the secondary voltage?",
-    "options": [
-      "60 V",
-      "960 V",
-      "120 V",
-      "30 V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a correct statement of the second law of thermodynamics?",
-    "options": [
-      "Heat cannot spontaneously flow from a cooler body to a hotter body",
-      "Energy cannot be created or destroyed",
-      "The entropy of a perfect crystal at absolute zero is zero",
-      "Internal energy of an ideal gas depends only on pressure"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A 2 kg object is moving in a circle of radius 0.5 m at a speed of 4 m/s. What is the centripetal force acting on it?",
-    "options": [
-      "64 N",
-      "16 N",
-      "32 N",
-      "8 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What happens to the de Broglie wavelength of a particle when its momentum is doubled?",
-    "options": [
-      "It is halved",
-      "It is doubled",
-      "It remains unchanged",
-      "It is quadrupled"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A parallel plate capacitor has a capacitance of 10 \u03bcF and is connected to a 12 V supply. How much energy is stored in the capacitor?",
-    "options": [
-      "7.2 \u00d7 10\u207b\u2074 J",
-      "1.2 \u00d7 10\u207b\u00b3 J",
-      "1.44 \u00d7 10\u207b\u00b3 J",
-      "6.0 \u00d7 10\u207b\u2074 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In simple harmonic motion, at which position is the kinetic energy of the oscillator at its maximum?",
-    "options": [
-      "At the equilibrium position",
-      "At the maximum displacement",
-      "Halfway between equilibrium and maximum displacement",
-      "At the point of zero velocity"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of radioactive decay results in the atomic number of a nucleus increasing by one?",
-    "options": [
-      "Beta-minus decay",
-      "Alpha decay",
-      "Beta-plus decay",
-      "Gamma decay"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A wire of length 2 m carries a current of 5 A and is placed perpendicular to a magnetic field of flux density 0.3 T. What is the force on the wire?",
-    "options": [
-      "3 N",
-      "1.5 N",
-      "30 N",
-      "0.3 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly defines the Young modulus of a material?",
-    "options": [
-      "Stress divided by strain within the elastic limit",
-      "Strain divided by stress within the elastic limit",
-      "Force divided by extension",
-      "Energy stored per unit volume"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A gas is compressed isothermally. Which of the following correctly describes what happens to the internal energy of an ideal gas during this process?",
-    "options": [
-      "It remains constant because temperature does not change",
-      "It increases because work is done on the gas",
-      "It decreases because the gas is compressed",
-      "It increases because pressure increases"
-    ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

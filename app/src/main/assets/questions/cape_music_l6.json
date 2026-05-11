@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which term describes the simultaneous use of two or more keys in a musical composition?",
+    "question": "In music analysis, what is the term for the study of the relationships between different musical elements such as melody, harmony, and rhythm?",
     "options": [
-      "Polytonality",
-      "Atonality",
-      "Modality",
-      "Chromaticism"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In sonata form, which section presents the main themes in their original keys after development?",
-    "options": [
-      "Exposition",
-      "Development",
-      "Recapitulation",
-      "Coda"
+      "Orchestration",
+      "Improvisation",
+      "Analysis",
+      "Composition"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which Caribbean folk music tradition from Trinidad involves call-and-response singing and is closely linked to the Spiritual Baptist faith?",
+    "question": "What is the term for a musical composition that is written in a specific mode or tonality?",
     "options": [
-      "Shango",
-      "Shouter Baptist music",
-      "Kumina",
-      "Bele"
+      "Key",
+      "Scale",
+      "Tonality",
+      "Mode"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of creating a new melody or theme over a pre-existing melody?",
+    "options": [
+      "Harmony",
+      "Obbligato",
+      "Counterpoint",
+      "Discant"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the interval between C and A flat?",
+    "question": "Who is the composer of the classical music piece 'Symphony No. 5'?",
     "options": [
-      "Major sixth",
-      "Minor sixth",
-      "Diminished sixth",
-      "Augmented fifth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In music theory, a Neapolitan chord is typically built on which scale degree?",
-    "options": [
-      "Second degree (lowered)",
-      "Third degree",
-      "Fourth degree",
-      "Sixth degree (lowered)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best describes 'heterophony'?",
-    "options": [
-      "Two voices singing in parallel thirds",
-      "Simultaneous variations of the same melody by different performers",
-      "A melody accompanied by a drone",
-      "Independent melodic lines in strict counterpoint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term 'ostinato' refers to which musical device?",
-    "options": [
-      "A gradual increase in tempo",
-      "A persistently repeated rhythmic or melodic pattern",
-      "A sudden change in dynamics",
-      "A type of ornamental trill"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Jamaican music genre directly preceded reggae in chronological development?",
-    "options": [
-      "Mento",
-      "Ska",
-      "Rocksteady",
-      "Calypso"
+      "Fr\u00e9d\u00e9ric Chopin",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a C major scale, which triad built on the seventh degree is naturally occurring?",
+    "question": "In orchestration, what is the term for the use of multiple instruments playing different pitches simultaneously?",
     "options": [
-      "Augmented",
-      "Major",
-      "Diminished",
-      "Minor"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which rhythmic device involves the deliberate displacement of accents away from the natural metric stress?",
-    "options": [
-      "Syncopation",
-      "Hemiola",
-      "Polyrhythm",
-      "Augmentation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does the term 'da capo' instruct a performer to do?",
-    "options": [
-      "Go to the coda",
-      "Repeat from the beginning",
-      "Slow down gradually",
-      "Play with the bow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The steelpan was developed in which Caribbean island?",
-    "options": [
-      "Barbados",
-      "Jamaica",
-      "Trinidad and Tobago",
-      "Guyana"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which texture is characterized by a single melodic line without accompaniment?",
-    "options": [
-      "Homophony",
       "Polyphony",
-      "Monophony",
-      "Heterophony"
+      "Counterpoint",
+      "Homophony",
+      "Harmonization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In music performance, what is the term for the ability to accurately reproduce a musical score?",
+    "options": [
+      "Articulation",
+      "Tone color",
+      "Intonation",
+      "Dynamics"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In figured bass notation, what does the figure '6/4' indicate about a chord?",
+    "question": "Which of the following is a type of Caribbean folk dance?",
     "options": [
-      "Root position triad",
-      "First inversion triad",
-      "Second inversion triad",
-      "Third inversion seventh chord"
+      "Jerk",
+      "Calypso",
+      "Reggae",
+      "Soca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is the composer of the classical music piece 'The Four Seasons'?",
+    "options": [
+      "Fr\u00e9d\u00e9ric Chopin",
+      "Wolfgang Amadeus Mozart",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following compositional techniques involves a theme being presented upside down, reversing the direction of all its intervals?",
+    "question": "In music technology, what is the term for a software program that allows users to edit and mix audio?",
     "options": [
-      "Retrograde",
-      "Augmentation",
-      "Inversion",
-      "Diminution"
+      "MIDI controller",
+      "Audio interface",
+      "Digital Audio Editor",
+      "DAW"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "In music technology, what is the term for a hardware device that allows users to input musical notes or sounds?",
+    "options": [
+      "Audio interface",
+      "MIDI controller",
+      "Studio monitor",
+      "DAW"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In music analysis, what is the term for the study of the relationships between different musical themes or motifs?",
+    "options": [
+      "Formal analysis",
+      "Thematic analysis",
+      "Rhythmic analysis",
+      "Harmonic analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of Caribbean folk song?",
+    "options": [
+      "Calypso",
+      "Reggae",
+      "Soca",
+      "Dancehall"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a musical composition that has no specific meter or rhythmic pulse?",
+    "options": [
+      "Atempo",
+      "Free Time",
+      "Rubato",
+      "Ad Libitum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is the Jamaican musician credited with inventing the Wailers and the band that became Bob Marley and the Wailers?",
+    "options": [
+      "Toots and the Maytals",
+      "Bunny Wailer",
+      "Bob Marley",
+      "Peter Tosh"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is the composer of the classical music piece 'Moonlight Sonata'?",
+    "options": [
+      "Fr\u00e9d\u00e9ric Chopin",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "correctIndex": 1
   }
 ]

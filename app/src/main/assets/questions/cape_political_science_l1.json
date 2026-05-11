@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best defines the term 'sovereignty'?",
+    "question": "Which of the following is a characteristic of a socialist economy?",
     "options": [
-      "The right of citizens to vote in elections",
-      "The supreme authority of a state to govern itself without external interference",
-      "The power of the judiciary to interpret laws",
-      "The ability of a government to collect taxes"
+      "The state plays a minimal role in the economy",
+      "The market is free and unregulated",
+      "Individuals are free to pursue their own interests",
+      "The state ownership and control of the means of production"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main difference between a unicameral and a bicameral legislature?",
+    "options": [
+      "The powers of the head of state",
+      "The number of chambers in the legislative body",
+      "The term of office for members of the legislature",
+      "The type of voting system used in the legislature"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a 'constitution'?",
+    "question": "What is the primary goal of the Caribbean Community and Common Market (CARICOM)?",
     "options": [
-      "A law passed by parliament to regulate trade",
-      "A fundamental set of principles and rules that establish the framework of government",
-      "A treaty signed between two or more countries",
-      "A formal declaration of war between nations"
+      "To promote economic integration and cooperation among Caribbean states",
+      "To establish a single currency for the region",
+      "To promote regional security through military cooperation",
+      "To provide economic aid to countries in the region"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which type of democracy allows citizens to vote directly on laws and policies?",
+    "question": "What is the main difference between a single-member constituency and a multi-member constituency?",
     "options": [
-      "Representative democracy",
-      "Parliamentary democracy",
-      "Direct democracy",
-      "Liberal democracy"
+      "The role of the military in the government",
+      "The powers of the head of state",
+      "The type of voting system used in elections",
+      "The number of representatives allocated to each constituency"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary goal of the principles of social justice in Rawls' theory of justice?",
+    "options": [
+      "To ensure equal distribution of resources",
+      "To establish a social hierarchy based on meritocracy",
+      "To prioritize the interests of the individual over the collective good",
+      "To promote the greatest happiness for the greatest number of people"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following best describes the concept of nationalism?",
+    "options": [
+      "The belief that a nation should be subject to the authority of another state",
+      "The belief that a nation should be governed by a monarch",
+      "The belief that a nation should be self-governing and independent",
+      "The belief that a nation should be part of a larger state or empire"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a federal system of government, power is shared between which levels?",
+    "question": "Which of the following best describes the concept of nationalism?",
     "options": [
-      "The executive and the judiciary",
-      "The national government and regional or state governments",
-      "The legislature and the military",
-      "Political parties and trade unions"
+      "The belief that a nation should be governed by a monarch",
+      "The belief that a nation should be subject to the authority of another state",
+      "The belief that a nation should be part of a larger state or empire",
+      "The belief that a nation should be self-governing and independent"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a function of the Legislature?",
+    "question": "What is the main difference between a constitution and a charter?",
     "options": [
-      "Implementing laws and policies",
-      "Interpreting the constitution",
-      "Making and passing laws",
-      "Commanding the armed forces"
+      "The powers of the head of state",
+      "The role of the military in the government",
+      "The type of government established by the document",
+      "The purpose and scope of the document"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a federal system of government?",
+    "options": [
+      "The distribution of power between the central government and regional governments",
+      "The legislative branch has no power",
+      "The prime minister is appointed by the president",
+      "The head of state is also the head of government"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between a proportional representation system and a first-past-the-post system?",
+    "options": [
+      "The powers of the head of state",
+      "The type of voting system used in elections",
+      "The method of allocating seats in the legislature",
+      "The role of the military in the government"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the term 'universal adult suffrage' mean?",
+    "question": "What is the primary goal of the International Monetary Fund (IMF)?",
     "options": [
-      "Only educated adults can vote",
-      "All adult citizens have the right to vote regardless of gender, race, or class",
-      "Only property owners are allowed to vote",
-      "Voting is compulsory for all citizens"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which political thinker is associated with the concept of the 'social contract'?",
-    "options": [
-      "Karl Marx",
-      "Niccolo Machiavelli",
-      "John Locke",
-      "Max Weber"
+      "To provide economic aid to countries in the region",
+      "To promote regional security through military cooperation",
+      "To promote international monetary cooperation and exchange rate stability",
+      "To establish a single currency for the region"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary role of the Executive branch of government?",
+    "question": "What is the primary goal of the Organization of Eastern Caribbean States (OECS)?",
     "options": [
-      "To make laws",
-      "To interpret laws",
-      "To implement and enforce laws and policies",
-      "To elect the head of state"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes a 'unitary state'?",
-    "options": [
-      "A state where power is equally divided between many independent regions",
-      "A state where central government holds supreme authority over all other levels",
-      "A state governed by a monarchy",
-      "A state with no written constitution"
+      "To promote regional security through military cooperation",
+      "To promote economic integration and cooperation among Eastern Caribbean states",
+      "To provide economic aid to countries in the region",
+      "To establish a single currency for the region"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is meant by the 'separation of powers'?",
+    "question": "Which of the following is a characteristic of a dictatorship?",
     "options": [
-      "The division of a country into provinces",
-      "The principle that the powers of government should be divided among different branches",
-      "The separation of church and state",
-      "The division of political parties into factions"
+      "The head of state is elected by the people",
+      "The separation of powers between the executive and legislative branches",
+      "The legislative branch has more power than the executive branch",
+      "The concentration of power in the hands of one person or group"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is an example of a civil liberty?",
+    "question": "What is the main difference between a unicameral and a bicameral legislature?",
     "options": [
-      "The right to pay taxes",
-      "The right to free speech",
-      "The obligation to serve in the military",
-      "The duty to obey government orders"
+      "The term of office for members of the legislature",
+      "The type of voting system used in the legislature",
+      "The powers of the head of state",
+      "The number of chambers in the legislative body"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A state that is governed by a small, privileged group of people is known as a/an:",
+    "question": "What is the primary goal of the Association of Caribbean States (ACS)?",
     "options": [
-      "Democracy",
-      "Monarchy",
-      "Oligarchy",
-      "Theocracy"
+      "To promote regional security through military cooperation",
+      "To establish a single currency for the region",
+      "To provide economic aid to countries in the region",
+      "To promote regional cooperation and integration among Caribbean states"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following Caribbean countries operates under a Westminster-style parliamentary system?",
-    "options": [
-      "Cuba",
-      "Haiti",
-      "Jamaica",
-      "Suriname"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a political party?",
-    "options": [
-      "To enforce the laws of a country",
-      "To seek and exercise political power through elections",
-      "To manage the economy of a country",
-      "To administer justice in the courts"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which term describes the process by which individuals learn political values, beliefs, and attitudes?",
-    "options": [
-      "Political recruitment",
-      "Political socialization",
-      "Political participation",
-      "Political institutionalization"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

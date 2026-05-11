@@ -1,152 +1,152 @@
 [
   {
-    "question": "A particle moves in a circle of radius 0.5 m with a constant speed of 4 m/s. What is the centripetal acceleration of the particle?",
+    "question": "What is the term for the change in kinetic energy of a body due to a change in velocity?",
     "options": [
-      "8 m/s\u00b2",
-      "16 m/s\u00b2",
-      "32 m/s\u00b2",
-      "4 m/s\u00b2"
+      "Thermal Energy",
+      "Energy",
+      "Work",
+      "Power"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes the photoelectric effect?",
+    "question": "A wind turbine has a power output of 100 kW. What is its efficiency?",
     "options": [
-      "Electrons are emitted from a metal surface when it is heated",
-      "Electrons are emitted from a metal surface when electromagnetic radiation of sufficient frequency is incident on it",
-      "Photons are emitted when electrons fall to lower energy levels",
-      "X-rays are produced when electrons hit a metal target"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A wire of length 2 m, cross-sectional area 1 \u00d7 10\u207b\u2076 m\u00b2, and resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9\u00b7m is connected to a battery. What is the resistance of the wire?",
-    "options": [
-      "0.034 \u03a9",
-      "0.34 \u03a9",
-      "3.4 \u00d7 10\u207b\u00b2 \u03a9",
-      "3.4 \u00d7 10\u207b\u2074 \u03a9"
+      "0.5",
+      "0.9",
+      "0.25",
+      "0.75"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The half-life of a radioactive isotope is 6 hours. What fraction of the original sample remains after 24 hours?",
+    "question": "A wave with a frequency of 60 Hz and amplitude of 0.2 m is traveling along a string. What is its wavelength?",
     "options": [
-      "1/8",
-      "1/16",
-      "1/4",
-      "1/32"
+      "3 m",
+      "2 m",
+      "5 m",
+      "10 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A tsunami wave has a wavelength of 10 km and a frequency of 0.1 Hz. What is its speed?",
+    "options": [
+      "500 m/s",
+      "1000 m/s",
+      "2000 m/s",
+      "1500 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A transformer has 500 turns on the primary coil and 100 turns on the secondary coil. If the primary voltage is 240 V, what is the secondary voltage?",
+    "question": "A body is moving with a velocity of 20 m/s in a circular path of radius 0.5 m. What is its centripetal acceleration?",
     "options": [
-      "1200 V",
-      "48 V",
-      "120 V",
-      "24 V"
+      "10 m/s^2",
+      "20 m/s^2",
+      "15 m/s^2",
+      "5 m/s^2"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following quantities is a vector?",
+    "question": "A body is subjected to a constant force of 5 N over a distance of 2 m. What is the work done on the body?",
     "options": [
-      "Speed",
-      "Mass",
-      "Electric potential",
-      "Electric field strength"
+      "50 J",
+      "20 J",
+      "5 J",
+      "10 J"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A ball is thrown horizontally from a height of 20 m with a speed of 10 m/s. Taking g = 10 m/s\u00b2, how far horizontally does it travel before hitting the ground?",
+    "question": "What is the coefficient of restitution for a perfectly elastic collision?",
     "options": [
-      "10 m",
-      "20 m",
-      "40 m",
-      "14 m"
+      "0.9",
+      "1",
+      "0.5",
+      "0.75"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a double-slit experiment, monochromatic light of wavelength 600 nm passes through two slits separated by 0.3 mm. If the screen is 1.5 m away, what is the fringe spacing?",
+    "question": "A body of mass 20 kg is moving at 10 m/s in a straight line. What is its kinetic energy?",
     "options": [
-      "1 mm",
-      "2 mm",
-      "3 mm",
-      "0.5 mm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which law states that the pressure of a fixed mass of gas at constant volume is directly proportional to its absolute temperature?",
-    "options": [
-      "Boyle's Law",
-      "Charles's Law",
-      "Gay-Lussac's Law",
-      "Dalton's Law"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A proton moves with velocity 3 \u00d7 10\u2076 m/s perpendicular to a magnetic field of 0.2 T. What is the magnetic force on the proton? (charge of proton = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
-    "options": [
-      "9.6 \u00d7 10\u207b\u00b9\u2074 N",
-      "9.6 \u00d7 10\u207b\u00b9\u00b3 N",
-      "3.84 \u00d7 10\u207b\u00b2\u2076 N",
-      "6.4 \u00d7 10\u207b\u00b9\u2074 N"
+      "500 J",
+      "100 J",
+      "1500 J",
+      "200 J"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the de Broglie wavelength of an electron moving at 2 \u00d7 10\u2076 m/s? (mass of electron = 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, h = 6.63 \u00d7 10\u207b\u00b3\u2074 J\u00b7s)",
+    "question": "A nuclear power plant has a power output of 1000 MW. What is its thermal efficiency?",
     "options": [
-      "3.64 \u00d7 10\u207b\u00b9\u2070 m",
-      "2.84 \u00d7 10\u207b\u00b9\u2070 m",
-      "1.82 \u00d7 10\u207b\u00b9\u2070 m",
-      "7.28 \u00d7 10\u207b\u00b9\u2070 m"
+      "0.33",
+      "0.5",
+      "0.4",
+      "0.25"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A capacitor of capacitance 50 \u03bcF is charged to a potential difference of 12 V. What is the energy stored in the capacitor?",
+    "question": "A radiation therapy machine emits gamma rays with an energy of 1 MeV. What is the energy of a photon of this radiation?",
     "options": [
-      "600 \u03bcJ",
-      "3600 \u03bcJ",
-      "360 \u03bcJ",
-      "6 mJ"
+      "1.6 x 10^-12 J",
+      "1.6 x 10^-13 J",
+      "1.6 x 10^-15 J",
+      "1.6 x 10^-14 J"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is NOT a characteristic of simple harmonic motion?",
+    "question": "A satellite is in a circular orbit around the Earth with a radius of 0.1 R_E. What is its speed?",
     "options": [
-      "The acceleration is proportional to displacement",
-      "The acceleration is always directed toward the equilibrium position",
-      "The velocity is maximum at the equilibrium position",
-      "The acceleration is maximum at the equilibrium position"
+      "2.5 km/s",
+      "3.5 km/s",
+      "4.5 km/s",
+      "3.08 km/s"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A satellite orbits Earth at a height where the gravitational field strength is 6.4 m/s\u00b2. If the radius of the orbit is 8 \u00d7 10\u2076 m, what is the orbital speed of the satellite?",
+    "question": "A seismograph measures the amplitude of seismic waves with a maximum value of 100 \u03bcm. What is the amplitude of the waves in meters?",
     "options": [
-      "7155 m/s",
-      "5120 m/s",
-      "6400 m/s",
-      "8000 m/s"
+      "0.0001 m",
+      "0.00005 m",
+      "0.00015 m",
+      "0.00005 m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In nuclear fission, when uranium-235 absorbs a neutron and splits, which of the following is conserved?",
+    "question": "A radioactive substance has a half-life of 10 years. What is its decay constant?",
     "options": [
-      "Mass number only",
-      "Charge only",
-      "Both mass number and charge",
-      "Neither mass number nor charge"
+      "0.0693 yr^-1",
+      "0.0699 yr^-1",
+      "0.0693 yr^-1",
+      "0.069 yr^-1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the reactance of an inductor of inductance 10 mH and a capacitor of capacitance 100 \u03bcF in series?",
+    "options": [
+      "5 \u03a9",
+      "15 \u03a9",
+      "10 \u03a9",
+      "20 \u03a9"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A medical imaging device uses X-rays with an energy of 100 keV. What is the wavelength of these X-rays?",
+    "options": [
+      "0.0124 nm",
+      "0.012 nm",
+      "0.012 nm",
+      "0.0124 nm"
+    ],
+    "correctIndex": 0
   }
 ]

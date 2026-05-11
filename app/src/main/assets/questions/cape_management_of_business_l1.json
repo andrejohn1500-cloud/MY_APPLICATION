@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary purpose of a business?",
+    "question": "What is the process of matching the production capacity with the demand for a product?",
     "options": [
-      "To provide employment",
-      "To satisfy customer needs and make a profit",
-      "To pay taxes to the government",
-      "To compete with other businesses"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of business organisation is owned and operated by one person?",
-    "options": [
-      "Partnership",
-      "Private limited company",
-      "Sole trader",
-      "Cooperative"
+      "Production planning",
+      "Inventory management",
+      "Demand management",
+      "Supply management"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does GDP stand for?",
+    "question": "What is the process of identifying and recruiting potential employees?",
     "options": [
-      "General Domestic Product",
-      "Gross Domestic Product",
-      "General Development Plan",
-      "Gross Development Price"
+      "Training and development",
+      "Motivation and satisfaction",
+      "Appraisal and evaluation",
+      "Staffing"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a factor of production?",
+    "question": "What are the three primary functions of management?",
     "options": [
-      "Money",
-      "Profit",
-      "Land",
-      "Tax"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is meant by the term 'division of labour'?",
-    "options": [
-      "Splitting profits among workers",
-      "Breaking down production into specialised tasks",
-      "Dividing a company into departments",
-      "Sharing work equally among employees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which document outlines the rules and regulations governing a company's internal management?",
-    "options": [
-      "Memorandum of Association",
-      "Certificate of Incorporation",
-      "Articles of Association",
-      "Prospectus"
+      "Human Resource Management, Business Development, Accounting",
+      "Recruitment, Training, Retention",
+      "Planning, Organising, Controlling",
+      "Marketing, Finance, Operations"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the main difference between a private limited company and a public limited company?",
+    "question": "Which of the following is a key characteristic of the Caribbean business environment?",
     "options": [
-      "Private limited companies are larger",
-      "Public limited companies cannot sell shares to the public",
-      "Private limited companies cannot sell shares to the general public",
-      "Public limited companies pay more taxes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes 'opportunity cost'?",
-    "options": [
-      "The total cost of producing a good",
-      "The cost of the next best alternative foregone",
-      "The profit lost due to competition",
-      "The expense of a missed business opportunity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the role of a Trade Union?",
-    "options": [
-      "To manage company finances",
-      "To represent and protect the interests of workers",
-      "To set government economic policy",
-      "To regulate business competition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of production involves extracting raw materials from nature?",
-    "options": [
-      "Secondary production",
-      "Tertiary production",
-      "Primary production",
-      "Quaternary production"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 'branding' in marketing?",
-    "options": [
-      "Labelling products with a price",
-      "Creating a unique name or image to distinguish a product",
-      "Advertising on television",
-      "Selling products in bulk"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a fixed cost?",
-    "options": [
-      "Raw materials",
-      "Electricity used in production",
-      "Factory rent",
-      "Sales commissions"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'entrepreneur' mean?",
-    "options": [
-      "A government official who manages state enterprises",
-      "A person who organises and takes the risk of running a business",
-      "A worker who is highly skilled in production",
-      "A manager who oversees daily business operations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is NOT a function of management?",
-    "options": [
-      "Planning",
-      "Organising",
-      "Manufacturing",
-      "Controlling"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is meant by 'market segmentation'?",
-    "options": [
-      "Dividing a market into distinct groups of buyers with different needs",
-      "Reducing the size of a market",
-      "Increasing competition in a market",
-      "Splitting a business into smaller companies"
+      "Language diversity",
+      "Geographic isolation",
+      "Cultural diversity",
+      "Currency fluctuations"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a key concept in the management of business?",
+    "options": [
+      "Operational management",
+      "Strategic management",
+      "Tactical management",
+      "Functional management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the process of managing an organisation's finances?",
+    "options": [
+      "Marketing management",
+      "Operations management",
+      "Human resource management",
+      "Financial management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key feature of a sole proprietorship?",
+    "options": [
+      "Ownership and control are shared among several individuals",
+      "Ownership and control rest with one individual",
+      "The business is taxed as a separate entity",
+      "The business is registered with the government"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a key function of management?",
+    "options": [
+      "Organising",
+      "Controlling",
+      "Leading",
+      "Planning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process of coordinating and controlling business activities?",
+    "options": [
+      "Controlling",
+      "Planning",
+      "Organising",
+      "Leading"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process of identifying and addressing ethical issues in a business?",
+    "options": [
+      "Value-based decision-making",
+      "Consequential decision-making",
+      "Moral decision-making",
+      "Ethical decision-making"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the role of the management function of leading in a business?",
+    "options": [
+      "To make decisions about resource allocation",
+      "To evaluate and control business performance",
+      "To plan and coordinate business activities",
+      "To motivate and direct employees towards achieving business objectives"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key principle in the management of business?",
+    "options": [
+      "Maximisation of profits",
+      "Protection of shareholders' interests",
+      "Respect for the law",
+      "Respect for human rights"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a business organisation?",
+    "options": [
+      "To provide employment opportunities to the community",
+      "To provide a platform for social interaction",
+      "To generate revenue for the shareholders",
+      "To achieve its objectives by converting resources into useful products or services"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key concept in strategic management?",
+    "options": [
+      "Porter's five forces",
+      "PESTEL analysis",
+      "SWOT analysis",
+      "Boston Consulting Group matrix"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of business ownership?",
+    "options": [
+      "Government ownership",
+      "Public ownership",
+      "Private ownership",
+      "Cooperative ownership"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "A particle moves in a circle of radius 0.5 m with a uniform speed of 4 m/s. What is the magnitude of the centripetal acceleration of the particle?",
+    "question": "A patient undergoes an MRI scan to diagnose a medical condition. What is the principle behind the MRI scan?",
     "options": [
-      "8 m/s\u00b2",
-      "16 m/s\u00b2",
-      "32 m/s\u00b2",
-      "4 m/s\u00b2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a double-slit experiment using light of wavelength 600 nm, the slits are separated by 0.3 mm and the screen is 1.5 m away. What is the fringe spacing?",
-    "options": [
-      "1.0 mm",
-      "2.0 mm",
-      "3.0 mm",
-      "0.5 mm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A photon has a frequency of 6.0 \u00d7 10\u00b9\u2074 Hz. Given that Planck's constant h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, what is the energy of the photon?",
-    "options": [
-      "3.98 \u00d7 10\u207b\u00b9\u2079 J",
-      "6.63 \u00d7 10\u207b\u00b3\u2074 J",
-      "1.10 \u00d7 10\u207b\u2074\u2078 J",
-      "9.95 \u00d7 10\u207b\u00b9\u2079 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A transformer has a primary coil of 500 turns and a secondary coil of 50 turns. If the primary voltage is 240 V, what is the secondary voltage?",
-    "options": [
-      "2400 V",
-      "24 V",
-      "240 V",
-      "48 V"
+      "The MRI scan uses the principle of ultrasound.",
+      "The MRI scan uses the principle of magnetic resonance.",
+      "The MRI scan uses the principle of X-ray attenuation.",
+      "The MRI scan uses the principle of nuclear medicine."
     ],
     "correctIndex": 1
   },
   {
-    "question": "An ideal gas undergoes an isothermal expansion. Which of the following correctly describes what happens to the internal energy and the work done by the gas?",
+    "question": "A patient undergoes a PET scan to diagnose a medical condition. What is the principle behind the PET scan?",
     "options": [
-      "Internal energy increases; work done by gas is positive",
-      "Internal energy remains constant; work done by gas is positive",
-      "Internal energy decreases; work done by gas is zero",
-      "Internal energy remains constant; work done by gas is zero"
+      "The PET scan uses the principle of magnetic resonance.",
+      "The PET scan uses the principle of nuclear medicine.",
+      "The PET scan uses the principle of ultrasound.",
+      "The PET scan uses the principle of X-ray attenuation."
     ],
     "correctIndex": 1
   },
   {
-    "question": "A radioactive nucleus undergoes alpha decay. Which of the following correctly describes the change in the nucleus?",
+    "question": "A nucleus undergoes radioactive decay by emitting an alpha particle. What is the change in mass number?",
     "options": [
-      "Mass number decreases by 4, atomic number decreases by 2",
-      "Mass number decreases by 2, atomic number decreases by 4",
-      "Mass number decreases by 4, atomic number decreases by 4",
-      "Mass number decreases by 2, atomic number decreases by 2"
+      "The change in mass number is +4.",
+      "The change in mass number is -2.",
+      "The change in mass number is +2.",
+      "The change in mass number is -4."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A wire of length 2.0 m, cross-sectional area 1.0 \u00d7 10\u207b\u2076 m\u00b2, and resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9 m is connected to a 6 V battery of negligible internal resistance. What is the current through the wire?",
+    "question": "A capacitor is connected in series with a resistor and a voltage source. What is the time constant of the circuit?",
     "options": [
-      "1.76 \u00d7 10\u2075 A",
-      "0.176 A",
-      "176 A",
-      "17.6 A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An electron (mass 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, charge 1.6 \u00d7 10\u207b\u00b9\u2079 C) is accelerated through a potential difference of 500 V. What is the de Broglie wavelength of the electron?",
-    "options": [
-      "5.5 \u00d7 10\u207b\u00b9\u00b9 m",
-      "1.2 \u00d7 10\u207b\u00b9\u2070 m",
-      "5.5 \u00d7 10\u207b\u2078 m",
-      "1.2 \u00d7 10\u207b\u00b9\u00b9 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A capacitor of capacitance 100 \u03bcF is charged to a potential difference of 12 V. How much energy is stored in the capacitor?",
-    "options": [
-      "7.2 \u00d7 10\u207b\u00b3 J",
-      "1.44 \u00d7 10\u207b\u00b2 J",
-      "6.0 \u00d7 10\u207b\u00b3 J",
-      "1.2 \u00d7 10\u207b\u00b2 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A string of length 0.8 m is fixed at both ends and vibrates in its third harmonic. What is the frequency of vibration if the wave speed on the string is 240 m/s?",
-    "options": [
-      "150 Hz",
-      "300 Hz",
-      "450 Hz",
-      "600 Hz"
+      "The time constant of the circuit is V.",
+      "The time constant of the circuit is C.",
+      "The time constant of the circuit is RC.",
+      "The time constant of the circuit is R."
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the photoelectric effect, which of the following increases when only the intensity of incident light (above the threshold frequency) is increased?",
+    "question": "A Carnot refrigerator operates between two temperatures of 100 K and 200 K. What is the coefficient of performance?",
     "options": [
-      "Maximum kinetic energy of emitted electrons",
-      "Threshold frequency",
-      "Number of emitted electrons per second",
-      "Work function of the metal"
+      "The coefficient of performance is 0.2.",
+      "The coefficient of performance is 1.",
+      "The coefficient of performance is 0.1.",
+      "The coefficient of performance is 0.5."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A standing wave is formed on a string with nodes at x = 0 and x = 2 m. What is the length of the string?",
+    "options": [
+      "The length of the string is 1 m.",
+      "The length of the string is 4 m.",
+      "The length of the string is 2 m.",
+      "The length of the string is 3 m."
     ],
     "correctIndex": 2
   },
   {
-    "question": "A satellite orbits Earth at a height where the gravitational field strength is 6.0 N/kg. If the radius of Earth is 6.4 \u00d7 10\u2076 m and g at the surface is 9.8 N/kg, approximately what is the orbital radius of the satellite?",
+    "question": "A capacitor is connected in series with a resistor and a voltage source. What is the time constant of the circuit?",
     "options": [
-      "7.2 \u00d7 10\u2076 m",
-      "8.1 \u00d7 10\u2076 m",
-      "5.7 \u00d7 10\u2076 m",
-      "9.6 \u00d7 10\u2076 m"
+      "The time constant of the circuit is R.",
+      "The time constant of the circuit is RC.",
+      "The time constant of the circuit is V.",
+      "The time constant of the circuit is C."
     ],
     "correctIndex": 1
   },
   {
-    "question": "A particle executes simple harmonic motion with amplitude 0.04 m and angular frequency 10 rad/s. What is the maximum acceleration of the particle?",
+    "question": "A seismograph is an instrument used to measure the motion of the earth's surface caused by seismic waves. What is the primary type of seismic wave that causes the most damage during an earthquake?",
     "options": [
-      "0.4 m/s\u00b2",
-      "4.0 m/s\u00b2",
-      "40 m/s\u00b2",
-      "400 m/s\u00b2"
+      "Love wave",
+      "Shear wave",
+      "Surface wave",
+      "P-wave"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Two point charges of +4 \u03bcC and \u22124 \u03bcC are placed 0.2 m apart in vacuum. What is the magnitude of the electrostatic force between them? (k = 9 \u00d7 10\u2079 N m\u00b2 C\u207b\u00b2)",
+    "question": "A nucleus undergoes radioactive decay by emitting a beta particle. What is the change in atomic number?",
     "options": [
-      "3.6 N",
-      "7.2 N",
-      "0.36 N",
-      "36 N"
+      "The change in atomic number is +2.",
+      "The change in atomic number is -1.",
+      "The change in atomic number is +1.",
+      "The change in atomic number is -2."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A system undergoes a change from an initial state A to a final state B. If the change is reversible, what is the change in entropy?",
+    "options": [
+      "The change in entropy is infinite.",
+      "The change in entropy is positive.",
+      "The change in entropy is zero.",
+      "The change in entropy is negative."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A nucleus undergoes radioactive decay by emitting a gamma ray. What is the change in mass number?",
+    "options": [
+      "The change in mass number is +1.",
+      "The change in mass number is -1.",
+      "The change in mass number is +2.",
+      "The change in mass number is 0."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A charged particle is moving in a circular path under the influence of a magnetic field. What is the force acting on the particle?",
+    "options": [
+      "The force acting on the particle is perpendicular to the velocity and the magnetic field.",
+      "The force acting on the particle is parallel to the magnetic field.",
+      "The force acting on the particle is parallel to the velocity and the magnetic field.",
+      "The force acting on the particle is parallel to the velocity."
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following statements about nuclear fusion is correct?",
+    "question": "A standing wave is formed on a string with an antinode at x = 2 m. What is the length of the string?",
     "options": [
-      "Fusion releases energy because the products have greater binding energy per nucleon than the reactants",
-      "Fusion releases energy because the products have lower binding energy per nucleon than the reactants",
-      "Fusion requires no minimum temperature to initiate the reaction",
-      "Fusion reactions always produce alpha particles as by-products"
+      "The length of the string is 3 m.",
+      "The length of the string is 5 m.",
+      "The length of the string is 2 m.",
+      "The length of the string is 4 m."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "A gravitational field is said to be uniform if the acceleration due to gravity is constant in all directions. What is the shape of the equipotential surfaces?",
+    "options": [
+      "The shape of the equipotential surfaces is cylindrical.",
+      "The shape of the equipotential surfaces is elliptical.",
+      "The shape of the equipotential surfaces is spherical.",
+      "The shape of the equipotential surfaces is flat."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A solar panel is a device that converts sunlight into electrical energy. What is the most common type of solar panel used in commercial applications?",
+    "options": [
+      "Thin-film solar cell",
+      "Monocrystalline silicon",
+      "Polycrystalline silicon",
+      "Concentrated photovoltaic"
+    ],
+    "correctIndex": 2
   }
 ]

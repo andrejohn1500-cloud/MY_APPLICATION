@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the SI unit of electric charge?",
+    "question": "What is the term for the process by which a body changes from a solid to a gas?",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Volt",
-      "Ohm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a scalar quantity?",
-    "options": [
-      "Velocity",
-      "Force",
-      "Speed",
-      "Acceleration"
+      "Condensation",
+      "Melting",
+      "Vaporization",
+      "Sublimation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the acceleration due to gravity on the surface of the Earth?",
+    "question": "What is the formula for the heat capacity of a substance?",
     "options": [
-      "9.8 m/s",
-      "9.8 m/s\u00b2",
-      "9.8 N/kg\u00b2",
-      "9.8 ms"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which law states that the pressure of a fixed mass of gas is directly proportional to its absolute temperature at constant volume?",
-    "options": [
-      "Boyle's Law",
-      "Charles' Law",
-      "Gay-Lussac's Law",
-      "Avogadro's Law"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of wave is a sound wave?",
-    "options": [
-      "Transverse",
-      "Electromagnetic",
-      "Longitudinal",
-      "Surface"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the term 'frequency' of a wave?",
-    "options": [
-      "The maximum displacement of particles from rest",
-      "The distance between two successive crests",
-      "The number of complete oscillations per second",
-      "The speed at which the wave travels"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the formula for electrical power?",
-    "options": [
-      "P = IV",
-      "P = I/V",
-      "P = V/I",
-      "P = I + V"
+      "C=q/\u0394T",
+      "C=q/\u0394T^2",
+      "C=q\u0394T",
+      "C=q/T"
     ],
     "correctIndex": 0
   },
   {
-    "question": "An object is in equilibrium when the net force acting on it is:",
+    "question": "A body at rest will remain at rest unless acted upon by an external force, according to which law?",
     "options": [
-      "Maximum",
-      "Equal to gravity",
-      "Zero",
-      "Negative"
+      "Newton's Third Law",
+      "Work-Energy Theorem",
+      "Newton's First Law",
+      "Newton's Second Law"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which particle in an atom has no charge?",
+    "question": "What is the formula for the frequency of the photons emitted by an atom?",
     "options": [
-      "Proton",
-      "Electron",
-      "Neutron",
-      "Ion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does Ohm's Law state?",
-    "options": [
-      "Current is inversely proportional to resistance at constant temperature",
-      "Voltage is directly proportional to current at constant temperature",
-      "Power is equal to voltage times resistance",
-      "Resistance decreases as temperature increases"
+      "f=R/hv^3",
+      "f=R/hv",
+      "f=R/hv^4",
+      "f=R/hv^2"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The unit of force in the SI system is:",
+    "question": "What is the term for the time for which the current in a circuit is maximum?",
     "options": [
-      "Joule",
-      "Pascal",
-      "Newton",
-      "Watt"
+      "Power Factor Angle",
+      "Time Constant",
+      "Period",
+      "Phase Angle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the energy a body possesses due to its position?",
+    "options": [
+      "Kinetic Potential Energy",
+      "Potential Energy",
+      "Thermal Energy",
+      "Kinetic Energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A wave has a frequency of 60 Hz and a wavelength of 5 m. What is its speed?",
+    "options": [
+      "30 m/s",
+      "300 m/s",
+      "500 m/s",
+      "150 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the formula for the atomic mass of an element?",
+    "options": [
+      "A=ZN",
+      "A=ZN",
+      "A=Z-N",
+      "A=Z+N"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A circuit has a power factor of 0.5. What is the power factor angle?",
+    "options": [
+      "45\u00b0",
+      "60\u00b0",
+      "30\u00b0",
+      "90\u00b0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A body of mass 5 kg is at rest on the surface of the Earth. What is its potential energy due to gravity?",
+    "options": [
+      "250 J",
+      "500 J",
+      "5 J",
+      "25 J"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the time for which the current in a circuit is zero?",
+    "options": [
+      "Phase Angle",
+      "Power Factor Angle",
+      "Time Constant",
+      "Period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the change in kinetic energy of an object?",
+    "options": [
+      "Power",
+      "Work",
+      "Energy",
+      "Potential Energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the flow of heat through a conductor?",
+    "options": [
+      "Diffusion",
+      "Convection",
+      "Conduction",
+      "Radiation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of potential energy?",
+    "question": "What is the term for the opposition to the flow of current in a circuit?",
     "options": [
-      "A moving car",
-      "A spinning top",
-      "A stretched spring",
-      "Sound waves in air"
+      "Resistance",
+      "Inductance",
+      "Reactance",
+      "Impedance"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the relationship between wavelength, frequency and wave speed?",
+    "question": "What is the formula for the resistance of a conductor?",
     "options": [
-      "v = f / \u03bb",
-      "v = \u03bb / f",
-      "v = f \u00d7 \u03bb",
-      "v = f + \u03bb"
+      "R=\u03c1L/A^2",
+      "R=\u03c1L/A",
+      "R=\u03c1A^2/L",
+      "R=\u03c1A/L"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of radiation has the greatest penetrating power?",
-    "options": [
-      "Alpha",
-      "Beta",
-      "Gamma",
-      "Ultraviolet"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the principle of conservation of energy?",
-    "options": [
-      "Energy can be created from matter",
-      "Energy can be destroyed when work is done",
-      "Energy cannot be created or destroyed, only transformed",
-      "Energy is always lost as heat"
-    ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

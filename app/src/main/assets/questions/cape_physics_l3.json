@@ -1,151 +1,81 @@
 [
   {
-    "question": "What is the SI unit of electric charge?",
+    "question": "A point charge of 5 \u03bcC is placed at a distance of 2 m from a point of observation. What is the electric field strength at that point?",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Volt",
-      "Ohm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a scalar quantity?",
-    "options": [
-      "A quantity with both magnitude and direction",
-      "A quantity with magnitude only",
-      "A quantity measured in newtons",
-      "A quantity that depends on a reference frame"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the acceleration due to gravity at the Earth's surface approximately equal to?",
-    "options": [
-      "9.8 m/s\u00b2",
-      "6.7 m/s\u00b2",
-      "3.4 m/s\u00b2",
-      "12.0 m/s\u00b2"
+      "1.25 x 10^5 N/C",
+      "1.25 x 10^3 N/C",
+      "1.25 x 10^6 N/C",
+      "1.25 x 10^7 N/C"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which law states that the total electric flux through a closed surface is proportional to the enclosed electric charge?",
+    "question": "A resistor has a resistance of 5 \u03a9. What is the voltage drop across the resistor?",
     "options": [
-      "Faraday's Law",
-      "Ampere's Law",
-      "Gauss's Law",
-      "Coulomb's Law"
+      "50 V",
+      "10 V",
+      "5 V",
+      "20 V"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of wave is a sound wave?",
+    "question": "A wave is incident on a surface. What is the angle of incidence?",
     "options": [
-      "Transverse wave",
-      "Electromagnetic wave",
-      "Longitudinal wave",
-      "Surface wave"
+      "The angle between the incident wave and the surface",
+      "The angle between the reflected wave and the surface",
+      "The angle between the incident wave and the normal to the surface",
+      "The angle between the reflected wave and the normal to the surface"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which particle has a positive charge?",
+    "question": "A sample of hydrogen gas is heated to 2000 K. What is the wavelength of the photons emitted?",
     "options": [
-      "Electron",
-      "Neutron",
-      "Proton",
-      "Photon"
+      "6.2 x 10^-7 m",
+      "6.2 x 10^-9 m",
+      "6.2 x 10^-6 m",
+      "6.2 x 10^-8 m"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the relationship between frequency f and period T of a wave?",
+    "question": "A body is heated by conduction. What is the direction of heat flow?",
     "options": [
-      "f = T",
-      "f = 1/T",
-      "f = T\u00b2",
-      "f = 2T"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to Newton's First Law of Motion, an object at rest will remain at rest unless acted upon by what?",
-    "options": [
-      "Gravity",
-      "A net external force",
-      "Friction",
-      "An internal force"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of mirror is used in a car's rear-view mirror?",
-    "options": [
-      "Concave mirror",
-      "Plane mirror",
-      "Convex mirror",
-      "Parabolic mirror"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does Ohm's Law state?",
-    "options": [
-      "Voltage is inversely proportional to current",
-      "Current is proportional to resistance",
-      "Voltage is directly proportional to current at constant resistance",
-      "Power equals current times resistance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a renewable energy source?",
-    "options": [
-      "Coal",
-      "Natural gas",
-      "Nuclear fission",
-      "Solar energy"
+      "In the same direction as the temperature gradient",
+      "From the cooler body to the hotter body",
+      "Perpendicular to the temperature gradient",
+      "From the hotter body to the cooler body"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the formula for kinetic energy?",
+    "question": "A sample of water at 100\u00b0C is heated to 120\u00b0C. What is the change in its internal energy?",
     "options": [
-      "KE = mgh",
-      "KE = \u00bdmv\u00b2",
-      "KE = mv",
-      "KE = Fd"
+      "200 J/kg\u00b0C",
+      "20 J/kg\u00b0C",
+      "1000 J/kg\u00b0C",
+      "10 J/kg\u00b0C"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which phenomenon causes a ray of light to bend when it passes from one medium to another?",
+    "question": "What is the term for the number of protons in an atom?",
     "options": [
-      "Reflection",
-      "Diffraction",
-      "Refraction",
-      "Interference"
+      "Electron Number",
+      "Proton Number",
+      "Mass Number",
+      "Atomic Number"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the half-life of a radioactive substance?",
+    "question": "What is the formula for the potential energy of an object due to gravity?",
     "options": [
-      "The time for all atoms to decay",
-      "The time for half the radioactive atoms to decay",
-      "The time for the substance to lose half its mass",
-      "The time for the radiation to halve in energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly states the law of conservation of energy?",
-    "options": [
-      "Energy can be created but not destroyed",
-      "Energy can be destroyed but not created",
-      "Energy can neither be created nor destroyed, only transformed",
-      "Energy is always lost as heat"
+      "mh/g",
+      "mg/h",
+      "mgh",
+      "gh/m"
     ],
     "correctIndex": 2
   }

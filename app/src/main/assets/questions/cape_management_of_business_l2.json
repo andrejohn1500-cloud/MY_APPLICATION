@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best defines 'entrepreneurship'?",
+    "question": "Which of the following is a type of ownership of a business?",
     "options": [
-      "The process of managing large corporations",
-      "The process of identifying opportunities and taking risks to create a new business",
-      "The act of investing in stocks and bonds",
-      "The management of government agencies"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'opportunity cost' mean in business?",
-    "options": [
-      "The cost of purchasing new equipment",
-      "The value of the next best alternative forgone when making a decision",
-      "The total expenses of running a business",
-      "The profit earned from a business opportunity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which leadership style involves the leader making all decisions without consulting employees?",
-    "options": [
-      "Democratic",
-      "Laissez-faire",
-      "Autocratic",
-      "Transformational"
+      "Government ownership",
+      "Cooperative ownership",
+      "Private ownership",
+      "Public ownership"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of a business plan?",
+    "question": "What is the process of managing an organisation's physical assets?",
     "options": [
-      "To entertain potential customers",
-      "To guide the business and attract investors or lenders",
-      "To advertise products and services",
-      "To train new employees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a characteristic of a sole trader?",
-    "options": [
-      "Unlimited liability",
-      "Limited liability",
-      "Separate legal entity",
-      "Owned by shareholders"
+      "Operations management",
+      "Financial management",
+      "Human resource management",
+      "Marketing management"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What does 'market segmentation' refer to?",
+    "question": "What is the process of identifying and addressing employee grievances?",
     "options": [
-      "Dividing a market into distinct groups of buyers with different needs",
-      "Selling products in multiple countries",
-      "Reducing the price of products",
-      "Increasing production capacity"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which financial statement shows a company's revenues and expenses over a period of time?",
-    "options": [
-      "Balance sheet",
-      "Cash flow statement",
-      "Income statement",
-      "Statement of changes in equity"
+      "Training and development",
+      "Appraisal and evaluation",
+      "Grievance handling",
+      "Disciplinary procedures"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 'working capital'?",
+    "question": "Which of the following is a key concept in marketing?",
     "options": [
-      "The total assets of a business",
-      "The difference between current assets and current liabilities",
-      "The long-term investment of the business",
-      "The total revenue earned by a business"
+      "Break-even analysis",
+      "Segmentation, targeting, and positioning",
+      "Product life cycle",
+      "Pareto analysis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an internal source of finance for a business?",
+    "question": "What is the process of evaluating an organisation's performance?",
     "options": [
-      "Bank loans",
-      "Retained profits",
-      "Debentures",
-      "Venture capital"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main goal of human resource management?",
-    "options": [
-      "To maximise sales revenue",
-      "To effectively manage people to achieve organisational objectives",
-      "To reduce the number of employees",
-      "To control production processes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes 'break-even point'?",
-    "options": [
-      "The point where total revenue equals total costs",
-      "The point where a business makes maximum profit",
-      "The point where fixed costs exceed variable costs",
-      "The point where a business begins to lose money"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is 'delegation' in management?",
-    "options": [
-      "Assigning tasks and authority to subordinates",
-      "Removing employees from their positions",
-      "Increasing managerial control over operations",
-      "Reducing the number of management levels"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is NOT a function of management?",
-    "options": [
-      "Planning",
-      "Organising",
-      "Manufacturing",
-      "Controlling"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'SWOT analysis' stand for?",
-    "options": [
-      "Strengths, Weaknesses, Opportunities, Threats",
-      "Strategy, Workforce, Operations, Tactics",
-      "Sales, Workers, Objectives, Targets",
-      "Systems, Workflow, Organisation, Technology"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of economy is characterised by private ownership and free market forces determining prices?",
-    "options": [
-      "Command economy",
-      "Mixed economy",
-      "Traditional economy",
-      "Market economy"
+      "Performance management",
+      "Performance review",
+      "Performance appraisal",
+      "Performance evaluation"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the role of management in a business?",
+    "options": [
+      "To respond to immediate challenges and threats",
+      "To maintain the status quo",
+      "To achieve business objectives and sustain competitive advantage",
+      "To increase profits and revenue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a key consideration in entrepreneurship?",
+    "options": [
+      "Innovative thinking",
+      "Risk aversion",
+      "Following established guidelines",
+      "Conservative approach"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process of planning and implementing strategies to achieve business objectives?",
+    "options": [
+      "Operational planning",
+      "Strategic planning",
+      "Functional planning",
+      "Tactical planning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a key principle in business ethics?",
+    "options": [
+      "Protection of shareholders' interests",
+      "Respect for the law",
+      "Respect for human rights",
+      "Maximisation of profits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a key consideration in business ethics?",
+    "options": [
+      "Compliance with laws and regulations",
+      "Protection of shareholders' interests",
+      "Maximisation of profits",
+      "Social responsibility"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the role of the management function of planning in a business?",
+    "options": [
+      "To motivate and lead employees",
+      "To make decisions about resource allocation",
+      "To coordinate and control business activities",
+      "To identify and define business goals and objectives"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process of exchanging information and ideas between stakeholders?",
+    "options": [
+      "Cooperation",
+      "Coordination",
+      "Communication",
+      "Control"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a key financial statement?",
+    "options": [
+      "Statement of changes in equity",
+      "Cash flow statement",
+      "Balance sheet",
+      "Income statement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the role of management in a business?",
+    "options": [
+      "To increase profits and revenue",
+      "To achieve business objectives and sustain competitive advantage",
+      "To improve productivity and efficiency",
+      "To reduce costs and expenses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a key concept in human resource management?",
+    "options": [
+      "Appraisal and evaluation",
+      "Disciplinary procedures",
+      "Motivation and satisfaction",
+      "Training and development"
+    ],
+    "correctIndex": 2
   }
 ]

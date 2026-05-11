@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the unit of electric charge in the SI system?",
+    "question": "What is the term for the process by which an atom becomes a positively charged ion?",
     "options": [
-      "Ampere",
-      "Coulomb",
-      "Volt",
-      "Ohm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a transverse wave?",
-    "options": [
-      "A wave in which particles vibrate parallel to the direction of wave travel",
-      "A wave in which particles vibrate perpendicular to the direction of wave travel",
-      "A wave that can only travel through a vacuum",
-      "A wave that does not transfer energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the half-life of a radioactive substance?",
-    "options": [
-      "The time for all nuclei to decay",
-      "The time for the activity to double",
-      "The time for half the nuclei in a sample to decay",
-      "The time for the substance to lose half its mass"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which law states that the induced EMF in a circuit is proportional to the rate of change of magnetic flux linkage?",
-    "options": [
-      "Ampere's Law",
-      "Lenz's Law",
-      "Faraday's Law",
-      "Coulomb's Law"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The work function of a metal in the photoelectric effect is best described as:",
-    "options": [
-      "The maximum kinetic energy of emitted electrons",
-      "The minimum energy required to remove an electron from the metal surface",
-      "The frequency of incident light",
-      "The wavelength of emitted electrons"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a simple transformer, if the primary coil has 200 turns and the secondary coil has 50 turns, and the primary voltage is 240 V, what is the secondary voltage?",
-    "options": [
-      "960 V",
-      "120 V",
-      "60 V",
-      "480 V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following particles has zero charge and approximately zero rest mass?",
-    "options": [
-      "Proton",
-      "Electron",
-      "Neutron",
-      "Neutrino"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the area under a velocity-time graph represent?",
-    "options": [
-      "Acceleration",
-      "Displacement",
-      "Speed",
-      "Force"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which equation correctly expresses Einstein's mass-energy equivalence?",
-    "options": [
-      "E = mc",
-      "E = m/c\u00b2",
-      "E = mc\u00b2",
-      "E = m\u00b2c"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In an RC circuit, the time constant \u03c4 is given by:",
-    "options": [
-      "\u03c4 = R/C",
-      "\u03c4 = RC",
-      "\u03c4 = R + C",
-      "\u03c4 = C/R"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of spectrum is produced when white light passes through a cool gas?",
-    "options": [
-      "Continuous spectrum",
-      "Emission line spectrum",
-      "Absorption line spectrum",
-      "Band spectrum"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The de Broglie wavelength of a particle is given by \u03bb = h/p. What does p represent?",
-    "options": [
-      "Power",
-      "Pressure",
-      "Momentum",
-      "Potential energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a correct statement about nuclear fission?",
-    "options": [
-      "A heavy nucleus splits into two lighter nuclei releasing energy",
-      "Two light nuclei combine to form a heavier nucleus",
-      "A nucleus emits an alpha particle spontaneously",
-      "A nucleus absorbs a gamma ray and becomes unstable"
+      "Ionization",
+      "Neutron Emission",
+      "Electron Capture",
+      "Proton Emission"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What happens to the resistance of a metal conductor as its temperature increases?",
+    "question": "What is the formula for the kinetic energy of an object?",
     "options": [
-      "It decreases",
-      "It remains constant",
-      "It increases",
-      "It first increases then decreases"
+      "mv",
+      "m/v",
+      "(1/2)mv^2",
+      "v^2/m"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which property of electromagnetic waves allows them to travel through a vacuum?",
+    "question": "A current of 2 A flows through a conductor. What is the drift velocity of the electrons?",
     "options": [
-      "They require a medium of transmission",
-      "They are mechanical waves",
-      "They are transverse waves that do not require a medium",
-      "They travel slower in a vacuum than in air"
+      "1.2 x 10^-3 m/s",
+      "1.2 x 10^3 m/s",
+      "2 x 10^3 m/s",
+      "2 x 10^-3 m/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circuit has a time constant of 0.1 s. What is the time for which the current is 90% of its maximum value?",
+    "options": [
+      "0.2 s",
+      "0.1 s",
+      "0.1 s",
+      "0.05 s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the transfer of heat from a body at a higher temperature to a body at a lower temperature?",
+    "options": [
+      "Conduction",
+      "Radiation",
+      "Diffusion",
+      "Convection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A metal rod is heated at one end. What is the direction of heat flow through the rod?",
+    "options": [
+      "From the hotter end to the cooler end",
+      "In the same direction as the temperature gradient",
+      "Perpendicular to the temperature gradient",
+      "From the cooler end to the hotter end"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car travels from 0 to 30 m/s in 10 seconds. What is its acceleration?",
+    "options": [
+      "3 m/s^2",
+      "0.3 m/s^2",
+      "10 m/s^2",
+      "30 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the reflection of a wave from a surface?",
+    "options": [
+      "Refraction",
+      "Diffraction",
+      "Reflection",
+      "Interference"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a wave that travels through a medium?",
+    "options": [
+      "Electromagnetic Wave",
+      "Longitudinal Wave",
+      "Transverse Wave",
+      "Mechanical Wave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A sample of carbon-12 has a mass of 12 u. What is the mass number of the atom?",
+    "options": [
+      "6/12",
+      "6",
+      "12",
+      "12/6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the formula for the electric field strength?",
+    "options": [
+      "E=F/q^2",
+      "E=F/q",
+      "E=F^2/q",
+      "E=q/F"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the flow of electrons through a conductor?",
+    "options": [
+      "Electric Field",
+      "Electric Potential",
+      "Electric Current",
+      "Electric Charge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the formula for the wavelength of a wave?",
+    "options": [
+      "\u03bb=f/v",
+      "\u03bb=v/f",
+      "\u03bb=v/f^2",
+      "\u03bb=v^2/f"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the unit of force in the International System of Units (SI)?",
+    "options": [
+      "m/s",
+      "kg",
+      "J",
+      "N"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A circuit consists of a resistor, a capacitor, and an inductor. What type of circuit is it?",
+    "options": [
+      "R-C circuit",
+      "R-L circuit",
+      "C-L circuit",
+      "R-C-L circuit"
+    ],
+    "correctIndex": 3
   }
 ]
