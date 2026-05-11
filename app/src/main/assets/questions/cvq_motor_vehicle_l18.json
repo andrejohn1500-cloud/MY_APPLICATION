@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "question": "What is the purpose of the vehicle's emissions control system?",
+    "options": [
+      "To reduce the emissions of pollutants from the vehicle's engine.",
+      "To cool the engine oil",
+      "To increase the engine speed",
+      "To reduce the engine torque"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the Brake Balance Bar in a vehicle's braking system?",
+    "options": [
+      "To increase stopping power by applying more pressure to the front brakes",
+      "To reduce stopping power by applying less pressure to the front brakes",
+      "To adjust the brake balance between the front and rear axles by equalizing the brake pedal pressures at both ends of the vehicle.",
+      "To provide a mechanical advantage for the driver to apply more pressure to the brake pedal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the Vehicle Inspection Certificate in the Caribbean?",
+    "options": [
+      "To provide a temporary permit to operate a vehicle",
+      "To provide proof of a vehicle's compliance with regional safety and emissions standards.",
+      "To register a vehicle for taxation purposes",
+      "To certify a vehicle's roadworthiness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of tire pressure monitoring system is commonly used in vehicles?",
+    "options": [
+      "Direct Tire Pressure Monitoring System (TPMS) with tire pressure sensors and a receiver unit.",
+      "Indirect TPMS with a speed sensor and a receiver unit",
+      "No TPMS, relying on visual inspection and manual pressure checks",
+      "External TPMS with a separate sensor and display unit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the Cruise Control System in a vehicle?",
+    "options": [
+      "To regulate the speed of the vehicle on the highway",
+      "To provide a warning system for potential crash situations",
+      "To provide a backup power source in case of a battery failure",
+      "To maintain a constant speed and distance from the vehicle ahead by regulating the engine speed and torque in response to driver input and road conditions."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the Steering Gear Box in a vehicle's steering system?",
+    "options": [
+      "To provide a mechanical advantage for the driver to steer the vehicle",
+      "To amplify the steering effort of the driver",
+      "To convert the rotational motion of the steering column into a linear motion of the tie rods, allowing the wheels to turn in response to driver input.",
+      "To reduce the steering effort of the driver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the Anti-lock Braking System (ABS) in a vehicle?",
+    "options": [
+      "To regulate the speed of the vehicle on the highway",
+      "To provide a backup power source in case of a battery failure",
+      "To provide a warning system for potential crash situations",
+      "To prevent wheel lockup and maintain vehicle stability during hard braking by pulsing the brakes and releasing hydraulic pressure."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the Vehicle Identification Number (VIN) in a vehicle?",
+    "options": [
+      "To show the location of the engine and transmission",
+      "To uniquely identify the vehicle and provide information about its make, model, year, and engine type.",
+      "To provide a means of communication between the vehicle and the driver",
+      "To display the vehicle's registration number"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of the PCV (Positive Crankcase Ventilation) system in an engine?",
+    "options": [
+      "To increase engine compression by reducing blow-by",
+      "To recirculate blow-by gases from the crankcase back into the intake system to prevent oil consumption and reduce emissions.",
+      "To remove excess fuel from the engine",
+      "To cool the engine through increased airflow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of transmission is commonly used in high-performance vehicles?",
+    "options": [
+      "Continuously Variable Transmission (CVT)",
+      "Manual transmission with a clutch pedal",
+      "Semi-automatic transmission with a torque converter",
+      "Dual-clutch transmission (DCT) or Automated Manual Transmission (AMT)."
+    ],
+    "correctIndex": 3
+  }
+]

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "question": "What is the proper procedure for checking a vehicle's brake fluid level?",
+    "options": [
+      "To use a jack to raise the vehicle",
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a dipstick to check the brake fluid level and add fluid as needed.",
+      "To use a lug wrench to loosen the lug nuts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's safety features?",
+    "options": [
+      "To protect the occupants and other road users from injury or harm.",
+      "To reduce the vehicle's fuel efficiency",
+      "To decrease the vehicle's comfort features",
+      "To increase the vehicle's speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the vehicle's exhaust gas recirculation (EGR) system?",
+    "options": [
+      "To supply fuel to the engine",
+      "To cool the engine",
+      "To reduce engine emissions",
+      "To provide additional support to the vehicle's frame"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the proper procedure for diagnosing a vehicle's problem?",
+    "options": [
+      "To use a tire iron to tighten the lug nuts",
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a jack to raise the vehicle",
+      "To use a combination of visual inspection, diagnostic tools, and technical information."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the function of the vehicle's ECU (Engine Control Unit)?",
+    "options": [
+      "To control the engine's performance and provide feedback to the driver through the dashboard.",
+      "To cool the engine oil",
+      "To reduce the engine torque",
+      "To increase the engine speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the fuel injector in a petrol engine?",
+    "options": [
+      "To atomize the fuel into a fine spray and mix it with air for combustion.",
+      "To remove excess fuel from the engine",
+      "To heat the fuel before it enters the engine",
+      "To cool the engine cylinders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the torque converter in a vehicle's transmission?",
+    "options": [
+      "To cool the transmission fluid",
+      "To connect and disconnect the engine from the transmission, allowing for smooth shifting and reducing wear on the transmission components.",
+      "To increase the torque output of the engine",
+      "To reduce the engine speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of the brake fluid reservoir in a vehicle?",
+    "options": [
+      "To store excess brake fluid and maintain a consistent level in the brake system.",
+      "To reduce the brake temperature",
+      "To cool the brake pads",
+      "To increase the brake pressure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the vehicle's air conditioning system?",
+    "options": [
+      "To cool the engine oil",
+      "To cool the air entering the vehicle and provide a comfortable temperature.",
+      "To increase the engine speed",
+      "To reduce the engine torque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which workshop safety precaution is essential for protecting workers from slips and falls?",
+    "options": [
+      "Using a fire extinguisher",
+      "Wearing a respirator",
+      "Wearing non-slip shoes and using handrails",
+      "Carrying a first aid kit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean regional road regulations, what is the minimum required distance between vehicles on highways?",
+    "options": [
+      "1 meter",
+      "1.2 meters",
+      "0.5 meters",
+      "0.8 meters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended maintenance schedule for replacing the engine oil?",
+    "options": [
+      "Every 20,000 km",
+      "Every 40,000 km",
+      "Every 30,000 km",
+      "Every 5,000 to 10,000 km"
+    ],
+    "correctIndex": 3
+  }
+]

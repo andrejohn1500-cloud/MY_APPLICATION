@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which ingredient is a staple in Jamaican cuisine?",
+    "question": "What is the name of the Caribbean dish made with salted fish, onions, bell peppers, and tomatoes?",
     "options": [
-      "Curry powder",
-      "Chili flakes",
-      "Jerk seasoning",
-      "Garam masala"
+      "Fried bake",
+      "Jerk chicken",
+      "Pepper pot soup",
+      "Callaloo"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a kitchen inventory report?",
+    "question": "What is the purpose of kneading dough in baking?",
     "options": [
-      "To choose the type of cuisine",
-      "To decide on the layout of the kitchen",
-      "To provide a record of the use and stock of ingredients",
-      "To determine the cost of food"
+      "To add yeast to the dough",
+      "To mix the dough with a spoon",
+      "To develop the gluten and create a smooth, elastic texture",
+      "To add sugar to the dough"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which kitchen appliance is used to heat food quickly and evenly?",
+    "question": "What is the name of the basic unit of measurement for ingredients in cooking?",
     "options": [
-      "Oven",
-      "Refrigerator",
-      "Stove",
-      "Microwave"
+      "Tablespoon",
+      "Teaspoon",
+      "Cup",
+      "Ounce"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What does HACCP stand for in the context of kitchen safety and hygiene?",
+    "question": "What is the primary function of a kitchen mixer?",
     "options": [
-      "Hygiene and Cleaning Control Practices Only",
-      "Highly Advanced Cleaning and Control Procedures",
-      "Hotel and Accommodation Cleaning Centre Procedures",
-      "Hazard Analysis and Critical Control Points"
+      "To measure ingredients",
+      "To mix and blend ingredients quickly and efficiently",
+      "To knead dough",
+      "To mix batter"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the primary purpose of wearing gloves in the kitchen?",
+    "question": "What is the main ingredient in traditional Jamaican jerk seasoning?",
     "options": [
-      "To prevent the spread of infection",
-      "To improve grip on utensils",
-      "To add flavor to food",
-      "To keep hands warm"
+      "Thyme",
+      "Allspice",
+      "Rosemary",
+      "Bay leaves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended way to store cooked leftovers?",
+    "options": [
+      "In a microwave-safe container",
+      "In a covered, airtight container in the refrigerator or freezer",
+      "In a container with a loose-fitting lid",
+      "In an uncovered container"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a food thermometer in cooking?",
+    "options": [
+      "To determine the type of ingredient",
+      "To ensure that food is cooked to a safe internal temperature",
+      "To mix batter",
+      "To measure the temperature of the oven"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the cut that involves cutting through the bone to separate the meat?",
+    "options": [
+      "Julienning",
+      "Mincing",
+      "Boning",
+      "Butchering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended way to hold a chef's knife?",
+    "options": [
+      "With a firm, but not overly tight, grip",
+      "With a loose, relaxed grip",
+      "With the blade pointing away from your body",
+      "With the blade pointing towards your body"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a recipe?",
+    "question": "What is the primary function of a kitchen scale?",
     "options": [
-      "To explain the cooking methods only",
-      "To describe the ingredients only",
-      "To provide instructions on how to prepare a dish",
-      "To give nutritional information"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which ingredient is a key component of traditional Caribbean curry?",
-    "options": [
-      "Cumin",
-      "Coriander",
-      "Turmeric",
-      "Ginger"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a menu plan?",
-    "options": [
-      "To decide on the type of cuisine",
-      "To determine the cost of food",
-      "To choose the layout of the kitchen",
-      "To ensure that ingredients are ordered and prepared in advance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process of adding a layer of fat or oil to a dish to enhance flavor and texture?",
-    "options": [
-      "Barding",
-      "Glazing",
-      "Marinating",
-      "Braising"
+      "To measure ingredients accurately in recipes",
+      "To mix batter",
+      "To knead dough",
+      "To measure temperatures"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of cooking food quickly in a hot pan with a small amount of oil?",
+    "question": "What is the primary function of a pastry brush in baking?",
+    "options": [
+      "To mix batter",
+      "To measure ingredients",
+      "To knead dough",
+      "To apply egg wash or melted butter to pastry dough"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What should you do if you spill a hot liquid on your skin while working in the kitchen?",
+    "options": [
+      "Try to rub the area vigorously with a towel",
+      "Use a flammable liquid to clean the area",
+      "Immerse the affected area in cold water immediately",
+      "Apply a hot compress to the affected area"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a food chopper?",
+    "options": [
+      "To knead dough",
+      "To chop ingredients into small pieces quickly and efficiently",
+      "To mix batter",
+      "To measure ingredients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the process of cooking vegetables in a small amount of oil to create a caramelized texture?",
     "options": [
       "Boiling",
-      "Roasting",
       "Steaming",
-      "Searing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "How often should raw meat, poultry, and seafood be washed?",
-    "options": [
-      "Daily",
-      "Not at all, as washing can spread bacteria",
-      "Before cooking",
-      "After every use"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of mixing ingredients together to create a uniform consistency?",
-    "options": [
-      "Emulsification",
-      "Folding",
-      "Kneading",
-      "Whipping"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a kitchen inventory?",
-    "options": [
-      "To determine the cost of food",
-      "To track the use and stock of ingredients",
-      "To decide on the layout of the kitchen",
-      "To choose the type of cuisine"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of adding flavor to food with herbs and spices?",
-    "options": [
-      "Seasoning",
-      "Braising",
-      "Marinating",
-      "Glazing"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which ingredient is a key component of traditional Caribbean jerk seasoning?",
-    "options": [
-      "Ginger",
-      "Cinnamon",
-      "Allspice",
-      "Nutmeg"
+      "Caramelizing",
+      "Saut\u00e9ing"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "At what temperature should you store raw meat, poultry, and fish in the refrigerator?",
+    "options": [
+      "Above 60\u00b0C",
+      "At room temperature",
+      "Between 20-25\u00b0C",
+      "Below 4\u00b0C"
+    ],
+    "correctIndex": 3
   }
 ]

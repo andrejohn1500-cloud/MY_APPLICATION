@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "question": "Which vehicle safety feature is designed to deploy in the event of a rollover?",
+    "options": [
+      "Roll cage",
+      "Airbag",
+      "Electronic stability control (ESC)",
+      "Traction control system (TCS)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which electrical component is responsible for regulating the voltage supplied to the vehicle's electrical system?",
+    "options": [
+      "Battery",
+      "Alternator",
+      "Starter motor",
+      "Voltage regulator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's maintenance reminder system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To alert the driver to upcoming maintenance tasks and schedule appointments as needed",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's traffic sign recognition system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To recognize and display traffic signs and inform the driver of upcoming restrictions and regulations",
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which vehicle safety feature is designed to prevent the vehicle from skidding or losing traction during cornering?",
+    "options": [
+      "Electronic stability control (ESC)",
+      "Anti-lock braking system (ABS)",
+      "Airbag",
+      "Traction control system (TCS)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the brake fluid reservoir?",
+    "options": [
+      "To lubricate brake pads",
+      "To store brake fluid and maintain brake system pressure",
+      "To cool brake calipers",
+      "To clean brake rotors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a multimeter in vehicle diagnosis?",
+    "options": [
+      "To analyze fuel consumption patterns",
+      "To check tire pressure",
+      "To measure electrical voltage, current, and resistance",
+      "To detect engine problems using sound waves"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main function of a vehicle's 360-degree camera system?",
+    "options": [
+      "To provide the driver with a comprehensive view of the vehicle's surroundings and parking area",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of a vehicle's automatic emergency call system?",
+    "options": [
+      "To automatically contact emergency services in the event of a collision or other emergency",
+      "To improve the vehicle's braking performance",
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which electrical component is responsible for controlling the flow of electrical current to the vehicle's accessories?",
+    "options": [
+      "Wiring harness",
+      "Battery",
+      "Relay",
+      "Fuse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's fuel filter?",
+    "options": [
+      "To regulate engine temperature",
+      "To provide additional support to the vehicle's frame",
+      "To supply air to the engine",
+      "To clean the fuel entering the engine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which vehicle safety feature is designed to prevent the wheels from locking up during hard braking?",
+    "options": [
+      "Airbag",
+      "Anti-lock braking system (ABS)",
+      "Electronic stability control (ESC)",
+      "Traction control system (TCS)"
+    ],
+    "correctIndex": 1
+  }
+]

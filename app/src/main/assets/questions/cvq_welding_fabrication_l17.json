@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which welding process is most suitable for joining titanium alloys in aerospace applications due to its ability to provide an inert atmosphere and prevent oxidation?",
+    "question": "What is the recommended procedure for cleaning a TIG welding torch?",
     "options": [
-      "Shielded Metal Arc Welding (SMAW)",
-      "Gas Tungsten Arc Welding (GTAW)",
-      "Flux-Cored Arc Welding (FCAW)",
-      "Submerged Arc Welding (SAW)"
+      "Using a wire brush and a high-pressure air blast",
+      "Using a cleaning solution and a soft brush",
+      "Using a grinding wheel and a low RPM",
+      "Using a sanding belt and a low RPM"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When performing a tensile test on a welded joint, the specimen fractures in the base metal rather than the weld zone. What does this indicate?",
+    "question": "What is the recommended shielding gas mixture for TIG welding of aluminum?",
     "options": [
-      "The weld metal has lower tensile strength than the base metal",
-      "The weld joint efficiency is less than 100%",
-      "The weld metal has equal or greater tensile strength than the base metal",
-      "The heat-affected zone is over-hardened"
+      "Helium and nitrogen mixture (75/25 or 80/20)",
+      "Argon and nitrogen mixture (75/25 or 80/20)",
+      "Argon and helium mixture (75/25 or 80/20)",
+      "Argon and oxygen mixture (75/25 or 80/20)"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In accordance with AWS D1.1 Structural Welding Code, what is the minimum preheat temperature required for welding A514 steel with a thickness greater than 2.5 inches?",
+    "question": "What is the effect of increasing the carbon content in steel on its weldability?",
     "options": [
-      "50\u00b0F (10\u00b0C)",
-      "125\u00b0F (52\u00b0C)",
-      "200\u00b0F (93\u00b0C)",
-      "225\u00b0F (107\u00b0C)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which type of weld discontinuity is characterized by a groove melted into the base metal adjacent to the weld toe and left unfilled by weld metal?",
-    "options": [
-      "Porosity",
-      "Undercut",
-      "Overlap",
-      "Incomplete fusion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A fabricator is producing a pressure vessel that requires post-weld heat treatment (PWHT). What is the primary purpose of PWHT in this application?",
-    "options": [
-      "To increase the hardness of the weld zone",
-      "To improve the aesthetic appearance of the weld bead",
-      "To relieve residual stresses and restore toughness in the heat-affected zone",
-      "To eliminate all porosity within the weld metal"
+      "Increased",
+      "Remains the same",
+      "Decreased",
+      "No effect"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When calculating the throat dimension of a fillet weld with equal legs of 12mm, what is the theoretical throat size?",
+    "question": "What is the purpose of using a welding procedure specification (WPS) for TIG welding?",
     "options": [
-      "12.00 mm",
-      "8.49 mm",
-      "6.00 mm",
-      "16.97 mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In plasma arc welding (PAW), what distinguishes the transferred arc mode from the non-transferred arc mode?",
-    "options": [
-      "In transferred arc mode, the arc is established between the electrode and the nozzle only",
-      "In transferred arc mode, the arc is established between the electrode and the workpiece, making the workpiece part of the electrical circuit",
-      "In non-transferred arc mode, the workpiece is the positive terminal of the circuit",
-      "In transferred arc mode, higher gas flow rates are used exclusively for cutting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which destructive test method is specifically used to evaluate the ductility and soundness of a weld by bending the specimen over a specified radius to detect surface cracks?",
-    "options": [
-      "Charpy impact test",
-      "Nick-break test",
-      "Guided bend test",
-      "Macro-etch test"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In GMAW, what welding parameter change will most directly result in a transition from globular transfer to spray transfer mode when using a CO2/Argon shielding gas mixture?",
-    "options": [
-      "Decreasing wire feed speed below the transition current",
-      "Increasing voltage and current above the critical transition threshold",
-      "Reducing the argon content in the shielding gas mixture below 75%",
-      "Decreasing the contact tip to work distance significantly"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A weld symbol on an engineering drawing shows a fillet weld with the weld-all-around symbol and a tail with the notation 'BSISI.' What does the weld-all-around circle on the reference line indicate?",
-    "options": [
-      "The weld is to be performed in the field rather than the shop",
-      "The weld is to be applied continuously around the entire joint perimeter",
-      "The weld requires a backing bar on all sides",
-      "The weld must be inspected using radiographic testing on all sides"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nondestructive testing (NDT) method is most effective for detecting subsurface planar discontinuities such as lack of fusion and cracks oriented parallel to the surface in thick-section welds?",
-    "options": [
-      "Liquid penetrant testing (PT)",
-      "Magnetic particle testing (MT)",
-      "Ultrasonic testing (UT)",
-      "Visual inspection (VT)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When developing a Welding Procedure Specification (WPS) under ASME Section IX, which variable, if changed beyond the specified range, requires requalification of the procedure?",
-    "options": [
-      "A supplementary essential variable when impact testing is required",
-      "A non-essential variable within the allowable range",
-      "A change in the weld position that is already qualified",
-      "A minor revision to the preheat temperature within the qualified range"
+      "To ensure that the welder follows a consistent and standardized procedure",
+      "To increase the welding speed",
+      "To reduce the heat input",
+      "To improve the weld penetration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In electroslag welding (ESW), what is the primary heat source that melts the base metal and filler wire?",
+    "question": "What is the recommended personal protective equipment for welding in a confined space?",
     "options": [
-      "An electric arc maintained between the electrode and the base metal",
-      "Resistance heating generated by the passage of current through the molten slag pool",
-      "An oxy-fuel flame directed into the joint",
-      "Induction heating coils surrounding the weld joint"
+      "Self-contained breathing apparatus (SCBA)",
+      "Face shield and safety glasses",
+      "Heat-resistant suit and steel-toed boots",
+      "Welding helmet and gloves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended procedure for cleaning a MIG welding gun?",
+    "options": [
+      "Using a wire brush and a high-pressure air blast",
+      "Using a cleaning solution and a soft brush",
+      "Using a sanding belt and a low RPM",
+      "Using a grinding wheel and a low RPM"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A welder is fabricating a structural component using SAW and notices excessive convexity of the weld bead. Which combination of parameter adjustments would most effectively reduce bead convexity?",
+    "question": "What is the purpose of using a welding procedure specification (WPS) for MIG welding?",
     "options": [
-      "Increase travel speed and decrease wire feed speed",
-      "Increase voltage and decrease travel speed",
-      "Decrease voltage and increase current",
-      "Increase wire diameter and flux depth only"
+      "To improve the weld penetration",
+      "To increase the welding speed",
+      "To reduce the heat input",
+      "To ensure that the welder follows a consistent and standardized procedure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of incorrect weld metal composition on the weld quality?",
+    "options": [
+      "Improved arc stability",
+      "Increased weld penetration",
+      "Reduced heat input",
+      "Porosity and lack of fusion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended shielding gas mixture for welding stainless steel with TIG?",
+    "options": [
+      "Argon 95% and CO2 5%",
+      "Argon 98% and Helium 2%",
+      "Argon 90% and Helium 10%",
+      "CO2 100%"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When performing radiographic testing (RT) on a circumferential weld of a pipe, what is the purpose of placing Image Quality Indicators (IQIs) on the source side of the weld?",
+    "question": "What is the purpose of using a welding current stabilizer in the welding circuit?",
     "options": [
-      "To measure the actual thickness of the weld reinforcement",
-      "To verify the geometric unsharpness meets the required standard",
-      "To demonstrate that the radiographic technique has sufficient sensitivity to detect the minimum required discontinuity size",
-      "To identify the location of the weld centerline on the film"
+      "To reduce the heat input",
+      "To reduce voltage fluctuations and improve arc stability",
+      "To improve the weld penetration",
+      "To increase the welding current"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the effect of increasing the welding current on the weld quality?",
+    "options": [
+      "Remains the same",
+      "Increased",
+      "No effect",
+      "Decreased"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the effect of incorrect gas flow on the TIG welding process?",
+    "options": [
+      "Porosity and lack of fusion",
+      "Reduced heat input",
+      "Increased weld penetration",
+      "Improved arc stability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the effect of incorrect joint fit-up on the weld quality?",
+    "options": [
+      "Improved arc stability",
+      "Increased weld penetration",
+      "Porosity and lack of fusion",
+      "Reduced heat input"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of using a welding fixture in the MIG welding process?",
+    "options": [
+      "To increase the welding speed",
+      "To reduce the heat input",
+      "To ensure accurate and consistent joint alignment and fit-up",
+      "To improve the weld penetration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of preheating the base metal before welding?",
+    "options": [
+      "To improve the weld penetration",
+      "To increase the hardness of the weld",
+      "To reduce distortion and residual stresses",
+      "To reduce the oxidation of the base metal"
     ],
     "correctIndex": 2
   }

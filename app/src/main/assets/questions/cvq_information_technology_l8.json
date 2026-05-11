@@ -1,142 +1,62 @@
 [
   {
-    "question": "What is the term for a type of cyberattack that involves gaining unauthorized access to a computer system or network?",
+    "question": "What is the primary function of a network switch?",
     "options": [
-      "Intrusion",
-      "Malware",
-      "Phishing",
-      "Ransomware"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a microphone in a computer system?",
-    "options": [
-      "To speed up internet connections",
-      "To connect peripherals to the computer",
-      "To capture and transmit audio signals",
+      "To install updates and patches",
+      "To connect multiple devices to a single network and provide a connection to the internet",
+      "To detect and remove malware",
       "To block unauthorized access to a network"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of cyberattack that involves stealing sensitive information from a computer system or network?",
-    "options": [
-      "Phishing",
-      "Data Breach",
-      "Malware",
-      "Ransomware"
-    ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of cyberattack that involves using malware to steal sensitive information from a computer system or network?",
+    "question": "What is the term for a type of network that connects devices over a wide geographical area?",
     "options": [
-      "Data Breach",
-      "Malware",
-      "Phishing",
-      "Ransomware"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of network protocol that is used for transmitting data over the internet?",
-    "options": [
-      "HTTP",
-      "FTP",
-      "TCP/IP",
-      "SMTP"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing presentations?",
-    "options": [
-      "Microsoft PowerPoint",
-      "Adobe Illustrator",
-      "CorelDRAW",
-      "Google Slides"
+      "Wide Area Network (WAN)",
+      "Intranet",
+      "Wireless Network",
+      "Local Area Network (LAN)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a browser in a computer system?",
+    "question": "Which of the following Caribbean ICT applications is used for e-government services?",
     "options": [
-      "To speed up internet connections",
-      "To display web pages and allow users to interact with them",
-      "To block unauthorized access to a network",
-      "To connect to the internet using a dial-up or broadband connection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of malware that can lock a computer and demand payment in exchange for the key?",
-    "options": [
-      "Spyware",
-      "Trojan",
-      "Ransomware",
-      "Adware"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a firewall in a computer network?",
-    "options": [
-      "Displaying IP addresses",
-      "Blocking unauthorized access and malicious traffic",
-      "Allowing all incoming and outgoing traffic",
-      "Encrypting data"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a scanner in a computer system?",
-    "options": [
-      "To speed up internet connections",
-      "To connect peripherals to the computer",
-      "To block unauthorized access to a network",
-      "To scan documents and images"
+      "e-Learning Platform",
+      "e-Banking System",
+      "e-Healthcare System",
+      "e-Government Portal"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a type of database management system that stores data in a network structure?",
+    "question": "What is the term for a network that connects devices within a limited geographical area?",
     "options": [
-      "Hierarchical Database Management System (HDBMS)",
-      "Object-Oriented Database Management System (OODBMS)",
-      "Relational Database Management System (RDBMS)",
-      "Network Database Management System (NDBMS)"
+      "Wide Area Network (WAN)",
+      "Local Area Network (LAN)",
+      "Wireless Network",
+      "Intranet"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the purpose of a subnet mask in a computer network?",
+    "question": "What is the primary function of a web server?",
     "options": [
-      "To identify the network ID and host ID of an IP address",
-      "To display the IP address of a device",
-      "To encrypt data",
-      "To block malicious traffic"
+      "To host and serve web content to clients",
+      "To send and receive emails",
+      "To connect to the internet and access websites",
+      "To create and edit databases"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a type of database management system that stores data in a table-based structure?",
+    "question": "What is the primary function of a printer in a computer system?",
     "options": [
-      "Hierarchical Database Management System (HDBMS)",
-      "Object-Oriented Database Management System (OODBMS)",
-      "Relational Database Management System (RDBMS)",
-      "Network Database Management System (NDBMS)"
+      "To connect peripherals to the system",
+      "To store data and programs",
+      "To print documents and output data",
+      "To provide power to the system"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of computer hardware that connects peripherals to the computer?",
-    "options": [
-      "Monitor",
-      "Keyboard",
-      "Mouse",
-      "USB Port"
-    ],
-    "correctIndex": 3
   }
 ]

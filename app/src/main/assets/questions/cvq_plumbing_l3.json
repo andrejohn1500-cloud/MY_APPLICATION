@@ -1,151 +1,21 @@
 [
   {
-    "question": "What does the acronym CVQ stand for in the context of vocational qualifications?",
+    "question": "According to the Caribbean Plumbing Standards, what is the maximum allowed temperature for a water heater in a commercial area?",
     "options": [
-      "Caribbean Vocational Qualification",
-      "Central Vocational Qualification",
-      "Certified Vocational Qualification",
-      "Combined Vocational Qualification"
+      "100\u00b0C",
+      "80\u00b0C",
+      "110\u00b0C",
+      "90\u00b0C"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which type of pipe joint uses a rubber ring to create a watertight seal?",
+    "question": "According to the Caribbean Plumbing Standards, what is the maximum allowed temperature for a water heater in a residential area?",
     "options": [
-      "Soldered joint",
-      "Push-fit joint",
-      "Compression joint",
-      "Threaded joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a P-trap in a plumbing system?",
-    "options": [
-      "To increase water pressure",
-      "To prevent sewer gases from entering the building",
-      "To filter debris from wastewater",
-      "To regulate water temperature"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tool is used to cut copper pipe cleanly and squarely?",
-    "options": [
-      "Hacksaw only",
-      "Pipe cutter",
-      "Cold chisel",
-      "Pipe wrench"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What material is commonly used for soil and waste pipes in modern plumbing installations?",
-    "options": [
-      "Cast iron",
-      "uPVC",
-      "Galvanized steel",
-      "Brass"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a stop valve do in a plumbing system?",
-    "options": [
-      "Increases water flow",
-      "Filters water",
-      "Isolates or shuts off the water supply",
-      "Reduces water pressure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which gas is tested for when checking for leaks in a gas installation?",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Natural gas or LPG",
-      "Nitrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the standard fall recommended for a horizontal waste pipe per metre run?",
-    "options": [
-      "5 mm per metre",
-      "18-90 mm per metre",
-      "1-2 mm per metre",
-      "200 mm per metre"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fitting is used to join two pipes of different diameters?",
-    "options": [
-      "Elbow",
-      "Reducer",
-      "Tee",
-      "Coupling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of valve allows water to flow in one direction only?",
-    "options": [
-      "Gate valve",
-      "Ball valve",
-      "Check valve",
-      "Globe valve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of lagging on pipes?",
-    "options": [
-      "To increase water pressure",
-      "To improve appearance",
-      "To prevent heat loss and protect against freezing",
-      "To prevent corrosion only"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which document outlines the health and safety requirements a plumber must follow on a construction site?",
-    "options": [
-      "Building Code",
-      "Risk Assessment",
-      "Plumbing Specification",
-      "Manufacturer Warranty"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of a ball float valve in a cold water storage cistern?",
-    "options": [
-      "To drain the cistern",
-      "To control the inlet water level",
-      "To measure water temperature",
-      "To filter incoming water"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does BS EN 806 relate to in plumbing?",
-    "options": [
-      "Gas installation standards",
-      "Specifications for installations inside buildings conveying water for human consumption",
-      "Drainage and sewerage systems",
-      "Electrical safety in bathrooms"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of copper pipe joint requires the use of flux and solder when being made?",
-    "options": [
-      "Compression fitting",
-      "Push-fit fitting",
-      "End-feed capillary fitting",
-      "Flared fitting"
+      "60\u00b0C",
+      "90\u00b0C",
+      "80\u00b0C",
+      "100\u00b0C"
     ],
     "correctIndex": 2
   }

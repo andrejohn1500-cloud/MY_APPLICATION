@@ -1,21 +1,71 @@
 [
   {
-    "question": "What is the difference between a 'glaze' and a 'icing'?",
+    "question": "Which type of sauce is commonly used in Caribbean cuisine to add flavor to rice and peas?",
     "options": [
-      "A 'glaze' is a solid made from sugar and butter or cream, while an 'icing' is a liquid made from a combination of ingredients",
-      "A 'glaze' is a liquid made from sugar and butter or cream, while an 'icing' is a solid made from a combination of ingredients",
-      "A 'glaze' is a sweet, sticky liquid made from a combination of ingredients, while an 'icing' is a thick, creamy mixture made from sugar and butter or cream",
-      "A 'glaze' is a thick, creamy mixture made from sugar and butter or cream, while an 'icing' is a sweet, sticky liquid made from a combination of ingredients"
+      "Hot sauce",
+      "Sour sauce",
+      "Pepper sauce",
+      "Barbecue sauce"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of garnishing a dish?",
+    "question": "Which of the following is an example of a knife skill used to chop food into small, irregular pieces?",
     "options": [
-      "To add extra flavor to the dish",
-      "To add extra moisture to the dish",
-      "To add a visual element to the dish and make it more attractive to the customer",
-      "To add extra texture to the dish"
+      "Julienning",
+      "Dicing",
+      "Chiffonade",
+      "Mincing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the nutritional benefit of including calcium-rich foods in a meal?",
+    "options": [
+      "Enhances flavor",
+      "Boosts energy levels",
+      "Supports bone health",
+      "Improves digestion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended time for cooking rice to ensure it is cooked and safe to eat?",
+    "options": [
+      "10-15 minutes",
+      "20-25 minutes",
+      "15-20 minutes",
+      "30-35 minutes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of cooking food in a hot, dry environment (such as in a dry skillet or oven)?",
+    "options": [
+      "Searing",
+      "Braising",
+      "Roasting",
+      "Grilling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of flour is commonly used in baking to make bread?",
+    "options": [
+      "Pastry flour",
+      "Cake flour",
+      "Bread flour",
+      "All-purpose flour"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following cooking methods involves cooking food in a sealed bag with steam?",
+    "options": [
+      "Poaching",
+      "Braising",
+      "Steaming",
+      "Boiling"
     ],
     "correctIndex": 2
   }

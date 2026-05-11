@@ -1,151 +1,51 @@
 [
   {
-    "question": "When sizing a hot water storage cylinder for a domestic installation, which factor is most critical in determining the required storage capacity?",
+    "question": "What is the purpose of a pipe thread sealant in a plumbing system?",
     "options": [
-      "The colour of the cylinder insulation",
-      "The peak demand period and recovery rate of the heat source",
-      "The diameter of the cold water inlet pipe",
-      "The height of the cylinder above floor level"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a sealed central heating system operating at 1.5 bar working pressure, what is the primary function of the expansion vessel?",
-    "options": [
-      "To increase system pressure during cold start",
-      "To accommodate the increase in water volume as it heats up and prevent over-pressurisation",
-      "To filter debris from the circulating water",
-      "To regulate the flow rate through the boiler heat exchanger"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the Water Supply (Water Fittings) Regulations 1999, a fluid Category 5 backflow risk requires which level of backflow prevention?",
-    "options": [
-      "A double check valve assembly",
-      "An air gap with unrestricted discharge (Type AA)",
-      "A single check valve",
-      "A pressure vacuum breaker"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When installing a sanitary pipework system using the single-stack system, what is the maximum unventilated length of a 32mm branch pipe from a washbasin to the stack?",
-    "options": [
-      "1.7 metres",
-      "3.0 metres",
-      "1.0 metre",
-      "4.5 metres"
+      "To prevent damage to pipe threads and ensure a watertight seal",
+      "To increase pipe diameter",
+      "To protect pipes from corrosion",
+      "To lubricate pipe threads during assembly"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A plumber is asked to install a urinal flushing cistern. Under current water regulations, what is the maximum flush volume permitted per bowl or stall for an automatic urinal cistern?",
+    "question": "Which sanitary fitting is used to connect a toilet to the waste pipe?",
     "options": [
-      "10 litres per hour per bowl",
-      "1.5 litres per hour per bowl",
-      "7.5 litres per bowl per flush",
-      "5 litres per hour per position"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which British Standard governs the installation of gas-fired hot water boilers of rated input not exceeding 70 kW for domestic and similar applications?",
-    "options": [
-      "BS 6798",
-      "BS 5440",
-      "BS 7671",
-      "BS 6891"
+      "Toilet trap",
+      "Bowl trap",
+      "Drain valve",
+      "Waste outlet"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a pumped primary circuit with a vented hot water storage cylinder, where should the cold feed and open vent pipes connect relative to the circulating pump?",
+    "question": "What is the recommended maximum working pressure for a residential water supply system?",
     "options": [
-      "Both on the pressure side of the pump",
-      "Cold feed and open vent should connect close together on the same side as the boiler flow pipe, with the pump situated to draw from the open vent connection",
-      "The open vent should be on the suction side and the cold feed on the discharge side of the pump to prevent pumping over",
-      "Both on the suction side of the pump only"
+      "100 psi",
+      "200 psi",
+      "250 psi",
+      "150 psi"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "When carrying out a soundness test on a new below-ground drainage installation using air, what is the correct test pressure and minimum holding period?",
+    "question": "What is the purpose of a vent pipe in a water supply system?",
     "options": [
-      "100mm water gauge for 5 minutes",
-      "110mm water gauge for 5 minutes with no pressure drop exceeding 25mm water gauge",
-      "50mm water gauge for 3 minutes",
-      "150mm water gauge for 10 minutes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct minimum fall recommended for a 100mm diameter below-ground foul water drain to maintain self-cleansing velocity?",
-    "options": [
-      "1 in 80",
-      "1 in 150",
-      "1 in 40",
-      "1 in 200"
+      "To allow air to enter and prevent vacuum",
+      "To increase water pressure",
+      "To reduce pipe diameter",
+      "To direct wastewater to the sewer"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A pressure relief valve fitted to an unvented hot water storage unit discharges continuously. Which fault condition is MOST likely responsible?",
+    "question": "Which sanitary fitting is used to connect a dishwasher to the waste pipe?",
     "options": [
-      "The cold water inlet pressure is too low",
-      "The thermostat and thermal cut-out have both failed, allowing water temperature to exceed the valve set point, or the expansion vessel has failed causing excessive pressure build-up",
-      "The hot water draw-off pipe is too long",
-      "The pressure reducing valve is set too low"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under Building Regulations Approved Document G, what is the maximum temperature at which stored hot water in an unvented system must be capable of being delivered at the outlet for scalding prevention in dwellings?",
-    "options": [
-      "60\u00b0C",
-      "55\u00b0C",
-      "48\u00b0C",
-      "65\u00b0C"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When jointing copper tube using a capillary solder ring fitting, which flux characteristic is essential to meet current environmental and safety standards?",
-    "options": [
-      "The flux must be acid-based to ensure oxide removal",
-      "The flux must be a non-corrosive, water-soluble type compliant with BS EN 29454",
-      "The flux must contain zinc chloride for high-temperature applications",
-      "The flux must be petroleum-based to resist moisture ingress"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a hot and cold water system, which condition specifically describes Legionella pneumophila growth risk and what temperature range must be avoided in stored cold water?",
-    "options": [
-      "Legionella thrives in freezing conditions; cold water must be kept below 0\u00b0C",
-      "Legionella proliferates between 20\u00b0C and 45\u00b0C; cold water storage must be maintained consistently below 20\u00b0C",
-      "Legionella only grows above 60\u00b0C; hot water must be stored below 60\u00b0C",
-      "Legionella is unaffected by temperature; chemical dosing is the only control"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When installing a Type 2 air admittance valve (AAV) on a sanitary pipework system, which regulatory restriction applies?",
-    "options": [
-      "AAVs may be used as the sole means of ventilation on any above-ground drainage system without restriction",
-      "AAVs must not be used as the only means of ventilation where the drain connects to a system requiring positive ventilation to the external atmosphere, such as a main discharge stack serving multiple floors",
-      "AAVs are prohibited in all domestic installations under current Building Regulations",
-      "AAVs must be installed below the flood level of the appliance they serve"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A plumber is calculating pipe sizes for a cold water distribution system using simultaneous demand. Which design standard provides the loading unit method for sizing pipework in buildings?",
-    "options": [
-      "BS EN 806-3",
-      "BS 8558",
-      "BS 6700",
-      "CIBSE Guide G"
+      "Dishwasher trap",
+      "Waste outlet",
+      "Bowl trap",
+      "Drain valve"
     ],
     "correctIndex": 0
   }

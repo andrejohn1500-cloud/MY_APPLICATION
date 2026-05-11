@@ -1,142 +1,132 @@
 [
   {
-    "question": "What is the term for the process of ensuring that data is accurate and reliable, and that it can be trusted?",
+    "question": "Which of the following software applications is primarily used for creating spreadsheets?",
     "options": [
-      "Data Confidentiality",
-      "Data Authenticity",
-      "Data Availability",
-      "Data Integrity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the Central Processing Unit (CPU)?",
-    "options": [
-      "Connecting peripherals to the computer",
-      "Storing data and applications",
-      "Transferring data between devices",
-      "Executing instructions and performing calculations"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a Memory Stick in a computer system?",
-    "options": [
-      "Storing data temporarily for transfer between devices",
-      "Running software applications",
-      "Connecting peripherals to the computer",
-      "Providing power to the computer system"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of Caribbean ICT application used for online voting and elections?",
-    "options": [
-      "Digital Payment Gateway",
-      "Online Banking System",
-      "Electronic Voting System",
-      "E-Government Portal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a Printer in a computer system?",
-    "options": [
-      "Printing physical copies of digital documents",
-      "Running software applications",
-      "Connecting peripherals to the computer",
-      "Providing power to the computer system"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing digital videos?",
-    "options": [
-      "Database Management Software",
-      "Spreadsheets Software",
-      "Video Editing Software",
-      "Word Processing Software"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing digital graphics?",
-    "options": [
-      "Graphics Design Software",
-      "Database Management Software",
-      "Word Processing Software",
-      "Spreadsheets Software"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing spreadsheets?",
-    "options": [
-      "Google Docs",
+      "Microsoft Word",
       "Microsoft Excel",
-      "CorelDRAW",
+      "Google Docs",
       "Adobe Photoshop"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the process of ensuring that data is available and accessible when needed?",
+    "question": "What is the primary function of a network repeater in a computer network?",
     "options": [
-      "Data Availability",
-      "Data Confidentiality",
-      "Data Authenticity",
-      "Data Integrity"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of Caribbean ICT application used for online banking and financial transactions?",
-    "options": [
-      "Electronic Voting System",
-      "Online Banking System",
-      "Digital Payment Gateway",
-      "E-Government Portal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a firewall in a computer system?",
-    "options": [
-      "To display images on the screen",
-      "To detect and remove malware",
-      "To speed up internet connections",
-      "To block unauthorized access to a computer or network"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a group of connected computers that can share resources and communicate with each other?",
-    "options": [
-      "Peripheral",
-      "Internet",
-      "Server",
-      "Network"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a type of Caribbean ICT application used for e-government services and citizen engagement?",
-    "options": [
-      "Electronic Voting System",
-      "Digital Payment Gateway",
-      "E-Government Portal",
-      "Online Banking System"
+      "To provide power to the computer",
+      "To share files and printers with other computers",
+      "To extend the range of a network signal",
+      "To direct traffic between networks"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a Switch in a computer network?",
+    "question": "What is the primary function of a Central Processing Unit (CPU)?",
     "options": [
-      "Switching data packets between devices on the same network",
-      "Encrypting data for secure transmission",
-      "Directing data packets between networks",
-      "Authenticating user identities"
+      "To store data and programs",
+      "To connect peripherals to the computer",
+      "To transmit data over a network",
+      "To perform calculations and execute instructions"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following Caribbean ICT applications is primarily used for online shopping?",
+    "options": [
+      "PayPal",
+      "Google Pay",
+      "eBay",
+      "Amazon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "To block unauthorized access to the network",
+      "To share files and printers with other computers",
+      "To provide power to the computer",
+      "To connect to the internet"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "How can you protect your computer from malware by using a combination of security software?",
+    "options": [
+      "Using only a backup system",
+      "Using an antivirus program, a firewall, and a backup system",
+      "Using only a firewall",
+      "Using only an antivirus program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating 3D models?",
+    "options": [
+      "Blender",
+      "Adobe Photoshop",
+      "Google Docs",
+      "Microsoft Word"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of malware that is designed to steal login credentials?",
+    "options": [
+      "Spyware malware",
+      "Keylogger malware",
+      "Ransomware malware",
+      "Password-stealing malware"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a hard drive in a computer?",
+    "options": [
+      "To provide power to the computer",
+      "To store data, programs, and the operating system",
+      "To connect peripherals to the computer",
+      "To transmit data over a network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of attack where a hacker steals sensitive information by pretending to be a trusted source?",
+    "options": [
+      "Phishing attack",
+      "Malware attack",
+      "SQL injection attack",
+      "Denial of Service (DoS) attack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a modem in a computer network?",
+    "options": [
+      "To share files and printers with other computers",
+      "To provide power to the computer",
+      "To connect to the internet",
+      "To connect peripherals to the computer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a network that connects two or more computers in a limited geographical area?",
+    "options": [
+      "Local Area Network (LAN)",
+      "Internet",
+      "Wide Area Network (WAN)",
+      "Intranet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a switch in a computer network?",
+    "options": [
+      "To share files and printers with other computers",
+      "To connect devices to a network",
+      "To provide power to the computer",
+      "To direct traffic between networks"
+    ],
+    "correctIndex": 1
   }
 ]

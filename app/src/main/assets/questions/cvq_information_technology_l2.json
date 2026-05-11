@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the main purpose of a Browser in a computer system?",
+    "question": "Which of the following Caribbean ICT applications is primarily used for online learning?",
     "options": [
-      "Transferring files between devices",
-      "Accessing and displaying web pages on the internet",
-      "Creating and editing documents",
-      "Managing databases"
+      "Udemy",
+      "edX",
+      "Coursera",
+      "iTunes U"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of attack where a hacker uses a Trojan horse to gain access to a computer?",
+    "options": [
+      "Phishing attack",
+      "Trojan malware",
+      "SQL injection attack",
+      "Malware attack"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a type of Caribbean ICT application used for online education and training?",
+    "question": "What is the term for a computer file that contains a set of instructions for a program?",
     "options": [
-      "Digital Payment Gateway",
-      "Electronic Voting System",
-      "E-Government Portal",
-      "Online Learning Platform"
+      "Zip file",
+      "Executable file",
+      "Configuration file",
+      "System file"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of attack where a hacker sends a large amount of data to a website to cause it to crash?",
+    "options": [
+      "Malware attack",
+      "Phishing attack",
+      "Denial of Service (DoS) attack",
+      "SQL injection attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of malware that is designed to steal credit card information?",
+    "options": [
+      "Card-skimming malware",
+      "Ransomware malware",
+      "Spyware malware",
+      "Keylogger malware"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of attack where a hacker uses a virus to steal sensitive information?",
+    "options": [
+      "Phishing attack",
+      "Stealer malware",
+      "SQL injection attack",
+      "Malware attack"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following Caribbean ICT applications is primarily used for online banking?",
+    "options": [
+      "PayPal",
+      "Amazon",
+      "Google Pay",
+      "eBay"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following operating systems is known for being user-friendly and secure?",
+    "options": [
+      "Windows 10",
+      "Linux",
+      "Chrome OS",
+      "MacOS"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the main purpose of a Virus Scanner in a computer system?",
+    "question": "Which of the following software applications is primarily used for creating databases?",
     "options": [
-      "Running software applications",
-      "Connecting peripherals to the computer",
-      "Detecting and removing malware and viruses",
-      "Providing power to the computer system"
+      "Microsoft Word",
+      "Google Docs",
+      "Microsoft Access",
+      "Adobe Photoshop"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a Computer Mouse in a computer system?",
+    "question": "Which of the following software applications is primarily used for creating diagrams and flowcharts?",
     "options": [
-      "Running software applications",
-      "Connecting peripherals to the computer",
-      "Providing power to the computer system",
-      "Controlling the cursor on the screen and interacting with applications"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing presentations?",
-    "options": [
-      "Spreadsheets Software",
-      "Word Processing Software",
-      "Presentation Software",
-      "Database Management Software"
+      "Google Docs",
+      "Adobe Photoshop",
+      "Microsoft Visio",
+      "Microsoft Word"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a type of software application used for creating and editing databases?",
+    "question": "What is the main function of a CPU in a computer system?",
     "options": [
-      "Spreadsheets Software",
-      "Presentation Software",
-      "Database Management Software",
-      "Word Processing Software"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of Caribbean ICT application used for digital identity verification and authentication?",
-    "options": [
-      "Online Banking System",
-      "E-Government Portal",
-      "Digital Identity Verification System",
-      "Electronic Voting System"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a Webcam in a computer system?",
-    "options": [
-      "Capturing and transmitting video and audio signals",
-      "Connecting peripherals to the computer",
-      "Providing power to the computer system",
-      "Running software applications"
+      "To execute instructions and perform calculations",
+      "To connect peripherals to the system",
+      "To store data and programs",
+      "To provide power to the system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a Router in a computer network?",
+    "question": "What is the term for a type of attack where a hacker uses social engineering to trick a user into revealing sensitive information?",
     "options": [
-      "Encrypting data for secure transmission",
-      "Directing data packets between networks",
-      "Switching data packets between devices on the same network",
-      "Authenticating user identities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing digital music?",
-    "options": [
-      "Digital Audio Workstation Software",
-      "Word Processing Software",
-      "Database Management Software",
-      "Spreadsheets Software"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the main purpose of a Network Switch in a computer network?",
-    "options": [
-      "Authenticating user identities",
-      "Encrypting data for secure transmission",
-      "Switching data packets between devices on the same network",
-      "Directing data packets between networks"
+      "SQL injection attack",
+      "Phishing attack",
+      "Social engineering attack",
+      "Malware attack"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the main purpose of a Backup in a computer system?",
+    "question": "What is the term for a type of attack where a hacker uses a virus to destroy data on a computer?",
     "options": [
-      "Running software applications",
-      "Restoring data in case of a disaster or loss",
-      "Providing power to the computer system",
-      "Connecting peripherals to the computer"
+      "SQL injection attack",
+      "Malware attack",
+      "Ransomware attack",
+      "Phishing attack"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of verifying the identity of users before granting access to a computer system or network?",
+    "question": "What is the term for a type of attack where a hacker uses a malware to delete data on a computer?",
     "options": [
-      "Authentication",
-      "Authorization",
-      "Auditing",
-      "Accountability"
+      "SQL injection attack",
+      "Phishing attack",
+      "Wiper malware",
+      "Malware attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating presentations?",
+    "options": [
+      "Microsoft PowerPoint",
+      "Google Docs",
+      "Adobe Photoshop",
+      "Microsoft Word"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a UPS in a computer system?",
-    "options": [
-      "Connecting peripherals to the computer",
-      "Providing power backup and protection against power outages",
-      "Running software applications",
-      "Storing data temporarily"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing documents?",
-    "options": [
-      "Database Management Software",
-      "Word Processing Software",
-      "Graphics Design Software",
-      "Spreadsheets Software"
-    ],
-    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does PPE stand for in a welding environment?",
+    "question": "What is the term for the process of reading and interpreting technical drawings and blueprints?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Practice Equipment",
-      "Personal Performance Evaluation",
-      "Protective Performance Ensemble"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of flame is used for welding mild steel with oxy-acetylene equipment?",
-    "options": [
-      "Carburising flame",
-      "Oxidising flame",
-      "Neutral flame",
-      "Reducing flame"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of flux in welding?",
-    "options": [
-      "To increase heat input",
-      "To prevent oxidation of the weld pool",
-      "To cool the weld quickly",
-      "To add filler material"
+      "Technical drawing",
+      "Blueprint reading",
+      "Metrology",
+      "Welding design"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which welding process uses a non-consumable tungsten electrode?",
+    "question": "What is the primary function of a welding machine?",
     "options": [
+      "Polish metal to a high shine",
+      "Generate a controlled electrical arc to melt and join metal",
+      "Grind metal to a smooth surface",
+      "Cut metal using a thermal cutting method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of inspecting the weld for defects and imperfections?",
+    "options": [
+      "Non-destructive testing",
+      "Mechanical inspection",
+      "Visual inspection",
+      "Destructive testing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of removing excess weld metal and smoothing the weld surface?",
+    "options": [
+      "Deburring",
+      "Polishing",
+      "Machining",
+      "Grinding"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of inspecting the weld for its appearance and quality using non-destructive methods?",
+    "options": [
+      "Non-destructive testing",
+      "Visual inspection",
+      "Mechanical inspection",
+      "Destructive testing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of cleaning and preparing the weld area?",
+    "options": [
+      "Post-weld cleaning",
+      "Welding design",
+      "Welding inspection",
+      "Pre-weld cleaning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a shielding gas in welding?",
+    "options": [
+      "Improve the appearance of the weld",
+      "Increase the strength of the weld",
+      "Protect the weld area from atmospheric gases",
+      "Reduce the risk of contamination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a flux in welding?",
+    "options": [
+      "Improve the appearance of the weld",
+      "Protect the weld area from atmospheric gases and promote fusion",
+      "Increase the strength of the weld",
+      "Reduce the risk of contamination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of metal is known for its high strength and resistance to corrosion?",
+    "options": [
+      "Copper",
+      "Brass",
+      "Aluminum",
+      "Stainless steel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the importance of proper welding equipment maintenance?",
+    "options": [
+      "Improves ventilation in the workspace",
+      "Reduces the risk of electrical shock",
+      "Increases the strength of the weld metal",
+      "Ensures safe and efficient welding operations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of welding process uses a continuous wire feed to deposit metal onto the workpiece?",
+    "options": [
+      "Spot welding",
       "MIG welding",
+      "Arc welding",
+      "TIG welding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the importance of proper ventilation in welding?",
+    "options": [
+      "Improves the appearance of the weld",
+      "Increases the strength of the weld",
+      "Reduces the risk of electrical shock",
+      "Reduces the risk of inhaling harmful fumes and particles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of welding process uses a combination of electrical and gas pressures to melt and join metal?",
+    "options": [
+      "Arc welding",
       "TIG welding",
-      "MMA welding",
-      "Flux-cored arc welding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What colour is the oxygen cylinder commonly used in oxy-acetylene welding?",
-    "options": [
-      "Red",
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'amperage' refer to in welding?",
-    "options": [
-      "The voltage of the welding arc",
-      "The speed of the electrode",
-      "The electrical current used",
-      "The gas flow rate"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a common joint type used in fabrication?",
-    "options": [
-      "Circular joint",
-      "Butt joint",
-      "Oval joint",
-      "Round joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a welding mask or helmet?",
-    "options": [
-      "To keep the welder cool",
-      "To protect the eyes and face from arc radiation and sparks",
-      "To hold the electrode in place",
-      "To filter welding fumes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In MIG welding, what does MIG stand for?",
-    "options": [
-      "Metal Inert Gas",
-      "Manual Iron Grounding",
-      "Melted Inert Groove",
-      "Metal Internal Gas"
+      "Spot welding",
+      "MIG welding"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which tool is used to remove slag from a weld after welding?",
+    "question": "What is the primary function of a welding regulator?",
     "options": [
-      "Wire brush only",
-      "Angle grinder only",
-      "Chipping hammer",
-      "Clamp"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct action if you discover a gas leak in the welding area?",
-    "options": [
-      "Continue welding carefully",
-      "Ventilate the area and report it immediately",
-      "Cover the leak with tape",
-      "Increase gas pressure to seal the leak"
+      "Protect the eyes and face from harmful radiation and debris",
+      "Regulate the flow of shielding gas and electrical current",
+      "Increase visibility in low light environments",
+      "Improve ventilation in the workspace"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which position is described as welding performed on a horizontal surface looking downward?",
+    "question": "What is the importance of proper welding technique and procedure?",
     "options": [
-      "Vertical position",
-      "Overhead position",
-      "Flat position",
-      "Horizontal position"
+      "Ensures a strong and consistent weld",
+      "Reduces the risk of electrical shock",
+      "Increases the strength of the weld metal",
+      "Improves ventilation in the workspace"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does a regulator do on a gas cylinder?",
-    "options": [
-      "It fills the cylinder with gas",
-      "It reduces and controls the gas pressure",
-      "It measures the weight of the cylinder",
-      "It heats the gas before use"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following metals is commonly used in sheet metal fabrication?",
-    "options": [
-      "Cast iron",
-      "Mild steel",
-      "Tungsten",
-      "Titanium"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of tack welding in fabrication?",
-    "options": [
-      "To complete the final weld",
-      "To temporarily hold parts in position before full welding",
-      "To test the strength of a joint",
-      "To remove excess metal"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

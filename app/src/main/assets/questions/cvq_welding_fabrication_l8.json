@@ -1,152 +1,102 @@
 [
   {
-    "question": "Which welding process uses a continuous wire electrode fed through a welding gun and requires an external shielding gas?",
-    "options": [
-      "Shielded Metal Arc Welding (SMAW)",
-      "Gas Metal Arc Welding (GMAW)",
-      "Gas Tungsten Arc Welding (GTAW)",
-      "Flux-Cored Arc Welding (FCAW)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'heat-affected zone' (HAZ) refer to in welding?",
-    "options": [
-      "The area of the base metal that has been melted and resolidified",
-      "The region of base metal whose properties have been altered by welding heat without melting",
-      "The zone where the filler metal and base metal mix",
-      "The area protected by the shielding gas during welding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of joint is formed when two pieces of metal are placed end to end in the same plane?",
+    "question": "What type of joint is created when two pieces of metal are joined with a T-shaped groove or recess?",
     "options": [
       "Lap joint",
-      "T-joint",
       "Butt joint",
-      "Corner joint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of preheating the base metal before welding?",
-    "options": [
-      "To increase the travel speed of the weld",
-      "To reduce the risk of cracking by slowing the cooling rate",
-      "To eliminate the need for filler material",
-      "To increase penetration depth only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In blueprint reading for fabrication, what does a dashed hidden line represent?",
-    "options": [
-      "A center line of a feature",
-      "An edge or surface not visible from the viewing direction",
-      "A dimension reference line",
-      "A cutting plane line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which electrode classification is used for low-hydrogen electrodes suitable for welding high-strength steels in SMAW?",
-    "options": [
-      "E6010",
-      "E6013",
-      "E7018",
-      "E6011"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What welding defect is characterized by unfused areas between weld passes or between the weld and base metal?",
-    "options": [
-      "Porosity",
-      "Undercut",
-      "Lack of fusion",
-      "Overlap"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When performing an oxy-acetylene cutting operation, what is the role of the oxygen jet?",
-    "options": [
-      "It preheats the metal to melting point",
-      "It shields the cut from atmospheric contamination",
-      "It oxidizes the heated metal and blows away the molten oxide",
-      "It provides the primary heat source for cutting"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which non-destructive testing (NDT) method uses high-frequency sound waves to detect internal defects in welds?",
-    "options": [
-      "Magnetic particle testing",
-      "Liquid penetrant testing",
-      "Ultrasonic testing",
-      "Visual inspection"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct sequence of steps when setting up a weld joint for a groove weld?",
-    "options": [
-      "Fit-up, tack weld, clean, inspect",
-      "Clean, fit-up, tack weld, inspect",
-      "Inspect, clean, tack weld, fit-up",
-      "Tack weld, clean, fit-up, inspect"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of distortion occurs when the edges of a flat plate pull upward after welding along its length?",
-    "options": [
-      "Longitudinal shrinkage",
-      "Angular distortion",
-      "Transverse shrinkage",
-      "Bowing"
+      "Groove joint",
+      "T-butt joint"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In GTAW (TIG) welding of aluminium, which type of current is most commonly used and why?",
+    "question": "What is the term for the process of removing dirt, oil, and other contaminants from a weld joint before welding?",
     "options": [
-      "Direct Current Electrode Negative (DCEN), because it provides deeper penetration",
-      "Direct Current Electrode Positive (DCEP), because it provides cleaning action",
-      "Alternating Current (AC), because it provides both cleaning action and adequate penetration",
-      "High-frequency DC, because it stabilizes the arc on aluminium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the AWS welding symbol arrow pointing to a joint indicate?",
-    "options": [
-      "The direction of travel for the welder",
-      "The arrow side of the joint where the weld information below the reference line applies",
-      "The side of the joint that requires post-weld heat treatment",
-      "The location where grinding must be performed"
+      "Rust removal",
+      "Cleaning",
+      "Scoring",
+      "Scrubbing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of steel is most susceptible to hydrogen-induced cracking (cold cracking) after welding?",
+    "question": "What is the term for the process of removing the heat-affected zone (HAZ) from a weld joint?",
     "options": [
-      "Low-carbon mild steel",
-      "Austenitic stainless steel",
-      "High-carbon and alloy steels with high hardenability",
-      "Pure wrought iron"
+      "Deburring",
+      "Scraping",
+      "Grinding",
+      "Scoring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between a 'push' and 'pull' arc in MIG welding?",
+    "options": [
+      "The polarity of the machine",
+      "The current setting",
+      "The direction of the wire feed",
+      "The type of shielding gas used"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a back purge with inert gas when welding stainless steel pipe?",
+    "question": "What is the name of the standard for welding and fabrication in the construction industry?",
     "options": [
-      "To cool the weld faster and improve hardness",
-      "To prevent oxidation on the inside (root side) of the weld",
-      "To increase arc stability during welding",
-      "To reduce spatter on the outside surface of the pipe"
+      "ASME (American Society of Mechanical Engineers) B31.1",
+      "ISO (International Organization for Standardization) 15609",
+      "AWS (American Welding Society) D1.1",
+      "BSI (British Standards Institution) 7608"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of inspecting a weld joint using a series of rays to detect internal defects?",
+    "options": [
+      "Radiographic inspection",
+      "Magnetic particle inspection",
+      "Ultrasonic inspection",
+      "Visual inspection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the device used to measure the thickness of a metal sheet or plate?",
+    "options": [
+      "Thickness gauge",
+      "Dial test indicator",
+      "Micrometer",
+      "Caliper"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following metals is known for its high strength-to-weight ratio and is often used in aircraft construction?",
+    "options": [
+      "Titanium",
+      "Stainless Steel",
+      "Aluminum",
+      "Copper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between AWS D1.1 and ASME Section IX welding codes?",
+    "options": [
+      "AWS D1.1 is used for power boilers and ASME Section IX for construction",
+      "AWS D1.1 is used for automotive and ASME Section IX for aerospace",
+      "AWS D1.1 is primarily used for construction and ASME Section IX is used for power boilers",
+      "AWS D1.1 is used for aerospace and ASME Section IX for automotive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the standard for quality control in welding and fabrication?",
+    "options": [
+      "ISO 9001",
+      "BSI (British Standards Institution) 7608",
+      "AWS (American Welding Society) D1.1",
+      "ASME (American Society of Mechanical Engineers) B31.1"
+    ],
+    "correctIndex": 0
   }
 ]

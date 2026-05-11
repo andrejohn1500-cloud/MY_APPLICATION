@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which diagnostic tool is used to measure the resistance of electrical circuits?",
+    "question": "What is the purpose of the vehicle's emissions test?",
     "options": [
-      "Laser thermometer",
-      "Multimeter",
-      "Tachometer",
-      "Oscilloscope"
+      "To increase the engine speed",
+      "To cool the engine oil",
+      "To check the emissions of pollutants from the vehicle's engine.",
+      "To reduce the engine torque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's oil level?",
+    "options": [
+      "To use a dipstick to check the oil level and add oil as needed.",
+      "To use a jack to raise the vehicle",
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a lug wrench to loosen the lug nuts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the vehicle's emissions control system?",
+    "options": [
+      "To increase the engine speed",
+      "To reduce the emissions of pollutants from the vehicle's engine.",
+      "To cool the engine oil",
+      "To reduce the engine torque"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of transmission is commonly used in modern vehicles for fuel efficiency?",
+    "question": "Which vehicle safety feature is designed to prevent the vehicle from accelerating too quickly?",
     "options": [
-      "Semi-automatic transmission",
-      "Automatic transmission",
-      "Manual transmission",
-      "Continuously variable transmission"
+      "Anti-lock braking system (ABS)",
+      "Electronic stability control (ESC)",
+      "Traction control system (TCS)",
+      "Airbag"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's side mirrors?",
+    "options": [
+      "To provide a view of the vehicle's blind spots and alert the driver to potential hazards.",
+      "To reduce the engine torque",
+      "To cool the engine oil",
+      "To increase the engine speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the circuit breaker in a vehicle's electrical system?",
+    "options": [
+      "To increase the voltage in the circuit",
+      "To filter out noise and interference in the circuit",
+      "To protect the electrical circuit from excessive current flow and prevent damage to the wiring and components.",
+      "To regulate the current in the circuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean regional road regulations, what is the maximum allowed number of passengers on a motorcycle?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of the vehicle's ignition system?",
+    "options": [
+      "To cool the engine oil",
+      "To provide a high voltage to the spark plugs to ignite the fuel in the engine.",
+      "To increase the engine speed",
+      "To reduce the engine torque"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which component in a vehicle's electrical system protects against voltage spikes?",
+    "question": "What is the difference between a 4-wheel drive system and a 2-wheel drive system?",
     "options": [
-      "The battery",
-      "The alternator",
-      "The fuse",
-      "The starter motor"
+      "A 4-wheel drive system sends power to all four wheels, while a 2-wheel drive system sends power to only two wheels.",
+      "A 4-wheel drive system is only used in off-road driving, while a 2-wheel drive system is only used on paved roads",
+      "A 4-wheel drive system sends power only to the front wheels, while a 2-wheel drive system sends power to all four wheels",
+      "A 4-wheel drive system is only used on trucks, while a 2-wheel drive system is only used on cars"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a vehicle's anti-theft system?",
+    "question": "What is the proper procedure for replacing a vehicle's spark plugs?",
     "options": [
-      "To improve the vehicle's safety features",
-      "To improve the vehicle's performance",
-      "To improve the vehicle's fuel efficiency",
-      "To prevent unauthorized access to the vehicle"
+      "To use a spark plug socket to remove the old spark plug and install a new one.",
+      "To use a jack to raise the vehicle",
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a tire iron to tighten the lug nuts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the power steering pump in a vehicle?",
+    "options": [
+      "To provide hydraulic pressure to the power steering system, allowing for easier steering and reduced effort.",
+      "To increase the engine speed",
+      "To reduce the engine torque",
+      "To cool the engine oil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's brake pads?",
+    "options": [
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a jack to raise the vehicle",
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a brake pad wear gauge to check the thickness and adjust it as needed."
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of the tire pressure monitoring system in a vehicle?",
+    "question": "What is the proper procedure for changing a vehicle's tire?",
     "options": [
-      "To control tire speed",
-      "To alert the driver of low tire pressure",
-      "To maintain tire alignment",
-      "To regulate tire temperature"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the fuel pump in a vehicle's engine system?",
-    "options": [
-      "To supply fuel to the engine under pressure",
-      "To control engine speed",
-      "To supply air to the engine under pressure",
-      "To regulate engine temperature"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the parking brake in a vehicle's braking system?",
-    "options": [
-      "To hold the vehicle stationary when parked",
-      "To apply the brakes",
-      "To release the brakes",
-      "To accelerate the vehicle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which component in a vehicle's steering system is responsible for converting rotary motion into linear motion?",
-    "options": [
-      "The steering gearbox",
-      "The steering column",
-      "The tie rods",
-      "The power steering pump"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which diagnostic tool is used to measure the speed of a vehicle?",
-    "options": [
-      "Laser thermometer",
-      "Oscilloscope",
-      "Tachometer",
-      "Multimeter"
+      "To reduce the vehicle's fuel efficiency",
+      "To tighten the lug nuts, lower the vehicle, and replace the flat tire",
+      "To loosen the lug nuts, raise the vehicle, and remove the flat tire.",
+      "To increase the vehicle's speed"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of the handbrake in a vehicle's braking system?",
+    "question": "What is the function of the vehicle's steering system?",
     "options": [
-      "To apply the brakes",
-      "To accelerate the vehicle",
-      "To hold the vehicle stationary on an incline",
-      "To release the brakes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of the shock absorbers in a vehicle's suspension system?",
-    "options": [
-      "To lower the vehicle",
-      "To stiffen the suspension",
-      "To dampen the movement of the suspension",
-      "To raise the vehicle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a vehicle's alarm system?",
-    "options": [
-      "To improve the vehicle's fuel efficiency",
-      "To improve the vehicle's safety features",
-      "To improve the vehicle's performance",
-      "To alert the owner of unauthorized access to the vehicle"
+      "To reduce the engine torque",
+      "To cool the engine oil",
+      "To increase the engine speed",
+      "To provide a smooth and controlled steering experience for the driver."
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a vehicle's immobilizer?",
+    "question": "What is the purpose of the vehicle's headlights?",
     "options": [
-      "To improve the vehicle's safety features",
-      "To improve the vehicle's performance",
-      "To improve the vehicle's fuel efficiency",
-      "To prevent the vehicle from being started without the correct key"
+      "To increase the engine speed",
+      "To cool the engine oil",
+      "To provide illumination for the driver and other road users at night and in low-light conditions.",
+      "To reduce the engine torque"
     ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a vehicle's turn signal light?",
-    "options": [
-      "To indicate the vehicle's intention to turn",
-      "To indicate the vehicle's fuel level",
-      "To indicate the vehicle's speed",
-      "To indicate the vehicle's direction"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the brake fluid reservoir in a vehicle's braking system?",
-    "options": [
-      "To provide a reserve of brake fluid in case of leakage",
-      "To apply the brakes",
-      "To maintain brake fluid pressure",
-      "To release the brakes"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

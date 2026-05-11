@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary function of a computer's BIOS (Basic Input/Output System) chip?",
+    "question": "What is the primary function of the 'Virtual Private Network (VPN)' in a computer network?",
     "options": [
-      "To control the flow of data between the CPU and RAM",
-      "To generate heat for the CPU",
-      "To provide a secondary power supply for peripherals",
-      "To provide a low-level interface between the operating system and hardware, controlling the boot process and managing hardware settings"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following software applications is primarily used for creating and editing digital images?",
-    "options": [
-      "Adobe Photoshop",
-      "CorelDRAW X8",
-      "Google Photos",
-      "Microsoft Paint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a CPU cache in a computer system?",
-    "options": [
-      "To generate heat for the CPU",
-      "To control the flow of data between the CPU and RAM",
-      "To provide a secondary power supply for peripherals",
-      "To store frequently accessed data and instructions to improve system performance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following software applications is primarily used for creating and editing databases?",
-    "options": [
-      "Microsoft Access",
-      "Microsoft Excel",
-      "Google Sheets",
-      "LibreOffice Base"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the difference between a hub and a switch in a network?",
-    "options": [
-      "A switch is a more advanced device that connects multiple devices and can direct traffic between them, whereas a hub simply forwards traffic to all connected devices",
-      "A hub is a more advanced device that can direct traffic between devices",
-      "A hub and a switch are interchangeable terms",
-      "A switch is a device that connects a single device to the network"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following cybersecurity protocols is used to encrypt data in transit between a web server and a client?",
-    "options": [
-      "SSL/TLS",
-      "FTP",
-      "SSH",
-      "SFTP"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a computer's power supply unit (PSU)?",
-    "options": [
-      "To control the flow of data between the CPU and RAM",
-      "To generate heat for the CPU",
-      "To provide a secondary power supply for peripherals",
-      "To convert AC power from the wall outlet to DC power for the computer's components"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary purpose of a network interface card (NIC) in a computer system?",
-    "options": [
-      "To connect a computer to a network and provide a physical interface for data transfer",
-      "To troubleshoot hardware issues",
-      "To create and manage user accounts",
-      "To configure network settings"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following software applications is primarily used for creating and editing video?",
-    "options": [
-      "Google Video Editor",
-      "VLC Media Player",
-      "Adobe Premiere Pro",
-      "Microsoft Video Editor"
+      "To provide insecure and unencrypted communications over a public network",
+      "To provide secure and encrypted communications over a private network",
+      "To provide secure and encrypted communications over a public network",
+      "To provide secure and encrypted communications over a wireless network"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of a network bridge in a network?",
+    "question": "Which of the following is a type of malware that secretly monitors and records a user's online activities?",
     "options": [
-      "To configure network settings",
-      "To connect two or more networks together and allow traffic to flow between them",
-      "To create and manage user accounts",
-      "To troubleshoot hardware issues"
+      "Spyware",
+      "Adware",
+      "Trojan",
+      "Ransomware"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following software applications is primarily used for creating and editing spreadsheets?",
+    "question": "Which of the following is a type of malware that encrypts computer files and demands a ransom in exchange for the decryption key?",
     "options": [
-      "Microsoft Word",
-      "LibreOffice Calc",
-      "Microsoft Excel",
-      "Google Sheets"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following cybersecurity threats involves the use of malware to extort money from a victim?",
-    "options": [
-      "Malware attacks",
-      "Denial of Service (DoS) attacks",
-      "Phishing scams",
+      "Spyware",
+      "Adware",
+      "Trojan",
       "Ransomware"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following cybersecurity best practices involves regularly updating and patching software to prevent exploitation of known vulnerabilities?",
+    "question": "What is the primary function of the 'IPSec' protocol in a computer network?",
     "options": [
-      "Keeping software up to date",
-      "Enabling two-factor authentication",
-      "Using strong passwords",
-      "Avoiding suspicious links and attachments"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following cybersecurity best practices involves using a virtual private network (VPN) to encrypt internet traffic?",
-    "options": [
-      "Enabling two-factor authentication",
-      "Keeping software up to date",
-      "Using a VPN",
-      "Avoiding suspicious links and attachments"
+      "To provide secure HTTP communications over the internet",
+      "To provide secure FTP communications over the internet",
+      "To provide secure IP communications over the internet",
+      "To provide secure DNS communications over the internet"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of a router in a network?",
+    "question": "Which of the following is a type of Caribbean ICT application used for online customer service and support?",
     "options": [
-      "To configure network settings",
-      "To create and manage user accounts",
-      "To troubleshoot hardware issues",
-      "To connect multiple networks together and direct traffic between them"
+      "Marketing automation software",
+      "Sales force automation software",
+      "Customer service software",
+      "HRM software"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the three main types of Caribbean ICT project management methodologies?",
+    "options": [
+      "PRINCE2, PMP, PMBOK",
+      "Six Sigma, Total Quality Management, Business Process Reengineering",
+      "Agile, Waterfall, and Hybrid",
+      "Scrum, Kanban, Lean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the 'Wi-Fi Protected Access (WPA)' protocol in a computer network?",
+    "options": [
+      "To provide secure wireless network communications",
+      "To provide secure wired network communications",
+      "To provide secure HTTP communications",
+      "To provide secure VPN communications"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a Caribbean ICT project manager in a team?",
+    "options": [
+      "To manage network settings",
+      "To send and receive emails",
+      "To create and edit documents",
+      "To lead and direct team members to achieve project goals"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a hub in a network?",
+    "options": [
+      "It is a device that encrypts outgoing traffic",
+      "It is a device that filters incoming traffic",
+      "It is a device that connects multiple networks to a single network segment",
+      "It is a device that connects multiple devices to a single network segment"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the 'Secure Sockets Layer (SSL) Certificate' in a computer network?",
+    "options": [
+      "To provide secure unencrypted communications between a web server and a client browser",
+      "To provide secure encrypted communications between a web server and a client browser",
+      "To provide secure FTP communications between a web server and a client browser",
+      "To provide secure HTTP communications between a web server and a client browser"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of malware that displays unwanted advertisements on a computer screen?",
+    "options": [
+      "Trojan",
+      "Ransomware",
+      "Spyware",
+      "Adware"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the 'QuickBooks' accounting software?",
+    "options": [
+      "To manage customer relationships and sales",
+      "To manage inventory levels",
+      "To manage business financial transactions and generate financial reports",
+      "To manage employee time and attendance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ICT application used for online education and training?",
+    "options": [
+      "Virtual classroom platform",
+      "E-learning platform",
+      "Learning management system (LMS)",
+      "Online tutorial platform"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the 'SSL/TLS' protocol in a computer network?",
+    "options": [
+      "To provide secure FTP communications over the internet",
+      "To provide secure HTTP communications over the internet",
+      "To provide secure unencrypted communications over the internet",
+      "To provide secure encrypted communications over the internet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of Caribbean ICT application used for online human resource management and recruitment?",
+    "options": [
+      "Time and attendance software",
+      "HRM software",
+      "Employee engagement software",
+      "Performance management software"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,62 @@
 [
   {
-    "question": "When sizing a hot water storage cylinder for a domestic dwelling with 3 bathrooms and 4 occupants, which factor is MOST critical in determining the required storage capacity?",
+    "question": "According to the Caribbean Plumbing Code, what is the minimum required clearance between a water heater and any combustible material in a crawl space?",
     "options": [
-      "The diameter of the distribution pipework",
-      "The peak simultaneous demand and recovery rate of the heat source",
-      "The height of the cylinder above the lowest draw-off point",
-      "The type of insulation material used on the cylinder"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A plumber is installing a type AA air gap on a water supply system. What does the 'AA' classification specifically indicate?",
-    "options": [
-      "The air gap is suitable for fluid category 5 risks only",
-      "The vertical distance between the outlet and the critical water level is at least twice the diameter of the inlet pipe",
-      "The air gap is installed in a tank with an unrestricted overflow",
-      "The fitting has been tested to withstand 1.5 times the working pressure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Under the Water Supply (Water Fittings) Regulations 1999, which fluid category represents the GREATEST risk to public health?",
-    "options": [
-      "Category 2",
-      "Category 3",
-      "Category 4",
-      "Category 5"
+      "12 inches",
+      "24 inches",
+      "36 inches",
+      "18 inches"
     ],
     "correctIndex": 3
   },
   {
-    "question": "When carrying out a soundness test on a new above-ground drainage installation using the air test method, what pressure must be maintained for the prescribed duration?",
+    "question": "What is the primary function of a check valve in a plumbing system?",
     "options": [
-      "25 mm water gauge for 3 minutes",
-      "38 mm water gauge for 3 minutes",
-      "50 mm water gauge for 5 minutes",
-      "100 mm water gauge for 5 minutes"
+      "To increase water pressure",
+      "To prevent backflow of water into the system",
+      "To detect leaks in the system",
+      "To regulate water temperature"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A primary circuit in an indirect hot water system is found to be losing pressure repeatedly. After ruling out external leaks, what is the MOST likely cause?",
+    "question": "What is the purpose of a check valve in a water supply line?",
     "options": [
-      "Excessive pump speed on the secondary circuit",
-      "Failure of the heat exchanger coil within the cylinder allowing cross-contamination",
-      "Incorrect setting of the pressure reducing valve on the cold main",
-      "Blocked strainer on the primary flow pipe"
+      "To regulate water temperature",
+      "To prevent backflow of water into the system",
+      "To increase water pressure",
+      "To detect leaks in the system"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which British Standard governs the installation of sanitary appliances and their connection to drainage in buildings?",
+    "question": "What is the primary function of a drain assembly in a plumbing system?",
     "options": [
-      "BS EN 806",
-      "BS EN 12056",
-      "BS 8558",
-      "BS 6700"
+      "To connect the water supply line to the fixture",
+      "To connect the drain pipe to the trap and carry waste and sewage from the building to the sewer or septic tank",
+      "To detect leaks in the system",
+      "To regulate water temperature"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A commercial building requires a boosted cold water system. The break cistern supplies a pressure-boosting set. What is the PRIMARY purpose of the break cistern in this arrangement?",
+    "question": "What is the purpose of a pressure-reducing valve in a plumbing system?",
     "options": [
-      "To provide thermal buffering for the cold water supply",
-      "To create a physical break preventing backflow into the mains supply",
-      "To filter sediment before water enters the booster pumps",
-      "To reduce water hammer in the rising main"
+      "To detect leaks in the system",
+      "To reduce the pressure of the water supply to a level that is safe for household use",
+      "To regulate water temperature",
+      "To increase water pressure"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When installing a gas-fired boiler, the plumber must ensure the flue terminal is positioned correctly. According to current regulations, what is the minimum horizontal distance a balanced flue terminal must be from an openable window or door?",
+    "question": "What is the purpose of a backflow prevention device in a plumbing system?",
     "options": [
-      "150 mm",
-      "300 mm",
-      "600 mm",
-      "1200 mm"
+      "To prevent backflow of contaminated water into the public water supply",
+      "To increase water pressure",
+      "To control water temperature",
+      "To detect leaks in the system"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A trap with a 75 mm water seal is specified for a ground floor WC pan connected to a drainage system using system 3 (ventilated stack system). Why is the deeper seal specified?",
-    "options": [
-      "To comply with the Building Regulations minimum seal depth for all traps",
-      "To compensate for potential self-siphonage in direct-connection WC pans",
-      "To resist positive pressure surges from the drain below",
-      "To meet the requirements for rodent-proofing in ground floor applications"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of the expansion vessel in a sealed (pressurised) central heating system and how is its pre-charge pressure determined?",
-    "options": [
-      "It stores surplus heated water; pre-charge equals the system operating pressure",
-      "It accommodates the increase in water volume due to thermal expansion; pre-charge pressure should equal the system static fill pressure",
-      "It prevents airlocks; pre-charge pressure is set to half the relief valve setting",
-      "It maintains flow velocity; pre-charge is set to the pump head pressure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During a hot works risk assessment for lead welding on a heritage property, which control measure takes the HIGHEST priority in the hierarchy of controls?",
-    "options": [
-      "Issuing personal protective equipment to all operatives",
-      "Providing a fire extinguisher adjacent to the work area",
-      "Eliminating the need for hot works by using cold-jointing alternatives where possible",
-      "Ensuring a fire watcher remains on site for one hour after work ceases"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A plumber calculates the Index Circuit when designing a pumped central heating system. What does the Index Circuit represent?",
-    "options": [
-      "The circuit with the highest flow rate requirement",
-      "The circuit with the greatest resistance to flow, used to size the circulating pump",
-      "The shortest pipe run from boiler to the furthest radiator",
-      "The circuit that operates at the highest temperature"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under CDM Regulations 2015, which duty holder is responsible for coordinating health and safety during the pre-construction phase of a notifiable project?",
-    "options": [
-      "The Principal Contractor",
-      "The Principal Designer",
-      "The Client",
-      "The Lead Plumbing Contractor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A Type 4 disconnector (non-verifiable backflow prevention device) is installed on a hose union tap supplying a garden. According to WRAS recommendations, which fluid category risk is this device adequate to protect against?",
-    "options": [
-      "Category 2 only",
-      "Category 3 only",
-      "Category 4 and below",
-      "Category 5 and all lower categories"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When commissioning an unvented hot water storage system, the installer must verify that the system's safety devices operate in the correct sequence in the event of thermostat failure. What is the correct order of operation?",
-    "options": [
-      "Pressure relief valve activates, then temperature relief valve, then expansion valve",
-      "High-limit thermal cut-out activates, then the temperature and pressure relief valve discharges if temperature continues to rise",
-      "Expansion valve opens first, followed by the pressure reducing valve closing, then the T&P relief valve",
-      "The motorised zone valve closes first, then the high-limit stat, then the T&P relief valve"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

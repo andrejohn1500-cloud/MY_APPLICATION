@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "question": "What is the primary function of a Network Security Policy?",
+    "options": [
+      "To manage network bandwidth usage",
+      "To configure network protocols",
+      "To update software on a network",
+      "To define guidelines for network security and access control"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Network Security Policy?",
+    "options": [
+      "To define guidelines for network security and access control",
+      "To update software on a network",
+      "To configure network protocols",
+      "To manage network bandwidth usage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a Computer Network?",
+    "options": [
+      "To create and edit documents",
+      "To enable communication and sharing of resources between devices",
+      "To manage network security settings",
+      "To provide internet access to a device"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a Network Access Control (NAC) System?",
+    "options": [
+      "To manage network bandwidth usage",
+      "To encrypt data being sent across the network",
+      "To authenticate and authorize devices on a network",
+      "To update software on a network"
+    ],
+    "correctIndex": 2
+  }
+]

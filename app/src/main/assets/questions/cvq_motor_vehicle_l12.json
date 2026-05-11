@@ -1,62 +1,152 @@
 [
   {
-    "question": "What is the purpose of a vehicle's GPS system?",
+    "question": "What is the function of the oxygen sensor in a vehicle's engine?",
     "options": [
-      "To improve the vehicle's performance",
-      "To improve the vehicle's fuel efficiency",
-      "To improve the vehicle's safety features",
-      "To provide navigation information to the driver"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the roadworthiness test in the Caribbean?",
-    "options": [
-      "To increase vehicle registration fees",
-      "To improve fuel efficiency",
-      "To reduce vehicle insurance costs",
-      "To ensure vehicles meet minimum safety standards before being issued a road license"
+      "To reduce the engine torque",
+      "To increase the engine speed",
+      "To cool the engine oil",
+      "To monitor the oxygen levels in the exhaust gas and provide feedback to the engine computer."
     ],
     "correctIndex": 3
   },
   {
     "question": "What is the purpose of the vehicle's maintenance schedule?",
     "options": [
-      "To ensure regular maintenance is performed to extend vehicle life",
-      "To increase vehicle weight",
-      "To reduce vehicle speed",
-      "To improve fuel efficiency"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a vehicle's daytime running light?",
-    "options": [
-      "To improve visibility to the front of the vehicle during the day",
-      "To improve visibility to the sides of the vehicle in bright sunlight",
-      "To improve visibility to the rear of the vehicle at night",
-      "To improve visibility to the front of the vehicle in heavy rain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the power steering pump in a vehicle's steering system?",
-    "options": [
-      "To regulate steering speed",
-      "To provide pneumatic pressure to assist steering",
-      "To maintain steering alignment",
-      "To provide hydraulic pressure to assist steering"
+      "To decrease the vehicle's safety features",
+      "To reduce the vehicle's fuel efficiency",
+      "To increase the vehicle's speed",
+      "To ensure that the vehicle is properly maintained and serviced at regular intervals to prevent wear and tear and extend its lifespan."
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of the airbags in a vehicle's safety system?",
+    "question": "What is the proper procedure for bleeding a vehicle's brake system?",
     "options": [
-      "To regulate air pressure in the tires",
-      "To deploy in the event of a crash to protect occupants",
-      "To control vehicle direction",
-      "To maintain vehicle speed"
+      "To add more brake fluid to the system",
+      "To remove air from the brake system and replace it with brake fluid.",
+      "To reduce the brake temperature",
+      "To increase the brake pressure"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's tire tread depth?",
+    "options": [
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a tire tread depth gauge to check the depth and adjust it as needed.",
+      "To use a jack to raise the vehicle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of the vehicle's suspension system?",
+    "options": [
+      "To support the vehicle's weight and provide a smooth ride.",
+      "To increase the engine speed",
+      "To reduce the engine torque",
+      "To cool the engine oil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the vehicle's ABS (Anti-lock Braking System)?",
+    "options": [
+      "To cool the engine oil",
+      "To prevent the wheels from locking up during hard braking and maintain traction.",
+      "To reduce the engine torque",
+      "To increase the engine speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a drum brake and a disc brake?",
+    "options": [
+      "A disc brake uses a rotating drum to stop the vehicle, while a drum brake uses a rotating disc",
+      "A disc brake is only used on the front wheels, while a drum brake is only used on the rear wheels",
+      "A disc brake does not use a rotor, while a drum brake uses a rotor",
+      "A disc brake uses a rotating disc to stop the vehicle, while a drum brake uses a rotating drum to stop the vehicle."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the vehicle's VIN (Vehicle Identification Number)?",
+    "options": [
+      "To decrease the vehicle's safety features",
+      "To increase the vehicle's speed",
+      "To uniquely identify the vehicle and its components.",
+      "To reduce the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's TPMS (Tire Pressure Monitoring System)?",
+    "options": [
+      "To decrease the vehicle's safety features",
+      "To monitor the tire pressure and alert the driver if it falls below a certain level.",
+      "To reduce the vehicle's fuel efficiency",
+      "To increase the vehicle's speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the vehicle's windshield wipers?",
+    "options": [
+      "To cool the engine oil",
+      "To increase the engine speed",
+      "To reduce the engine torque",
+      "To remove water and debris from the windshield and provide a clear view for the driver."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's tire pressure?",
+    "options": [
+      "To use a tire pressure gauge to check the pressure and adjust it as needed.",
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a jack to raise the vehicle",
+      "To use a tire iron to tighten the lug nuts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the catalytic converter in a vehicle's exhaust system?",
+    "options": [
+      "To cool the engine oil",
+      "To reduce the engine torque",
+      "To reduce the emissions of pollutants from the vehicle's engine.",
+      "To increase the engine speed"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the vehicle's cooling system?",
+    "options": [
+      "To provide additional support to the vehicle's frame",
+      "To regulate engine temperature",
+      "To supply fuel to the engine",
+      "To clean the air entering the engine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's battery voltage?",
+    "options": [
+      "To use a lug wrench to loosen the lug nuts",
+      "To use a jack to raise the vehicle",
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a multimeter to check the voltage and adjust it as needed."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the vehicle's seatbelts?",
+    "options": [
+      "To restrain the occupants and prevent injury or harm in the event of an accident.",
+      "To decrease the vehicle's comfort features",
+      "To reduce the vehicle's fuel efficiency",
+      "To increase the vehicle's speed"
+    ],
+    "correctIndex": 0
   }
 ]

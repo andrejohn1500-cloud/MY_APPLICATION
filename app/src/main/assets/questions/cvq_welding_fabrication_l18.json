@@ -1,152 +1,122 @@
 [
   {
-    "question": "When performing a Charpy impact test on a welded joint, what does the test primarily measure?",
+    "question": "What is the recommended technique for repairing a cracked weld?",
     "options": [
-      "The tensile strength of the weld metal",
-      "The toughness and energy absorption of the material at specified temperatures",
-      "The hardness of the heat-affected zone",
-      "The ductility of the base metal under static loading"
+      "Using a weld filler material only",
+      "Using a weld reinforcement",
+      "Using a weld repair patch with a backing plate",
+      "Using a spot weld repair"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary difference between the GTAW and GMAW welding processes?",
+    "options": [
+      "Shielding gas and electrode material",
+      "Electrode material and heat input",
+      "Welding current and shielding gas",
+      "Shielding gas and welding current"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the effect of incorrect weld metal composition on the MIG welding process?",
+    "options": [
+      "Porosity and lack of fusion",
+      "Improved arc stability",
+      "Reduced heat input",
+      "Increased weld penetration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of using a welding fixture in the welding process?",
+    "options": [
+      "To reduce the heat input",
+      "To increase the welding speed",
+      "To improve the weld penetration",
+      "To ensure accurate and consistent joint alignment and fit-up"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended procedure for inspecting a MIG weld for defects?",
+    "options": [
+      "Using a radiographic inspection and a high-resolution camera",
+      "Using a ultrasonic inspection and a low-frequency probe",
+      "Using a visual inspection and a magnifying glass",
+      "Using a magnetic particle inspection and a high-frequency coil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the effect of increasing the electrode size on the weld pool size?",
+    "options": [
+      "No effect",
+      "Remains the same",
+      "Decreased",
+      "Increased"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of increasing the shielding gas flow rate on the weld pool size?",
+    "options": [
+      "Remains the same",
+      "Increased",
+      "No effect",
+      "Decreased"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which welding defect is characterized by incomplete fusion between the weld metal and the base metal at the weld toe?",
+    "question": "What is the effect of incorrect gas flow on the MIG welding process?",
     "options": [
-      "Porosity",
-      "Undercut",
-      "Lack of fusion",
-      "Overlap"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In SMAW welding, what is the primary purpose of the flux coating on the electrode?",
-    "options": [
-      "To increase the current-carrying capacity of the electrode",
-      "To provide shielding gas, slag protection, and stabilize the arc",
-      "To preheat the base metal prior to welding",
-      "To add alloying elements only to increase hardness"
+      "Reduced heat input",
+      "Porosity and lack of fusion",
+      "Improved arc stability",
+      "Increased weld penetration"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the minimum preheat temperature typically required when welding high-carbon steel (carbon content above 0.45%) to prevent cold cracking?",
+    "question": "What is the recommended procedure for grinding a weld to remove slag and oxides?",
     "options": [
-      "50\u00b0C",
-      "100\u00b0C",
-      "200\u00b0C",
-      "300\u00b0C"
+      "Using a polishing cloth with a high grit and a high RPM",
+      "Using a grinding wheel with a fine grit and a high RPM",
+      "Using a grinding wheel with a coarse grit and a low RPM",
+      "Using a sanding belt with a low grit and a low RPM"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which non-destructive testing method is most effective for detecting subsurface discontinuities in ferromagnetic welds without surface access from both sides?",
+    "question": "What is the purpose of using a welding fixture in the TIG welding process?",
     "options": [
-      "Liquid penetrant testing",
-      "Magnetic particle testing",
-      "Ultrasonic testing",
-      "Visual inspection"
+      "To increase the welding speed",
+      "To improve the weld penetration",
+      "To ensure accurate and consistent joint alignment and fit-up",
+      "To reduce the heat input"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In TIG (GTAW) welding of aluminium, which type of current and polarity is preferred and why?",
+    "question": "What is the recommended procedure for inspecting a TIG weld for defects?",
     "options": [
-      "DCEN, because it provides deeper penetration",
-      "DCEP, because it produces maximum heat in the base metal",
-      "AC, because it provides arc cleaning action and adequate penetration",
-      "DCEN with high frequency, because it eliminates the oxide layer most effectively"
+      "Using a ultrasonic inspection and a low-frequency probe",
+      "Using a radiographic inspection and a high-resolution camera",
+      "Using a visual inspection and a magnifying glass",
+      "Using a magnetic particle inspection and a high-frequency coil"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the significance of the heat-affected zone (HAZ) grain growth in structural steel welds?",
+    "question": "What is the effect of incorrect electrode polarity on the MIG welding process?",
     "options": [
-      "It increases the toughness of the joint significantly",
-      "It reduces hardness and increases ductility uniformly",
-      "It can reduce toughness and increase susceptibility to brittle fracture",
-      "It has no significant effect on mechanical properties"
+      "Porosity and lack of fusion",
+      "Increased weld penetration",
+      "Improved arc stability",
+      "Reduced heat input"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When calculating the leg length of a fillet weld required to carry a specific load, which formula correctly relates throat thickness (a) to leg length (z)?",
-    "options": [
-      "a = z \u00d7 1.414",
-      "a = z \u00d7 0.707",
-      "a = z \u00d7 0.500",
-      "a = z \u00d7 1.155"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which electrode classification according to AWS A5.1 is suitable for welding in all positions and uses DC electrode positive (DCEP) or AC?",
-    "options": [
-      "E6010",
-      "E6013",
-      "E7018",
-      "E6012"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plasma arc cutting, what role does the pilot arc play in the cutting process?",
-    "options": [
-      "It melts the base metal before the transferred arc initiates",
-      "It provides additional shielding gas to the cutting zone",
-      "It ionizes the gas to create a conductive path allowing the main arc to transfer to the workpiece",
-      "It preheats the electrode to operating temperature"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary cause of lamellar tearing in welded structures?",
-    "options": [
-      "Excessive heat input during welding",
-      "Low through-thickness ductility of the base metal combined with high restraint stresses",
-      "Hydrogen embrittlement in the weld metal",
-      "Incorrect filler metal selection causing solidification cracking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to AWS D1.1 Structural Welding Code, what type of weld joint requires complete joint penetration (CJP) for primary tensile stress applications?",
-    "options": [
-      "Fillet weld on a lap joint",
-      "Partial joint penetration groove weld",
-      "Complete joint penetration groove weld",
-      "Plug weld"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In MIG/MAG (GMAW) welding, what transfer mode is characterized by large droplets transferring across the arc in a short circuit manner at low voltage and current settings?",
-    "options": [
-      "Spray transfer",
-      "Globular transfer",
-      "Short-circuit transfer",
-      "Pulsed transfer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When performing radiographic testing (RT) on a weld, the image quality indicator (IQI) is used to determine what?",
-    "options": [
-      "The exact location of all subsurface defects",
-      "The sensitivity and quality of the radiographic technique",
-      "The chemical composition of the weld metal",
-      "The hardness profile across the weld cross-section"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the principal metallurgical reason for post-weld heat treatment (PWHT) applied to pressure vessel welds made from alloy steel?",
-    "options": [
-      "To increase the carbon content of the weld metal",
-      "To relieve residual stresses and temper the HAZ microstructure, reducing hardness and hydrogen cracking susceptibility",
-      "To re-austenitize the weld metal for improved grain structure",
-      "To eliminate all porosity remaining after welding"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

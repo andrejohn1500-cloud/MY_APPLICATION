@@ -1,52 +1,72 @@
 [
   {
-    "question": "What is the purpose of using a roux to thicken a sauce?",
+    "question": "What is the correct procedure for storing cleaning chemicals in a kitchen to prevent accidents and contamination?",
     "options": [
-      "To create a creamy texture",
-      "To add flavor to the sauce",
-      "To create a smooth and stable emulsion by mixing the starches with the fat and liquid.",
-      "To thicken the sauce quickly"
+      "Store cleaning chemicals in a well-ventilated area away from food and cooking utensils",
+      "Store cleaning chemicals in a locked cabinet",
+      "Use cleaning chemicals near a heat source",
+      "Leave cleaning chemicals on the counter"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "How should a commercial kitchen's floors be maintained?",
+    "question": "What is the term for the process of cooking food in liquid over low heat for a long period of time?",
     "options": [
-      "Only cleaning the floors",
-      "Regularly cleaning and sanitizing the floors, and checking for any cracks or damage.",
-      "Not maintaining the floors",
-      "Only sanitizing the floors"
+      "Braising",
+      "Searing",
+      "Poaching",
+      "Roasting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of preparing a mixture of ingredients to be used as a base for soups and sauces?",
+    "options": [
+      "Garnish preparation",
+      "Stock preparation",
+      "Sauce preparation",
+      "Soup preparation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the name of the process where food is cooked in a sauce or liquid with high heat?",
+    "question": "What is the recommended temperature for storing cooked foods in a refrigerator to prevent bacterial growth?",
     "options": [
-      "Steaming",
-      "Searing.",
-      "Boiling",
-      "Frying"
+      "0\u00b0C",
+      "5\u00b0C",
+      "15\u00b0C",
+      "20\u00b0C"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the importance of labeling and dating food in a commercial kitchen?",
+    "question": "What is the correct procedure for handling raw eggs in a kitchen to prevent the risk of salmonella?",
     "options": [
-      "Speeds up cooking times",
-      "Improves food presentation",
-      "Increases food sales",
-      "Ensures the food is used before it spoils and prevents cross-contamination."
+      "Wash raw eggs under cold running water",
+      "Use raw eggs at room temperature",
+      "Use raw eggs without refrigeration",
+      "Use pasteurized eggs or cook eggs thoroughly"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the process where yeast dough is allowed to rise for the first time before shaping?",
+    "question": "What is the term for the process of combining ingredients to create a smooth and consistent texture?",
     "options": [
-      "First proofing.",
-      "Kneading",
-      "Second proofing",
-      "Fermenting"
+      "Folding",
+      "Whipping",
+      "Beating",
+      "Emulsifying"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary nutrient that is essential for healthy eye function and vision?",
+    "options": [
+      "Vitamin E",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
   }
 ]

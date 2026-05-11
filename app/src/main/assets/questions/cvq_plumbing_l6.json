@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary purpose of a pressure reducing valve (PRV) in a plumbing system?",
+    "question": "What is the main purpose of a pressure relief valve in a water supply system?",
     "options": [
-      "To increase water pressure to fixtures",
-      "To reduce and maintain a steady downstream pressure",
-      "To prevent backflow into the water supply",
-      "To regulate water temperature"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of pipe joint is most commonly used when connecting copper pipes in domestic plumbing installations?",
-    "options": [
-      "Flanged joint",
-      "Compression joint or soldered capillary joint",
-      "Screwed socket joint",
-      "Spigot and socket joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'hydraulic gradient' refer to in drainage design?",
-    "options": [
-      "The water pressure at the highest point of the system",
-      "The slope of the energy line along a pipe run",
-      "The total head loss across a valve",
-      "The ratio of pipe diameter to flow velocity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a hot and cold water system, what is the recommended maximum temperature setting for a domestic hot water storage cylinder to prevent Legionella growth?",
-    "options": [
-      "45\u00b0C",
-      "50\u00b0C",
-      "60\u00b0C",
-      "70\u00b0C"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes a 'trap seal' in sanitary plumbing?",
-    "options": [
-      "A mechanical device that locks a drain shut",
-      "A water barrier in a trap that prevents foul gases from entering a building",
-      "A rubber gasket that seals a pipe joint",
-      "A pressure relief mechanism on a water heater"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What minimum fall is generally recommended for a 100 mm diameter soil and waste pipe in a domestic drainage system?",
-    "options": [
-      "1 in 10",
-      "1 in 40",
-      "1 in 80",
-      "1 in 200"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which material is most resistant to dezincification and therefore preferred for valves in aggressive water conditions?",
-    "options": [
-      "Standard brass",
-      "Gunmetal or dezincification-resistant (DR) brass",
-      "Mild steel",
-      "PVC-U"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of an air admittance valve (AAV) in a sanitary pipework system?",
-    "options": [
-      "To release excess pressure from the hot water cylinder",
-      "To allow air into the drainage system to maintain trap seals without an open vent stack",
-      "To admit fresh air into a roof space",
-      "To control airflow in a mechanical ventilation system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under CVQ plumbing standards, which document would a plumber refer to for guidance on the installation of above-ground drainage systems?",
-    "options": [
-      "BS EN 12056",
-      "BS 6700",
-      "BS EN 1057",
-      "BS 5306"
+      "To relieve excess pressure in the system",
+      "To filter water",
+      "To increase water pressure",
+      "To reduce pipe friction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A ball valve is found to be passing water continuously. What is the most likely cause?",
+    "question": "Which of the following sanitary fittings is used to connect a pipe to a pipe of a different size?",
     "options": [
-      "The supply pressure is too low",
-      "The float arm is set too high or the float or valve seat is worn",
-      "The pipe diameter is too small",
-      "The water is too cold"
+      "Elbow",
+      "Tee",
+      "Coupling",
+      "Reducer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standard, what is the minimum distance required between a water meter and a water heater?",
+    "options": [
+      "2 feet",
+      "6 feet",
+      "5 feet",
+      "3 feet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following materials is commonly used for making water supply pipes in the Caribbean?",
+    "options": [
+      "Stainless Steel",
+      "Lead",
+      "Cast Iron",
+      "CPVC"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended method for inspecting a water heater for leaks?",
+    "options": [
+      "Flow test",
+      "Ultrasonic test",
+      "Water pressure test",
+      "Visual inspection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended method for inspecting a plumbing system for leaks?",
+    "options": [
+      "Water pressure test",
+      "Visual inspection",
+      "Flow test",
+      "Ultrasonic test"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What type of boiler operates without a stored hot water cylinder, heating water instantaneously on demand?",
+    "question": "A 1 1/2 inch pipe has a flow rate of 6.6 gallons per minute. What is the flow rate of a 1 inch pipe?",
     "options": [
-      "Regular (conventional) boiler",
-      "System boiler",
-      "Combination (combi) boiler",
-      "Back boiler"
+      "3.3 gallons per minute",
+      "5.5 gallons per minute",
+      "2.2 gallons per minute",
+      "4.4 gallons per minute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following tools is used to tighten or loosen pipe fittings?",
+    "options": [
+      "Pipe level",
+      "Pipe caliper",
+      "Pipe cutter",
+      "Pipe wrench"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standard, what is the maximum allowed backflow in a water supply system?",
+    "options": [
+      "1%",
+      "2%",
+      "3%",
+      "4%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a shut-off valve in a plumbing system?",
+    "options": [
+      "To shut off water supply to a fixture or area",
+      "To increase water pressure",
+      "To purify water",
+      "To filter water"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standard, what is the minimum required clearance between a pipe and a combustible material?",
+    "options": [
+      "18 inches",
+      "6 inches",
+      "24 inches",
+      "12 inches"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a booster pump in a plumbing system?",
+    "options": [
+      "To filter water",
+      "To purify water",
+      "To increase water pressure",
+      "To decrease water pressure"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which test is used to check the soundness of above-ground sanitary pipework after installation?",
+    "question": "What is the recommended method for testing a water softener?",
     "options": [
-      "Hydraulic pressure test at 1.5 bar",
-      "Air or smoke test to confirm no leaks or trap seal loss",
-      "Ultrasonic thickness test",
-      "Electrical continuity test"
+      "Using a water testing kit",
+      "Using a pipe wrench",
+      "Using a drain cleaner",
+      "Using a plunger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended method for cleaning a water filter?",
+    "options": [
+      "Using a plunger",
+      "Using a filter cleaning solution or backwashing",
+      "Using a drain cleaner",
+      "Using a pipe wrench"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of a thermostatic mixing valve (TMV) installed at a point of use such as a shower or basin?",
+    "question": "What is the primary function of a boiler in a plumbing system?",
     "options": [
-      "To boost cold water pressure",
-      "To blend hot and cold water to a safe, preset temperature to prevent scalding",
-      "To prevent water hammer in the pipework",
-      "To filter sediment from the water supply"
+      "To purify water",
+      "To pressurize water",
+      "To cool water",
+      "To heat water for use in a building"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a gravity-fed central heating system, what component separates the heating circuit water from the potable water in the indirect hot water cylinder?",
-    "options": [
-      "The expansion vessel",
-      "The heat exchanger coil inside the cylinder",
-      "The pressure relief valve",
-      "The motorised zone valve"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When carrying out a first-fix plumbing installation, what is the correct sequence for positioning pipework within stud partition walls?",
-    "options": [
-      "Install pipes after plastering and decoration are complete",
-      "Mark out, drill or notch the studwork within permitted limits, then run and clip pipes before the wall is boarded",
-      "Run pipes on the surface and box them in after boarding",
-      "Install pipes only after the second-fix stage is complete"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

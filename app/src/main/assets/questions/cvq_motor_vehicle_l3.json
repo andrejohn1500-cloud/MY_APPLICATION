@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "question": "What is the main function of a vehicle's electronic parking brake?",
+    "options": [
+      "To increase the vehicle's fuel efficiency",
+      "To automatically engage and disengage the parking brake based on the vehicle's speed and position",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's speed limit warning system?",
+    "options": [
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To alert the driver of an upcoming speed limit and adjust speed accordingly"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of a vehicle's forward collision warning system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To alert the driver of a potential collision with a vehicle or pedestrian ahead",
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's tire pressure monitoring system (TPMS)?",
+    "options": [
+      "To display the vehicle's speed and distance traveled",
+      "To monitor the air pressure in the vehicle's tires and alert the driver if it falls below a safe level",
+      "To detect any leaks in the vehicle's engine",
+      "To monitor the vehicle's fuel level and range"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's fuel injector?",
+    "options": [
+      "To improve the vehicle's fuel efficiency",
+      "To spray fuel into the engine's intake manifold for combustion",
+      "To increase the engine's power output",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's braking system?",
+    "options": [
+      "To enhance the vehicle's traction and grip",
+      "To slow or stop the vehicle by converting its kinetic energy into heat energy",
+      "To improve the vehicle's acceleration",
+      "To increase the vehicle's top speed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's power steering pump?",
+    "options": [
+      "To provide hydraulic pressure to assist the driver in steering the vehicle",
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's acceleration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of a vehicle's timing belt?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's fuel efficiency",
+      "To increase the engine's power output",
+      "To synchronize the rotation of the engine's valves and pistons"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's automatic emergency braking system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's braking performance",
+      "To automatically apply the brakes to prevent or mitigate a collision"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's coolant system?",
+    "options": [
+      "To enhance the vehicle's braking performance",
+      "To regulate the engine's temperature and prevent overheating",
+      "To increase the engine's power output",
+      "To improve the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a battery isolator switch in a vehicle's electrical system?",
+    "options": [
+      "To power the radio and lights",
+      "To monitor the battery voltage",
+      "To disconnect the battery from the electrical system when not in use",
+      "To charge the battery from an external source"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's spark plug?",
+    "options": [
+      "To enhance the vehicle's braking performance",
+      "To ignite the fuel-air mixture in the engine's cylinders",
+      "To improve the vehicle's fuel efficiency",
+      "To increase the engine's power output"
+    ],
+    "correctIndex": 1
+  }
+]

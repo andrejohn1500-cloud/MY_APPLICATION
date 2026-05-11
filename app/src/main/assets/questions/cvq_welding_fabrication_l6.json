@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which welding process uses a non-consumable tungsten electrode and an inert shielding gas?",
+    "question": "What is the term for the process of removing the oxide layer from a metal surface before welding?",
     "options": [
-      "SMAW",
-      "GMAW",
-      "GTAW",
-      "FCAW"
+      "Scoring",
+      "Rust removal",
+      "Pickling",
+      "Scrubbing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the term 'root penetration' refer to in a welded joint?",
+    "question": "Which of the following cutting techniques uses a jet of compressed air to remove molten metal?",
     "options": [
-      "The depth of fusion at the face of the weld",
-      "The degree to which the weld metal extends into the root of the joint",
-      "The width of the heat-affected zone",
-      "The distance between the two base metal pieces"
+      "Plasma cutting",
+      "Air carbon arc cutting",
+      "Mechanical shearing",
+      "Oxy-fuel cutting"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which destructive test is used to determine the maximum load a welded specimen can withstand before fracture?",
+    "question": "What is the term for the process of controlling the wire feed speed in a welding operation?",
     "options": [
-      "Bend test",
-      "Hardness test",
-      "Tensile test",
-      "Impact test"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In blueprint reading, what does a dashed line typically represent?",
-    "options": [
-      "A cutting plane",
-      "A hidden edge or feature",
-      "A center line",
-      "A dimension line"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of preheating base metal before welding?",
-    "options": [
-      "To increase the deposition rate",
-      "To reduce the risk of hydrogen-induced cracking and distortion",
-      "To improve arc stability",
-      "To clean the surface of contaminants"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of joint configuration is formed when two pieces of metal are placed end-to-end in the same plane?",
-    "options": [
-      "Lap joint",
-      "T-joint",
-      "Corner joint",
-      "Butt joint"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the abbreviation 'HAZ' stand for in welding?",
-    "options": [
-      "High Alloy Zone",
-      "Heat-Affected Zone",
-      "Horizontal Arc Zone",
-      "Hard Application Zone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which shielding gas is most commonly used in MIG welding of carbon steel?",
-    "options": [
-      "Pure argon",
-      "Pure helium",
-      "A mixture of argon and carbon dioxide",
-      "Pure nitrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In oxy-fuel cutting, which gas is used as the cutting agent to oxidize the metal?",
-    "options": [
-      "Acetylene",
-      "Propane",
-      "Oxygen",
-      "Nitrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of weld discontinuity is characterized by a groove melted into the base metal adjacent to the weld toe that is not filled by weld metal?",
-    "options": [
-      "Porosity",
-      "Undercut",
-      "Overlap",
-      "Incomplete fusion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to welding symbols, what does a filled circle at the intersection of the arrow line and reference line indicate?",
-    "options": [
-      "A field weld",
-      "A weld-all-around",
-      "A flush contour",
-      "A convex contour"
+      "Wire feed speed control",
+      "Amperage control",
+      "Voltage control",
+      "Shielding gas control"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes residual stress in a welded structure?",
+    "question": "What is the term for the process of heating metal to a high temperature to make it more pliable?",
     "options": [
-      "Stress applied by external loads during service",
-      "Internal stress remaining in the material after welding has cooled",
-      "Stress caused by vibration of the welding machine",
-      "Thermal stress only present while welding is in progress"
+      "Hardening",
+      "Quenching",
+      "Annealing",
+      "Tempering"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of controlling the current flow in a welding operation?",
+    "options": [
+      "Voltage control",
+      "Shielding gas control",
+      "Amperage control",
+      "Wire feed speed control"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following cutting techniques uses a jet of high-pressure abrasive to remove metal?",
+    "options": [
+      "Mechanical shearing",
+      "Oxy-fuel cutting",
+      "Waterjet cutting",
+      "Air carbon arc cutting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of inspecting a finished weld to ensure it meets quality standards?",
+    "options": [
+      "Radiographic inspection",
+      "Visual inspection",
+      "Magnetic particle inspection",
+      "Ultrasonic inspection"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the correct sequence of layers when applying a multi-pass weld in a groove joint?",
+    "question": "What type of metal is known for its high corrosion resistance and is often used in marine applications?",
     "options": [
-      "Cap pass, fill passes, root pass",
-      "Root pass, fill passes, cap pass",
-      "Fill passes, root pass, cap pass",
-      "Cap pass, root pass, fill passes"
+      "Stainless Steel",
+      "Titanium",
+      "Copper",
+      "Aluminum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of shielding gas is commonly used in MIG welding to prevent porosity?",
+    "options": [
+      "Carbon dioxide",
+      "Argon",
+      "Nitrogen",
+      "Helium"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which non-destructive testing method uses high-frequency sound waves to detect internal defects in a weld?",
+    "question": "What is the term for the process of heating metal to a high temperature to change its microstructure and properties?",
     "options": [
-      "Radiographic testing",
-      "Magnetic particle testing",
-      "Liquid penetrant testing",
-      "Ultrasonic testing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "When fabricating a structural frame, which technique is most effective in minimizing overall distortion during welding?",
-    "options": [
-      "Welding all joints in one continuous direction",
-      "Using a backstep or balanced welding sequence",
-      "Increasing the heat input on all passes",
-      "Allowing each weld to fully cool before starting the next"
+      "Tempering",
+      "Heat treatment",
+      "Normalizing",
+      "Quenching"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a welding helmet's lens shade in MIG welding?",
+    "options": [
+      "To reduce the intensity of the arc and protect the welder's eyes",
+      "To provide a clear view of the weld area",
+      "To increase the visibility of the weld pool",
+      "To protect the helmet from sparks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of joint is created when two pieces of metal are joined with a groove or recess in one piece?",
+    "options": [
+      "Groove joint",
+      "T-butt joint",
+      "Butt joint",
+      "Lap joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of metal is known for its high strength and resistance to corrosion, but is also prone to embrittlement?",
+    "options": [
+      "Stainless steel",
+      "Copper",
+      "Brass",
+      "Aluminum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of metal is known for its high strength-to-weight ratio and is often used in aerospace applications?",
+    "options": [
+      "Titanium",
+      "Copper",
+      "Stainless Steel",
+      "Aluminum"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of controlling the temperature of a weld joint during the cooling process?",
+    "options": [
+      "Normalizing",
+      "Annealing",
+      "Quenching",
+      "Tempering"
+    ],
+    "correctIndex": 2
   }
 ]

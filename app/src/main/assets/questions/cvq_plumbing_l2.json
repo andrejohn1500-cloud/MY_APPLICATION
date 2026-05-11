@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does the abbreviation 'PPE' stand for in the plumbing trade?",
+    "question": "What is the primary function of a drain cleaner in a plumbing system?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Plumbing Equipment",
-      "Pipe Pressure Estimation",
-      "Protective Plumbing Engineering"
+      "To cut pipes to the correct length",
+      "To clear blockages in drains",
+      "To connect pipes together",
+      "To heat pipes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a water softener in a plumbing system?",
+    "options": [
+      "To reduce water flow",
+      "To increase water pressure",
+      "To remove minerals from the water",
+      "To heat water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a plumber's snake in a plumbing system?",
+    "options": [
+      "To connect pipes together",
+      "To heat pipes",
+      "To cut pipes to the correct length",
+      "To clear blockages in pipes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standards, what is the maximum allowed pressure for a drain pipe in a residential area?",
+    "options": [
+      "50 psi",
+      "100 psi",
+      "200 psi",
+      "150 psi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a backflow preventer in a plumbing system?",
+    "options": [
+      "To reduce water flow",
+      "To increase water pressure",
+      "To prevent contaminated water from entering the drinking water supply",
+      "To heat water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standards, what is the minimum clearance required between a pipe and a wall in a residential area?",
+    "options": [
+      "200mm",
+      "500mm",
+      "300mm",
+      "400mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a drain trap in a plumbing system?",
+    "options": [
+      "To prevent sewer gases from entering the building",
+      "To increase water pressure",
+      "To heat water",
+      "To reduce water flow"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of pipe is commonly used for domestic cold water supply due to its corrosion resistance?",
+    "question": "Which of the following is a type of safety personal protective equipment in a plumbing system?",
     "options": [
-      "Cast iron pipe",
-      "Copper pipe",
-      "Galvanized steel pipe",
-      "Clay pipe"
+      "Safety goggles",
+      "Gloves",
+      "First aid kit",
+      "Hearing protection"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of a P-trap in a plumbing system?",
+    "question": "What is the purpose of a drain trap in a plumbing system?",
     "options": [
       "To increase water pressure",
       "To prevent sewer gases from entering the building",
-      "To filter sediment from water",
-      "To measure water flow rate"
+      "To reduce water flow",
+      "To heat water"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which tool is used to cut copper pipe cleanly without deforming it?",
+    "question": "What is the primary function of a plumber's snake in a plumbing system?",
     "options": [
-      "Hacksaw",
-      "Pipe cutter",
-      "Chisel",
-      "Jigsaw"
+      "To connect pipes together",
+      "To cut pipes to the correct length",
+      "To heat pipes",
+      "To clear blockages in pipes"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the standard color code for cold water pipes in most plumbing systems?",
+    "question": "Which of the following is a type of safety regulation in plumbing?",
     "options": [
-      "Red",
-      "Green",
-      "Blue",
-      "Yellow"
+      "Using personal protective equipment",
+      "Not wearing a hard hat",
+      "Not reporting accidents",
+      "Not following manufacturer's instructions"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which valve is used to completely stop water flow in a pipeline?",
+    "question": "What is the purpose of a vent pipe in a plumbing system?",
     "options": [
-      "Check valve",
-      "Gate valve",
-      "Pressure reducing valve",
-      "Float valve"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What material is commonly used as a jointing compound to seal threaded pipe connections?",
-    "options": [
-      "Cement mortar",
-      "PTFE tape",
-      "Silicone sealant",
-      "Epoxy resin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a float valve control in a cistern?",
-    "options": [
-      "Water temperature",
-      "Water pressure",
-      "The level of water in the cistern",
-      "The flow rate of hot water"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a safe practice when using a blowtorch for soldering copper pipes?",
-    "options": [
-      "Work near flammable materials",
-      "Use a heat shield to protect surrounding surfaces",
-      "Leave the blowtorch unattended while lit",
-      "Solder in an enclosed space without ventilation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main function of a water meter?",
-    "options": [
+      "To allow air to enter the system",
       "To heat water",
-      "To filter impurities from water",
-      "To measure the volume of water consumed",
-      "To regulate water pressure"
+      "To reduce water flow",
+      "To increase water pressure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a water filter in a plumbing system?",
+    "options": [
+      "To remove impurities from the water",
+      "To heat water",
+      "To increase water pressure",
+      "To reduce water flow"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a pipe cutter in plumbing?",
+    "options": [
+      "To bend pipes into shape",
+      "To connect pipes together",
+      "To cut pipes to the correct length",
+      "To heat pipes"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of joint is used to connect two pieces of copper pipe by using heat and solder?",
+    "question": "According to the Caribbean Plumbing Standards, what is the minimum slope required for a drain pipe?",
     "options": [
-      "Push-fit joint",
-      "Compression joint",
-      "Soldered capillary joint",
-      "Flanged joint"
+      "1 in 60",
+      "1 in 20",
+      "1 in 80",
+      "1 in 40"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'potable water' mean?",
-    "options": [
-      "Hot water used for heating",
-      "Water that is safe for drinking",
-      "Recycled grey water",
-      "Salt water from the sea"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which instrument is used to measure water pressure in a plumbing system?",
-    "options": [
-      "Thermometer",
-      "Barometer",
-      "Pressure gauge",
-      "Flow meter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a stopcock in a plumbing system?",
-    "options": [
-      "To heat the water supply",
-      "To increase water flow",
-      "To isolate the water supply so it can be turned off",
-      "To remove air from pipes"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a common cause of water hammer in a plumbing system?",
-    "options": [
-      "Slow closing of taps",
-      "Pipes being too large",
-      "Rapid closure of valves causing pressure surge",
-      "Low water temperature"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

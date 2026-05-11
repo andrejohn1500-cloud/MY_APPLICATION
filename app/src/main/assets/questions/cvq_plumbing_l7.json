@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary purpose of a pressure relief valve in a hot water system?",
+    "question": "According to the Caribbean Plumbing Standard, what is the maximum allowed backpressure for a drainage system?",
     "options": [
-      "To regulate water flow rate",
-      "To prevent excessive pressure buildup that could cause system failure",
-      "To control water temperature at the tap",
-      "To reduce water hammer in pipes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which pipe material is most commonly used for underground water supply lines due to its corrosion resistance?",
-    "options": [
-      "Galvanized steel",
-      "Copper",
-      "uPVC",
-      "Cast iron"
+      "15 psi",
+      "5 psi",
+      "10 psi",
+      "20 psi"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When installing a trap for a sanitary fixture, what is the minimum water seal depth required by most plumbing codes?",
+    "question": "Which of the following sanitary fittings is used to connect a pipe to a fixture?",
     "options": [
-      "25 mm",
-      "50 mm",
-      "75 mm",
-      "100 mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'fall' refer to in drainage system design?",
-    "options": [
-      "The total drop in elevation from source to outlet",
-      "The gradient or slope of a drain pipe to ensure self-cleansing flow",
-      "The water pressure loss in a horizontal pipe",
-      "The rate at which water enters a drainage system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of joint is most appropriate when connecting copper pipes in a domestic hot water system?",
-    "options": [
-      "Push-fit joint",
-      "Capillary solder joint",
-      "Compression joint",
-      "Flanged joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A ball valve in a cold water storage cistern is used primarily to:",
-    "options": [
-      "Control the pressure within the cistern",
-      "Shut off flow to the cistern completely",
-      "Automatically maintain the correct water level in the cistern",
-      "Prevent backflow into the mains supply"
+      "Reducer",
+      "Trough",
+      "Elbow",
+      "Tee"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the recommended minimum gradient for a 100 mm diameter soil pipe to ensure adequate self-cleansing velocity?",
+    "question": "Which of the following sanitary fittings is used to connect multiple pipes together?",
     "options": [
-      "1 in 20",
-      "1 in 40",
-      "1 in 80",
-      "1 in 100"
+      "Coupling",
+      "Elbow",
+      "Reducer",
+      "Tee"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which type of water heater heats water only when it is demanded at the outlet, with no storage tank?",
+    "question": "What is the recommended method for repairing a leaking pipe?",
     "options": [
-      "Indirect cylinder",
-      "Vented storage heater",
-      "Instantaneous water heater",
-      "Combination boiler indirect heater"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a one-pipe sanitary system, all fixtures discharge into:",
-    "options": [
-      "Separate soil and waste stacks",
-      "A single main stack that carries both soil and waste",
-      "Individual drain connections at ground level",
-      "A common vented loop"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the function of an air admittance valve (AAV) in a plumbing system?",
-    "options": [
-      "To release excess air pressure from water supply pipes",
-      "To allow air into the drainage system to prevent siphonage of traps without an open vent pipe",
-      "To admit fresh air into a boiler combustion chamber",
-      "To balance pressure between hot and cold supply lines"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When carrying out a soundness test on a newly installed gas pipework system, which test medium is typically used?",
-    "options": [
-      "Water under mains pressure",
-      "Nitrogen gas at high pressure",
-      "Air or an inert gas at low pressure",
-      "Natural gas at working pressure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which British/ISO standard governs the installation of above-ground drainage and sanitary pipework in buildings?",
-    "options": [
-      "BS EN 806",
-      "BS EN 12056",
-      "BS 6700",
-      "BS 7671"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a duct or sleeve when a pipe passes through a structural wall or floor?",
-    "options": [
-      "To improve thermal insulation of the pipe",
-      "To allow for thermal movement and protect the pipe from structural loads",
-      "To prevent water hammer in the pipe",
-      "To increase flow velocity through the wall opening"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Electrolytic corrosion in plumbing systems is most likely to occur when:",
-    "options": [
-      "Two dissimilar metals are in direct contact in the presence of an electrolyte",
-      "Plastic and copper pipes are connected using compression fittings",
-      "A copper pipe runs through a concrete wall",
-      "Hard water flows through galvanized steel pipes"
+      "Using a pipe repair kit or epoxy",
+      "Using a pipe cutter",
+      "Using a pipe caliper",
+      "Using a pipe wrench"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What instrument is used to measure the flow rate of water in a plumbing system?",
+    "question": "According to the Caribbean Plumbing Standard, what is the minimum required clearance between a pipe and an electrical wire?",
     "options": [
-      "Manometer",
-      "Flow meter",
-      "Hygrometer",
-      "Barometer"
+      "18 inches",
+      "6 inches",
+      "12 inches",
+      "24 inches"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standards, what is the maximum allowed pressure for a drain pipe in a commercial area?",
+    "options": [
+      "100 psi",
+      "200 psi",
+      "250 psi",
+      "150 psi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended minimum slope for a drainage pipe in the Caribbean?",
+    "options": [
+      "1/8 inch per foot",
+      "1 inch per foot",
+      "1/4 inch per foot",
+      "1/2 inch per foot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended method for cleaning a clogged drain?",
+    "options": [
+      "Using a plunger",
+      "Using a pipe wrench",
+      "Using a drain cleaner",
+      "Using a drain snake or plumber's auger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a check valve in a plumbing system?",
+    "options": [
+      "To filter water",
+      "To reduce pipe friction",
+      "To prevent backflow of water",
+      "To increase water pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standard, what is the minimum required number of vent pipes in a drainage system?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standard, what is the maximum allowed temperature for a water heater?",
+    "options": [
+      "140\u00b0F",
+      "100\u00b0F",
+      "120\u00b0F",
+      "150\u00b0F"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following tools is used to measure the depth of a pipe?",
+    "options": [
+      "Pipe wrench",
+      "Pipe cutter",
+      "Pipe level",
+      "Pipe caliper"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a backflow preventer in a plumbing system?",
+    "options": [
+      "To heat water",
+      "To prevent contaminated water from entering the drinking water supply",
+      "To reduce water flow",
+      "To increase water pressure"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following tools is used to tighten or loosen pipe fittings in a confined space?",
+    "options": [
+      "Adjustable wrench",
+      "Pipe caliper",
+      "Pipe cutter",
+      "Pipe level"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following sanitary fittings is used to connect a pipe to a wall or floor?",
+    "options": [
+      "Tee",
+      "Elbow",
+      "Nipple",
+      "Coupling"
+    ],
+    "correctIndex": 2
   }
 ]

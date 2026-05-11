@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the process of ensuring that data is not deleted or modified accidentally or maliciously?",
+    "question": "What is the primary function of a router in a computer network?",
     "options": [
-      "Data Integrity",
-      "Data Availability",
-      "Data Authenticity",
-      "Data Confidentiality"
+      "To direct traffic between networks",
+      "To provide power to the computer",
+      "To connect peripherals to the computer",
+      "To share files and printers with other computers"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the main purpose of a Network Interface Card (NIC) in a computer system?",
+    "question": "Which of the following software applications is primarily used for creating vector graphics?",
     "options": [
-      "Connecting peripherals to the computer",
-      "Running software applications",
-      "Providing power to the computer system",
-      "Enabling network connectivity and data transfer"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a Hub in a computer network?",
-    "options": [
-      "Directing data packets between networks",
-      "Encrypting data for secure transmission",
-      "Authenticating user identities",
-      "Connecting multiple devices on the same network"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the main purpose of a Firewall in a computer network?",
-    "options": [
-      "Authenticating user identities",
-      "Encrypting data for secure transmission",
-      "Blocking unauthorized access to the network",
-      "Allowing all incoming and outgoing connections"
+      "Microsoft Word",
+      "Google Docs",
+      "Adobe Illustrator",
+      "Adobe Photoshop"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a Scanner in a computer system?",
+    "question": "What is the term for a type of malware that is designed to monitor a user's activities?",
     "options": [
-      "Converting physical documents into digital format",
-      "Providing power to the computer system",
-      "Connecting peripherals to the computer",
-      "Running software applications"
+      "Spyware malware",
+      "Keylogger malware",
+      "Ransomware malware",
+      "Trojan malware"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of protecting sensitive information from unauthorized access or disclosure?",
+    "question": "What is the primary function of an operating system?",
     "options": [
-      "Data Availability",
-      "Data Confidentiality",
-      "Data Authenticity",
-      "Data Integrity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a central processing unit (CPU)?",
-    "options": [
-      "To execute instructions and perform calculations",
-      "To connect peripherals to the computer",
-      "To store data and programs",
-      "To display images on the screen"
+      "To manage computer hardware resources and provide a platform for running applications",
+      "To create and edit databases",
+      "To connect to the internet and access websites",
+      "To send and receive emails"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of protecting a computer system and its data from unauthorized access or malicious activities?",
+    "question": "Which of the following software applications is used for creating and editing documents?",
     "options": [
-      "Network Administration",
-      "Cybersecurity",
-      "System Maintenance",
-      "Data Backup and Recovery"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main purpose of a Firewall in a mobile device?",
-    "options": [
-      "Encrypting data for secure transmission",
-      "Authenticating user identities",
-      "Allowing all incoming and outgoing connections",
-      "Blocking unauthorized access to the device"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a Sound Card in a computer system?",
-    "options": [
-      "Outputting and processing audio signals",
-      "Providing power to the computer system",
-      "Connecting peripherals to the computer",
-      "Running software applications"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of software application used for creating and editing spreadsheets?",
-    "options": [
-      "Spreadsheets Software",
-      "Presentation Software",
+      "Spreadsheet Software",
+      "Graphics Software",
       "Word Processing Software",
-      "Database Management Software"
+      "Database Software"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of malware that is designed to steal sensitive information?",
+    "options": [
+      "Keylogger malware",
+      "Ransomware malware",
+      "Spyware malware",
+      "Trojan malware"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a Storage Drive in a computer system?",
+    "question": "Which of the following Caribbean ICT applications is primarily used for online payments?",
     "options": [
-      "Providing power to the computer system",
-      "Storing data and applications long-term",
-      "Connecting peripherals to the computer",
-      "Running software applications"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of Caribbean ICT application used for digital payments and transactions?",
-    "options": [
-      "Online Banking System",
-      "E-Government Portal",
-      "Electronic Voting System",
-      "Mobile Payment System"
+      "eBay",
+      "Amazon",
+      "Google Pay",
+      "PayPal"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a Modem in a computer system?",
+    "question": "What is the primary function of a network router in a computer network?",
     "options": [
-      "Enabling internet connection via dial-up or broadband",
-      "Providing power to the computer system",
-      "Connecting peripherals to the computer",
-      "Running software applications"
+      "To share files and printers with other computers",
+      "To provide power to the computer",
+      "To direct traffic between networks",
+      "To connect peripherals to the computer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following operating systems is known for being open-source?",
+    "options": [
+      "Chrome OS",
+      "MacOS",
+      "Windows 10",
+      "Linux"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following software applications is primarily used for creating websites?",
+    "options": [
+      "Microsoft Word",
+      "Adobe Dreamweaver",
+      "Adobe Photoshop",
+      "Google Docs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a network cable in a computer network?",
+    "options": [
+      "To direct traffic between networks",
+      "To connect devices to a network",
+      "To share files and printers with other computers",
+      "To provide power to the computer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a network hub in a computer network?",
+    "options": [
+      "To provide power to the computer",
+      "To share files and printers with other computers",
+      "To direct traffic between networks",
+      "To connect devices to a network"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a network bridge in a computer network?",
+    "options": [
+      "To connect two or more networks together",
+      "To provide power to the computer",
+      "To share files and printers with other computers",
+      "To direct traffic between networks"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of ensuring that data is accurate and reliable?",
+    "question": "What is the primary function of a network switch in a computer network?",
     "options": [
-      "Data Availability",
-      "Data Integrity",
-      "Data Authenticity",
-      "Data Confidentiality"
+      "To share files and printers with other computers",
+      "To direct traffic between networks",
+      "To connect devices to a network",
+      "To provide power to the computer"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a proxy server in a computer network?",
+    "options": [
+      "To act as an intermediary between a user and the internet",
+      "To share files and printers with other computers",
+      "To provide power to the computer",
+      "To direct traffic between networks"
+    ],
+    "correctIndex": 0
   }
 ]

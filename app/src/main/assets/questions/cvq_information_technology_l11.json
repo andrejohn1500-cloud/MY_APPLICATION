@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the purpose of a backup in computer systems?",
+    "question": "What is the primary function of a Network Management System (NMS)?",
     "options": [
-      "To display graphics and images",
-      "To restore data in case of hardware failure or data loss",
-      "To encrypt data",
-      "To transfer data between devices"
+      "To manage network settings",
+      "To monitor and manage network performance",
+      "To create and edit documents",
+      "To send and receive emails"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of a proxy server in computer networks?",
+    "question": "What are the three main types of Network Threats?",
     "options": [
-      "To transfer data between devices",
-      "To act as an intermediary between a client device and a server",
-      "To allow all incoming and outgoing traffic",
-      "To display the IP address of a device"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a virus scanner in computer security?",
-    "options": [
-      "To allow all incoming and outgoing traffic",
-      "To detect and remove malware from a computer system",
-      "To transfer data between devices",
-      "To display the IP address of a device"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of encryption in computer security?",
-    "options": [
-      "To protect data from unauthorized access and malicious attacks",
-      "To display the IP address of a device",
-      "To transfer data between devices",
-      "To allow all incoming and outgoing traffic"
+      "Malware, Phishing, and Denial-of-Service (DoS)",
+      "Man-in-the-Middle, Cross-Site Scripting, SQL Injection",
+      "Network Eavesdropping, Network Tampering, Network Replay Attack",
+      "Data Breach, Insider Threat, Social Engineering"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a virus scanner in computer security?",
+    "question": "What is the primary function of a Network Address Translator (NAT)?",
     "options": [
-      "To detect and remove malware from a computer system",
-      "To display the IP address of a device",
-      "To transfer data between devices",
-      "To allow all incoming and outgoing traffic"
+      "To translate private IP addresses to public IP addresses",
+      "To encrypt data being sent across the network",
+      "To manage network bandwidth usage",
+      "To update software on a network"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a spreadsheet in office software?",
+    "question": "What is the primary function of a Wireless Access Point (WAP)?",
     "options": [
-      "To transfer data between devices",
-      "To create and manage tables of data",
-      "To execute instructions and perform calculations",
-      "To display graphics and images"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a database in a computer system?",
-    "options": [
-      "To store and manage data in a structured and organized manner",
-      "To execute instructions and perform calculations",
-      "To display graphics and images",
-      "To transfer data between devices"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the difference between a LAN switch and a LAN router?",
-    "options": [
-      "A LAN switch can only connect two devices",
-      "A LAN switch connects devices within a network, while a LAN router connects multiple networks",
-      "A LAN router is more secure than a LAN switch",
-      "A LAN switch is faster than a LAN router"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a network protocol and a network interface?",
-    "options": [
-      "A network protocol is a type of malware",
-      "A network protocol defines how data is transmitted, while a network interface defines how data is transmitted over a physical medium",
-      "A network interface is a type of virus",
-      "A network protocol can only be used over a single network"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a LAN and a WAN?",
-    "options": [
-      "A LAN is faster than a WAN",
-      "A WAN is more secure than a LAN",
-      "A LAN connects devices within a small geographic area, while a WAN connects devices over a larger geographic area",
-      "A LAN can only connect two devices"
+      "To manage network security settings",
+      "To provide internet access to a device",
+      "To connect wireless devices to a network",
+      "To configure network protocols"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a database in a computer system?",
+    "question": "What are the three main types of Network Segmentation?",
     "options": [
-      "To store and manage data in a structured and organized manner",
-      "To execute instructions and perform calculations",
-      "To display graphics and images",
-      "To transfer data between devices"
+      "Physical, Logical, and Virtual",
+      "Scalability, Flexibility, Reliability",
+      "Security, Performance, Availability",
+      "Network Address Translation, Quality of Service, Network Security"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the difference between a Trojan horse and a worm in computer security?",
+    "question": "What is the primary function of a Virtual Private Network (VPN)?",
     "options": [
-      "A worm is a type of malware",
-      "A Trojan horse is a type of virus",
-      "A Trojan horse can only be spread through email",
-      "A Trojan horse disguises itself as a legitimate program, while a worm replicates itself to spread to other devices"
+      "To update software on a network",
+      "To create a secure and encrypted connection between devices",
+      "To configure network protocols",
+      "To manage network bandwidth usage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the three main types of Network Protocols?",
+    "options": [
+      "DHCP, DNS, SMTP",
+      "POP3, IMAP, NNTP",
+      "SNMP, SSL, SSH",
+      "TCP/IP, HTTP, and FTP"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a proxy server in computer networks?",
+    "question": "What is the difference between a Virus and a Worm?",
     "options": [
-      "To transfer data between devices",
-      "To act as an intermediary between a client device and a server",
-      "To display the IP address of a device",
-      "To allow all incoming and outgoing traffic"
+      "A Virus can only infect files, while a Worm can infect the operating system",
+      "A Virus requires a host program to replicate, while a Worm can replicate independently",
+      "A Virus can only be spread through email, while a Worm can be spread through the internet",
+      "A Virus requires human interaction to spread, while a Worm can spread automatically"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are the three main components of a Computer System?",
+    "options": [
+      "Computer Keyboard, Computer Mouse, Computer Monitor",
+      "Network Hardware, Network Software, Internet Service Provider",
+      "Computer Processor, Computer Memory, Computer Storage",
+      "Hardware, Software, and Human Interface"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Database Management System (DBMS)?",
+    "options": [
+      "To create and edit documents",
+      "To manage network settings",
+      "To send and receive emails",
+      "To manage and organize large amounts of data"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are the three main types of Network Devices?",
+    "options": [
+      "Internet Service Provider, Network Protocol, Network Security",
+      "Wireless Access Point, Network Interface Card, Firewall",
+      "Network Hardware, Network Software, Network Communication",
+      "Hub, Switch, and Router"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Switch in a computer network?",
+    "options": [
+      "To provide internet access to a network",
+      "To connect multiple devices to a network and forward data packets",
+      "To configure network protocols",
+      "To manage network security settings"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a word processor in office software?",
+    "question": "What is the primary function of a Network Interface Card (NIC)?",
     "options": [
-      "To display graphics and images",
-      "To create and edit text documents",
-      "To execute instructions and perform calculations",
-      "To transfer data between devices"
+      "To configure network protocols",
+      "To connect a device to a network and enable communication",
+      "To manage network security settings",
+      "To provide internet access to a device"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the difference between a Linux and a Windows operating system?",
+    "question": "What are the three main types of Network Authentication?",
     "options": [
-      "Linux is an open-source operating system, while Windows is a proprietary operating system",
-      "Linux is a type of malware",
-      "Linux can only be used on laptops",
-      "Windows is a type of virus"
+      "Token-Based, Challenge-Response, Certificate-Based",
+      "Network Address Translation, Quality of Service, Network Security",
+      "Username and Password, Smart Card, and Biometric",
+      "Internet Protocol, Transmission Control Protocol, User Datagram Protocol"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Network Management Information Base (MIB)?",
+    "options": [
+      "To create and edit documents",
+      "To manage network settings",
+      "To send and receive emails",
+      "To collect and store network management data"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,71 +1,151 @@
 [
   {
-    "question": "Which diagnostic tool is used to measure the speed of a vehicle's engine?",
+    "question": "What is the primary function of the Power Steering Pump in a vehicle?",
     "options": [
-      "Tachometer",
-      "Oscilloscope",
-      "Multimeter",
-      "Laser thermometer"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the steering column in a vehicle's steering system?",
-    "options": [
-      "To connect the steering wheel to the tie rods",
-      "To connect the steering wheel to the steering gearbox",
-      "To connect the steering wheel to the steering column shaft",
-      "To connect the steering wheel to the power steering pump"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which diagnostic tool is used to measure the voltage of a vehicle's electrical system?",
-    "options": [
-      "Laser thermometer",
-      "Tachometer",
-      "Multimeter",
-      "Oscilloscope"
+      "To provide a means of communication between the engine computer and other systems",
+      "To regulate the engine speed and torque",
+      "To provide hydraulic pressure to the power steering system, allowing the driver to easily steer the vehicle at low speeds.",
+      "To detect and respond to potential engine problems"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which component in a vehicle's braking system is responsible for converting kinetic energy into heat energy?",
+    "question": "What type of engine timing belt is commonly used in high-performance vehicles?",
     "options": [
-      "The brake pads",
-      "The brake calipers",
-      "The brake fluid reservoir",
-      "The master cylinder"
+      "Timing chain with a high strength and a direct timing drive system",
+      "High-strength timing belt with a specialized tooth design and a direct timing drive system.",
+      "Low-stretch timing belt with a moderate strength and a specialized tooth design",
+      "Standard timing belt with a low strength and a basic tooth design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of battery is commonly used in high-performance vehicles?",
+    "options": [
+      "AGM battery with a high cranking power and a specialized maintenance-free design",
+      "High-performance battery with a high cranking power and a specialized maintenance-free design.",
+      "Deep cycle battery with a low cranking power and a specialized maintenance-free design",
+      "Standard battery with a moderate cranking power and a basic maintenance-free design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What type of wheel hub is commonly used in high-performance vehicles?",
+    "options": [
+      "Tapered roller bearing hub with a moderate load capacity and a basic seal design",
+      "Double-bearing wheel hub with a high load capacity and a specialized seal design.",
+      "Single-bearing wheel hub with a low load capacity and a standard seal design",
+      "Ball bearing hub with a high load capacity and a specialized seal design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the Electronic Brakeforce Distribution (EBD) system in a vehicle?",
+    "options": [
+      "To regulate the brake pressure and apply the brakes to the wheels with the most weight and traction, improving stopping power and stability.",
+      "To regulate the speed of the vehicle on the highway",
+      "To provide a warning system for potential crash situations",
+      "To provide a backup power source in case of a battery failure"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of the anti-roll bars in a vehicle's suspension system?",
+    "question": "What is the purpose of the Vehicle Speed Sensor in a vehicle?",
     "options": [
-      "To stiffen the suspension",
-      "To lower the vehicle",
-      "To raise the vehicle",
-      "To improve handling and stability"
+      "To regulate the engine speed and torque",
+      "To provide a means of communication between the engine computer and other systems",
+      "To detect and respond to potential engine problems",
+      "To detect the vehicle's speed and provide feedback to the engine computer and other systems, such as the cruise control and traction control systems."
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which component in a vehicle's electrical system is responsible for starting the engine?",
+    "question": "What is the purpose of the Fuel Filter in a vehicle's fuel system?",
     "options": [
-      "The starter motor",
-      "The alternator",
-      "The ignition coil",
-      "The battery"
+      "To provide a means of communication between the fuel tank and the engine",
+      "To regulate the fuel pressure and flow rate",
+      "To detect and respond to potential fuel problems",
+      "To remove contaminants and debris from the fuel before it enters the engine, preventing damage to the fuel injectors and other engine components."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the Electronic Stability Control (ESC) system in a vehicle?",
+    "options": [
+      "To regulate the speed of the vehicle on the highway",
+      "To provide a warning system for potential crash situations",
+      "To improve vehicle stability and control during cornering and emergency maneuvers by applying the brakes and reducing engine power.",
+      "To provide a backup power source in case of a battery failure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the Brake Fluid Reservoir in a vehicle's braking system?",
+    "options": [
+      "To store and supply brake fluid to the master cylinder and brake calipers.",
+      "To store and supply engine coolant",
+      "To store and supply transmission fluid",
+      "To store and supply power steering fluid"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of the differential in a vehicle's transmission?",
+    "question": "What is the function of the vehicle's fuel pump?",
     "options": [
-      "To allow the wheels to turn at different speeds",
-      "To maintain vehicle speed",
-      "To transmit power from the engine to the wheels",
-      "To regulate engine speed"
+      "To supply fuel to the engine and provide a consistent flow rate.",
+      "To reduce the engine torque",
+      "To cool the engine oil",
+      "To increase the engine speed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the Alternator in a vehicle's electrical system?",
+    "options": [
+      "To recharge the battery and supply power to the electrical system when the engine is running.",
+      "To provide a backup power source in case of a battery failure",
+      "To start the engine through a chemical reaction",
+      "To regulate the voltage of the battery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of transmission fluid is commonly used in automatic transmissions?",
+    "options": [
+      "Synthetic transmission fluid with a high lubricity rating",
+      "Manual transmission fluid with a high viscosity index",
+      "Semi-automatic transmission fluid with a low viscosity index",
+      "ATF (Automatic Transmission Fluid) with a specialized additive package."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of wheel bearing is commonly used in high-performance vehicles?",
+    "options": [
+      "Double-row wheel bearing with a high load capacity and a specialized seal design.",
+      "Tapered roller bearing with a moderate load capacity and a basic seal design",
+      "Ball bearing with a high load capacity and a specialized seal design",
+      "Single-row wheel bearing with a low load capacity and a standard seal design"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the function of the vehicle's alternator?",
+    "options": [
+      "To increase the engine speed",
+      "To cool the engine oil",
+      "To charge the battery and provide electrical power to the vehicle's systems.",
+      "To reduce the engine torque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the Oxygen Sensor in a vehicle's engine management system?",
+    "options": [
+      "To monitor the oxygen levels in the exhaust gas and provide feedback to the engine computer to adjust fuel injection and ignition timing.",
+      "To provide a means of communication between the engine computer and other systems",
+      "To regulate the engine speed and torque",
+      "To detect and respond to potential engine problems"
     ],
     "correctIndex": 0
   }

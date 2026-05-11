@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which component in a vehicle's electrical system is responsible for charging the battery?",
+    "question": "What type of tire is commonly used on high-performance vehicles?",
     "options": [
-      "The starter motor",
-      "The alternator",
-      "The ignition coil",
-      "The battery"
+      "Winter tire with a specialized tread pattern for snow and ice",
+      "Low-profile, high-grip tire with a specialized tread compound.",
+      "All-terrain tire with a rugged tread pattern",
+      "Touring tire with a comfortable ride and good fuel efficiency"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which diagnostic tool is used to measure the temperature of a vehicle's engine?",
+    "question": "What is the primary function of the Electronic Throttle Control (ETC) system in a vehicle?",
     "options": [
-      "Laser thermometer",
-      "Oscilloscope",
-      "Multimeter",
-      "Tachometer"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the vehicle's maintenance schedule?",
-    "options": [
-      "To reduce vehicle speed",
-      "To improve fuel efficiency",
-      "To increase vehicle weight",
-      "To ensure regular maintenance is performed to extend vehicle life"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the vehicle's emissions inspection?",
-    "options": [
-      "To increase vehicle registration fees",
-      "To improve fuel efficiency",
-      "To reduce vehicle insurance costs",
-      "To ensure the vehicle meets minimum emissions standards before being registered or licensed"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the vehicle's VIN (Vehicle Identification Number) plate?",
-    "options": [
-      "To register the vehicle with the authorities",
-      "To record the vehicle's maintenance history",
-      "To track the vehicle's mileage",
-      "To identify the vehicle's make, model, and year"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of the handbrake in a vehicle's braking system?",
-    "options": [
-      "To release the brakes",
-      "To accelerate the vehicle",
-      "To hold the vehicle stationary on an incline",
-      "To apply the brakes"
+      "To provide a backup power source in case of a battery failure",
+      "To regulate the speed of the vehicle on the highway",
+      "To control the throttle valve and regulate the engine speed and torque in response to driver input and engine conditions.",
+      "To provide a warning system for potential crash situations"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of the power steering pump in a vehicle's steering system?",
+    "question": "What is the purpose of the Air Suspension System in a vehicle?",
     "options": [
-      "To regulate steering speed",
-      "To maintain steering alignment",
-      "To provide pneumatic pressure to assist steering",
-      "To provide hydraulic pressure to assist steering"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which component in a vehicle's transmission system is responsible for transmitting power from the engine to the wheels?",
-    "options": [
-      "The differential",
-      "The transfer case",
-      "The driveshaft",
-      "The transmission gearset"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of the shock absorbers in a vehicle's suspension system?",
-    "options": [
-      "To stiffen the suspension",
-      "To lower the vehicle",
-      "To dampen the movement of the suspension",
-      "To raise the vehicle"
+      "To improve vehicle stability and control during cornering and emergency maneuvers",
+      "To provide a means of communication between the vehicle and the driver",
+      "To provide improved ride comfort and ground clearance by using air pressure to support the vehicle's weight and maintain a stable ride height.",
+      "To detect and respond to potential vehicle problems"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of the wheel chocks in a vehicle's workshop safety?",
+    "question": "What is the purpose of the Air Suspension System in a vehicle?",
     "options": [
-      "To prevent the vehicle from rolling while in the workshop",
-      "To hold the vehicle stationary on an incline",
-      "To release the brakes",
-      "To apply the brakes"
+      "To improve vehicle stability and control during cornering and emergency maneuvers",
+      "To detect and respond to potential vehicle problems",
+      "To provide improved ride comfort and ground clearance by using air pressure to support the vehicle's weight and maintain a stable ride height.",
+      "To provide a means of communication between the vehicle and the driver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of fuel injector is commonly used in high-performance vehicles?",
+    "options": [
+      "High-pressure fuel injector with a specialized nozzle design and a direct fuel injection system.",
+      "Direct fuel injector with a high pressure and a specialized nozzle design",
+      "Low-pressure fuel injector with a standard nozzle design and a port fuel injection system",
+      "Fuel injector with a moderate pressure and a basic nozzle design"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of the vehicle's anti-lock braking system?",
+    "question": "What type of fuel is commonly used in high-performance vehicles?",
     "options": [
-      "To reduce vehicle weight",
-      "To improve fuel efficiency",
-      "To increase vehicle speed",
-      "To prevent the wheels from locking up during hard braking"
+      "High-octane, premium gasoline with a specialized fuel additive package.",
+      "Diesel fuel with a high cetane number",
+      "Biodiesel with a high blend ratio",
+      "Low-octane, regular gasoline with a detergents and dispersants"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the primary function of the air filter in a vehicle's engine system?",
+    "question": "What is the primary function of the Airbag Control Module (ACM) in a vehicle's safety system?",
     "options": [
-      "To regulate engine speed",
-      "To clean the air entering the engine",
-      "To maintain engine temperature",
-      "To fuel the engine"
+      "To control the deployment of the airbags in the event of a crash, and to monitor the status of the airbag sensors and switches.",
+      "To provide a backup power source for the airbag system",
+      "To detect and respond to potential crash situations",
+      "To regulate the inflation rate of the airbags"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of the Vehicle Stability System in a vehicle?",
+    "options": [
+      "To provide a backup power source in case of a battery failure",
+      "To regulate the speed of the vehicle on the highway",
+      "To improve vehicle stability and control during cornering and emergency maneuvers by applying the brakes and reducing engine power.",
+      "To provide a warning system for potential crash situations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of diagnostic tool is commonly used to scan and clear trouble codes in a vehicle's onboard computer?",
+    "options": [
+      "Exhaust gas analyzer",
+      "Multimeter and oscilloscope",
+      "Scan tool or code reader.",
+      "Fuel pressure test kit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of transmission fluid is commonly used in manual transmissions?",
+    "options": [
+      "Automatic transmission fluid with a low viscosity index",
+      "Manual transmission fluid with a high viscosity index and a specialized additive package.",
+      "Semi-automatic transmission fluid with a moderate viscosity index",
+      "Synthetic transmission fluid with a high lubricity rating"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of the vehicle's safety inspection?",
+    "question": "What type of engine oil is commonly used in high-performance vehicles?",
     "options": [
-      "To increase vehicle registration fees",
-      "To reduce vehicle insurance costs",
-      "To improve fuel efficiency",
-      "To ensure the vehicle meets minimum safety standards before being registered or licensed"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the vehicle's emissions control system?",
-    "options": [
-      "To increase engine power",
-      "To reduce emissions and protect the environment",
-      "To reduce vehicle speed",
-      "To improve fuel efficiency"
+      "Conventional oil with a low viscosity index and a basic additive package",
+      "Synthetic oil with a high viscosity index and a specialized additive package.",
+      "Synthetic blend oil with a moderate viscosity index and a standard additive package",
+      "High mileage oil with a high lubricity rating and a specialized additive package"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of the vehicle's maintenance records?",
+    "question": "What is the primary function of the Workshop Safety Sign in a garage or repair shop?",
     "options": [
-      "To improve fuel efficiency",
-      "To reduce vehicle speed",
-      "To increase vehicle weight",
-      "To track the vehicle's maintenance history and ensure regular maintenance is performed"
+      "To warn workers and visitors of potential hazards and to provide instructions on safe working practices.",
+      "To show the location of emergency exits",
+      "To display the workshop's operating hours",
+      "To provide a means of communication between workers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the proper procedure for checking a vehicle's coolant level?",
+    "options": [
+      "To use a tire pressure gauge to check the tire pressure",
+      "To use a dipstick to check the coolant level and add coolant as needed.",
+      "To use a jack to raise the vehicle",
+      "To use a lug wrench to loosen the lug nuts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of the Vehicle Stability System in a vehicle?",
+    "options": [
+      "To improve vehicle stability and control during cornering and emergency maneuvers by applying the brakes and reducing engine power.",
+      "To regulate the speed of the vehicle on the highway",
+      "To provide a warning system for potential crash situations",
+      "To provide a backup power source in case of a battery failure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended maintenance schedule for an engine's oil change in a vehicle?",
+    "options": [
+      "Every 10,000 miles for normal driving conditions",
+      "Every 20,000 miles for high-performance driving",
+      "Every 3,000 miles in extreme driving conditions",
+      "Every 5,000 to 7,500 miles, depending on the manufacturer's recommendations and driving conditions."
     ],
     "correctIndex": 3
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following software applications is used for creating and editing digital photographs?",
+    "question": "What is the term for a type of malware that installs itself on a computer system without the user's knowledge or consent?",
     "options": [
-      "Microsoft Word",
-      "Adobe Photoshop",
-      "CorelDRAW",
-      "Google Docs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a switch in a computer network?",
-    "options": [
-      "To display images on the screen",
-      "To connect multiple devices and direct traffic between them",
-      "To speed up internet connections",
-      "To block unauthorized access to a network"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a 32-bit and 64-bit operating system?",
-    "options": [
-      "64-bit operating systems can handle more RAM and larger files than 32-bit operating systems",
-      "64-bit operating systems are only for laptops",
-      "32-bit operating systems are more secure",
-      "64-bit operating systems can only run 64-bit applications"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of network topology that involves connecting all devices in a star configuration?",
-    "options": [
-      "Ring Network Topology",
-      "Star Network Topology",
-      "Mesh Network Topology",
-      "Bus Network Topology"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing audio files?",
-    "options": [
-      "CorelDRAW",
-      "Adobe Audition",
-      "Google Docs",
-      "Microsoft Word"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing graphs and charts?",
-    "options": [
-      "Google Docs",
-      "CorelDRAW",
-      "Adobe Illustrator",
-      "Microsoft Excel"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of cyberattack that involves using a fake website or email to trick users into divulging sensitive information?",
-    "options": [
-      "Spear Phishing",
-      "Whaling",
-      "Smishing",
-      "Phishing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of cyberattack that involves using a Trojan to gain unauthorized access to a computer system or network?",
-    "options": [
-      "Malware",
-      "Phishing",
       "Ransomware",
-      "Trojan"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a type of database management system that stores data in a hierarchical structure?",
-    "options": [
-      "Relational Database Management System (RDBMS)",
-      "Hierarchical Database Management System (HDBMS)",
-      "Network Database Management System (NDBMS)",
-      "Object-Oriented Database Management System (OODBMS)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of database management system that stores data in an object-oriented structure?",
-    "options": [
-      "Network Database Management System (NDBMS)",
-      "Object-Oriented Database Management System (OODBMS)",
-      "Hierarchical Database Management System (HDBMS)",
-      "Relational Database Management System (RDBMS)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a server in a computer network?",
-    "options": [
-      "To provide resources and services to clients on the network",
-      "To connect peripherals to the computer",
-      "To block unauthorized access to a network",
-      "To speed up internet connections"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a type of computer hardware that stores data and programs?",
-    "options": [
-      "Mouse",
-      "Keyboard",
-      "Hard Drive",
-      "Monitor"
+      "Adware",
+      "Trojan Horse",
+      "Spyware"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a router in a wireless network?",
+    "question": "What is the primary function of a modem in a computer system?",
     "options": [
-      "To speed up internet connections",
+      "To detect and remove malware",
       "To block unauthorized access to a network",
-      "To display images on the screen",
-      "To connect multiple devices and direct traffic between them"
+      "To install updates and patches",
+      "To connect a device to the internet via a dial-up or broadband connection"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following operating systems is commonly used on desktop and laptop computers?",
+    "question": "Which of the following Caribbean ICT applications is used for e-banking services?",
     "options": [
-      "Windows",
-      "MacOS",
-      "Chrome OS",
-      "Linux"
+      "e-Banking System",
+      "e-Learning Platform",
+      "e-Government Portal",
+      "e-Healthcare System"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following software applications is used for creating and editing 3D animations?",
+    "question": "What is the primary function of a network interface card (NIC)?",
     "options": [
-      "Microsoft Word",
-      "Autodesk Maya",
-      "Google Docs",
-      "CorelDRAW"
+      "To install updates and patches",
+      "To detect and remove malware",
+      "To block unauthorized access to a network",
+      "To connect a device to a network and provide a connection to the internet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing web pages?",
+    "options": [
+      "LibreOffice Calc",
+      "Google Sheets",
+      "Adobe Dreamweaver",
+      "Microsoft Excel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which software application is commonly used for creating presentations?",
+    "options": [
+      "Microsoft PowerPoint",
+      "Adobe Photoshop",
+      "Microsoft Excel",
+      "Google Docs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing graphics?",
+    "options": [
+      "Adobe Photoshop",
+      "Microsoft Excel",
+      "LibreOffice Calc",
+      "Google Sheets"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing presentations?",
+    "options": [
+      " LibreOffice Calc",
+      "Google Sheets",
+      "Microsoft PowerPoint",
+      "Corel Quattro Pro"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a router in a network?",
+    "options": [
+      "To provide internet access to devices",
+      "To detect and remove malware",
+      "To connect multiple devices to a single network and route traffic between them",
+      "To block unauthorized access to a network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a database in a computer system?",
+    "options": [
+      "To send and receive emails",
+      "To create and edit documents",
+      "To store, manage, and retrieve data in a structured and organized way",
+      "To connect to the internet and access websites"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a switch in a network?",
+    "options": [
+      "To connect multiple devices to a single network and provide a connection to the internet",
+      "To install updates and patches",
+      "To block unauthorized access to a network",
+      "To detect and remove malware"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a firewall in a network?",
+    "options": [
+      "To encrypt data and protect it from unauthorized access",
+      "To install updates and patches",
+      "To block unauthorized access to a computer system or network",
+      "To detect and remove malware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a network hub?",
+    "options": [
+      "To connect multiple devices to a single network",
+      "To detect and remove malware",
+      "To block unauthorized access to a network",
+      "To install updates and patches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following Caribbean ICT applications is used for e-healthcare services?",
+    "options": [
+      "e-Banking System",
+      "e-Healthcare System",
+      "e-Government Portal",
+      "e-Learning Platform"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing databases?",
+    "options": [
+      " LibreOffice Calc",
+      "Corel Quattro Pro",
+      "Google Sheets",
+      "Microsoft Access"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,62 +1,152 @@
 [
   {
-    "question": "What is the primary function of a vehicle's anti-lock braking system (ABS) light?",
+    "question": "What is the main function of a vehicle's tire inflation monitoring system?",
     "options": [
-      "To indicate the vehicle's temperature",
-      "To indicate the vehicle's oil pressure",
-      "To indicate the vehicle's fuel level",
-      "To alert the driver of a loss of ABS function"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a vehicle's reverse light?",
-    "options": [
-      "To improve visibility to the rear of the vehicle when driving forward",
-      "To improve visibility to the sides of the vehicle when reversing",
-      "To improve visibility to the rear of the vehicle when reversing",
-      "To improve visibility to the front of the vehicle when reversing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a vehicle's fuel gauge?",
-    "options": [
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's speed"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a vehicle's high beam light?",
-    "options": [
-      "To improve visibility at night",
-      "To improve visibility in heavy rain",
-      "To improve visibility in foggy conditions",
-      "To improve visibility in bright sunlight"
+      "To alert the driver to underinflated tires and provide recommendations for correct inflation pressure",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a vehicle's seatbelt warning light?",
+    "question": "What is the recommended maintenance schedule for replacing the spark plugs?",
     "options": [
-      "To indicate the vehicle's fuel level",
-      "To indicate the vehicle's oil pressure",
-      "To indicate the vehicle's temperature",
-      "To alert the driver of an unfastened seatbelt"
+      "Every 10,000 km",
+      "Every 40,000 km",
+      "Every 30,000 to 50,000 km",
+      "Every 20,000 km"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the suspension system's shock absorbers?",
+    "options": [
+      "To dampen the oscillations of the suspension springs",
+      "To reduce the vehicle's weight",
+      "To improve the vehicle's ground clearance",
+      "To provide additional support to the vehicle's frame"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "According to the Caribbean regional road regulations, what is the maximum allowed blood alcohol concentration (BAC) for drivers?",
+    "options": [
+      "0.12%",
+      "0.05%",
+      "0.10%",
+      "0.08%"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a vehicle's oil pressure gauge?",
+    "question": "Which electrical component is responsible for starting the engine?",
     "options": [
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's speed",
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's oil pressure"
+      "Alternator",
+      "Battery",
+      "Starter motor",
+      "Voltage regulator"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's driver monitoring system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To monitor the driver's attention and alertness and provide recommendations for rest breaks or other safety measures"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which workshop safety precaution is essential for protecting workers from falling objects?",
+    "options": [
+      "Wearing a respirator",
+      "Wearing a hard hat and safety glasses",
+      "Using a fire extinguisher",
+      "Carrying a first aid kit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "According to the Caribbean regional road regulations, what is the maximum allowed speed limit on highways?",
+    "options": [
+      "90 km/h",
+      "80 km/h",
+      "60 km/h",
+      "70 km/h"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended maintenance schedule for replacing the engine oil filter?",
+    "options": [
+      "Every 10,000 to 15,000 km",
+      "Every 5,000 km",
+      "Every 20,000 km",
+      "Every 30,000 km"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which steering system component is responsible for converting the rotational motion of the steering column into linear motion of the wheels?",
+    "options": [
+      "Steering wheel",
+      "Steering gear box",
+      "Power steering pump",
+      "Steering column"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's trip computer?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To provide the driver with information on the vehicle's current trip, including distance traveled, fuel consumption, and average speed",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's braking performance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's warning light system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To alert the driver to potential issues with the vehicle's systems and components",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which workshop safety precaution is essential for protecting workers from eye damage?",
+    "options": [
+      "Wearing a hard hat",
+      "Using a fire extinguisher",
+      "Carrying a first aid kit",
+      "Wearing safety glasses or goggles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the vehicle's fuel pump?",
+    "options": [
+      "To supply fuel to the engine under pressure",
+      "To lubricate engine components",
+      "To regulate engine temperature",
+      "To supply air to the engine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of a vehicle's navigation system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To provide the driver with turn-by-turn directions and information on traffic and road conditions",
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 1
   }
 ]

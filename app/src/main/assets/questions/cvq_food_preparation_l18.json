@@ -1,52 +1,72 @@
 [
   {
-    "question": "What is the recommended way to store food in a commercial kitchen?",
+    "question": "Which of the following cooking methods is best suited for cooking fish?",
     "options": [
-      "In a warm and humid environment",
-      "At the correct temperature and humidity level",
-      "In a cold and dry environment",
-      "At room temperature and humidity level"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of cooking food in a dry heat environment?",
-    "options": [
-      "Roasting",
-      "Searing",
-      "Grilling",
-      "Pan roasting"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an important consideration when selecting ingredients for a baked good?",
-    "options": [
-      "The cost and availability of the ingredients",
-      "The serving style and presentation of the dish",
-      "The cultural and culinary preferences of the guests",
-      "The quality and freshness of the ingredients"
+      "Steaming with a high amount of water",
+      "Grilling with a high heat source",
+      "Braising with a large amount of liquid",
+      "Pan-searing with a small amount of oil"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a key consideration when planning a menu for a food festival?",
+    "question": "Which of the following is a characteristic of a well-planned menu?",
     "options": [
-      "The variety and appeal of the dishes",
-      "The serving style and presentation of the dishes",
-      "The nutritional value and allergenic potential of each dish",
-      "The cultural and culinary preferences of the guests"
+      "It includes a variety of dishes that cater to different dietary requirements",
+      "It includes only dishes that are expensive and exotic",
+      "It includes only dishes that are low in fat and calories",
+      "It includes only dishes that are high in sugar and salt"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a common characteristic of a well-balanced Caribbean cuisine dish?",
+    "question": "What is the correct way to hold a knife for chopping?",
     "options": [
-      "A lack of presentation and garnishes",
-      "A limited range of flavors and textures",
-      "A combination of flavors, textures and colors",
-      "A focus on a single main ingredient"
+      "With a loose grip and the blade facing towards the body",
+      "With the blade facing downwards and the tip resting on the cutting board",
+      "With a firm grip and the blade facing away from the body",
+      "With the blade facing upwards and the heel resting on the cutting board"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a high-risk food?",
+    "options": [
+      "It is stored at a temperature of 4\u00b0C or below",
+      "It is not a nutrient-dense food",
+      "It can support the growth of harmful bacteria at room temperature",
+      "It is cooked to an internal temperature of 75\u00b0C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a high-quality sauce for a special occasion?",
+    "options": [
+      "It is thick, chunky, and over-seasoned and messy",
+      "It is thin, watery, and under-seasoned and plain",
+      "It is cold, congealed, and unappetizing and uninviting",
+      "It is smooth, creamy, and well-balanced and visually appealing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-designed kitchen layout?",
+    "options": [
+      "It is chaotic, disorganized, and unappealing",
+      "It is cramped, cluttered, and difficult to navigate",
+      "It is too large, too small, and unfunctional",
+      "It is efficient, organized, and easy to navigate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of making a glaze in a recipe for a special occasion in the Caribbean?",
+    "options": [
+      "To add acidity and brightness to the dish",
+      "To thicken the sauce and add moisture",
+      "To reduce the sodium content of the dish",
+      "To add flavor, texture, and visual appeal to the dish and to reflect Caribbean cuisine"
+    ],
+    "correctIndex": 3
   }
 ]

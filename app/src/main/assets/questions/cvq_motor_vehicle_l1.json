@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary function of a vehicle's maintenance schedule?",
+    "question": "What is the main function of a vehicle's headlamp washer system?",
     "options": [
-      "To provide information on vehicle specifications",
-      "To provide guidelines for regular maintenance and repairs",
-      "To provide information on vehicle performance",
-      "To provide information on vehicle safety features"
+      "To clean the headlamps and improve visibility during wet weather conditions",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vehicle's roadworthiness certificate?",
+    "question": "What is the main function of a vehicle's steering system?",
     "options": [
-      "To confirm the vehicle meets performance standards",
-      "To confirm the vehicle meets road safety standards",
-      "To confirm the vehicle meets environmental standards",
-      "To confirm the vehicle meets cosmetic standards"
+      "To enable the driver to control the direction of the vehicle",
+      "To enhance the vehicle's traction and grip",
+      "To improve the vehicle's braking performance",
+      "To stabilize the vehicle's speed"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a vehicle's speed limiter?",
+    "question": "What is the purpose of a vehicle's electrical system?",
     "options": [
-      "To decrease the vehicle's acceleration",
       "To improve the vehicle's fuel efficiency",
-      "To increase the vehicle's top speed",
-      "To restrict the vehicle's maximum speed"
+      "To enhance the vehicle's aerodynamics",
+      "To provide additional support to the vehicle's weight",
+      "To power the vehicle's accessories and systems, such as lights, wipers, and radio"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a fuel filter in a vehicle's engine system?",
+    "question": "What is the purpose of a vehicle's rearview camera?",
     "options": [
-      "To cool the engine",
-      "To add fuel to the engine",
-      "To remove dirt and debris from the fuel before it reaches the engine",
-      "To generate power for the starter motor"
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To provide the driver with a clear view of the area behind the vehicle",
+      "To improve the vehicle's braking performance"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a vehicle's tachometer?",
+    "question": "What is the purpose of a vehicle's maintenance schedule?",
     "options": [
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's engine speed",
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's fuel level"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a vehicle's headlamp aiming system?",
-    "options": [
-      "To reduce the headlamp's brightness",
-      "To ensure the headlamps are aimed correctly for safe driving",
-      "To change the headlamp's color",
-      "To increase the headlamp's range"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a scan tool in a vehicle's diagnostic system?",
-    "options": [
-      "To diagnose faults in the electrical system",
-      "To check the vehicle's oil level",
-      "To communicate with the vehicle's onboard computer",
-      "To measure the vehicle's tire pressure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a vehicle's speedometer?",
-    "options": [
-      "To measure the vehicle's speed",
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's temperature"
+      "To outline the recommended maintenance tasks and their frequency to ensure the vehicle's reliability and longevity",
+      "To provide a list of the vehicle's features and options",
+      "To indicate the vehicle's fuel efficiency",
+      "To display the vehicle's warranty information"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vehicle's parking brake?",
+    "question": "What is the term for the process of forcing air into the engine to aid in the combustion process?",
     "options": [
-      "To apply the brakes",
-      "To release the brakes",
-      "To secure the vehicle when parked on an incline",
-      "To lock the steering wheel"
+      "Compression",
+      "Combustion",
+      "Induction",
+      "Exhaust"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a steering gear box in a vehicle's steering system?",
+    "question": "What is the purpose of a vehicle's air conditioner?",
     "options": [
-      "To connect the steering column to the wheels",
-      "To release the parking brake",
-      "To convert the rotational motion of the steering column into linear motion",
-      "To engage the transfer case"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a vehicle's wiper motor?",
-    "options": [
-      "To operate the windshield wipers",
-      "To operate the parking brake",
-      "To operate the headlights",
-      "To operate the horn"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a timing belt in a vehicle's engine system?",
-    "options": [
-      "To generate power for the starter motor",
-      "To synchronize the rotation of the crankshaft and camshaft",
-      "To increase the compression ratio of the engine",
-      "To reduce the engine's combustion temperature"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a vehicle's safety inspection?",
-    "options": [
-      "To identify potential cosmetic issues",
-      "To identify potential maintenance needs",
-      "To identify potential performance issues",
-      "To identify potential safety hazards"
+      "To improve the vehicle's fuel efficiency",
+      "To enhance the vehicle's braking performance",
+      "To increase the engine's power output",
+      "To cool and dehumidify the air entering the vehicle's cabin"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a fuse in a vehicle's electrical system?",
+    "question": "What is the purpose of a vehicle's lane departure warning system?",
     "options": [
-      "To decrease the resistance of the electrical circuit",
-      "To increase the voltage of the electrical system",
-      "To protect the electrical circuit from excessive current",
-      "To connect multiple electrical components together"
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To alert the driver if the vehicle drifts out of its lane without signaling"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a vehicle's odometer?",
+    "question": "What is the purpose of a vehicle's air filter?",
     "options": [
-      "To measure the vehicle's distance traveled",
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's oil pressure"
+      "To enhance the vehicle's braking performance",
+      "To increase the engine's power output",
+      "To improve the vehicle's fuel efficiency",
+      "To remove dust, dirt, and other contaminants from the air entering the engine"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's suspension system?",
+    "options": [
+      "To improve the vehicle's fuel efficiency",
+      "To increase the vehicle's ground clearance",
+      "To enhance the vehicle's aerodynamics",
+      "To provide a smooth ride and maintain the vehicle's stability and handling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of a vehicle's fuel consumption display?",
+    "options": [
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's braking performance",
+      "To enhance the vehicle's handling and stability",
+      "To provide the driver with information on the vehicle's current fuel consumption and range"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of a vehicle's parking sensors?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To alert the driver to obstacles when parking the vehicle",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's braking performance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of a vehicle's cruise control system in relation to speed limits?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To alert the driver of an upcoming speed limit and adjust speed accordingly"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of a vehicle's electronic stability control (ESC) system?",
+    "options": [
+      "To increase the vehicle's fuel efficiency",
+      "To stabilize and control the vehicle's movement and prevent skidding and loss of traction",
+      "To improve the vehicle's braking performance",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's high-beam assist system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To automatically switch between low and high beams based on traffic conditions"
+    ],
+    "correctIndex": 3
   }
 ]

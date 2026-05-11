@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does PPE stand for in a plumbing work environment?",
+    "question": "Which of the following is a type of maintenance activity in a plumbing system?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Plumbing Experience",
-      "Pipe Pressure Evaluation",
-      "Personal Plumbing Essentials"
+      "Checking for leaks",
+      "Draining the system",
+      "Clogging the system",
+      "Flushing the system"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which tool is used to cut copper pipe?",
+    "question": "Which of the following is a type of pipe fitting?",
     "options": [
-      "Hacksaw only",
-      "Pipe cutter or hacksaw",
-      "Hammer and chisel",
-      "Adjustable spanner"
+      "Pipe cutter",
+      "Plumber's snake",
+      "Drain cleaner",
+      "Elbow"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the main purpose of a P-trap in a plumbing system?",
+    "question": "How do you read a blueprint for a plumbing system?",
     "options": [
-      "To increase water pressure",
-      "To prevent sewer gases from entering a building",
-      "To filter drinking water",
-      "To measure water flow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which material is commonly used for domestic cold water supply pipes?",
-    "options": [
-      "Cast iron",
-      "Copper or CPVC",
-      "Wood",
-      "Galvanized steel only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a stopcock do?",
-    "options": [
-      "Measures water temperature",
-      "Controls or stops the flow of water",
-      "Increases water pressure",
-      "Joins two pipes together"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is the correct first step when working safely on a plumbing job?",
-    "options": [
-      "Start cutting pipes immediately",
-      "Identify and isolate the water supply",
-      "Call the customer",
-      "Order new materials"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of flux when soldering copper pipes?",
-    "options": [
-      "To cool the pipe quickly",
-      "To clean and prepare the metal surface for soldering",
-      "To seal leaks permanently",
-      "To lubricate the pipe joints"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which plumbing fitting is used to join two pipes of different diameters?",
-    "options": [
-      "Elbow",
-      "Reducer",
-      "Tee",
-      "Union"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What colour is typically used to identify cold water pipes in a plumbing system?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Yellow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the unit of measurement for water pressure?",
-    "options": [
-      "Litres",
-      "Degrees Celsius",
-      "Bar or Pascal",
-      "Metres squared"
+      "Using a mirror to reflect light",
+      "Using a magnifying glass to enlarge text",
+      "Using a key or legend to identify symbols and markings",
+      "Using a calculator to calculate dimensions"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which instrument is used to measure the diameter of a pipe?",
+    "question": "Which of the following is a type of sanitary appliance?",
     "options": [
-      "Spirit level",
-      "Vernier caliper or pipe gauge",
-      "Tape measure only",
-      "Thermometer"
+      "Pipe cutter",
+      "Plumber's snake",
+      "Drain cleaner",
+      "Toilet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of sanitary appliance?",
+    "options": [
+      "Drain cleaner",
+      "Plumber's snake",
+      "Wash basin",
+      "Pipe cutter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "According to the Caribbean Plumbing Standards, what is the minimum clearance required between a pipe and a ceiling in a residential area?",
+    "options": [
+      "500mm",
+      "300mm",
+      "400mm",
+      "600mm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a pressure reducing valve in a plumbing system?",
+    "options": [
+      "To increase water pressure",
+      "To heat water",
+      "To reduce the water pressure",
+      "To reduce water flow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a safety regulation in plumbing?",
+    "options": [
+      "Not following manufacturer's instructions",
+      "Wearing personal protective equipment",
+      "Not reporting accidents",
+      "Using a cell phone while working"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the function of a ball valve in a cistern?",
+    "question": "According to the Caribbean Plumbing Standards, what is the minimum required number of shut-off valves for a commercial water supply system?",
     "options": [
-      "To drain the cistern completely",
-      "To control the water level by floating on the surface",
-      "To heat the water",
-      "To filter debris from water"
+      "Two",
+      "Four",
+      "One",
+      "Three"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is a common cause of water hammer in pipes?",
+    "question": "According to the Caribbean Plumbing Standards, what is the maximum allowed pressure for a residential water supply system?",
     "options": [
-      "Slow water flow",
-      "Sudden stopping of water flow",
-      "Low water temperature",
-      "Corroded fittings"
+      "200 psi",
+      "250 psi",
+      "150 psi",
+      "100 psi"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What type of joint is made by heating copper pipe and using solder to seal it?",
+    "question": "According to the Caribbean Plumbing Standards, what is the minimum required number of shut-off valves for a residential water supply system?",
     "options": [
-      "Compression joint",
-      "Capillary (soldered) joint",
-      "Push-fit joint",
-      "Flanged joint"
+      "Two",
+      "One",
+      "Three",
+      "Four"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which regulation must a plumber follow to ensure waste water is safely disposed of?",
+    "question": "What is the primary function of a water meter in a plumbing system?",
     "options": [
-      "Electrical wiring regulations",
-      "Building drainage and sanitation regulations",
-      "Fire safety regulations",
-      "Road traffic regulations"
+      "To heat water",
+      "To reduce water flow",
+      "To increase water pressure",
+      "To measure the amount of water used"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a water heater in a plumbing system?",
+    "options": [
+      "To increase water pressure",
+      "To cool water",
+      "To reduce water flow",
+      "To heat water for use in the building"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of sanitary fitting?",
+    "options": [
+      "Plumber's snake",
+      "Drain cleaner",
+      "Pipe cutter",
+      "Bath tap"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main material used for making water supply pipes in residential areas?",
+    "options": [
+      "Copper",
+      "PVC",
+      "Brass",
+      "Galvanized steel"
+    ],
+    "correctIndex": 0
   }
 ]

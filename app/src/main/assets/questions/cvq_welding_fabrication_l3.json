@@ -1,152 +1,102 @@
 [
   {
-    "question": "What does PPE stand for in a welding environment?",
+    "question": "What type of metal is known for its high strength and resistance to corrosion, but is also prone to cracking?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Practice Evaluation",
-      "Protective Process Engineering",
-      "Personal Process Evaluation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of flame is used when welding mild steel with oxy-acetylene equipment?",
-    "options": [
-      "Carburising flame",
-      "Oxidising flame",
-      "Neutral flame",
-      "Reducing flame"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of flux in welding?",
-    "options": [
-      "To increase the melting point of the base metal",
-      "To prevent oxidation of the weld pool",
-      "To add colour to the weld bead",
-      "To cool the weld quickly"
+      "Aluminum",
+      "Stainless steel",
+      "Brass",
+      "Copper"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which welding process uses a non-consumable tungsten electrode?",
+    "question": "What type of welding process uses a non-consumable electrode to deposit metal onto the workpiece?",
     "options": [
       "MIG welding",
+      "Spot welding",
+      "Arc welding",
+      "TIG welding"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of inspecting the weld for its appearance and quality?",
+    "options": [
+      "Mechanical inspection",
+      "Chemical testing",
+      "Visual inspection",
+      "Non-destructive testing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of welding process uses a consumable electrode to deposit metal onto the workpiece?",
+    "options": [
       "TIG welding",
-      "Stick welding",
-      "Flux-cored arc welding"
+      "Arc welding",
+      "MIG welding",
+      "Spot welding"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the abbreviation MIG stand for in MIG welding?",
+    "question": "What type of welding process uses a combination of electrical and gas pressures to melt and join metal, with a consumable electrode?",
     "options": [
-      "Metal Inert Gas",
-      "Metal Inner Groove",
-      "Mechanical Inert Gas",
-      "Metal Integrated Grounding"
+      "Arc welding",
+      "MIG welding",
+      "TIG welding",
+      "Spot welding"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which gas is commonly used as a shielding gas in MIG welding of mild steel?",
+    "question": "What type of metal is known for its high electrical conductivity and thermal conductivity?",
     "options": [
-      "Pure oxygen",
-      "Hydrogen",
-      "Argon and carbon dioxide mixture",
-      "Nitrogen"
+      "Brass",
+      "Copper",
+      "Stainless steel",
+      "Aluminum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a welding cart?",
+    "options": [
+      "Improve ventilation in the workspace",
+      "Increase visibility in low light environments",
+      "Protect the eyes and face from harmful radiation and debris",
+      "Organize and store welding equipment and supplies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of metal is known for its high strength-to-weight ratio and corrosion resistance?",
+    "options": [
+      "Aluminum",
+      "Stainless steel",
+      "Copper",
+      "Alloy steel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of testing the weld for its chemical composition and purity?",
+    "options": [
+      "Visual inspection",
+      "Mechanical testing",
+      "Chemical testing",
+      "Non-destructive testing"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of preheating a workpiece before welding?",
+    "question": "What is the term for the process of testing the weld for its mechanical properties and strength?",
     "options": [
-      "To make the metal softer permanently",
-      "To reduce the risk of cracking and distortion",
-      "To increase the carbon content",
-      "To improve the colour of the weld"
+      "Chemical testing",
+      "Non-destructive testing",
+      "Visual inspection",
+      "Mechanical testing"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which tool is used to measure the angle of a weld joint preparation?",
-    "options": [
-      "Micrometer",
-      "Vernier caliper",
-      "Bevel protractor",
-      "Spirit level"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of joint is formed when two pieces of metal are placed end to end in the same plane?",
-    "options": [
-      "Lap joint",
-      "T-joint",
-      "Butt joint",
-      "Corner joint"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does OCV stand for in arc welding equipment?",
-    "options": [
-      "Open Circuit Voltage",
-      "Outer Core Voltage",
-      "Operational Circuit Value",
-      "Output Current Variable"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which electrode classification is commonly used for welding mild steel in SMAW?",
-    "options": [
-      "E6013",
-      "E7018-A1",
-      "E309L",
-      "E4043"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is distortion in welding?",
-    "options": [
-      "The colour change of metal after welding",
-      "The unwanted deformation of the workpiece due to heat",
-      "The increase in hardness of the weld",
-      "The porosity found in the weld bead"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which safety symbol indicates mandatory use of eye protection?",
-    "options": [
-      "A red circle with a cross",
-      "A blue circle with goggles icon",
-      "A yellow triangle",
-      "A green square"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a tack weld used for?",
-    "options": [
-      "To permanently join two pieces of metal",
-      "To temporarily hold workpieces in position before final welding",
-      "To test the strength of the base metal",
-      "To fill large gaps in the joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'polarity' refer to in arc welding?",
-    "options": [
-      "The temperature of the welding arc",
-      "The direction of current flow in the welding circuit",
-      "The speed of the electrode movement",
-      "The thickness of the base metal"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

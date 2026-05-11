@@ -1,71 +1,71 @@
 [
   {
-    "question": "Which kitchen tool is used to measure ingredients accurately?",
+    "question": "What is the name of the Caribbean dish made with salted codfish, onions, bell peppers, and tomatoes?",
     "options": [
-      "Measuring spoons",
-      "Digital scale",
-      "Measuring cups",
-      "Kitchen timer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which ingredient is a key component of traditional Caribbean callaloo?",
-    "options": [
-      "Leafy greens",
-      "Seafood",
-      "Root vegetables",
-      "Meat"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which area of the kitchen is typically used for food storage and preparation?",
-    "options": [
-      "Dining area",
-      "Preparation area",
-      "Cooking area",
-      "Waste disposal area"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the role of yeast in baking?",
-    "options": [
-      "To add flavor to dough",
-      "To color dough",
-      "To cause dough to rise",
-      "To soften dough"
+      " Pepper pot soup",
+      "Callaloo",
+      "Fried dumplings",
+      "Fried bake"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which ingredient is a key component of traditional Caribbean pepper pot soup?",
+    "question": "What is the name of the Caribbean dish made with fried dough and sweet fillings?",
     "options": [
-      "Onions",
-      "Garlic",
-      "Tomatoes",
-      "Hot peppers"
+      "Roti",
+      "Jerk chicken",
+      "Bake and shark",
+      "Doubles"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which cooking method is used to cook food quickly by cooking it in a small amount of oil or fat?",
+    "question": "What is the primary function of a menu in a restaurant?",
     "options": [
-      "Searing",
-      "Frying",
-      "Roasting",
-      "Steaming"
+      "To provide customers with a list of available food options",
+      "To display food safety certifications",
+      "To list staff uniforms",
+      "To display kitchen equipment"
     ],
     "correctIndex": 0
   },
   {
-    "question": "How should you store flour to prevent contamination?",
+    "question": "What is the recommended way to handle raw eggs in the kitchen?",
     "options": [
-      "In a plastic bag",
-      "In a cardboard box",
-      "In an open container",
-      "In an airtight container"
+      "To prevent cross-contamination and maintain personal hygiene",
+      "To handle them with bare hands",
+      "To store them at room temperature",
+      "To cook them immediately"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended way to store baking ingredients?",
+    "options": [
+      "In a hot, humid environment",
+      "In a refrigerator",
+      "In a cool, dry place, away from direct sunlight",
+      "In a microwave-safe container"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended way to handle hot pans and utensils in the kitchen?",
+    "options": [
+      "To use oven mitts or tongs to handle them safely",
+      "To leave them unattended",
+      "To use a towel to handle them",
+      "To handle them with bare hands"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the process of cooking food in a sealed bag in boiling water?",
+    "options": [
+      "Boiling",
+      "Saut\u00e9ing",
+      "Steaming",
+      "Poaching"
     ],
     "correctIndex": 3
   }

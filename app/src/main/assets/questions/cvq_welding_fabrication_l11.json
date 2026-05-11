@@ -1,152 +1,152 @@
 [
   {
-    "question": "When performing a butt weld on 25mm thick carbon steel plate using SMAW, which electrode classification would be most appropriate to ensure adequate toughness at low temperatures?",
+    "question": "What is the purpose of a weld inspection plan?",
     "options": [
-      "E6010",
-      "E7018",
-      "E6013",
-      "E7024"
+      "To identify the location of welding operators in the shop",
+      "To list the tools required for a project",
+      "To describe the layout of the fabrication shop",
+      "To ensure that welds meet the required quality standards and specifications"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In MIG/MAG welding, what is the primary purpose of using a shielding gas mixture of 75% Argon and 25% CO2?",
+    "question": "What is the main advantage of using a TIG welding process?",
     "options": [
-      "To increase penetration depth only",
-      "To reduce spatter while maintaining good penetration and arc stability",
-      "To eliminate the need for post-weld heat treatment",
-      "To increase the deposition rate beyond that of pure CO2"
+      "It is the most cost-effective welding process for production",
+      "It is the fastest welding process for production",
+      "It is the easiest welding process to learn",
+      "It provides high-quality welds with minimal distortion and porosity"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which destructive test method is used to determine the maximum load a welded joint can withstand before fracture, expressed in N/mm\u00b2?",
+    "question": "What is the purpose of a weld inspection plan?",
     "options": [
-      "Bend test",
-      "Macro examination",
-      "Tensile test",
-      "Charpy impact test"
+      "To list the tools required for a project",
+      "To identify the location of welding operators in the shop",
+      "To describe the layout of the fabrication shop",
+      "To ensure that welds meet the required quality standards and specifications"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended shielding gas mixture for MIG welding of stainless steel?",
+    "options": [
+      "Argon and helium mixture (75/25 or 80/20)",
+      "Argon and nitrogen mixture (75/25 or 80/20)",
+      "Helium and nitrogen mixture (75/25 or 80/20)",
+      "Argon and oxygen mixture (75/25 or 80/20)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between a flux core and solid wire in MIG welding?",
+    "options": [
+      "Flux core wire produces a porous weld and solid wire does not",
+      "Flux core wire produces a strong weld and solid wire does not",
+      "Flux core wire produces a brittle weld and solid wire does not",
+      "Flux core wire produces a slag-covered weld and solid wire does not"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a weld inspection plan?",
+    "options": [
+      "To list the tools required for a project",
+      "To describe the layout of the fabrication shop",
+      "To ensure that welds meet the required quality standards and specifications",
+      "To identify the location of welding operators in the shop"
     ],
     "correctIndex": 2
   },
   {
-    "question": "According to welding procedure qualification requirements, what is the essential variable that, if changed, requires requalification of a WPS?",
+    "question": "What is the purpose of a weld inspection plan?",
     "options": [
-      "Changing the welder's name on the document",
-      "Changing the base metal P-number group",
-      "Changing the travel speed by 5%",
-      "Changing the weld position from 1G to 2G"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In TIG welding of austenitic stainless steel, why is a backing gas of pure argon used on the root side of the joint?",
-    "options": [
-      "To speed up the cooling rate of the weld metal",
-      "To prevent oxidation and sugaring of the weld root",
-      "To increase the carbon content of the weld bead",
-      "To reduce the welding current required"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'interpass temperature' refer to in multi-pass welding?",
-    "options": [
-      "The temperature of the base metal before any welding begins",
-      "The maximum allowable temperature of the weld area before depositing the next pass",
-      "The temperature at which post-weld heat treatment is performed",
-      "The temperature difference between the electrode and the base metal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A welding symbol on a fabrication drawing shows a V-groove on the arrow side with a number 60 inside the symbol tail. What does the number 60 indicate?",
-    "options": [
-      "Root gap of 60mm",
-      "Groove angle of 60 degrees",
-      "Weld leg length of 60mm",
-      "Welding current of 60 amperes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of weld discontinuity is most likely to occur in SMAW when the arc length is excessively long?",
-    "options": [
-      "Root cracking",
-      "Porosity due to atmospheric contamination",
-      "Incomplete fusion at the toe",
-      "Underbead cracking"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When fabricating a pressure vessel shell, which welding joint configuration provides the highest joint efficiency under ASME or AWS structural codes?",
-    "options": [
-      "Single fillet weld",
-      "Double V-groove full penetration butt weld",
-      "Single bevel groove weld",
-      "Lap joint with single fillet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In flux-cored arc welding (FCAW), what is the primary difference between self-shielded (FCAW-S) and gas-shielded (FCAW-G) electrodes?",
-    "options": [
-      "FCAW-S requires an external shielding gas while FCAW-G does not",
-      "FCAW-S generates its own shielding from flux compounds while FCAW-G requires external gas",
-      "FCAW-G produces greater porosity than FCAW-S in outdoor conditions",
-      "FCAW-S is only suitable for flat position welding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During radiographic testing (RT) of a weld, a rounded indication that does not exceed the allowable size but exists in a cluster is called what?",
-    "options": [
-      "Linear porosity",
-      "Scattered porosity",
-      "Cluster porosity",
-      "Aligned porosity"
+      "To describe the layout of the fabrication shop",
+      "To list the tools required for a project",
+      "To ensure that welds meet the required quality standards and specifications",
+      "To identify the location of welding operators in the shop"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the correct preheat temperature range typically required for welding high-carbon steel (carbon content approximately 0.45%) with a thickness of 50mm?",
+    "question": "What is the main difference between AWS D1.1 and ASME Section IX welding codes?",
     "options": [
-      "No preheat required",
-      "50\u00b0C to 75\u00b0C",
-      "150\u00b0C to 260\u00b0C",
-      "300\u00b0C to 450\u00b0C"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plasma arc cutting (PAC), what role does the pilot arc play in the cutting process?",
-    "options": [
-      "It melts the base metal directly to initiate the cut",
-      "It ionises the gas to establish a conductive path for the main transferred arc",
-      "It shields the cut surface from atmospheric contamination",
-      "It controls the standoff distance between the torch and workpiece"
+      "AWS D1.1 is used for automotive and ASME Section IX for aerospace",
+      "AWS D1.1 is primarily used for construction and ASME Section IX is used for power boilers",
+      "AWS D1.1 is used for aerospace and ASME Section IX for automotive",
+      "AWS D1.1 is used for power boilers and ASME Section IX for construction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When calculating the heat input for a weld pass using the formula HI = (V \u00d7 A \u00d7 60) / (S \u00d7 1000) kJ/mm, what does increasing the travel speed S result in?",
+    "question": "What is the recommended shielding gas mixture for MIG welding of stainless steel?",
     "options": [
-      "Increased heat input and wider HAZ",
-      "Decreased heat input and narrower HAZ",
-      "Increased penetration with no change in HAZ width",
-      "No change in heat input because voltage compensates"
+      "Argon and helium mixture (75/25 or 80/20)",
+      "Argon and nitrogen mixture (75/25 or 80/20)",
+      "Helium and nitrogen mixture (75/25 or 80/20)",
+      "Argon and oxygen mixture (75/25 or 80/20)"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which type of electrode polarity is used for SMAW with E6010 electrodes and what effect does it have on penetration?",
+    "question": "What is the recommended method for cutting a metal plate using a plasma cutter?",
     "options": [
-      "AC polarity, producing shallow penetration",
-      "DCEN (electrode negative), producing wide shallow beads",
-      "DCEP (electrode positive), producing deep penetration",
-      "DCEN (electrode negative), producing deep penetration"
+      "Using a pilot arc and high-velocity plasma gas",
+      "Using a chemical cutting solution",
+      "Using a low-temperature arc and high-velocity plasma gas",
+      "Using a high-temperature arc and low-velocity plasma gas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a welding certification program?",
+    "options": [
+      "To ensure that welding operators have the necessary skills and knowledge to produce quality welds",
+      "To describe the layout of the fabrication shop",
+      "To identify the location of welding operators in the shop",
+      "To list the tools required for a project"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a weld inspection plan?",
+    "options": [
+      "To identify the location of welding operators in the shop",
+      "To describe the layout of the fabrication shop",
+      "To ensure that welds meet the required quality standards and specifications",
+      "To list the tools required for a project"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a welding certification program?",
+    "options": [
+      "To describe the layout of the fabrication shop",
+      "To list the tools required for a project",
+      "To ensure that welding operators have the necessary skills and knowledge to produce quality welds",
+      "To identify the location of welding operators in the shop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended angle for cutting a metal plate using a plasma cutter?",
+    "options": [
+      "At a 45-degree angle with the plate surface",
+      "At a 30-degree angle with the plate surface",
+      "At a 90-degree angle with the plate surface",
+      "At a 0-degree angle with the plate surface"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a weld testing machine?",
+    "options": [
+      "To describe the layout of the fabrication shop",
+      "To identify the location of welding operators in the shop",
+      "To list the tools required for a project",
+      "To measure the strength and quality of welds"
+    ],
+    "correctIndex": 3
   }
 ]

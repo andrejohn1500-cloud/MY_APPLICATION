@@ -1,132 +1,152 @@
 [
   {
-    "question": "What is the primary function of a firewall in a computer network?",
+    "question": "What is the primary function of a Router in a computer network?",
     "options": [
-      "To transfer data between devices",
-      "To block unauthorized access and malicious traffic",
-      "To display the IP address of a device",
-      "To allow all incoming and outgoing traffic"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a router and a switch in a computer network?",
-    "options": [
-      "A router can only connect two networks",
-      "A router connects multiple networks, while a switch connects devices within a network",
-      "A switch is more secure than a router",
-      "A router is faster than a switch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a database management system?",
-    "options": [
-      "To execute instructions and perform calculations",
-      "To manage and maintain a database in a computer system",
-      "To display graphics and images",
-      "To transfer data between devices"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a database management system?",
-    "options": [
-      "To display graphics and images",
-      "To execute instructions and perform calculations",
-      "To transfer data between devices",
-      "To manage and maintain a database in a computer system"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a database management system?",
-    "options": [
-      "To manage and maintain a database in a computer system",
-      "To transfer data between devices",
-      "To display graphics and images",
-      "To execute instructions and perform calculations"
+      "To direct data packets between networks",
+      "To provide internet access to a network",
+      "To configure network protocols",
+      "To manage network security settings"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a digital certificate in computer security?",
+    "question": "What is the primary function of a Quality of Service (QoS) Policy?",
     "options": [
-      "To transfer data between devices",
-      "To display the IP address of a device",
-      "To verify the identity of a user or device",
-      "To allow all incoming and outgoing traffic"
+      "To manage network security settings",
+      "To configure network protocols",
+      "To update software on a network",
+      "To prioritize network traffic based on applications and users"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Wireless Local Area Network (WLAN)?",
+    "options": [
+      "To provide internet access to a device",
+      "To configure network protocols",
+      "To connect wireless devices to a network",
+      "To manage network security settings"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the difference between a Caribbean ICT and a European ICT?",
+    "question": "What is the primary function of a Firewall in a computer network?",
     "options": [
-      "Caribbean ICT can only be used in the Caribbean region",
-      "Caribbean ICT refers to information and communication technology used in the Caribbean region, while European ICT refers to information and communication technology used in Europe",
-      "European ICT is a type of virus",
-      "Caribbean ICT is a type of malware"
+      "To manage network bandwidth usage",
+      "To encrypt data being sent across the network",
+      "To block unauthorized access to a network or computer",
+      "To update software on a network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Hub in a computer network?",
+    "options": [
+      "To configure network protocols",
+      "To manage network security settings",
+      "To connect multiple devices to a network",
+      "To provide internet access to a network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the three main types of Network Virtualization?",
+    "options": [
+      "Internet Protocol, Transmission Control Protocol, User Datagram Protocol",
+      "Server Virtualization, Desktop Virtualization, and Network Virtualization",
+      "Network Segmentation, Network Isolation, Network Redundancy",
+      "Network Address Translation, Quality of Service, Network Security"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the difference between a local area network (LAN) and a wide area network (WAN)?",
+    "question": "What is the primary function of a Router in a computer network?",
     "options": [
-      "A LAN connects devices within a small geographic area, while a WAN connects devices over a larger geographic area",
-      "A LAN can only connect two devices",
-      "A LAN is faster than a WAN",
-      "A WAN is more secure than a LAN"
+      "To manage network security settings",
+      "To direct data packets between networks",
+      "To provide internet access to a network",
+      "To configure network protocols"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a Router in a computer network?",
+    "options": [
+      "To configure network protocols",
+      "To manage network security settings",
+      "To direct data packets between networks",
+      "To provide internet access to a network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of an Internet Service Provider (ISP)?",
+    "options": [
+      "To manage network security settings",
+      "To create and edit documents",
+      "To provide internet access to a device or network",
+      "To configure network protocols"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the three main types of Network Topologies?",
+    "options": [
+      "Hub, Switch, Router",
+      "Internet, Intranet, Extranet",
+      "Mesh, Hybrid, Point-to-Point",
+      "Bus, Star, and Ring"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a Network Configuration Management System?",
+    "options": [
+      "To manage and track network configuration changes",
+      "To manage network settings",
+      "To create and edit documents",
+      "To send and receive emails"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a firewall in a computer network?",
+    "question": "What is the primary function of a Network Security Information and Event Management (SIEM) System?",
     "options": [
-      "To display the IP address of a device",
-      "To transfer data between devices",
-      "To block unauthorized access and malicious traffic",
-      "To allow all incoming and outgoing traffic"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a firewall in a computer network?",
-    "options": [
-      "To allow all incoming and outgoing traffic",
-      "To transfer data between devices",
-      "To block unauthorized access and malicious traffic",
-      "To display the IP address of a device"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a digital certificate in computer security?",
-    "options": [
-      "To allow all incoming and outgoing traffic",
-      "To verify the identity of a user or device",
-      "To transfer data between devices",
-      "To display the IP address of a device"
+      "To create and edit documents",
+      "To monitor and analyze network security events",
+      "To manage network settings",
+      "To send and receive emails"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the purpose of a digital certificate in computer security?",
+    "question": "What are the three main types of Network Monitoring Tools?",
     "options": [
-      "To transfer data between devices",
-      "To allow all incoming and outgoing traffic",
-      "To verify the identity of a user or device",
-      "To display the IP address of a device"
+      "HTTP, FTP, POP3",
+      "SNMP, SSH, and Telnet",
+      "IMAP, NNTP, SMTP",
+      "DHCP, DNS, DHCPv6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are the three main types of Network Security Threats?",
+    "options": [
+      "Data Breach, Insider Threat, Social Engineering",
+      "Network Eavesdropping, Network Tampering, Network Replay Attack",
+      "Malware, Phishing, and Denial-of-Service (DoS)",
+      "Man-in-the-Middle, Cross-Site Scripting, SQL Injection"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a database management system?",
+    "question": "What is the primary function of a Router in a computer network?",
     "options": [
-      "To transfer data between devices",
-      "To display graphics and images",
-      "To execute instructions and perform calculations",
-      "To manage and maintain a database in a computer system"
+      "To manage network security settings",
+      "To direct data packets between networks",
+      "To provide internet access to a network",
+      "To configure network protocols"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "When sizing a hot water distribution system, which factor is most critical in determining pipe diameter for long runs?",
+    "question": "What is the purpose of a vent pipe in a plumbing drainage system?",
     "options": [
-      "The colour of the pipe material",
-      "Friction loss and velocity head calculations",
-      "The brand of fittings used",
-      "The ambient temperature of the building"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to Caribbean plumbing codes, what is the minimum trap seal depth required for sanitary fixtures to prevent sewer gas entry?",
-    "options": [
-      "25 mm",
-      "50 mm",
-      "75 mm",
-      "100 mm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a high-rise building, which system is used to prevent loss of trap seals caused by excessive pressure fluctuations in the drainage stack?",
-    "options": [
-      "A sovent aerator fitting system",
-      "A standard single-stack system",
-      "A French drain system",
-      "A siphonic roof drainage system"
+      "To allow air to enter the drainage system and equalize pressure",
+      "To prevent backflow of sewage",
+      "To increase water pressure",
+      "To drain water from the system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary purpose of a pressure-reducing valve (PRV) installed on a water supply system?",
+    "question": "What is the primary function of a vent pipe in a plumbing drainage system?",
     "options": [
-      "To increase water velocity",
-      "To reduce incoming mains pressure to a safe working level",
-      "To filter sediment from the water supply",
-      "To control the hot water temperature"
+      "To prevent backflow of sewage",
+      "To drain water from the system",
+      "To increase water pressure",
+      "To allow air to enter the drainage system and equalize pressure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a soil stack in a plumbing drainage system?",
+    "options": [
+      "To carry rainwater from the roof to the storm drain",
+      "To carry air to the vent pipe",
+      "To carry water from the building to the water supply",
+      "To carry waste and sewage from the building to the sewer or septic tank"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A house has a 2-inch water service line. What is the recommended minimum size for the meter box outlet?",
+    "options": [
+      "3 inches",
+      "1.5 inches",
+      "2.5 inches",
+      "1 inch"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When carrying out a soundness test on a completed gas installation, which test medium and minimum duration are typically required under CVQ standards?",
+    "question": "A plumber is installing a new toilet. What is the recommended procedure for setting the toilet flange?",
     "options": [
-      "Air at 20 mbar for 1 minute",
-      "Air or nitrogen at 20 mbar for 2 minutes",
-      "Water at 1.5 times working pressure for 30 minutes",
-      "Carbon dioxide at 10 mbar for 5 minutes"
+      "Setting the flange at an angle",
+      "Tightening the flange bolts before setting the flange",
+      "Not setting the flange at all",
+      "Setting the flange level and plumb before tightening the flange bolts"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best describes the cross-connection control measure known as an 'air gap'?",
+    "question": "A house has a 1-inch water service line. What is the recommended minimum size for the meter box inlet?",
     "options": [
-      "A mechanical valve that prevents backflow",
-      "A physical separation between the potable water outlet and the flood level rim of a receiving vessel",
-      "A chemical dosing system added to pipework",
-      "An electrical interlock on the pump system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a gravity-fed hot water system, what is the recommended minimum distance between the bottom of the cold water storage cistern and the top of the hot water cylinder to ensure adequate head pressure?",
-    "options": [
-      "150 mm",
-      "300 mm",
-      "900 mm",
-      "1800 mm"
+      "1.5 inches",
+      "2 inches",
+      "3/4 inch",
+      "1 inch"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of soil stack ventilation arrangement allows each branch discharge pipe to be individually vented back to the main ventilation stack?",
+    "question": "What is the primary function of a vent pipe in a plumbing water supply system?",
     "options": [
-      "Single-stack system",
-      "Modified single-stack system",
-      "Fully vented system (dual-stack)",
-      "Air admittance valve system"
+      "To increase water pressure",
+      "To allow air to enter the system and equalize pressure",
+      "To prevent backflow of water",
+      "To drain water from the system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A house has a single-family dwelling with multiple fixtures. What is the recommended minimum size for the water service line?",
+    "options": [
+      "3/4 inch",
+      "5/8 inch",
+      "1 inch",
+      "1/2 inch"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When installing copper pipework using capillary solder fittings, what is the correct sequence of operations?",
+    "question": "What is the primary function of a drain assembly in a plumbing drainage system?",
     "options": [
-      "Apply flux after soldering, heat fitting, apply solder",
-      "Clean pipe and fitting, apply flux, assemble, heat fitting uniformly, apply solder to joint",
-      "Apply solder first, then heat the pipe, then add flux",
-      "Heat the pipe first, then insert into dry fitting, then add flux"
+      "To detect leaks in the system",
+      "To connect the water supply line to the fixture",
+      "To connect the drain pipe to the trap and carry waste and sewage from the building to the sewer or septic tank",
+      "To regulate water temperature"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What does the term 'hydraulic gradient' refer to in a drainage design context?",
+    "question": "A plumber is installing a new water meter. What is the recommended procedure for setting the register?",
     "options": [
-      "The temperature gradient across a pipe wall",
-      "The slope of the energy line representing pressure head losses along a pipe run",
-      "The ratio of pipe diameter to flow velocity",
-      "The vertical distance between inlet and outlet of a cistern"
+      "Not setting the register at all",
+      "Setting the register to 50 before taking an initial reading",
+      "Setting the register to 100 before taking an initial reading",
+      "Setting the register to zero before taking an initial reading"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Under CVQ Level 1 NVQ regulations, what is the maximum permissible length of an unventilated branch discharge pipe of 50 mm diameter serving a wash basin?",
+    "question": "What is the purpose of a trap in a plumbing drainage system?",
     "options": [
-      "1.7 m",
-      "3.0 m",
-      "4.5 m",
-      "6.0 m"
+      "To prevent sewer gases from entering the building through the drainage system",
+      "To carry waste and sewage from the building to the sewer or septic tank",
+      "To carry rainwater from the roof to the storm drain",
+      "To increase water pressure"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which commissioning procedure must be completed before a thermostatic mixing valve (TMV) installation is handed over in a healthcare premises?",
+    "question": "A house has a 3/4-inch water supply line to a fixture. What is the recommended minimum size for the shut-off valve?",
     "options": [
-      "Paint the valve body and insulate the pipework only",
-      "Set and verify the blended outlet temperature does not exceed 43\u00b0C and perform a cold water fail-safe test",
-      "Replace the valve with a manual mixer for accuracy",
-      "Increase the hot water cylinder to 95\u00b0C before testing"
+      "5/8 inch",
+      "3/4 inch",
+      "1 inch",
+      "1/2 inch"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the design of a rainwater harvesting system, which treatment process is essential before harvested water can be used for WC flushing in a commercial building?",
+    "question": "What is the purpose of a drain pan in a plumbing drainage system?",
     "options": [
-      "Reverse osmosis to drinking standard",
-      "Filtration and UV disinfection to non-potable standard",
-      "Chlorination to potable standard only",
-      "No treatment is required for WC flushing"
+      "To carry rainwater from the roof to the storm drain",
+      "To collect and dispose of condensate from the water heater",
+      "To carry waste and sewage from the building to the sewer or septic tank",
+      "To increase water pressure"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the significance of the 'simultaneous demand' factor when designing a cold water service pipework system?",
+    "question": "According to the Caribbean Plumbing Code, what is the minimum required distance between a water heater and any electrical panel?",
     "options": [
-      "It accounts for the fact that not all outlets will be in use at the same time, allowing smaller pipe sizing",
-      "It ensures all outlets operate simultaneously at full pressure",
-      "It is used only for hot water systems, not cold water",
-      "It refers to the demand placed on the drainage system during peak use"
+      "6 feet",
+      "9 feet",
+      "3 feet",
+      "12 feet"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "When installing a condensing boiler, what material must the condensate discharge pipework be constructed from, and what is the minimum internal diameter recommended for internal runs?",
+    "question": "A house has a 2-inch water service line. What is the recommended minimum size for the meter box inlet?",
     "options": [
-      "Copper pipe with a minimum 15 mm internal diameter",
-      "Solvent-weld PVC or ABS pipe with a minimum 22 mm internal diameter",
-      "CPVC pipe with a minimum 32 mm internal diameter",
-      "Galvanised steel pipe with a minimum 25 mm internal diameter"
+      "2.5 inches",
+      "1 inch",
+      "3 inches",
+      "1.5 inches"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

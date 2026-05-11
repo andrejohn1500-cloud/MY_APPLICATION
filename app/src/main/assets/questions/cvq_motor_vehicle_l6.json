@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the purpose of a vehicle's side marker light?",
+    "question": "What is the purpose of a vehicle's rear seat reminder system?",
     "options": [
-      "To indicate the vehicle's presence to the side",
-      "To indicate the vehicle's direction",
-      "To indicate the vehicle's fuel level",
-      "To indicate the vehicle's speed"
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To alert the driver to check the rear seats for children or pets before exiting the vehicle",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which workshop safety precaution is essential for protecting workers from electrical shock?",
+    "options": [
+      "Carrying a first aid kit",
+      "Using a fire extinguisher",
+      "Wearing insulating gloves and safety glasses",
+      "Wearing a hard hat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's automatic parking system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's braking performance",
+      "To automatically park the vehicle in a designated parking space"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended maintenance schedule for replacing the timing belt?",
+    "options": [
+      "Every 50,000 to 100,000 km",
+      "Every 30,000 km",
+      "Every 40,000 km",
+      "Every 20,000 km"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vehicle's headlamp washer?",
+    "question": "What is the purpose of the vehicle's exhaust system?",
     "options": [
-      "To increase the headlamp's brightness",
-      "To clean the headlamps during operation",
-      "To dry the headlamps",
-      "To change the headlamp's color"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a vehicle's maintenance reminder light?",
-    "options": [
-      "To indicate the vehicle's fuel level",
-      "To indicate the vehicle's temperature",
-      "To alert the driver of upcoming maintenance",
-      "To indicate the vehicle's oil pressure"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a vehicle's parking light?",
-    "options": [
-      "To indicate the vehicle's speed",
-      "To indicate the vehicle's presence when parked",
-      "To indicate the vehicle's direction",
-      "To indicate the vehicle's fuel level"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a vehicle's brake fluid level gauge?",
-    "options": [
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's brake fluid level",
-      "To measure the vehicle's temperature"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a vehicle's horn?",
-    "options": [
-      "To operate the headlights",
-      "To start the engine",
-      "To operate the windshield wipers",
-      "To alert other road users of the vehicle's presence"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a vehicle's rear fog light?",
-    "options": [
-      "To improve visibility to the rear of the vehicle in heavy rain",
-      "To improve visibility to the rear of the vehicle in bright sunlight",
-      "To improve visibility to the rear of the vehicle at night",
-      "To improve visibility to the rear of the vehicle in foggy conditions"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a vehicle's roadside assistance light?",
-    "options": [
-      "To indicate the vehicle's temperature",
-      "To indicate the vehicle's oil pressure",
-      "To indicate the vehicle's fuel level",
-      "To alert the driver of a need for roadside assistance"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a vehicle's fog light?",
-    "options": [
-      "To improve visibility in heavy rain",
-      "To improve visibility in foggy conditions",
-      "To improve visibility at night",
-      "To improve visibility in bright sunlight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a vehicle's temperature gauge?",
-    "options": [
-      "To measure the vehicle's speed",
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's engine temperature"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a vehicle's transmission fluid level gauge?",
-    "options": [
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's transmission fluid level",
-      "To measure the vehicle's fuel level",
-      "To measure the vehicle's oil pressure"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a vehicle's electronic stability control light?",
-    "options": [
-      "To indicate the vehicle's temperature",
-      "To indicate the vehicle's oil pressure",
-      "To indicate the vehicle's fuel level",
-      "To alert the driver of a loss of stability control"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a vehicle's hazard warning light?",
-    "options": [
-      "To indicate the vehicle's fuel level",
-      "To indicate the vehicle's direction",
-      "To alert other road users of a hazard or emergency",
-      "To indicate the vehicle's speed"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a vehicle's coolant level gauge?",
-    "options": [
-      "To measure the vehicle's coolant level",
-      "To measure the vehicle's temperature",
-      "To measure the vehicle's oil pressure",
-      "To measure the vehicle's fuel level"
+      "To reduce noise and emissions from the engine",
+      "To supply fuel to the engine",
+      "To cool the engine",
+      "To provide additional support to the vehicle's frame"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a vehicle's low beam light?",
+    "question": "What is the primary function of the engine timing belt?",
     "options": [
-      "To improve visibility in heavy rain",
-      "To improve visibility in bright sunlight or foggy conditions",
-      "To improve visibility in heavy snow",
-      "To improve visibility at night"
+      "To synchronize the rotation of the crankshaft and camshaft",
+      "To reduce engine noise",
+      "To regulate engine temperature",
+      "To supply fuel to the engine"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended maintenance schedule for replacing the brake pads?",
+    "options": [
+      "Every 20,000 to 50,000 km",
+      "Every 30,000 km",
+      "Every 10,000 km",
+      "Every 40,000 km"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of transmission is characterized by a manual gearshift and a clutch pedal?",
+    "options": [
+      "Continuously variable transmission",
+      "Automatic transmission",
+      "Semi-automatic transmission",
+      "Manual transmission"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the vehicle's air filter?",
+    "options": [
+      "To supply fuel to the engine",
+      "To provide additional support to the vehicle's frame",
+      "To regulate engine temperature",
+      "To clean the air entering the engine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "According to the Caribbean regional road regulations, what is the minimum age requirement for obtaining a driver's license?",
+    "options": [
+      "17 years old",
+      "16 years old",
+      "18 years old",
+      "21 years old"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a scan tool in vehicle diagnosis?",
+    "options": [
+      "To analyze fuel consumption patterns using a calculator",
+      "To check tire pressure using a gauge",
+      "To communicate with the vehicle's onboard computer and retrieve diagnostic information",
+      "To detect engine problems using smell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's driver alerts system?",
+    "options": [
+      "To alert the driver to potential hazards and provide recommendations for safe driving practices",
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which vehicle safety feature is designed to deploy in the event of a collision?",
+    "options": [
+      "Airbag",
+      "Traction control system (TCS)",
+      "Electronic stability control (ESC)",
+      "Anti-lock braking system (ABS)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the engine's camshaft?",
+    "options": [
+      "To regulate engine temperature",
+      "To supply fuel to the engine",
+      "To open and close the engine's valves",
+      "To lubricate engine components"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's roadside assistance system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To connect the driver with a roadside assistance service for help in the event of a breakdown or emergency"
+    ],
+    "correctIndex": 3
   }
 ]

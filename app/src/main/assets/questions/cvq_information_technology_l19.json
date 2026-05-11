@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "question": "What are the three main types of Network Virtualization?",
+    "options": [
+      "Server Virtualization, Desktop Virtualization, and Network Virtualization",
+      "Internet Protocol, Transmission Control Protocol, User Datagram Protocol",
+      "Network Address Translation, Quality of Service, Network Security",
+      "Network Segmentation, Network Isolation, Network Redundancy"
+    ],
+    "correctIndex": 0
+  }
+]

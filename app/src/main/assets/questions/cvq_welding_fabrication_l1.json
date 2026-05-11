@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does PPE stand for in a welding workshop?",
+    "question": "What is the primary function of a welding clamp?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Power Equipment",
-      "Protective Production Essentials",
-      "Personal Production Equipment"
+      "Protect the eyes and face from harmful radiation and debris",
+      "Improve ventilation in the workspace",
+      "Increase visibility in low light environments",
+      "Hold and secure the workpiece during welding"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which type of fire extinguisher is most suitable for electrical fires in a welding shop?",
+    "question": "What is the importance of proper personal protective equipment (PPE) in welding?",
     "options": [
-      "Water extinguisher",
-      "Foam extinguisher",
-      "CO2 extinguisher",
-      "Dry powder extinguisher"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of a welding helmet?",
-    "options": [
-      "To protect the welder from sparks only",
-      "To protect the eyes and face from UV radiation and sparks",
-      "To keep the welder cool",
-      "To hold the electrode in place"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas is commonly used in MIG welding as a shielding gas?",
-    "options": [
-      "Hydrogen",
-      "Argon or CO2",
-      "Nitrogen",
-      "Oxygen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does OAW stand for?",
-    "options": [
-      "Oxy-Acetylene Welding",
-      "Open Arc Welding",
-      "Oxygen-Argon Welding",
-      "Overhead Arc Welding"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the correct color code for an oxygen cylinder used in gas welding?",
-    "options": [
-      "Red",
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which welding process uses a consumable electrode coated with flux?",
-    "options": [
-      "TIG welding",
-      "MIG welding",
-      "SMAW (Stick welding)",
-      "Plasma welding"
+      "Improves the appearance of the weld",
+      "Increases the strength of the weld",
+      "Reduces the risk of injury and illness",
+      "Reduces the risk of electrical shock"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What tool is used to measure angles accurately in fabrication?",
+    "question": "What is the process of removing the rough edges and burrs from a cut metal surface?",
     "options": [
-      "Hacksaw",
-      "Try square",
-      "Chisel",
-      "File"
+      "Machining",
+      "Grinding",
+      "Polishing",
+      "Deburring"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is tack welding used for?",
+    "question": "What type of metal is known for its high strength and resistance to corrosion, but is also prone to oxidation?",
     "options": [
-      "To complete a full weld",
-      "To temporarily hold pieces in position before final welding",
-      "To clean the metal surface",
-      "To cut metal into pieces"
+      "Aluminum",
+      "Copper",
+      "Stainless steel",
+      "Brass"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which metal is most commonly welded in basic fabrication workshops?",
+    "question": "What is the term for the process of testing the weld for its strength and durability?",
+    "options": [
+      "Mechanical testing",
+      "Non-destructive testing",
+      "Chemical testing",
+      "Visual inspection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a welding helmet?",
+    "options": [
+      "Increase visibility in low light environments",
+      "Improve ventilation in the workspace",
+      "Reduce the risk of electrical shock",
+      "Protect the eyes and face from harmful radiation and debris"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a welding safety shield?",
+    "options": [
+      "Improve ventilation in the workspace",
+      "Increase visibility in low light environments",
+      "Reduce the risk of electrical shock",
+      "Protect the eyes and face from harmful radiation and debris"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of removing metal from a workpiece using a thermal cutting method?",
+    "options": [
+      "Electrical cutting",
+      "Mechanical cutting",
+      "Thermal cutting",
+      "Chemical cutting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What type of metal is known for its high strength and resistance to corrosion, but is also difficult to weld?",
     "options": [
       "Titanium",
-      "Mild steel",
-      "Gold",
-      "Platinum"
+      "Aluminum",
+      "Copper",
+      "Stainless steel"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What does the term 'fusion' mean in welding?",
+    "question": "What type of welding process uses a non-consumable tungsten electrode to deposit metal onto the workpiece?",
     "options": [
-      "Cutting metal apart",
-      "Joining metals by melting them together",
-      "Bending metal into shape",
-      "Polishing the metal surface"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of flux in welding?",
-    "options": [
-      "To cool the weld quickly",
-      "To protect the weld pool from atmospheric contamination",
-      "To increase the voltage",
-      "To speed up the cutting process"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hand tool is used to remove slag from a weld bead?",
-    "options": [
-      "Wire brush only",
-      "Chipping hammer",
-      "Hacksaw",
-      "Centre punch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a right angle measure?",
-    "options": [
-      "45 degrees",
-      "180 degrees",
-      "90 degrees",
-      "360 degrees"
+      "Arc welding",
+      "Spot welding",
+      "TIG welding",
+      "MIG welding"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a safety hazard specific to welding operations?",
+    "question": "What is the primary function of a welding gauge?",
     "options": [
-      "Loud music",
-      "Ultraviolet radiation from the arc",
-      "Bright overhead lighting",
-      "Using a pencil to mark metal"
+      "Increase visibility in low light environments",
+      "Protect the eyes and face from harmful radiation and debris",
+      "Measure and record the thickness of metal",
+      "Improve ventilation in the workspace"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a welding fluxer?",
+    "options": [
+      "Protect the eyes and face from harmful radiation and debris",
+      "Increase visibility in low light environments",
+      "Improve ventilation in the workspace",
+      "Apply and control the flow of shielding gas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for welding metals at a temperature below their critical point?",
+    "options": [
+      "Critical welding",
+      "Supercritical welding",
+      "Subcritical welding",
+      "Thermal welding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the importance of proper joint preparation in welding?",
+    "options": [
+      "Reduces the risk of electrical shock",
+      "Increases the strength of the weld metal",
+      "Improves ventilation in the workspace",
+      "Ensures a strong and consistent weld"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a welding table?",
+    "options": [
+      "Support and secure the workpiece during welding",
+      "Protect the eyes and face from harmful radiation and debris",
+      "Improve ventilation in the workspace",
+      "Increase visibility in low light environments"
+    ],
+    "correctIndex": 0
   }
 ]

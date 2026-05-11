@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which cooking method is used to cook food quickly by exposing it to high heat?",
+    "question": "What is the name of the process of cooking vegetables quickly in a small amount of oil?",
     "options": [
-      "Grilling",
+      "Steaming",
       "Roasting",
-      "Boiling",
-      "Frying"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a kitchen cleaning schedule?",
-    "options": [
-      "To choose the type of cuisine",
-      "To ensure that the kitchen is cleaned regularly and thoroughly",
-      "To determine the cost of food",
-      "To decide on the layout of the kitchen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which ingredient is a key component of traditional Caribbean roti?",
-    "options": [
-      "Meat",
-      "Root vegetables",
-      "Seafood",
-      "Flour"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a kitchen timer?",
-    "options": [
-      "To determine the cost of food",
-      "To check the expiration date of ingredients",
-      "To measure the temperature of the kitchen",
-      "To ensure that food is cooked for the correct amount of time"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which knife is used for chopping and slicing vegetables?",
-    "options": [
-      "Carving knife",
-      "Cooking knife",
-      "Chef's knife",
-      "Paring knife"
+      "Saut\u00e9ing",
+      "Boiling"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process of mixing butter and sugar together until light and fluffy?",
+    "question": "What is the recommended way to handle raw meat, poultry, and fish in the kitchen?",
     "options": [
-      "Creaming",
-      "Folding",
-      "Whipping",
-      "Kneading"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process of adding a layer of sauce or gravy to a dish to enhance flavor and texture?",
-    "options": [
-      "Braising",
-      "Barding",
-      "Marinating",
-      "Glazing"
+      "To cook it immediately",
+      "To handle it with bare hands",
+      "To store it at room temperature",
+      "To prevent cross-contamination and maintain personal hygiene"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the process of adding a liquid to a dish to enhance flavor and texture?",
+    "question": "Which of the following cooking methods is best suited for cooking large quantities of food quickly?",
     "options": [
-      "Deglazing",
-      "Marinating",
-      "Glazing",
-      "Braising"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the recommended temperature for storing raw meat, poultry, and seafood?",
-    "options": [
-      "At 20\u00b0C",
-      "At room temperature",
-      "Above 10\u00b0C",
-      "Below 5\u00b0C"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which cooking method is used to cook food quickly by exposing it to hot air?",
-    "options": [
-      "Frying",
-      "Roasting",
-      "Boiling",
-      "Grilling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of cooking food in liquid over low heat?",
-    "options": [
-      "Roasting",
-      "Braising",
-      "Frying",
-      "Steaming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which cooking method is used to cook food quickly by surrounding it with steam?",
-    "options": [
-      "Grilling",
-      "Roasting",
+      "Poaching",
+      "Deep-frying",
       "Steaming",
-      "Frying"
+      "Grilling"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a kitchen thermometer?",
+    "question": "What is the recommended way to store leftovers in the refrigerator?",
     "options": [
-      "To check the internal temperature of cooked food",
-      "To determine the cooking time",
-      "To check the expiration date of ingredients",
-      "To measure the temperature of the kitchen"
+      "In a covered, airtight container",
+      "In a container with a loose-fitting lid",
+      "In a microwave-safe container",
+      "In an uncovered container"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which cooking method is used to cook food quickly by surrounding it with hot oil?",
+    "question": "What is the recommended way to store knives in the kitchen?",
     "options": [
-      "Frying",
-      "Steaming",
-      "Roasting",
-      "Grilling"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which utensil is used to peel and core fruits and vegetables?",
-    "options": [
-      "Tongs",
-      "Peeler",
-      "Chopsticks",
-      "Knife"
+      "On a countertop",
+      "In a designated knife block or on a magnetic strip",
+      "In a cabinet",
+      "In a drawer"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a kitchen timer?",
+    "options": [
+      "To ensure that food is cooked to the correct internal temperature and texture",
+      "To measure the temperature of the oven",
+      "To mix batter",
+      "To determine the type of ingredient"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the Caribbean dish made with steamed dumplings, meat, and vegetables?",
+    "options": [
+      "Fried bake",
+      "Pepper pot soup",
+      "Roti",
+      "Callaloo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the Caribbean dish made with fried dough and savory fillings?",
+    "options": [
+      "Doubles",
+      "Roti",
+      "Bake and shark",
+      "Jerk chicken"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a kitchen exhaust fan?",
+    "options": [
+      "To provide lighting",
+      "To remove grease, steam, and odors from the kitchen",
+      "To mix batter",
+      "To measure ingredients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a pastry blender?",
+    "options": [
+      "To knead dough",
+      "To measure ingredients",
+      "To mix batter",
+      "To mix and blend pastry dough ingredients"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the process of slowly cooling a liquid to create a smooth, creamy texture?",
+    "options": [
+      "Steaming",
+      "Scalding",
+      "Boiling",
+      "Tempering"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a meat mallet?",
+    "options": [
+      "To knead dough",
+      "To tenderize meat by breaking down fibers",
+      "To measure ingredients",
+      "To mix batter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of washing your hands before starting work in a kitchen?",
+    "options": [
+      "To taste the ingredients",
+      "To adjust the thermostat",
+      "To prevent the spread of bacteria and other microorganisms",
+      "To put on oven mitts"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended way to wash fruits and vegetables?",
+    "options": [
+      "Rinsing with tap water only",
+      "Using a soft cloth",
+      "Under running water, with a vegetable brush if necessary",
+      "Using a chemical wash"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the process of slowly heating milk to create a smooth, creamy texture?",
+    "options": [
+      "Steaming",
+      "Boiling",
+      "Saut\u00e9ing",
+      "Scalding"
+    ],
+    "correctIndex": 3
   }
 ]

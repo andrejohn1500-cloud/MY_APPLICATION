@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the difference between a 'menu' and a 'tasting menu'?",
+    "question": "Which of the following is an example of a personal protective equipment (PPE) in a kitchen?",
     "options": [
-      "A 'menu' is a list of dishes that are available in a sit-down meal, while a 'tasting menu' is a list of dishes that are available in a buffet",
-      "A 'menu' is a list of dishes that are available in a buffet, while a 'tasting menu' is a list of dishes that are available in a sit-down meal",
-      "A 'menu' is a list of dishes that are available for a limited time only, while a 'tasting menu' is a list of dishes that are available at all times",
-      "A 'menu' is a list of dishes that are available at all times, while a 'tasting menu' is a pre-set menu that changes seasonally and is designed to showcase the chef's creativity and skills"
+      "Kitchen towel",
+      "Hairnet",
+      "Meat cleaver",
+      "Apron"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of flour is commonly used in Caribbean cuisine to make baked goods?",
+    "options": [
+      "Bread flour",
+      "All-purpose flour",
+      "Pastry flour",
+      "Cake flour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a knife skill used to chop food into small, uniform pieces?",
+    "options": [
+      "Mincing",
+      "Chiffonade",
+      "Dicing",
+      "Julienning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of cooking food in a liquid (such as stock or water)?",
+    "options": [
+      "Steaming",
+      "Frying",
+      "Braising",
+      "Poaching"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of proofing yeast?",
+    "question": "What is the nutritional benefit of including omega-3 fatty acids in a meal?",
     "options": [
-      "To add extra sugar to the mixture",
-      "To add extra salt to the mixture",
-      "To add extra flour to the mixture",
-      "To check if the yeast is active and will help the dough to rise"
+      "Boosts immune system",
+      "Enhances flavor",
+      "Improves heart health",
+      "Increases energy levels"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What are some common cooking methods used in Caribbean cuisine?",
+    "question": "What is the nutrient that is lost during the cooking process?",
     "options": [
-      "Grilling, roasting, frying, steaming",
-      "Boiling, poaching, saut\u00e9ing, braising",
-      "Grilling, roasting, frying, baking",
-      "Searing, basting, glazing, marinating"
+      "Vitamin C",
+      "Vitamin B",
+      "Vitamin A",
+      "Vitamin E"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the difference between a 'stock' and a 'consomm\u00e9'?",
+    "question": "What is the term for the process of cooking food in a liquid (such as stock or water) with the lid on?",
     "options": [
-      "A 'stock' is a solid made from bones and vegetables, while a 'consomm\u00e9' is a liquid made from a combination of ingredients",
-      "A 'stock' is a liquid made from a combination of ingredients, while a 'consomm\u00e9' is a solid made from bones and vegetables",
-      "A 'stock' is a clear liquid made from bones and vegetables, while a 'consomm\u00e9' is a clear liquid made from a combination of ingredients and is often clarified",
-      "A 'stock' is a cloudy liquid made from a combination of ingredients, while a 'consomm\u00e9' is a clear liquid made from bones and vegetables"
+      "Frying",
+      "Steaming",
+      "Braising",
+      "Poaching"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of tempering chocolate?",
+    "question": "What is the primary purpose of a Hazard Analysis and Critical Control Point (HACCP) plan in a commercial kitchen?",
     "options": [
-      "To add extra texture to the mixture",
-      "To add extra moisture to the mixture",
-      "To add extra flavor to the mixture",
-      "To prevent the chocolate from seizing up when it meets the hot mixture"
+      "To improve staff morale",
+      "To identify and control potential food safety hazards",
+      "To enhance customer experience",
+      "To increase kitchen efficiency"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the difference between a 'reduction' and a 'glaze'?",
+    "question": "What is the primary function of a pastry thermometer?",
     "options": [
-      "A 'reduction' is a liquid made from a combination of ingredients, while a 'glaze' is a solid made from a combination of ingredients",
-      "A 'reduction' is a solid made from a combination of ingredients, while a 'glaze' is a liquid made from a combination of ingredients",
-      "A 'reduction' is a thick, flavorful liquid made by cooking a sauce until it has reduced in volume, while a 'glaze' is a sweet, sticky liquid made from a combination of ingredients",
-      "A 'reduction' is a sweet, sticky liquid made from a combination of ingredients, while a 'glaze' is a thick, flavorful liquid made by cooking a sauce until it has reduced in volume"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the difference between a 'menu' and a 'menu du jour'?",
-    "options": [
-      "A 'menu' is a list of dishes that are available at all times, while a 'menu du jour' is a list of dishes that are available for one day only",
-      "A 'menu' is a list of dishes that are available in a sit-down meal, while a 'menu du jour' is a list of dishes that are available in a buffet",
-      "A 'menu' is a list of dishes that are available for one day only, while a 'menu du jour' is a list of dishes that are available at all times",
-      "A 'menu' is a list of dishes that are available in a buffet, while a 'menu du jour' is a list of dishes that are available in a sit-down meal"
+      "To measure the internal temperature of pastry dough",
+      "To mix batter",
+      "To determine the type of ingredient",
+      "To measure the temperature of the oven"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of making a 'stock'?",
+    "question": "What is the term for the process of cooking food in a hot, dry environment (such as in a dry skillet or oven) with the lid off?",
     "options": [
-      "To create a spicy, pungent sauce that can be used as a marinade",
-      "To create a sweet, syrupy glaze that can be used as a topping for dishes",
-      "To create a thick, creamy sauce that can be used as a topping for dishes",
-      "To create a clear, flavorful liquid that can be used as a base for soups, sauces, and stews"
+      "Searing",
+      "Grilling",
+      "Braising",
+      "Roasting"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the difference between a 'stock' and a 'bouillon'?",
+    "question": "What is the recommended temperature for cooking ground meat to ensure food safety?",
     "options": [
-      "A 'stock' is a solid made from bones and vegetables, while a 'bouillon' is a liquid made from a combination of ingredients",
-      "A 'stock' is a clear liquid made from bones and vegetables, while a 'bouillon' is a cloudy liquid made from a combination of ingredients",
-      "A 'stock' is a cloudy liquid made from a combination of ingredients, while a 'bouillon' is a clear liquid made from bones and vegetables",
-      "A 'stock' is a liquid made from a combination of ingredients, while a 'bouillon' is a solid made from bones and vegetables"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What are some common herbs used in Caribbean cuisine?",
-    "options": [
-      "Mint, lemongrass, galangal, kaffir lime leaves",
-      "Thyme, rosemary, parsley, bay leaves",
-      "Basil, oregano, cilantro, dill",
-      "Sage, thyme, rosemary, parsley"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a 'menu' and a 'carte'?",
-    "options": [
-      "A 'menu' is a list of dishes that are available in a buffet, while a 'carte' is a list of dishes that are available in a sit-down meal",
-      "A 'menu' is a list of dishes that are available in a sit-down meal, while a 'carte' is a list of dishes that are available in a buffet",
-      "A 'menu' is a list of dishes that are available at all times, while a 'carte' is a list of dishes that are available for a limited time only",
-      "A 'menu' is a list of dishes that are available for a limited time only, while a 'carte' is a list of dishes that are available at all times"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of resting meat after cooking?",
-    "options": [
-      "To add extra flavor to the meat",
-      "To add extra moisture to the meat",
-      "To add extra texture to the meat",
-      "To allow the meat to redistribute its juices and become more tender and flavorful"
+      "75\u00b0C",
+      "71\u00b0C",
+      "72\u00b0C",
+      "74\u00b0C"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What are some common ingredients used in baked goods?",
+    "question": "What is the recommended method for storing raw meat in a commercial kitchen?",
     "options": [
-      "Spinach, lettuce, cucumber, tomato",
-      "Broccoli, cauliflower, mushrooms, bell peppers",
-      "Flour, sugar, eggs, butter",
-      "Carrots, potatoes, celery, parsley"
+      "At the bottom of the refrigerator",
+      "On the middle shelf of the refrigerator",
+      "At the top of the refrigerator",
+      "In a sealed container on the counter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of preparing a mixture of ingredients to be used as a base for sauces and soups?",
+    "options": [
+      "Sauce preparation",
+      "Soup preparation",
+      "Stock preparation",
+      "Garnish preparation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of proofing pastry dough?",
+    "question": "Which of the following knife skills requires a rocking motion to chop food?",
     "options": [
-      "To add extra sugar to the mixture",
-      "To check if the yeast is active and will help the dough to rise",
-      "To add extra salt to the mixture",
-      "To add extra flour to the mixture"
+      "Dicing",
+      "Chiffonade",
+      "Mincing",
+      "Julienning"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What are some common ingredients used in Caribbean cuisine?",
+    "question": "What is the term for the process of applying high heat to food for a short period to create a crust on the surface?",
     "options": [
-      "Salt, pepper, oregano, basil",
-      "Cherry peppers, allspice, thyme, scotch bonnet peppers",
-      "Garlic, onion, ginger, turmeric",
-      "Paprika, cumin, coriander, cinnamon"
+      "Searing",
+      "Browning",
+      "Grilling",
+      "Roasting"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

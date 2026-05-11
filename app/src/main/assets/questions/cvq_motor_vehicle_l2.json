@@ -1,62 +1,152 @@
 [
   {
-    "question": "What is the primary function of a vehicle's airbag system?",
+    "question": "What is the main function of a vehicle's engine oil?",
     "options": [
-      "To reduce the vehicle's interior noise",
-      "To increase the vehicle's ground clearance",
+      "To lubricate and cool the engine's moving parts and to clean the engine's surfaces",
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's acceleration",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of a vehicle's brake fluid?",
+    "options": [
+      "To increase the vehicle's fuel efficiency",
+      "To improve the vehicle's acceleration",
+      "To enhance the vehicle's handling and stability",
+      "To transmit the pressure from the brake pedal to the brake calipers and pads"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's anti-lock braking system (ABS)?",
+    "options": [
+      "To prevent the vehicle's wheels from locking up during hard braking and maintain traction and control",
       "To improve the vehicle's braking performance",
-      "To protect the occupant in the event of sudden deceleration"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a shock absorber in a vehicle's suspension system?",
-    "options": [
-      "To dampen the oscillations of the suspension",
-      "To improve the handling of the vehicle",
-      "To increase the spring rate of the suspension",
-      "To reduce the ride height of the vehicle"
+      "To enhance the vehicle's handling and stability",
+      "To increase the vehicle's fuel efficiency"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vehicle's diagnostic chart?",
+    "question": "What is the main function of a vehicle's blind-spot monitoring system?",
     "options": [
-      "To provide information on vehicle performance",
-      "To provide information on vehicle safety features",
-      "To provide information on vehicle specifications",
-      "To provide a record of maintenance and repairs"
+      "To alert the driver to vehicles in the blind spot and improve safety during lane changes",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a vehicle's workshop manual?",
+    "question": "What is the primary function of a shock absorber in a vehicle's suspension system?",
     "options": [
-      "To provide information on vehicle specifications",
-      "To provide information on vehicle performance",
-      "To provide instructions for maintenance and repairs",
-      "To provide information on vehicle safety features"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a seatbelt in a vehicle's safety system?",
-    "options": [
-      "To restrain the occupant in the event of sudden deceleration",
+      "To provide additional support to the vehicle's weight",
       "To increase the vehicle's ground clearance",
-      "To improve the vehicle's aerodynamics",
-      "To protect the occupant from the sun"
+      "To control the movement of the suspension components and absorb bumps on the road",
+      "To improve the vehicle's aerodynamics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a scan tool in a vehicle's diagnostic system?",
+    "options": [
+      "To communicate with the vehicle's onboard computer to diagnose and repair problems",
+      "To perform maintenance tasks on the vehicle",
+      "To control the vehicle's air conditioning system",
+      "To monitor the vehicle's fuel consumption"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of a master cylinder in a vehicle's braking system?",
+    "question": "What is the primary function of a fuel filter in a vehicle's engine system?",
     "options": [
-      "To bleed air from the hydraulic system",
-      "To release the brakes",
-      "To convert non-hydraulic pressure into hydraulic pressure",
-      "To apply the brakes"
+      "To remove dirt and contaminants from the fuel before it enters the engine",
+      "To cool the engine oil",
+      "To increase fuel pressure",
+      "To mix air and fuel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a vehicle's adaptive cruise control system?",
+    "options": [
+      "To improve the vehicle's braking performance",
+      "To enhance the vehicle's handling and stability",
+      "To maintain a safe distance from the vehicle ahead and adjust speed as needed",
+      "To increase the vehicle's fuel efficiency"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What type of transmission is commonly used in vehicles with high-performance capabilities?",
+    "options": [
+      "Continuously Variable Transmission (CVT)",
+      "Automatic transmission",
+      "Manual transmission",
+      "Semi-Automatic transmission"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a vehicle's VIN number plate?",
+    "options": [
+      "To show the vehicle's insurance details",
+      "To indicate the vehicle's ownership status",
+      "To display the vehicle's registration information",
+      "To identify the vehicle's manufacturer, model, and serial number"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main function of the master cylinder in a vehicle's braking system?",
+    "options": [
+      "To convert non-hydraulic pressure into hydraulic pressure to apply the brakes",
+      "To regulate brake fluid pressure",
+      "To apply the handbrake",
+      "To release the parking brake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a vehicle's safety features, such as airbags and anti-lock braking system (ABS)?",
+    "options": [
+      "To increase the vehicle's speed",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's fuel efficiency",
+      "To protect the occupants of the vehicle in the event of an accident"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a vehicle's hill start assist system?",
+    "options": [
+      "To prevent the vehicle from rolling backward on an incline when starting from a standstill",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main function of a vehicle's traction control system?",
+    "options": [
+      "To enhance the vehicle's handling and stability",
+      "To improve the vehicle's braking performance",
+      "To prevent the vehicle's wheels from losing traction and slipping",
+      "To increase the vehicle's fuel efficiency"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a vehicle's cruise control system?",
+    "options": [
+      "To maintain a constant speed on the highway",
+      "To improve the vehicle's braking performance",
+      "To increase the vehicle's fuel efficiency",
+      "To enhance the vehicle's handling and stability"
+    ],
+    "correctIndex": 0
   }
 ]

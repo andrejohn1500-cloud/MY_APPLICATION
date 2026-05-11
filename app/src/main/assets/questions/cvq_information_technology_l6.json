@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary function of a webcam in a computer system?",
+    "question": "Which of the following Caribbean ICT applications is used for e-commerce services?",
     "options": [
-      "To capture and transmit video and audio signals",
-      "To speed up internet connections",
-      "To block unauthorized access to a network",
-      "To connect peripherals to the computer"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a modem in a computer system?",
-    "options": [
-      "To block unauthorized access to a network",
-      "To connect to the internet using a dial-up or broadband connection",
-      "To speed up internet connections",
-      "To display images on the screen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a set of rules that govern how data is stored and retrieved in a database?",
-    "options": [
-      "Database",
-      "Table",
-      "Schema",
-      "Field"
+      "e-Healthcare System",
+      "e-Government Portal",
+      "e-Commerce Portal",
+      "e-Learning Platform"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following software applications is used for creating and editing web pages?",
+    "question": "What is the term for a type of security threat that uses malicious software to gain unauthorized access to a computer system?",
     "options": [
-      "Google Docs",
-      "CorelDRAW",
-      "Adobe Dreamweaver",
-      "Microsoft Word"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing 3D models?",
-    "options": [
-      "Google Docs",
-      "CorelDRAW",
-      "Microsoft Word",
-      "Blender"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a router in a computer network?",
-    "options": [
-      "To speed up internet connections",
-      "To block unauthorized access to a network",
-      "To display images on the screen",
-      "To connect multiple networks and direct traffic between them"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a printer in a computer system?",
-    "options": [
-      "To connect peripherals to the computer",
-      "To speed up internet connections",
-      "To print documents and images",
-      "To block unauthorized access to a network"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing web pages using a visual interface?",
-    "options": [
-      "Adobe Muse",
-      "Microsoft Word",
-      "Google Docs",
-      "CorelDRAW"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following software applications is used for creating and editing videos?",
-    "options": [
-      "Microsoft PowerPoint",
-      "CorelDRAW",
-      "Adobe Premiere Pro",
-      "Google Slides"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of computer hardware that displays images and video signals?",
-    "options": [
-      "Monitor",
-      "Keyboard",
-      "Mouse",
-      "USB Port"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the Central Processing Unit (CPU) in a computer system?",
-    "options": [
-      "Storing data",
-      "Transferring data",
-      "Executing instructions and performing calculations",
-      "Displaying graphics"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of cyberattack that involves using a rootkit to gain unauthorized access to a computer system or network?",
-    "options": [
+      "Spyware",
       "Malware",
-      "Rootkit",
-      "Phishing",
+      "Adware",
       "Ransomware"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of cyberattack that involves using a virus to damage or destroy data on a computer system or network?",
+    "question": "What is the term for a type of security threat that uses malicious software to gain unauthorized access to a computer system?",
     "options": [
-      "Phishing",
-      "Ransomware",
+      "Spyware",
       "Malware",
-      "Virus"
+      "Adware",
+      "Ransomware"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of security threat that uses social engineering tactics to trick users into divulging sensitive information?",
+    "options": [
+      "Whaling",
+      "Phishing",
+      "Smishing",
+      "Spear Phishing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of security threat that uses social engineering tactics to trick users into divulging sensitive information?",
+    "options": [
+      "Whaling",
+      "Spear Phishing",
+      "Phishing",
+      "Smishing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a Firewall in a computer network?",
+    "options": [
+      "To update software on a network",
+      "To encrypt data being sent across the network",
+      "To block unauthorized access to a network or computer",
+      "To manage network bandwidth usage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following software applications is used for creating and editing spreadsheets?",
+    "options": [
+      "Corel Quattro Pro",
+      "Google Sheets",
+      " LibreOffice Calc",
+      "Microsoft Excel"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a type of cyberattack that involves using social engineering tactics to trick users into divulging sensitive information?",
+    "question": "What is the primary function of a database management system?",
     "options": [
-      "Social Engineering",
-      "Whaling",
-      "Phishing",
-      "Spear Phishing"
+      "To create and edit documents",
+      "To store, manage, and retrieve data in a structured and organized way",
+      "To send and receive emails",
+      "To connect to the internet and access websites"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a CPU (Central Processing Unit)?",
+    "options": [
+      "To manage memory allocation",
+      "To store data and programs",
+      "To perform calculations and execute instructions",
+      "To communicate with peripherals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of malware that demands payment in exchange for restoring access to a computer system?",
+    "options": [
+      "Adware",
+      "Ransomware",
+      "Spyware",
+      "Trojan Horse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of network that connects devices within a limited geographical area?",
+    "options": [
+      "Local Area Network (LAN)",
+      "Wireless Network",
+      "Intranet",
+      "Wide Area Network (WAN)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of cyberattack that involves sending a fake email that appears to be from a legitimate source?",
+    "question": "What is the main purpose of a firewall in cybersecurity?",
     "options": [
+      "To encrypt data and protect it from unauthorized access",
+      "To block unauthorized access to a computer system or network",
+      "To detect and remove malware",
+      "To install updates and patches"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of security threat that uses social engineering tactics to trick users into divulging sensitive information?",
+    "options": [
+      "Phishing",
       "Spear Phishing",
-      "Whaling",
       "Smishing",
-      "Phishing"
+      "Whaling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following spreadsheet software applications is commonly used for financial analysis and budgeting?",
+    "options": [
+      "Corel Quattro Pro",
+      "Google Sheets",
+      " LibreOffice Calc",
+      "Microsoft Excel"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Which of the following Caribbean ICT applications is used for e-learning services?",
+    "options": [
+      "e-Learning Platform",
+      "e-Government Portal",
+      "e-Healthcare System",
+      "e-Banking System"
+    ],
+    "correctIndex": 0
   }
 ]
