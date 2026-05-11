@@ -1,51 +1,131 @@
 [
   {
-    "question": "What is the ratio of the number of moles of a reactant to the number of moles of product in a balanced chemical equation called?",
+    "question": "What is the term for the chemical bond that arises between two atoms when there is a partial transfer of electrons between the atoms, resulting in a temporary dipole-dipole interaction?",
     "options": [
-      "stoichiometric constant",
-      "stoichiometric coefficient",
-      "stoichiometry",
-      "stoichiometric ratio"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process by which a nonmetal loses electrons to form a positively charged ion?",
-    "options": [
-      "ion formation",
-      "ion loss",
-      "ion gain",
-      "ionization"
+      "dipole-dipole bond",
+      "hydrogen bond",
+      "ionic bond",
+      "covalent bond"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the minimum energy required for a reaction to occur?",
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by molecules as they vibrate or rotate?",
     "options": [
-      "activation potential",
-      "activation energy",
-      "activation threshold",
-      "activation barrier"
+      "Infrared spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Mass spectrometry",
+      "Ultraviolet-visible spectroscopy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the term for the amount of heat required to raise the temperature of a sample by a unit change in temperature?",
+    "options": [
+      "Heat of vaporization",
+      "Molar heat capacity",
+      "Specific heat capacity",
+      "Heat of fusion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the chemical bond that arises between two atoms when there is a temporary dipole-dipole interaction between the atoms?",
+    "options": [
+      "ionic bond",
+      "dipole-dipole bond",
+      "covalent bond",
+      "hydrogen bond"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a molecule that has a net dipole moment?",
+    "question": "What is the term for the phenomenon by which a sample of a substance appears to be in a different state than its actual state, due to the presence of impurities?",
     "options": [
-      "amphipolar molecule",
-      "nonpolar molecule",
-      "monopolar molecule",
-      "polar molecule"
+      "Apparent state",
+      "False state",
+      "Equilibrium state",
+      "Observed state"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the phenomenon by which a sample of a substance appears to be in a different state than its actual state, due to the presence of a catalyst?",
+    "options": [
+      "Apparent state",
+      "Catalyst-induced state",
+      "Observed state",
+      "Equilibrium state"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by molecules as they change their vibrational energy levels?",
+    "options": [
+      "Ultraviolet-visible spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Mass spectrometry",
+      "Infrared spectroscopy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of electrolyte that is highly ionized in aqueous solution?",
+    "question": "What is the term for the type of reaction that involves the reaction of a gas with a solid to produce a new substance, without a change in the state of the reactants?",
     "options": [
-      "nonelectrolyte",
-      "strong electrolyte",
-      "weak electrolyte",
-      "amphoteric electrolyte"
+      "Solution reaction",
+      "Gas-gas reaction",
+      "Solid-gas reaction",
+      "Liquid-gas reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of electrochemical cell that uses an external source of electrical energy to drive a chemical reaction?",
+    "options": [
+      "Electrolytic cell",
+      "Primary cell",
+      "Fuel cell",
+      "Galvanic cell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of chemical bond that is formed between two atoms when they share four pairs of electrons?",
+    "options": [
+      "pi bond",
+      "sigma bond",
+      "phi bond",
+      "delta bond"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of chemical bond that is formed between two atoms when they share two pairs of electrons?",
+    "options": [
+      "phi bond",
+      "delta bond",
+      "pi bond",
+      "sigma bond"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a hydrogen atom, what is the principal quantum number of the 2p orbital?",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a metal with a nonmetal to produce a salt and hydrogen gas, with the nonmetal being a non-halogen?",
+    "options": [
+      "Neutralization reaction",
+      "Metal-nonmetal reaction",
+      "Acid-base reaction",
+      "Redox reaction"
     ],
     "correctIndex": 1
   }

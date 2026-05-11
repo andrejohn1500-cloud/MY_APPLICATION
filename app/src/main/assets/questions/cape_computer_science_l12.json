@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the time complexity of the bubble sort algorithm?",
+    "question": "In software engineering, what is the term for the process of identifying and documenting the costs associated with a project?",
     "options": [
-      "O(n)",
-      "O(1)",
+      "Cost estimation",
+      "Project management",
+      "Task management",
+      "Resource allocation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of attack where an attacker sends a large number of requests to a server in an attempt to overwhelm it?",
+    "options": [
+      "Cross-site scripting (XSS) attack",
+      "Man-in-the-middle (MitM) attack",
+      "SQL injection attack",
+      "Denial of Service (DoS) attack"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of attack where an attacker uses social engineering tactics to trick a user into revealing sensitive information?",
+    "options": [
+      "Whaling attack",
+      "Spear phishing attack",
+      "Phishing attack",
+      "Social engineering attack"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a network gateway?",
+    "options": [
+      "Configuring network settings",
+      "Connecting multiple networks together",
+      "Managing network security",
+      "Providing internet access to users"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a security threat that arises from the unauthorized access to a system or network?",
+    "options": [
+      "Malware",
+      "Unauthorized Access",
+      "Ransomware",
+      "Phishing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In software engineering, what is the term for the process of identifying and documenting the requirements of a system?",
+    "options": [
+      "Requirements validation",
+      "Requirements analysis",
+      "Requirements gathering",
+      "Requirements specification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the time complexity of the QuickSort algorithm?",
+    "options": [
+      "O(n log n)",
       "O(n^2)",
-      "O(nlogn)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In software engineering, what is the V-model of software development?",
-    "options": [
-      "a development process that involves testing and validation at each stage of development",
-      "a development process that involves project management",
-      "a development process that involves coding and debugging",
-      "a development process that involves analysis and design"
+      "O(1)",
+      "O(n)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process of verifying the authenticity of a message or data?",
+    "question": "What is the primary function of a network protocol?",
     "options": [
-      "hashing",
-      "encryption",
-      "decryption",
-      "digital signature"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In object-oriented programming, what is polymorphism?",
-    "options": [
-      "the ability of an object to take on multiple forms",
-      "encapsulation",
-      "abstraction",
-      "inheritance"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the operating system's memory protection manager?",
-    "options": [
-      "to manage network connections",
-      "to manage memory allocation",
-      "to protect memory from unauthorized access by other processes",
-      "to manage file systems"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of the operating system's memory management unit?",
-    "options": [
-      "to manage file systems",
-      "to manage input/output operations",
-      "to manage the allocation and deallocation of memory to processes",
-      "to manage network connections"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of encrypting data using a key?",
-    "options": [
-      "hashing",
-      "decryption",
-      "compression",
-      "cryptography"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a switch in a computer network?",
-    "options": [
-      "to manage network security",
-      "to connect devices to a network and forward packets between them",
-      "to route packets between networks",
-      "to provide internet access"
+      "Managing network security",
+      "Enabling communication between devices on a network",
+      "Providing internet access to users",
+      "Configuring network settings"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a router in a computer network?",
+    "question": "What is the primary function of a network router?",
     "options": [
-      "to provide internet access",
-      "to route packets between networks",
-      "to connect devices to a network",
-      "to manage network security"
+      "Configuring network settings",
+      "Routing data packets between networks",
+      "Providing internet access to users",
+      "Managing network security"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a linked list, what is the purpose of the 'next' pointer in each node?",
+    "question": "In object-oriented programming, what is the term for the process of making an object visible to other objects, but only within a specific scope?",
     "options": [
-      "to point to the head of the list",
-      "to point to the previous node in the list",
-      "to store the value of the node",
-      "to point to the next node in the list"
+      "Abstract",
+      "Protected",
+      "Private",
+      "Public"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the difference between a database trigger and a database stored procedure?",
+    "question": "What is the term for a type of database that stores data in a simple table format?",
     "options": [
-      "a trigger is a precompiled piece of code that can be executed repeatedly, while a stored procedure is a piece of code that is executed in response to a specific event",
-      "a trigger is used for querying, while a stored procedure is used for indexing",
-      "a trigger is a piece of code that is executed in response to a specific event, while a stored procedure is a precompiled piece of code that can be executed repeatedly",
-      "a trigger is used for indexing, while a stored procedure is used for querying"
+      "Object-Oriented Database",
+      "Network Database",
+      "Flat File Database",
+      "Relational Database"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of the operating system's input/output manager?",
+    "question": "What is the term for a type of database that stores data in a relational structure?",
     "options": [
-      "to manage the input/output operations between devices and the operating system",
-      "to manage network connections",
-      "to manage file systems",
-      "to manage memory allocation"
+      "Graph database",
+      "Relational database",
+      "Object-oriented database",
+      "Network database"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the purpose of the operating system's process synchronization manager?",
+    "question": "What is the term for a type of attack where an attacker uses a virus or malware to gain unauthorized access to a system?",
     "options": [
-      "to manage file systems",
-      "to manage network connections",
-      "to manage memory allocation",
-      "to manage the synchronization of access to shared resources by multiple processes"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a DNS server in a computer network?",
-    "options": [
-      "to provide internet access",
-      "to route packets between networks",
-      "to resolve domain names to IP addresses",
-      "to manage network security"
+      "Denial of Service (DoS) attack",
+      "SQL injection attack",
+      "Malware attack",
+      "Cross-site scripting (XSS) attack"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of the operating system's process scheduler?",
+    "question": "What is the primary function of a router in a network?",
     "options": [
-      "to manage the allocation of processor time to processes",
-      "to manage file systems",
-      "to manage input/output operations",
-      "to manage memory allocation"
+      "Providing internet access to users",
+      "Managing network security",
+      "Configuring network settings",
+      "Routing data packets between networks"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a network hub?",
+    "options": [
+      "Configuring network settings",
+      "Connecting multiple devices together",
+      "Managing network security",
+      "Providing internet access to users"
+    ],
+    "correctIndex": 1
   }
 ]

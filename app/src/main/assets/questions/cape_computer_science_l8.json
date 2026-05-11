@@ -1,91 +1,71 @@
 [
   {
-    "question": "What is the term for a network security threat that involves the interception of data as it is transmitted between a client and a server?",
+    "question": "What is the term for a type of database that stores data in a network structure?",
     "options": [
-      "Man-in-the-Middle (MitM)",
-      "Eavesdropping",
-      "Spoofing",
-      "Phishing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a type of database that is designed to store and manage time-series data?",
-    "options": [
-      "Time-Series Database",
+      "Network Database",
       "Object-Oriented Database",
-      "Relational Database",
-      "NoSQL Database"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the 'volatile' keyword in a variable declaration in Java?",
-    "options": [
-      "To indicate that the variable's value can change unexpectedly",
-      "To indicate that the variable is static",
-      "To indicate that the variable is write-only",
-      "To indicate that the variable is read-only"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of data structure that is used to store data in a way that allows efficient insertion and deletion of elements?",
-    "options": [
-      "Queue",
-      "Linked List",
-      "Array",
-      "Stack"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a type of database that is designed to store and manage large amounts of unstructured data?",
-    "options": [
-      "NoSQL Database",
-      "Graph Database",
-      "Object-Oriented Database",
+      "Hierarchical Database",
       "Relational Database"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of the 'try-catch' block in exception handling?",
-    "options": [
-      "To handle exceptions that occur during execution",
-      "To handle warnings that occur during execution",
-      "To handle errors that occur during compilation",
-      "To handle notifications that occur during execution"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of database that is designed to store and manage structured data?",
+    "question": "What is the term for a type of database that stores data in a graph structure with edges and vertices?",
     "options": [
       "Graph Database",
-      "Object-Oriented Database",
       "Relational Database",
-      "NoSQL Database"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a network security threat that involves the overwhelming of a computer system or network with traffic?",
-    "options": [
-      "Denial of Service (DoS)",
-      "Unauthorized Access",
-      "Malware",
-      "Distributed Denial of Service (DDoS)"
+      "Object-Oriented Database",
+      "Network Database"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of software development project that is typically large in scope and has a fixed deadline?",
+    "question": "What is the term for a security threat that arises from the unauthorized access to data or systems?",
     "options": [
-      "Waterfall Project",
-      "V-Model Project",
-      "Agile Project",
-      "Scrum Project"
+      "Ransomware",
+      "Malware",
+      "Phishing",
+      "Unauthorized Access"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of database that stores data in a document-oriented structure?",
+    "options": [
+      "Relational Database",
+      "Network Database",
+      "Object-Oriented Database",
+      "Document-Oriented Database"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a process that executes on behalf of a user or program in an operating system?",
+    "options": [
+      "Process",
+      "Program",
+      "Service",
+      "Thread"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a database that stores data in a flat table format?",
+    "options": [
+      "Relational Database",
+      "Flat File Database",
+      "Network Database",
+      "Object-Oriented Database"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of database that stores data in a tree-like structure?",
+    "options": [
+      "Tree Database",
+      "Relational Database",
+      "Network Database",
+      "Object-Oriented Database"
     ],
     "correctIndex": 0
   }

@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the type of reaction where one substance is converted into another substance by the loss of oxygen?",
+    "question": "What is the term for the minimum amount of energy required to remove an electron from a gaseous atom?",
     "options": [
-      "Decomposition Reaction",
-      "Combustion Reaction",
-      "Synthesis Reaction",
-      "Redox Reaction"
+      "activation energy",
+      "lattice energy",
+      "bond energy",
+      "ionisation energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of a substance by 1\u00b0C?",
+    "options": [
+      "molar heat capacity",
+      "specific heat capacity",
+      "latent heat capacity",
+      "heat of fusion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the number of protons in a carbon atom?",
+    "question": "What is the term for the process by which a substance changes its state from a liquid to a gas?",
     "options": [
-      "6",
-      "7",
-      "8",
-      "5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the scientific term for the process by which a gas is converted into a liquid?",
-    "options": [
-      "Condensation",
-      "Sublimation",
-      "Vaporization",
-      "Deposition"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the ability of a substance to change its shape under applied stress?",
-    "options": [
-      "Plasticity",
-      "Rigidity",
-      "Elasticity",
-      "Viscosity"
+      "condensation",
+      "crystallisation",
+      "evaporation",
+      "sublimation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the scientific term for the process by which a solid changes directly to a liquid?",
+    "question": "What is the number of protons in a neutral atom of Oxygen?",
     "options": [
-      "Deposition",
-      "Sublimation",
-      "Freezing",
-      "Melting"
+      "6",
+      "9",
+      "8",
+      "7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the energy of electrons in an atom?",
+    "options": [
+      "mass spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "infrared spectroscopy",
+      "electron spectroscopy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the energy of an electron in its ground state?",
+    "question": "Which type of chemical reaction involves the combination of two or more substances to form a new compound?",
     "options": [
-      "Electronegativity",
-      "Electron Affinity",
-      "Valence Electron Energy",
-      "Ionization Energy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the scientific term for the study of the behavior of chemical systems at equilibrium?",
-    "options": [
-      "Electrochemistry",
-      "Thermodynamics",
-      "Kinetics",
-      "Equilibrium Chemistry"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the scientific term for the study of the behavior of chemical systems in the presence of light?",
-    "options": [
-      "Photochemistry",
-      "Equilibrium Chemistry",
-      "Thermodynamics",
-      "Kinetics"
+      "synthesis reaction",
+      "decomposition reaction",
+      "oxidation reaction",
+      "replacement reaction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the scientific term for the process by which a solid changes directly to a gas?",
+    "question": "What is the term for the amount of substance that will react with a given amount of another substance at a given temperature and pressure?",
     "options": [
-      "Vaporization",
-      "Condensation",
-      "Melting",
-      "Sublimation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the charge of an electron?",
-    "options": [
-      "0",
-      "-2",
-      "+1",
-      "-1"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the scientific term for the process by which a liquid changes directly to a gas?",
-    "options": [
-      "Evaporation",
-      "Vaporization",
-      "Freezing",
-      "Condensation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy of an electron in its excited state?",
-    "options": [
-      "Excitation Energy",
-      "Thermal Energy",
-      "Electron Affinity",
-      "Ionization Energy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the rate at which a chemical reaction occurs?",
-    "options": [
-      "Thermodynamic Stability",
-      "Reaction Rate",
-      "Equilibrium Constant",
-      "Activation Energy"
+      "molarity",
+      "chemical potential",
+      "mole fraction",
+      "density"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the rate at which a catalyst speeds up a chemical reaction?",
+    "question": "Which type of chemical reaction involves the transfer of oxygen or removal of hydrogen from a substance?",
     "options": [
-      "Catalytic Rate",
-      "Equilibrium Constant",
-      "Activation Energy",
-      "Reaction Rate"
+      "oxidation reaction",
+      "reduction reaction",
+      "decomposition reaction",
+      "replacement reaction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the scientific term for the study of the behavior of chemical systems at high temperatures and pressures?",
+    "question": "What is the term for the amount of energy required to change the state of a substance from a liquid to a gas?",
     "options": [
-      "Kinetics",
-      "Equilibrium Chemistry",
-      "Thermodynamics",
-      "Electrochemistry"
+      "molar heat capacity",
+      "specific heat capacity",
+      "heat of fusion",
+      "heat of vaporisation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which a catalyst increases the rate of a chemical reaction?",
+    "options": [
+      "catalysis",
+      "inhibition",
+      "activation energy",
+      "kinetics"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which a substance changes its state from a solid to a liquid?",
+    "options": [
+      "vaporisation",
+      "freezing",
+      "sublimation",
+      "melting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the speed of a chemical reaction?",
+    "options": [
+      "rate",
+      "chemical equilibrium",
+      "rate of reaction",
+      "chemical change"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the energy of photons emitted or absorbed by atoms or molecules?",
+    "options": [
+      "infrared spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "electron spectroscopy",
+      "spectrophotometry"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of electrochemical cell involves the transfer of electrons through an external circuit?",
+    "options": [
+      "fuel cell",
+      "electrolytic cell",
+      "galvanic cell",
+      "battery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process by which a substance changes its state from a solid to a liquid?",
+    "options": [
+      "vaporisation",
+      "sublimation",
+      "melting",
+      "freezing"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the difference between a database schema and a database model?",
+    "question": "What is the term for a type of database that stores data in a hierarchical structure with nodes and edges?",
     "options": [
-      "a schema is used for indexing, while a model is used for querying",
-      "a schema is used for querying, while a model is used for indexing",
-      "a schema is the structure of the database, while a model is a high-level representation of the data and its relationships",
-      "a schema is a high-level representation of the data and its relationships, while a model is the structure of the database"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, what is encapsulation?",
-    "options": [
-      "polymorphism",
-      "inheritance",
-      "abstraction",
-      "the bundling of data and methods that operate on that data"
+      "Network Database",
+      "Relational Database",
+      "Object-Oriented Database",
+      "Hierarchical Database"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of the operating system's virtual memory manager?",
+    "question": "What is the term for a security threat that arises from the exploitation of flaws in software or hardware?",
     "options": [
-      "to manage network connections",
-      "to manage input/output operations",
-      "to manage the allocation and deallocation of virtual memory to processes",
-      "to manage file systems"
+      "Ransomware",
+      "Malware",
+      "Vulnerability",
+      "Exploit"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In object-oriented programming, what is an interface?",
+    "question": "What is the term for a process that executes in parallel with other processes in a multi-threading environment?",
     "options": [
-      "a common set of data members that can be accessed by any class that implements it",
-      "a common set of methods that must be implemented by any class that implements it",
-      "a common set of methods that can be called by any class that implements it",
-      "a common set of data members that must be implemented by any class that implements it"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a static method and an instance method in object-oriented programming?",
-    "options": [
-      "a static method belongs to an instance of the class, while an instance method belongs to the class",
-      "a static method is used for indexing, while an instance method is used for querying",
-      "a static method belongs to the class, while an instance method belongs to an instance of the class",
-      "a static method is used for querying, while an instance method is used for indexing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a firewall in a computer network?",
-    "options": [
-      "to manage network connectivity",
-      "to manage network security",
-      "to block unauthorized access to a network or computer system",
-      "to provide internet access"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of verifying the integrity of data?",
-    "options": [
-      "data encryption",
-      "data validation",
-      "data compression",
-      "data hashing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a database table and a database view?",
-    "options": [
-      "a table is used for querying, while a view is used for indexing",
-      "a table is a physical storage of data, while a view is a virtual table based on a query",
-      "a table is a virtual table based on a query, while a view is a physical storage of data",
-      "a table is used for indexing, while a view is used for querying"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a load balancer in a computer network?",
-    "options": [
-      "to route packets between networks",
-      "to manage network security",
-      "to provide internet access",
-      "to distribute workload across multiple servers to improve responsiveness and reliability"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In object-oriented programming, what is an abstract class?",
-    "options": [
-      "a class that can be instantiated and is used to provide a common base class for inheritance",
-      "a class that cannot be instantiated and is used to provide a common base class for inheritance",
-      "a class that is used to provide a common implementation for inheritance",
-      "a class that is used to provide a common interface for inheritance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of protecting a computer system or network from unauthorized access?",
-    "options": [
-      "network security",
-      "computer security",
-      "cybersecurity",
-      "data encryption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In object-oriented programming, what is a decorator?",
-    "options": [
-      "a function that takes another function as an argument and returns a new function that has the same behavior as the original function",
-      "a function that takes another function as an argument and returns a new function that wraps the original function with additional behavior",
-      "a function that takes another function as an argument and returns the original function unchanged",
-      "a function that takes another function as an argument and returns a new function that adds additional behavior to the original function"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Caribbean ICT development, what is the role of the Caribbean Association of National Telecommunication Organizations?",
-    "options": [
-      "to provide internet access in the Caribbean region",
-      "to manage network security in the Caribbean region",
-      "to promote the development of telecommunications in the Caribbean region",
-      "to regulate telecommunications in the Caribbean region"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of converting data from one format to another?",
-    "options": [
-      "data hashing",
-      "data encryption",
-      "data conversion",
-      "data compression"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Caribbean ICT development, what is the role of the Caribbean Telecommunications Union?",
-    "options": [
-      "to promote the development of telecommunications in the Caribbean region",
-      "to regulate telecommunications in the Caribbean region",
-      "to provide internet access in the Caribbean region",
-      "to manage network security in the Caribbean region"
+      "Thread",
+      "Process",
+      "Program",
+      "Service"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a network switch?",
+    "options": [
+      "Managing network security",
+      "Providing internet access to users",
+      "Configuring network settings",
+      "Routing data packets between devices on a network"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a firewall in a network?",
+    "options": [
+      "Providing internet access to users",
+      "Configuring network settings",
+      "Blocking unauthorized access to the network",
+      "Managing network security"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a network bridge?",
+    "options": [
+      "Managing network security",
+      "Configuring network settings",
+      "Providing internet access to users",
+      "Connecting multiple networks together"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of creating a new object from an existing object?",
+    "options": [
+      "Cloning",
+      "Inheritance",
+      "Polymorphism",
+      "Encapsulation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In software engineering, what is the term for the process of identifying and mitigating the risks associated with a project?",
+    "options": [
+      "Task management",
+      "Resource allocation",
+      "Risk management",
+      "Project management"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of making an object visible to other objects?",
+    "options": [
+      "Abstract",
+      "Public",
+      "Protected",
+      "Private"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of hiding the implementation details of a class from the outside world?",
+    "options": [
+      "Inheritance",
+      "Abstraction",
+      "Encapsulation",
+      "Polymorphism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a type of attack where an attacker sends a malicious email to a user in an attempt to trick them into revealing sensitive information?",
+    "options": [
+      "Phishing attack",
+      "Whaling attack",
+      "Spear phishing attack",
+      "Denial of Service (DoS) attack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In software engineering, what is the term for the process of identifying and prioritizing the tasks required to complete a project?",
+    "options": [
+      "Risk management",
+      "Resource allocation",
+      "Project management",
+      "Task management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of data storage that is organized around a central hub or node?",
+    "options": [
+      "Bus topology",
+      "Mesh topology",
+      "Ring topology",
+      "Star topology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of creating a new class from an existing class?",
+    "options": [
+      "Polymorphism",
+      "Abstraction",
+      "Inheritance",
+      "Encapsulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the process of hiding the implementation details of an object from the outside world?",
+    "options": [
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance",
+      "Abstraction"
+    ],
+    "correctIndex": 1
   }
 ]

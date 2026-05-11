@@ -1,41 +1,121 @@
 [
   {
-    "question": "What is the term for the process by which a solution becomes saturated with a particular solute?",
+    "question": "What is the term for the chemical reaction in which a gas reacts with a liquid to produce a new substance?",
     "options": [
-      "chemical equilibrium",
-      "solubility equilibrium",
-      "phase equilibrium",
-      "electrochemical equilibrium"
+      "liquid-gas reaction",
+      "gas-solid reaction",
+      "gas-liquid reaction",
+      "solid-gas reaction"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the scientific term for the study of the behavior of chemical systems in the presence of a magnetic field?",
+    "question": "What is the term for the chemical reaction in which a gas reacts with a solid to produce a new substance?",
     "options": [
-      "Electrochemistry",
-      "Magnetism",
-      "Kinetics",
-      "Thermodynamics"
+      "solid-gas reaction",
+      "gas-liquid reaction",
+      "gas-solid reaction",
+      "liquid-gas reaction"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the type of spectroscopy that involves the interaction between matter and electromagnetic radiation in the infrared region?",
+    "question": "What is the term for the electrochemical process by which a metal is converted into ions at an anode during an electrolysis?",
     "options": [
-      "ultraviolet spectroscopy",
+      "anodic oxidation",
+      "cathodic oxidation",
+      "cathodic reduction",
+      "anodic reduction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the amount of substance that will react with a given amount of another substance at a given temperature and pressure?",
+    "options": [
+      "stoichiometry",
+      "molarity",
+      "density",
+      "mole fraction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the physical change in which a liquid changes to a gas at the surface of a solid?",
+    "options": [
+      "sublimation",
+      "evaporation",
+      "melting",
+      "condensation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of chemical reaction involves the removal of oxygen or addition of hydrogen to a substance?",
+    "options": [
+      "replacement reaction",
+      "oxidation reaction",
+      "reduction reaction",
+      "decomposition reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the physical change in which a gas changes to a liquid at the surface of a solid, accompanied by a change in the state of the gas and the liquid?",
+    "options": [
+      "evaporation",
+      "melting",
+      "condensation with phase change",
+      "sublimation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the organic compound that is formed by the replacement of a hydrogen atom with an alkyl group?",
+    "options": [
+      "alkylation",
+      "alkylation",
+      "alkylation reaction",
+      "substitution reaction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the energy of electrons in an atom using X-rays?",
+    "options": [
+      "mass spectroscopy",
       "infrared spectroscopy",
       "nuclear magnetic resonance spectroscopy",
-      "visible spectroscopy"
+      "X-ray spectroscopy"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What type of bond is formed when a hydrogen atom shares its electrons with a non-metal atom?",
+    "question": "What is the term for the physical change in which a gas changes to a liquid at the surface of a solid?",
     "options": [
-      "covalent",
-      "polar covalent",
-      "ionic",
-      "metallic"
+      "evaporation",
+      "sublimation",
+      "condensation",
+      "deposition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the chemical reaction in which a gas reacts with a liquid to produce a new substance, accompanied by a change in the state of the reactants?",
+    "options": [
+      "solid-gas reaction",
+      "gas-solid reaction",
+      "liquid-gas reaction",
+      "gas-liquid reaction with phase change"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the chemical reaction in which a gas reacts with a liquid to produce a new substance, accompanied by a change in the state of the gas and the liquid?",
+    "options": [
+      "gas-liquid reaction with phase change",
+      "gas-solid reaction",
+      "solid-gas reaction",
+      "liquid-gas reaction"
     ],
     "correctIndex": 0
   }

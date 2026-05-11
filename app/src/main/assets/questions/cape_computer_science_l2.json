@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the term for a variable that holds a value that is changed by the program?",
+    "question": "Which algorithm is used to solve the knapsack problem?",
     "options": [
-      "Immutable variable",
-      "Static variable",
-      "Mutable variable",
-      "Constant variable"
+      "Genetic algorithm",
+      "Dynamic programming",
+      "Greedy algorithm",
+      "Nearest Neighbor algorithm"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for the process of breaking down a problem into smaller sub-problems?",
+    "question": "What is the term for the process of analyzing the behavior of a software system?",
     "options": [
-      "Bottom-Up Approach",
-      "Recursion",
-      "Top-Down Approach",
-      "Divide and Conquer"
+      "Software performance analysis",
+      "Software security analysis",
+      "Software testing",
+      "Software reliability analysis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of protecting data from unauthorized access or damage during transmission?",
+    "options": [
+      "Data compression",
+      "Data recovery",
+      "Data backup",
+      "Data encryption"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a data structure that consists of a set of nodes, each of which has a value and a reference to the next node?",
+    "question": "Which programming language is used for web development and is known for its dynamic typing?",
     "options": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Java"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which database model organizes data into a collection of records, each with its own set of fields?",
+    "options": [
+      "Relational model",
+      "Hierarchical model",
+      "Flat file model",
+      "Network model"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of defining the requirements of a software system?",
+    "options": [
+      "Testing and validation",
+      "Requirements gathering",
+      "Software design",
+      "System analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of protecting data from unauthorized access or damage?",
+    "options": [
+      "Data security",
+      "Data recovery",
+      "Data integrity",
+      "Data backup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which network topology is characterized by each device connected to every other device?",
+    "options": [
+      "Star network",
+      "Fully connected network",
+      "Bus network",
+      "Ring network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which programming language is used for web development and is known for its static typing?",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which data structure is used to store a collection of items in a specific order, allowing efficient insertion and deletion?",
+    "options": [
+      "Queue",
+      "Array",
       "Stack",
-      "Linked List",
-      "Queue",
-      "Array"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the software development life cycle in developing a software product?",
-    "options": [
-      "It provides a way of maintaining a software product.",
-      "It provides a way of testing a software product.",
-      "It provides a way of deploying a software product.",
-      "It provides a structured and organized way of developing a software product."
+      "Linked List"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the time complexity of the Bubble Sort algorithm?",
+    "question": "What is the term for the process of ensuring that a software system meets the specified requirements?",
     "options": [
-      "O(n^2)",
-      "O(n log n)",
-      "O(n)",
-      "O(1)"
+      "Software validation",
+      "Software testing",
+      "System testing",
+      "Software verification"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "What is the term for a set of instructions that a computer follows to solve a problem?",
+    "question": "Which programming paradigm emphasizes the use of functions and procedures to organize code, with a focus on procedure call and return?",
     "options": [
-      "Program",
-      "Procedure",
-      "Algorithm",
-      "Data"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of programming that emphasizes the use of objects and classes to represent real-world entities?",
-    "options": [
-      "Object-Oriented Programming (OOP)",
+      "Procedural Programming",
+      "Declarative Programming",
       "Functional Programming",
-      "Event-Driven Programming",
-      "Procedural Programming"
+      "Object-Oriented Programming"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a data structure that consists of a collection of key-value pairs?",
+    "question": "What is the term for the process of creating a new program by modifying or combining existing programs?",
     "options": [
-      "Tree",
-      "Hash Table",
-      "Queue",
-      "Stack"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary advantage of using encapsulation in object-oriented programming?",
-    "options": [
-      "Reduced code readability",
-      "Faster execution time",
-      "Increased code complexity",
-      "Improved code modularity and reusability."
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of the router in a network?",
-    "options": [
-      "It forwards packets of data between devices on the network.",
-      "It sends packets of data to devices on the network.",
-      "It allocates IP addresses to devices on the network.",
-      "It receives packets of data from devices on the network."
+      "Program derivation",
+      "Program refactoring",
+      "Program transformation",
+      "Software reuse"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary function of the operating system in managing the computer's memory?",
+    "question": "What is the term for the process of creating a software system that can be easily reused or modified?",
     "options": [
-      "It runs programs on the computer.",
-      "It communicates with devices.",
-      "It stores programs on the computer.",
-      "It allocates and deallocates memory for running programs."
+      "Software design for change",
+      "Software design for scalability",
+      "Software design for maintainability",
+      "Software design for reusability"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a type of programming that emphasizes the use of objects and classes to represent real-world entities?",
+    "question": "What is the term for the process of converting a high-level language program into machine code?",
     "options": [
-      "Event-Driven Programming",
-      "Object-Oriented Programming (OOP)",
-      "Functional Programming",
-      "Procedural Programming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the Caribbean Information and Communication Technology (ICT) development in the region?",
-    "options": [
-      "It provides a way of storing data in a file.",
-      "It provides a way of retrieving data from a file.",
-      "It provides a way of updating data in a file.",
-      "It promotes the development and use of ICT in the region."
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary difference between a linked list and an array?",
-    "options": [
-      "The order of elements in a linked list is static and cannot change as the program executes.",
-      "The order of elements in a linked list is dynamic and can change as the program executes.",
-      "A linked list is faster than an array.",
-      "An array is faster than a linked list."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a method of software development that emphasizes rapid development and delivery of working software?",
-    "options": [
-      "Waterfall Development",
-      "Iterative Development",
-      "Agile Development",
-      "Incremental Development"
+      "Linking",
+      "Interpretation",
+      "Compilation",
+      "Loading"
     ],
     "correctIndex": 2
   }

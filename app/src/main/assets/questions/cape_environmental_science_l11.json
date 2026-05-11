@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which biogeochemical cycle is most directly responsible for the formation of acid rain through the oxidation of sulfur dioxide in the atmosphere?",
+    "question": "Which of the following is a type of pollution that occurs when chemicals are released into the air and cause harm to humans, animals, and plants?",
     "options": [
-      "The carbon cycle",
-      "The nitrogen cycle",
-      "The sulfur cycle",
-      "The phosphorus cycle"
+      "air pollution",
+      "thermal pollution",
+      "soil pollution",
+      "water pollution"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "In the context of ecosystem services, which term describes the regulation of climate, floods, disease, and water quality by natural systems?",
+    "question": "What is the concept of 'ecosystem services' in the context of environmental management?",
     "options": [
-      "Provisioning services",
-      "Cultural services",
-      "Regulating services",
-      "Supporting services"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Intergovernmental Panel on Climate Change (IPCC) uses Representative Concentration Pathways (RCPs) to model future climate scenarios. Which RCP represents the most severe greenhouse gas emission trajectory?",
-    "options": [
-      "RCP 2.6",
-      "RCP 4.5",
-      "RCP 6.0",
-      "RCP 8.5"
+      "The costs of maintaining ecosystems",
+      "The potential economic benefits of ecosystem degradation",
+      "The impacts of human activities on ecosystems",
+      "The benefits that humans derive from ecosystems, such as clean air and water, food, and climate regulation."
     ],
     "correctIndex": 3
   },
   {
-    "question": "A soil horizon labelled 'O' in a soil profile primarily consists of which material?",
+    "question": "Which of the following natural resources is renewable?",
     "options": [
-      "Weathered parent rock material",
-      "Partially decomposed and fresh organic matter",
-      "Leached minerals and clay",
-      "Iron and aluminium oxides"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which principle of environmental law requires that preventive action should be taken even if some cause-and-effect relationships are not fully established scientifically?",
-    "options": [
-      "The polluter pays principle",
-      "The precautionary principle",
-      "The principle of sustainable development",
-      "The principle of intergenerational equity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Eutrophication in aquatic ecosystems leads to hypoxic conditions primarily because of which sequence of events?",
-    "options": [
-      "Increased nutrient input leads to algal blooms, algal death increases microbial decomposition consuming dissolved oxygen",
-      "Increased turbidity reduces photosynthesis causing oxygen depletion directly",
-      "Thermal stratification prevents oxygen diffusion from surface to deeper water",
-      "Heavy metals inhibit gill function in fish reducing biological oxygen demand"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a Leslie matrix population model used for age-structured populations, what do the sub-diagonal entries represent?",
-    "options": [
-      "Fecundity rates for each age class",
-      "Survival probabilities from one age class to the next",
-      "Immigration rates between habitat patches",
-      "Mortality rates independent of age class"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Montreal Protocol was specifically designed to address the phase-out of which class of chemical compounds?",
-    "options": [
-      "Polychlorinated biphenyls (PCBs)",
-      "Chlorofluorocarbons (CFCs) and other ozone-depleting substances",
-      "Persistent organic pollutants (POPs)",
-      "Volatile organic compounds (VOCs)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which energy policy instrument uses tradeable permits to allow market forces to determine the most cost-effective means of reducing overall pollution?",
-    "options": [
-      "Carbon tax",
-      "Command and control regulation",
-      "Cap and trade system",
-      "Environmental impact assessment"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In ecotoxicology, the LC50 value of a substance refers to which measurement?",
-    "options": [
-      "The concentration lethal to 50% of test organisms over a specified time",
-      "The lowest concentration at which any toxic effect is observed",
-      "The concentration causing 50% inhibition of reproduction",
-      "The median threshold concentration below which no mortality occurs"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which process in the nitrogen cycle converts nitrates (NO3-) back into atmospheric nitrogen gas (N2) under anaerobic conditions?",
-    "options": [
-      "Nitrification",
-      "Ammonification",
-      "Nitrogen fixation",
-      "Denitrification"
+      "timber",
+      "fossil fuel",
+      "mineral water",
+      "solar energy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The concept of 'ecological debt' refers most accurately to which idea?",
+    "question": "What is the main difference between a climax community and a pioneer community?",
     "options": [
-      "Financial loans taken by developing nations for environmental projects",
-      "The degree to which wealthy nations have over-exploited global ecological resources relative to their fair share",
-      "The accumulated cost of biodiversity loss in monetary terms",
-      "Carbon credits owed between nations under the Kyoto Protocol"
+      "Climax community is a stable community that has reached its maximum diversity and composition, whereas pioneer community is a temporary community that exists in a newly formed or disturbed ecosystem.",
+      "Climax community is more diverse than pioneer community",
+      "Pioneer community is a stable community that has reached its maximum diversity",
+      "Climax community is less diverse than pioneer community"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which the Earth's natural resources are depleted or destroyed as a result of human activities?",
+    "options": [
+      "resource depletion",
+      "conservation",
+      "sustainable resource management",
+      "exploitation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the impact of pollution on ecosystems in the Caribbean region?",
+    "options": [
+      "Positive impacts on ecosystems",
+      "Increased ecosystem productivity",
+      "No impact on ecosystems",
+      "Habitat degradation, loss of biodiversity, and decreased ecosystem productivity, which can have negative impacts on human health and well-being."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following natural resources is non-renewable?",
+    "options": [
+      "wind energy",
+      "hydro energy",
+      "solar energy",
+      "fossil fuel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main difference between renewable and non-renewable resources?",
+    "options": [
+      "Renewable resources are finite and cannot be replenished",
+      "Non-renewable resources are naturally replenished over time",
+      "Renewable resources are not naturally replenished",
+      "Renewable resources are naturally replenished over time, whereas non-renewable resources are finite and cannot be replenished."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary factor that contributes to the loss of biodiversity in the Caribbean region?",
+    "options": [
+      "Pollution is the primary factor",
+      "Habitat destruction and fragmentation due to human activities such as deforestation and urbanization.",
+      "Climate change is the primary factor",
+      "Overexploitation of species is the primary factor"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which remote sensing technique uses microwave radar pulses to create topographic maps and can penetrate cloud cover, making it particularly useful for mapping tropical deforestation?",
+    "question": "Which of the following natural hazards can cause widespread damage and loss of life in tropical regions?",
     "options": [
-      "Multispectral imaging",
-      "LiDAR",
-      "Synthetic Aperture Radar (SAR)",
-      "Thermal infrared sensing"
+      "droughts",
+      "earthquakes",
+      "tsunamis",
+      "hurricanes"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a ENSO (El Ni\u00f1o-Southern Oscillation) El Ni\u00f1o event, which of the following best describes changes in the tropical Pacific Ocean?",
+    "question": "What is the concept of 'sustainable development' in the context of environmental management?",
     "options": [
-      "Trade winds strengthen, upwelling increases off South America and sea surface temperatures cool",
-      "Trade winds weaken, warm water migrates eastward and upwelling off South America diminishes",
-      "Thermocline deepens in the western Pacific and surface temperatures in the central Pacific decrease",
-      "La Ni\u00f1a conditions intensify causing drought in Australia and flooding in South America"
+      "The prioritization of economic objectives over social and environmental objectives",
+      "The minimization of environmental impacts without consideration for economic and social needs",
+      "The integration of economic, social, and environmental objectives to meet the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "The maximization of economic growth without consideration for environmental and social impacts"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Under the Caribbean Community (CARICOM) framework, which instrument specifically addresses the management of marine and coastal resources in the wider Caribbean region?",
+    "question": "What is the main goal of environmental impact assessment (EIA) in the Caribbean region?",
     "options": [
-      "The Cartagena Convention and its protocols",
-      "The Basel Convention",
-      "The Stockholm Convention",
-      "The Aarhus Convention"
+      "To monitor and regulate environmental pollution",
+      "To promote sustainable development",
+      "To identify and mitigate the potential environmental impacts of a project or policy on the natural environment and human communities.",
+      "To identify and exploit the potential economic benefits of a project or policy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following natural hazards can cause widespread damage and loss of life in the Caribbean region?",
+    "options": [
+      "hurricanes",
+      "droughts",
+      "earthquakes",
+      "tsunamis"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement of people from one place to another in search of employment and better living conditions?",
+    "options": [
+      "ruralization",
+      "urbanization",
+      "migration",
+      "counterurbanization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main challenge in implementing environmental policies in the Caribbean region?",
+    "options": [
+      "Insufficient funding and investment",
+      "Limited institutional capacity and resources, lack of public awareness and education, and competing economic and social priorities.",
+      "Lack of international cooperation and coordination",
+      "Inadequate scientific research and data"
+    ],
+    "correctIndex": 1
   }
 ]

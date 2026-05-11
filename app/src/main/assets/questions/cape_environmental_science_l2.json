@@ -1,152 +1,112 @@
 [
   {
-    "question": "Which of the following best describes a renewable resource?",
+    "question": "What is the term for the process by which the Earth's climate is changing?",
     "options": [
-      "A resource that can be replenished naturally within a human timescale",
-      "A resource that is found only in tropical regions",
-      "A resource that cannot be replaced once used",
-      "A resource that is only available in limited quantities"
+      "greenhouse effect",
+      "pollution",
+      "global warming",
+      "climate change"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main impact of natural hazards on ecosystems?",
+    "options": [
+      "no impact on ecosystems",
+      "destruction of habitats",
+      "reduction of biodiversity",
+      "creation of habitats"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main reason for the loss of biodiversity in ecosystems?",
+    "options": [
+      "overexploitation",
+      "natural disasters",
+      "climate change",
+      "habitat destruction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main cause of eutrophication?",
+    "options": [
+      "excess nutrients",
+      "pollution",
+      "deficiency of nutrients",
+      "climate change"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the main greenhouse gas produced by the burning of fossil fuels?",
+    "question": "What is the term for the process by which plants release water vapor into the air?",
     "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Nitrogen",
-      "Hydrogen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which layer of the atmosphere contains the ozone layer?",
-    "options": [
-      "Troposphere",
-      "Mesosphere",
-      "Stratosphere",
-      "Thermosphere"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is biodiversity?",
-    "options": [
-      "The study of birds in an ecosystem",
-      "The variety of life forms found in a given area",
-      "The process by which plants make food",
-      "The migration of animals between regions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a non-renewable energy source?",
-    "options": [
-      "Solar energy",
-      "Wind energy",
-      "Coal",
-      "Hydroelectric power"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What term describes the process by which water moves from the surface of the earth into the atmosphere?",
-    "options": [
-      "Precipitation",
-      "Evaporation",
-      "Infiltration",
-      "Runoff"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of pollution is caused by excessive nutrients entering a water body, leading to algal blooms?",
-    "options": [
-      "Thermal pollution",
-      "Noise pollution",
-      "Eutrophication",
-      "Acid rain"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the variety of different ecosystems found within a region?",
-    "options": [
-      "Species diversity",
-      "Genetic diversity",
-      "Ecosystem diversity",
-      "Population diversity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the carbon cycle?",
-    "options": [
-      "The movement of water through the environment",
-      "The circulation of carbon through living organisms and the environment",
-      "The process of breaking down rocks over time",
-      "The migration patterns of carbon-based animals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is deforestation?",
-    "options": [
-      "The planting of new trees in an area",
-      "The clearing or removal of forests on a large scale",
-      "The natural death of trees due to disease",
-      "The study of forest ecosystems"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a consequence of the greenhouse effect?",
-    "options": [
-      "Decrease in global temperatures",
-      "Increase in global temperatures",
-      "Reduction in atmospheric carbon dioxide",
-      "Increase in ozone layer thickness"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'sustainable development' mean?",
-    "options": [
-      "Development that meets current needs without compromising future generations' ability to meet their own needs",
-      "Development that focuses only on economic growth",
-      "Development that exploits natural resources as quickly as possible",
-      "Development that ignores environmental concerns"
+      "transpiration",
+      "runoff",
+      "precipitation",
+      "evaporation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is an example of a primary pollutant?",
+    "question": "What is the term for the process by which the Earth's climate is changing?",
     "options": [
-      "Ozone formed in smog",
-      "Sulfuric acid in acid rain",
-      "Sulfur dioxide from burning coal",
-      "Photochemical smog"
+      "climate change",
+      "pollution",
+      "global warming",
+      "greenhouse effect"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the role of decomposers in an ecosystem?",
+    "question": "What is the main goal of environmental management?",
     "options": [
-      "To produce food through photosynthesis",
-      "To break down dead organic matter and recycle nutrients",
-      "To consume living plants and animals",
-      "To fix nitrogen gas from the atmosphere"
+      "to increase population growth",
+      "to promote economic growth",
+      "to reduce poverty",
+      "to protect the environment and promote sustainable development"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main driver of deforestation?",
+    "options": [
+      "urbanization",
+      "agriculture",
+      "overpopulation",
+      "logging"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which human activity is most responsible for the destruction of coral reefs?",
+    "question": "What is the main driver of climate change?",
     "options": [
-      "Sustainable fishing practices",
-      "Reforestation programs",
-      "Climate change and ocean acidification",
-      "Wind energy development"
+      "overpopulation",
+      "burning of fossil fuels",
+      "urbanization",
+      "deforestation"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which the Earth's atmosphere is cooled?",
+    "options": [
+      "global warming",
+      "atmospheric cooling",
+      "greenhouse effect",
+      "radiative cooling"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which the sun's energy is absorbed by the Earth's surface?",
+    "options": [
+      "thermal radiation",
+      "ionizing radiation",
+      "electromagnetic radiation",
+      "solar radiation"
+    ],
+    "correctIndex": 3
   }
 ]

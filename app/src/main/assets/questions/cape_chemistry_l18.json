@@ -1,71 +1,151 @@
 [
   {
-    "question": "What is the term for the process by which a gas is converted into a liquid by cooling it below its critical temperature?",
+    "question": "What is the term for the type of reaction in which a molecule gains a group of atoms in a single step?",
     "options": [
-      "adsorption",
-      "condensation",
-      "sublimation",
-      "evaporation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The half-life of a radioactive substance is 10 years. If the initial mass of the substance is 100g, what is the mass remaining after 20 years?",
-    "options": [
-      "50g",
-      "80g",
-      "25g",
-      "75g"
+      "Unimolecular reaction",
+      "Bimolecular reaction",
+      "Multimolecular reaction",
+      "Trimolecular reaction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A reaction has an activation energy of 60 kJ/mol. If the rate constant at 20\u00b0C is 0.001 min-1, what is the rate constant at 40\u00b0C?",
+    "question": "What is the term for the type of chemical bonding that results from the overlap of atomic orbitals along a line?",
     "options": [
-      "0.01 min-1",
-      "0.02 min-1",
-      "0.1 min-1",
-      "0.05 min-1"
+      "\u03c3-bonding",
+      "\u03c0-bonding",
+      "\u03c3\u2217-bonding",
+      "\u03b4-bonding"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "The standard enthalpy of formation of a certain compound is +200 kJ/mol. What is the standard entropy change for the formation of this compound?",
+    "question": "What is the term for the type of reaction that involves the reaction of a gas with a solid to produce a new substance, without a change in the state of the reactants, with the gas being a halogen?",
     "options": [
-      "-100 J/K\u00b7mol",
-      "-400 kJ/K\u00b7mol",
-      "-200 kJ/K\u00b7mol",
-      "0 J/K\u00b7mol"
+      "Redox reaction",
+      "Acid-base reaction",
+      "Haloggenation reaction",
+      "Neutralization reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a metal with a nonmetal to produce a salt and hydrogen gas, with the nonmetal being a metal?",
+    "options": [
+      "Acid-base reaction",
+      "Neutralization reaction",
+      "Redox reaction",
+      "Metal-metal reaction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the study of the chemical effects of light on chemical systems?",
+    "question": "What is the term for the term for the energy change associated with the formation of a mole of a substance, at a constant pressure?",
     "options": [
-      "photobiology",
-      "chromophores",
-      "spectroscopy",
-      "photochemistry"
+      "Standard enthalpy of reaction",
+      "Standard enthalpy of combustion",
+      "Standard enthalpy of formation",
+      "Standard enthalpy of neutralization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the phenomenon by which a molecule emits light at a wavelength that is not the frequency of the transition and has a longer lifetime than fluorescence?",
+    "options": [
+      "Bioluminescence",
+      "Fluorescence",
+      "Photoluminescence",
+      "Phosphorescence"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the process by which a substance is broken down into simpler substances by the action of heat, light, or chemicals?",
+    "question": "What is the term for the phenomenon by which a molecule absorbs light at a wavelength that is not the frequency of the transition?",
     "options": [
-      "replacement reaction",
-      "decomposition reaction",
-      "synthesis reaction",
-      "oxidation reaction"
+      "Anomalous dispersion",
+      "Rotational Raman scattering",
+      "Normal dispersion",
+      "Resonance Raman scattering"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the potential difference between two electrodes in an electrochemical cell?",
+    "options": [
+      "Potential difference",
+      "Electromotive force (EMF)",
+      "Voltage",
+      "Electrical potential difference"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A 0.1 M solution of a weak base has a pOH of 11. What is the concentration of hydroxide ions in the solution?",
+    "question": "The standard enthalpy of formation of a compound is the enthalpy change when one mole of the compound is formed from its constituent elements in their standard states. What is the standard enthalpy of formation of CO2(g) at 298 K?",
     "options": [
-      "10^-14 M",
-      "10^-11 M",
-      "10^-9 M",
-      "10^-13 M"
+      "+393.5 kJ/mol",
+      "-393.0 kJ/mol",
+      "+393.0 kJ/mol",
+      "-393.5 kJ/mol"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule loses a group of atoms?",
+    "options": [
+      "Condensation reaction",
+      "Substitution reaction",
+      "Elimination reaction",
+      "Addition reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of electrochemical cell that uses a salt bridge to connect the anode and cathode?",
+    "options": [
+      "Fuel cell",
+      "Salt bridge cell",
+      "Galvanic cell",
+      "Electrolytic cell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the energy associated with the motion of nuclei in a molecule?",
+    "options": [
+      "Nuclear potential energy",
+      "Nuclear bond energy",
+      "Nuclear thermal energy",
+      "Nuclear kinetic energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the phenomenon by which a molecule scatters light at a wavelength that is not the frequency of the transition?",
+    "options": [
+      "Phosphorescence",
+      "Fluorescence",
+      "Raman scattering",
+      "Photoluminescence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the phenomenon by which a solution becomes less concentrated as a solute is added to it?",
+    "options": [
+      "Osmotic desalination",
+      "Reverse osmosis",
+      "Osmotic dilution",
+      "Osmotic equilibrium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the phenomenon by which a molecule absorbs light at a wavelength that is not the frequency of the transition?",
+    "options": [
+      "Resonance Raman scattering",
+      "Anomalous dispersion",
+      "Normal dispersion",
+      "Rotational Raman scattering"
     ],
     "correctIndex": 1
   }

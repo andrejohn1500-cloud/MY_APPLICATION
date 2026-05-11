@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the term for the energy change that occurs when a system is isolated from its surroundings?",
+    "question": "What is the term for the chemical reaction in which a gas reacts with a solid to produce a new substance, accompanied by a change in the state of the gas, the solid, and the product?",
     "options": [
-      "enthalpy change",
-      "internal energy change",
-      "entropy change",
-      "free energy change"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of reaction where a liquid is converted into a gas?",
-    "options": [
-      "Evaporation",
-      "Vaporization",
-      "Condensation",
-      "Freezing"
+      "gas-liquid reaction",
+      "gas-solid reaction with phase change",
+      "solid-gas reaction",
+      "gas-solid reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of equilibrium that occurs when a solid dissolves in a liquid?",
-    "options": [
-      "chemical equilibrium",
-      "electrochemical equilibrium",
-      "phase equilibrium",
-      "solubility equilibrium"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of spectroscopy that involves the interaction between matter and electromagnetic radiation in the visible region?",
-    "options": [
-      "visible spectroscopy",
-      "ultraviolet spectroscopy",
-      "infrared spectroscopy",
-      "nuclear magnetic resonance spectroscopy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of chemical reaction that involves the replacement of one or more atoms or groups of atoms in a molecule?",
-    "options": [
-      "combination reaction",
-      "substitution reaction",
-      "elimination reaction",
-      "decomposition reaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the change in enthalpy of a system when the temperature is maintained constant?",
-    "options": [
-      "molar heat capacity",
-      "latent heat",
-      "heat capacity",
-      "specific heat capacity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the type of chemical bond that is formed between a metal atom and a non-metal atom in a crystal lattice?",
-    "options": [
-      "ionic",
-      "polar covalent",
-      "covalent",
-      "metallic"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of chemical bond that is formed between a metal atom and a non-metal atom?",
-    "options": [
-      "metallic",
-      "covalent",
-      "ionic",
-      "polar covalent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which a solid changes directly to a gas?",
+    "question": "What is the term for the physical change in which a gas changes to a liquid at the surface of a solid, accompanied by a change in the state of the gas?",
     "options": [
       "evaporation",
+      "melting",
       "sublimation",
-      "condensation",
-      "melting"
+      "condensation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the amount of energy required to change the state of a substance from a solid to a liquid?",
+    "options": [
+      "molar heat capacity",
+      "specific heat capacity",
+      "heat of vaporisation",
+      "heat of fusion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form, accompanied by a change in the state of the gas, the solid, and the product?",
+    "options": [
+      "acid roasting",
+      "reduction smelting with phase change",
+      "oxidation smelting",
+      "electrolysis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of chemical reaction that involves the removal of one or more atoms or groups of atoms from a molecule?",
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using an acid to dissolve the ore?",
     "options": [
-      "combination reaction",
-      "decomposition reaction",
-      "substitution reaction",
-      "elimination reaction"
+      "alkaline roasting",
+      "smelting",
+      "acid roasting",
+      "electrolysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the energy required to break the bonds between atoms in a molecule?",
+    "options": [
+      "chemical potential energy",
+      "bond formation energy",
+      "bond breaking energy",
+      "bond dissociation energy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of spectroscopy that involves the interaction between matter and electromagnetic radiation in the nuclear region?",
+    "question": "What is the term for the rate constant of a reaction that does not depend on the concentration of reactants?",
     "options": [
-      "ultraviolet spectroscopy",
-      "infrared spectroscopy",
-      "nuclear magnetic resonance spectroscopy",
-      "visible spectroscopy"
+      "rate constant",
+      "reaction rate",
+      "rate coefficient",
+      "units rate constant"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the arrangement of electrons in an atom in terms of their energy levels?",
+    "options": [
+      "electronic configuration",
+      "chemical bonding",
+      "molecular structure",
+      "atomic structure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form, accompanied by a change in the state of the gas, the solid, and the product?",
+    "options": [
+      "oxidation smelting",
+      "reduction smelting with phase change",
+      "acid roasting",
+      "electrolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the chemical reaction in which a gas reacts with a solid to produce a new substance, accompanied by a change in the state of the reactants?",
+    "options": [
+      "gas-liquid reaction",
+      "solid-gas reaction",
+      "gas-solid reaction with phase change",
+      "liquid-gas reaction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the rate at which a reaction occurs when the concentration of the reactants is doubled?",
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes, influenced by factors such as wind and temperature gradients, accompanied by a change in the state of the substance?",
     "options": [
-      "reaction order",
-      "rate equation",
-      "rate of reaction",
-      "reaction rate constant"
+      "migration",
+      "diffusion",
+      "advection",
+      "convection"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the maximum rate of a reaction that occurs when the concentration of the reactants is at its highest?",
+    "question": "What is the term for the equilibrium constant that is used to describe the equilibrium between a solid and a solution?",
     "options": [
-      "rate equation",
-      "reaction rate constant",
-      "rate of reaction",
-      "reaction order"
+      "water dissociation constant",
+      "base dissociation constant",
+      "solubility product constant",
+      "acid dissociation constant"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the type of chemical reaction that involves the breaking of a chemical bond between two atoms or molecules?",
+    "question": "Which type of chemical reaction involves the combination of two or more substances to form a new compound?",
     "options": [
-      "elimination reaction",
-      "substitution reaction",
-      "combination reaction",
+      "replacement reaction",
+      "synthesis reaction",
+      "oxidation reaction",
       "decomposition reaction"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for the energy change that occurs when a system is isolated from its surroundings and no work is done on or by the system?",
+    "question": "What is the process by which an atom or molecule gains one or more electrons to form an ion?",
     "options": [
-      "change in free energy",
-      "change in internal energy",
-      "change in entropy",
-      "change in enthalpy"
+      "ionisation",
+      "ion formation",
+      "protonation",
+      "ionisation energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form?",
+    "options": [
+      "electrolysis",
+      "reduction smelting",
+      "acid roasting",
+      "oxidation smelting"
     ],
     "correctIndex": 1
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for a reaction in which the concentrations of the reactants and products remain constant over time?",
+    "question": "What is the term for the term for the amount of a substance that is required to react with another substance in a given time?",
     "options": [
-      "stationarity concentration",
-      "equilibrium concentration",
-      "steady state concentration",
-      "stability concentration"
+      "Catalytic rate constant",
+      "Rate of reaction",
+      "Rate constant",
+      "Reaction rate constant"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a hydroxide ion with a weak acid to produce water and a salt?",
+    "options": [
+      "Redox reaction",
+      "Precipitation reaction",
+      "Neutralization reaction",
+      "Acid-base reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the phenomenon by which a sample of a substance appears to be in a different state than its actual state?",
+    "options": [
+      "Apparent state",
+      "Equilibrium state",
+      "Observed state",
+      "Thermodynamic state"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form, accompanied by a change in the state of the gas, the solid, the liquid, and the product?",
+    "options": [
+      "oxidation smelting",
+      "electrolysis",
+      "reduction smelting with phase change",
+      "acid roasting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a gas with a solid to produce a new substance, accompanied by a change in the state of the reactants?",
+    "options": [
+      "Solution reaction",
+      "Gas-gas reaction",
+      "Solid-gas reaction",
+      "Liquid-gas reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the phenomenon by which a sample of a substance appears to be in a different state than its actual state, due to the presence of a solvent?",
+    "options": [
+      "Apparent state",
+      "Observed state",
+      "Solvent-induced state",
+      "Equilibrium state"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the chemical bond that arises between two atoms when one atom transfers one or more electrons to the other atom?",
+    "options": [
+      "hydrogen bond",
+      "dipole-dipole bond",
+      "covalent bond",
+      "ionic bond"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the maximum rate of reaction achieved by a catalyst?",
+    "options": [
+      "Catalytic constant",
+      "Rate constant",
+      "Catalytic efficiency",
+      "Catalytic rate constant"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the term for the amount of a substance that reacts with another substance in a given time?",
+    "options": [
+      "Reaction rate constant",
+      "Catalytic rate constant",
+      "Rate constant",
+      "Rate of reaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a gas with a solid to produce a new substance, accompanied by a change in the state of the reactants, with the gas being a halogen?",
+    "options": [
+      "Redox reaction",
+      "Acid-base reaction",
+      "Haloggenation reaction",
+      "Neutralization reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of chemical bond that is formed between two atoms when they share a pair of electrons?",
+    "options": [
+      "delta bond",
+      "sigma bond",
+      "phi bond",
+      "pi bond"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a reaction in which the concentrations of the reactants and products remain constant over time?",
+    "question": "For a reaction with a negative activation energy, what is the effect on the rates of reaction?",
     "options": [
-      "steady state",
-      "stability",
-      "stationarity",
-      "equilibrium"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the rate constant of a second-order reaction?",
-    "options": [
-      "k = [A]^2/t",
-      "k = [A]^2",
-      "k = [A]",
-      "k = [A]/t"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process by which a molecule with a double bond is converted to a molecule with a single bond?",
-    "options": [
-      "reduction reaction",
-      "dissociation reaction",
-      "oxidation reaction",
-      "decomposition reaction"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the increase in the kinetic energy of the particles of a substance when it is heated?",
-    "options": [
-      "thermal diffusion",
-      "thermal expansion",
-      "thermal conductivity",
-      "thermal energy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a collision between two molecules that results in a chemical reaction?",
-    "options": [
-      "ineffective collision",
-      "noncollision",
-      "collision",
-      "effective collision"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A reaction has a high activation energy barrier. What can be done to increase the rate of the reaction?",
-    "options": [
-      "Increasing the surface area of reactants",
-      "Using a catalyst",
-      "Increasing the temperature",
-      "Increasing the concentration of reactants"
+      "No effect on rates of reaction",
+      "Decreased rates of reaction",
+      "Increased rates of reaction",
+      "No change in reaction mechanism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a reaction in which the concentration of a reactant decreases over time?",
-    "options": [
-      "decrease in concentration",
-      "constant concentration",
-      "increase in concentration",
-      "stationary concentration"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy required to remove an electron from a mole of gaseous atoms in the gaseous state?",
-    "options": [
-      "electron affinity",
-      "electron gain energy",
-      "ionization energy",
-      "electron binding energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which a metal gains electrons to form a negatively charged ion?",
-    "options": [
-      "ion formation",
-      "ion loss",
-      "ion gain",
-      "ionization"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process by which a solid changes directly to a gas without going through the liquid phase?",
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes, influenced by factors such as wind and temperature gradients, accompanied by a change in the state of the gas, the solid, the liquid, and the product?",
     "options": [
       "diffusion",
-      "effusion",
-      "sublimation",
-      "decomposition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the minimum energy required for a molecule to escape from the surface of a liquid?",
-    "options": [
-      "viscosity",
-      "vapour pressure",
-      "surface tension",
-      "diffusion coefficient"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the type of electrochemical cell in which an oxidation reaction occurs at the cathode?",
-    "options": [
-      "photoelectrochemical cell",
-      "fuel cell",
-      "electrolytic cell",
-      "galvanic cell"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the maximum amount of a solute that can be dissolved in a given amount of solvent at a particular temperature?",
-    "options": [
-      "phase equilibrium",
-      "solubility equilibrium",
-      "chemical equilibrium",
-      "solubility"
+      "migration",
+      "convection",
+      "advection with phase change"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the process by which a molecule with a single bond is converted to a molecule with a double bond?",
+    "question": "Which type of chemical bond is formed between a metal atom and a nonmetal atom in a salt?",
     "options": [
-      "oxidation reaction",
-      "dissociation reaction",
-      "reduction reaction",
-      "decomposition reaction"
+      "Covalent bond",
+      "Hydrogen bond",
+      "Polar covalent bond",
+      "Ionic bond"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the chemical reaction in which a gas reacts with a solid to produce a new substance, accompanied by a change in the state of the gas, the solid, the liquid, and the product?",
+    "options": [
+      "solid-gas reaction",
+      "gas-solid reaction with phase change",
+      "gas-liquid reaction",
+      "gas-solid reaction"
+    ],
+    "correctIndex": 1
   }
 ]

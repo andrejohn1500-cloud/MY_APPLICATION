@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is the correct definition of an ecosystem?",
+    "question": "What is the main goal of sustainable development?",
     "options": [
-      "A community of organisms living in a particular area",
-      "A community of organisms and their non-living environment interacting together",
-      "The total number of species in a given area",
-      "The physical environment in which organisms live"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas makes up the largest percentage of Earth's atmosphere?",
-    "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Nitrogen",
-      "Argon"
+      "reducing poverty",
+      "preserving natural resources",
+      "meeting the needs of the present without compromising the ability of future generations to meet their own needs",
+      "maximizing economic growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary source of energy for most ecosystems on Earth?",
+    "question": "What is the main goal of environmental policy?",
     "options": [
-      "Wind energy",
-      "Solar energy",
-      "Geothermal energy",
-      "Chemical energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a non-renewable resource?",
-    "options": [
-      "Solar energy",
-      "Wind energy",
-      "Coal",
-      "Timber"
+      "to reduce poverty",
+      "to increase population growth",
+      "to protect the environment and promote sustainable development",
+      "to promote economic growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What process do plants use to convert sunlight into food?",
+    "question": "What is the term for the movement of pollutants through the air, water, or soil from one location to another?",
     "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Decomposition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which layer of the atmosphere contains the ozone layer?",
-    "options": [
-      "Troposphere",
-      "Stratosphere",
-      "Mesosphere",
-      "Thermosphere"
+      "diffuse pollution",
+      "migration",
+      "dispersion",
+      "diffusion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What term describes the variety of life found on Earth including diversity within species, between species and of ecosystems?",
+    "question": "What is the main impact of pollution on human health?",
     "options": [
-      "Ecology",
-      "Biodiversity",
-      "Conservation",
-      "Taxonomy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a greenhouse gas?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the movement of water through the environment including evaporation, condensation and precipitation?",
-    "options": [
-      "Carbon cycle",
-      "Nitrogen cycle",
-      "Water cycle",
-      "Oxygen cycle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes a food chain?",
-    "options": [
-      "A network of feeding relationships in an ecosystem",
-      "A linear sequence showing the flow of energy from one organism to another",
-      "The recycling of nutrients through an ecosystem",
-      "The total biomass of organisms in an ecosystem"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of pollution is caused by excess nutrients entering water bodies causing algae overgrowth?",
-    "options": [
-      "Thermal pollution",
-      "Eutrophication",
-      "Acid rain",
-      "Sedimentation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a consequence of deforestation?",
-    "options": [
-      "Increased soil fertility",
-      "Increased biodiversity",
-      "Increased soil erosion",
-      "Decreased carbon dioxide levels"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'sustainable development' mean?",
-    "options": [
-      "Development that meets present needs without compromising the ability of future generations to meet their own needs",
-      "Development that focuses only on economic growth",
-      "Development that ignores environmental impacts",
-      "Development that uses all available natural resources"
+      "increased risk of diseases",
+      "no impact on health",
+      "improved health",
+      "reduced risk of diseases"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following organisms is a decomposer?",
+    "question": "What is the term for the gradual increase in atmospheric temperature due to human activities?",
     "options": [
-      "Lion",
-      "Eagle",
-      "Mushroom",
-      "Grass"
+      "climate change",
+      "greenhouse effect",
+      "global warming",
+      "pollution"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary cause of the enhanced greenhouse effect leading to global warming?",
+    "question": "What is the term for the intentional introduction of non-native species to an ecosystem?",
     "options": [
-      "Increased volcanic activity",
-      "Burning of fossil fuels releasing greenhouse gases",
-      "Increased solar radiation reaching Earth",
-      "Depletion of the ozone layer"
+      "endangered species",
+      "invasive species",
+      "extinct species",
+      "native species"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the main driver of desertification?",
+    "options": [
+      "overlogging",
+      "overpopulation",
+      "overgrazing",
+      "overfishing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the variety of ecosystems found within a particular region or area?",
+    "options": [
+      "gamma diversity",
+      "beta diversity",
+      "alpha diversity",
+      "delta diversity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main goal of environmental policy?",
+    "options": [
+      "to reduce poverty",
+      "to protect the environment and promote sustainable development",
+      "to increase population growth",
+      "to promote economic growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which the Earth's atmosphere traps heat?",
+    "options": [
+      "atmospheric cooling",
+      "global cooling",
+      "radiative cooling",
+      "greenhouse effect"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which water moves through a plant from the roots to the leaves?",
+    "options": [
+      "translocation",
+      "transpiration",
+      "respiration",
+      "photosynthesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main goal of sustainable agriculture?",
+    "options": [
+      "to produce food while protecting the environment",
+      "to reduce poverty",
+      "to increase food production",
+      "to maximize economic profits"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which natural resources are replenished or renewed?",
+    "options": [
+      "finite resources",
+      "renewable resources",
+      "non-renewable resources",
+      "sustainable resources"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the movement of organisms from one location to another?",
+    "options": [
+      "migration",
+      "diffuse pollution",
+      "diffusion",
+      "dispersion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main impact of pollution on aquatic ecosystems?",
+    "options": [
+      "creation of habitats",
+      "no impact on ecosystems",
+      "reduction of biodiversity",
+      "destruction of habitats"
+    ],
+    "correctIndex": 3
   }
 ]

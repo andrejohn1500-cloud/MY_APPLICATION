@@ -1,152 +1,122 @@
 [
   {
-    "question": "Which biogeochemical process is primarily responsible for converting atmospheric nitrogen into ammonia that can be used by plants?",
+    "question": "What is the concept of 'sustainable development' in the context of environmental management?",
     "options": [
-      "Nitrification by Nitrosomonas bacteria",
-      "Nitrogen fixation by Rhizobium bacteria",
-      "Denitrification by Pseudomonas bacteria",
-      "Ammonification by decomposers"
+      "The minimization of environmental impacts without consideration for economic and social needs",
+      "The maximization of economic growth without consideration for environmental and social impacts",
+      "The prioritization of economic objectives over social and environmental objectives",
+      "The integration of economic, social, and environmental objectives to meet the needs of the present without compromising the ability of future generations to meet their own needs."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In the context of the IPCC carbon budget, which of the following best describes a 'carbon sink'?",
+    "question": "What is the main difference between 'conservation' and 'preservation' in the context of environmental management?",
     "options": [
-      "A reservoir that releases more carbon dioxide than it absorbs",
-      "A reservoir that absorbs more carbon dioxide than it releases",
-      "The total amount of carbon stored in fossil fuels",
-      "The rate at which carbon is emitted by industrial processes"
+      "Conservation involves the protection of ecosystems from human impacts and degradation, whereas preservation involves the management of ecosystems to maintain their ecological integrity and productivity",
+      "Conservation is the same as preservation",
+      "Preservation is the same as conservation",
+      "Conservation involves the management of ecosystems to maintain their ecological integrity and productivity, whereas preservation involves the protection of ecosystems from human impacts and degradation."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best explains why stratospheric ozone depletion is more severe over polar regions during spring?",
+    "question": "What is the impact of climate change on coral reefs in the Caribbean region?",
     "options": [
-      "Higher ultraviolet radiation intensity at the poles accelerates photolysis",
-      "Polar stratospheric clouds provide surfaces for heterogeneous reactions that destroy ozone",
-      "Lower temperatures at the poles reduce ozone production rates",
-      "Polar winds transport ozone-depleting substances preferentially to high latitudes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The concept of 'ecological footprint' measures which of the following?",
-    "options": [
-      "The total biodiversity found within a specific ecosystem",
-      "The biologically productive area required to sustain a population's resource consumption and absorb its waste",
-      "The rate of energy flow through trophic levels in an ecosystem",
-      "The carbon emissions generated per unit of GDP"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which succession type begins on a substrate that has never previously supported life, such as bare volcanic rock?",
-    "options": [
-      "Secondary succession",
-      "Allogenic succession",
-      "Primary succession",
-      "Deflected succession"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to the principle of competitive exclusion, what occurs when two species occupy exactly the same ecological niche?",
-    "options": [
-      "They evolve mutualistic relationships over time",
-      "One species will outcompete and eliminate or displace the other",
-      "They partition resources and coexist indefinitely",
-      "Both species decline due to intraspecific competition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which parameter is used to calculate the Human Development Index (HDI) in addition to life expectancy and education indices?",
-    "options": [
-      "Gross Domestic Product per capita at purchasing power parity",
-      "Annual carbon emissions per capita",
-      "Infant mortality rate",
-      "Access to clean water percentage"
+      "Coral bleaching, reduced coral cover, and decreased biodiversity, which can have negative impacts on fisheries and tourism.",
+      "No impact on coral reefs",
+      "Increased coral cover",
+      "Positive impacts on coral reefs"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a photovoltaic solar cell, energy conversion occurs through which physical principle?",
+    "question": "What is the main difference between 'sustainable tourism' and 'unsustainable tourism' in the context of environmental management?",
     "options": [
-      "Thermoelectric effect",
-      "Electromagnetic induction",
-      "Photoelectric effect in semiconductor materials",
-      "Piezoelectric effect"
+      "Sustainable tourism involves the exploitation of tourism resources without consideration for their environmental and social impacts, whereas unsustainable tourism involves the management of tourism activities to minimize their environmental impacts and maximize their economic and social benefits",
+      "Sustainable tourism is the same as unsustainable tourism",
+      "Unsustainable tourism is the same as sustainable tourism",
+      "Sustainable tourism involves the management of tourism activities to minimize their environmental impacts and maximize their economic and social benefits, whereas unsustainable tourism involves the exploitation of tourism resources without consideration for their environmental and social impacts."
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following describes eutrophication in aquatic systems?",
+    "question": "What is the main difference between 'sustainable agriculture' and 'unsustainable agriculture' in the context of environmental management?",
     "options": [
-      "The accumulation of toxic heavy metals in water sediments",
-      "Excessive nutrient enrichment leading to algal blooms, oxygen depletion, and biodiversity loss",
-      "The acidification of water bodies due to acid rain",
-      "The thermal stratification of deep lakes preventing oxygen mixing"
+      "Unsustainable agriculture is the same as sustainable agriculture",
+      "Sustainable agriculture involves the exploitation of agricultural resources without consideration for their environmental and social impacts, whereas unsustainable agriculture involves the management of agricultural activities to minimize their environmental impacts and maximize their economic and social benefits",
+      "Sustainable agriculture is the same as unsustainable agriculture",
+      "Sustainable agriculture involves the management of agricultural activities to minimize their environmental impacts and maximize their economic and social benefits, whereas unsustainable agriculture involves the exploitation of agricultural resources without consideration for their environmental and social impacts."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the primary mechanism by which persistent organic pollutants (POPs) accumulate in organisms at higher trophic levels?",
+    "question": "What is the main difference between 'conservation biology' and 'ecology' in the context of environmental management?",
     "options": [
-      "Bioaccumulation through direct absorption from sediments",
-      "Biomagnification through the food chain due to lipophilic properties",
-      "Bioremediation of contaminated water sources",
-      "Bioconcentration from dissolved forms in water only"
+      "Conservation biology is the same as ecology",
+      "Conservation biology involves the study of the interactions between organisms and their environment, whereas ecology involves the application of ecological principles to conserve and manage ecosystems",
+      "Ecology is the same as conservation biology",
+      "Conservation biology involves the application of ecological principles to conserve and manage ecosystems, whereas ecology involves the study of the interactions between organisms and their environment."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "The Montreal Protocol was specifically designed to address which environmental issue?",
+    "question": "What is the main goal of environmental education in the Caribbean region?",
     "options": [
-      "Reduction of greenhouse gas emissions causing climate change",
-      "Phasing out substances that deplete the stratospheric ozone layer",
-      "Control of transboundary air pollution from sulfur dioxide",
-      "Regulation of marine plastic pollution"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which soil horizon is characterized by the accumulation of leached minerals, particularly iron and aluminum oxides, deposited from upper layers?",
-    "options": [
-      "O horizon",
-      "A horizon",
-      "B horizon",
-      "C horizon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In environmental impact assessment (EIA), which step immediately follows the initial screening phase?",
-    "options": [
-      "Monitoring and auditing",
-      "Scoping to identify key impacts",
-      "Public consultation on mitigation measures",
-      "Preparation of the final EIA report"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the 'precautionary principle' in environmental management?",
-    "options": [
-      "Taking protective action against potential environmental harm even when scientific certainty is lacking",
-      "Requiring full scientific proof of harm before implementing environmental regulations",
-      "Prioritizing economic development over environmental protection until damage is proven",
-      "Applying existing technologies to solve environmental problems before researching new solutions"
+      "To promote public awareness and understanding of environmental issues and the need for sustainable development and environmental protection.",
+      "To regulate environmental pollution and enforcement of environmental laws",
+      "To provide training and capacity building for environmental professionals",
+      "To promote economic growth and development without consideration for environmental impacts"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Coral bleaching occurs primarily as a result of which environmental stressor?",
+    "question": "What is the concept of 'ecosystem services' in the context of environmental management?",
     "options": [
-      "Increased salinity levels disrupting osmotic balance in coral tissues",
-      "Elevated sea surface temperatures causing expulsion of symbiotic zooxanthellae",
-      "Ocean acidification dissolving calcium carbonate in coral skeletons",
-      "Reduced sunlight penetration due to increased turbidity"
+      "The impacts of human activities on ecosystems",
+      "The benefits that humans derive from ecosystems, such as clean air and water, food, and climate regulation.",
+      "The costs of maintaining ecosystems",
+      "The potential economic benefits of ecosystem degradation"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the concept of 'ecosystem services' in the context of environmental management?",
+    "options": [
+      "The impacts of human activities on ecosystems",
+      "The potential economic benefits of ecosystem degradation",
+      "The benefits that humans derive from ecosystems, such as clean air and water, food, and climate regulation.",
+      "The costs of maintaining ecosystems"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the impact of climate change on water resources in the Caribbean region?",
+    "options": [
+      "Increased water availability",
+      "No impact on water resources",
+      "Positive impacts on water resources",
+      "Reduced water availability, changed precipitation patterns, and increased risk of flooding and drought, which can have negative impacts on human health and well-being."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the concept of 'biological diversity' in the context of ecosystems?",
+    "options": [
+      "The lack of plants, animals, and microorganisms in an ecosystem",
+      "The variety of plants, animals, and microorganisms that live in an ecosystem, and the genetic diversity within and among species.",
+      "The uniformity of plants, animals, and microorganisms in an ecosystem",
+      "The reduced diversity of plants, animals, and microorganisms in an ecosystem"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main goal of environmental education in the Caribbean region?",
+    "options": [
+      "To regulate environmental pollution and enforcement of environmental laws",
+      "To promote economic growth and development without consideration for environmental impacts",
+      "To provide training and capacity building for environmental professionals",
+      "To promote public awareness and understanding of environmental issues and the need for sustainable development and environmental protection."
+    ],
+    "correctIndex": 3
   }
 ]

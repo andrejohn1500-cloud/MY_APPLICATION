@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for a network attack that involves intercepting and modifying communications between two parties?",
+    "question": "What is the term for a type of database that stores data in a semi-structured structure?",
     "options": [
-      "IP Spoofing",
-      "Cross-Site Scripting Attack",
-      "Denial of Service Attack",
-      "Man-in-the-Middle Attack"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following algorithms is used to solve the 0/1 knapsack problem?",
-    "options": [
-      "Greedy Algorithm",
-      "Divide and Conquer",
-      "Branch and Bound",
-      "Dynamic Programming"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a network attack that involves sending a large amount of traffic to a network in order to overload its resources?",
-    "options": [
-      "Denial of Service Attack",
-      "Man-in-the-Middle Attack",
-      "Cross-Site Scripting Attack",
-      "IP Spoofing"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents an abstract concept?",
-    "options": [
-      "Concrete Class",
-      "Interface",
-      "Abstract Class",
-      "Abstract Method"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a cybersecurity threat that involves a hacker gaining access to a system or network by exploiting a vulnerability in a software application?",
-    "options": [
-      "Replay Attack",
-      "Tampering",
-      "Exploitation",
-      "Eavesdropping"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In software engineering, what is the term for the process of creating a detailed plan for developing a software system?",
-    "options": [
-      "Software Testing Plan",
-      "Software Requirements Specification",
-      "Software Design Specification",
-      "Software Implementation Plan"
+      "Relational database",
+      "Semi-structured database",
+      "Graph database",
+      "Object-oriented database"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In object-oriented programming, what is the term for a class that is used to create multiple objects of the same type?",
+    "question": "A router is a network device that forwards packets of data between networks. What is the primary function of a router?",
     "options": [
-      "Factory",
-      "Constructor",
-      "Abstract Class",
-      "Destructor"
+      "to provide internet access to a network",
+      "to connect multiple networks together",
+      "to forward packets of data between networks",
+      "to manage network traffic and congestion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A router is a network device that forwards packets of data between networks. What is the primary function of a router?",
+    "options": [
+      "to manage network traffic and congestion",
+      "to provide internet access to a network",
+      "to forward packets of data between networks",
+      "to connect multiple networks together"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A hash table is a data structure that maps keys to values using a hash function. What is the purpose of the hash function in a hash table?",
+    "options": [
+      "to map keys to unique indices in an array",
+      "to map keys to a list of values",
+      "to map keys to a specific location in memory",
+      "to map keys to their corresponding values"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following database management systems is used for handling large amounts of data?",
+    "question": "The Software Development Life Cycle (SDLC) is a framework for developing software systems that involves several stages, including requirements gathering and testing. What is the primary purpose of the SDLC?",
     "options": [
-      "Network Database Management System",
-      "Relational Database Management System",
-      "Object-Oriented Database Management System",
-      "Hierarchical Database Management System"
+      "to ensure that software systems are developed with the latest technology and tools",
+      "to ensure that software systems are developed quickly and efficiently",
+      "to ensure that software systems are developed in a structured and disciplined manner",
+      "to ensure that software systems are developed at a low cost and with minimal resources"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A hash table is a data structure that maps keys to values using a hash function. What is the purpose of the hash function in a hash table?",
+    "options": [
+      "to map keys to their corresponding values",
+      "to map keys to a specific location in memory",
+      "to map keys to unique indices in an array",
+      "to map keys to a list of values"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The concept of polymorphism in object-oriented programming involves the ability of an object to take on multiple forms. What is the primary benefit of polymorphism?",
+    "options": [
+      "to improve code readability and maintainability",
+      "to improve code reusability and flexibility",
+      "to improve code efficiency and performance",
+      "to improve code security and reliability"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a cybersecurity threat that involves a hacker gaining access to a system or network by guessing a user's password?",
+    "question": "A semaphore is a variable that is used to control access to a shared resource in a concurrent system. What is the primary purpose of a semaphore?",
     "options": [
-      "Replay Attack",
-      "Eavesdropping",
-      "Tampering",
-      "Brute Force Attack"
+      "to synchronize the execution of multiple processes",
+      "to prevent multiple processes from accessing a shared resource simultaneously",
+      "to detect and prevent deadlocks",
+      "to coordinate the communication between multiple processes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A Trojan horse is a type of malware that disguises itself as a legitimate program but actually contains malicious code. What is the primary purpose of a Trojan horse?",
+    "options": [
+      "to steal sensitive information from a system",
+      "to gain unauthorized access to a system",
+      "to disrupt the normal functioning of a system",
+      "to encrypt data on a system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of Caribbean ICT development, what is the term for the use of ICT to improve the quality of life of Caribbean citizens, particularly in the areas of education, healthcare, and economic development?",
+    "options": [
+      "ICT4E",
+      "ICT4S",
+      "ICT4L",
+      "ICT4D"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following algorithms is used to solve the longest common subsequence problem?",
+    "question": "A deadlock is a situation in a system where two or more processes are blocked indefinitely, each waiting for the other to release a resource. What is the primary cause of a deadlock in a system?",
     "options": [
-      "Dynamic Programming",
-      "Divide and Conquer",
-      "Greedy Algorithm",
-      "Branch and Bound"
+      "starvation and priority inversion",
+      "livelocks and priority inversion",
+      "priority inversion and cyclic dependencies",
+      "mutual exclusion and cyclic dependencies"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the context of software engineering, what is the term for the process of breaking down a system into smaller, more manageable components while maintaining the overall system's functionality?",
+    "options": [
+      "abstraction",
+      "decomposition",
+      "modularity",
+      "encapsulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of cybersecurity, what is the term for the practice of protecting a system's data and applications from unauthorized access, use, disclosure, disruption, modification, or destruction?",
+    "options": [
+      "cybersecurity",
+      "information security",
+      "network security",
+      "data protection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of operating systems, what is the term for the mechanism that ensures that each process has its own virtual memory space?",
+    "options": [
+      "virtual memory",
+      "swap space",
+      "paging",
+      "segmentation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In software engineering, what is the term for the process of testing a software system for errors and defects?",
+    "question": "The Software Development Life Cycle (SDLC) is a framework for developing software systems that involves several stages, including requirements gathering and testing. What is the primary purpose of the SDLC?",
     "options": [
-      "Software Debugging",
-      "Software Testing",
-      "Software Validation",
-      "Software Verification"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the operating system's file system module?",
-    "options": [
-      "To schedule processes for execution",
-      "To handle input/output operations",
-      "To manage the allocation and deallocation of storage space for files",
-      "To provide security for the system"
+      "to ensure that software systems are developed at a low cost and with minimal resources",
+      "to ensure that software systems are developed with the latest technology and tools",
+      "to ensure that software systems are developed in a structured and disciplined manner",
+      "to ensure that software systems are developed quickly and efficiently"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "Which of the following data structures is best suited for storing a large amount of data that needs to be frequently inserted or deleted?",
-    "options": [
-      "Stack",
-      "Queue",
-      "Linked List",
-      "Hash Table"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a network attack that involves spoofing the IP address of a trusted host in order to gain access to a network?",
-    "options": [
-      "Denial of Service Attack",
-      "Cross-Site Scripting Attack",
-      "IP Spoofing",
-      "Man-in-the-Middle Attack"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents a real-world entity?",
-    "options": [
-      "Abstract Method",
-      "Interface",
-      "Abstract Class",
-      "Concrete Class"
-    ],
-    "correctIndex": 3
   }
 ]

@@ -1,131 +1,151 @@
 [
   {
-    "question": "What is the term for the increase in the overall price level of goods and services in an economy over time?",
+    "question": "An economy experiences a trade surplus due to a large increase in exports. What is the effect on the balance of payments?",
     "options": [
-      "stagnation",
-      "deflation",
-      "disinflation",
-      "inflation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The concept of a budget constraint is important in economics because it helps to determine the maximum consumption bundle that an individual can afford. What is the budget constraint?",
-    "options": [
-      "The combination of goods that an individual wants to buy",
-      "The combination of goods that an individual can sell",
-      "The combination of goods that an individual can produce",
-      "The combination of goods that an individual can afford to buy with a given income"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In a perfectly competitive market, if a firm is producing at a point where its marginal revenue equals its marginal cost, what is the firm's profit-maximizing price?",
-    "options": [
-      "The price at which it is producing",
-      "The price at which it is producing at a profit",
-      "The price that it is not producing at",
-      "The price at which it is producing at a loss"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A country with a perfectly competitive market structure will have which of the following characteristics?",
-    "options": [
-      "one firm producing a homogeneous product",
-      "a single firm producing a non-homogeneous product",
-      "few firms producing a homogeneous product",
-      "many firms producing a homogeneous product"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A country's national income is the sum of the income earned by all the individuals in the economy. What is the national income?",
-    "options": [
-      "The sum of the income earned by all the government institutions in the economy",
-      "The sum of the income earned by all the households in the economy",
-      "The sum of the income earned by all the individuals in the economy",
-      "The sum of the income earned by all the firms in the economy"
+      "The current account will worsen",
+      "The balance of payments will remain unaffected",
+      "The current account will improve",
+      "The current account will improve but the capital account will worsen"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a perfectly competitive market, if the demand for a good increases, what is the effect on the price of the good?",
+    "question": "A country experiences a sharp decline in its GDP due to a decline in consumer spending. What is the effect on its national income?",
     "options": [
-      "It becomes more volatile",
-      "It remains unchanged",
-      "It decreases",
-      "It increases"
+      "National income will decrease by less than the decline in consumer spending",
+      "National income will increase",
+      "National income will remain unchanged",
+      "National income will decrease"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A country's exchange rate is the price of one country's currency in terms of another country's currency. What is the effect of an appreciation of a country's currency on its exports?",
+    "question": "A country's monetary policy is aimed at reducing inflation. What is the effect on the interest rate?",
     "options": [
-      "It decreases",
-      "It remains unchanged",
-      "It becomes more volatile",
-      "It increases"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A country's national income is the sum of the income earned by all the individuals in the economy. What is the national income?",
-    "options": [
-      "The sum of the income earned by all the firms in the economy",
-      "The sum of the income earned by all the households in the economy",
-      "The sum of the income earned by all the government institutions in the economy",
-      "The sum of the income earned by all the individuals in the economy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In a perfectly competitive market, if the demand for a good increases, what is the effect on the price of the good?",
-    "options": [
-      "It becomes more volatile",
-      "It remains unchanged",
-      "It increases",
-      "It decreases"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A country's national income is the sum of the income earned by all the individuals in the economy. What is the national income?",
-    "options": [
-      "The sum of the income earned by all the firms in the economy",
-      "The sum of the income earned by all the government institutions in the economy",
-      "The sum of the income earned by all the households in the economy",
-      "The sum of the income earned by all the individuals in the economy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following would be a consequence of a reduction in aggregate demand in a country with a fixed exchange rate?",
-    "options": [
-      "a decrease in the exchange rate",
-      "an increase in the exchange rate",
-      "an increase in government borrowing",
-      "a decrease in the money supply"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In a perfectly competitive market, if the demand for a good increases, what is the effect on the price of the good?",
-    "options": [
-      "It remains unchanged",
-      "It increases",
-      "It decreases",
-      "It becomes more volatile"
+      "The interest rate will remain unchanged",
+      "The interest rate will increase",
+      "The interest rate will increase but at a slower rate",
+      "The interest rate will decrease"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A country's national income is the sum of the income earned by all the individuals in the economy. What is the national income?",
+    "question": "A country's money supply increases by 10% due to an expansionary monetary policy. What is the effect on the price level?",
     "options": [
-      "The sum of the income earned by all the government institutions in the economy",
-      "The sum of the income earned by all the firms in the economy",
-      "The sum of the income earned by all the individuals in the economy",
-      "The sum of the income earned by all the households in the economy"
+      "The price level will remain unchanged",
+      "The price level will decrease",
+      "The price level will increase",
+      "The price level will increase by less than 10%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A firm operates in an oligopolistic market. What is the effect on the firm's price of a simultaneous increase in production by all firms in the market?",
+    "options": [
+      "Price will remain unchanged",
+      "Price will increase",
+      "Price will increase initially but then decrease",
+      "Price will decrease"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country's ______________ is the sum of its exports and foreign exchange earnings.",
+    "options": [
+      "net foreign exchange earnings",
+      "foreign exchange outflow",
+      "foreign exchange inflow",
+      "net foreign exchange expenditure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country experiences a sharp increase in its GDP due to an increase in government spending. What is the effect on its national income?",
+    "options": [
+      "National income will remain unchanged",
+      "National income will increase by less than the increase in government spending",
+      "National income will increase",
+      "National income will decrease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The price elasticity of demand for a particular good is -2. What does this imply about the responsiveness of quantity demanded to a 10% price increase?",
+    "options": [
+      "Quantity demanded will decrease by 10%",
+      "Quantity demanded will increase by 20%",
+      "Quantity demanded will decrease by 20%",
+      "Quantity demanded will increase by 10%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country's ______________ is the difference between its total expenditure and its total income.",
+    "options": [
+      "saving",
+      "investment",
+      "net savings",
+      "net income"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A firm is a price taker in a perfectly competitive market. What is the effect on the firm's supply curve of an increase in input costs?",
+    "options": [
+      "The supply curve will shift to the left",
+      "The supply curve will shift to the right",
+      "The supply curve will remain unchanged",
+      "The supply curve will shift to the right initially but then to the left"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A country's ______________ is the difference between its total expenditure and its total income.",
+    "options": [
+      "net income",
+      "net savings",
+      "saving",
+      "investment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A development economist argues that foreign aid can lead to the creation of dependency and undermine economic development in the long run. What is the basis for this argument?",
+    "options": [
+      "Foreign aid is only useful for addressing poverty",
+      "The recipient country may experience rapid economic growth due to foreign aid",
+      "The recipient country may become reliant on foreign aid and fail to develop its own capacity for economic development",
+      "Foreign aid can only be used for investment projects"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A firm operates in a perfectly competitive market. What is the effect on the firm's revenue of a 10% decrease in price?",
+    "options": [
+      "Revenue will increase",
+      "Revenue will decrease",
+      "Revenue will remain unchanged",
+      "Revenue will decrease by less than 10%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A country experiences a sharp decline in its economic growth rate due to a decline in its total factor productivity. What is the effect on its long-run growth rate?",
+    "options": [
+      "The long-run growth rate will decrease but at a slower rate",
+      "The long-run growth rate will remain unchanged",
+      "The long-run growth rate will increase",
+      "The long-run growth rate will decline"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A country is experiencing a recession and the government decides to implement expansionary fiscal policy. What is the effect on the fiscal policy multiplier?",
+    "options": [
+      "The multiplier will decrease",
+      "The multiplier will remain unchanged",
+      "The multiplier will increase",
+      "The multiplier will increase but at a slower rate"
     ],
     "correctIndex": 2
   }

@@ -1,92 +1,72 @@
 [
   {
-    "question": "What is the term for the process of converting an image or video into a digital format?",
+    "question": "In software engineering, what is the term for the process of testing a system to ensure that it meets its requirements?",
     "options": [
-      "compression",
-      "encryption",
-      "digitization",
-      "hashing"
+      "Verification",
+      "Testing",
+      "Validation",
+      "Debugging"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a proxy server in a computer network?",
+    "question": "In software engineering, what is the term for the process of testing a system to ensure that it is working as expected?",
     "options": [
-      "to route packets between networks",
-      "to act as an intermediary between a client and a server to provide security, caching, or other services",
-      "to manage network security",
-      "to provide internet access"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a database index?",
-    "options": [
-      "to manage data recovery",
-      "to speed up query execution by providing a fast lookup of data",
-      "to manage data concurrency",
-      "to manage data consistency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process of protecting a computer system or network from unauthorized access or use?",
-    "options": [
-      "computer security",
-      "cybersecurity",
-      "network security",
-      "data encryption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the difference between a database schema and a database view?",
-    "options": [
-      "a schema is the structure of the database, while a view is a virtual table based on a query",
-      "a schema is used for querying, while a view is used for indexing",
-      "a schema is a virtual table based on a query, while a view is the structure of the database",
-      "a schema is used for indexing, while a view is used for querying"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the difference between a primary key and a foreign key in a database?",
-    "options": [
-      "a primary key is unique to each record, while a foreign key is a reference to the primary key in another table",
-      "a primary key is a reference to the primary key in another table",
-      "a primary key is used for indexing",
-      "a foreign key is unique to each record"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the operating system's file system manager?",
-    "options": [
-      "to manage network connections",
-      "to manage input/output operations",
-      "to manage memory allocation",
-      "to manage the allocation and deallocation of file system resources to processes"
+      "Debugging",
+      "Testing",
+      "Validation",
+      "Verification"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a network security threat that involves the unauthorized access to a computer system or network using a stolen password?",
+    "question": "What is the term for a type of attack where an attacker injects malicious code into a web application?",
     "options": [
-      "Password Cracking",
-      "Eavesdropping",
-      "Spoofing",
-      "Phishing"
+      "SQL injection attack",
+      "Cross-site request forgery (CSRF) attack",
+      "Denial of Service (DoS) attack",
+      "Cross-site scripting (XSS) attack"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the difference between a database schema and a database instance?",
+    "question": "What is the term for a process that executes in a sequential manner in a single-threading environment?",
     "options": [
-      "a schema is used for querying, while an instance is used for indexing",
-      "a schema is the data stored in the database, while an instance is the structure of the database",
-      "a schema is the structure of the database, while an instance is the data stored in the database",
-      "a schema is used for indexing, while an instance is used for querying"
+      "Thread",
+      "Process",
+      "Service",
+      "Program"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
+  },
+  {
+    "question": "In software engineering, what is the term for the process of breaking down a system into smaller, more manageable components?",
+    "options": [
+      "Generalization",
+      "Abstraction",
+      "Modularization",
+      "Decomposition"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of attack where an attacker disguises themselves as a trusted entity to gain access to a system?",
+    "options": [
+      "Man-in-the-middle (MitM) attack",
+      "SQL injection attack",
+      "Cross-site scripting (XSS) attack",
+      "Denial of Service (DoS) attack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In object-oriented programming, what is the term for the ability of an object to take on multiple forms?",
+    "options": [
+      "Abstraction",
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism"
+    ],
+    "correctIndex": 3
   }
 ]

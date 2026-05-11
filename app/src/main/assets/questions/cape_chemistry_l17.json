@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the process by which a substance is formed from simpler substances by the action of heat, light, or chemicals?",
+    "question": "What is the term for the rate of reaction at a point on the reaction coordinate?",
     "options": [
-      "decomposition reaction",
-      "oxidation reaction",
-      "replacement reaction",
-      "synthesis reaction"
+      "Potential energy",
+      "Reaction rate",
+      "Activation energy",
+      "Intermolecular potential energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule loses a group of atoms in a stepwise manner involving three molecules?",
+    "options": [
+      "Bimolecular reaction",
+      "Multimolecular reaction",
+      "Trimolecular reaction",
+      "Unimolecular reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a gas with a solid to produce a new substance, accompanied by a change in the state of the reactants, with the gas being a noble gas?",
+    "options": [
+      "Neutralization reaction",
+      "Acid-base reaction",
+      "Redox reaction",
+      "Noble gas reaction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation scattered by a molecule?",
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by electrons as they move between energy levels in an atom, with the atom being in a gas state?",
     "options": [
-      "infrared spectroscopy",
-      "Raman spectroscopy",
-      "ultraviolet spectroscopy",
-      "visible spectroscopy"
+      "Gas-phase X-ray spectroscopy",
+      "Ultraviolet-visible spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Mass spectrometry"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A 0.01 M solution of a strong base has a pOH of 12. What is the concentration of hydroxide ions in the solution?",
+    "question": "What is the term for the type of reaction in which a molecule gains a group of atoms in a stepwise manner?",
     "options": [
-      "10^-16 M",
-      "10^-12 M",
-      "10^-10 M",
-      "10^-14 M"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the energy change associated with an electron being transferred from one atom to another?",
-    "options": [
-      "electron gain enthalpy",
-      "ionization energy",
-      "electron affinity",
-      "electronegativity"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The heat of combustion of glucose is -2800 kJ/mol. What is the heat of combustion of fructose, given that the standard enthalpy of formation of fructose is 45 kJ/mol less than that of glucose?",
-    "options": [
-      "-2775 kJ/mol",
-      "-2825 kJ/mol",
-      "-2785 kJ/mol",
-      "-2755 kJ/mol"
+      "Unimolecular reaction",
+      "Multimolecular reaction",
+      "Trimolecular reaction",
+      "Bimolecular reaction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 0.1 M solution of a weak base has a pH of 11. What is the concentration of hydroxide ions in the solution?",
+    "question": "What is the term for the potential energy of a system that is due to the interactions between nuclei in a molecule at a specific temperature?",
     "options": [
-      "10^-4 M",
-      "10^-3 M",
-      "10^-5 M",
-      "10^-6 M"
+      "Nuclear kinetic energy",
+      "Nuclear thermal potential energy",
+      "Nuclear thermal potential energy",
+      "Nuclear thermal energy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The rate constant for a first-order reaction is 0.05 min-1. If the initial concentration of the reactant is 0.1 M, what is the concentration remaining after 10 minutes?",
+    "question": "What is the Le Chatelier's principle?",
     "options": [
-      "0.005 M",
-      "0.05 M",
-      "0.002 M",
-      "0.01 M"
+      "The equilibrium will shift in the same direction as the change.",
+      "The equilibrium will shift in the opposite direction of the change.",
+      "When a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the equilibrium will shift in a direction that tends to counteract the effect of the change.",
+      "The equilibrium will not shift when a system at equilibrium is subjected to a change in concentration, temperature, or pressure."
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process by which a gas is dissolved in a liquid?",
+    "question": "What is the term for the type of reaction in which a molecule loses a proton?",
     "options": [
-      "absorption",
-      "solution",
-      "diffusion",
-      "adsorption"
+      "Electronation reaction",
+      "Protonation reaction",
+      "Deuteronation reaction",
+      "Deprotonation reaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule loses a group of atoms in a stepwise manner?",
+    "options": [
+      "Multimolecular reaction",
+      "Bimolecular reaction",
+      "Unimolecular reaction",
+      "Trimolecular reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the process by which a solid is formed from a solution?",
+    "question": "What is the term for the potential energy of a system that is due to the interactions between particles?",
     "options": [
-      "precipitation",
-      "crystallization",
-      "evaporation",
-      "sublimation"
+      "Potential energy of nuclei",
+      "Potential energy of electrons",
+      "Intramolecular potential energy",
+      "Intermolecular potential energy"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "What is the term for the energy associated with the stretching and bending of chemical bonds?",
+    "question": "What is the term for the potential energy of a system that is due to the interactions between particles in a molecule?",
     "options": [
-      "vibrational energy",
-      "rotational energy",
-      "translational energy",
-      "electronic energy"
+      "Electron thermal energy",
+      "Electron kinetic energy",
+      "Electronic potential energy",
+      "Nuclear potential energy"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the process by which an electric current is used to drive a chemical reaction?",
+    "question": "What is the term for the type of reaction in which a molecule gains a group of atoms in a stepwise manner involving two molecules?",
     "options": [
-      "electroplating",
-      "electrolysis",
-      "electrochemical analysis",
-      "redox reaction"
+      "Trimolecular reaction",
+      "Bimolecular reaction",
+      "Multimolecular reaction",
+      "Unimolecular reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation emitted by a molecule?",
+    "question": "What is the term for the type of reaction in which a molecule gains a group of atoms?",
     "options": [
-      "infrared spectroscopy",
-      "visible spectroscopy",
-      "ultraviolet spectroscopy",
-      "Raman spectroscopy"
+      "Substitution reaction",
+      "Condensation reaction",
+      "Addition reaction",
+      "Elimination reaction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 0.1 M solution of a weak acid has a pH of 5. What is the acid dissociation constant (Ka) of the acid?",
+    "question": "The Schr\u00f6dinger equation is a partial differential equation that describes the time-evolution of a system. Which of the following is a characteristic of the wave function solution to the Schr\u00f6dinger equation?",
     "options": [
-      "10^-5",
-      "10^-7",
-      "10^-9",
-      "10^-3"
+      "The wave function is a classical field that describes the motion of a particle.",
+      "The wave function is a probability density function that satisfies the normalization condition.",
+      "The wave function is a complex-valued function that gives the momentum of a particle.",
+      "The wave function is a real-valued function that gives the exact position of a particle."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A particle in a one-dimensional infinite square well has a wave function given by \u03c8(x) = A sin(\u03c0x/L) for 0 \u2264 x \u2264 L. What is the value of A?",
+    "question": "What is the term for the potential energy of a system that is due to the interactions between nuclei in a molecule?",
     "options": [
-      "A = \u221a(2/L)",
-      "A = \u221a(\u03c0/L)",
-      "A = \u221a(2/\u03c0)L",
-      "A = \u221a(1/L)"
+      "Electron kinetic energy",
+      "Electronic potential energy",
+      "Electron thermal energy",
+      "Nuclear potential energy"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A reaction has an activation energy of 40 kJ/mol. If the rate constant at 30\u00b0C is 0.01 min-1, what is the rate constant at 50\u00b0C?",
-    "options": [
-      "0.02 min-1",
-      "0.05 min-1",
-      "0.04 min-1",
-      "0.1 min-1"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

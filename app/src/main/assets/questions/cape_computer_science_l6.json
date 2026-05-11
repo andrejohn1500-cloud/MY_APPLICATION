@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the purpose of the 'drop table' statement in a database query?",
+    "question": "What is the term for a security threat that arises from the exploitation of weaknesses in passwords?",
     "options": [
-      "To create a new table in the database",
-      "To delete a table from the database",
-      "To truncate a table in the database",
-      "To alter a table in the database"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a type of software development methodology that emphasizes iterative and incremental development?",
-    "options": [
-      "V-Model Methodology",
-      "Scrum Methodology",
-      "Waterfall Methodology",
-      "Agile Methodology"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the 'join' statement in a database query?",
-    "options": [
-      "To retrieve data from a single table",
-      "To combine data from two or more tables",
-      "To update data in a single table",
-      "To insert data into a single table"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of the 'create view' statement in a database query?",
-    "options": [
-      "To create a new table in the database",
-      "To alter a view on a table",
-      "To create a new view on a table",
-      "To delete a view from a table"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of the 'rollback transaction' statement in a database query?",
-    "options": [
-      "To begin a new transaction",
-      "To commit a transaction",
-      "To cancel a transaction",
-      "To alter a transaction"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a network security threat that involves the sending of a fake message that appears to come from a trusted source?",
-    "options": [
-      "Man-in-the-Middle (MitM)",
-      "Eavesdropping",
+      "Password Cracking",
+      "Malware",
       "Phishing",
-      "Spoofing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of the 'synchronized' keyword in a method declaration in Java?",
-    "options": [
-      "To ensure thread safety",
-      "To ensure data recovery",
-      "To ensure data consistency",
-      "To ensure data integrity"
+      "Ransomware"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the purpose of the 'truncate table' statement in a database query?",
+    "question": "What is the process of analyzing and designing a solution to a problem before writing the code?",
     "options": [
-      "To create a new table in the database",
-      "To alter a table in the database",
-      "To delete a table from the database",
-      "To delete all data from a table"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of database that is designed to store and manage graph data?",
-    "options": [
-      "NoSQL Database",
-      "Relational Database",
-      "Object-Oriented Database",
-      "Graph Database"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of network security threat that involves the interception and modification of data as it is transmitted between a client and a server?",
-    "options": [
-      "Eavesdropping",
-      "Man-in-the-Middle (MitM)",
-      "Phishing",
-      "Spoofing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a type of database that is designed to store and manage semi-structured data?",
-    "options": [
-      "Relational Database",
-      "Object-Oriented Database",
-      "NoSQL Database",
-      "Graph Database"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of the 'select' statement in a database query?",
-    "options": [
-      "To retrieve data from the database",
-      "To delete data from the database",
-      "To update data in the database",
-      "To insert data into the database"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the 'update' statement in a database query?",
-    "options": [
-      "To insert data into a table",
-      "To delete data from a table",
-      "To modify data in a table",
-      "To retrieve data from a table"
+      "Software Testing",
+      "Software Development",
+      "Software Requirements Analysis",
+      "Software Design"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of the 'insert into' statement in a database query?",
+    "question": "What is the term for a type of database that stores data in a graph structure?",
     "options": [
-      "To retrieve data from a table",
-      "To delete data from a table",
-      "To update data in a table",
-      "To insert data into a table"
+      "Object-Oriented Database",
+      "Graph Database",
+      "Relational Database",
+      "Network Database"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a type of database that stores data in a flat table format with a predefined structure?",
+    "options": [
+      "Hierarchical Database",
+      "Network Database",
+      "Object-Oriented Database",
+      "Relational Database"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of the 'create table' statement in a database query?",
+    "question": "What do you call a sequence of instructions that can be stored and executed repeatedly?",
     "options": [
-      "To create a new table in the database",
-      "To truncate a table in the database",
-      "To delete a table from the database",
-      "To alter a table in the database"
+      "Procedure",
+      "Process",
+      "Program",
+      "Algorithm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of database that stores data in a simple key-value structure?",
+    "options": [
+      "Relational Database",
+      "Network Database",
+      "Key-Value Database",
+      "Object-Oriented Database"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of creating, implementing, and maintaining software applications?",
+    "options": [
+      "Software Development",
+      "Software Engineering",
+      "Software Testing",
+      "Software Maintenance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a process that executes in a separate address space from other processes in an operating system?",
+    "options": [
+      "Service",
+      "Program",
+      "Thread",
+      "Process"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a security threat that arises from the exploitation of flaws in software or hardware?",
+    "options": [
+      "Malware",
+      "Exploit",
+      "Vulnerability",
+      "Ransomware"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a process that executes on behalf of a user or program in a multi-user environment?",
+    "options": [
+      "Thread",
+      "Service",
+      "Process",
+      "Program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of evaluating and testing software to ensure it meets the required specifications and standards?",
+    "options": [
+      "Software Deployment",
+      "Software Development",
+      "Software Maintenance",
+      "Software Testing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a type of database that stores data in an object-oriented structure?",
+    "options": [
+      "Relational Database",
+      "Network Database",
+      "Hierarchical Database",
+      "Object-Oriented Database"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which data structure is used to store data in the form of a collection of keys and values?",
+    "options": [
+      "Hash Table",
+      "Queue",
+      "LinkedList",
+      "Stack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a process that executes in parallel with other processes in an operating system?",
+    "options": [
+      "Service",
+      "Thread",
+      "Process",
+      "Program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In object-oriented programming, what is the term for a class that has a specific implementation and cannot be inherited from?",
+    "options": [
+      "Final Class",
+      "Concrete Class",
+      "Interface",
+      "Abstract Class"
     ],
     "correctIndex": 0
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "In object-oriented programming, what is the term for a class that is used to create a new object?",
+    "question": "A binary search tree is a type of self-balancing search tree that adheres to the following properties: left child < parent < right child. Which property is the most critical in maintaining the balance of the tree?",
     "options": [
-      "Factory",
-      "Constructor",
-      "Abstract Class",
-      "Destructor"
+      "left child < parent < right child",
+      "left child > parent > right child",
+      "left child > parent < right child",
+      "left child < parent > right child"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following Caribbean ICT development initiatives focuses on promoting the use of information and communication technologies in the education sector?",
+    "question": "The Caribbean Regional Negotiating Machinery (CRNM) is a regional organization that aims to promote economic integration among Caribbean Community (CARICOM) member states. What is the primary goal of the CRNM?",
     "options": [
-      "CXC's STEM initiative",
-      "CXC's Coding initiative",
-      "CXC's Digital Literacy initiative",
-      "CXC's ICT initiative"
+      "to promote social development and cooperation among CARICOM member states",
+      "to promote cultural exchange and cooperation among CARICOM member states",
+      "to promote environmental protection and cooperation among CARICOM member states",
+      "to promote economic integration and cooperation among CARICOM member states"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following data structures is best suited for storing a large amount of data that needs to be frequently searched by a key?",
+    "question": "The Caribbean Telecommunications Union (CTU) is a regional organization that aims to promote the development of telecommunications in the Caribbean region. What is the primary goal of the CTU?",
     "options": [
-      "Hash Table",
-      "Linked List",
-      "Queue",
-      "Stack"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following data structures is best suited for storing a large amount of data that needs to be frequently searched?",
-    "options": [
-      "Hash Table",
-      "Stack",
-      "Linked List",
-      "Queue"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the operating system's process scheduling module?",
-    "options": [
-      "To provide security for the system",
-      "To schedule processes for execution",
-      "To manage the allocation and deallocation of memory",
-      "To handle input/output operations"
+      "to promote the development of transportation and logistics in the Caribbean region",
+      "to promote the development of telecommunications and ICT in the Caribbean region",
+      "to promote the development of energy and utilities in the Caribbean region",
+      "to promote the development of education and training in the Caribbean region"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of the operating system's process scheduling module?",
+    "question": "The Software Engineering Body of Knowledge (SWEBOK) is a reference guide for software engineering that contains a comprehensive set of knowledge areas. What is the primary purpose of SWEBOK?",
     "options": [
-      "To manage the allocation and deallocation of memory",
-      "To provide security for the system",
-      "To schedule processes for execution",
-      "To handle input/output operations"
+      "to provide a list of software engineering tools and techniques",
+      "to provide a set of best practices for software development",
+      "to provide a standard framework for software engineering knowledge",
+      "to provide a set of software engineering certifications"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In software engineering, what is the term for the process of verifying that the software system meets the specified requirements?",
+    "question": "In the context of object-oriented programming, which design pattern is used to manage the creation of objects in a way that separates the object instantiation from its usage?",
     "options": [
-      "Software Testing",
-      "Software Validation",
-      "Software Debugging",
-      "Software Verification"
+      "Factory pattern",
+      "Observer pattern",
+      "Strategy pattern",
+      "Singleton pattern"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In the context of Caribbean ICT development, what is the term for the use of information and communication technologies to improve the quality of life of Caribbean citizens?",
+    "options": [
+      "ICT4E",
+      "ICT4S",
+      "ICT4L",
+      "ICT4D"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents a collection of objects?",
+    "question": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. What is the primary function of a firewall?",
     "options": [
-      "Abstract Method",
-      "Collection Class",
-      "Abstract Class",
-      "Interface"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following database normalization rules is used to prevent data redundancy?",
-    "options": [
-      "3NF",
-      "BCNF",
-      "2NF",
-      "1NF"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In object-oriented programming, what is the term for a class that is used to create an object that represents a real-world entity with a unique identifier?",
-    "options": [
-      "Interface",
-      "Concrete Class",
-      "Abstract Class",
-      "Abstract Method"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of the operating system's memory management module?",
-    "options": [
-      "To manage the allocation and deallocation of memory for running programs",
-      "To schedule processes for execution",
-      "To provide security for the system",
-      "To handle input/output operations"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a network attack that involves flooding a network with traffic in order to overload its resources?",
-    "options": [
-      "Denial of Service Attack",
-      "Man-in-the-Middle Attack",
-      "IP Spoofing",
-      "Cross-Site Scripting Attack"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the 'finally' block in exception handling in Java?",
-    "options": [
-      "To ensure that a set of statements is executed regardless of whether an exception has occurred or not",
-      "To exit the program",
-      "To rethrow an exception",
-      "To catch and handle an exception"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In software engineering, what is the term for the process of testing a software system for usability and user experience?",
-    "options": [
-      "Software Verification",
-      "Usability Testing",
-      "Software Validation",
-      "Software Debugging"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the time complexity of the quicksort algorithm in the average case?",
-    "options": [
-      "O(n^2)",
-      "O(1)",
-      "O(n log n)",
-      "O(n log^2 n)"
+      "to detect and prevent network attacks",
+      "to encrypt and decrypt network data",
+      "to prevent unauthorized access to a network",
+      "to monitor and control network traffic"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The concept of recursion in algorithms involves the repeated application of a function to a problem until what condition is met?",
+    "options": [
+      "the problem is solved in one step",
+      "the problem is reduced to its base case",
+      "the problem is increased in size",
+      "the problem is split into two equal parts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the context of software engineering, what is the term for the process of verifying that a system meets its specified requirements?",
+    "options": [
+      "verification",
+      "testing",
+      "validation",
+      "debugging"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of operating systems, what is the term for the mechanism that ensures that only authorized processes can access a system's resources?",
+    "options": [
+      "access control",
+      "authorization",
+      "authentication",
+      "accounting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The concept of recursion in algorithms involves the repeated application of a function to a problem until what condition is met?",
+    "options": [
+      "the problem is split into two equal parts",
+      "the problem is solved in one step",
+      "the problem is reduced to its base case",
+      "the problem is increased in size"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of object-oriented programming, which design pattern is used to manage the creation of objects in a way that separates the object instantiation from its usage?",
+    "options": [
+      "Singleton pattern",
+      "Observer pattern",
+      "Factory pattern",
+      "Strategy pattern"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of algorithms, what is the term for the process of solving a problem by breaking it down into smaller, more manageable sub-problems?",
+    "options": [
+      "dynamic programming",
+      "iteration",
+      "divide and conquer",
+      "recursion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of databases, what is the term for the process of recovering a database from a failure or crash?",
+    "options": [
+      "database backup",
+      "database replication",
+      "database recovery",
+      "database restore"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of software engineering, what is the term for the process of verifying that a system meets its specified requirements?",
+    "options": [
+      "validation",
+      "testing",
+      "verification",
+      "debugging"
+    ],
+    "correctIndex": 0
   }
 ]

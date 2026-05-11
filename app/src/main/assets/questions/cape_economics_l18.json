@@ -1,22 +1,62 @@
 [
   {
-    "question": "The concept of comparative advantage explains why a country should specialize in the production of goods and services for which it has",
+    "question": "In a Heckscher-Ohlin model, what determines the comparative advantage of a country?",
     "options": [
-      "a lower opportunity cost",
-      "a lower cost of production",
-      "a higher opportunity cost",
-      "a higher cost of production"
+      "The technology used",
+      "The relative abundance of factors of production.",
+      "The size of the market",
+      "The exchange rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a Ricardo-Viner model, what is the effect of a change in the world price of a commodity on the domestic price of that commodity?",
+    "options": [
+      "The domestic price of the commodity increases",
+      "The domestic price of the commodity decreases",
+      "The domestic price of the commodity increases or decreases",
+      "The domestic price of the commodity remains unchanged."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the effect of an increase in the marginal propensity to consume (MPC) on the multiplier?",
+    "options": [
+      "It has no effect on the multiplier",
+      "It decreases the multiplier",
+      "It increases the multiplier.",
+      "It remains constant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary effect of a tax on capital in a competitive capital market?",
+    "options": [
+      "A decrease in the capital stock.",
+      "An increase in the capital stock",
+      "A decrease in the wage rate",
+      "No change in the capital stock"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A government that uses a fiscal policy of expansionary fiscal policy will have a fiscal policy multiplier of",
+    "question": "What is the primary effect of a decrease in the level of government debt on the interest rate in the IS-LM model?",
     "options": [
-      "+ve",
-      "inconclusive",
-      "zero",
-      "-ve"
+      "A decrease in the interest rate.",
+      "No change in the interest rate",
+      "A decrease in the money supply",
+      "An increase in the interest rate"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "A country's monetary policy is aimed at reducing unemployment. What is the effect on the interest rate?",
+    "options": [
+      "The interest rate will remain unchanged",
+      "The interest rate will decrease but at a slower rate",
+      "The interest rate will decrease",
+      "The interest rate will increase"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the type of chemical bond that occurs between two atoms that share one or more pairs of electrons?",
+    "question": "What is the term for the amount of substance that will react with a given amount of another substance at a given temperature?",
     "options": [
-      "Hydrogen Bond",
-      "Ionic Bond",
-      "Dipole-Dipole Bond",
-      "Covalent Bond"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the ability of a substance to resist changes in its shape under applied stress?",
-    "options": [
-      "Viscosity",
-      "Elasticity",
-      "Plasticity",
-      "Rigidity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the scientific term for the study of the structure and properties of materials?",
-    "options": [
-      "Materials Science",
-      "Crystallography",
-      "Metallurgy",
-      "Thermodynamics"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the scientific term for the process by which a liquid is converted into a solid?",
-    "options": [
-      "Sublimation",
-      "Melting",
-      "Deposition",
-      "Freezing"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the number of electrons gained or lost by an atom during a chemical reaction?",
-    "options": [
-      "Mass",
-      "Valence",
-      "Radius",
-      "Charge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the type of bond that occurs between two atoms that have an unequal sharing of electrons?",
-    "options": [
-      "Ionic Bond",
-      "Nonpolar Covalent Bond",
-      "Hydrogen Bond",
-      "Polar Covalent Bond"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the energy required to remove an electron from a molecule?",
-    "options": [
-      "Molecular Ionization Energy",
-      "Electron Affinity",
-      "Atomic Ionization Energy",
-      "Electron Gain Energy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of chemical bond that occurs between two atoms that have an equal sharing of electrons?",
-    "options": [
-      "Ionic Bond",
-      "Metallic Bond",
-      "Polar Covalent Bond",
-      "Nonpolar Covalent Bond"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of chemical reaction where two or more substances combine to form a new compound?",
-    "options": [
-      "Decomposition Reaction",
-      "Replacement Reaction",
-      "Neutralization Reaction",
-      "Synthesis Reaction"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of bond that occurs between a metal atom and another metal atom?",
-    "options": [
-      "Polar Covalent Bond",
-      "Metallic Bond",
-      "Covalent Bond",
-      "Hydrogen Bond"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the type of reaction where a gas is converted into a liquid?",
-    "options": [
-      "Condensation",
-      "Freezing",
-      "Vaporization",
-      "Sublimation"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy required to remove an electron from an atom?",
-    "options": [
-      "Electron Affinity",
-      "Electronegativity",
-      "Ionization Energy",
-      "Electron Gain Energy"
+      "density",
+      "mole fraction",
+      "stoichiometry",
+      "molarity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the ability of a substance to conduct electricity?",
+    "question": "What is the term for the process by which a substance changes its state from a solid directly to a gas?",
     "options": [
-      "Optical Conductivity",
-      "Electrical Conductivity",
-      "Magnetic Conductivity",
-      "Thermal Conductivity"
+      "melting",
+      "sublimation",
+      "freezing",
+      "crystallisation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of bond that occurs between a metal atom and a nonmetal atom?",
+    "question": "What is the term for the amount of energy required to change the state of a substance from a solid to a liquid?",
     "options": [
-      "Covalent Bond",
-      "Metallic Bond",
-      "Hydrogen Bond",
-      "Polar Covalent Bond"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the ability of a substance to conduct heat?",
-    "options": [
-      "Optical Conductivity",
-      "Magnetic Conductivity",
-      "Electrical Conductivity",
-      "Thermal Conductivity"
+      "heat of vaporisation",
+      "specific heat capacity",
+      "molar heat capacity",
+      "heat of fusion"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which a substance changes its state from a solid to a gas without going through the liquid phase?",
+    "options": [
+      "crystallisation",
+      "freezing",
+      "sublimation",
+      "melting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the mass-to-charge ratio of ions?",
+    "options": [
+      "mass spectroscopy",
+      "electron spectroscopy",
+      "infrared spectroscopy",
+      "nuclear magnetic resonance spectroscopy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the amount of substance that will dissolve in a given amount of solvent at a given temperature?",
+    "options": [
+      "mole fraction",
+      "density",
+      "solubility",
+      "molarity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the equilibrium between reactants and products in a reversible reaction?",
+    "options": [
+      "dynamic equilibrium",
+      "equilibrium",
+      "static equilibrium",
+      "concentration equilibrium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of electrochemical cell involves the use of an external energy source to drive a chemical reaction?",
+    "options": [
+      "electrolytic cell",
+      "galvanic cell",
+      "fuel cell",
+      "battery"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the amount of energy required to change the state of a substance from a gas to a liquid?",
+    "options": [
+      "specific heat capacity",
+      "molar heat capacity",
+      "heat of vaporisation",
+      "latent heat of condensation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of chemical reaction involves the breaking of a chemical bond to form two or more substances?",
+    "options": [
+      "replacement reaction",
+      "oxidation reaction",
+      "synthesis reaction",
+      "decomposition reaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which a substance changes its state from a gas to a liquid?",
+    "options": [
+      "sublimation",
+      "crystallisation",
+      "condensation",
+      "evaporation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of bond involves the sharing of one or more pairs of electrons between atoms?",
+    "options": [
+      "hydrogen",
+      "ionic",
+      "covalent",
+      "metallic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the energy of molecules in a substance using infrared radiation?",
+    "options": [
+      "mass spectroscopy",
+      "infrared spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "electron spectroscopy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of spectroscopy involves the measurement of the energy of molecules in a substance?",
+    "options": [
+      "electron spectroscopy",
+      "mass spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "infrared spectroscopy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the amount of substance that will dissolve in a given amount of solvent at a given temperature and pressure?",
+    "options": [
+      "molarity",
+      "density",
+      "solubility",
+      "mole fraction"
+    ],
+    "correctIndex": 2
   }
 ]

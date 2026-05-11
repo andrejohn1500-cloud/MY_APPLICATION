@@ -1,153 +1,152 @@
 [
   {
-    "question": "Which biogeochemical cycle is most directly affected by the burning of fossil fuels, leading to increased atmospheric concentrations of greenhouse gases?",
+    "question": "What is the term for the number of different species of plants and animals living in a specific area?",
     "options": [
-      "The nitrogen cycle",
-      "The carbon cycle",
-      "The phosphorus cycle",
-      "The water cycle"
+      "ecosystem",
+      "environment",
+      "habitat",
+      "biodiversity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the practice of using natural resources in a way that minimizes harm to the environment and ensures their sustainability for future generations?",
+    "options": [
+      "exploitation",
+      "conservation",
+      "rehabilitation",
+      "sustainable resource management"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of pollution that occurs when chemicals are released into the air, water, or soil and cause harm to humans, animals, and plants?",
+    "options": [
+      "biological pollution",
+      "chemical pollution",
+      "radioactive pollution",
+      "thermal pollution"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What term describes the variety of ecosystems, species, and genetic material found within a given region?",
+    "question": "Which of the following is a type of environmental policy that aims to protect and conserve natural resources and prevent pollution?",
     "options": [
-      "Species richness",
-      "Biodiversity",
-      "Ecological resilience",
-      "Biomass"
+      "resource exploitation policy",
+      "conservation policy",
+      "sustainable development policy",
+      "environmental protection policy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which layer of the atmosphere contains the ozone layer that absorbs harmful ultraviolet radiation?",
+    "question": "Which of the following is a type of greenhouse gas that contributes to climate change?",
     "options": [
-      "Troposphere",
-      "Mesosphere",
-      "Stratosphere",
-      "Thermosphere"
+      "sulfur dioxide",
+      "nitrous oxide",
+      "carbon dioxide",
+      "oxygen"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The process by which nitrogen-fixing bacteria convert atmospheric nitrogen (N\u2082) into ammonia (NH\u2083) is called:",
+    "question": "Which of the following is a type of environmental impact that can occur as a result of human activities such as mining, drilling, and logging?",
     "options": [
-      "Denitrification",
-      "Nitrification",
-      "Nitrogen fixation",
-      "Ammonification"
+      "soil erosion",
+      "water pollution",
+      "atmospheric pollution",
+      "land degradation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which the Earth's natural resources are restored or improved as a result of human activities?",
+    "options": [
+      "exploitation",
+      "rehabilitation",
+      "conservation",
+      "sustainable resource management"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the movement of pollutants through the air, water, or soil from one location to another?",
+    "options": [
+      "diffuse pollution",
+      "migration",
+      "dispersion",
+      "diffusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which the Earth's atmosphere is cooled?",
+    "options": [
+      "radiative cooling",
+      "atmospheric cooling",
+      "greenhouse effect",
+      "global warming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the intentional destruction of natural habitats for human purposes such as agriculture, urbanization, or mining?",
+    "options": [
+      "conservation",
+      "land degradation",
+      "deforestation",
+      "rehabilitation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes a primary consumer in a food chain?",
+    "question": "What is the term for the process by which the Earth's natural resources are depleted or destroyed as a result of human activities?",
     "options": [
-      "An organism that produces its own food through photosynthesis",
-      "An organism that feeds directly on producers",
-      "An organism that feeds on herbivores",
-      "An organism that breaks down dead organic matter"
+      "exploitation",
+      "resource depletion",
+      "conservation",
+      "sustainable resource management"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The greenhouse effect becomes problematic when:",
+    "question": "Which of the following natural hazards can cause widespread damage and loss of life?",
     "options": [
-      "Too little solar radiation reaches the Earth's surface",
-      "Greenhouse gas concentrations increase, trapping excessive heat",
-      "The ozone layer absorbs too much infrared radiation",
-      "Ocean currents redistribute heat unevenly"
+      "droughts",
+      "hurricanes",
+      "earthquakes",
+      "tsunamis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which renewable energy source harnesses the energy from the difference in temperature between surface and deep ocean water?",
+    "question": "Which of the following is a type of ecosystem that is characterized by a high level of biodiversity and is often found in tropical regions?",
     "options": [
-      "Tidal energy",
-      "Wave energy",
-      "Ocean thermal energy conversion (OTEC)",
-      "Geothermal energy"
+      "tundra ecosystem",
+      "coral reef ecosystem",
+      "desert ecosystem",
+      "rainforest ecosystem"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Eutrophication of water bodies is primarily caused by an excess of which nutrients?",
+    "question": "What is the term for the practice of managing natural resources in a way that takes into account the needs of both present and future generations?",
     "options": [
-      "Carbon and sulfur",
-      "Nitrogen and phosphorus",
-      "Calcium and magnesium",
-      "Iron and manganese"
+      "utilitarianism",
+      "presentism",
+      "individualism",
+      "intergenerational equity"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which international agreement specifically targets the reduction of substances that deplete the ozone layer?",
+    "question": "What is the main driver of pollution?",
     "options": [
-      "The Kyoto Protocol",
-      "The Paris Agreement",
-      "The Montreal Protocol",
-      "The Basel Convention"
+      "human activities",
+      "natural disasters",
+      "climate change",
+      "geological processes"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In soil science, which horizon is characterized by the accumulation of leached minerals and is sometimes called the zone of accumulation?",
-    "options": [
-      "O horizon",
-      "A horizon",
-      "B horizon",
-      "C horizon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main cause of acid rain?",
-    "options": [
-      "Increased concentrations of carbon dioxide and methane",
-      "Emissions of sulfur dioxide and nitrogen oxides that react with atmospheric water",
-      "Elevated levels of ozone in the troposphere",
-      "Release of chlorofluorocarbons into the atmosphere"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of an ex-situ conservation strategy?",
-    "options": [
-      "Establishing a national park",
-      "Creating a marine protected area",
-      "Maintaining a seed bank or zoo",
-      "Designating a biosphere reserve"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "function": "",
-    "question": "The concept of carrying capacity refers to:",
-    "options": [
-      "The maximum speed at which a population can grow",
-      "The maximum population size an environment can sustainably support",
-      "The minimum viable population needed for survival",
-      "The rate at which resources are consumed by a population"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following pollutants is classified as a persistent organic pollutant (POP) and was widely used as a pesticide?",
-    "options": [
-      "Carbon monoxide",
-      "DDT (dichlorodiphenyltrichloroethane)",
-      "Sulfur dioxide",
-      "Nitrous oxide"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In an Environmental Impact Assessment (EIA), the mitigation hierarchy requires that impacts be addressed in which order?",
-    "options": [
-      "Compensate, reduce, avoid, restore",
-      "Avoid, minimize, restore, offset",
-      "Restore, offset, avoid, minimize",
-      "Minimize, avoid, compensate, restore"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

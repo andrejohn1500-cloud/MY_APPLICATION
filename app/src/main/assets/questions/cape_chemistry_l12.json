@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the type of spectroscopy that involves the interaction between matter and electromagnetic radiation in the microwave region?",
+    "question": "What is the term for the process by which a single molecule of a reactant is converted into a single molecule of a product?",
     "options": [
-      "infrared spectroscopy",
-      "microwave spectroscopy",
-      "ultraviolet spectroscopy",
-      "visible spectroscopy"
+      "Stepwise reaction",
+      "Elementary reaction",
+      "Mechanistic reaction",
+      "Molecular reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the change in the internal energy of a system that occurs when a reaction is carried out at constant volume?",
+    "question": "What is the term for the type of reaction that involves the reaction of a metal with a nonmetal to produce a salt and hydrogen gas, with the nonmetal being a metalloid?",
     "options": [
-      "change in enthalpy",
-      "change in internal energy",
-      "change in entropy",
-      "change in free energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a reaction in which a liquid changes directly to a gas without going through the solid phase?",
-    "options": [
-      "evaporation",
-      "sublimation",
-      "condensation",
-      "vaporization"
+      "Acid-base reaction",
+      "Neutralization reaction",
+      "Redox reaction",
+      "Metal-metalloid reaction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of hybridization that occurs when one s and three p orbitals mix to form four sp3 orbitals?",
+    "question": "What is the term for the term for the energy change associated with the formation of a mole of a substance, at standard temperature and pressure?",
     "options": [
-      "sp3 hybridization",
-      "sp2 hybridization",
-      "dsp3 hybridization",
-      "sp hybridization"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A sample of a gas at 25\u00b0C and 1 atm has a volume of 2.5 L. What is the number of moles of gas present in the sample?",
-    "options": [
-      "0.11 mol",
-      "0.105 mol",
-      "0.025 mol",
-      "0.051 mol"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process by which an acid donates a proton to a base?",
-    "options": [
-      "neutralization reaction",
-      "acid-base reaction",
-      "proton transfer reaction",
-      "electron transfer reaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the process by which a nonmetal gains electrons to form a negatively charged ion?",
-    "options": [
-      "ion gain",
-      "ionization",
-      "ion loss",
-      "ion formation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a reaction in which a solid changes directly to a liquid without going through the gas phase?",
-    "options": [
-      "decomposition",
-      "effusion",
-      "sublimation",
-      "fusion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process by which a metal loses electrons to form a positively charged ion?",
-    "options": [
-      "ion loss",
-      "ionization",
-      "ion formation",
-      "ion gain"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the type of electrochemical cell in which an oxidation reaction occurs at the anode?",
-    "options": [
-      "fuel cell",
-      "galvanic cell",
-      "photoelectrochemical cell",
-      "electrolytic cell"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the energy change accompanying a chemical reaction?",
-    "options": [
-      "enthalpy change",
-      "enthalpy of formation",
-      "reaction enthalpy",
-      "enthalpy of reaction"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the rate of change of the concentration of a reactant with respect to time?",
-    "options": [
-      "reaction rate",
-      "rate of change",
-      "rate of reaction",
-      "rate of reaction rate"
+      "Standard enthalpy of neutralization",
+      "Standard enthalpy of reaction",
+      "Standard enthalpy of formation",
+      "Standard enthalpy of combustion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the type of chemical reaction that involves the change of one element into another?",
+    "question": "What is the term for a type of electrochemical cell that uses a single compartment containing both the anode and cathode?",
     "options": [
-      "combination reaction",
-      "transmutation reaction",
-      "elimination reaction",
-      "substitution reaction"
+      "Galvanic cell",
+      "Fuel cell",
+      "Electrolytic cell",
+      "Primary cell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which a gas is purified by passing it through a bed of activated carbon?",
+    "options": [
+      "Adsorption",
+      "Filtration",
+      "Absorption",
+      "Distillation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the equilibrium constant expression for a reaction involving solids and liquids?",
+    "options": [
+      "K (equilibrium constant)",
+      "Q (quotient)",
+      "\u0394G (Gibbs energy)",
+      "\u0394H (enthalpy)"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a reaction in which the concentration of a product increases over time?",
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by nuclei as they change their energy levels?",
     "options": [
-      "stationary concentration",
-      "increase in concentration",
-      "constant concentration",
-      "decrease in concentration"
+      "Mass spectrometry",
+      "Infrared spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Ultraviolet-visible spectroscopy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the term for the amount of heat required to raise the temperature of a sample by a unit change in temperature, per mole of the substance?",
+    "options": [
+      "Molar heat capacity",
+      "Heat of fusion",
+      "Heat of vaporization",
+      "Specific heat capacity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a metal with a nonmetal to produce a salt and hydrogen gas?",
+    "options": [
+      "Neutralization reaction",
+      "Redox reaction",
+      "Metal displacement reaction",
+      "Acid-base reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction that involves the reaction of a metal with a nonmetal to produce a salt and hydrogen gas, with the nonmetal being a halogen?",
+    "options": [
+      "Neutralization reaction",
+      "Redox reaction",
+      "Metal-halogen reaction",
+      "Acid-base reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the term for the energy change associated with the formation of a mole of a substance?",
+    "options": [
+      "Standard enthalpy of reaction",
+      "Standard enthalpy of combustion",
+      "Standard enthalpy of neutralization",
+      "Standard enthalpy of formation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the chemical bond that arises between two atoms when they share one or more pairs of electrons?",
+    "options": [
+      "hydrogen bond",
+      "covalent bond",
+      "dipole-dipole bond",
+      "ionic bond"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the energy change that occurs when a system is isolated from its surroundings and work is done on the system?",
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by electrons as they move between energy levels in an atom?",
     "options": [
-      "change in enthalpy",
-      "change in free energy",
-      "change in internal energy",
-      "change in entropy"
+      "X-ray spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Ultraviolet-visible spectroscopy",
+      "Mass spectrometry"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of chemical bond that is formed between two atoms when they share three pairs of electrons?",
+    "options": [
+      "pi bond",
+      "phi bond",
+      "delta bond",
+      "sigma bond"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of spectroscopy that measures the energy absorbed or emitted by molecules as they change their electronic energy levels?",
+    "options": [
+      "Infrared spectroscopy",
+      "Nuclear magnetic resonance spectroscopy",
+      "Ultraviolet-visible spectroscopy",
+      "Mass spectrometry"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the total amount of goods and services produced in a country, minus depreciation and plus net income from abroad?",
+    "question": "What is the concept of comparative advantage in international trade?",
     "options": [
-      "Disposable Income",
-      "National Income",
-      "Gross National Product (GNP)",
-      "Gross Domestic Product (GDP)"
+      "The ability of a country to produce a good at the same opportunity cost as another country.",
+      "The ability of a country to produce a good at a higher opportunity cost than another country.",
+      "The ability of a country to import a good at a lower price than it can produce it domestically.",
+      "The ability of a country to produce a good at a lower opportunity cost than another country."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the term for the study of how households and firms make decisions about how to allocate resources?",
+    "question": "What is the concept of market failure?",
     "options": [
-      "Macroeconomics",
-      "Development Economics",
-      "Microeconomics",
-      "International Economics"
+      "A situation in which the market does not allocate resources efficiently.",
+      "A situation in which the market allocates resources efficiently.",
+      "A situation in which the market does not allocate resources at all.",
+      "A situation in which the market allocates resources but at a cost."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between a fixed exchange rate and a flexible exchange rate?",
+    "options": [
+      "A fixed exchange rate is determined by the market, while a flexible exchange rate is maintained by a central bank.",
+      "A fixed exchange rate is a system of exchange rates that is determined by the market, while a flexible exchange rate is a system of exchange rates that is pegged to a basket of currencies.",
+      "A fixed exchange rate is a system of exchange rates that is pegged to a basket of currencies, while a flexible exchange rate is a system of exchange rates that is determined by the market.",
+      "A fixed exchange rate is maintained by a central bank, while a flexible exchange rate is determined by the market."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the concept of crowding in?",
+    "options": [
+      "The decrease in government borrowing as a result of increased private sector investment.",
+      "The increase in government revenue as a result of increased private sector investment.",
+      "The decrease in private sector investment as a result of increased government borrowing.",
+      "The increase in private sector investment as a result of increased government borrowing."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the movement of a firm from one point on its production possibility curve to another point on the curve?",
+    "options": [
+      "A change in the production mix.",
+      "A change in the production technology.",
+      "An increase in the production level.",
+      "A decrease in the production level."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main goal of fiscal policy in a developing country?",
+    "options": [
+      "To reduce poverty in a developing country by increasing government spending.",
+      "To promote economic growth and stability in developed countries.",
+      "To promote economic growth and stability by controlling government spending and taxation.",
+      "To increase inequality in a developing country by decreasing government spending."
     ],
     "correctIndex": 2
   },
   {
-    "question": "A type of fiscal policy that involves increasing government spending or cutting taxes to boost economic growth.",
+    "question": "What is the main difference between a normal good and an inferior good?",
     "options": [
-      "Expansionary Fiscal Policy",
-      "Contractionary Fiscal Policy",
-      "Fiscal Stabilization Policy",
-      "Neutral Fiscal Policy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A type of economic development strategy that emphasizes the role of the state in guiding economic growth.",
-    "options": [
-      "Export-Led Growth",
-      "Import Substitution Industrialization",
-      "State-Led Development",
-      "Market-Oriented Development"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the exchange of goods and services between countries using a medium of exchange, such as money?",
-    "options": [
-      "Free Trade",
-      "Protectionism",
-      "Barter",
-      "Foreign Trade"
+      "A normal good is consumed by high-income households, while an inferior good is consumed by low-income households.",
+      "A normal good is a luxury good, while an inferior good is a necessity good.",
+      "A normal good is produced at a constant quantity, while an inferior good is produced at a decreasing quantity.",
+      "A normal good increases in demand as income rises, while an inferior good decreases in demand as income rises."
     ],
     "correctIndex": 3
   },
   {
-    "question": "The term 'globalization' refers to the increasing interconnectedness of the world's economies, often through trade and investment.",
+    "question": "What is the concept of opportunity cost in consumption?",
     "options": [
-      "False",
-      "True",
-      "Partially True",
-      "Irrelevant"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A market structure in which many firms supply a homogeneous product, and no single firm has the power to influence the market price.",
-    "options": [
-      "Perfect Competition",
-      "Monopolistic Competition",
-      "Monopoly",
-      "Oligopoly"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the total amount of goods and services produced in a country, including income earned by foreigners and excluding income earned by citizens abroad?",
-    "options": [
-      "Disposable Income",
-      "National Income",
-      "Gross Domestic Product (GDP)",
-      "Gross National Product (GNP)"
+      "The quantity of a good or service that is consumed.",
+      "The amount of money spent on a good or service.",
+      "The value of a good or service in its current market price.",
+      "The value of the next best alternative that must be given up when a choice is made about how to allocate income."
     ],
     "correctIndex": 3
   },
   {
-    "question": "The term 'dependency theory' suggests that economic development in the periphery is dependent on the core countries.",
+    "question": "What is the concept of crowding out in fiscal policy?",
     "options": [
-      "True",
-      "False",
-      "Partially True",
-      "Irrelevant"
+      "The increase in private sector investment as a result of increased government borrowing.",
+      "The reduction in private sector investment as a result of increased government borrowing.",
+      "The reduction in government borrowing as a result of increased private sector investment.",
+      "The increase in government revenue as a result of increased private sector investment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main difference between a perfect competition and a monopoly?",
+    "options": [
+      "A perfect competition has a large number of firms producing a homogeneous product, while a monopoly has a small number of firms producing a unique product.",
+      "A perfect competition has a single firm producing a unique product, while a monopoly has many firms producing a homogeneous product.",
+      "A perfect competition has a small number of firms producing a homogeneous product, while a monopoly has a large number of firms producing a unique product.",
+      "A perfect competition has many firms producing a homogeneous product, while a monopoly has a single firm producing a unique product."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the concept of comparative statics?",
+    "options": [
+      "A method of analysis that compares the equilibrium of a system at different points in time, holding all other variables constant.",
+      "A method of analysis that compares the equilibrium of a system at different points in time, allowing all variables to change.",
+      "A method of analysis that compares the equilibrium of a system at different points in space, holding all other variables constant.",
+      "A method of analysis that compares the equilibrium of a system at different points in space, allowing all variables to change."
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Caribbean region has a relatively high rate of economic growth compared to other regions in the world.",
+    "question": "What is the concept of opportunity cost in economics?",
     "options": [
-      "False",
-      "Partially True",
-      "True",
-      "Irrelevant"
+      "The amount of money spent on a good or service.",
+      "The best alternative that must be given up when a choice is made.",
+      "The value of a good or service in its current market price.",
+      "The quantity of a good or service that is produced."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The Caribbean region has a relatively low rate of economic growth compared to other regions in the world.",
+    "question": "What is the main goal of monetary policy in a developing country?",
     "options": [
-      "Irrelevant",
-      "False",
-      "True",
-      "Partially True"
+      "To increase inequality in a developing country by decreasing the money supply.",
+      "To reduce poverty in a developing country by increasing the money supply.",
+      "To promote economic growth and stability by controlling the money supply and interest rates.",
+      "To promote economic growth and stability in developed countries."
     ],
     "correctIndex": 2
   },
   {
-    "question": "The main reasons for the high rate of poverty in the Caribbean region are due to a lack of economic diversification, a high dependence on foreign aid, and a lack of human capital.",
+    "question": "What is the main difference between a recession and a depression?",
     "options": [
-      "Partially True",
-      "False",
-      "Irrelevant",
-      "True"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The term 'globalization' is a recent phenomenon, dating back only to the 1990s.",
-    "options": [
-      "Irrelevant",
-      "False",
-      "True",
-      "Partially True"
+      "A recession is a prolonged and severe decline in economic activity, while a depression is a short-term decline in economic activity.",
+      "A recession is a short-term decline in economic activity, while a depression is a prolonged and severe decline in economic activity.",
+      "A recession is a decline in economic activity caused by a decrease in government spending, while a depression is a decline in economic activity caused by an increase in government spending.",
+      "A recession is a decline in economic activity caused by a decrease in aggregate demand, while a depression is a decline in economic activity caused by an increase in aggregate demand."
     ],
     "correctIndex": 1
   },
   {
-    "question": "A type of monetary policy that involves reducing the money supply to reduce inflation.",
+    "question": "What is the main difference between a cartel and a monopoly?",
     "options": [
-      "Contractionary Monetary Policy",
-      "Neutral Monetary Policy",
-      "Expansionary Monetary Policy",
-      "Monetary Stabilization Policy"
+      "A cartel is a group of firms that agree to fix prices and output, while a monopoly is a single firm that produces a unique product.",
+      "A cartel is a group of firms that agree to fix prices and output, while a monopoly is a firm that produces a homogeneous product.",
+      "A cartel is a firm that produces a homogeneous product, while a monopoly is a group of firms that agree to fix prices and output.",
+      "A cartel is a single firm that produces a unique product, while a monopoly is a group of firms that agree to fix prices and output."
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process by which a country's economy grows and develops, often through investment in human capital and infrastructure?",
-    "options": [
-      "International Trade",
-      "Globalization",
-      "Foreign Investment",
-      "Economic Development"
-    ],
-    "correctIndex": 3
   }
 ]

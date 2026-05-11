@@ -1,52 +1,92 @@
 [
   {
-    "question": "What is the scientific term for the study of the behavior of chemical systems under the influence of an electric field?",
+    "question": "Which type of spectroscopy involves the measurement of the magnetic properties of atoms or molecules?",
     "options": [
-      "Thermodynamics",
-      "Electrochemistry",
-      "Equilibrium Chemistry",
-      "Kinetics"
+      "electron spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "infrared spectroscopy",
+      "mass spectroscopy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of bond that occurs between a hydrogen atom and a highly electronegative atom?",
+    "question": "Which type of spectroscopy involves the measurement of the nuclear magnetic properties of atoms?",
     "options": [
-      "Covalent Bond",
-      "Polar Covalent Bond",
-      "Hydrogen Bond",
-      "Metallic Bond"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the type of reaction where a solid is converted into a gas?",
-    "options": [
-      "Melting",
-      "Vaporization",
-      "Condensation",
-      "Sublimation"
+      "infrared spectroscopy",
+      "mass spectroscopy",
+      "electron spectroscopy",
+      "nuclear magnetic resonance spectroscopy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of reaction where one substance is converted into another substance without the gain or loss of oxygen?",
+    "question": "Which type of electrochemical cell involves the use of a salt bridge to connect the two half-cells?",
     "options": [
-      "Synthesis Reaction",
-      "Decomposition Reaction",
-      "Combustion Reaction",
-      "Redox Reaction"
+      "galvanic cell",
+      "fuel cell",
+      "battery",
+      "electrolytic cell"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the scientific term for the study of the interactions between light and matter?",
+    "question": "Which type of chemical reaction involves the replacement of one element by another element in a compound?",
     "options": [
-      "Crystallography",
-      "Kinetics",
-      "Spectroscopy",
-      "Thermodynamics"
+      "decomposition reaction",
+      "oxidation reaction",
+      "replacement reaction",
+      "synthesis reaction"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which type of electrochemical cell involves the transfer of electrons through an electrolyte solution?",
+    "options": [
+      "galvanic cell",
+      "battery",
+      "electrolytic cell",
+      "fuel cell"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of chemical reaction involves the breaking of a chemical bond to form two or more free radicals?",
+    "options": [
+      "heterolysis",
+      "homolysis",
+      "electrolysis",
+      "ionisation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of chemical reaction involves the transfer of electrons from one substance to another?",
+    "options": [
+      "replacement reaction",
+      "redox reaction",
+      "decomposition reaction",
+      "synthesis reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which a substance changes its state from a liquid to a solid?",
+    "options": [
+      "crystallisation",
+      "melting",
+      "freezing",
+      "sublimation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the breaking of a chemical bond to form two or more free radicals?",
+    "options": [
+      "heterolysis",
+      "electrolysis",
+      "ionisation",
+      "homolysis"
+    ],
+    "correctIndex": 3
   }
 ]

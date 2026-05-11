@@ -1,52 +1,42 @@
 [
   {
-    "question": "What is the term for the use of language to persuade or influence others?",
+    "question": "What is the term for the study of the social and cultural context of communication in the Caribbean region?",
     "options": [
-      "Eloquence",
-      "Oratory",
-      "Rhetoric",
-      "Fluency"
+      "Caribbean sociolinguistics",
+      "Caribbean discourse analysis",
+      "Caribbean communication studies",
+      "Caribbean media studies"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a key characteristic of Caribbean identity?",
+    "question": "What is Caribbean Vernacular?",
     "options": [
-      "Homogeneity and monoculturalism",
-      "Uniformity and standardization",
-      "Hybridity and creolization",
-      "Heterogeneity and multiculturalism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the ability to critically evaluate and interpret messages from various sources?",
-    "options": [
-      "Information Literacy",
-      "Communication Skills",
-      "Media Literacy",
-      "Critical Thinking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process of sending and receiving messages between individuals, groups, or countries?",
-    "options": [
-      "Language",
-      "Communication",
-      "Written Communication",
-      "Oral Communication"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a key component of the communication process?",
-    "options": [
-      "Message",
-      "Channel",
-      "Receiver",
-      "Sender"
+      "The standard language used in the Caribbean region",
+      "A language used exclusively in the Caribbean region",
+      "A language used in the Caribbean region and no other region",
+      "The dialects and language varieties used in the Caribbean region"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the principles and values that guide Caribbean communication?",
+    "options": [
+      "Caribbean communication procedure",
+      "Caribbean communication policy",
+      "Caribbean communication law",
+      "Caribbean communication ethics"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the cultural and social context of communication?",
+    "options": [
+      "Communication studies",
+      "Sociolinguistics",
+      "Media studies",
+      "Discourse analysis"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,31 +1,81 @@
 [
   {
-    "question": "What is the primary function of the database management system in storing and retrieving data?",
+    "question": "Which operating system is known for its graphical user interface and is widely used on personal computers?",
     "options": [
-      "It provides a structured and organized way of storing and retrieving data.",
-      "It provides a way of updating data in a file.",
-      "It provides a way of storing data in a file.",
-      "It provides a way of retrieving data from a file."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of the 'final' keyword in a method declaration in Java?",
-    "options": [
-      "To indicate that the method is private",
-      "To indicate that the method cannot be overridden in a subclass",
-      "To indicate that the method is abstract",
-      "To indicate that the method is static"
+      "iOS",
+      "Windows",
+      "Linux",
+      "macOS"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a class that inherits properties and behavior from another class?",
+    "question": "What is the data structure that stores a collection of items in a specific order?",
     "options": [
-      "Derived class",
-      "Child class",
-      "Parent class",
-      "Base class"
+      "Queue",
+      "Linked List",
+      "Array",
+      "Stack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of analyzing the reliability of a software system?",
+    "options": [
+      "Software reliability analysis",
+      "Software security analysis",
+      "Software testing",
+      "Software performance analysis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of evaluating the performance of a software system?",
+    "options": [
+      "Software reliability evaluation",
+      "Software security evaluation",
+      "Software performance evaluation",
+      "Software testing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which database model organizes data into a tree-like structure, with each node representing a record?",
+    "options": [
+      "Flat file model",
+      "Hierarchical model",
+      "Network model",
+      "Relational model"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which programming paradigm emphasizes the use of functions and procedures to organize code?",
+    "options": [
+      "Procedural Programming",
+      "Object-Oriented Programming",
+      "Declarative Programming",
+      "Functional Programming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of creating a software system that can adapt to changing requirements?",
+    "options": [
+      "Software rejuvenation",
+      "Software evolution",
+      "Software evolution",
+      "Software maintenance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which database management system is used for relational databases?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "Microsoft SQL Server",
+      "Oracle"
     ],
     "correctIndex": 0
   }

@@ -1,21 +1,71 @@
 [
   {
-    "question": "The concept of 'spillover effects' is most relevant in which of the following market structures?",
+    "question": "What is the concept of export-led growth?",
     "options": [
-      "Monopolistic Competition",
-      "Monopoly",
-      "Perfect Competition",
-      "Oligopoly"
+      "A development strategy that emphasizes the growth of domestic consumption to drive economic growth.",
+      "A development strategy that emphasizes the growth of exports to drive economic growth.",
+      "A development strategy that emphasizes the growth of government spending to drive economic growth.",
+      "A development strategy that emphasizes the growth of investment to drive economic growth."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "The Caribbean region has a low level of trade dependence, with many countries relying on domestic production to support their economies.",
+    "question": "What is the concept of the law of diminishing returns?",
     "options": [
-      "True",
-      "False",
-      "Irrelevant",
-      "Partially True"
+      "The decrease in the marginal product of a factor of production as the quantity used decreases, while keeping other factors constant.",
+      "The decrease in the marginal product of a factor of production as the quantity used increases, while keeping other factors constant.",
+      "The stability of the marginal product of a factor of production as the quantity used increases, while keeping other factors constant.",
+      "The increase in the marginal product of a factor of production as the quantity used increases, while keeping other factors constant."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main goal of monetary policy?",
+    "options": [
+      "To reduce inflation by increasing the money supply.",
+      "To reduce unemployment by increasing the money supply.",
+      "To promote economic growth and stability by controlling the money supply and interest rates.",
+      "To increase inflation by decreasing the money supply."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main difference between a tariff and a quota?",
+    "options": [
+      "A tariff is a tax on domestic producers, while a quota is a tax on imported goods.",
+      "A tariff is a limit on the quantity of imported goods, while a quota is a tax on imported goods.",
+      "A tariff is a subsidy to domestic producers, while a quota is a tax on domestic producers.",
+      "A tariff is a tax on imported goods, while a quota is a limit on the quantity of imported goods."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the concept of GNP (Gross National Product)?",
+    "options": [
+      "The total value of all intermediate goods and services produced within a country's borders.",
+      "The total value of all final goods and services produced within a country's borders, plus income earned from abroad.",
+      "The total value of all final goods and services produced within a country's borders, minus income earned from abroad.",
+      "The total value of all final goods and services produced abroad, minus income earned from abroad."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the concept of elasticity of demand?",
+    "options": [
+      "A measure of how responsive the price of a good is to changes in its quantity demanded.",
+      "A measure of how responsive the quantity supplied of a good is to changes in its price.",
+      "A measure of how responsive the quantity demanded of a good is to changes in its price.",
+      "A measure of how responsive the quantity demanded of a good is to changes in its income."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main goal of development economics in a small island developing state?",
+    "options": [
+      "To increase inequality in a small island developing state by increasing the standard of living of the population.",
+      "To promote economic growth and development by increasing the productivity of the factors of production and improving the standard of living of the population.",
+      "To promote economic growth and stability in developed countries.",
+      "To reduce poverty in a small island developing state by decreasing the standard of living of the population."
     ],
     "correctIndex": 1
   }

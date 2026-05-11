@@ -1,151 +1,151 @@
 [
   {
-    "question": "A solution contains 2 M NH3 and 1 M HCl. What is the concentration of NH4+ ions in the solution?",
+    "question": "What is the term for the energy associated with the motion of nuclei in a molecule at a specific temperature?",
     "options": [
-      "4 M",
-      "0 M",
-      "1 M",
-      "2 M"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for the process by which a gas is adsorbed onto the surface of a solid?",
-    "options": [
-      "absorption",
-      "adsorption",
-      "diffusion",
-      "desorption"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The standard enthalpy of formation of a certain compound is -150 kJ/mol. What is the standard entropy change for the formation of this compound?",
-    "options": [
-      "-50 J/K\u00b7mol",
-      "-500 J/K\u00b7mol",
-      "-1000 J/K\u00b7mol",
-      "-2000 J/K\u00b7mol"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation absorbed by a molecule?",
-    "options": [
-      "infrared spectroscopy",
-      "Raman spectroscopy",
-      "ultraviolet spectroscopy",
-      "visible spectroscopy"
+      "Nuclear thermal energy",
+      "Nuclear potential energy",
+      "Nuclear bond energy",
+      "Nuclear kinetic energy"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A reaction has an activation energy of 20 kJ/mol. If the rate constant at 25\u00b0C is 0.02 min-1, what is the rate constant at 35\u00b0C?",
+    "question": "What is the term for the term for the amount of a substance that is required to react with another substance in a given time, at a constant temperature?",
     "options": [
-      "0.06 min-1",
-      "0.04 min-1",
-      "0.01 min-1",
-      "0.08 min-1"
+      "Rate constant",
+      "Rate of reaction",
+      "Reaction rate constant",
+      "Catalytic rate constant"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule gains a group of atoms in a stepwise manner involving three molecules?",
+    "options": [
+      "Unimolecular reaction",
+      "Trimolecular reaction",
+      "Multimolecular reaction",
+      "Bimolecular reaction"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A reaction has an activation energy of 80 kJ/mol. If the rate constant at 20\u00b0C is 0.001 min-1, what is the rate constant at 40\u00b0C?",
+    "question": "What is the half-life of a first-order reaction?",
     "options": [
-      "0.05 min-1",
-      "0.01 min-1",
-      "0.02 min-1",
-      "0.1 min-1"
+      "The half-life of a first-order reaction is equal to k/0.693.",
+      "The half-life of a first-order reaction is equal to 1/k.",
+      "The half-life of a first-order reaction is independent of the initial concentration of reactant and is equal to 0.693/k.",
+      "The half-life of a first-order reaction is dependent on the initial concentration of reactant."
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the study of the interaction between light and matter?",
+    "question": "What is the term for the type of reaction in which a molecule loses a group of atoms in a single step?",
     "options": [
-      "chromophores",
-      "photochemistry",
-      "spectroscopy",
-      "photobiology"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The standard electrode potential for a certain half-cell reaction is -1.2 V. What is the standard cell potential for a cell consisting of this half-cell and a standard hydrogen electrode?",
-    "options": [
-      "-1.8 V",
-      "-0.6 V",
-      "-1.2 V",
-      "-0.8 V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 0.1 M solution of a weak acid has a pH of 4. What is the acid dissociation constant (Ka) of the acid?",
-    "options": [
-      "10^-6",
-      "10^-8",
-      "10^-2",
-      "10^-4"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A reaction has an activation energy of 50 kJ/mol. If the rate constant at 25\u00b0C is 0.001 min-1, what is the rate constant at 50\u00b0C?",
-    "options": [
-      "0.008 min-1",
-      "0.04 min-1",
-      "0.1 min-1",
-      "0.002 min-1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The rate constant for a second-order reaction is 0.02 L/mol\u00b7min. If the initial concentration of the reactant is 0.5 M, what is the concentration remaining after 5 minutes?",
-    "options": [
-      "10 M",
-      "12.5 M",
-      "5 M",
-      "2.5 M"
+      "Unimolecular reaction",
+      "Multimolecular reaction",
+      "Trimolecular reaction",
+      "Bimolecular reaction"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 0.01 M solution of a strong base has a pH of 12. What is the concentration of hydroxide ions in the solution?",
+    "question": "What is the term for the energy associated with the motion of electrons in a molecule at a specific temperature?",
     "options": [
-      "0.001 M",
-      "0.01 M",
-      "0.1 M",
-      "0.01 M"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 0.01 M solution of a strong acid has a pH of 1. What is the concentration of hydrogen ions in the solution?",
-    "options": [
-      "0.001 M",
-      "0.1 M",
-      "10^-3 M",
-      "0.01 M"
+      "Electron bond energy",
+      "Electron potential energy",
+      "Electron kinetic energy",
+      "Electron thermal energy"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the type of spectroscopy that involves the measurement of the energy of electromagnetic radiation absorbed and emitted by a molecule?",
+    "question": "What is the term for the potential energy of a system that is due to the interactions between electrons in a molecule at a specific temperature?",
     "options": [
-      "ultraviolet spectroscopy",
-      "Nuclear Magnetic Resonance spectroscopy",
-      "Raman spectroscopy",
-      "infrared spectroscopy"
+      "Electron kinetic energy",
+      "Electronic thermal energy",
+      "Electron thermal potential energy",
+      "Electronic thermal potential energy"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the phenomenon by which a solution becomes more concentrated as a solute is added to it?",
+    "options": [
+      "Osmotic equilibrium",
+      "Osmotic desalination",
+      "Osmotic dilution",
+      "Reverse osmosis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The standard electrode potential for a certain half-cell reaction is +0.8 V. What is the standard cell potential for a cell consisting of this half-cell and a standard hydrogen electrode?",
+    "question": "What is the term for the phenomenon by which a sample of a substance appears to be in a different state than its actual state, due to the presence of a solvent, at a constant temperature?",
     "options": [
-      "-0.8 V",
-      "+0.8 V",
-      "+1.2 V",
-      "+0.6 V"
+      "Observed state",
+      "Equilibrium state",
+      "Solvent-induced isobaric state",
+      "Apparent state"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule gains a proton?",
+    "options": [
+      "Electronation reaction",
+      "Deprotonation reaction",
+      "Protonation reaction",
+      "Deuteronation reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the IUPAC name for the compound CH2=CH-CH2-CH3?",
+    "options": [
+      "3-methyl-1-butene",
+      "2-methyl-1-butene",
+      "3-methyl-2-butene",
+      "1-methyl-2-butene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the rate of reaction at the surface of a catalyst?",
+    "options": [
+      "Turnover frequency",
+      "Turnover number",
+      "Activation energy",
+      "Rate constant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the phenomenon by which a molecule emits light at a wavelength that is not the frequency of the transition?",
+    "options": [
+      "Bioluminescence",
+      "Photoluminescence",
+      "Fluorescence",
+      "Phosphorescence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the energy associated with the motion of electrons in a molecule?",
+    "options": [
+      "Electron kinetic energy",
+      "Electron thermal energy",
+      "Electron potential energy",
+      "Electron bond energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of reaction in which a molecule loses a group of atoms in a stepwise manner involving two molecules?",
+    "options": [
+      "Trimolecular reaction",
+      "Bimolecular reaction",
+      "Unimolecular reaction",
+      "Multimolecular reaction"
     ],
     "correctIndex": 1
   }

@@ -1,152 +1,132 @@
 [
   {
-    "question": "Which biogeochemical cycle is most directly affected by the burning of fossil fuels, leading to increased atmospheric concentrations of greenhouse gases?",
+    "question": "What is the term for the natural process by which the Earth's surface is shaped by wind, water, and ice?",
     "options": [
-      "The nitrogen cycle",
-      "The carbon cycle",
-      "The phosphorus cycle",
-      "The sulfur cycle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary cause of stratospheric ozone depletion?",
-    "options": [
-      "Carbon dioxide emissions from vehicles",
-      "Chlorofluorocarbons (CFCs) released from refrigerants and aerosols",
-      "Methane released from wetlands",
-      "Nitrous oxide from agricultural soils"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the concept of 'carrying capacity' in ecology?",
-    "options": [
-      "The maximum weight a food web can support",
-      "The maximum population size an environment can sustain indefinitely given available resources",
-      "The total biomass of producers in an ecosystem",
-      "The rate at which energy is transferred between trophic levels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a food chain, which trophic level contains the greatest amount of stored energy?",
-    "options": [
-      "Secondary consumers",
-      "Tertiary consumers",
-      "Primary consumers",
-      "Producers"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is eutrophication and what is its primary environmental consequence in aquatic ecosystems?",
-    "options": [
-      "Increase in water salinity leading to death of freshwater organisms",
-      "Excessive nutrient enrichment leading to algal blooms and oxygen depletion",
-      "Acidification of water bodies reducing pH below survivable levels",
-      "Increase in water temperature causing thermal stratification"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which renewable energy source harnesses the internal heat of the Earth?",
-    "options": [
-      "Tidal energy",
-      "Geothermal energy",
-      "Biomass energy",
-      "Wind energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The precautionary principle in environmental management suggests that:",
-    "options": [
-      "Economic development should always take priority over environmental protection",
-      "Action to prevent environmental harm should not wait for complete scientific certainty",
-      "Only proven environmental threats should be addressed by policymakers",
-      "Natural ecosystems can recover from any level of human disturbance"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a correct description of primary succession?",
-    "options": [
-      "Ecological recovery of a community after a forest fire destroys existing vegetation",
-      "Colonisation of a previously lifeless substrate such as bare rock by pioneer species",
-      "Replacement of one climax community by another due to climate change",
-      "Rapid regrowth of vegetation following agricultural abandonment"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main difference between point source and non-point source water pollution?",
-    "options": [
-      "Point source pollution is more harmful than non-point source pollution",
-      "Point source pollution originates from a single identifiable location, while non-point source comes from diffuse areas",
-      "Non-point source pollution is easier to regulate than point source pollution",
-      "Point source pollution only affects marine environments"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which greenhouse gas has the highest global warming potential over a 100-year timescale?",
-    "options": [
-      "Carbon dioxide (CO2)",
-      "Water vapour (H2O)",
-      "Methane (CH4)",
-      "Sulfur hexafluoride (SF6)"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Soil erosion is accelerated by all of the following EXCEPT:",
-    "options": [
-      "Deforestation",
-      "Overgrazing",
-      "Contour ploughing",
-      "Monoculture farming"
+      "plate tectonics",
+      "weathering",
+      "erosion",
+      "sedimentation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which international agreement specifically targets the reduction of persistent organic pollutants (POPs)?",
+    "question": "Which of the following natural hazards can cause widespread damage and loss of life in the Caribbean region?",
     "options": [
-      "The Kyoto Protocol",
-      "The Montreal Protocol",
-      "The Stockholm Convention",
-      "The Basel Convention"
+      "hurricanes",
+      "droughts",
+      "earthquakes",
+      "tsunamis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement of people from rural areas to urban areas in search of employment and better living conditions?",
+    "options": [
+      "urbanization",
+      "urban drift",
+      "migration",
+      "ruralization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which the Earth's climate is changing due to human activities such as burning fossil fuels and deforestation?",
+    "options": [
+      "global warming",
+      "ocean acidification",
+      "atmospheric pollution",
+      "climate change"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main impact of climate change on ecosystems?",
+    "options": [
+      "creation of habitats",
+      "destruction of habitats",
+      "no impact on ecosystems",
+      "reduction of biodiversity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process by which the Earth's climate is changing?",
+    "options": [
+      "greenhouse effect",
+      "pollution",
+      "climate change",
+      "global warming"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In Environmental Impact Assessment (EIA), what is the purpose of the scoping stage?",
+    "question": "What is the main goal of sustainable development?",
     "options": [
-      "To produce the final environmental management plan",
-      "To identify the key environmental issues that should be investigated in detail",
-      "To consult the public about their opinions on the project",
-      "To monitor environmental changes after a project has been completed"
+      "reducing poverty",
+      "preserving natural resources",
+      "meeting the needs of the present without compromising the ability of future generations to meet their own needs",
+      "maximizing economic growth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following natural resources is non-renewable?",
+    "options": [
+      "hydro energy",
+      "fossil fuel",
+      "solar energy",
+      "wind energy"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes biodiversity hotspots?",
+    "question": "What is the main goal of environmental management?",
     "options": [
-      "Areas with the highest average annual temperature on Earth",
-      "Regions with exceptionally high species richness and endemism that are under significant threat",
-      "Ocean zones where upwelling creates extremely productive fisheries",
-      "Protected national parks with the greatest variety of ecosystems"
+      "to reduce poverty",
+      "to promote economic growth",
+      "to increase population growth",
+      "to protect the environment and promote sustainable development"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is released into the air as water vapour?",
+    "options": [
+      "photosynthesis",
+      "respiration",
+      "evaporation",
+      "transpiration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the movement of organisms from one location to another?",
+    "options": [
+      "dispersion",
+      "migration",
+      "diffuse pollution",
+      "diffusion"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the main environmental concern associated with the accumulation of plastics in marine environments?",
+    "question": "Which of the following natural resources is renewable?",
     "options": [
-      "Plastics release large quantities of carbon dioxide as they decompose rapidly",
-      "Microplastics are ingested by marine organisms, entering the food chain and causing bioaccumulation of toxins",
-      "Marine plastics increase water salinity affecting osmoregulation in fish",
-      "Floating plastics reflect sunlight and cause localised cooling of ocean surface temperatures"
+      "fossil fuel",
+      "mineral water",
+      "timber",
+      "solar energy"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "A coral reef ecosystem provides what type of habitat for a variety of marine species?",
+    "options": [
+      "complex and simple",
+      "no habitat",
+      "simple",
+      "complex"
+    ],
+    "correctIndex": 3
   }
 ]

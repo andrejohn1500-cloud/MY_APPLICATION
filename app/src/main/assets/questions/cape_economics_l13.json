@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "question": "A country's fiscal policy is aimed at reducing the budget deficit. What is the effect on government spending?",
+    "options": [
+      "Government spending will decrease but at a slower rate",
+      "Government spending will increase",
+      "Government spending will remain unchanged",
+      "Government spending will decrease"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A firm's demand curve shifts to the right due to a rise in consumer income. What will be the effect on the demand curve of a luxury good?",
+    "options": [
+      "The demand curve will shift to the left initially but then to the right",
+      "The demand curve will remain unchanged",
+      "The demand curve will shift further to the right",
+      "The demand curve will shift to the left"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country's ______________ is the sum of its net imports and its capital outflow.",
+    "options": [
+      "foreign exchange inflow",
+      "net foreign exchange expenditure",
+      "foreign exchange outflow",
+      "net foreign exchange earnings"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A country's monetary policy is aimed at reducing inflation. What is the effect on the money supply?",
+    "options": [
+      "The money supply will decrease",
+      "The money supply will increase",
+      "The money supply will decrease but at a slower rate",
+      "The money supply will remain unchanged"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A firm operates in a perfectly competitive market. What is the effect on the firm's supply curve of a decline in input costs?",
+    "options": [
+      "The supply curve will shift to the right",
+      "The supply curve will shift to the left",
+      "The supply curve will remain unchanged",
+      "The supply curve will shift to the left initially but then to the right"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A firm is a price maker in a monopolistic market. What is the effect on the firm's revenue of a 10% increase in price?",
+    "options": [
+      "Revenue will decrease",
+      "Revenue will increase by less than 10%",
+      "Revenue will increase",
+      "Revenue will remain unchanged"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An oligopolistic firm will choose a price that is higher than the one that would maximize profit if there were no other firms in the market. What is the reason for this?",
+    "options": [
+      "The firm needs to set a price that is sufficiently high to increase profit",
+      "The firm needs to set a price that is sufficiently low to increase demand",
+      "The firm needs to set a price that is sufficiently high to attract existing customers",
+      "The firm needs to set a price that is sufficiently high to deter potential new entrants"
+    ],
+    "correctIndex": 3
+  }
+]

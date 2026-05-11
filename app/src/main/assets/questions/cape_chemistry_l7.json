@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the type of reaction that occurs when a single replacement reaction involves a metal and an acid?",
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes, influenced by factors such as wind and temperature gradients, accompanied by a change in the state of the gas, the solid, and the product?",
     "options": [
-      "double displacement reaction",
-      "precipitation reaction",
-      "neutralisation reaction",
-      "single displacement reaction"
+      "convection",
+      "migration",
+      "diffusion",
+      "advection with phase change"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the change in the entropy of a system that occurs when a reaction is carried out at constant temperature?",
+    "question": "What is the term for the physical change in which a liquid changes to a gas at the surface of a solid, accompanied by a change in the state of the gas and the liquid?",
     "options": [
-      "change in enthalpy",
-      "change in internal energy",
-      "change in entropy",
-      "change in free energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the maximum number of electrons in the outermost energy level of a neutral atom that is capable of forming a stable covalent bond with another atom?",
-    "options": [
-      "6",
-      "12",
-      "10",
-      "8"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of chemical reaction that involves the combination of two or more molecules to form a new molecule?",
-    "options": [
-      "combination reaction",
-      "substitution reaction",
-      "decomposition reaction",
-      "elimination reaction"
+      "evaporation with phase change",
+      "melting",
+      "condensation",
+      "sublimation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the change in the free energy of a system that occurs when a reaction is carried out at constant temperature?",
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form, accompanied by a change in the state of the reactants?",
     "options": [
-      "change in internal energy",
-      "change in enthalpy",
-      "change in entropy",
-      "change in free energy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of spectroscopy that involves the interaction between matter and electromagnetic radiation in the ultraviolet region?",
-    "options": [
-      "ultraviolet spectroscopy",
-      "nuclear magnetic resonance spectroscopy",
-      "infrared spectroscopy",
-      "visible spectroscopy"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the process by which a metal loses electrons to form a positive ion?",
-    "options": [
-      "reduction",
-      "ionisation",
       "electrolysis",
-      "oxidation"
+      "oxidation smelting",
+      "reduction smelting with phase change",
+      "acid roasting"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the type of chemical bond that is formed between two non-metal atoms?",
+    "question": "What is the term for the chemical reaction in which a gas reacts with a liquid to produce a new substance, accompanied by a change in the state of the gas, the liquid, and the product?",
     "options": [
-      "metallic",
-      "ionic",
-      "polar covalent",
-      "covalent"
+      "liquid-gas reaction",
+      "gas-solid reaction",
+      "solid-gas reaction",
+      "gas-liquid reaction with phase change"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of reaction that occurs when two atoms or molecules combine to form a larger molecule?",
+    "question": "What is the term for the physical change in which a liquid changes to a gas at the surface of a solid, accompanied by a change in the state of the gas, the solid, and the product?",
+    "options": [
+      "sublimation",
+      "melting",
+      "condensation",
+      "evaporation with phase change"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the reaction in which one substance is replaced by another in a chemical compound?",
     "options": [
       "decomposition reaction",
-      "combination reaction",
       "elimination reaction",
-      "substitution reaction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the energy change that occurs when a system is in equilibrium with its surroundings?",
-    "options": [
-      "enthalpy change",
-      "free energy change",
-      "equilibrium energy",
-      "entropy change"
+      "substitution reaction",
+      "addition reaction"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the change in the enthalpy of a system that occurs when a reaction is carried out at constant pressure?",
+    "question": "What is the term for the physical change in which a liquid changes to a gas at the surface of a solid, accompanied by a change in the state of the liquid?",
     "options": [
-      "entropy change",
-      "internal energy change",
-      "free energy change",
-      "enthalpy change"
+      "melting",
+      "evaporation",
+      "sublimation",
+      "condensation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes?",
+    "options": [
+      "convection",
+      "advection",
+      "diffusion",
+      "migration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes, influenced by factors such as wind and temperature gradients, accompanied by a change in the state of the gas and the liquid?",
+    "options": [
+      "convection",
+      "diffusion",
+      "advection with phase change",
+      "migration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the spectroscopic technique that involves the measurement of the energy of radiation absorbed or emitted by atoms or molecules?",
+    "options": [
+      "mass spectrometry",
+      "infrared spectroscopy",
+      "nuclear magnetic resonance spectroscopy",
+      "spectrophotometry"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the type of kinetic energy that is associated with the motion of the center of mass of a molecule?",
+    "question": "What is the term for the industrial process by which a metal is extracted from its ore using a reducing agent to reduce the metal ions to their elemental form, accompanied by a change in the state of the gas and the liquid?",
     "options": [
-      "rotational",
-      "electronic",
-      "translational",
-      "vibrational"
+      "electrolysis",
+      "oxidation smelting",
+      "reduction smelting with phase change",
+      "acid roasting"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the maximum number of electrons that can be accommodated in a particular energy level?",
+    "question": "What is the term for the environmental phenomenon by which a substance is transported through the atmosphere or water by natural processes, influenced by factors such as wind and temperature gradients?",
     "options": [
-      "electron affinity",
-      "electron capacity",
-      "ionization energy",
-      "electron configuration"
+      "diffusion",
+      "advection",
+      "migration",
+      "convection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the technique used to separate a mixture of substances based on their boiling points?",
+    "options": [
+      "chromatography",
+      "fractional distillation",
+      "crystallisation",
+      "filtration"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the process by which a solid dissolves in a liquid?",
+    "question": "What is the term for the process by which a substance changes its state from a liquid to a solid?",
     "options": [
-      "phase equilibrium",
-      "solubility",
-      "chemical equilibrium",
-      "solubility equilibrium"
+      "freezing",
+      "melting",
+      "crystallisation",
+      "sublimation"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the energy required to remove an electron from a mole of gaseous atoms in its ground state?",
+    "question": "What is the term for the attractive and repulsive forces between atoms or molecules?",
     "options": [
-      "electron configuration",
-      "electron gain enthalpy",
-      "electron affinity",
-      "ionization energy"
+      "interatomic forces",
+      "electrostatic forces",
+      "chemical bonding",
+      "intermolecular forces"
     ],
     "correctIndex": 3
   }

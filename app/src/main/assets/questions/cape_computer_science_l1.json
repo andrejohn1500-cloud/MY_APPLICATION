@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the term for a network that connects devices in a small geographical area?",
+    "question": "Which algorithm is used to sort a collection of items in ascending or descending order?",
     "options": [
-      "Wireless Network (WLAN)",
-      "Wide Area Network (WAN)",
-      "Internet",
-      "Local Area Network (LAN)"
+      "Insertion sort",
+      "Merge sort",
+      "Selection sort",
+      "Bubble sort"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for a type of software that provides a way of accessing and manipulating data in a database?",
+    "question": "Which programming paradigm emphasizes the use of objects and classes to organize code?",
     "options": [
-      "Data Mart",
-      "Database",
-      "Database Management System (DBMS)",
-      "Data Warehouse"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of the compiler in the process of developing a program?",
-    "options": [
-      "It translates the machine code into source code.",
-      "It runs the program on the computer.",
-      "It stores the program on the computer.",
-      "It translates the source code into machine code."
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of the database schema in a database?",
-    "options": [
-      "It defines the structure and organization of the data in the database.",
-      "It retrieves data from the database.",
-      "It updates data in the database.",
-      "It stores data in the database."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of computer that is designed for general-purpose use and can run a variety of operating systems?",
-    "options": [
-      "Mainframe Computer",
-      "Supercomputer",
-      "Personal Computer (PC)",
-      "Minicomputer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of the operating system in managing the computer's resources?",
-    "options": [
-      "It stores programs on the computer.",
-      "It runs programs on the computer.",
-      "It allocates and deallocates resources such as memory and CPU time.",
-      "It communicates with devices."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a method of testing a software product that involves testing each component of the software independently?",
-    "options": [
-      "Unit Testing",
-      "Acceptance Testing",
-      "Integration Testing",
-      "System Testing"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of the software development methodology in software development?",
-    "options": [
-      "It provides a way of deploying a software product.",
-      "It provides a structured and organized way of developing a software product.",
-      "It provides a way of testing a software product.",
-      "It provides a way of maintaining a software product."
+      "Functional Programming",
+      "Object-Oriented Programming",
+      "Procedural Programming",
+      "Declarative Programming"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary advantage of using structured programming?",
+    "question": "Which programming language is used for system programming and is known for its low-level memory management?",
     "options": [
-      "Faster execution time",
-      "Increased code complexity",
-      "Reduced code size",
-      "Improved code readability and maintainability."
+      "Java",
+      "Python",
+      "C",
+      "C++"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for a set of rules that define the syntax and semantics of a programming language?",
+    "question": "Which algorithm is used to solve the traveling salesman problem?",
     "options": [
-      "Lexicon",
-      "Syntax",
-      "Semantics",
-      "Grammar"
+      "Genetic algorithm",
+      "Greedy algorithm",
+      "Nearest Neighbor algorithm",
+      "Dynamic programming"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for a type of firewall that examines incoming and outgoing network traffic and blocks suspicious activity?",
+    "question": "What is the primary function of the operating system in a computer system?",
     "options": [
-      "Firewall",
-      "Antivirus",
-      "Intrusion Prevention System (IPS)",
-      "Intrusion Detection System (IDS)"
+      "To provide a platform for programming languages",
+      "To manage computer hardware resources",
+      "To enable data exchange between applications",
+      "To provide security and access control"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the primary function of the central processing unit (CPU) in a computer?",
+    "question": "Which network protocol is used for transmitting data over the internet?",
     "options": [
-      "It executes instructions and performs calculations.",
-      "It communicates with devices.",
-      "It allocates resources.",
-      "It stores data in memory."
+      "FTP",
+      "SMTP",
+      "TCP/IP",
+      "HTTP"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the primary function of the software development methodology in software development?",
+    "question": "Which programming language is used for system programming and is known for its low-level memory management and performance?",
     "options": [
-      "It provides a structured and organized way of developing a software product.",
-      "It provides a way of testing a software product.",
-      "It provides a way of maintaining a software product.",
-      "It provides a way of deploying a software product."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of computer that is designed for general-purpose use and can run a variety of operating systems?",
-    "options": [
-      "Personal Computer (PC)",
-      "Mainframe Computer",
-      "Supercomputer",
-      "Minicomputer"
+      "C++",
+      "Python",
+      "Java",
+      "C"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What data type is used to store a set of characters in a single variable?",
+    "question": "What is the term for the process of creating a software system that can operate on multiple platforms?",
     "options": [
-      "Integer",
-      "String",
-      "Float",
-      "Boolean"
+      "Platform-dependent development",
+      "Platform-agnostic development",
+      "Platform-independent development",
+      "Cross-platform development"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of evaluating the maintainability of a software system?",
+    "options": [
+      "Software reliability evaluation",
+      "Software maintainability evaluation",
+      "Software performance evaluation",
+      "Software security evaluation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path between two nodes in a graph?",
+    "options": [
+      "Floyd-Warshall algorithm",
+      "Dijkstra's algorithm",
+      "Bellman-Ford algorithm",
+      "A* algorithm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of creating a software system that can be easily modified or extended?",
+    "options": [
+      "Software design for scalability",
+      "Software design for reusability",
+      "Software design for change",
+      "Software design for maintainability"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "To enable data exchange between applications",
+      "To block unauthorized access to a computer system",
+      "To provide security and access control",
+      "To enable remote access to a computer system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of protecting a software system from unauthorized access or damage?",
+    "options": [
+      "Software backup",
+      "Software integrity",
+      "Software security",
+      "Software recovery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which database model organizes data into tables with rows and columns?",
+    "options": [
+      "Hierarchical model",
+      "Object-Oriented model",
+      "Relational model",
+      "Network model"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of testing a software system to ensure it meets the requirements?",
+    "options": [
+      "System testing",
+      "Software testing",
+      "Software validation",
+      "Software verification"
     ],
     "correctIndex": 1
   }

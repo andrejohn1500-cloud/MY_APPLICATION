@@ -1,152 +1,152 @@
 [
   {
-    "question": "A firm that is producing at the highest point on its average total cost curve is said to be experiencing",
+    "question": "In a Mundell-Fleming model, what is the effect of an increase in government spending on the exchange rate?",
     "options": [
-      "diseconomies of scale",
-      "economies of scale",
-      "negative externalities",
-      "positive externalities"
+      "No change in the exchange rate",
+      "A depreciation of the exchange rate",
+      "A decrease in the exchange rate",
+      "An appreciation of the exchange rate."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a Solow growth model, what is the effect of an increase in the saving rate on the steady-state level of capital?",
+    "options": [
+      "An increase in the steady-state level of capital.",
+      "No change in the steady-state level of capital",
+      "A decrease in the saving rate",
+      "A decrease in the steady-state level of capital"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A country that uses a monetary policy of expansionary monetary policy will have a monetary policy multiplier of",
+    "question": "In a Mundell-Fleming model, what is the effect of an increase in the interest rate on the exchange rate?",
     "options": [
-      "zero",
-      "-ve",
-      "+ve",
-      "inconclusive"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A country that is experiencing a boom is likely to experience an increase in the money supply. This is an example of a",
-    "options": [
-      "stagnation",
-      "cost-push inflation",
-      "disinflation",
-      "demand-pull inflation"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A development economist would classify a country as being in the stage of",
-    "options": [
-      "low-income industrialization",
-      "high-income post-industrialization",
-      "upper-middle-income industrialization",
-      "high-income industrialization"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A country that is experiencing a recession is likely to experience a decrease in the money supply. This is an example of a",
-    "options": [
-      "disinflation",
-      "demand-pull inflation",
-      "cost-push inflation",
-      "stagnation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A firm that is producing a non-homogeneous product will have a downward-sloping demand curve for its product. This is an example of a",
-    "options": [
-      "monopolistic competition",
-      "perfect competition",
-      "monopoly",
-      "oligopoly"
+      "No change in the exchange rate",
+      "An appreciation of the exchange rate.",
+      "A decrease in the exchange rate",
+      "A depreciation of the exchange rate"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A country that uses a monetary policy of contractionary monetary policy will have a monetary policy multiplier of",
+    "question": "In a Tobin's q model, what is the effect of an increase in the expected rate of return on stocks on the Tobin's q ratio?",
     "options": [
-      "-ve",
-      "+ve",
-      "inconclusive",
-      "zero"
+      "A decrease in the expected rate of return on stocks",
+      "An increase in the Tobin's q ratio.",
+      "A decrease in the Tobin's q ratio",
+      "No change in the Tobin's q ratio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a Tobin's q model, what is the effect of an increase in the expected rate of return on stocks on the capital stock?",
+    "options": [
+      "No change in the capital stock",
+      "A decrease in the capital stock",
+      "A decrease in the expected rate of return on stocks",
+      "An increase in the capital stock."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a Keynesian cross diagram, what is the effect of an increase in the propensity to consume on the equilibrium level of output?",
+    "options": [
+      "An increase in the equilibrium level of output.",
+      "A decrease in the price level",
+      "A decrease in the equilibrium level of output",
+      "No change in the equilibrium level of output"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A government that uses a fiscal policy of contractionary fiscal policy will have a fiscal policy multiplier of",
+    "question": "A firm operates in an oligopolistic market. What is the effect on the firm's supply curve of a simultaneous increase in production by all firms in the market?",
     "options": [
-      "inconclusive",
-      "+ve",
-      "zero",
-      "-ve"
+      "The supply curve will shift to the right",
+      "The supply curve will shift to the right initially but then to the left",
+      "The supply curve will shift to the left",
+      "The supply curve will remain unchanged"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "A country that imposes a tax on domestic textiles will experience a decrease in the quantity of domestic textiles produced and an increase in the quantity of imported textiles consumed. This is an example of a",
+    "question": "What is the primary effect of a decrease in government purchases on aggregate demand?",
     "options": [
-      "substitution effect",
-      "price effect",
-      "taxation effect",
-      "income effect"
+      "A decrease in the price level",
+      "A decrease in aggregate demand.",
+      "No change in aggregate demand",
+      "An increase in aggregate demand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the effect of an increase in the level of technology on the production function in a Cobb-Douglas model?",
+    "options": [
+      "A decrease in the capital stock",
+      "No change in the output of the firm",
+      "An increase in the output of the firm.",
+      "A decrease in the output of the firm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary effect of a decrease in the interest rate on the consumption function in the life-cycle model of consumption?",
+    "options": [
+      "A decrease in consumption",
+      "An increase in consumption.",
+      "No change in consumption",
+      "A decrease in investment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a Ricardian model, what is the effect of a change in the technology of production on the terms of trade?",
+    "options": [
+      "No change in the terms of trade",
+      "An improvement in the terms of trade.",
+      "A decrease in the terms of trade",
+      "A deterioration in the terms of trade"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a Ricardian model, what is the effect of a change in the trade policy on the terms of trade?",
+    "options": [
+      "An improvement in the terms of trade.",
+      "A deterioration in the terms of trade",
+      "No change in the terms of trade",
+      "A decrease in the terms of trade"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A country that is experiencing deflation is likely to experience a decrease in the money supply. This is an example of a",
+    "question": "In a Keynesian cross diagram, what is the vertical line representing?",
     "options": [
-      "demand-pull inflation",
-      "cost-push inflation",
-      "disinflation",
-      "stagnation"
+      "The price level",
+      "The full employment level of output.",
+      "The GDP deflator",
+      "The equilibrium level of output"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A country that has a trade surplus will have a current account balance of",
+    "question": "In a Mundell-Fleming model, what is the effect of an increase in the exchange rate on the trade balance in a small open economy?",
     "options": [
-      "-ve",
-      "inconclusive",
-      "zero",
-      "+ve"
+      "A deterioration in the trade balance.",
+      "A decrease in the trade balance",
+      "No change in the trade balance",
+      "An improvement in the trade balance"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "A country that imposes a tariff on imported textiles will experience a decrease in the quantity of textiles imported and an increase in the quantity of domestic textiles produced. This is an example of a",
+    "question": "A country experiences a sharp increase in its economic growth rate due to a rise in its investment rate. What is the effect on its capital stock?",
     "options": [
-      "price effect",
-      "substitution effect",
-      "taxation effect",
-      "income effect"
+      "The capital stock will increase",
+      "The capital stock will decrease",
+      "The capital stock will increase by less than the increase in investment",
+      "The capital stock will remain unchanged"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A country that is experiencing a boom will experience an increase in the number of people employed and an increase in the amount of goods and services produced. This is an example of a",
-    "options": [
-      "neutral economic indicator",
-      "inconclusive economic indicator",
-      "negative economic indicator",
-      "positive economic indicator"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A country that is experiencing stagflation will experience both high inflation and low economic growth. This is an example of a",
-    "options": [
-      "inconclusive economic indicator",
-      "positive economic indicator",
-      "negative economic indicator",
-      "mixed economic indicator"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A development economist would classify a country as being in the stage of",
-    "options": [
-      "high-income post-industrialization",
-      "lower-middle-income industrialization",
-      "upper-middle-income industrialization",
-      "high-income industrialization"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]
