@@ -300,7 +300,7 @@ class ResultActivity : AppCompatActivity() {
                 val conn = url.openConnection() as java.net.HttpURLConnection
                 conn.requestMethod = "POST"
                 conn.setRequestProperty("Content-Type", "application/json")
-                conn.setRequestProperty("Authorization", "Basic os_v2_app_c9ec45bd-705f-4fd2-b00f-79ce25085cef")
+                conn.setRequestProperty("Authorization", "Key ${BuildConfig.ONESIGNAL_REST_API_KEY}")
                 conn.doOutput = true
                 val body = """{
                     "app_id": "c9ec45bd-705f-4fd2-b00f-79ce25085cef",
