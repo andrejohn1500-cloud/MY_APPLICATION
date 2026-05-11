@@ -37,7 +37,7 @@
         android:id="@+id/btnPayPal"
         android:layout_width="260dp"
         android:layout_height="56dp"
-        android:background="@drawable/bg_button_accent"
+        android:background="#3D5A9A"
         android:text="💳  DONATE VIA PAYPAL"
         android:textColor="@color/gold"
         android:textStyle="bold"
@@ -47,7 +47,7 @@
         android:id="@+id/btnBackDonate"
         android:layout_width="260dp"
         android:layout_height="52dp"
-        android:background="@drawable/bg_button_accent"
+        android:background="#3D5A9A"
         android:text="← BACK"
         android:textColor="@color/gold"
         android:textStyle="bold"/>
