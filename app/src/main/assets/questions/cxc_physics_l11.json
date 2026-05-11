@@ -1,152 +1,152 @@
 [
   {
-    "question": "A transformer has 500 turns in the primary coil and 2000 turns in the secondary coil. If the primary voltage is 120 V and the primary current is 4 A, what is the secondary current assuming 100% efficiency?",
+    "question": "A particle of mass 2 kg is attached to a spring with a spring constant of 100 N/m. If it is oscillating with a frequency of 2 Hz, what is its amplitude?",
     "options": [
-      "A. 16 A",
-      "B. 1 A",
-      "C. 8 A",
-      "D. 2 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A body moves in a circle of radius 0.5 m with a speed of 10 m/s. What is the centripetal acceleration of the body?",
-    "options": [
-      "A. 5 m/s\u00b2",
-      "B. 20 m/s\u00b2",
-      "C. 200 m/s\u00b2",
-      "D. 100 m/s\u00b2"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly describes what happens to the resistance of a metallic conductor as temperature increases?",
-    "options": [
-      "A. Resistance decreases because electrons move faster",
-      "B. Resistance increases because lattice ions vibrate more, impeding electron flow",
-      "C. Resistance remains constant because the number of free electrons stays the same",
-      "D. Resistance decreases because the conductor expands and has greater cross-sectional area"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A radioactive nucleus undergoes two alpha decays followed by one beta-minus decay. If the original nucleus had atomic number Z and mass number A, what are the final atomic number and mass number?",
-    "options": [
-      "A. Z - 3 and A - 8",
-      "B. Z - 4 and A - 8",
-      "C. Z - 3 and A - 4",
-      "D. Z - 1 and A - 8"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A wave has a frequency of 500 Hz and travels at 340 m/s. What is the wavelength of this wave?",
-    "options": [
-      "A. 0.68 m",
-      "B. 1.47 m",
-      "C. 170000 m",
-      "D. 0.34 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel. This combination is then connected in series with a 4 \u03a9 resistor. What is the total resistance of the circuit?",
-    "options": [
-      "A. 13 \u03a9",
-      "B. 6 \u03a9",
-      "C. 9 \u03a9",
-      "D. 2 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A ball of mass 0.5 kg is thrown vertically upward with an initial velocity of 20 m/s. Taking g = 10 m/s\u00b2, what is the maximum height reached?",
-    "options": [
-      "A. 10 m",
-      "B. 40 m",
-      "C. 20 m",
-      "D. 5 m"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following statements about the photoelectric effect provides evidence that light behaves as particles?",
-    "options": [
-      "A. The photoelectric effect occurs only when light is polarised",
-      "B. Increasing light intensity increases the maximum kinetic energy of emitted electrons",
-      "C. Emission of electrons depends on the frequency of incident light, not just its intensity",
-      "D. Photoelectric emission occurs after a short time delay when light is first applied"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A gas is compressed isothermally. Which of the following statements is correct?",
-    "options": [
-      "A. The internal energy of the gas increases",
-      "B. The temperature of the gas decreases",
-      "C. The pressure of the gas increases as volume decreases",
-      "D. The kinetic energy of the molecules increases"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An object is placed 30 cm from a converging lens of focal length 10 cm. Where is the image formed?",
-    "options": [
-      "A. 15 cm on the same side as the object",
-      "B. 15 cm on the opposite side of the lens",
-      "C. 30 cm on the opposite side of the lens",
-      "D. 10 cm on the opposite side of the lens"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 2 kg object moving at 6 m/s collides and sticks to a stationary 4 kg object. What is the velocity of the combined mass after collision?",
-    "options": [
-      "A. 3 m/s",
-      "B. 4 m/s",
-      "C. 2 m/s",
-      "D. 1.5 m/s"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which electromagnetic wave has the shortest wavelength?",
-    "options": [
-      "A. Ultraviolet rays",
-      "B. X-rays",
-      "C. Gamma rays",
-      "D. Infrared rays"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A wire of length 2 m, cross-sectional area 1 \u00d7 10\u207b\u2076 m\u00b2 and resistivity 1.7 \u00d7 10\u207b\u2078 \u03a9\u00b7m is connected to a 6 V battery. What is the current through the wire?",
-    "options": [
-      "A. 1.76 \u00d7 10\u2075 A",
-      "B. 3.4 \u00d7 10\u207b\u00b2 A",
-      "C. 5.66 \u00d7 10\u207b\u2076 A",
-      "D. 176 A"
+      "B",
+      "C",
+      "D",
+      "A"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A person weighing 600 N stands on a scale in an elevator. The elevator accelerates downward at 2 m/s\u00b2. Taking g = 10 m/s\u00b2, what does the scale read?",
+    "question": "A 50 W electric heater is used to heat a room. If it is used for 10 hours, how much energy is consumed?",
     "options": [
-      "A. 480 N",
-      "B. 720 N",
-      "C. 600 N",
-      "D. 60 N"
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 2 m long wire is carrying a current of 2 A. If the magnetic field is 0.2 T, what is the force on the wire?",
+    "options": [
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A wave has a speed of 100 m/s and a wavelength of 5 meters. What is its frequency?",
+    "options": [
+      "10 Hz",
+      "20 Hz",
+      "0 Hz",
+      "50 Hz"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 2 m/s, what is its velocity after 2 seconds?",
+    "options": [
+      "3 m/s",
+      "2 m/s",
+      "6 m/s",
+      "4 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 5 m long wire is stretched between two fixed points. If a 20 N force is applied to the wire at the midpoint, what is the tension in the wire on either side of the midpoint?",
+    "options": [
+      "D",
+      "A",
+      "B",
+      "C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving in a uniform circular motion with a radius of 5 m and a centripetal acceleration of 2 m/s^2. What is its velocity?",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 20 W electric motor is used to lift a 5 kg load. If it is used for 2 hours, how much energy is consumed?",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 2 kg block is attached to a spring with a spring constant of 200 N/m. If it is oscillating with a frequency of 4 Hz, what is its amplitude?",
+    "options": [
+      "B",
+      "D",
+      "C",
+      "A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor and a 2 ohm resistor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "7.5 ohms",
+      "5 ohms",
+      "0 ohms",
+      "10 ohms"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following correctly explains why a satellite in a stable circular orbit does not fall to Earth despite gravitational attraction?",
+    "question": "A 50 kg block is moving with a velocity of 2 m/s. If a force of 20 N is applied to it, what is the acceleration of the block?",
     "options": [
-      "A. The satellite moves fast enough that its centripetal acceleration equals the gravitational acceleration at that altitude",
-      "B. The satellite is beyond the reach of Earth's gravitational field",
-      "C. The thrust from the satellite's engines balances gravity",
-      "D. The satellite's inertia is greater than the gravitational force acting on it"
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A resistor of 5 ohms is connected in series with a resistor of 10 ohms. What is the equivalent resistance of the circuit?",
+    "options": [
+      "5 ohms",
+      "10 ohms",
+      "7.5 ohms",
+      "0 ohms"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A light ray passes from a medium with a refractive index of 1.5 into air. What is the angle of refraction if the angle of incidence is 30 degrees?",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 10 m long pendulum is oscillating with a frequency of 1 Hz. What is its period?",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "D"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. If a force of 20 N is applied to it, what is the acceleration of the block?",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "C"
+    ],
+    "correctIndex": 1
   }
 ]

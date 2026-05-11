@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the SI unit of force?",
+    "question": "What is the term for the type of magnetism that is caused by the alignment of atomic dipoles?",
     "options": [
-      "Joule",
-      "Newton",
-      "Pascal",
-      "Watt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a scalar quantity?",
-    "options": [
-      "Velocity",
-      "Displacement",
-      "Speed",
-      "Force"
+      "Superparamagnetism",
+      "Diamagnetism",
+      "Ferromagnetism",
+      "Paramagnetism"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the acceleration due to gravity on Earth's surface?",
+    "question": "What is the term for a force that opposes motion between two surfaces that are in contact?",
     "options": [
-      "9.8 m/s",
-      "9.8 m/s\u00b2",
-      "9.8 N",
-      "9.8 kg"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of wave requires a medium to travel through?",
-    "options": [
-      "Radio wave",
-      "Light wave",
-      "Sound wave",
-      "X-ray"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the formula for density?",
-    "options": [
-      "Density = Mass \u00d7 Volume",
-      "Density = Volume / Mass",
-      "Density = Mass / Volume",
-      "Density = Mass + Volume"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A current of 2 A flows through a resistor of 5 ohms. What is the voltage across the resistor?",
-    "options": [
-      "2.5 V",
-      "7 V",
-      "10 V",
-      "3 V"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which color of visible light has the longest wavelength?",
-    "options": [
-      "Violet",
-      "Blue",
-      "Green",
-      "Red"
+      "Normal Force",
+      "Tension",
+      "Gravity",
+      "Friction"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What happens to the pressure of a fixed mass of gas if its volume is halved at constant temperature?",
+    "question": "What is the term for the type of current that flows in a conductor when there is no potential difference between two points?",
     "options": [
-      "It halves",
-      "It doubles",
-      "It stays the same",
-      "It quadruples"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of potential energy?",
-    "options": [
-      "A moving car",
-      "A stretched spring",
-      "A spinning top",
-      "A flowing river"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the unit of electric charge?",
-    "options": [
-      "Ampere",
-      "Volt",
-      "Coulomb",
-      "Ohm"
+      "AC Current",
+      "DC Current",
+      "Zero Current",
+      "Static Current"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which law states that for every action there is an equal and opposite reaction?",
+    "question": "What is the unit of force in the International System of Units (SI)?",
     "options": [
-      "Newton's First Law",
-      "Newton's Second Law",
-      "Newton's Third Law",
-      "Hooke's Law"
+      "Newton",
+      "Meter",
+      "Joule",
+      "Pascal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the energy required to move an object from one position to another?",
+    "options": [
+      "Work",
+      "Energy",
+      "Torque",
+      "Power"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of motion that occurs when an object moves back and forth in a straight line?",
+    "options": [
+      "Oscillatory Motion",
+      "Circular Motion",
+      "Linear Motion",
+      "Rotational Motion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of motion that occurs when an object moves in a circular path?",
+    "options": [
+      "Oscillatory Motion",
+      "Rotational Motion",
+      "Circular Motion",
+      "Linear Motion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of mirror is used in car headlights to produce a parallel beam of light?",
+    "question": "What is the term for the type of conduction that occurs when a material is heated from the inside out?",
     "options": [
-      "Plane mirror",
-      "Concave mirror",
-      "Convex mirror",
-      "Curved mirror"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the frequency of a wave with a period of 0.5 seconds?",
-    "options": [
-      "0.5 Hz",
-      "1 Hz",
-      "2 Hz",
-      "4 Hz"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which particle in the atom has no electric charge?",
-    "options": [
-      "Proton",
-      "Electron",
-      "Neutron",
-      "Ion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What form of heat transfer occurs through a vacuum?",
-    "options": [
-      "Conduction",
-      "Convection",
+      "Diffusion",
       "Radiation",
-      "Insulation"
+      "Convection",
+      "Conduction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the frequency of a wave multiplied by its amplitude?",
+    "options": [
+      "Frequency",
+      "Wavelength",
+      "Amplitude",
+      "Intensity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the unit of electric current in the International System of Units (SI)?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ohm",
+      "Ampere"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What type of wave requires a medium to travel?",
+    "options": [
+      "Mechanical Wave",
+      "Electromagnetic Wave",
+      "Longitudinal Wave",
+      "Transverse Wave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the unit of angular displacement in the International System of Units (SI)?",
+    "options": [
+      "Radian",
+      "Kelvin",
+      "Meter",
+      "Second"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the unit of power in the International System of Units (SI)?",
+    "options": [
+      "Watt",
+      "Ohm",
+      "Ampere",
+      "Volt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the type of radiation that has a high frequency and short wavelength?",
+    "options": [
+      "Gamma Radiation",
+      "X-ray Radiation",
+      "Infrared Radiation",
+      "Ultraviolet Radiation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the unit of energy in the International System of Units (SI)?",
+    "options": [
+      "Kilogram-meter",
+      "Watt",
+      "Joule",
+      "Newton-meter"
     ],
     "correctIndex": 2
   }

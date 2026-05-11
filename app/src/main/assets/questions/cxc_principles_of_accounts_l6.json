@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which accounting concept states that a business is separate from its owner for accounting purposes?",
+    "question": "A company's financial statements show the following: Net Income $80,000, Retained Earnings $120,000, Common Stock $200,000. What is the total equity of the company?",
     "options": [
-      "Going concern concept",
-      "Business entity concept",
-      "Accrual concept",
-      "Consistency concept"
+      "$420,000",
+      "$440,000",
+      "$380,000",
+      "$400,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following financial statements provides a summary of a business's cash inflows and outflows over a specific period?",
+    "options": [
+      "Income statement",
+      "Cash flow statement",
+      "Balance sheet",
+      "Statement of cash flows"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of a sole proprietorship?",
+    "options": [
+      "Limited liability",
+      "Ownership by two or more individuals",
+      "Ownership by one individual",
+      "Separate legal entity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following financial ratios is used to measure a business's profitability?",
+    "options": [
+      "Current ratio",
+      "Asset turnover ratio",
+      "Debt ratio",
+      "Return on equity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process of preparing financial statements in accordance with the going concern assumption?",
+    "options": [
+      "Accrual basis of accounting",
+      "Consistency",
+      "Materiality",
+      "Going concern"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company has two partners, A and B, who share profits in the ratio 3:2. The company made a profit of $120,000. If A's share of profit is $54,000, what is B's share of profit?",
+    "options": [
+      "$48,000",
+      "$60,000",
+      "$24,000",
+      "$36,000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a business's ability to meet its short-term obligations to creditors?",
+    "options": [
+      "Profitability",
+      "Solvency",
+      "Efficiency",
+      "Liquidity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company purchases a piece of land for $100,000 and immediately sells it for $120,000. What is the gain on the sale of the land?",
+    "options": [
+      "$22,000",
+      "$20,000",
+      "$25,000",
+      "$18,000"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A debtor owes $5,000. A provision for bad debts of 5% is created. What is the provision amount?",
+    "question": "A company's financial statements show the following: Current Assets $50,000, Current Liabilities $30,000. What is the working capital of the company?",
     "options": [
-      "$500",
-      "$250",
-      "$25",
-      "$2,500"
+      "$25,000",
+      "$30,000",
+      "$20,000",
+      "$35,000"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following is classified as a current liability?",
+    "question": "The trial balance of a company shows the following accounts: Accounts Payable $15,000, Accounts Receivable $20,000, Sales Revenue $100,000. What is the total value of the company's assets?",
     "options": [
-      "Mortgage loan",
-      "Bank overdraft",
-      "Motor vehicle",
-      "Long-term debentures"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The balance on the purchases returns account is transferred to the:",
-    "options": [
-      "Trading account debit side",
-      "Trading account credit side",
-      "Profit and loss account debit side",
-      "Balance sheet"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the opening stock is $4,000, purchases are $20,000 and closing stock is $3,000, what is the cost of goods sold?",
-    "options": [
-      "$17,000",
-      "$21,000",
-      "$23,000",
-      "$19,000"
+      "$135,000",
+      "$140,000",
+      "$110,000",
+      "$120,000"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which source document is issued by a seller to a buyer showing goods returned?",
+    "question": "A company's cash flow statement shows the following: Net Income $100,000, Depreciation $20,000. What is the net non-cash item on the statement?",
     "options": [
-      "Invoice",
-      "Debit note",
-      "Credit note",
-      "Receipt"
+      "$30,000",
+      "$20,000",
+      "$25,000",
+      "$15,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has a credit balance of $10,000 in the Accounts Payable account. What is the effect on the Balance Sheet?",
+    "options": [
+      "Increase in assets",
+      "No effect",
+      "Decrease in assets",
+      "Increase in liabilities"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a business's ability to meet its long-term obligations to creditors?",
+    "options": [
+      "Profitability",
+      "Efficiency",
+      "Solvency",
+      "Liquidity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Depreciation is charged on fixed assets because of which accounting concept?",
+    "question": "A company purchases a machine for $80,000 and depreciates it using the straight-line method over a useful life of 8 years. What is the annual depreciation charge?",
     "options": [
-      "Prudence concept",
-      "Matching concept",
-      "Going concern concept",
-      "Materiality concept"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a partnership, the interest on drawings is:",
-    "options": [
-      "Credited to the partner's current account",
-      "Debited to the partner's current account",
-      "Credited to the appropriation account",
-      "Both A and C"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a trial balance?",
-    "options": [
-      "A statement showing the financial position of a business",
-      "A list of all ledger account balances to check arithmetical accuracy",
-      "A summary of all cash transactions",
-      "A record of all credit transactions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When a business buys goods on credit from a supplier, which accounts are affected?",
-    "options": [
-      "Debit purchases, credit cash",
-      "Debit cash, credit purchases",
-      "Debit purchases, credit creditors",
-      "Debit creditors, credit purchases"
+      "$9,500",
+      "$11,000",
+      "$10,000",
+      "$10,500"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A machine costing $12,000 has a residual value of $2,000 and a useful life of 5 years. What is the annual depreciation using the straight-line method?",
+    "question": "A company uses the accruals basis of accounting and records the following transactions: (1) Purchased office supplies for $1,000, (2) Sold goods for $10,000, (3) Incurred salaries expense of $5,000. What is the total net income for the period?",
     "options": [
-      "$2,400",
-      "$2,000",
-      "$1,800",
-      "$2,200"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which book of original entry records credit sales?",
-    "options": [
-      "Cash book",
-      "Purchases journal",
-      "Sales journal",
-      "General journal"
+      "$5,500",
+      "$6,500",
+      "$6,000",
+      "$7,000"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "The accumulated fund of a non-profit organisation is equivalent to the:",
-    "options": [
-      "Net profit of a business",
-      "Capital of a business",
-      "Revenue of a business",
-      "Liability of a business"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following errors would be revealed by a trial balance?",
-    "options": [
-      "Error of omission",
-      "Error of commission",
-      "Error of transposition where both sides are affected differently",
-      "Error of principle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A company's gross profit is $30,000 and net profit is $18,000. What are the total expenses?",
-    "options": [
-      "$48,000",
-      "$12,000",
-      "$18,000",
-      "$30,000"
-    ],
-    "correctIndex": 1
   }
 ]

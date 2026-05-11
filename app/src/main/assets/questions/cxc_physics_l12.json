@@ -1,151 +1,151 @@
 [
   {
-    "question": "A satellite orbits Earth at a height where the gravitational field strength is 4.5 N kg\u207b\u00b9. If Earth's radius is 6.4 \u00d7 10\u2076 m and g at the surface is 9.8 N kg\u207b\u00b9, what is the orbital radius of the satellite?",
+    "question": "A body is moving with a velocity of 10 m/s. If it travels a distance of 50 meters in 5 seconds, what is its acceleration?",
     "options": [
-      "7.43 \u00d7 10\u2076 m",
-      "8.72 \u00d7 10\u2076 m",
-      "9.15 \u00d7 10\u2076 m",
-      "1.05 \u00d7 10\u2077 m"
+      "B",
+      "D",
+      "C",
+      "A"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A photon of wavelength 2.5 \u00d7 10\u207b\u00b9\u2070 m strikes a metal surface with a work function of 4.0 eV. What is the maximum kinetic energy of the emitted photoelectron? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J s, c = 3.0 \u00d7 10\u2078 m s\u207b\u00b9)",
+    "question": "A 10 m long pendulum is oscillating with a frequency of 2 Hz. What is its period?",
     "options": [
-      "1.0 eV",
-      "1.97 eV",
-      "3.0 eV",
-      "4.97 eV"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Two identical capacitors are connected first in series then in parallel across the same battery. The ratio of the total energy stored (series : parallel) is:",
-    "options": [
-      "1:4",
-      "1:2",
-      "2:1",
-      "4:1"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A nucleus of uranium-238 undergoes alpha decay followed by two successive beta-minus decays. What is the resulting nuclide?",
-    "options": [
-      "Th-234",
-      "Pa-234",
-      "U-234",
-      "Np-234"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A standing wave is formed on a string of length 1.2 m fixed at both ends. If the wave speed is 240 m s\u207b\u00b9, what is the frequency of the third harmonic?",
-    "options": [
-      "100 Hz",
-      "200 Hz",
-      "300 Hz",
-      "400 Hz"
+      "C",
+      "B",
+      "A",
+      "D"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A gas undergoes an isothermal compression from volume 8.0 L to 2.0 L at a constant temperature of 300 K. If the initial pressure is 1.0 \u00d7 10\u2075 Pa, what is the work done ON the gas? (Assume ideal gas)",
+    "question": "A 5 Farad capacitor is connected in parallel with a 10 Farad capacitor. What is the equivalent capacitance of the circuit?",
     "options": [
-      "\u22121.11 \u00d7 10\u2075 J",
-      "1.11 \u00d7 10\u2075 J",
-      "\u22122.77 \u00d7 10\u2075 J",
-      "2.77 \u00d7 10\u2075 J"
+      "0 Farads",
+      "15 Farads",
+      "10 Farads",
+      "5 Farads"
     ],
     "correctIndex": 1
   },
   {
-    "question": "An electron moves with velocity 2.0 \u00d7 10\u2076 m s\u207b\u00b9 perpendicular to a magnetic field of 0.050 T. What is the radius of the circular path? (m_e = 9.11 \u00d7 10\u207b\u00b3\u00b9 kg, e = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "question": "A 2 m long wire is carrying a current of 3 A. If the magnetic field is 0.3 T, what is the force on the wire?",
     "options": [
-      "0.114 m",
-      "0.228 m",
-      "0.057 m",
-      "0.342 m"
+      "D",
+      "C",
+      "A",
+      "B"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A transformer has 500 turns in its primary coil and 2000 turns in its secondary coil. If the primary is connected to a 230 V AC supply and draws a current of 8 A, what is the secondary current assuming 100% efficiency?",
+    "question": "A block of mass 5 kg is moving with a velocity of 5 m/s. What is its momentum?",
     "options": [
-      "32 A",
-      "2 A",
-      "16 A",
-      "4 A"
+      "50 kg m/s",
+      "75 kg m/s",
+      "10 kg m/s",
+      "25 kg m/s"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best explains why the photoelectric effect cannot be explained by classical wave theory?",
+    "question": "A 5 m long wire is stretched between two fixed points. If a 30 N force is applied to the wire at the midpoint, what is the tension in the wire on either side of the midpoint?",
     "options": [
-      "Wave intensity should determine the frequency of emitted electrons",
-      "The maximum kinetic energy of emitted electrons is independent of light intensity but dependent on frequency",
-      "Waves cannot transfer energy to electrons",
-      "Electrons are too small to interact with light waves"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A projectile is launched at 30\u00b0 above the horizontal with an initial speed of 40 m s\u207b\u00b9. What is the maximum height reached? (g = 9.8 m s\u207b\u00b2)",
-    "options": [
-      "20.4 m",
-      "40.8 m",
-      "61.2 m",
-      "10.2 m"
+      "C",
+      "A",
+      "B",
+      "D"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A wire of resistance 6 \u03a9 is stretched uniformly until its length doubles. Assuming the volume of the wire remains constant, what is its new resistance?",
+    "question": "A 5 kg block is attached to a spring with a spring constant of 50 N/m. If it is stretched by 2 meters, what is the energy stored in the spring?",
     "options": [
-      "12 \u03a9",
-      "24 \u03a9",
-      "3 \u03a9",
-      "48 \u03a9"
+      "A",
+      "D",
+      "C",
+      "B"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "The half-life of a radioactive isotope is 5.0 years. What fraction of a sample remains after 20 years?",
+    "question": "A 10 kg block is moving with a velocity of 5 m/s. If a force of 25 N is applied to it, what is the acceleration of the block?",
     "options": [
-      "1/8",
-      "1/16",
-      "1/4",
-      "1/32"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A convex lens of focal length 15 cm forms a real image of an object placed 45 cm from the lens. What is the magnification of the image?",
-    "options": [
-      "\u22120.5",
-      "0.5",
-      "\u22122.0",
-      "2.0"
+      "C",
+      "B",
+      "A",
+      "D"
     ],
     "correctIndex": 0
   },
   {
-    "question": "An ideal gas at 27\u00b0C and pressure 2.0 \u00d7 10\u2075 Pa occupies a volume of 3.0 L. It is heated at constant pressure until its volume becomes 4.5 L. What is the final temperature of the gas?",
+    "question": "A light ray passes from air into a medium with a refractive index of 1.5. What is the angle of refraction if the angle of incidence is 30 degrees?",
     "options": [
-      "450 K",
-      "400 K",
-      "350 K",
-      "500 K"
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the specific latent heat of fusion of ice in the International System of Units (SI)?",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 12 meters in 6 seconds, what is its acceleration?",
+    "options": [
+      "0.2 m/s^2",
+      "1 m/s^2",
+      "10 m/s^2",
+      "no acceleration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving in a uniform circular motion with a radius of 3 m and a centripetal acceleration of 1 m/s^2. What is its velocity?",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving with a velocity of 5 m/s. If it travels a distance of 25 meters in 5 seconds, what is its acceleration?",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A body of mass 2 kg moves in a circle of radius 0.5 m with a period of 2 s. What is the centripetal force acting on the body?",
+    "question": "A 2 m long wire is carrying a current of 5 A. If the magnetic field is 0.2 T, what is the force on the wire?",
     "options": [
-      "9.87 N",
-      "4.93 N",
-      "19.74 N",
-      "2.47 N"
+      "D",
+      "A",
+      "C",
+      "B"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 50 W electric heater is used to heat a room. If it is used for 5 hours, how much energy is consumed?",
+    "options": [
+      "C",
+      "B",
+      "A",
+      "D"
     ],
     "correctIndex": 0
   }

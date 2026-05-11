@@ -1,151 +1,121 @@
 [
   {
-    "question": "Which holy book is sacred to Christians?",
+    "question": "What is the significance of the Kaaba in Islam?",
     "options": [
-      "A. The Quran",
-      "B. The Torah",
-      "C. The Bible",
-      "D. The Vedas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Who is considered the founder of Islam?",
-    "options": [
-      "A. Jesus Christ",
-      "B. Prophet Muhammad",
-      "C. Abraham",
-      "D. Moses"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the first book of the Bible?",
-    "options": [
-      "A. Exodus",
-      "B. Psalms",
-      "C. Matthew",
-      "D. Genesis"
+      "It is the birthplace of Jesus",
+      "It is the location of the Last Supper",
+      "It is the site of the resurrection of Jesus",
+      "It is the holiest site in Islam"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is one of the Five Pillars of Islam?",
+    "question": "Which Caribbean spiritual practice emphasizes the use of rituals and ceremonies in healing?",
     "options": [
-      "A. Baptism",
-      "B. Confession",
-      "C. Salah (Prayer)",
-      "D. Communion"
+      "Myalism",
+      "Candomble",
+      "Obeah",
+      "Pocomania"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "In Christianity, what event is celebrated at Christmas?",
+    "question": "In African Traditional Religions, what is the term for the connection between humans and the natural world?",
     "options": [
-      "A. The resurrection of Jesus",
-      "B. The birth of Jesus",
-      "C. The baptism of Jesus",
-      "D. The ascension of Jesus"
+      "Ubuntu",
+      "Asabiya",
+      "Ancestors",
+      "Orishas"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the name of the sacred text of Islam?",
+    "question": "Which of the following is a major branch of Buddhism?",
     "options": [
-      "A. The Bible",
-      "B. The Torah",
-      "C. The Vedas",
-      "D. The Quran"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which religion observes the Sabbath from Friday sunset to Saturday sunset?",
-    "options": [
-      "A. Christianity",
-      "B. Islam",
-      "C. Judaism",
-      "D. Hinduism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the word 'Islam' mean?",
-    "options": [
-      "A. Peace",
-      "B. Submission",
-      "C. Faith",
-      "D. Prayer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Who led the Israelites out of Egypt according to the Bible?",
-    "options": [
-      "A. Abraham",
-      "B. David",
-      "C. Moses",
-      "D. Solomon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the Christian practice of sprinkling or immersing in water as a sign of faith?",
-    "options": [
-      "A. Communion",
-      "B. Confirmation",
-      "C. Baptism",
-      "D. Confession"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a major world religion that originated in India?",
-    "options": [
-      "A. Christianity",
-      "B. Islam",
-      "C. Judaism",
-      "D. Hinduism"
+      "Mahayana",
+      "Hinduism",
+      "Sikhism",
+      "Theravada"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the meal Jesus shared with his disciples before his crucifixion?",
+    "question": "In Islam, what is the term for the Day of Judgment?",
     "options": [
-      "A. The Holy Feast",
-      "B. The Last Supper",
-      "C. The Sacred Meal",
-      "D. The Passover Dinner"
+      "Hadith",
+      "Qiyama",
+      "Quran",
+      "Sunna"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which symbol is most associated with Christianity?",
+    "question": "Which social issue is closely linked to the concept of poverty and economic inequality?",
     "options": [
-      "A. The Star of David",
-      "B. The Crescent Moon",
-      "C. The Cross",
-      "D. The Om symbol"
+      "Income inequality",
+      "G gender inequality",
+      "Healthcare inequality",
+      "Racial inequality"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What do Muslims call their house of worship?",
+    "question": "In Hinduism, what is the term for the path of action and self-purification?",
     "options": [
-      "A. Church",
-      "B. Temple",
-      "C. Synagogue",
-      "D. Mosque"
+      "Jnana",
+      "Karma",
+      "Dhyana",
+      "Bhakti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which African Traditional Religion emphasizes the importance of community and social cohesion?",
+    "options": [
+      "Zulu",
+      "Xhosa",
+      "Dogon",
+      "Yoruba"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Caribbean spiritual practice is associated with the celebration of life and the cycles of nature?",
+    "options": [
+      "Candomble",
+      "Myalism",
+      "Pocomania",
+      "Obeah"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In the Bible, how many days did God take to create the world?",
+    "question": "Which Christian text is considered the primary source of doctrine and moral teachings?",
     "options": [
-      "A. Three days",
-      "B. Five days",
-      "C. Six days",
-      "D. Seven days"
+      "Quran",
+      "Mahabharata",
+      "Puranas",
+      "Bible"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the concept of the social and moral responsibility to others?",
+    "options": [
+      "Social responsibility",
+      "Individual responsibility",
+      "Spiritual responsibility",
+      "Moral responsibility"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Hinduism, what is the term for the path of devotion and love towards God?",
+    "options": [
+      "Jnana",
+      "Dhyana",
+      "Bhakti",
+      "Karma"
     ],
     "correctIndex": 2
   }

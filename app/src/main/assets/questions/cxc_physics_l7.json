@@ -1,152 +1,152 @@
 [
   {
-    "question": "A car travels 60 km north and then 80 km east. What is the magnitude of the resultant displacement?",
+    "question": "A 5 Farad capacitor is connected in series with a 10 ohm resistor. What is the equivalent resistance of the circuit?",
     "options": [
-      "100 km",
-      "140 km",
-      "20 km",
-      "120 km"
+      "0 ohms",
+      "5 ohms",
+      "10 Farads",
+      "10 ohms"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 10 meters in 5 seconds, what is its acceleration?",
+    "options": [
+      "no acceleration",
+      "10 m/s^2",
+      "1 m/s^2",
+      "0.5 m/s^2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a vector quantity?",
+    "question": "A wave has a frequency of 20 Hz and a speed of 50 m/s. What is its wavelength?",
     "options": [
-      "Speed",
-      "Mass",
-      "Force",
-      "Temperature"
+      "1.25 m",
+      "5 m",
+      "10 m",
+      "2.5 m"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the type of radiation that has a low frequency and long wavelength?",
+    "options": [
+      "Ultraviolet Radiation",
+      "Microwave Radiation",
+      "Radio Waves",
+      "Infrared Radiation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A stone is dropped from rest and falls freely for 3 seconds. What is its velocity just before hitting the ground? (g = 10 m/s\u00b2)",
+    "question": "What is the term for the measure of how much a material is able to resist changes in its electric field?",
     "options": [
-      "10 m/s",
-      "20 m/s",
-      "30 m/s",
-      "40 m/s"
+      "Dielectric Constant",
+      "Dielectric Permittivity",
+      "Dielectric Loss",
+      "Dielectric Strength"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "According to Newton's Second Law, if a net force of 20 N acts on a 4 kg object, what is the acceleration of the object?",
+    "question": "The frequency of a wave is 50 Hz, and its speed is 100 m/s. What is its amplitude?",
     "options": [
-      "80 m/s\u00b2",
-      "5 m/s\u00b2",
-      "0.2 m/s\u00b2",
-      "16 m/s\u00b2"
+      "10 m",
+      "no information",
+      "2 m",
+      "1 m"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of wave requires a medium to travel through?",
+    "question": "A resistor of 2 ohms is connected in series with a capacitor of 10 Farads. What is the reactance of the circuit?",
     "options": [
-      "Radio waves",
-      "Light waves",
-      "Sound waves",
-      "X-rays"
+      "2000 ohms",
+      "0 ohms",
+      "20 ohms",
+      "200 ohms"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 10 ohm resistor is connected in parallel with a 20 ohm resistor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "0 ohms",
+      "20 ohms",
+      "6.67 ohms",
+      "10 ohms"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A resistor of 10 \u03a9 is connected to a 20 V source. What current flows through the resistor?",
+    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. What is its momentum?",
     "options": [
-      "0.5 A",
-      "2 A",
-      "200 A",
-      "10 A"
+      "100 kg m/s",
+      "50 kg m/s",
+      "20 kg m/s",
+      "75 kg m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the SI unit of pressure?",
+    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 5 m/s, what is its velocity after 5 seconds?",
     "options": [
-      "Newton",
-      "Joule",
-      "Pascal",
-      "Watt"
+      "17.5 m/s",
+      "7 m/s",
+      "3 m/s",
+      "5 m/s"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following best describes the process of convection?",
+    "question": "A wave is reflected off a free end. What is the nature of the wave at the free end?",
     "options": [
-      "Transfer of heat by electromagnetic waves",
-      "Transfer of heat through direct contact",
-      "Transfer of heat by movement of fluid particles",
-      "Transfer of heat through a vacuum"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 5 kg object is lifted 4 m vertically. What is the gravitational potential energy gained? (g = 10 m/s\u00b2)",
-    "options": [
-      "9 J",
-      "200 J",
-      "20 J",
-      "50 J"
+      "displacement is maximum",
+      "antinode",
+      "displacement is minimum",
+      "node"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel. What is their combined resistance?",
+    "question": "A wave is reflected off a fixed end and a free end. What is the nature of the wave at the fixed and free ends?",
     "options": [
-      "9 \u03a9",
-      "3 \u03a9",
-      "2 \u03a9",
-      "18 \u03a9"
+      "antinode, antinode",
+      "node, node",
+      "antinode, node",
+      "node, antinode"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following describes the law of conservation of energy?",
+    "question": "The force applied to an object is doubled, and its mass remains constant. What is the effect on the acceleration of the object?",
     "options": [
-      "Energy can be created from nothing under special conditions",
-      "Energy can be destroyed when converted to mass",
-      "The total energy in an isolated system remains constant",
-      "Kinetic energy is always equal to potential energy"
+      "acceleration is doubled",
+      "acceleration is tripled",
+      "acceleration remains the same",
+      "acceleration is halved"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "A wave has a frequency of 50 Hz and a wavelength of 2 m. What is its speed?",
+    "question": "What is the term for the type of conduction that occurs when a material is heated from the inside out?",
     "options": [
-      "25 m/s",
-      "100 m/s",
-      "0.04 m/s",
-      "52 m/s"
+      "Conduction",
+      "Radiation",
+      "Convection",
+      "Diffusion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the measure of how much a material is attracted to a magnet at a distance?",
+    "options": [
+      "Magnetic Susceptibility",
+      "Magnetic Field Strength",
+      "Magnetic Moment",
+      "Magnetic Permeability"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which phenomenon explains why a straw appears bent when placed in a glass of water?",
-    "options": [
-      "Reflection",
-      "Diffraction",
-      "Refraction",
-      "Interference"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the half-life of a radioactive substance if its activity falls to one-quarter of its original value in 20 years?",
-    "options": [
-      "5 years",
-      "10 years",
-      "20 years",
-      "40 years"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A machine has a power output of 500 W. How much work does it do in 10 seconds?",
-    "options": [
-      "50 J",
-      "510 J",
-      "5000 J",
-      "5 J"
-    ],
-    "correctIndex": 2
   }
 ]

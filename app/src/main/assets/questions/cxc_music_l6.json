@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which term describes the gradual increase in tempo in music?",
+    "question": "Which of the following musical instruments is commonly used in traditional Caribbean music?",
     "options": [
-      "Rallentando",
-      "Accelerando",
-      "Ritardando",
-      "Fermata"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In music notation, a time signature of 6/8 indicates how many beats per measure and what note value gets the beat?",
-    "options": [
-      "6 beats, quarter note gets the beat",
-      "3 beats, eighth note gets the beat",
-      "2 beats, dotted quarter note gets the beat",
-      "6 beats, eighth note gets the beat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a characteristic of the Calypso musical form?",
-    "options": [
-      "It originated in West Africa and uses only pentatonic scales",
-      "It features complex Indian rhythms and tabla drumming",
-      "It originated in Trinidad and typically uses social and political commentary in lyrics",
-      "It is a Jamaican form exclusively using reggae rhythms"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the distance between two pitches?",
-    "options": [
-      "Timbre",
-      "Interval",
-      "Cadence",
-      "Phrase"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which chord is built on the fifth degree of a major scale?",
-    "options": [
-      "Tonic chord",
-      "Subdominant chord",
-      "Dominant chord",
-      "Leading tone chord"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'fortissimo' in music means?",
-    "options": [
-      "Moderately loud",
-      "Very soft",
-      "Very loud",
-      "Moderately soft"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes a pentatonic scale?",
-    "options": [
-      "A scale with seven notes",
-      "A scale with five notes",
-      "A scale with twelve notes",
-      "A scale with eight notes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of Caribbean music, what is 'mento'?",
-    "options": [
-      "A Barbadian folk music style",
-      "A Jamaican folk music style that predates reggae",
-      "A Trinidadian drum pattern",
-      "A Guyanese string ensemble"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which musical form consists of a theme followed by variations?",
-    "options": [
-      "Rondo form",
-      "Binary form",
-      "Through-composed form",
-      "Theme and variations form"
+      "Drums",
+      "Violin",
+      "Piano",
+      "Steelpan"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does the musical term 'legato' instruct the performer to do?",
+    "question": "Which of the following musical instruments is commonly used in calypso music?",
     "options": [
-      "Play notes in a smooth and connected manner",
-      "Play notes in a short and detached manner",
-      "Play notes with a heavy accent",
-      "Play notes very quietly"
+      "Piano",
+      "Steel drum",
+      "Drums",
+      "Guitar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In music notation, what does the symbol 'sforz.' indicate?",
+    "options": [
+      "Crescendo dynamic",
+      "Sforzando dynamic",
+      "Loud dynamics",
+      "Soft dynamics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a series of notes that move in a smooth, flowing manner, often used in melodies and solos?",
+    "options": [
+      "Legato movement",
+      "Sustained tone",
+      "Portamento",
+      "Staccato movement"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which instrument family does the steelpan belong to?",
+    "question": "In aural skills, what is the process of identifying and describing the timbre of a musical instrument?",
     "options": [
-      "Chordophone",
-      "Aerophone",
-      "Membranophone",
-      "Idiophone"
+      "Melody analysis",
+      "Rhythm analysis",
+      "Texture analysis",
+      "Timbre analysis"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In music theory, what is a 'cadence'?",
+    "question": "In music notation, what does the symbol 'dim.' indicate?",
     "options": [
-      "A musical ornament used to decorate a melody",
-      "A progression of chords that creates a sense of resolution or pause",
-      "A type of musical scale used in folk music",
-      "A technique used in drum performance"
+      "Major chord",
+      "Diminished chord",
+      "Minor chord",
+      "Augmented chord"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following rhythmic values is equivalent to three quarter notes?",
+    "question": "Which of the following musical forms is characterized by a series of episodes or sections that are repeated and varied?",
     "options": [
-      "A whole note",
-      "A half note",
-      "A dotted half note",
-      "A double whole note"
+      "Sonata form",
+      "Fugue form",
+      "Rondo form",
+      "Theme and Variations form"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The music of the Spiritual Baptists in the Caribbean is best described as?",
+    "question": "Which of the following musical instruments is commonly used in traditional Caribbean music?",
     "options": [
-      "Entirely instrumental with no vocal component",
-      "A blend of African rhythmic traditions and Christian hymn singing",
-      "Derived solely from European classical music traditions",
-      "A form of jazz improvisation"
+      "Steelpan",
+      "Drums",
+      "Piano",
+      "Violin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In aural skills, what is the process of listening to a musical passage and then singing or humming it back?",
+    "options": [
+      "Dictation exercise",
+      "Sing-back exercise",
+      "Improvisation exercise",
+      "Ear training exercise"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which term refers to the texture of music that has a single melody line with no accompaniment?",
+    "question": "What is the term for a type of melody that emphasizes the first beat of a bar?",
     "options": [
-      "Homophony",
-      "Polyphony",
-      "Monophony",
-      "Heterophony"
+      "Rhythmic melody",
+      "Tonal melody",
+      "Accentual melody",
+      "Hymnodic melody"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a melody that moves in a repetitive pattern of steps and leaps?",
+    "options": [
+      "Hymnodic melody",
+      "Tonal melody",
+      "Rhythmic melody",
+      "Melodic theme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In aural skills, what is the process of identifying and describing the texture of a musical passage?",
+    "options": [
+      "Melody analysis",
+      "Rhythm analysis",
+      "Timbre analysis",
+      "Texture analysis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in calypso music?",
+    "options": [
+      "Piano",
+      "Guitar",
+      "Steel drum",
+      "Drums"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In music notation, what does the symbol 'fermata' indicate?",
+    "options": [
+      "Extended duration",
+      "Tempo increase",
+      "Shortened duration",
+      "Sudden change in pitch"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a type of melody that emphasizes the second beat of a bar?",
+    "options": [
+      "Tonal melody",
+      "Syncopated melody",
+      "Accentual melody",
+      "Hymnodic melody"
+    ],
+    "correctIndex": 1
   }
 ]

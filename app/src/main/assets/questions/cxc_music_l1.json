@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does the term 'forte' mean in music?",
+    "question": "What is the term for a sequence of notes that move in a smooth, flowing manner?",
     "options": [
-      "Soft",
-      "Loud",
-      "Medium",
-      "Slow"
+      "Staccato",
+      "Accent",
+      "Articulation",
+      "Legato"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "How many beats are in a bar of 4/4 time?",
+    "question": "In music notation, what is the symbol used to indicate a sharp?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "6"
+      "b",
+      "X",
+      "/",
+      "#"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of rhythm is characterized by three equal pulses?",
+    "options": [
+      "Triple rhythm",
+      "Compound duple rhythm",
+      "Compound rhythm",
+      "Duple rhythm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following musical instruments is used to produce a bright, ringing sound?",
+    "options": [
+      "Piano",
+      "Guitar",
+      "Steelpan",
+      "Drums"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a string instrument?",
+    "question": "In music notation, what is the symbol used to indicate a silence?",
     "options": [
-      "Trumpet",
-      "Flute",
+      "X or a dot within a circle",
+      "-",
+      "X",
+      "O"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated, but with some changes?",
+    "options": [
+      "Developing variation",
+      "Variation",
+      "Repeat",
+      "Theme"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated exactly, with some changes in dynamics or articulation?",
+    "options": [
+      "Variation",
+      "Developing variation",
+      "Repeat",
+      "Theme"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical instruments is used to produce a soft, mellow sound?",
+    "options": [
       "Violin",
+      "Trumpet",
+      "French horn",
       "Trombone"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the musical symbol for silence called?",
+    "question": "Which clef is used to notate music for the lower-pitched instruments?",
     "options": [
-      "Note",
-      "Rest",
-      "Bar",
-      "Clef"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which note has the longest duration?",
-    "options": [
-      "Quarter note",
-      "Half note",
-      "Whole note",
-      "Eighth note"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'piano' mean as a dynamic marking?",
-    "options": [
-      "Fast",
-      "Loud",
-      "Slow",
-      "Soft"
+      "Tenor clef",
+      "Treble clef",
+      "Alto clef",
+      "Bass clef"
     ],
     "correctIndex": 3
   },
   {
-    "question": "How many semitones are in an octave?",
+    "question": "What is the term for a repetition of a musical idea?",
     "options": [
-      "8",
-      "10",
-      "12",
-      "14"
+      "Repeat",
+      "Developing variation",
+      "Theme",
+      "Variation"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which clef is commonly used for higher-pitched instruments?",
+    "question": "What is the term for a musical phrase that is repeated, but with some changes, and then returns to the original phrase?",
     "options": [
-      "Bass clef",
-      "Tenor clef",
-      "Treble clef",
-      "Alto clef"
+      "Theme",
+      "Variation",
+      "Repeat",
+      "Developing variation"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the name of the national anthem of Trinidad and Tobago?",
+    "question": "What is the term for the combination of two or more pitches sounding simultaneously?",
     "options": [
-      "God Save the King",
-      "Forged from the Love of Liberty",
-      "Island in the Sun",
-      "Jamaica Land We Love"
+      "Melody",
+      "Counter melody",
+      "Counterpoint",
+      "Harmony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the way music sounds?",
+    "options": [
+      "Composition",
+      "Aural skills",
+      "Musicology",
+      "Music theory"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a woodwind instrument?",
+    "question": "Which of the following musical instruments is used to produce a high-pitched, bright sound?",
     "options": [
-      "French Horn",
-      "Clarinet",
-      "Tuba",
+      "French horn",
+      "Trombone",
+      "Trumpet",
       "Violin"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'tempo' refer to in music?",
-    "options": [
-      "The loudness of music",
-      "The speed of music",
-      "The pitch of music",
-      "The key of music"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A scale that follows the pattern of whole and half steps W-W-H-W-W-W-H is called a?",
-    "options": [
-      "Minor scale",
-      "Chromatic scale",
-      "Major scale",
-      "Pentatonic scale"
-    ],
     "correctIndex": 2
   },
   {
-    "question": "Which Caribbean musical form is associated with Jamaica?",
+    "question": "What is the term for a musical idea that is repeated, but with some changes, and then returns to the original idea, with some changes?",
     "options": [
-      "Calypso",
-      "Soca",
-      "Reggae",
-      "Chutney"
+      "Rondo form",
+      "Theme and variations",
+      "Sonata form",
+      "Fugue"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a group of five lines on which music is written called?",
-    "options": [
-      "Bar",
-      "Staff",
-      "Ledger",
-      "Clef"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which term describes the highness or lowness of a musical sound?",
-    "options": [
-      "Rhythm",
-      "Tempo",
-      "Pitch",
-      "Timbre"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

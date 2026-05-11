@@ -1,152 +1,72 @@
 [
   {
-    "question": "\u00bfCu\u00e1l es la forma correcta del verbo 'hablar' en la primera persona del singular del pret\u00e9rito indefinido?",
+    "question": "What is the Spanish word for 'the Andes mountain range'?",
     "options": [
-      "habl\u00e9",
-      "hablaba",
-      "hablar\u00e9",
-      "hablo"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes oraciones usa correctamente el subjuntivo?",
-    "options": [
-      "Espero que \u00e9l viene ma\u00f1ana",
-      "Espero que \u00e9l venga ma\u00f1ana",
-      "Espero que \u00e9l vendr\u00e1 ma\u00f1ana",
-      "Espero que \u00e9l vino ma\u00f1ana"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfQu\u00e9 significa la palabra 'madrugada' en ingl\u00e9s?",
-    "options": [
-      "Afternoon",
-      "Midnight",
-      "Early morning",
-      "Evening"
+      "Las monta\u00f1as de la Costa",
+      "Los volcanes del Pac\u00edfico",
+      "Los Andes",
+      "La cordillera de los Picos"
     ],
     "correctIndex": 2
   },
   {
-    "question": "\u00bfCu\u00e1l es el plural correcto de 'el l\u00e1piz'?",
+    "question": "The Spanish word for 'to enjoy' is...",
     "options": [
-      "los l\u00e1pizes",
-      "los l\u00e1pices",
-      "los l\u00e1pizos",
-      "los l\u00e1pis"
+      "Gustar",
+      "Sentir",
+      "Hacer",
+      "Disfrutar"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Elige la traducci\u00f3n correcta de 'I used to play football every Saturday'.",
+    "question": "Which of the following is an example of a verb in the preterite tense?",
     "options": [
-      "Jugu\u00e9 f\u00fatbol cada s\u00e1bado",
-      "Jugar\u00e9 f\u00fatbol cada s\u00e1bado",
-      "Jugaba f\u00fatbol cada s\u00e1bado",
-      "Juego f\u00fatbol cada s\u00e1bado"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l de estas palabras es un sin\u00f3nimo de 'alegre'?",
-    "options": [
-      "triste",
-      "contento",
-      "cansado",
-      "enojado"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Completa la oraci\u00f3n: 'Si tuviera dinero, _______ un coche nuevo.'",
-    "options": [
-      "compro",
+      "compre",
+      "compr\u00e9",
       "comprar\u00e9",
-      "comprar\u00eda",
-      "compr\u00e9"
+      "compramos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Spanish word for 'to help'?",
+    "options": [
+      "Ayudarse",
+      "Prestar ayuda",
+      "Ayudar a otros",
+      "Ayudar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Spanish, what is the name of the celebration that takes place on September 15th?",
+    "options": [
+      "D\u00eda de la Uni\u00f3n",
+      "D\u00eda de la Fiesta",
+      "D\u00eda de la Independencia",
+      "D\u00eda de la Cultura"
     ],
     "correctIndex": 2
   },
   {
-    "question": "\u00bfCu\u00e1l es la forma correcta del verbo 'ser' en la tercera persona del plural del imperfecto?",
+    "question": "What is the name of the famous Spanish painter who created the artwork 'Las Meninas'?",
     "options": [
-      "fueron",
-      "eran",
-      "son",
-      "ser\u00edan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes frases expresa una obligaci\u00f3n personal?",
-    "options": [
-      "Hay que estudiar",
-      "Tengo que estudiar",
-      "Se debe estudiar",
-      "Es necesario estudiar"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfQu\u00e9 tipo de palabra es 'r\u00e1pidamente'?",
-    "options": [
-      "Adjetivo",
-      "Sustantivo",
-      "Adverbio",
-      "Preposici\u00f3n"
+      "Salvador Dal\u00ed",
+      "Pablo Picasso",
+      "Diego Vel\u00e1zquez",
+      "Francisco Goya"
     ],
     "correctIndex": 2
   },
   {
-    "question": "\u00bfCu\u00e1l es la capital de Argentina?",
+    "question": "Which of the following countries is located in South America?",
     "options": [
-      "Lima",
-      "Bogot\u00e1",
-      "Buenos Aires",
-      "Santiago"
+      "Chile",
+      "Panama",
+      "Colombia",
+      "Argentina"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Elige la oraci\u00f3n que usa correctamente el pronombre de objeto indirecto.",
-    "options": [
-      "Le dije la verdad a Mar\u00eda",
-      "La dije la verdad a Mar\u00eda",
-      "Lo dije la verdad a Mar\u00eda",
-      "Les dije la verdad a Mar\u00eda"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes palabras contiene una s\u00edlaba t\u00f3nica en la pen\u00faltima posici\u00f3n (palabra llana)?",
-    "options": [
-      "canci\u00f3n",
-      "\u00e1rbol",
-      "caf\u00e9",
-      "cami\u00f3n"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l es el ant\u00f3nimo de 'generoso'?",
-    "options": [
-      "amable",
-      "taca\u00f1o",
-      "honesto",
-      "valiente"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Completa la oraci\u00f3n con la preposici\u00f3n correcta: 'Salimos _______ la tarde.'",
-    "options": [
-      "en",
-      "por",
-      "para",
-      "de"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

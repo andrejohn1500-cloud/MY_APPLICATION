@@ -1,152 +1,122 @@
 [
   {
-    "question": "Which accounting concept states that a business is separate from its owner for accounting purposes?",
+    "question": "A company has a cash balance of $50,000 and a bank overdraft of $30,000. What is the company's net cash position?",
     "options": [
-      "Going Concern Concept",
-      "Business Entity Concept",
-      "Accrual Concept",
-      "Materiality Concept"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A debtor owes $5,000. A provision for bad debts of 5% is created. What is the amount of the provision?",
-    "options": [
-      "$500",
-      "$250",
-      "$50",
-      "$25"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is classified as a current liability?",
-    "options": [
-      "Bank Loan (5 years)",
-      "Motor Vehicle",
-      "Trade Creditors",
-      "Premises"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The trial balance of a business shows total debits of $45,000 and total credits of $43,000. What does this indicate?",
-    "options": [
-      "The accounts are balanced correctly",
-      "There is an error in the accounts",
-      "The business made a profit of $2,000",
-      "The business has more assets than liabilities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is recorded in the Sales Returns Journal?",
-    "options": [
-      "Goods returned to suppliers",
-      "Goods returned by customers",
-      "Cash sales returned",
-      "Discounts allowed to customers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Depreciation of a fixed asset is best described as:",
-    "options": [
-      "The market value decrease of an asset",
-      "The allocation of cost of an asset over its useful life",
-      "The replacement cost of an asset",
-      "The scrap value of an asset"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A business purchases goods on credit for $2,000. Which journal entry correctly records this transaction?",
-    "options": [
-      "Debit Purchases $2,000; Credit Cash $2,000",
-      "Debit Purchases $2,000; Credit Creditors $2,000",
-      "Debit Creditors $2,000; Credit Purchases $2,000",
-      "Debit Cash $2,000; Credit Purchases $2,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Cost of goods sold is calculated as:",
-    "options": [
-      "Opening Stock + Closing Stock - Purchases",
-      "Opening Stock + Purchases - Closing Stock",
-      "Sales - Gross Profit",
-      "Net Profit + Expenses"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a credit note?",
-    "options": [
-      "A document sent to a supplier to request a refund",
-      "A document sent to a customer acknowledging a reduction in amount owed",
-      "A note confirming payment has been received",
-      "A document requesting goods on credit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The balance sheet equation is best expressed as:",
-    "options": [
-      "Assets = Capital - Liabilities",
-      "Assets + Liabilities = Capital",
-      "Assets = Capital + Liabilities",
-      "Capital = Assets + Liabilities"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of capital expenditure?",
-    "options": [
-      "Payment of electricity bill",
-      "Purchase of a delivery van",
-      "Payment of salaries",
-      "Purchase of office stationery"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a partnership, the interest on drawings is:",
-    "options": [
-      "A debit to the Profit and Loss Account",
-      "A credit to the partner's Current Account",
-      "A debit to the partner's Current Account",
-      "A credit to the Capital Account"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which account would appear in the Trading Account?",
-    "options": [
-      "Carriage Outwards",
-      "Discount Allowed",
-      "Carriage Inwards",
-      "Rent Expense"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The straight-line method of depreciation is calculated as:",
-    "options": [
-      "(Cost - Scrap Value) / Useful Life in Years",
-      "Cost x Depreciation Rate",
-      "Net Book Value x Depreciation Rate",
-      "(Cost + Scrap Value) / Useful Life"
+      "$20,000",
+      "$70,000",
+      "$40,000",
+      "$50,000"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following errors would be revealed by a trial balance?",
+    "question": "A company's cash flow statement shows the following: Net Income $100,000, Depreciation $20,000, Accounts Payable $10,000. What is the net cash flow from operating activities?",
     "options": [
-      "Error of omission",
-      "Error of commission",
-      "Error of principle",
-      "Single entry of a transaction"
+      "$150,000",
+      "$130,000",
+      "$140,000",
+      "$120,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of partnership where two or more partners have unlimited liability?",
+    "options": [
+      "Joint venture",
+      "Limited partnership",
+      "General partnership",
+      "Limited liability partnership"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a business's ability to generate cash flows over time?",
+    "options": [
+      "Liquidity",
+      "Solvency",
+      "Profitability",
+      "Cash flow"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "A company uses the accruals basis of accounting and records the following transactions: (1) Sold goods for $10,000, (2) Incurred salaries expense of $5,000. What is the total net income for the period?",
+    "options": [
+      "$7,000",
+      "$4,500",
+      "$5,000",
+      "$6,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company purchases a machine for $80,000 and depreciates it using the double-declining balance method over a useful life of 8 years. What is the annual depreciation charge?",
+    "options": [
+      "$16,000",
+      "$15,625",
+      "$17,000",
+      "$14,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has a credit balance of $10,000 in the Retained Earnings account. What is the effect on the Income Statement?",
+    "options": [
+      "Increase in expenses",
+      "No effect",
+      "Decrease in net income",
+      "Increase in net income"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company uses the cash basis of accounting and records the following transactions: (1) Received cash from customers $10,000, (2) Paid salaries $5,000. What is the net cash inflow for the period?",
+    "options": [
+      "$6,000",
+      "$4,000",
+      "$5,000",
+      "$7,000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company uses the perpetual inventory system and records the following transactions: (1) Purchased inventory for $10,000, (2) Sold inventory for $15,000. What is the cost of goods sold?",
+    "options": [
+      "$14,000",
+      "$10,000",
+      "$12,000",
+      "$16,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's financial statements show the following: Net Income $100,000, Common Stock $200,000. What is the total equity of the company?",
+    "options": [
+      "$330,000",
+      "$300,000",
+      "$280,000",
+      "$320,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has a credit balance of $10,000 in the Retained Earnings account. What is the effect on the Balance Sheet?",
+    "options": [
+      "Increase in equity",
+      "Decrease in equity",
+      "No effect",
+      "Increase in liabilities"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a business's ability to generate returns on equity over time?",
+    "options": [
+      "Solvency",
+      "Return on equity",
+      "Liquidity",
+      "Efficiency"
+    ],
+    "correctIndex": 1
   }
 ]

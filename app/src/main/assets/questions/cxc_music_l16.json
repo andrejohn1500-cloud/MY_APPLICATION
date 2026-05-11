@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which term describes the simultaneous use of two or more keys or tonal centres in a musical composition?",
+    "question": "The use of a single melodic line without accompaniment is an example of which type of musical form?",
     "options": [
-      "Polytonality",
-      "Atonality",
-      "Modality",
-      "Bitonality"
+      "sonata form",
+      "rondo form",
+      "ternary form",
+      "binary form"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The steelpan instrument is played using which technique?",
+    "options": [
+      "bow technique",
+      "mallet technique",
+      "breath technique",
+      "fingertip technique"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A composer uses a sequence of chords as a harmonic progression. What is the term for the pattern of chords used in a piece of music?",
+    "options": [
+      "chord progression",
+      "harmonic progression",
+      "rhythmic variation",
+      "melodic sequence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A musical phrase that is repeated at a different pitch is an example of which musical element?",
+    "options": [
+      "melodic variation",
+      "melodic sequence",
+      "harmonic variation",
+      "rhythmic variation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In sonata form, which section presents the main themes in their original keys after development?",
+    "question": "The steelpan instrument originated from which African instrument?",
     "options": [
-      "Exposition",
-      "Development",
-      "Recapitulation",
-      "Coda"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The calypso form known as 'extempo' is primarily characterized by which feature?",
-    "options": [
-      "Pre-composed lyrics with complex harmonies",
-      "Spontaneous improvised verses on given topics",
-      "Call and response patterns between soloist and chorus",
-      "Strict adherence to a 32-bar AABA structure"
+      "marimba",
+      "drum",
+      "glockenspiel",
+      "xylophone"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which cadence consists of the movement from the subdominant chord to the tonic chord?",
+    "question": "A composer uses a series of chords to create a sense of tension and release. What is the term for this process?",
     "options": [
-      "Perfect cadence",
-      "Imperfect cadence",
-      "Plagal cadence",
-      "Interrupted cadence"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In figured bass notation, what does the figure '6/4' indicate above a bass note?",
-    "options": [
-      "A root position triad",
-      "A first inversion chord",
-      "A second inversion chord",
-      "A seventh chord in root position"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which rhythmic technique involves placing accents on normally weak beats or between beats, creating a conflict with the established metre?",
-    "options": [
-      "Hemiola",
-      "Syncopation",
-      "Polyrhythm",
-      "Cross-rhythm"
+      "atonal harmony",
+      "tonal harmony",
+      "modal harmony",
+      "polytonal harmony"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The steelpan instrument family includes soprano, tenor, and bass pans. Which pan typically plays the highest pitch range?",
+    "question": "The use of a variety of musical elements to create a sense of contrast is an example of which musical form?",
     "options": [
-      "Guitar pan",
-      "Cello pan",
-      "Tenor pan",
-      "Double seconds"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A passage marked 'con sordino' requires the performer to play with which technique or device?",
-    "options": [
-      "A mute",
-      "A damper pedal",
-      "Sul ponticello bowing",
-      "Harmonic flageolets"
+      "rondo form",
+      "sonata form",
+      "ternary form",
+      "binary form"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which form of traditional Jamaican music directly influenced the development of reggae and is characterized by a slower tempo and emphasis on beats two and four?",
+    "question": "The rhythmic pattern of a piece of music is determined by which of the following?",
     "options": [
-      "Mento",
-      "Ska",
-      "Rocksteady",
-      "Dancehall"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In tonal harmony, a 'German augmented sixth' chord typically resolves to which chord?",
-    "options": [
-      "The supertonic chord",
-      "The dominant chord",
-      "The subdominant chord",
-      "The mediant chord"
+      "pulse",
+      "meter",
+      "rhythm",
+      "tempo"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The process of taking a melodic idea and presenting it beginning on successively higher or lower pitch levels is called?",
+    "question": "The use of a variety of musical elements to create a sense of contrast is an example of which musical form?",
     "options": [
-      "Inversion",
-      "Sequence",
-      "Imitation",
-      "Retrograde"
+      "binary form",
+      "ternary form",
+      "rondo form",
+      "sonata form"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A composer uses a series of chords to create a sense of tension and release. What is the term for the pattern of chords used in this process?",
+    "options": [
+      "rhythmic variation",
+      "melodic sequence",
+      "harmonic progression",
+      "chord progression"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A composer uses a series of chords to create a sense of tension and release. What is the term for the process of creating this sense of tension and release?",
+    "options": [
+      "tonal progression",
+      "tonal conflict",
+      "tonal resolution",
+      "tonal harmony"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which Caribbean folk song tradition involves call and response singing during communal agricultural work and is closely associated with Trinidad?",
+    "question": "The steelpan instrument is an example of which type of musical instrument?",
     "options": [
-      "Shango",
-      "Bele",
-      "Parang",
-      "Coalpot song"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In orchestral score reading, which instrument sounds a major second higher than written?",
-    "options": [
-      "B-flat clarinet",
-      "French horn in F",
-      "Trumpet in B-flat",
-      "Oboe"
+      "membranophone",
+      "woodwind instrument",
+      "string instrument",
+      "brass instrument"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 'subject' in a Baroque fugue is first answered by the 'answer'. When the answer preserves the exact intervals of the subject it is called?",
+    "question": "A musical phrase that is repeated at a different pitch and time is an example of which musical element?",
     "options": [
-      "Tonal answer",
-      "Real answer",
-      "Stretto",
-      "Augmentation"
+      "melodic variation",
+      "rhythmic variation",
+      "melodic sequence",
+      "harmonic variation"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which compositional device involves presenting a melody in longer note values than its original statement?",
+    "question": "The steelpan instrument originated from which European instrument?",
     "options": [
-      "Diminution",
-      "Inversion",
-      "Augmentation",
-      "Retrograde inversion"
+      "tambourine",
+      "xylophone",
+      "steel drum",
+      "castanets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The use of a single melodic line without accompaniment is an example of which type of musical form?",
+    "options": [
+      "ternary form",
+      "sonata form",
+      "binary form",
+      "rondo form"
     ],
     "correctIndex": 2
   }

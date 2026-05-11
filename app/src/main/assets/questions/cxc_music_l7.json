@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the term 'syncopation' in music?",
+    "question": "A composer is asked to write a piece for a steelband. The piece should be in a minor key and feature a prominent bass line. What style of Caribbean music is the composer most likely to be writing in?",
     "options": [
-      "Playing notes on the beat",
-      "Emphasis placed on weak beats or between beats",
-      "A gradual increase in tempo",
-      "A sustained note held for its full value"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The time signature 6/8 indicates that each bar contains:",
-    "options": [
-      "Six crotchet beats",
-      "Six minim beats",
-      "Six quaver beats",
-      "Three crotchet beats"
+      "Zouk",
+      "Reggae",
+      "Calypso",
+      "Soca"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which musical form consists of two contrasting sections labeled A and B?",
+    "question": "In music notation, what does the symbol 'pizz.' indicate?",
     "options": [
+      "Sudden change in pitch",
+      "Shortened duration",
+      "Sustained tone",
+      "Pizzicato effect"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In music notation, what does the symbol 'tenuto' indicate?",
+    "options": [
+      "Shortened duration",
+      "Sudden change in pitch",
+      "Tempo increase",
+      "Sustained tone"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In aural skills, what is the process of identifying and describing the rhythm of a musical passage?",
+    "options": [
+      "Timbre analysis",
+      "Melody analysis",
+      "Rhythm analysis",
+      "Texture analysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical forms is characterized by a series of interweaving melodies?",
+    "options": [
+      "Theme and Variations form",
       "Rondo form",
-      "Ternary form",
-      "Binary form",
-      "Theme and variations"
+      "Fugue form",
+      "Sonata form"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The calypso originated in which Caribbean territory?",
+    "question": "Which of the following musical instruments is commonly used in soca music?",
     "options": [
-      "Jamaica",
-      "Barbados",
-      "Trinidad and Tobago",
-      "Guyana"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a chordophone instrument?",
-    "options": [
-      "Flute",
-      "Steel pan",
+      "Steelpan",
+      "Drums",
       "Guitar",
-      "Snare drum"
+      "Piano"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "In music notation, a dot placed after a note increases its value by:",
+    "question": "In aural skills, what is the process of identifying and describing the form of a musical passage?",
     "options": [
-      "Double the original value",
-      "One quarter of its original value",
-      "Half of its original value",
-      "Two thirds of its original value"
+      "Form analysis",
+      "Texture analysis",
+      "Melody analysis",
+      "Rhythm analysis"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "The term 'forte' in music means:",
+    "question": "In music notation, what is the term for the vertical arrangement of notes on the staff?",
     "options": [
-      "Soft",
-      "Very soft",
-      "Loud",
-      "Very loud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cadence consists of chords IV moving to chord I?",
-    "options": [
-      "Perfect cadence",
-      "Imperfect cadence",
-      "Plagal cadence",
-      "Interrupted cadence"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Mento is a folk music genre that originated in which Caribbean island?",
-    "options": [
-      "Trinidad",
-      "Barbados",
-      "Haiti",
-      "Jamaica"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the Italian term 'ritardando' instruct the performer to do?",
-    "options": [
-      "Play faster",
-      "Play louder",
-      "Play softer",
-      "Gradually slow down"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following scales contains only whole tones with no semitones?",
-    "options": [
-      "Major scale",
-      "Natural minor scale",
-      "Whole tone scale",
-      "Pentatonic scale"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The steelpan is classified as which type of instrument according to the Hornbostel-Sachs system?",
-    "options": [
-      "Chordophone",
-      "Aerophone",
-      "Membranophone",
-      "Idiophone"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A piece marked 'Allegro' should be performed at which tempo?",
-    "options": [
-      "Very slow",
-      "Slow and stately",
-      "Fast and lively",
-      "Very fast"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following intervals is found between the first and third degrees of a major scale?",
-    "options": [
-      "Minor third",
-      "Major third",
-      "Perfect fourth",
-      "Augmented second"
+      "Staff notation",
+      "Staff",
+      "Score",
+      "Sheet music"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In reggae music, the characteristic guitar or keyboard rhythmic pattern played on the offbeats is called the:",
+    "question": "In music notation, what does the symbol 'piano' indicate?",
     "options": [
-      "Riddim",
-      "Skank",
-      "Dub",
-      "Drop"
+      "Loud dynamics",
+      "Crescendo dynamic",
+      "Soft dynamics",
+      "Sforzando dynamic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in reggae music?",
+    "options": [
+      "Steelpan",
+      "Drums",
+      "Bass guitar",
+      "Piano"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "In aural skills, what is the process of identifying and writing down musical notes that are heard?",
+    "options": [
+      "Dictation exercise",
+      "Sing-back exercise",
+      "Ear training exercise",
+      "Improvisation exercise"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In music notation, what does the symbol 'ritard.' indicate?",
+    "options": [
+      "Volume increase",
+      "Increasing tempo",
+      "Decreasing tempo",
+      "Sudden change in pitch"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in reggae music?",
+    "options": [
+      "Steelpan",
+      "Piano",
+      "Drums",
+      "Bass guitar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following musical instruments is commonly used in soca music?",
+    "options": [
+      "Steelpan",
+      "Drums",
+      "Guitar",
+      "Piano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following musical forms is characterized by a series of contrasting sections?",
+    "options": [
+      "Sonata form",
+      "Rondo form",
+      "Theme and Variations form",
+      "Fugue form"
+    ],
+    "correctIndex": 0
   }
 ]

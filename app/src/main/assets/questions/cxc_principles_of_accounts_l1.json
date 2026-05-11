@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following best describes 'bookkeeping'?",
+    "question": "What is the term for the process of valuing a business's assets at their net realizable value?",
     "options": [
-      "The process of recording financial transactions",
-      "The process of auditing a business",
-      "The process of managing employees",
-      "The process of calculating taxes"
+      "Accumulation",
+      "Amortization",
+      "Depreciation",
+      "Obsolescence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of preparing financial statements in accordance with the matching principle?",
+    "options": [
+      "Going concern",
+      "Matching principle",
+      "Consistency",
+      "Materiality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a type of partnership where all partners have equal ownership and decision-making power?",
+    "options": [
+      "Limited liability partnership",
+      "Joint venture",
+      "General partnership",
+      "Limited partnership"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for a transaction that affects only one party in a business relationship?",
+    "options": [
+      "Single-entry transaction",
+      "Monetary transaction",
+      "Double-entry transaction",
+      "Non-monetary transaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the process of recording and classifying financial transactions in a business?",
+    "options": [
+      "Auditing",
+      "Taxation",
+      "Bookkeeping",
+      "Accounting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of preparing financial statements in accordance with the accrual basis of accounting?",
+    "options": [
+      "Matching principle",
+      "Accrual basis of accounting",
+      "Cash basis of accounting",
+      "Materiality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a characteristic of a partnership?",
+    "options": [
+      "Limited liability",
+      "Ownership by one individual",
+      "Separate legal entity",
+      "Ownership by two or more individuals"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following financial ratios is used to measure a business's efficiency?",
+    "options": [
+      "Current ratio",
+      "Debt ratio",
+      "Asset turnover ratio",
+      "Return on equity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following financial statements provides a summary of a business's revenues and expenses over a specific period?",
+    "options": [
+      "Statement of cash flows",
+      "Statement of changes in equity",
+      "Income statement",
+      "Balance sheet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of preparing a Trial Balance?",
+    "options": [
+      "To adjust entries",
+      "To prepare the financial statements",
+      "To test the equality of debits and credits",
+      "To record transactions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following financial ratios is used to measure a business's liquidity?",
+    "options": [
+      "Asset turnover ratio",
+      "Return on equity",
+      "Current ratio",
+      "Debt ratio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the process of recording and reporting a business's transactions in accordance with Generally Accepted Accounting Principles (GAAP)?",
+    "options": [
+      "Taxation",
+      "Auditing",
+      "Bookkeeping",
+      "Accounting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a business owned by two or more individuals?",
+    "options": [
+      "Partnership",
+      "Sole proprietorship",
+      "Corporation",
+      "Company"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the accounting equation?",
+    "question": "What is the term for a business's ability to pay its debts as they become due?",
     "options": [
-      "Assets = Liabilities + Capital",
-      "Assets = Liabilities - Capital",
-      "Assets + Liabilities = Capital",
-      "Capital = Assets + Liabilities"
+      "Profitability",
+      "Liquidity",
+      "Solvency",
+      "Efficiency"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a current asset?",
+    "question": "What is the term for a business owned by shareholders who have limited liability?",
     "options": [
-      "Cash at bank",
-      "Motor vehicle",
-      "Land",
-      "Machinery"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A debtor is a person who:",
-    "options": [
-      "Owes money to the business",
-      "The business owes money to",
-      "Lends money to the bank",
-      "Owns shares in the business"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which book of original entry is used to record credit sales?",
-    "options": [
-      "Sales day book",
-      "Purchases day book",
-      "Cash book",
-      "Journal"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The balance sheet shows:",
-    "options": [
-      "The financial position of a business at a specific date",
-      "The profit or loss of a business over a period",
-      "The cash received and paid by a business",
-      "The total sales made by a business"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a liability?",
-    "options": [
-      "Loan from bank",
-      "Stock",
-      "Debtors",
-      "Furniture"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Gross profit is calculated as:",
-    "options": [
-      "Sales minus Cost of Goods Sold",
-      "Sales minus all expenses",
-      "Net profit plus expenses",
-      "Revenue plus Capital"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which account is credited when goods are sold on credit?",
-    "options": [
-      "Sales account",
-      "Purchases account",
-      "Debtor account",
-      "Cash account"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What does the term 'capital' mean in accounting?",
-    "options": [
-      "The amount invested by the owner in the business",
-      "The total sales of the business",
-      "The total expenses of the business",
-      "The money owed to suppliers"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A petty cash book is used to record:",
-    "options": [
-      "Small everyday cash payments",
-      "Large credit transactions",
-      "Bank deposits",
-      "Sales invoices"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an example of a fixed asset?",
-    "options": [
-      "Buildings",
-      "Stock",
-      "Debtors",
-      "Bank balance"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Trade discount is:",
-    "options": [
-      "A reduction in price given to customers at the time of sale",
-      "Interest charged on late payments",
-      "A reward for early payment",
-      "A tax on goods sold"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The document sent by a seller to a buyer showing details of goods sold on credit is called a:",
-    "options": [
-      "Invoice",
-      "Receipt",
-      "Credit note",
-      "Cheque"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Net profit is calculated as:",
-    "options": [
-      "Gross profit minus expenses",
-      "Sales minus purchases",
-      "Total assets minus liabilities",
-      "Capital plus drawings"
+      "Company",
+      "Partnership",
+      "Corporation",
+      "Sole proprietorship"
     ],
     "correctIndex": 0
   }

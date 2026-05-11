@@ -1,152 +1,152 @@
 [
   {
-    "question": "A car accelerates uniformly from rest and reaches a velocity of 20 m/s in 5 seconds. What is the acceleration of the car?",
+    "question": "A block of mass 10 kg is moving with a velocity of 5 m/s. What is its kinetic energy?",
     "options": [
-      "2 m/s\u00b2",
-      "4 m/s\u00b2",
-      "5 m/s\u00b2",
-      "10 m/s\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the term 'power' in physics?",
-    "options": [
-      "The total energy stored in a system",
-      "The rate at which work is done",
-      "The force applied over a distance",
-      "The product of mass and acceleration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A wave has a frequency of 50 Hz and a wavelength of 4 m. What is the speed of the wave?",
-    "options": [
-      "12.5 m/s",
-      "54 m/s",
-      "200 m/s",
-      "0.08 m/s"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "An object of mass 5 kg is placed on a surface. If the gravitational field strength is 10 N/kg, what is the weight of the object?",
-    "options": [
-      "2 N",
-      "0.5 N",
-      "50 N",
-      "500 N"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of electromagnetic wave has the shortest wavelength?",
-    "options": [
-      "Radio waves",
-      "Visible light",
-      "X-rays",
-      "Gamma rays"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A resistor of 10 \u03a9 is connected to a 20 V battery. What current flows through the resistor?",
-    "options": [
-      "0.5 A",
-      "2 A",
-      "200 A",
-      "30 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The principle of conservation of energy states that energy can be:",
-    "options": [
-      "Created but not destroyed",
-      "Destroyed but not created",
-      "Neither created nor destroyed, only transformed",
-      "Created and destroyed in equal amounts"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What happens to the pressure of a fixed mass of gas if its volume is halved while temperature remains constant?",
-    "options": [
-      "Pressure is halved",
-      "Pressure doubles",
-      "Pressure remains the same",
-      "Pressure is quadrupled"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A block of mass 2 kg is lifted to a height of 5 m. What is the gain in gravitational potential energy? (g = 10 N/kg)",
-    "options": [
-      "10 J",
-      "25 J",
-      "100 J",
-      "1000 J"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which phenomenon explains why a straw appears bent when placed in a glass of water?",
-    "options": [
-      "Reflection of light",
-      "Diffraction of light",
-      "Refraction of light",
-      "Dispersion of light"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Two resistors of 6 \u03a9 and 3 \u03a9 are connected in parallel. What is their combined resistance?",
-    "options": [
-      "9 \u03a9",
-      "2 \u03a9",
-      "18 \u03a9",
-      "0.5 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a scalar quantity?",
-    "options": [
-      "Velocity",
-      "Force",
-      "Momentum",
-      "Speed"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A magnet is moved into a coil of wire. Which of the following best describes what happens?",
-    "options": [
-      "A current is induced in the coil",
-      "The coil becomes permanently magnetized",
-      "No effect is observed",
-      "The magnet loses its magnetism"
+      "125 J",
+      "50 J",
+      "300 J",
+      "200 J"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which change of state occurs when a substance goes directly from solid to gas without passing through the liquid phase?",
+    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 15 meters in 7.5 seconds, what is its acceleration?",
     "options": [
-      "Evaporation",
-      "Condensation",
-      "Sublimation",
-      "Melting"
+      "no acceleration",
+      "1 m/s^2",
+      "0.2 m/s^2",
+      "10 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A resistor of 10 ohms is connected in parallel with a resistor of 20 ohms. What is the equivalent resistance of the circuit?",
+    "options": [
+      "0 ohms",
+      "20 ohms",
+      "6.67 ohms",
+      "10 ohms"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the half-life of a radioactive sample if its activity drops from 800 Bq to 100 Bq in 12 years?",
+    "question": "A body is moving with uniform acceleration of 2 m/s^2. If its initial velocity is 5 m/s, what is its velocity after 3 seconds?",
     "options": [
-      "2 years",
-      "3 years",
-      "4 years",
-      "6 years"
+      "5 m/s",
+      "7 m/s",
+      "3 m/s",
+      "13 m/s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving with uniform acceleration of 2 m/s^2. If it travels a distance of 10 meters in 2 seconds, what is its initial velocity?",
+    "options": [
+      "4 m/s",
+      "0 m/s",
+      "2 m/s",
+      "1 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 5 Farad capacitor is connected in series with a 5 Farad capacitor. What is the equivalent capacitance of the circuit?",
+    "options": [
+      "2.5 Farads",
+      "0 Farads",
+      "10 Farads",
+      "5 Farads"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wave has a speed of 50 m/s and a frequency of 20 Hz. What is its period?",
+    "options": [
+      "0.0025 s",
+      "0.05 s",
+      "0.00025 s",
+      "0.025 s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A resistor of 5 ohms is connected in parallel with a resistor of 10 ohms. What is the equivalent resistance of the circuit?",
+    "options": [
+      "2.5 ohms",
+      "10 ohms",
+      "0 ohms",
+      "5 ohms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A resistor of 5 ohms is connected in parallel with a capacitor of 5 Farads. What is the reactance of the circuit?",
+    "options": [
+      "3180 ohms",
+      "5 ohms",
+      "0 ohms",
+      "318 ohms"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A block of mass 5 kg is moving with a velocity of 10 m/s. What is its potential energy?",
+    "options": [
+      "25 J",
+      "0 J",
+      "50 J",
+      "no information"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the unit of temperature in the Celsius Scale?",
+    "options": [
+      "F",
+      "\u00b0C",
+      "K",
+      "R"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor. What is the reactance of the circuit?",
+    "options": [
+      "318 ohms",
+      "0 ohms",
+      "5 ohms",
+      "3180 ohms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 10 ohm resistor is connected in series with a 5 Farad capacitor. What is the equivalent resistance of the circuit?",
+    "options": [
+      "5 ohms",
+      "0 ohms",
+      "10 ohms",
+      "10 Farads"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The energy of a photon emitted by a hydrogen atom is 1.8 x 10^-19 J. What is its wavelength?",
+    "options": [
+      "6.94 x 10^-6 m",
+      "6.94 x 10^-9 m",
+      "6.94 x 10^-7 m",
+      "6.94 x 10^-8 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A body is moving with uniform velocity of 2 m/s. If it travels a distance of 20 meters in 10 seconds, what is its acceleration?",
+    "options": [
+      "10 m/s^2",
+      "no acceleration",
+      "1 m/s^2",
+      "0.2 m/s^2"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the SI unit of force?",
+    "question": "What is the term for the type of current that flows in a conductor when there is a potential difference between two points?",
     "options": [
-      "Joule",
-      "Newton",
-      "Watt",
-      "Pascal"
+      "Electromotive Force",
+      "Electric Potential",
+      "Electric Current",
+      "Electric Field"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the unit of electric charge in the International System of Units (SI)?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Ohm",
+      "Volt"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a vector quantity?",
+    "question": "What is the unit of magnetomotive force in the International System of Units (SI)?",
     "options": [
-      "Speed",
-      "Mass",
-      "Temperature",
-      "Velocity"
+      "Tesla",
+      "Watt",
+      "Ampere-turn",
+      "Henry"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the type of magnetism that is caused by the alignment of atomic dipoles in a material?",
+    "options": [
+      "Paramagnetism",
+      "Diamagnetism",
+      "Magnetization",
+      "Ferromagnetism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "500,000,000 m/s",
+      "300,000,000 m/s",
+      "400,000,000 m/s",
+      "200,000,000 m/s"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the measure of how much a material expands or contracts when it is heated or cooled?",
+    "options": [
+      "Volume Expansion",
+      "Thermal Expansion",
+      "Area Expansion",
+      "Linear Expansion"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What type of energy does a moving car possess?",
+    "question": "What is the term for the energy required to remove an electron from an atom?",
     "options": [
-      "Potential energy",
-      "Chemical energy",
-      "Kinetic energy",
-      "Nuclear energy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the formula for calculating speed?",
-    "options": [
-      "Speed = Distance \u00d7 Time",
-      "Speed = Distance / Time",
-      "Speed = Time / Distance",
-      "Speed = Force \u00d7 Distance"
+      "Bond Dissociation Energy",
+      "Ionization Energy",
+      "Electron Binding Energy",
+      "Electron Affinity"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which instrument is used to measure electric current?",
+    "question": "What is the term for the measure of how much a material is attracted to a magnet?",
     "options": [
-      "Voltmeter",
-      "Barometer",
-      "Ammeter",
-      "Thermometer"
+      "Magnetic Field Strength",
+      "Magnetic Permeability",
+      "Magnetic Susceptibility",
+      "Magnetic Moment"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What happens to the resistance of a metallic conductor as its temperature increases?",
+    "question": "A car accelerates from 0 to 60 km/h in 10 seconds. What is the acceleration of the car?",
     "options": [
-      "Resistance decreases",
-      "Resistance stays the same",
-      "Resistance increases",
-      "Resistance becomes zero"
+      "4 m/s\u00b2",
+      "2 m/s\u00b2",
+      "6 m/s\u00b2",
+      "10 m/s\u00b2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is NOT a form of electromagnetic radiation?",
+    "question": "What is the unit of electric resistance in the International System of Units (SI)?",
     "options": [
-      "X-rays",
-      "Gamma rays",
-      "Sound waves",
-      "Ultraviolet rays"
+      "Watt",
+      "Ohm",
+      "Ampere",
+      "Volt"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is the unit of electrical resistance?",
+    "question": "What is the unit of electric potential difference in the International System of Units (SI)?",
     "options": [
       "Ampere",
       "Volt",
-      "Ohm",
-      "Watt"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A solid expands when heated because its particles",
-    "options": [
-      "lose energy and move closer",
-      "gain energy and vibrate more",
-      "change state and become liquid",
-      "decrease in number"
+      "Watt",
+      "Ohm"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of mirror is used in car headlights to produce a parallel beam of light?",
+    "question": "What is the unit of temperature in the International System of Units (SI)?",
     "options": [
-      "Concave mirror",
-      "Plane mirror",
-      "Convex mirror",
-      "Curved glass lens"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the gravitational field strength on Earth approximately equal to?",
-    "options": [
-      "5 N/kg",
-      "10 N/kg",
-      "15 N/kg",
-      "20 N/kg"
+      "Celsius",
+      "Kelvin",
+      "Fahrenheit",
+      "Rankine"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes an insulator?",
+    "question": "What is the term for the measure of how much a material resists changes in temperature?",
     "options": [
-      "A material that allows current to flow easily",
-      "A material that stores electrical charge",
-      "A material that does not allow current to flow easily",
-      "A material that generates electricity"
+      "Heat Capacity",
+      "Thermal Expansion",
+      "Thermal Conductivity",
+      "Specific Heat Capacity"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "The bending of light as it passes from one medium to another is called",
+    "question": "What is the term for the type of conduction that occurs when a material is heated from the outside in?",
     "options": [
-      "Reflection",
-      "Diffraction",
-      "Refraction",
-      "Dispersion"
+      "Diffusion",
+      "Conduction",
+      "Radiation",
+      "Convection"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What does the nucleus of an atom contain?",
+    "question": "What is the unit of magnetic field strength in the International System of Units (SI)?",
     "options": [
-      "Only electrons",
-      "Protons and neutrons",
-      "Only neutrons",
-      "Electrons and protons"
+      "Henry",
+      "Ampere-turn",
+      "Volt",
+      "Tesla"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a renewable source of energy?",
-    "options": [
-      "Coal",
-      "Natural gas",
-      "Solar energy",
-      "Petroleum"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

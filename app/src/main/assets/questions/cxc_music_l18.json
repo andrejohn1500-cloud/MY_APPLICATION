@@ -1,151 +1,31 @@
 [
   {
-    "question": "Which compositional technique involves a melody being stated in one voice and then imitated at a different pitch level in a subsequent voice?",
+    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the third beat of each measure. What is the term for this rhythmic pattern?",
     "options": [
-      "Augmentation",
-      "Canon",
-      "Inversion",
-      "Retrograde"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Caribbean music, the term 'riddim' most closely refers to which musical element?",
-    "options": [
-      "A vocal improvisation technique",
-      "An instrumental backing track used for multiple songs",
-      "A type of steel pan tuning",
-      "A specific drum pattern used only in calypso"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Trinidadian Parang tradition has its roots primarily in which cultural influence?",
-    "options": [
-      "African",
-      "Indigenous Amerindian",
-      "Spanish Venezuelan",
-      "French Creole"
+      "compound meter",
+      "duple meter",
+      "triple meter",
+      "simple meter"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which form is characterized by a repeated harmonic or melodic pattern in the bass over which variations are composed?",
+    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the first beat of each measure. What is the term for this rhythmic pattern?",
     "options": [
-      "Rondo",
-      "Ground bass (Basso Ostinato)",
-      "Through-composed",
-      "Ternary"
+      "simple meter",
+      "duple meter",
+      "compound meter",
+      "triple meter"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In tonal harmony, a Neapolitan sixth chord is built on which scale degree?",
+    "question": "The use of a single melodic line accompanied by a chord progression is an example of which type of harmony?",
     "options": [
-      "The flattened second degree",
-      "The raised fourth degree",
-      "The flattened sixth degree",
-      "The raised seventh degree"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The rhythmic concept of 'hemiola' in Caribbean music describes which of the following?",
-    "options": [
-      "The simultaneous use of two different tempos",
-      "A shift between duple and triple groupings of beats",
-      "A sustained note held across a bar line",
-      "The acceleration of tempo toward the end of a phrase"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the structure of a 'Rondo' form?",
-    "options": [
-      "A-B-A",
-      "A-B-A-C-A",
-      "A-B-C-D",
-      "Verse-Chorus-Bridge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Jamaican mento music, which instrument typically provides the rhythmic and harmonic foundation alongside the banjo?",
-    "options": [
-      "The kette drum",
-      "The rhumba box (marimbula)",
-      "The steel pan",
-      "The cuatro"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Modal mixture (borrowing) in tonal music refers to which practice?",
-    "options": [
-      "Modulating permanently to a new key",
-      "Using chords from the parallel major or minor mode",
-      "Combining two different time signatures simultaneously",
-      "Transposing a theme to the dominant key"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which Caribbean musical form traditionally uses call-and-response between a lead singer (chantwell) and a chorus?",
-    "options": [
-      "Soca",
-      "Calypso",
-      "Dancehall",
-      "Chutney"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In music analysis, the term 'sequence' refers to which of the following?",
-    "options": [
-      "The repetition of a melodic or harmonic pattern at a different pitch level",
-      "The gradual increase in dynamic level over several bars",
-      "A type of cadence that ends on the dominant",
-      "The simultaneous performance of two contrasting melodies"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The process of writing music for an orchestra from a piano score is known as what?",
-    "options": [
-      "Transcription",
-      "Reduction",
-      "Orchestration",
-      "Harmonisation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following time signatures would produce a compound duple metre?",
-    "options": [
-      "3/4",
-      "4/4",
-      "6/8",
-      "9/8"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of the CXC Music syllabus, which describes 'word painting' as used in Renaissance choral music?",
-    "options": [
-      "The use of text printed on the score page to guide performers",
-      "Musical techniques that reflect the literal meaning or imagery of the text",
-      "A system of solfege syllables matched to written words",
-      "The practice of setting sacred texts only in Latin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A secondary dominant chord (V/V) in the key of C major would be which chord?",
-    "options": [
-      "F major",
-      "A major",
-      "D major",
-      "B diminished"
+      "polyphony",
+      "monophony",
+      "homophony",
+      "heterophony"
     ],
     "correctIndex": 2
   }

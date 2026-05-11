@@ -1,152 +1,42 @@
 [
   {
-    "question": "\u00bfCu\u00e1l de las siguientes oraciones utiliza correctamente el subjuntivo en una cl\u00e1usula de tiempo?",
+    "question": "Translate the sentence into Spanish. El museo est\u00e1 abierto los lunes.",
     "options": [
-      "Cuando llegu\u00e9 a casa, com\u00ed la cena.",
-      "Cuando llegue a casa, comer\u00e9 la cena.",
-      "Cuando llegaba a casa, com\u00eda la cena.",
-      "Cuando llegu\u00e9 a casa, comer\u00e9 la cena."
+      "El museo est\u00e1 abierto todos los d\u00edas.",
+      "El museo est\u00e1 abierto los lunes.",
+      "El museo est\u00e1 abierto el lunes.",
+      "El museo est\u00e1 abierto los martes."
     ],
     "correctIndex": 1
   },
   {
-    "question": "Selecciona la forma correcta del condicional perfecto: 'Si hubiera estudiado m\u00e1s, ________ el examen.'",
+    "question": "Choose the correct response. What is the name of the famous author from Colombia?",
     "options": [
-      "habr\u00eda aprobado",
-      "hubiera aprobado",
-      "habr\u00e1 aprobado",
-      "aprobar\u00eda"
+      "A Jorge Luis Borges",
+      "C Pablo Neruda",
+      "B Gabriel Garc\u00eda M\u00e1rquez",
+      "D Mario Vargas Llosa"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "\u00bfCu\u00e1l es el significado de la expresi\u00f3n idiom\u00e1tica 'no hay mal que por bien no venga'?",
-    "options": [
-      "Todo lo malo es permanente.",
-      "Cada situaci\u00f3n negativa puede tener un resultado positivo.",
-      "No se debe esperar lo bueno en la vida.",
-      "El bien y el mal son iguales."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l de los siguientes verbos es irregular en el pret\u00e9rito indefinido?",
+    "question": "Identify the correct form of the pronoun in parentheses. Ella (hablar) con su amigo.",
     "options": [
       "hablar",
-      "caminar",
-      "poder",
-      "escuchar"
+      "hablar\u00e1",
+      "habla",
+      "hablara"
     ],
     "correctIndex": 2
   },
   {
-    "question": "En la oraci\u00f3n 'Lo hice para que t\u00fa pudieras entender', \u00bfqu\u00e9 modo verbal se utiliza en la cl\u00e1usula subordinada?",
+    "question": "Translate the sentence into English. La ciudad tiene un rico patrimonio cultural.",
     "options": [
-      "Indicativo",
-      "Imperativo",
-      "Subjuntivo",
-      "Condicional"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l es la diferencia principal entre 'ser' y 'estar' en espa\u00f1ol?",
-    "options": [
-      "'Ser' indica estados temporales y 'estar' indica caracter\u00edsticas permanentes.",
-      "'Ser' indica caracter\u00edsticas permanentes o esenciales y 'estar' indica estados temporales o condiciones.",
-      "Ambos verbos son intercambiables en todos los contextos.",
-      "'Ser' se usa solo con adjetivos y 'estar' se usa solo con sustantivos."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes frases contiene un pronombre de objeto indirecto correctamente colocado?",
-    "options": [
-      "Yo le compr\u00e9 un regalo a Mar\u00eda.",
-      "Yo lo compr\u00e9 a Mar\u00eda un regalo.",
-      "Yo compr\u00e9 le un regalo a Mar\u00eda.",
-      "Yo a Mar\u00eda compr\u00e9 un regalo le."
+      "The city has a rich cultural heritage.",
+      "The city has a rich history.",
+      "The city has a cultural heritage.",
+      "The city has a cultural identity."
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "Selecciona la traducci\u00f3n correcta de 'Although she was tired, she continued working.'",
-    "options": [
-      "Aunque estaba cansada, continu\u00f3 trabajando.",
-      "Porque estaba cansada, continu\u00f3 trabajando.",
-      "Si estaba cansada, continu\u00f3 trabajando.",
-      "Cuando estaba cansada, continu\u00f3 trabajando."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "\u00bfCu\u00e1l es la forma correcta del pluscuamperfecto de subjuntivo para 'ellos'?",
-    "options": [
-      "hab\u00edan tenido",
-      "hubieran tenido",
-      "habr\u00edan tenido",
-      "hayan tenido"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "En el texto literario del Siglo de Oro espa\u00f1ol, \u00bfqu\u00e9 figura ret\u00f3rica se describe como la repetici\u00f3n de una misma estructura sint\u00e1ctica en versos o frases consecutivas?",
-    "options": [
-      "Met\u00e1fora",
-      "Hip\u00e9rbole",
-      "An\u00e1fora",
-      "Sin\u00e9cdoque"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes palabras es un falso cognado entre el ingl\u00e9s y el espa\u00f1ol?",
-    "options": [
-      "hospital",
-      "animal",
-      "embarazada",
-      "natural"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Completa la oraci\u00f3n con la preposici\u00f3n correcta: 'Insisti\u00f3 ________ que le devolvieran el dinero.'",
-    "options": [
-      "para",
-      "con",
-      "en",
-      "por"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes opciones describe correctamente el uso del 'se' impersonal?",
-    "options": [
-      "Se usa para indicar acciones reflexivas.",
-      "Se usa para expresar acciones realizadas por un sujeto indefinido o desconocido.",
-      "Se usa exclusivamente con verbos de movimiento.",
-      "Se usa para indicar acciones rec\u00edprocas entre dos personas."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "En la literatura hispanoamericana, \u00bfcu\u00e1l de los siguientes autores es conocido como representante del realismo m\u00e1gico?",
-    "options": [
-      "Federico Garc\u00eda Lorca",
-      "Gabriel Garc\u00eda M\u00e1rquez",
-      "Miguel de Cervantes",
-      "Francisco de Quevedo"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l de las siguientes oraciones demuestra el uso correcto del 'futuro de probabilidad'?",
-    "options": [
-      "Ma\u00f1ana ir\u00e9 al mercado.",
-      "Habr\u00e1 llegado tarde porque el tr\u00e1fico era horrible.",
-      "Cuando llegue, te llamar\u00e9.",
-      "Si estudias, pasar\u00e1s el examen."
-    ],
-    "correctIndex": 1
   }
 ]

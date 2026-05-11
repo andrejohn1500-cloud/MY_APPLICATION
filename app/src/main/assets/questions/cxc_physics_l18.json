@@ -1,152 +1,72 @@
 [
   {
-    "question": "A satellite orbits Earth at a height where the gravitational field strength is 4.5 N/kg. If the radius of Earth is 6.4 \u00d7 10\u2076 m and the satellite's orbital radius is 8.0 \u00d7 10\u2076 m, what is the orbital speed of the satellite?",
+    "question": "A body is thrown upward from the surface of the Earth with an initial velocity of 20 m/s. Assuming that air resistance is negligible, what is the time taken for the body to reach its maximum height?",
     "options": [
-      "A. 6000 m/s",
-      "B. 5367 m/s",
-      "C. 7200 m/s",
-      "D. 4500 m/s"
+      "3 s",
+      "4 s",
+      "1 s",
+      "2 s"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A nucleus of uranium-238 undergoes alpha decay to form thorium-234. Which statement correctly describes the changes in the nucleus?",
+    "question": "A 50 Hz tuning fork is held near a stationary string. What is the frequency of the second harmonic produced?",
     "options": [
-      "A. The atomic number decreases by 2 and the mass number decreases by 4",
-      "B. The atomic number decreases by 4 and the mass number decreases by 2",
-      "C. The atomic number increases by 2 and the mass number decreases by 4",
-      "D. The atomic number decreases by 2 and the mass number remains unchanged"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A wire of length 2 m and cross-sectional area 4 \u00d7 10\u207b\u2076 m\u00b2 has a resistance of 0.5 \u03a9. What is the resistivity of the material?",
-    "options": [
-      "A. 1.0 \u00d7 10\u207b\u2076 \u03a9\u00b7m",
-      "B. 2.5 \u00d7 10\u207b\u2077 \u03a9\u00b7m",
-      "C. 1.0 \u00d7 10\u207b\u2077 \u03a9\u00b7m",
-      "D. 4.0 \u00d7 10\u207b\u2076 \u03a9\u00b7m"
+      "100 Hz",
+      "150 Hz",
+      "50 Hz",
+      "200 Hz"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A transformer has 500 turns on its primary coil and 2000 turns on its secondary coil. If the primary is connected to a 240 V AC supply and the transformer is 90% efficient, what is the power delivered to a load drawing 2 A from the secondary?",
+    "question": "A 10 kg object is moving with a constant acceleration of 2 m/s^2. What is its velocity after 3 seconds?",
     "options": [
-      "A. 1920 W",
-      "B. 1728 W",
-      "C. 960 W",
-      "D. 2133 W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Two point charges of +3 \u03bcC and \u22123 \u03bcC are placed 0.6 m apart. What is the magnitude of the electric force between them? (k = 9 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2)",
-    "options": [
-      "A. 0.225 N",
-      "B. 2.25 \u00d7 10\u207b\u00b9 N",
-      "C. 2.25 \u00d7 10\u207b\u2074 N",
-      "D. 22.5 N"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A gas expands isothermally at 300 K from a volume of 2 L to 6 L. If the initial pressure is 300 kPa, what is the final pressure?",
-    "options": [
-      "A. 900 kPa",
-      "B. 150 kPa",
-      "C. 100 kPa",
-      "D. 200 kPa"
+      "12 m/s",
+      "10 m/s",
+      "9 m/s",
+      "6 m/s"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A photon has a frequency of 6 \u00d7 10\u00b9\u2074 Hz. What is its energy? (h = 6.63 \u00d7 10\u207b\u00b3\u2074 J\u00b7s)",
+    "question": "A 2 kg block is lifted to a height of 10 m. What is its potential energy?",
     "options": [
-      "A. 3.98 \u00d7 10\u207b\u00b9\u2079 J",
-      "B. 6.63 \u00d7 10\u207b\u00b2\u2070 J",
-      "C. 1.10 \u00d7 10\u207b\u00b2\u2077 J",
-      "D. 9.05 \u00d7 10\u207b\u00b9\u2079 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "An object is placed 30 cm from a converging lens of focal length 10 cm. Where is the image formed and what is its nature?",
-    "options": [
-      "A. 15 cm on the same side as the object; virtual and upright",
-      "B. 15 cm on the opposite side; real and inverted",
-      "C. 20 cm on the same side; virtual and magnified",
-      "D. 15 cm on the opposite side; virtual and upright"
+      "220 J",
+      "200 J",
+      "180 J",
+      "240 J"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A body of mass 5 kg moving at 10 m/s collides and sticks to a stationary body of mass 15 kg. What is the kinetic energy lost in the collision?",
+    "question": "A wave has a frequency of 50 Hz and a wavelength of 0.4 m. What is its wave speed?",
     "options": [
-      "A. 375 J",
-      "B. 125 J",
-      "C. 500 J",
-      "D. 250 J"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly explains why a p-n junction diode allows current in only one direction?",
-    "options": [
-      "A. In forward bias, the depletion region widens, allowing holes and electrons to combine",
-      "B. In forward bias, the depletion region narrows, enabling charge carriers to cross the junction",
-      "C. In reverse bias, the depletion region narrows, preventing current flow",
-      "D. In forward bias, the external field reverses the internal field completely eliminating the junction"
+      "25 m/s",
+      "20 m/s",
+      "22 m/s",
+      "18 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A standing wave is formed in a closed pipe of length 0.85 m. What is the frequency of the third harmonic if the speed of sound is 340 m/s?",
+    "question": "A 10 m length of copper wire has a resistance of 2 ohms. What is the current flowing through the wire when a potential difference of 20 V is applied across it?",
     "options": [
-      "A. 200 Hz",
-      "B. 300 Hz",
-      "C. 600 Hz",
-      "D. 400 Hz"
+      "12 A",
+      "8 A",
+      "15 A",
+      "10 A"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "A proton moves with velocity 3 \u00d7 10\u2076 m/s perpendicular to a magnetic field of 0.2 T. What is the radius of its circular path? (mass of proton = 1.67 \u00d7 10\u207b\u00b2\u2077 kg, charge = 1.6 \u00d7 10\u207b\u00b9\u2079 C)",
+    "question": "A 10 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
     "options": [
-      "A. 0.157 m",
-      "B. 0.313 m",
-      "C. 0.094 m",
-      "D. 0.628 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The half-life of a radioactive isotope is 5 years. What fraction of the original sample remains after 20 years?",
-    "options": [
-      "A. 1/8",
-      "B. 1/4",
-      "C. 1/16",
-      "D. 1/32"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A charge of 4 C moves through a potential difference of 12 V in 3 seconds. What is the power dissipated?",
-    "options": [
-      "A. 48 W",
-      "B. 16 W",
-      "C. 144 W",
-      "D. 12 W"
+      "40 J",
+      "25 J",
+      "30 J",
+      "20 J"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which phenomenon provides evidence that light has a wave nature AND a particle nature respectively?",
-    "options": [
-      "A. Diffraction and the photoelectric effect",
-      "B. Refraction and interference",
-      "C. Polarisation and diffraction",
-      "D. The photoelectric effect and refraction"
-    ],
-    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "\u00bfC\u00f3mo se dice 'hello' en espa\u00f1ol?",
+    "question": "What is the name of the famous Spanish novel by Camilo Jos\u00e9 Cela?",
     "options": [
-      "Adi\u00f3s",
+      "La familia de Pascual Duarte",
+      "El hacha",
+      "La sombra del cipr\u00e9s",
+      "La estatua del comendador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the Spanish word for 'hello'?",
+    "options": [
       "Hola",
+      "Buenas noches",
       "Gracias",
-      "Por favor"
+      "Buenos d\u00edas"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "\u00bfCu\u00e1l es el art\u00edculo definido masculino singular en espa\u00f1ol?",
+    "question": "The verb 'to live' in the present tense is...",
     "options": [
-      "La",
-      "Los",
-      "El",
-      "Las"
+      "Vivo",
+      "Vives",
+      "Vivimos",
+      "Vive"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "\u00bfC\u00f3mo se dice 'I am hungry' en espa\u00f1ol?",
+    "question": "What is the Spanish word for 'university'?",
     "options": [
-      "Tengo sed",
-      "Tengo fr\u00edo",
-      "Tengo hambre",
-      "Tengo sue\u00f1o"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfQu\u00e9 significa 'la biblioteca'?",
-    "options": [
-      "The bookstore",
-      "The school",
-      "The library",
-      "The office"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l es la forma correcta del verbo 'hablar' para 'yo' en el presente?",
-    "options": [
-      "Hablas",
-      "Hablo",
-      "Habla",
-      "Hablan"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'Wednesday' en espa\u00f1ol?",
-    "options": [
-      "Martes",
-      "Jueves",
-      "Lunes",
-      "Mi\u00e9rcoles"
+      "Instituto",
+      "Escuela",
+      "Colegio",
+      "Universidad"
     ],
     "correctIndex": 3
   },
   {
-    "question": "\u00bfQu\u00e9 significa 'rojo'?",
+    "question": "The verb 'to be' in the present tense for 'he is' is...",
     "options": [
-      "Blue",
-      "Green",
-      "Red",
-      "Yellow"
+      "Soy",
+      "Es",
+      "Somos",
+      "Eres"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Spanish word for 'beach'?",
+    "options": [
+      "Parque",
+      "Paseo",
+      "Playa",
+      "Pueblo"
     ],
     "correctIndex": 2
   },
   {
-    "question": "\u00bfCu\u00e1l de estas palabras es un n\u00famero ordinal?",
+    "question": "The Spanish word for 'to write' is...",
     "options": [
-      "Cinco",
-      "Primero",
-      "Veinte",
-      "Cien"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'my mother' en espa\u00f1ol?",
-    "options": [
-      "Mi hermana",
-      "Mi madre",
-      "Mi abuela",
-      "Mi t\u00eda"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfQu\u00e9 pregunta usar\u00edas para preguntar la hora?",
-    "options": [
-      "\u00bfCu\u00e1ntos a\u00f1os tienes?",
-      "\u00bfD\u00f3nde vives?",
-      "\u00bfQu\u00e9 hora es?",
-      "\u00bfC\u00f3mo te llamas?"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l es el plural de 'el libro'?",
-    "options": [
-      "La libros",
-      "Los libros",
-      "El libros",
-      "Las libros"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfQu\u00e9 significa 'Me gusta el f\u00fatbol'?",
-    "options": [
-      "I play football",
-      "I hate football",
-      "I like football",
-      "I watch football"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'I live in a house' en espa\u00f1ol?",
-    "options": [
-      "Vivo en un apartamento",
-      "Vivo en una casa",
-      "Trabajo en una casa",
-      "Como en una casa"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l de estas palabras describe el tiempo meteorol\u00f3gico?",
-    "options": [
-      "R\u00e1pido",
-      "Lluvioso",
-      "Simp\u00e1tico",
-      "Delicioso"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfQu\u00e9 significa la expresi\u00f3n 'Buenos d\u00edas'?",
-    "options": [
-      "Good night",
-      "Good afternoon",
-      "Goodbye",
-      "Good morning"
+      "Hacer",
+      "Leer",
+      "Sentir",
+      "Escribir"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "What is the Spanish word for 'restaurant'?",
+    "options": [
+      "Caf\u00e9",
+      "Restaurante",
+      "Bar",
+      "Casa de comidas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the Spanish word for 'family'?",
+    "options": [
+      "Madre",
+      "Casa",
+      "Padre",
+      "Familia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The Spanish word for 'to travel' is...",
+    "options": [
+      "Viajar",
+      "Estudiar",
+      "Pasar",
+      "Ir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the Spanish word for 'theater'?",
+    "options": [
+      "Parque",
+      "Teatro",
+      "Cine",
+      "Museo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the famous Spanish painter of 'Las Meninas'?",
+    "options": [
+      "Pablo Picasso",
+      "El Greco",
+      "Diego Vel\u00e1zquez",
+      "Francisco de Goya"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The verb 'to have' in the present tense is...",
+    "options": [
+      "Tenemos",
+      "Tengo",
+      "Tiene",
+      "Tienes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Spanish word for 'to go' in the preterite tense is...",
+    "options": [
+      "Fuem",
+      "Voy",
+      "Vente",
+      "Fui"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the famous Spanish festival celebrated in Barcelona?",
+    "options": [
+      "La Tomatina",
+      "Semana Santa",
+      "Las Fallas",
+      "La Merc\u00e8"
+    ],
+    "correctIndex": 0
   }
 ]

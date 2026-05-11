@@ -1,151 +1,151 @@
 [
   {
-    "question": "A satellite orbits Earth at a radius r from the centre. If the radius is doubled, what happens to the orbital period?",
+    "question": "A 10 kg object is moving in a circular path with a radius of 1.5 m. What is its centripetal acceleration?",
     "options": [
-      "It increases by a factor of 2\u221a2",
-      "It increases by a factor of 4",
-      "It decreases by a factor of \u221a2",
-      "It remains unchanged"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A p-n junction diode is forward biased. Which statement best describes the behaviour of the depletion region?",
-    "options": [
-      "It widens, increasing resistance",
-      "It narrows, reducing the potential barrier",
-      "It remains unchanged",
-      "It disappears completely, causing breakdown"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A radioactive isotope has a half-life of 20 years. What fraction of the original sample remains after 80 years?",
-    "options": [
-      "1/8",
-      "1/16",
-      "1/32",
-      "1/4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a transformer, the primary coil has 500 turns and the secondary has 2000 turns. If the primary current is 8 A and the transformer is ideal, what is the secondary current?",
-    "options": [
-      "32 A",
-      "2 A",
-      "4 A",
-      "16 A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which combination of physical quantities gives the unit of power?",
-    "options": [
-      "Force \u00d7 displacement",
-      "Force \u00d7 velocity",
-      "Energy \u00d7 time",
-      "Momentum \u00d7 acceleration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "An object is placed 15 cm from a converging lens of focal length 10 cm. Where is the image formed?",
-    "options": [
-      "10 cm on the same side as the object",
-      "30 cm on the opposite side of the object",
-      "20 cm on the opposite side of the object",
-      "15 cm on the opposite side of the object"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 4 \u03a9 and a 6 \u03a9 resistor are connected in parallel across a 12 V battery of negligible internal resistance. What is the total power dissipated in the circuit?",
-    "options": [
-      "60 W",
-      "30 W",
-      "7 W",
-      "48 W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "An alpha particle is fired toward a gold nucleus and is deflected back. Which conclusion does this support?",
-    "options": [
-      "The atom is mostly empty space with a small dense positive nucleus",
-      "The positive charge is evenly distributed throughout the atom",
-      "Alpha particles carry a negative charge",
-      "Electrons orbit at fixed energy levels"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A ball is thrown horizontally from a cliff with speed 20 m/s. Ignoring air resistance, what is the magnitude of its velocity after 3 seconds? (g = 10 m/s\u00b2)",
-    "options": [
-      "20 m/s",
-      "30 m/s",
-      "36 m/s",
-      "50 m/s"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which statement about X-rays and gamma rays is correct?",
-    "options": [
-      "Gamma rays have longer wavelengths than X-rays",
-      "X-rays originate from the nucleus while gamma rays originate from electron transitions",
-      "Both travel at the speed of light in a vacuum",
-      "X-rays have higher frequencies than gamma rays"
+      "8.33 m/s^2",
+      "13.33 m/s^2",
+      "10.67 m/s^2",
+      "16.67 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A gas undergoes an isothermal expansion. Which statement is correct?",
+    "question": "A 2 kg block is moving with a velocity of 5 m/s. What is its momentum?",
     "options": [
-      "The internal energy of the gas increases",
-      "Work is done on the gas",
-      "The temperature of the gas decreases",
-      "The product PV remains constant"
+      "10 kg m/s",
+      "15 kg m/s",
+      "12 kg m/s",
+      "8 kg m/s"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "An electron moves perpendicular to a uniform magnetic field. The path of the electron is best described as",
+    "question": "A car travels 120 km in 2 hours. What is its average speed in m/s?",
     "options": [
-      "Parabolic",
-      "Helical",
-      "Circular",
-      "Linear"
+      "60 m/s",
+      "50 m/s",
+      "70 m/s",
+      "30 m/s"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 50 kg object is moving with a velocity of 5 m/s. What is its kinetic energy?",
+    "options": [
+      "125 J",
+      "100 J",
+      "150 J",
+      "175 J"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 2 kg object is moving in a circular path with a radius of 2.5 m. What is its centripetal acceleration?",
+    "options": [
+      "20 m/s^2",
+      "12 m/s^2",
+      "16 m/s^2",
+      "22 m/s^2"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which graph correctly represents the relationship between the pressure P and volume V of an ideal gas at constant temperature?",
+    "question": "A 2 kg block is moving with a velocity of 2 m/s. What is its momentum?",
     "options": [
-      "A straight line through the origin",
-      "A hyperbola (PV = constant)",
-      "A parabola",
-      "An exponential decay curve"
+      "5 kg m/s",
+      "4 kg m/s",
+      "6 kg m/s",
+      "3 kg m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The work function of a metal is 3.2 \u00d7 10\u207b\u00b9\u2079 J. What is the minimum frequency of light required to eject electrons from the metal? (h = 6.4 \u00d7 10\u207b\u00b3\u2074 J\u00b7s)",
+    "question": "A 10 N force is applied to an object with a mass of 5 kg. What is the acceleration of the object?",
     "options": [
-      "2.0 \u00d7 10\u00b9\u2074 Hz",
-      "5.0 \u00d7 10\u00b9\u2074 Hz",
-      "4.0 \u00d7 10\u00b9\u2074 Hz",
-      "8.0 \u00d7 10\u00b9\u2074 Hz"
+      "4 m/s^2",
+      "1 m/s^2",
+      "3 m/s^2",
+      "2 m/s^2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A body is moving with a constant acceleration of 2 m/s^2. What is its velocity after 5 seconds?",
+    "options": [
+      "10 m/s",
+      "15 m/s",
+      "12 m/s",
+      "18 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A wire carrying current is placed in a uniform magnetic field. The force on the wire is maximum when",
+    "question": "A 2 kg block is attached to a horizontal spring with a spring constant of 100 N/m. The block is displaced by 0.2 m from its equilibrium position and released from rest. At what velocity will the block be moving when it passes through its equilibrium position?",
     "options": [
-      "The wire is parallel to the magnetic field",
-      "The wire is at 45\u00b0 to the magnetic field",
-      "The wire is perpendicular to the magnetic field",
-      "The current is zero"
+      "0.7 m/s",
+      "0.5 m/s",
+      "1.8 m/s",
+      "2.5 m/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 2 uF capacitor is connected in parallel to a 3 uF capacitor. What is the equivalent capacitance?",
+    "options": [
+      "4 uF",
+      "6 uF",
+      "5 uF",
+      "7 uF"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A 10 kg object is lifted to a height of 20 m. What is its potential energy?",
+    "options": [
+      "2400 J",
+      "2000 J",
+      "1800 J",
+      "2200 J"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 10 m length of copper wire has a resistance of 5 ohms. What is the current flowing through the wire when a potential difference of 30 V is applied across it?",
+    "options": [
+      "7 A",
+      "6 A",
+      "8 A",
+      "5 A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A 200 W bulb has a resistance of 20 ohms. What is the current flowing through the bulb?",
+    "options": [
+      "25 A",
+      "15 A",
+      "5 A",
+      "10 A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 2 kg object is moving in a circular path with a radius of 1.5 m. What is its centripetal acceleration?",
+    "options": [
+      "8.33 m/s^2",
+      "6.67 m/s^2",
+      "9.99 m/s^2",
+      "12.5 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A body is moving with a constant velocity of 5 m/s. What is its acceleration?",
+    "options": [
+      "1 m/s^2",
+      "2 m/s^2",
+      "0 m/s^2",
+      "3 m/s^2"
     ],
     "correctIndex": 2
   }

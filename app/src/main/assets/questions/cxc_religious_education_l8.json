@@ -1,152 +1,132 @@
 [
   {
-    "question": "Which of the following best describes the term 'monotheism'?",
+    "question": "In which of the following African traditional religions is the supreme being known as Olodumare?",
     "options": [
-      "Belief in many gods",
-      "Belief in one God",
-      "Belief in no God",
-      "Belief in nature spirits"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In Christianity, the Trinity refers to which of the following?",
-    "options": [
-      "God, Jesus, and the Church",
-      "The Father, the Son, and the Holy Spirit",
-      "The Bible, the Cross, and Baptism",
-      "Jesus, Mary, and Joseph"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sacred text is used by Muslims as the word of God?",
-    "options": [
-      "The Torah",
-      "The Bible",
-      "The Quran",
-      "The Vedas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Five Pillars of Islam do NOT include which of the following?",
-    "options": [
-      "Salah (prayer)",
-      "Sawm (fasting)",
-      "Baptism",
-      "Zakat (charity)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In Hinduism, the concept of 'karma' refers to?",
-    "options": [
-      "The cycle of rebirth",
-      "The law of cause and effect",
-      "A form of meditation",
-      "A sacred river"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a key teaching found in the Sermon on the Mount?",
-    "options": [
-      "Love your enemies",
-      "An eye for an eye",
-      "Worship only in temples",
-      "Fast every day"
+      "Yoruba",
+      "Zulu",
+      "Maasai",
+      "Asante"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Jewish day of rest and worship is called?",
+    "question": "Who is the primary author of the Quran?",
     "options": [
-      "Sunday",
-      "Friday",
-      "Sabbath",
-      "Eid"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sacrament in the Catholic Church involves the forgiveness of sins through confession to a priest?",
-    "options": [
-      "Baptism",
-      "Eucharist",
-      "Reconciliation",
-      "Confirmation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Rastafarianism originated primarily in which country?",
-    "options": [
-      "Ethiopia",
-      "Trinidad",
-      "Jamaica",
-      "Nigeria"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the pilgrimage to Mecca that Muslims are required to make at least once in their lifetime?",
-    "options": [
-      "Salah",
-      "Hajj",
-      "Zakat",
-      "Jihad"
+      "The angel Gabriel",
+      "God",
+      "Muhammad",
+      "Ali"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The Eightfold Path is a central teaching of which religion?",
+    "question": "What is the significance of the concept of 'Tawhid' in Islam?",
     "options": [
-      "Hinduism",
-      "Judaism",
-      "Buddhism",
-      "Sikhism"
+      "It is the multiplicity and diversity of gods, which is the central doctrine of Hinduism",
+      "It is the power and authority of human beings, which is the central doctrine of Christianity",
+      "It is the existence of a supernatural being that controls human destiny, which is the central doctrine of Buddhism",
+      "It is the oneness and unity of God, which is the central doctrine of Islam"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best describes the Golden Rule found across many world religions?",
+    "question": "What is the significance of the Bhagavad Gita in Hinduism?",
     "options": [
-      "God is above all creation",
-      "Treat others as you wish to be treated",
-      "Give ten percent of your income",
-      "Fast during holy months"
+      "It is a historical account of the life of a Hindu saint",
+      "It is a sacred scripture that contains teachings on spiritual growth and self-realization",
+      "It is a guide for Hindu worship and ritual",
+      "It is a collection of myths and legends"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In Christianity, the event celebrating the resurrection of Jesus Christ is known as?",
+    "question": "Who is the main figure in the Christian story of redemption?",
     "options": [
-      "Christmas",
-      "Pentecost",
-      "Easter",
-      "Advent"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a responsibility of the family according to Religious Education teachings?",
-    "options": [
-      "Encouraging competition among siblings",
-      "Nurturing spiritual and moral development of children",
-      "Avoiding community involvement",
-      "Prioritising material wealth above all"
+      "The Holy Spirit",
+      "Jesus Christ",
+      "The prophets",
+      "God"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The concept of 'stewardship' in religion primarily refers to?",
+    "question": "Who is the primary prophet of the Baha'i faith?",
     "options": [
-      "Leading a religious congregation",
-      "The responsible care of God's creation",
-      "Collecting offerings in church",
-      "Spreading religious teachings worldwide"
+      "Muhammad",
+      "Baha'u'llah",
+      "Jesus Christ",
+      "Abdul-Baha"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the significance of the concept of 'Ahimsa' in Buddhism?",
+    "options": [
+      "It is a principle of violence and aggression that guides an individual's actions and decisions",
+      "It is a principle of non-violence and compassion that guides an individual's actions and decisions",
+      "It is a principle of individualism and self-interest that guides an individual's actions and decisions",
+      "It is a principle of materialism and consumerism that guides an individual's actions and decisions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In which of the following Caribbean religions is the concept of the 'Loa' prominent?",
+    "options": [
+      "Vodou",
+      "Christianity",
+      "Islam",
+      "West African traditional religions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the significance of the concept of 'Karma' in Buddhism?",
+    "options": [
+      "It is a belief in the power of prayer and rituals to influence fate",
+      "It is a belief in the law of cause and effect that determines an individual's fate in this life and the next",
+      "It is a belief in the importance of social hierarchy and class",
+      "It is a belief in the existence of a supernatural being that controls human destiny"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the significance of the concept of 'Dharma' in Hinduism?",
+    "options": [
+      "It is a system of governance that emphasizes the power of the state",
+      "It is a way of life that emphasizes material wealth and social status",
+      "It is a set of rituals and practices that ensure spiritual growth and self-realization",
+      "It is a code of conduct and moral principles that guide an individual's actions and decisions"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who is the main figure in the Christian story of salvation?",
+    "options": [
+      "Jesus Christ",
+      "The prophets",
+      "The Holy Spirit",
+      "God"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who is the main author of the Christian Bible?",
+    "options": [
+      "The apostles",
+      "The Holy Spirit",
+      "Jesus Christ",
+      "God"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the significance of the concept of karma in Hinduism?",
+    "options": [
+      "It is a belief in the importance of social hierarchy and class",
+      "It is a belief in the existence of a supernatural being that controls human destiny",
+      "It is a belief in the power of prayer and rituals to influence fate",
+      "It is a belief in the law of cause and effect that determines an individual's fate in this life and the next"
+    ],
+    "correctIndex": 3
   }
 ]

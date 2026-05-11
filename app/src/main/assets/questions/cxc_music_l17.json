@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which term describes the simultaneous use of two different keys in a musical composition?",
+    "question": "What is the term for the number of beats in a repeating pattern of two or more beats?",
     "options": [
-      "Polytonality",
-      "Atonality",
-      "Modality",
-      "Bitonality"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "In sonata form, which section presents the themes in their original tonal relationship after the development?",
-    "options": [
-      "Exposition",
-      "Coda",
-      "Recapitulation",
-      "Development"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Trinidadian folk song tradition known for its use of call-and-response patterns and African-derived rhythms in the context of wakes is called:",
-    "options": [
-      "B\u00e9l\u00e9",
-      "Shango",
-      "Lavway",
-      "Calypso"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which rhythmic concept, common in Afro-Caribbean music, refers to the underlying rhythmic pattern that serves as a timeline or reference point for other rhythms?",
-    "options": [
-      "Ostinato",
-      "Clave",
-      "Syncopation",
-      "Hemiola"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A chord built on the seventh degree of a major scale using only the notes of that scale is known as a:",
-    "options": [
-      "Major seventh chord",
-      "Half-diminished seventh chord",
-      "Diminished seventh chord",
-      "Minor seventh chord"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In counterpoint, when two voices move in the same direction but by different intervals, this is called:",
-    "options": [
-      "Oblique motion",
-      "Contrary motion",
-      "Similar motion",
-      "Parallel motion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'melisma' in vocal music refers to:",
-    "options": [
-      "A type of breath control technique",
-      "Singing multiple notes on a single syllable",
-      "A pause indicated by a fermata",
-      "Singing one note per syllable"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which form of classical composition features three expositions of a main theme interspersed with contrasting episodes, typically in a single movement?",
-    "options": [
-      "Rondo",
-      "Theme and Variations",
-      "Fugue",
-      "Ternary form"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The Jamaican musical tradition 'Kumina' is primarily associated with which African cultural group?",
-    "options": [
-      "Yoruba",
-      "Ashanti",
-      "BaKongo",
-      "Fon"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In music theory, an augmented sixth chord resolves most characteristically to:",
-    "options": [
-      "The subdominant chord",
-      "The dominant chord",
-      "The tonic chord",
-      "The supertonic chord"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which compositional technique involves the strict imitation of a melody by successive voices entering at different pitches?",
-    "options": [
-      "Canon",
-      "Inversion",
-      "Retrograde",
-      "Augmentation"
+      "pulse",
+      "meter",
+      "rhythm",
+      "tempo"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The time signature 12/8 is best described as having how many beats per measure and what type of beat subdivision?",
+    "question": "The steelpan instrument is played using which type of mallet?",
     "options": [
-      "12 beats with simple subdivision",
-      "4 beats with duple subdivision",
-      "3 beats with quadruple subdivision",
-      "4 beats with triple subdivision"
+      "hard mallet",
+      "finger mallet",
+      "soft mallet",
+      "brush mallet"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A musical phrase that is repeated at a different pitch and rhythm is an example of which musical element?",
+    "options": [
+      "harmonic variation",
+      "melodic sequence",
+      "rhythmic variation",
+      "melodic variation"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In the context of Caribbean music, 'tuk band' is a folk tradition originating from which island?",
+    "question": "Calypso music originated in which Caribbean country?",
     "options": [
-      "Trinidad",
-      "Barbados",
+      "Guyana",
       "Jamaica",
-      "Grenada"
+      "Trinidad and Tobago",
+      "Barbados"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A musical phrase that is repeated at a different time and pitch is an example of which musical element?",
+    "options": [
+      "rhythmic repeat",
+      "rhythmic variation",
+      "melodic sequence",
+      "rhythmic variation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly describes a Neapolitan sixth chord?",
+    "question": "The use of three or more pitches sounding simultaneously is an example of which type of harmony?",
     "options": [
-      "A major chord built on the flattened supertonic in first inversion",
-      "A diminished seventh chord built on the leading tone",
-      "A minor chord built on the subdominant in root position",
-      "An augmented chord built on the mediant in second inversion"
+      "monophony",
+      "homophony",
+      "heterophony",
+      "polyphony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A musical phrase that is repeated at a different time and pitch is an example of which musical element?",
+    "options": [
+      "rhythmic variation",
+      "melodic sequence",
+      "rhythmic repeat",
+      "rhythmic variation"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The process of composing music in which a tone row is played backwards is known as:",
+    "question": "The use of a single melodic line with a repeating pattern of chords is an example of which type of harmony?",
     "options": [
-      "Inversion",
-      "Retrograde",
-      "Augmentation",
-      "Diminution"
+      "polyphony",
+      "heterophony",
+      "monophony",
+      "homophony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The use of a single melodic line without accompaniment is an example of which type of harmony?",
+    "options": [
+      "heterophony",
+      "homophony",
+      "polyphony",
+      "monophony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A musical phrase that is repeated at a different time is an example of which musical element?",
+    "options": [
+      "rhythmic repeat",
+      "rhythmic variation",
+      "melodic sequence",
+      "rhythmic variation"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "The steelpan instrument originated in which Caribbean country?",
+    "options": [
+      "Barbados",
+      "Trinidad and Tobago",
+      "Guyana",
+      "Jamaica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the second and fourth beats of each measure. What is the term for this rhythmic pattern?",
+    "options": [
+      "duple meter",
+      "compound meter",
+      "triple meter",
+      "simple meter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The use of a single melodic line with a repeating pattern of chords is an example of which type of harmony?",
+    "options": [
+      "polyphony",
+      "heterophony",
+      "monophony",
+      "homophony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the second beat of each measure. What is the term for this rhythmic pattern?",
+    "options": [
+      "simple meter",
+      "duple meter",
+      "triple meter",
+      "compound meter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The rhythmic pattern of a piece of music can be described as having a strong emphasis on the first and third beats of each measure. What is the term for this rhythmic pattern?",
+    "options": [
+      "compound meter",
+      "triple meter",
+      "duple meter",
+      "simple meter"
+    ],
+    "correctIndex": 0
   }
 ]

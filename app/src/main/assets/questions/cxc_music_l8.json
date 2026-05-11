@@ -1,151 +1,21 @@
 [
   {
-    "question": "Which term describes the gradual increase in tempo?",
+    "question": "In aural skills, what is the process of identifying and describing the melody of a musical passage?",
     "options": [
-      "Ritardando",
-      "Accelerando",
-      "Fermata",
-      "Rubato"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A time signature of 6/8 means there are how many beats per measure and what note value receives one beat?",
-    "options": [
-      "6 beats, eighth note gets one beat",
-      "3 beats, quarter note gets one beat",
-      "2 beats, dotted quarter note gets one beat",
-      "6 beats, quarter note gets one beat"
+      "Rhythm analysis",
+      "Timbre analysis",
+      "Melody analysis",
+      "Texture analysis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a woodwind instrument?",
+    "question": "What is the term for a type of melody that emphasizes the first and third beats of a bar?",
     "options": [
-      "French Horn",
-      "Trumpet",
-      "Oboe",
-      "Trombone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'forte' in music means:",
-    "options": [
-      "Very soft",
-      "Gradually louder",
-      "Loud",
-      "Very loud"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which musical form consists of a statement, a contrasting section, and a return to the original statement?",
-    "options": [
-      "Binary form",
-      "Rondo form",
-      "Ternary form",
-      "Theme and Variations"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the enharmonic equivalent of F#?",
-    "options": [
-      "Gb",
-      "Ab",
-      "E#",
-      "G#"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which chord is built on the fifth degree of a major scale?",
-    "options": [
-      "Tonic chord",
-      "Subdominant chord",
-      "Dominant chord",
-      "Leading tone chord"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Calypso music originated primarily in:",
-    "options": [
-      "Jamaica",
-      "Cuba",
-      "Trinidad and Tobago",
-      "Barbados"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the musical term 'legato' instruct the performer to do?",
-    "options": [
-      "Play each note separately and detached",
-      "Play smoothly and connected",
-      "Play loudly",
-      "Play with a gradual decrease in speed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A major scale is constructed using which pattern of tones (T) and semitones (S)?",
-    "options": [
-      "T T S T T T S",
-      "T S T T S T T",
-      "T T T S T T S",
-      "S T T T S T T"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best describes 'syncopation'?",
-    "options": [
-      "Emphasis placed on normally weak beats or between beats",
-      "A gradual decrease in volume",
-      "Playing notes in a detached manner",
-      "A return to the original theme after a contrasting section"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The interval between C and G is called a:",
-    "options": [
-      "Major third",
-      "Perfect fourth",
-      "Perfect fifth",
-      "Minor sixth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which Caribbean folk song tradition involves call-and-response singing often associated with work songs?",
-    "options": [
-      "Benna",
-      "Quadrille",
-      "Kumina",
-      "Chantwell"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the function of a time signature in written music?",
-    "options": [
-      "It indicates the key of the piece",
-      "It tells the performer how loud to play",
-      "It indicates the number of beats per measure and the note value that receives one beat",
-      "It shows the tempo marking"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following describes the texture where one main melody is accompanied by chords?",
-    "options": [
-      "Monophonic",
-      "Polyphonic",
-      "Homophonic",
-      "Heterophonic"
+      "Rhythmic melody",
+      "Hymnodic melody",
+      "Accentual melody",
+      "Tonal melody"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the Spanish word for 'hello'?",
+    "question": "What is the name of the famous Spanish festival celebrated in Seville?",
     "options": [
-      "Adi\u00f3s",
-      "Hola",
-      "Gracias",
-      "Por favor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is the correct translation of 'I am hungry' in Spanish?",
-    "options": [
-      "Tengo sed",
-      "Tengo fr\u00edo",
-      "Tengo hambre",
-      "Tengo sue\u00f1o"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does 'la biblioteca' mean in English?",
-    "options": [
-      "The bookstore",
-      "The school",
-      "The library",
-      "The office"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word means 'red' in Spanish?",
-    "options": [
-      "Azul",
-      "Verde",
-      "Amarillo",
-      "Rojo"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "How do you say 'My name is Carlos' in Spanish?",
-    "options": [
-      "Me llamo Carlos",
-      "Tengo Carlos",
-      "Soy nombre Carlos",
-      "Mi nombre es tuyo"
+      "Feria de Abril",
+      "La Merc\u00e8",
+      "Semana Santa",
+      "Las Fallas"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the correct Spanish word for 'house'?",
+    "question": "What is the Spanish word for 'friend'?",
     "options": [
-      "Calle",
-      "Casa",
-      "Ciudad",
-      "Campo"
+      "Familiar",
+      "Familia",
+      "Amigo",
+      "Vecino"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Spanish word for 'water' is...",
+    "options": [
+      "Aceite",
+      "Vino",
+      "Sangre",
+      "Agua"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the famous Spanish author of 'La Regenta'?",
+    "options": [
+      "Juan Ram\u00f3n Jim\u00e9nez",
+      "Camilo Jos\u00e9 Cela",
+      "Leopoldo Alas",
+      "Miguel de Cervantes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the name of the famous Spanish author of 'Don Quijote'?",
+    "options": [
+      "Miguel de Cervantes",
+      "Juan Ram\u00f3n Jim\u00e9nez",
+      "Camilo Jos\u00e9 Cela",
+      "Federico Garc\u00eda Lorca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Spanish word for 'to dance' is...",
+    "options": [
+      "Bailar",
+      "Nadar",
+      "Correr",
+      "Saltar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The verb 'to be' in the present tense for 'we are' is...",
+    "options": [
+      "Es",
+      "Soy",
+      "Eres",
+      "Somos"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The verb 'to be' in the present tense for 'you are' is...",
+    "options": [
+      "Soy",
+      "Eres",
+      "Somos",
+      "Es"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following numbers is 'quince' in English?",
+    "question": "What is the Spanish word for 'hotel'?",
     "options": [
-      "Twelve",
-      "Thirteen",
-      "Fourteen",
-      "Fifteen"
+      "Restaurante",
+      "Establecimiento de ocio",
+      "Casa de hu\u00e9spedes",
+      "Hotel"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does 'Buenos d\u00edas' mean?",
+    "question": "The Spanish word for 'to talk' is...",
     "options": [
-      "Good night",
-      "Good afternoon",
-      "Good morning",
-      "Good evening"
+      "Hablar",
+      "Escuchar",
+      "O\u00edr",
+      "Mirar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Spanish word for 'to like' in the present tense is...",
+    "options": [
+      "Me gusta",
+      "Me encanta",
+      "Me desagrada",
+      "Me gusta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When speaking to someone you don't know, what is the correct greeting in Spanish?",
+    "options": [
+      "Buenos d\u00edas, \u00bfc\u00f3mo se llama?",
+      "Buenos noches, \u00bfc\u00f3mo est\u00e1s?",
+      "Buenos d\u00edas, \u00bfc\u00f3mo est\u00e1?",
+      "Hola, \u00bfc\u00f3mo vas?"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which verb means 'to eat' in Spanish?",
+    "question": "What is the Spanish word for 'passport'?",
     "options": [
-      "Beber",
-      "Dormir",
-      "Comer",
-      "Hablar"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the Spanish word for 'mother'?",
-    "options": [
-      "Hermana",
-      "Abuela",
-      "Madre",
-      "T\u00eda"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following means 'Where is the bathroom?' in Spanish?",
-    "options": [
-      "\u00bfC\u00f3mo est\u00e1s?",
-      "\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?",
-      "\u00bfQu\u00e9 hora es?",
-      "\u00bfCu\u00e1ntos a\u00f1os tienes?"
+      "Documento de identidad",
+      "Pasaporte",
+      "Tarjeta de cr\u00e9dito",
+      "Libreta de servicios"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the word 'grande' mean in English?",
+    "question": "What is the name of the famous Spanish painting by Pablo Picasso?",
     "options": [
-      "Small",
-      "Tall",
-      "Big",
-      "Old"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which subject pronoun means 'we' in Spanish?",
-    "options": [
-      "Ellos",
-      "Ustedes",
-      "Vosotros",
-      "Nosotros"
+      "Las Meninas",
+      "El Greco",
+      "No hay reyes en Espa\u00f1a",
+      "Guernica"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the correct Spanish word for 'dog'?",
+    "question": "What is the Spanish word for 'library'?",
     "options": [
-      "Gato",
-      "P\u00e1jaro",
-      "Perro",
-      "Pez"
+      "Casa de estudio",
+      "Casa de ocio",
+      "Biblioteca",
+      "Casa de lectura"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "How do you say 'thank you' in Spanish?",
-    "options": [
-      "De nada",
-      "Por favor",
-      "Perd\u00f3n",
-      "Gracias"
-    ],
-    "correctIndex": 3
   }
 ]

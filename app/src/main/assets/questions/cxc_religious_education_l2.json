@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which religion considers the Bible as its holy scripture?",
+    "question": "Which African Traditional Religion emphasizes the importance of community and social responsibility?",
     "options": [
+      "Xhosa",
+      "Yoruba",
+      "Dogon",
+      "Zulu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Hinduism, what is the term for the path of knowledge and self-inquiry?",
+    "options": [
+      "Bhakti",
+      "Karma",
+      "Dhyana",
+      "Jnana"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the moral principle of doing good and avoiding harm?",
+    "options": [
+      "Veracity",
+      "Beneficence",
+      "Non-maleficence",
+      "Autonomy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which African Traditional Religion emphasizes the importance of ancestors in spiritual life?",
+    "options": [
+      "Dogon",
+      "Xhosa",
+      "Zulu",
+      "Yoruba"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In Islam, what is the term for the holy month of fasting?",
+    "options": [
+      "Eid-al-Fitr",
+      "Ramadan",
+      "Eid-al-Adha",
+      "Laylat al-Qadr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the concept of the ultimate goal of human life?",
+    "options": [
+      "Karma",
+      "Moksha",
+      "Dharma",
+      "Samsara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Hinduism, what is the term for the ultimate goal of human life?",
+    "options": [
+      "Karma",
+      "Moksha",
+      "Dharma",
+      "Samsara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Islam, what is the term for the pilgrimage to Mecca?",
+    "options": [
+      "Zakat",
+      "Umrah",
+      "Hajj",
+      "Salat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the term for the concept of the natural world as a reflection of the divine?",
+    "options": [
+      "Physical universe",
+      "Secular universe",
+      "Sacred universe",
+      "Material universe"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which Caribbean spiritual practice emphasizes the use of rituals and ceremonies in worship?",
+    "options": [
+      "Pocomania",
+      "Candomble",
+      "Obeah",
+      "Myalism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Islam, what is the term for the five pillars of faith?",
+    "options": [
+      "Shahada",
+      "Salat",
+      "Zakat",
+      "Hajj"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Hinduism, what is the term for the ultimate reality?",
+    "options": [
+      "Brahman",
+      "Dharma",
+      "Karma",
+      "Atman"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which religion is characterized by a belief in one supreme God?",
+    "options": [
+      "Christianity",
+      "Hinduism",
       "Islam",
-      "Christianity",
-      "Hinduism",
-      "Buddhism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the holy book of Islam called?",
-    "options": [
-      "The Torah",
-      "The Bible",
-      "The Quran",
-      "The Vedas"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Who is known as the founder of Christianity?",
-    "options": [
-      "Muhammad",
-      "Moses",
-      "Jesus Christ",
-      "Abraham"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is one of the Five Pillars of Islam?",
-    "options": [
-      "Baptism",
-      "Salah (Prayer)",
-      "Communion",
-      "Confirmation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the word 'Islam' mean?",
-    "options": [
-      "Peace and submission",
-      "Love and kindness",
-      "Faith and hope",
-      "Truth and justice"
+      "African Traditional Religions"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In Christianity, what is the term for the day Jesus rose from the dead?",
+    "question": "In Hinduism, what is the term for the path of devotion and love?",
     "options": [
-      "Christmas",
-      "Pentecost",
-      "Easter",
-      "Ash Wednesday"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which religion uses the Menorah as one of its symbols?",
-    "options": [
-      "Christianity",
-      "Hinduism",
-      "Buddhism",
-      "Judaism"
+      "Dhyana",
+      "Jnana",
+      "Karma",
+      "Bhakti"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the holy book of Judaism called?",
+    "question": "Which Caribbean spiritual practice emphasizes the use of trance and possession in worship?",
     "options": [
-      "The Quran",
-      "The Torah",
-      "The Bible",
-      "The Tripitaka"
+      "Pocomania",
+      "Candomble",
+      "Abakua",
+      "Myalism"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Who was the prophet through whom Allah revealed the Quran?",
-    "options": [
-      "Jesus",
-      "Moses",
-      "Muhammad",
-      "Abraham"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the Christian practice of using water to welcome someone into the faith?",
-    "options": [
-      "Confirmation",
-      "Communion",
-      "Baptism",
-      "Confession"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a sacred river in Hinduism?",
-    "options": [
-      "Amazon",
-      "Nile",
-      "Thames",
-      "Ganges"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the name of the founder of Buddhism?",
-    "options": [
-      "Confucius",
-      "Guru Nanak",
-      "Siddhartha Gautama",
-      "Mahavira"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which symbol is commonly associated with Christianity?",
-    "options": [
-      "Star of David",
-      "Crescent and Star",
-      "The Cross",
-      "The Lotus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the Jewish day of rest and worship observed on Saturday?",
-    "options": [
-      "Sabbath",
-      "Passover",
-      "Hanukkah",
-      "Yom Kippur"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In which city was Jesus Christ born?",
-    "options": [
-      "Jerusalem",
-      "Nazareth",
-      "Bethlehem",
-      "Cairo"
-    ],
-    "correctIndex": 2
   }
 ]

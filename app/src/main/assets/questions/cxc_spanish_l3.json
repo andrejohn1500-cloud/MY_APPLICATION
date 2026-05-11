@@ -1,152 +1,62 @@
 [
   {
-    "question": "\u00bfC\u00f3mo se dice 'hello' en espa\u00f1ol?",
+    "question": "The Spanish word for 'to eat' is...",
     "options": [
-      "Adi\u00f3s",
-      "Hola",
-      "Gracias",
-      "Por favor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "\u00bfCu\u00e1l es el art\u00edculo definido masculino singular en espa\u00f1ol?",
-    "options": [
-      "La",
-      "Los",
-      "El",
-      "Las"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'I am hungry' en espa\u00f1ol?",
-    "options": [
-      "Tengo sed",
-      "Tengo fr\u00edo",
-      "Tengo sue\u00f1o",
-      "Tengo hambre"
+      "Sentir",
+      "Hacer",
+      "Beb\u00e9",
+      "Comer"
     ],
     "correctIndex": 3
   },
   {
-    "question": "\u00bfCu\u00e1l de estas palabras es un color?",
+    "question": "The verb 'to go' in the preterite tense is...",
     "options": [
-      "Mesa",
-      "Azul",
-      "Correr",
-      "R\u00e1pido"
+      "Voy",
+      "Vente",
+      "Fuem",
+      "Fui"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "\u00bfQu\u00e9 significa 'biblioteca' en ingl\u00e9s?",
+    "question": "The Spanish word for 'to study' is...",
     "options": [
-      "Bookstore",
-      "Library",
-      "School",
-      "Office"
+      "Estudiar",
+      "Aprender",
+      "Aprender",
+      "Aprender"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "\u00bfCu\u00e1l es la forma correcta del verbo 'ser' para 'yo'?",
+    "question": "In Spanish, what is the correct form of the verb 'to be' in the present tense for 'I am'?",
     "options": [
       "Es",
-      "Somos",
+      "Soy",
       "Eres",
-      "Soy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'Monday' en espa\u00f1ol?",
-    "options": [
-      "Martes",
-      "Mi\u00e9rcoles",
-      "Lunes",
-      "Jueves"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l de estas palabras describe un animal dom\u00e9stico?",
-    "options": [
-      "Le\u00f3n",
-      "Tigre",
-      "Perro",
-      "Elefante"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfQu\u00e9 significa la expresi\u00f3n 'buenos d\u00edas'?",
-    "options": [
-      "Good night",
-      "Good afternoon",
-      "Goodbye",
-      "Good morning"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "\u00bfCu\u00e1l es el plural de 'el libro'?",
-    "options": [
-      "La libros",
-      "Los libro",
-      "Los libros",
-      "Las libros"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfC\u00f3mo se llama la moneda oficial de Espa\u00f1a?",
-    "options": [
-      "Peso",
-      "D\u00f3lar",
-      "Euro",
-      "Libra"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "\u00bfCu\u00e1l de estos verbos significa 'to eat'?",
-    "options": [
-      "Beber",
-      "Comer",
-      "Dormir",
-      "Hablar"
+      "Somos"
     ],
     "correctIndex": 1
   },
   {
-    "question": "\u00bfQu\u00e9 n\u00famero es 'quince' en espa\u00f1ol?",
+    "question": "What is the name of the Spanish dish made from potatoes, chorizo, and onions?",
     "options": [
-      "13",
-      "14",
-      "16",
-      "15"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "\u00bfCu\u00e1l es la capital de Espa\u00f1a?",
-    "options": [
-      "Barcelona",
-      "Sevilla",
-      "Valencia",
-      "Madrid"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "\u00bfC\u00f3mo se dice 'my family' en espa\u00f1ol?",
-    "options": [
-      "Mi amigo",
-      "Mi familia",
-      "Mi casa",
-      "Mi escuela"
+      "Chopito",
+      "Patatas bravas",
+      "Paella",
+      "Tortilla espa\u00f1ola"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the famous Spanish poet of 'Canciones y danzas'?",
+    "options": [
+      "Federico Garc\u00eda Lorca",
+      "Camilo Jos\u00e9 Cela",
+      "Miguel de Cervantes",
+      "Juan Ram\u00f3n Jim\u00e9nez"
+    ],
+    "correctIndex": 0
   }
 ]

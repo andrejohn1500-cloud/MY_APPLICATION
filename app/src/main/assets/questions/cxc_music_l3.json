@@ -1,151 +1,81 @@
 [
   {
-    "question": "What does the term 'forte' mean in music?",
+    "question": "In music notation, what is the symbol used to indicate a repeat?",
     "options": [
-      "Soft",
-      "Loud",
-      "Medium",
-      "Fast"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How many beats are in a bar of 3/4 time?",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "6"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which instrument belongs to the woodwind family?",
-    "options": [
-      "Trumpet",
-      "Violin",
-      "Flute",
-      "Trombone"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the musical term for gradually getting louder?",
-    "options": [
-      "Diminuendo",
-      "Rallentando",
-      "Crescendo",
-      "Staccato"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many semitones are in an octave?",
-    "options": [
-      "10",
-      "12",
-      "8",
-      "14"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a Caribbean folk song tradition?",
-    "options": [
-      "Flamenco",
-      "Calypso",
-      "Samba",
-      "Mariachi"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does a time signature tell us?",
-    "options": [
-      "The key of the piece",
-      "The tempo of the piece",
-      "The number of beats per bar and the value of each beat",
-      "The dynamic level"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which note value receives one beat in 4/4 time?",
-    "options": [
-      "Whole note",
-      "Half note",
-      "Quarter note",
-      "Eighth note"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the name of the symbol that raises a note by a semitone?",
-    "options": [
-      "Flat",
-      "Natural",
-      "Sharp",
-      "Rest"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which voice part sings the highest pitches among female voices?",
-    "options": [
-      "Alto",
-      "Tenor",
-      "Mezzo-soprano",
-      "Soprano"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for music played at a slow tempo?",
-    "options": [
-      "Allegro",
-      "Andante",
-      "Largo",
-      "Vivace"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The steel pan instrument originated in which Caribbean country?",
-    "options": [
-      "Jamaica",
-      "Barbados",
-      "Trinidad and Tobago",
-      "Guyana"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a major scale?",
-    "options": [
-      "A scale with seven notes following the pattern T T S T T T S",
-      "A scale with five notes",
-      "A scale using only sharps",
-      "A scale with six notes"
+      "R",
+      "O",
+      "/",
+      "X"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which term describes a single melody line with no accompaniment?",
+    "question": "In music notation, what is the symbol used to indicate a rest?",
     "options": [
-      "Homophony",
-      "Polyphony",
-      "Monophony",
-      "Heterophony"
+      "O",
+      "X or a dot within a circle",
+      "X",
+      "-"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following musical forms is characterized by a slow introduction, a central theme, and a fast, virtuosic finale?",
+    "options": [
+      "Overture",
+      "Rondo",
+      "Sonata",
+      "Fugue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of musical form is characterized by a series of contrasting sections?",
+    "options": [
+      "Theme and variations",
+      "Sonata form",
+      "Rondo form",
+      "Fugue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of musical form is characterized by a series of short, independent melodies?",
+    "options": [
+      "Sonata form",
+      "Fugue",
+      "Theme and variations",
+      "Rondo form"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does 'piano' mean as a dynamic marking?",
+    "question": "The musical term for 'a group of three notes played together' is called?",
     "options": [
-      "Fast",
-      "Slow",
-      "Loud",
-      "Soft"
+      "Melody",
+      "Chord",
+      "Arpeggio",
+      "Harmony"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In music notation, what is the symbol used to indicate a flat?",
+    "options": [
+      "X",
+      "/",
+      "#",
+      "b"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a musical phrase that is repeated exactly?",
+    "options": [
+      "Variation",
+      "Developing variation",
+      "Theme",
+      "Repeat"
     ],
     "correctIndex": 3
   }

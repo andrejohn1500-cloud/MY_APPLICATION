@@ -1,152 +1,42 @@
 [
   {
-    "question": "What is the SI unit of force?",
+    "question": "What is the term for the measure of how much a material is able to resist changes in its temperature?",
     "options": [
-      "Joule",
-      "Newton",
-      "Pascal",
-      "Watt"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a scalar quantity?",
-    "options": [
-      "Velocity",
-      "Displacement",
-      "Speed",
-      "Acceleration"
+      "Heat Capacity",
+      "Thermal Expansion",
+      "Thermal Conductivity",
+      "Specific Heat Capacity"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the acceleration due to gravity near the Earth's surface?",
+    "question": "What is the term for the energy required to break a chemical bond?",
     "options": [
-      "9.8 m/s\u00b2",
-      "8.9 m/s\u00b2",
-      "10.8 m/s\u00b2",
-      "6.7 m/s\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which type of wave requires a medium to travel through?",
-    "options": [
-      "Light waves",
-      "Radio waves",
-      "Sound waves",
-      "X-rays"
+      "Ionization Energy",
+      "Electron Affinity",
+      "Bond Dissociation Energy",
+      "Electron Binding Energy"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does an ammeter measure?",
+    "question": "What is the unit of magnetic flux in the International System of Units (SI)?",
     "options": [
-      "Voltage",
-      "Resistance",
-      "Electric current",
-      "Power"
+      "Ampere-turn",
+      "Tesla",
+      "Weber",
+      "Henry"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is the unit of electrical resistance?",
+    "question": "What is the term for the measure of how much a material is able to resist changes in its magnetic field?",
     "options": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Coulomb"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the formula for calculating work done?",
-    "options": [
-      "W = m \u00d7 a",
-      "W = F \u00d7 d",
-      "W = P \u00d7 t",
-      "W = F / d"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which colour of light has the longest wavelength?",
-    "options": [
-      "Violet",
-      "Blue",
-      "Green",
-      "Red"
+      "Magnetic Field Strength",
+      "Magnetic Susceptibility",
+      "Magnetic Moment",
+      "Magnetic Permeability"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "What happens to the resistance of a metal conductor when its temperature increases?",
-    "options": [
-      "It decreases",
-      "It remains the same",
-      "It increases",
-      "It becomes zero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes density?",
-    "options": [
-      "Mass per unit volume",
-      "Volume per unit mass",
-      "Weight per unit area",
-      "Force per unit area"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A transformer is used to change which electrical quantity?",
-    "options": [
-      "Current only",
-      "Resistance",
-      "Voltage",
-      "Frequency"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the process by which heat is transferred through a vacuum?",
-    "options": [
-      "Conduction",
-      "Convection",
-      "Radiation",
-      "Advection"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a renewable energy source?",
-    "options": [
-      "Coal",
-      "Natural gas",
-      "Nuclear fuel",
-      "Solar energy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the unit of frequency?",
-    "options": [
-      "Metre",
-      "Second",
-      "Hertz",
-      "Decibel"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "According to Ohm's Law, if the voltage across a resistor doubles while resistance stays constant, the current will?",
-    "options": [
-      "Halve",
-      "Stay the same",
-      "Double",
-      "Quadruple"
-    ],
-    "correctIndex": 2
   }
 ]
