@@ -1,5 +1,9 @@
 package com.dresapps.dresquiz
 
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+
 import android.content.Intent
 import android.media.MediaPlayer
 import android.os.Bundle
