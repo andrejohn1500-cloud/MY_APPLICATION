@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which molecule serves as the universal energy currency in cells?",
+    "question": "Which type of cellular organelle is responsible for producing energy for the cell?",
     "options": [
-      "ADP",
-      "ATP",
-      "NAD",
-      "FAD"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which organelle is responsible for protein synthesis in a cell?",
-    "options": [
-      "Mitochondria",
-      "Golgi apparatus",
-      "Ribosome",
-      "Lysosome"
+      "lysosome",
+      "chloroplast",
+      "mitochondria",
+      "ribosome"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the monomer unit of proteins?",
+    "question": "What is the term for the movement of water out of a cell through a process called osmosis?",
     "options": [
-      "Fatty acids",
-      "Nucleotides",
-      "Amino acids",
-      "Monosaccharides"
+      "endosmosis",
+      "osmotic pressure",
+      "exosmosis",
+      "diffusion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "During which phase of mitosis do chromosomes line up along the equator of the cell?",
+    "question": "What is the term for the study of the relationship between organisms and their environment, with a focus on the impact of human activities?",
     "options": [
-      "Prophase",
-      "Anaphase",
-      "Metaphase",
-      "Telophase"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of bond holds the two strands of a DNA double helix together?",
-    "options": [
-      "Ionic bonds",
-      "Covalent bonds",
-      "Hydrogen bonds",
-      "Peptide bonds"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which organ in the human body produces insulin?",
-    "options": [
-      "Liver",
-      "Kidney",
-      "Pancreas",
-      "Stomach"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the process by which plants make their own food using sunlight?",
-    "options": [
-      "Respiration",
-      "Fermentation",
-      "Photosynthesis",
-      "Transpiration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which blood cells are primarily responsible for fighting infections?",
-    "options": [
-      "Red blood cells",
-      "Platelets",
-      "White blood cells",
-      "Plasma cells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the brain controls balance and coordination?",
-    "options": [
-      "Cerebrum",
-      "Medulla oblongata",
-      "Hypothalamus",
-      "Cerebellum"
+      "ecology",
+      "chemistry",
+      "biology",
+      "ecological impact"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the movement of water across a selectively permeable membrane from a region of high water potential to low water potential?",
+    "question": "Which type of plant growth occurs when the plant's stem grows in a zig-zag pattern?",
     "options": [
-      "Active transport",
-      "Diffusion",
-      "Osmosis",
-      "Endocytosis"
+      "lateral growth",
+      "apical growth",
+      "tendril growth",
+      "axillary growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which nitrogenous base is found in RNA but NOT in DNA?",
+    "question": "Which type of plant growth occurs when the plant's stem grows in a random direction?",
     "options": [
-      "Adenine",
-      "Cytosine",
-      "Uracil",
-      "Guanine"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of reproduction produces offspring that are genetically identical to the parent?",
-    "options": [
-      "Sexual reproduction",
-      "Asexual reproduction",
-      "Conjugation",
-      "Meiosis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which pigment is primarily responsible for capturing light energy during photosynthesis?",
-    "options": [
-      "Haemoglobin",
-      "Carotenoid",
-      "Chlorophyll",
-      "Xanthophyll"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In humans, how many pairs of chromosomes are found in a somatic cell?",
-    "options": [
-      "23",
-      "46",
-      "22",
-      "24"
+      "random growth",
+      "lateral growth",
+      "axillary growth",
+      "apical growth"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which hormone is released by the adrenal glands in response to stress?",
+    "question": "What is the term for the process by which an organism's genetic information is passed from one generation to the next?",
     "options": [
-      "Insulin",
-      "Oestrogen",
-      "Adrenaline",
-      "Testosterone"
+      "inheritance",
+      "evolution",
+      "mutation",
+      "heredity"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the process by which cells become specialized to perform specific functions?",
+    "options": [
+      "mitosis",
+      "differentiation",
+      "meiosis",
+      "proliferation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the study of the structure and function of molecules?",
+    "options": [
+      "chemistry",
+      "biochemistry",
+      "biology",
+      "physics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of plant growth occurs when the plant's stem grows in a circular motion?",
+    "options": [
+      "tendril growth",
+      "lateral growth",
+      "apical growth",
+      "axillary growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of genetic variation occurs when a gene is inherited from one parent but not the other?",
+    "options": [
+      "phenotype",
+      "allele",
+      "homozygous",
+      "genotype"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the term for the movement of water through a plant, from the roots to the leaves?",
+    "options": [
+      "respiration",
+      "photosynthesis",
+      "translocation",
+      "transpiration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the genetic basis of traits and diseases?",
+    "options": [
+      "genetics",
+      "biology",
+      "chemistry",
+      "physics"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of plant growth occurs when the plant's stem grows in a straight line?",
+    "options": [
+      "apical growth",
+      "axillary growth",
+      "lateral growth",
+      "tendril growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main function of the cell membrane?",
+    "options": [
+      "to store genetic information",
+      "to produce energy for the cell",
+      "to regulate the movement of substances in and out of the cell",
+      "to provide structure and support for the cell"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which type of genetic variation occurs when a gene is copied incorrectly during DNA replication?",
+    "options": [
+      "natural selection",
+      "mutation",
+      "genetic drift",
+      "gene flow"
+    ],
+    "correctIndex": 1
   }
 ]

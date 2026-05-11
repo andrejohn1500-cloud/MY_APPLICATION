@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the role of the signal recognition particle (SRP) in protein synthesis?",
+    "question": "In the context of genetics, what is the term for the study of the structure and function of genes, including their expression and regulation?",
     "options": [
-      "It initiates translation by binding to the 5' cap of mRNA",
-      "It directs ribosomes synthesizing secretory proteins to the rough endoplasmic reticulum",
-      "It catalyzes the formation of peptide bonds between amino acids",
-      "It terminates translation by recognizing stop codons"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During oxidative phosphorylation, the P/O ratio refers to:",
-    "options": [
-      "The ratio of phosphate ions to oxygen consumed in glycolysis",
-      "The number of ATP molecules synthesized per atom of oxygen reduced",
-      "The proportion of NADH oxidized relative to FADH2",
-      "The ratio of protons pumped to electrons transferred in the electron transport chain"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A mutation in the lacI gene of the lac operon produces a repressor that can no longer bind allolactose. What would be the effect on gene expression?",
-    "options": [
-      "The structural genes would be constitutively expressed regardless of lactose presence",
-      "The structural genes would never be expressed even in the presence of lactose",
-      "Expression would be unaffected because CAP protein compensates",
-      "The operon would only respond to glucose concentration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which feature of C4 photosynthesis specifically prevents photorespiration?",
-    "options": [
-      "Use of PEP carboxylase in mesophyll cells to fix CO2, concentrating it around RuBisCO in bundle sheath cells",
-      "Closure of stomata during the day to prevent O2 entry",
-      "Direct fixation of CO2 by RuBisCO in the mesophyll at higher efficiency",
-      "Production of malate in the stroma to inhibit oxygenase activity of RuBisCO"
+      "Genomics",
+      "Cell biology",
+      "Molecular biology",
+      "Evolution"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In meiosis, which event is primarily responsible for generating genetic diversity through the independent assortment of homologous chromosomes?",
+    "question": "In the context of evolution, what is the term for the process by which a new species emerges from an existing one through the accumulation of genetic mutations and other changes?",
     "options": [
-      "Crossing over during prophase I",
-      "Random alignment of bivalents at the metaphase I plate",
-      "Sister chromatid separation at anaphase II",
-      "DNA replication during S phase before meiosis"
+      "Species formation",
+      "Speciation",
+      "Evolution",
+      "Adaptation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which a cell becomes cancerous due to the uncontrolled division of cells?",
+    "options": [
+      "Cell differentiation",
+      "Cell death",
+      "Cell growth",
+      "Cancer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the structure and function of microorganisms, including bacteria, archaea, and other prokaryotes?",
+    "options": [
+      "Genetics",
+      "Cell biology",
+      "Molecular biology",
+      "Microbiology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In the context of genetics, what is the term for the study of the inheritance of traits from one generation to the next?",
+    "options": [
+      "Evolution",
+      "Genetics",
+      "Cell biology",
+      "Molecular biology"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The Hardy-Weinberg equilibrium predicts that allele frequencies remain constant when:",
+    "question": "In eukaryotic cells, the cytoskeleton is composed of three main types of filaments: microtubules, microfilaments, and what other type of filament?",
     "options": [
-      "Natural selection favors heterozygotes",
-      "The population is large, mating is random, and there is no mutation, migration, or selection",
-      "Genetic drift occurs in small isolated populations",
-      "Gene flow introduces new alleles from adjacent populations"
+      "Mitochondria",
+      "Lysosomes",
+      "Chloroplasts",
+      "Intermediate filaments"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of organisms is characterized by a single cell that lacks a true nucleus and other membrane-bound organelles?",
+    "options": [
+      "Prokaryotes",
+      "Bacteria",
+      "Eukaryotes",
+      "Archaea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the vacuoles in plant cells?",
+    "options": [
+      "Cellular respiration",
+      "Storage and waste removal",
+      "Photosynthesis",
+      "Protein synthesis"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly describes the role of calmodulin in cellular signaling?",
+    "question": "What is the term for the process by which a cell becomes specialized to perform a specific function, such as muscle cells or nerve cells?",
     "options": [
-      "It acts as a second messenger by directly activating adenylyl cyclase",
-      "It is a calcium-binding protein that activates downstream kinases upon Ca2+ binding",
-      "It phosphorylates G-proteins in response to ligand-receptor binding",
-      "It degrades cAMP to terminate the signaling cascade"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A researcher finds that a particular enzyme shows Michaelis-Menten kinetics but adding a competitive inhibitor doubles the apparent Km without changing Vmax. If substrate concentration is raised far above the new apparent Km, what happens?",
-    "options": [
-      "Vmax decreases because the inhibitor permanently occupies active sites",
-      "Vmax is restored because substrate outcompetes the inhibitor",
-      "The reaction rate plateaus below original Vmax permanently",
-      "Km returns to its original value only if inhibitor is removed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the human immune response, which cells are responsible for presenting antigen-MHC class II complexes to helper T lymphocytes?",
-    "options": [
-      "Cytotoxic T cells",
-      "Natural killer cells",
-      "Antigen-presenting cells such as dendritic cells and macrophages",
-      "Plasma cells secreting antibodies"
+      "Cell division",
+      "Cell death",
+      "Cell differentiation",
+      "Cell growth"
     ],
     "correctIndex": 2
   },
   {
-    "question": "During the cardiac cycle, which event corresponds to the closure of the semilunar valves and produces the second heart sound (S2)?",
+    "question": "In the context of ecology, what is the term for the study of the interactions between organisms and their environment, including the physical and chemical factors that affect them?",
     "options": [
-      "Ventricular depolarization at the QRS complex",
-      "The end of ventricular systole when ventricular pressure falls below aortic pressure",
-      "Atrial contraction forcing blood into the ventricles",
-      "Opening of the atrioventricular valves at the start of diastole"
+      "Environmental science",
+      "Biochemistry",
+      "Ecophysiology",
+      "Ecology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In the context of ecology, what is the term for the study of the relationships between organisms and their environment, including the physical and chemical factors that affect them?",
+    "options": [
+      "Environmental science",
+      "Biochemistry",
+      "Ecophysiology",
+      "Ecology"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of organisms is characterized by a true nucleus and other membrane-bound organelles?",
+    "options": [
+      "Eukaryotes",
+      "Prokaryotes",
+      "Bacteria",
+      "Archaea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of the CRISPR-Cas9 system in molecular biology?",
+    "options": [
+      "DNA replication",
+      "Gene editing",
+      "Gene regulation",
+      "Gene expression"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following statements accurately describes epigenetic modification?",
+    "question": "What is the term for the process by which a cell undergoes programmed cell death, often in response to DNA damage or other forms of cellular stress?",
     "options": [
-      "It involves permanent changes to the nucleotide sequence of DNA inherited by daughter cells",
-      "It includes heritable changes in gene expression caused by DNA methylation and histone modification without altering the DNA sequence",
-      "It exclusively occurs during embryonic development and cannot be influenced by environmental factors",
-      "It results from errors in DNA replication that are not corrected by mismatch repair"
+      "Cell growth",
+      "Cell death",
+      "Cell differentiation",
+      "Apoptosis"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In gel electrophoresis of DNA, which of the following would cause a fragment to migrate most slowly toward the anode?",
+    "question": "In the context of plant biology, what is the term for the process by which plants respond to changes in light intensity?",
     "options": [
-      "A fragment of 200 base pairs in a 1% agarose gel",
-      "A fragment of 5000 base pairs in a 1% agarose gel",
-      "A fragment of 200 base pairs in a 3% agarose gel",
-      "A fragment of 500 base pairs in a 2% agarose gel"
+      "Photoperiodism",
+      "Thigmotropism",
+      "Phototropism",
+      "Gravitropism"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which mechanism allows facilitated diffusion to differ fundamentally from active transport?",
-    "options": [
-      "Facilitated diffusion requires ATP hydrolysis while active transport does not",
-      "Facilitated diffusion moves substances down their electrochemical gradient via membrane proteins without energy expenditure, whereas active transport moves substances against their gradient requiring energy",
-      "Facilitated diffusion only operates for lipid-soluble molecules, while active transport handles ions exclusively",
-      "Active transport uses channel proteins, whereas facilitated diffusion uses carrier proteins that hydrolyze ATP"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The neurotransmitter acetylcholine exerts different effects at the neuromuscular junction and at cardiac muscle because:",
-    "options": [
-      "Cardiac muscle lacks acetylcholinesterase to degrade acetylcholine",
-      "Different receptor subtypes (nicotinic vs. muscarinic) are present in each tissue, coupled to different intracellular mechanisms",
-      "The concentration of acetylcholine released differs between somatic and autonomic nerve terminals",
-      "Cardiac muscle cells have fewer mitochondria and cannot respond to depolarization"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During secondary succession following a forest fire, which of the following correctly describes the role of pioneer species?",
-    "options": [
-      "They represent the climax community that establishes immediately after disturbance",
-      "They modify the abiotic environment by accumulating organic matter and improving soil, facilitating colonization by later successional species",
-      "They outcompete all other species and permanently dominate the ecosystem",
-      "They rely on mycorrhizal associations that are already present in the burned soil to establish quickly"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

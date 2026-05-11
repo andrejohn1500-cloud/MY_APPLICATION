@@ -1,152 +1,22 @@
 [
   {
-    "question": "Which nutrient is primarily responsible for promoting leafy green growth in plants?",
+    "question": "Which of the following is a type of agricultural policy?",
     "options": [
-      "Phosphorus",
-      "Potassium",
-      "Nitrogen",
-      "Calcium"
+      "Crop insurance policy",
+      "Land reform policy",
+      "Price support policy",
+      "Input subsidy policy"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for the process by which plants make their own food using sunlight?",
+    "question": "What is the main goal of agricultural research and development?",
     "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Transpiration",
-      "Germination"
+      "To improve the productivity and profitability of farmers",
+      "To reduce the costs of agricultural production",
+      "To decrease the use of agricultural inputs",
+      "To increase the prices of agricultural products"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which soil type has the largest particle size?",
-    "options": [
-      "Clay",
-      "Silt",
-      "Loam",
-      "Sand"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the main function of the root system in a plant?",
-    "options": [
-      "Photosynthesis",
-      "Absorption of water and nutrients",
-      "Reproduction",
-      "Gas exchange"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a leguminous crop?",
-    "options": [
-      "Maize",
-      "Sugarcane",
-      "Soybean",
-      "Cassava"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does pH measure in soil?",
-    "options": [
-      "Nutrient content",
-      "Acidity or alkalinity",
-      "Moisture level",
-      "Organic matter"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which gas is released by plants during photosynthesis?",
-    "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Hydrogen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the process of breaking down organic matter by microorganisms called?",
-    "options": [
-      "Erosion",
-      "Decomposition",
-      "Leaching",
-      "Weathering"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a method of vegetative propagation?",
-    "options": [
-      "Seed planting",
-      "Grafting",
-      "Cross-pollination",
-      "Fertilization"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for rearing fish in controlled environments?",
-    "options": [
-      "Apiculture",
-      "Silviculture",
-      "Aquaculture",
-      "Horticulture"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which vitamin is produced in the skin of animals when exposed to sunlight?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin D"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is crop rotation primarily used for?",
-    "options": [
-      "Increasing soil erosion",
-      "Maintaining soil fertility and reducing pests",
-      "Decreasing crop yield",
-      "Increasing water runoff"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a renewable source of energy used in agriculture?",
-    "options": [
-      "Coal",
-      "Solar energy",
-      "Petroleum",
-      "Natural gas"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What term describes the movement of water through a plant from roots to leaves?",
-    "options": [
-      "Osmosis",
-      "Diffusion",
-      "Transpiration",
-      "Absorption"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the flower develops into a fruit after fertilization?",
-    "options": [
-      "Sepal",
-      "Petal",
-      "Stamen",
-      "Ovary"
-    ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

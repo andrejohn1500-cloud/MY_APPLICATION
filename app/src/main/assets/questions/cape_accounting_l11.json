@@ -1,152 +1,152 @@
 [
   {
-    "question": "A company has a gearing ratio of 60% and an interest cover of 2.5 times. If operating profit increases by 20%, what is the new interest cover, assuming interest charges remain constant?",
+    "question": "A company's management accountant prepares a budget for the upcoming year. What is the budget period?",
     "options": [
-      "A. 3.0 times",
-      "B. 3.5 times",
-      "C. 4.0 times",
-      "D. 2.0 times"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Under IAS 36, when should an entity test goodwill acquired in a business combination for impairment?",
-    "options": [
-      "A. Only when there is an indication of impairment",
-      "B. Annually, regardless of whether there is any indication of impairment",
-      "C. Every five years regardless of indicators",
-      "D. Only when the subsidiary reports a loss"
+      "The time period between planning and implementation",
+      "The time period covered by the budget",
+      "The time period between forecasting and planning",
+      "The time period between budgeting and forecasting"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A company issues 10,000 convertible bonds at $100 each with a coupon rate of 5% per annum. The market rate for similar non-convertible bonds is 8%. Using the effective interest method, what is the initial carrying amount of the liability component? (PV annuity factor 8%, 5 years = 3.993; PV factor 8%, 5 years = 0.681)",
+    "question": "A company's management accountant prepares a master budget for the upcoming year. What is the main advantage of this master budget?",
     "options": [
-      "A. $880,350",
-      "B. $1,000,000",
-      "C. $760,650",
-      "D. $919,650"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly describes the treatment of a revaluation surplus when a revalued asset is disposed of under IAS 16?",
-    "options": [
-      "A. The revaluation surplus is transferred to retained earnings and recognised in profit or loss",
-      "B. The revaluation surplus may be transferred directly to retained earnings but is NOT recognised in profit or loss",
-      "C. The revaluation surplus must remain in equity indefinitely",
-      "D. The revaluation surplus is reversed through other comprehensive income upon disposal"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In preparing a consolidated statement of financial position, a parent acquired 75% of a subsidiary for $450,000 when the subsidiary's net assets were $500,000 and the fair value of the non-controlling interest was $140,000. Using the full goodwill method, what is the goodwill recognised?",
-    "options": [
-      "A. $90,000",
-      "B. $215,000",
-      "C. $140,000",
-      "D. $215,000 \u2013 NCI share of net assets"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under IFRS 15, which of the following is the correct sequence for recognising revenue from contracts with customers?",
-    "options": [
-      "A. Identify contract, identify performance obligations, determine transaction price, allocate transaction price, recognise revenue",
-      "B. Determine transaction price, identify contract, identify performance obligations, allocate, recognise",
-      "C. Identify performance obligations, identify contract, determine price, allocate, recognise",
-      "D. Identify contract, determine transaction price, identify performance obligations, allocate, recognise"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company has the following data: Sales $2,000,000; Variable costs 60% of sales; Fixed costs $500,000; Tax rate 30%. What is the degree of operating leverage (DOL) at the current sales level?",
-    "options": [
-      "A. 1.6 times",
-      "B. 2.67 times",
-      "C. 4.0 times",
-      "D. 1.33 times"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements about deferred tax under IAS 12 is CORRECT?",
-    "options": [
-      "A. Deferred tax liabilities must always be discounted to present value",
-      "B. A deferred tax asset is recognised only to the extent that it is probable that future taxable profit will be available",
-      "C. Deferred tax is recognised on all temporary differences including those arising from initial recognition of goodwill",
-      "D. Deferred tax assets and liabilities may only be offset when they relate to the same tax authority and the entity has a legal right"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In activity-based costing, an overhead absorption rate is calculated per cost driver. A company has setup costs of $120,000 and 400 setups. Product X requires 60 setups and produces 1,200 units. What is the setup overhead cost per unit of Product X?",
-    "options": [
-      "A. $15.00",
-      "B. $18.00",
-      "C. $300.00",
-      "D. $6.00"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A partnership has the following profit-sharing arrangements: salary to Partner A of $30,000, interest on capital of 5% (A: $100,000; B: $80,000), and residual profits shared 3:2. Net profit for the year is $95,000. What is Partner B's total share of profit?",
-    "options": [
-      "A. $21,000",
-      "B. $25,000",
-      "C. $29,000",
-      "D. $33,000"
+      "Accurate results even when there are multiple budgets for different departments",
+      "Easy to apply when there are multiple budgets for different departments",
+      "Easy to prepare and update budgets for different departments",
+      "Less time-consuming to apply"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Under IAS 37, a provision should be recognised when which of the following conditions are ALL met?",
+    "question": "A company's management accountant uses the activity-based costing method to allocate overhead costs. What is the main advantage of this method?",
     "options": [
-      "A. A present obligation exists, an outflow of resources is possible, and the amount can be estimated",
-      "B. A present obligation exists, an outflow of resources is probable, and a reliable estimate can be made",
-      "C. A constructive obligation exists, an outflow of resources is certain, and the timing is known",
-      "D. A legal obligation exists, an outflow of resources is probable, and the amount is material"
+      "Easy to identify the activities that cause overhead costs",
+      "Accurate results even when there are multiple activities that cause overhead costs",
+      "Easy to apply when there are multiple activities that cause overhead costs",
+      "Less time-consuming to apply"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A company uses the Economic Order Quantity (EOQ) model. Annual demand is 36,000 units, ordering cost is $50 per order, and holding cost is $2 per unit per annum. What is the EOQ?",
+    "question": "A company's Statement of Financial Position shows that its current ratio is 2:1. What does this mean?",
     "options": [
-      "A. 1,342 units",
-      "B. 1,500 units",
-      "C. 1,897 units",
-      "D. 950 units"
+      "The company's current assets is twice its current liabilities",
+      "The company's total assets is twice its total liabilities",
+      "The company's retained earnings is twice its non-current liabilities",
+      "The company's non-current assets is twice its non-current liabilities"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In a hire purchase transaction, a buyer acquires an asset with a cash price of $80,000, paying a deposit of $20,000 and four annual instalments of $18,000. Using the sum-of-digits method for allocating finance charges, what is the finance charge allocated to Year 1?",
+    "question": "A company's management accountant uses the activity-based costing method to allocate overhead costs. What is the main disadvantage of this method?",
     "options": [
-      "A. $8,000",
-      "B. $7,200",
-      "C. $9,600",
-      "D. $6,400"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of a finance lease under IFRS 16?",
-    "options": [
-      "A. The lease transfers ownership of the asset to the lessee by the end of the lease term",
-      "B. The lessee has the option to purchase the asset at a price expected to be sufficiently lower than fair value",
-      "C. The present value of lease payments amounts to substantially all of the fair value of the asset",
-      "D. The lessor retains substantially all the risks and rewards incidental to ownership of the asset"
+      "Easy to identify the activities that cause overhead costs",
+      "Accurate results even when there are multiple activities that cause overhead costs",
+      "Less time-consuming to apply",
+      "Difficult to identify the activities that cause overhead costs"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company is considering a project with an initial investment of $500,000. Expected net cash inflows are $150,000 per year for 5 years. The cost of capital is 10%. The NPV annuity factor at 10% for 5 years is 3.791 and at 15% is 3.352. What is the approximate IRR of the project?",
+    "question": "What is the main purpose of a cost accounting system in a manufacturing company?",
     "options": [
-      "A. 12.4%",
-      "B. 14.0%",
-      "C. 15.6%",
-      "D. 10.8%"
+      "To report the company's profits only",
+      "To identify and record the costs of a company's products or services",
+      "To provide information about the company's assets only",
+      "To control and coordinate activities only"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "A company's management accountant prepares a budget for the upcoming year. What is the main tool used in the budgeting process?",
+    "options": [
+      "A budget report",
+      "A budget form",
+      "A budget forecast",
+      "A budget plan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a non-cash expense?",
+    "options": [
+      "Salaries paid",
+      "Rent paid",
+      "Utilities paid",
+      "Depreciation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's management accountant uses a cost centre approach to budgeting. What is the main advantage of this approach?",
+    "options": [
+      "Improved cost control",
+      "Easy identification of cost variances",
+      "Simplified budgeting process",
+      "Better forecasting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's management accountant uses the direct labor hours method to calculate its variable costs. What is the main advantage of this method?",
+    "options": [
+      "Accurate results even when there is a complex relationship between labor hours and variable costs",
+      "Easy to calculate cost variances",
+      "Easy to apply when there is a direct relationship between labor hours and variable costs",
+      "Less time-consuming to apply"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Caribbean company is required to prepare its financial statements in accordance with IFRS. What is the main purpose of the Statement of Comprehensive Income?",
+    "options": [
+      "To present the financial position of the company",
+      "To present the financial performance of the company",
+      "To disclose the accounting policies used",
+      "To show the company's cash flows"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's Statement of Financial Position shows that its total assets is $1 million. What does this mean?",
+    "options": [
+      "The company's current assets is $1 million",
+      "The company's retained earnings is $1 million",
+      "The company's total liabilities is $1 million",
+      "The company's total assets is $1 million"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's Statement of Financial Position shows that its debt-to-equity ratio is 2:1. What does this mean?",
+    "options": [
+      "The company's non-current debt is twice its non-current equity",
+      "The company's current debt is twice its current equity",
+      "The company's total debt is twice its total equity",
+      "The company's total assets is twice its total liabilities"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company's management accountant uses the high-low method to calculate its cost per unit. What is the main disadvantage of this method?",
+    "options": [
+      "Accurate results even when there are multiple high and low cost periods",
+      "Easy to manipulate the results by selecting the high and low cost periods",
+      "Less time-consuming to apply",
+      "Difficult to apply when there are multiple high and low cost periods"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a management accounting report?",
+    "options": [
+      "A financial statement",
+      "A management accounting forecast",
+      "A variance report",
+      "A management accounting plan"
+    ],
+    "correctIndex": 2
   }
 ]

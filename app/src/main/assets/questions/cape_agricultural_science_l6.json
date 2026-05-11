@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the process of nitrogen fixation in agriculture?",
+    "question": "What is the main advantage of using crop rotation?",
     "options": [
-      "The conversion of atmospheric nitrogen into ammonia by microorganisms",
-      "The absorption of nitrates from soil by plant roots",
-      "The decomposition of organic matter releasing nitrogen compounds",
-      "The leaching of nitrogen from soil into groundwater"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In crop production, what is the primary purpose of crop rotation?",
-    "options": [
-      "To increase the use of chemical fertilizers",
-      "To break pest and disease cycles and maintain soil fertility",
-      "To reduce the need for irrigation",
-      "To speed up the harvesting process"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which soil texture has the highest water-holding capacity?",
-    "options": [
-      "Sandy soil",
-      "Loamy soil",
-      "Clay soil",
-      "Silty soil"
+      "To reduce soil erosion",
+      "To improve soil fertility",
+      "To break disease and pest cycles",
+      "To increase crop yields"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the recommended pH range for most agricultural crops?",
+    "question": "What is the role of the Caribbean Agro-Investment Facility (CAIF) in regional agriculture?",
     "options": [
-      "3.0 to 4.5",
-      "5.5 to 7.0",
-      "7.5 to 9.0",
-      "9.0 to 10.5"
+      "To establish trade agreements with other countries",
+      "To provide financing and technical assistance to farmers",
+      "To regulate agricultural practices",
+      "To conduct research and development"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a C4 plant?",
+    "question": "What is the main advantage of using conservation agriculture?",
     "options": [
-      "Rice",
-      "Wheat",
-      "Sugarcane",
-      "Soybean"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'photoperiodism' in plants refers to:",
-    "options": [
-      "The rate at which plants absorb sunlight for photosynthesis",
-      "The response of plants to the relative lengths of day and night",
-      "The movement of plants toward a light source",
-      "The pigmentation changes in leaves during autumn"
+      "To decrease biodiversity",
+      "To reduce soil erosion and improve soil health",
+      "To increase crop yields",
+      "To reduce water use"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which hormone is primarily responsible for fruit ripening in climacteric fruits?",
+    "question": "Which of the following is an example of a biotechnological innovation in agriculture?",
     "options": [
-      "Auxin",
-      "Gibberellin",
-      "Cytokinin",
-      "Ethylene"
+      "Precision agriculture",
+      "Organic farming",
+      "Conservation agriculture",
+      "Genetically modified crops"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In livestock production, what does the term 'estrus' refer to?",
+    "question": "What is the role of the Inter-American Institute for Cooperation on Agriculture (IICA) in regional agriculture?",
     "options": [
-      "The gestation period of a female animal",
-      "The period when a female animal is sexually receptive",
-      "The weaning of young animals from their mothers",
-      "The process of artificial insemination"
+      "To regulate agricultural practices",
+      "To establish trade agreements with other countries",
+      "To conduct research and development",
+      "To provide technical assistance and promote regional cooperation in agriculture"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is the most accurate definition of 'carrying capacity' in pasture management?",
+    "question": "What is the role of the Caribbean Agricultural Research and Development Institute (CARDI) in regional agriculture?",
     "options": [
-      "The maximum number of animals a pasture can support without degradation",
-      "The total weight of animals on a given area of land",
-      "The minimum stocking rate needed for economic viability",
-      "The rate at which pasture grasses regrow after grazing"
+      "To conduct research and provide technical assistance to farmers",
+      "To establish trade agreements with other countries",
+      "To regulate agricultural practices",
+      "To provide funding for agricultural projects"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the main advantage of using drip irrigation over flood irrigation?",
+    "question": "What is the role of the Ministry of Agriculture, Land and Fisheries in Caribbean agriculture?",
     "options": [
-      "Drip irrigation is cheaper to install",
-      "Drip irrigation delivers water directly to the root zone reducing water loss",
-      "Drip irrigation requires no maintenance",
-      "Drip irrigation can only be used for large-scale farms"
+      "To regulate agricultural practices",
+      "To conduct research and development",
+      "To provide policy guidance and technical assistance to farmers",
+      "To establish trade agreements with other countries"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of crop rotation?",
+    "options": [
+      "To increase crop yields",
+      "To improve soil fertility",
+      "To reduce soil erosion",
+      "To break disease and pest cycles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the role of the Ministry of Agriculture, Land and Fisheries in Caribbean agriculture?",
+    "options": [
+      "To provide policy guidance and technical assistance to farmers",
+      "To conduct research and development",
+      "To establish trade agreements with other countries",
+      "To regulate agricultural practices"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main goal of the Food and Agriculture Organization (FAO) in the Caribbean?",
+    "options": [
+      "To provide funding for agricultural projects",
+      "To regulate agricultural practices",
+      "To establish trade agreements with other countries",
+      "To promote food security and improve the lives of farmers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main goal of food security initiatives in the Caribbean?",
+    "options": [
+      "To improve agricultural productivity",
+      "To reduce agricultural imports",
+      "To promote agricultural exports",
+      "To ensure access to sufficient, safe, and nutritious food"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main impact of climate change on agricultural productivity in the Caribbean?",
+    "options": [
+      "To increase crop yields and reduce pest and disease pressure",
+      "To reduce soil erosion",
+      "To have no impact on agricultural productivity",
+      "To reduce crop yields and increase pest and disease pressure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of a biotechnological innovation in agriculture?",
+    "options": [
+      "Precision agriculture",
+      "Genetically modified crops",
+      "Conservation agriculture",
+      "Organic farming"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following pests is a major vector of the mosaic virus in sweet potato cultivation?",
+    "question": "Which of the following is an example of a value-added agricultural product?",
     "options": [
-      "Aphids",
-      "Whiteflies",
-      "Thrips",
-      "Mealybugs"
+      "Dried sweet potato",
+      "Fresh sweet potato",
+      "Raw sweet potato",
+      "Processed sweet potato flakes"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "The 'law of the minimum' in plant nutrition states that:",
+    "question": "What is the main advantage of using integrated pest management?",
     "options": [
-      "Plant growth is determined by the most abundant nutrient available",
-      "Plant growth is limited by the nutrient present in the smallest quantity relative to need",
-      "Plants require equal amounts of all essential nutrients",
-      "Excess nutrients always increase plant yield"
+      "To have no impact on the use of chemical pesticides or biodiversity",
+      "To increase the use of chemical pesticides and reduce biodiversity",
+      "To decrease crop yields",
+      "To reduce the use of chemical pesticides and promote biodiversity"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In animal genetics, the term 'heterosis' or hybrid vigour refers to:",
-    "options": [
-      "The expression of a recessive trait in offspring",
-      "The superior performance of crossbred offspring compared to the average of their parents",
-      "The selective breeding of animals with similar traits",
-      "The genetic mutation caused by inbreeding"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which post-harvest technique involves removing field heat from fresh produce immediately after harvest?",
-    "options": [
-      "Curing",
-      "Pre-cooling",
-      "Blanching",
-      "Irradiation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes integrated pest management (IPM)?",
-    "options": [
-      "The exclusive use of chemical pesticides to eliminate all pests",
-      "A combination of biological, cultural, physical and chemical methods to manage pests economically",
-      "The use of genetically modified organisms to resist all pests",
-      "The complete elimination of all pest species from an ecosystem"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

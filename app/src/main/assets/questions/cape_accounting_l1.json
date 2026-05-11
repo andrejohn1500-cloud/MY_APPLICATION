@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which accounting concept states that a business is separate from its owner?",
+    "question": "What is the purpose of accounting standards in financial accounting?",
     "options": [
-      "Going Concern",
-      "Business Entity",
-      "Accruals",
-      "Consistency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the accounting equation?",
-    "options": [
-      "Assets = Liabilities + Capital",
-      "Assets + Liabilities = Capital",
-      "Capital = Assets + Liabilities",
-      "Liabilities = Assets + Capital"
+      "To ensure consistency and comparability in financial reporting",
+      "To prepare management reports",
+      "To provide financial information to external users",
+      "To plan and control business operations"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a current asset?",
+    "question": "What is the purpose of financial analysis?",
     "options": [
-      "Motor Vehicle",
-      "Land",
-      "Inventory",
-      "Equipment"
+      "To plan and control business operations",
+      "To prepare management reports",
+      "To evaluate business performance and provide insights for decision making",
+      "To provide financial information to external users"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A credit entry on the bank account indicates:",
+    "question": "What is the primary function of financial accounting?",
     "options": [
-      "Money deposited into the bank",
-      "Money withdrawn from the bank",
-      "An increase in the bank balance",
-      "A payment received"
+      "To prepare management reports",
+      "To plan and control business operations",
+      "To provide management information to decision makers",
+      "To provide financial information to external users"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of accounting standards?",
+    "options": [
+      "To prepare management reports",
+      "To ensure consistency and comparability in financial reporting",
+      "To plan and control business operations",
+      "To provide financial information to external users"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which financial statement shows a company's financial position at a specific date?",
+    "question": "What is the difference between financial accounting and cost accounting?",
     "options": [
-      "Income Statement",
-      "Cash Flow Statement",
-      "Statement of Financial Position",
-      "Statement of Changes in Equity"
+      "Financial accounting provides financial information to management, while cost accounting provides information to external users",
+      "Financial accounting provides information to external users, while cost accounting provides information to management",
+      "Financial accounting provides information to management, while cost accounting provides information to external users",
+      "Financial accounting provides financial information to external users, while cost accounting provides management with cost information for decision making"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Depreciation is best described as:",
+    "question": "What is the main advantage of a sole proprietorship over a company?",
     "options": [
-      "The loss in market value of an asset",
-      "The allocation of the cost of an asset over its useful life",
-      "The repair cost of a fixed asset",
-      "The purchase price of an asset"
+      "A sole proprietorship is owned by one individual",
+      "A sole proprietorship is owned by two or more individuals, while a company is owned by one individual",
+      "A sole proprietorship is owned by a single entity, while a company is owned by two or more entities",
+      "A sole proprietorship is owned by an entity, while a company is owned by an individual"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between financial accounting and management accounting?",
+    "options": [
+      "Financial accounting provides information to external users, while management accounting provides information to management",
+      "Financial accounting provides information to management, while management accounting provides information to external users",
+      "Financial accounting provides financial information to management, while management accounting provides information to external users",
+      "Financial accounting provides financial information to external users, while management accounting provides information to management for decision making"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of financial analysis in management accounting?",
+    "options": [
+      "To plan and control business operations",
+      "To prepare management reports",
+      "To provide financial information to external users",
+      "To evaluate business performance and provide insights for decision making"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main advantage of a partnership over a company?",
+    "options": [
+      "A partnership is owned by one individual, while a company is owned by two or more individuals",
+      "A partnership is owned by two or more individuals",
+      "A partnership is owned by an entity, while a company is owned by an individual",
+      "A partnership is owned by a single entity, while a company is owned by two or more entities"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a liability?",
+    "question": "What is the purpose of financial reporting?",
     "options": [
-      "Cash at bank",
-      "Trade receivables",
-      "Bank loan",
-      "Motor vehicle"
+      "To provide management information to decision makers",
+      "To prepare management reports",
+      "To provide financial information to external users",
+      "To plan and control business operations"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The straight-line method of depreciation calculates depreciation based on:",
+    "question": "What is the main advantage of a company over a sole proprietorship?",
     "options": [
-      "The reducing balance of the asset",
-      "Equal amounts each year over the asset's useful life",
-      "The number of units produced",
-      "The market value of the asset"
+      "A company is a separate legal entity",
+      "A company is owned by one individual, while a sole proprietorship is owned by two or more individuals",
+      "A company is not a separate legal entity",
+      "A company is owned by two or more individuals, while a sole proprietorship is owned by one individual"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of budgeting in a business?",
+    "options": [
+      "To prepare management reports",
+      "To evaluate business performance",
+      "To provide financial information to external users",
+      "To plan and control business operations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of accounting standards in management accounting?",
+    "options": [
+      "To plan and control business operations",
+      "To provide financial information to external users",
+      "To prepare management reports",
+      "To ensure consistency and comparability in financial reporting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the difference between a sole trader and a partnership?",
+    "options": [
+      "A sole trader is owned by a single entity, while a partnership is owned by two or more entities",
+      "A sole trader is owned by one individual, while a partnership is owned by two or more individuals",
+      "A sole trader is owned by two or more individuals, while a partnership is owned by one individual",
+      "A sole trader is owned by an entity, while a partnership is owned by an individual"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which book of original entry is used to record credit sales?",
+    "question": "What is the main advantage of a company over a partnership?",
     "options": [
-      "Cash Book",
-      "Purchases Journal",
-      "Sales Journal",
-      "General Journal"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If a business has total assets of $50,000 and total liabilities of $20,000, what is the owner's equity?",
-    "options": [
-      "$70,000",
-      "$20,000",
-      "$30,000",
-      "$50,000"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'gross profit' mean?",
-    "options": [
-      "Net sales minus all expenses",
-      "Sales minus cost of goods sold",
-      "Net profit plus expenses",
-      "Total revenue minus tax"
+      "A company is owned by two or more individuals, while a partnership is owned by one individual",
+      "A company is a separate legal entity",
+      "A company is owned by one individual, while a partnership is owned by two or more individuals",
+      "A company is not a separate legal entity"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a sole trader?",
-    "options": [
-      "A business owned by two or more people",
-      "A business owned and operated by one person",
-      "A business that issues shares to the public",
-      "A business registered as a company"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The principle that revenue should be recognized when it is earned is known as:",
-    "options": [
-      "Prudence",
-      "Consistency",
-      "Accruals",
-      "Materiality"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A trial balance is prepared to:",
-    "options": [
-      "Show the profit of the business",
-      "Check the arithmetic accuracy of the ledger accounts",
-      "Prepare the cash flow statement",
-      "Record daily transactions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following would be classified as capital expenditure?",
-    "options": [
-      "Payment of electricity bill",
-      "Purchase of office stationery",
-      "Purchase of a new delivery van",
-      "Payment of employees' wages"
-    ],
-    "correctIndex": 2
   }
 ]

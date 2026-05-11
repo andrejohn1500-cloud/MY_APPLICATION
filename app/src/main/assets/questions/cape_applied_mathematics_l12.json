@@ -1,202 +1,152 @@
 [
   {
-    "question": "Solve the quadratic equation x\u00b2 - 5x + 6 = 0.",
+    "question": "A projectile is launched from the ground with an initial velocity of 20 m/s at an angle of 45 degrees above the horizontal. What is the range of the projectile?",
     "options": [
-      "x = 5 or x = 6",
-      "x = 1 or x = 6",
-      "x = 2 or x = 3 by factoring (x-2)(x-3) = 0",
-      "x = -2 or x = -3"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A geometric series has first term 4 and common ratio 0.5. Find the sum to infinity.",
-    "options": [
-      "S\u221e = 16",
-      "S\u221e = 2",
-      "S\u221e = 4",
-      "S\u221e = a/(1-r) = 4/(1-0.5) = 4/0.5 = 8"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Given f(x) = 3x\u00b2 - 4x + 1, find f'(x).",
-    "options": [
-      "f'(x) = 3x - 4",
-      "f'(x) = 9x - 4",
-      "f'(x) = 6x - 4",
-      "f'(x) = 6x\u00b2 - 4"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Find the turning point of f(x) = x\u00b2 - 6x + 11.",
-    "options": [
-      "Turning point is (6, 11)",
-      "Turning point is (-3, 2)",
-      "f'(x) = 2x - 6 = 0 gives x = 3; f(3) = 9 - 18 + 11 = 2; turning point is (3, 2) \u2014 a minimum",
-      "Turning point is (3, 3)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The sum of the first n terms of an arithmetic series is Sn = n/2(2a + (n-1)d). Find S10 when a=3 and d=2.",
-    "options": [
-      "S10 = 60",
-      "S10 = 150",
-      "S10 = 100",
-      "S10 = 10/2(6 + 18) = 5 \u00d7 24 = 120"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Find the area under y = x\u00b2 between x = 0 and x = 3.",
-    "options": [
-      "3 square units",
-      "\u222b\u2080\u00b3 x\u00b2 dx = [x\u00b3/3]\u2080\u00b3 = 9 - 0 = 9 square units",
-      "6 square units",
-      "27 square units"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A linear programming problem has constraints x + y \u2264 10, x \u2265 2, y \u2265 3. Find the vertices of the feasible region.",
-    "options": [
-      "The feasible region has no vertices",
-      "Vertices are (2,3), (7,3) and (2,8) found by solving constraint boundary intersections",
-      "Vertices are (0,0), (10,0) and (0,10)",
-      "Vertices are (2,2) and (10,10)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A bag contains 5 red and 3 blue balls. Two balls are drawn without replacement. Find P(both red).",
-    "options": [
-      "P = (5/8) \u00d7 (5/8) = 25/64",
-      "P = 10/8",
-      "P = 5/8 + 4/7",
-      "P = (5/8) \u00d7 (4/7) = 20/56 = 5/14"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Vectors a = (3,4) and b = (1,2). Find |a - b|.",
-    "options": [
-      "5",
-      "\u221a5",
-      "a - b = (2,2); |a-b| = \u221a(4+4) = \u221a8 = 2\u221a2",
-      "\u221a20"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Two events A and B have P(A) = 0.4, P(B) = 0.3, P(A\u2229B) = 0.1. Find P(A\u222aB).",
-    "options": [
-      "P(A\u222aB) = 0.4 \u00d7 0.3 = 0.12",
-      "P(A\u222aB) = 0.4 + 0.3 = 0.7",
-      "P(A\u222aB) = 0.1",
-      "P(A\u222aB) = 0.4 + 0.3 - 0.1 = 0.6"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The probability that a student passes Maths is 0.7 and passes English is 0.6. If independent, find P(passes both).",
-    "options": [
-      "P(M\u2229E) = 0.7 \u00d7 0.6 = 0.42",
-      "P = 0.7/0.6",
-      "P = 0.7 - 0.6 = 0.1",
-      "P = 0.7 + 0.6 = 1.3"
+      "50 m",
+      "60 m",
+      "70 m",
+      "40 m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Find the correlation coefficient interpretation: r = -0.92.",
+    "question": "In a linear programming problem, the objective function is maximized when x = 5 and y = 3. If the objective function is f(x,y) = 3x + 2y, what is the maximum value of the objective function?",
     "options": [
-      "No correlation between variables",
-      "Weak positive correlation",
-      "Strong negative correlation \u2014 as one variable increases the other decreases",
-      "Perfect negative correlation where all points lie exactly on a line"
+      "23",
+      "21",
+      "19",
+      "25"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A random sample of 10 students from a population of 100 students has a mean height of 175 cm with a standard deviation of 5 cm. Assuming a normal distribution, what is the probability that a randomly selected student from the population has a height greater than 180 cm?",
+    "options": [
+      "0.1587",
+      "0.3414",
+      "0.2389",
+      "0.4561"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Find the equation of the line passing through (2,3) and (4,7).",
+    "question": "A box contains 2 red balls and 5 blue balls. If one ball is drawn at random, what is the probability that it is red?",
     "options": [
-      "y = 3x - 1",
-      "Gradient = (7-3)/(4-2) = 2; y - 3 = 2(x - 2); y = 2x - 1",
-      "y = x + 1",
-      "y = 2x + 3"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a group of 30 students: 18 study Maths, 15 study Science, 7 study both. How many study neither?",
-    "options": [
-      "2 students",
-      "8 students",
-      "n(M\u222aS) = 18 + 15 - 7 = 26; neither = 30 - 26 = 4",
-      "6 students"
+      "4/7",
+      "3/7",
+      "2/7",
+      "1/5"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Given matrix A = [[2,1],[3,4]], find the determinant and inverse.",
+    "question": "A particle moves with a velocity of 10 m/s along a circular path with a radius of 5 m. What is its acceleration?",
     "options": [
-      "det = 2\u00d74 - 1\u00d73 = 5; inverse = (1/5)[[4,-1],[-3,2]]",
-      "det = 5; inverse = [[4,1],[-3,2]]",
-      "det = 11; no inverse exists",
-      "det = 8; inverse = [[4,1],[3,2]]"
+      "25 m/s^2",
+      "20 m/s^2",
+      "10 m/s^2",
+      "50 m/s^2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A box contains 5 red balls and 3 blue balls. If two balls are drawn at random, what is the probability that both balls are red?",
+    "options": [
+      "9/28",
+      "1/3",
+      "3/10",
+      "5/14"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A die is rolled twice. Find P(sum = 7).",
+    "question": "A regression equation is given by Y = 2 + 3X. What is the slope of the regression line?",
     "options": [
-      "P = 1/12",
-      "6 favourable outcomes out of 36: P = 6/36 = 1/6",
-      "P = 7/36",
-      "P = 1/36"
+      "1",
+      "2",
+      "4",
+      "3"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Solve: |2x - 3| = 7.",
+    "question": "A particle moves with a velocity of 15 m/s along a circular path with a radius of 10 m. What is its angular velocity?",
     "options": [
-      "2x - 3 = 7 gives x = 5; 2x - 3 = -7 gives x = -2; solutions x = 5 or x = -2",
-      "x = 5 only",
-      "x = 2 or x = -5",
-      "x = -2 only"
+      "35 rad/s",
+      "25 rad/s",
+      "20 rad/s",
+      "30 rad/s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The probability distribution of a random variable X is given by P(X = 1) = 0.3 and P(X = 2) = 0.7. What is the expected value of X?",
+    "options": [
+      "2.1",
+      "1.1",
+      "1.7",
+      "3.1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A particle moves with a velocity of 10 m/s along a circular path with a radius of 5 m. What is its angular velocity?",
+    "options": [
+      "10 rad/s",
+      "25 rad/s",
+      "15 rad/s",
+      "20 rad/s"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's production function is given by Q = 2L^2 + 5M, where Q is the output, L is the labor and M is the machinery. Find the marginal product of machinery.",
+    "options": [
+      "2L",
+      "4L",
+      "10L^2",
+      "5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A firm can produce 100 units of a product using 200 hours of labor. If the wage rate is $10 per hour, what is the total cost of production?",
+    "options": [
+      "$2000",
+      "$3000",
+      "$1000",
+      "$2500"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Find the stationary point of y = x\u00b2 - 4x + 7.",
+    "question": "A random sample of 9 observations is selected from a population with a mean of 25 and a standard deviation of 3. What is the sample mean?",
     "options": [
-      "dy/dx = 2x - 4 = 0; x = 2; y = 4 - 8 + 7 = 3; stationary point (2,3)",
-      "(2, -3)",
-      "(-2, 3)",
-      "(4, 7)"
+      "24.5",
+      "26.0",
+      "25.5",
+      "25"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Given A = [[1,2],[3,4]] and B = [[5,6],[7,8]], find AB.",
+    "question": "The probability density function of a random variable X is given by f(x) = 2x, for 0 < x < 1. What is the variance of X?",
     "options": [
-      "[[5,12],[21,32]]",
-      "AB = [[1\u00d75+2\u00d77, 1\u00d76+2\u00d78],[3\u00d75+4\u00d77, 3\u00d76+4\u00d78]] = [[19,22],[43,50]]",
-      "[[19,22],[41,48]]",
-      "[[6,8],[10,12]]"
+      "1/4",
+      "1/6",
+      "1/3",
+      "1/12"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Find \u222b(3x\u00b2 + 2x) dx.",
+    "question": "A company sells a product at a price of $50 per unit. The cost of producing one unit is $20 and the fixed cost is $1000. How many units must be sold to break even?",
     "options": [
-      "x\u00b3 + x + C",
-      "x\u00b3 + x\u00b2 + C",
-      "6x + 2 + C",
-      "3x\u00b3 + 2x\u00b2 + C"
+      "22 units",
+      "20 units",
+      "21 units",
+      "25 units"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

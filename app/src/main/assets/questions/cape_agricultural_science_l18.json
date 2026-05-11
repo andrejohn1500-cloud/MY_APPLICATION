@@ -1,152 +1,112 @@
 [
   {
-    "question": "Which of the following best describes the process of nitrogen fixation in leguminous plants?",
+    "question": "Which of the following agricultural practices is most likely to reduce water degradation?",
     "options": [
-      "Conversion of nitrates to atmospheric nitrogen by denitrifying bacteria in root nodules",
-      "Conversion of atmospheric nitrogen to ammonia by Rhizobium bacteria in root nodules",
-      "Absorption of nitrates from soil by root hairs and conversion to amino acids",
-      "Conversion of ammonium ions to nitrites by Nitrosomonas bacteria in root nodules"
+      "Irrigation management",
+      "Drainage management",
+      "Crop rotation",
+      "Watershed management"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A farmer applies 200 kg/ha of a 15:15:15 NPK fertilizer to a crop. How many kilograms of elemental nitrogen per hectare are being applied?",
+    "question": "Which of the following agricultural practices is most likely to reduce soil erosion?",
     "options": [
-      "15 kg/ha",
-      "30 kg/ha",
-      "45 kg/ha",
-      "60 kg/ha"
+      "No-till farming",
+      "Strip cropping",
+      "Crop rotation",
+      "Conservation tillage"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which soil structure type is considered most ideal for crop production due to its balance of pore space, water retention, and aeration?",
+    "question": "What is the term for the process of converting a plant species into a sterile, seed-producing form?",
     "options": [
-      "Platy",
-      "Columnar",
-      "Granular",
-      "Massive"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In plant breeding, a testcross is performed primarily to determine the",
-    "options": [
-      "phenotypic ratio of F2 offspring",
-      "genotype of an individual showing a dominant phenotype",
-      "heritability index of a quantitative trait",
-      "polyploidy level of a hybrid organism"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following hormones is primarily responsible for stimulating milk letdown in dairy cattle?",
-    "options": [
-      "Prolactin",
-      "Estrogen",
-      "Oxytocin",
-      "Progesterone"
+      "Parthenocarpy and apomixis are the same",
+      "Parthenogenesis",
+      "Parthenocarpy",
+      "Apomixis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The coefficient of variation (CV) in an agricultural experiment is used to",
+    "question": "A farmer is considering the use of precision agriculture (PA) in their crop production system. What is a primary benefit of this approach in terms of water quality?",
     "options": [
-      "measure the average yield across treatments",
-      "assess the relative variability of experimental data",
-      "determine the correlation between two crop variables",
-      "calculate the heritability of a quantitative trait"
+      "d. It has no impact on water quality and crop yields",
+      "c",
+      "b. It increases water quality and decreases crop yields",
+      "a. It decreases water quality and increases crop yields"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes the term 'cation exchange capacity' (CEC) in soils?",
+    "question": "What is the primary benefit of using biotechnology in agriculture?",
     "options": [
-      "The ability of soil to retain and supply anions to plant roots",
-      "The total amount of cations that a soil can hold in its pore spaces",
-      "The ability of soil to adsorb and exchange cations with soil solution",
-      "The rate at which cations leach from the A horizon to the B horizon"
+      "Increased farm income",
+      "Reduced crop losses",
+      "Increased crop yields",
+      "Improved crop quality"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In livestock production, the term 'dystocia' refers to",
+    "question": "Which of the following agricultural practices is most likely to reduce greenhouse gas emissions from livestock?",
     "options": [
-      "a metabolic disorder caused by low blood calcium after parturition",
-      "difficult or abnormal parturition requiring assistance",
-      "an infectious reproductive disease causing spontaneous abortion",
-      "inflammation of the mammary gland in lactating animals"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following pest management strategies exemplifies the 'augmentation' approach in biological control?",
-    "options": [
-      "Introducing a new exotic predator to permanently establish in an ecosystem",
-      "Releasing mass-reared parasitoids periodically to suppress pest populations",
-      "Preserving natural enemy habitat through conservation tillage",
-      "Applying microbial pesticides derived from Bacillus thuringiensis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During grain storage, aflatoxin contamination is primarily produced by which of the following organisms?",
-    "options": [
-      "Fusarium oxysporum",
-      "Aspergillus flavus",
-      "Rhizoctonia solani",
-      "Penicillium digitatum"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The economic threshold in integrated pest management is best defined as the pest density at which",
-    "options": [
-      "the pest population causes complete crop failure",
-      "control measures must be applied to prevent losses exceeding the cost of control",
-      "the natural enemy population is unable to regulate the pest",
-      "the pest population first becomes detectable in the field"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following accurately describes the difference between incomplete dominance and codominance?",
-    "options": [
-      "Incomplete dominance results in a blended phenotype while codominance results in both parental phenotypes expressed simultaneously",
-      "Incomplete dominance occurs only in polyploid organisms while codominance is restricted to diploids",
-      "Incomplete dominance involves three alleles while codominance involves only two alleles",
-      "Incomplete dominance is sex-linked while codominance is autosomal"
+      "Ruminal fermentation",
+      "Feed additives",
+      "Breeding for low-methane producers",
+      "Manure management"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A soil sample has a bulk density of 1.4 g/cm\u00b3 and a particle density of 2.65 g/cm\u00b3. What is the approximate total porosity of this soil?",
+    "question": "In a typical farm business, what is the primary purpose of the decision support system?",
     "options": [
-      "34%",
-      "47%",
-      "53%",
-      "66%"
+      "To determine the business's equity",
+      "To determine the business's cash flows",
+      "To determine the business's assets and liabilities",
+      "To provide a framework for making informed decisions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is the primary mechanism by which conservation tillage systems reduce soil erosion?",
+    "question": "What is the primary function of the apoplastic pathway in plant nutrient uptake?",
     "options": [
-      "Increasing soil bulk density to resist raindrop impact",
-      "Maintaining crop residue on the soil surface to dissipate raindrop energy and reduce runoff",
-      "Incorporating large amounts of lime to improve soil aggregate stability",
-      "Reducing soil organic matter decomposition by limiting microbial activity"
+      "Transportation of minerals from the soil to the root cortex",
+      "Transportation of minerals from the root cortex to the phloem",
+      "Transportation of water and minerals from the root cortex to the xylem",
+      "Transportation of minerals from the root cortex to the xylem"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In a randomized complete block design (RCBD), blocking is used primarily to",
+    "question": "Which of the following agricultural practices is most likely to reduce greenhouse gas emissions?",
     "options": [
-      "increase the number of replications in each treatment",
-      "control for a known source of variability in the experimental area",
-      "eliminate the need for statistical analysis of treatment effects",
-      "reduce the number of treatments required in the experiment"
+      "Agroforestry",
+      "Crop rotation",
+      "Organic amendments",
+      "Conservation tillage"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "In farm management, what is the term for the process of planning and coordinating the activities of a farm or agricultural enterprise to achieve its objectives in terms of its social and cultural resources?",
+    "options": [
+      "d. Operational planning",
+      "a. Strategic planning",
+      "c",
+      "b. Tactical planning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following agricultural practices is most likely to reduce soil degradation?",
+    "options": [
+      "Agroforestry",
+      "Cover cropping",
+      "Conservation tillage",
+      "Crop rotation"
+    ],
+    "correctIndex": 3
   }
 ]

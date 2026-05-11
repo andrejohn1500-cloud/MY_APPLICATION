@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following best describes the role of the enzyme telomerase in eukaryotic cells?",
+    "question": "Which of the following is an example of an abiotic factor in an ecosystem?",
     "options": [
-      "It repairs double-strand breaks in DNA using homologous recombination",
-      "It adds repetitive nucleotide sequences to the ends of chromosomes to prevent shortening during replication",
-      "It unwinds the DNA double helix ahead of the replication fork",
-      "It removes RNA primers and replaces them with DNA during replication"
+      "B) Prey",
+      "D) Temperature",
+      "A) Predator",
+      "C) Decomposer"
     ],
     "correctIndex": 1
   },
   {
-    "question": "During oxidative phosphorylation, the chemiosmotic gradient across the inner mitochondrial membrane drives ATP synthesis. Which statement accurately describes this process?",
+    "question": "Which of the following types of ecological interactions involves the use of energy by one organism to obtain food from another?",
     "options": [
-      "Protons flow from the matrix into the intermembrane space through ATP synthase",
-      "Electrons flow directly through ATP synthase to produce ATP",
-      "Protons flow from the intermembrane space into the matrix through ATP synthase, driving conformational changes that synthesize ATP",
-      "NADH directly phosphorylates ADP to form ATP without proton movement"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A cell treated with colchicine fails to complete mitosis. Which phase of mitosis is most directly disrupted and why?",
-    "options": [
-      "Prophase, because colchicine inhibits chromatin condensation",
-      "Metaphase, because colchicine prevents spindle fibre formation by inhibiting tubulin polymerization",
-      "Anaphase, because colchicine degrades the centromeres holding sister chromatids together",
-      "Telophase, because colchicine blocks the formation of the cleavage furrow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a dihybrid cross between two heterozygous parents (AaBb x AaBb), what proportion of the offspring would be expected to be homozygous recessive for both traits, assuming independent assortment?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "1/4"
+      "A) Herbivory",
+      "C) Omnivory",
+      "D) Decomposition",
+      "B) Carnivory"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following mutations in a regulatory gene would most likely lead to uncontrolled cell proliferation and tumour formation?",
+    "question": "What is the primary function of the plasma membrane in eukaryotic cells?",
     "options": [
-      "A loss-of-function mutation in a proto-oncogene",
-      "A gain-of-function mutation in a tumour suppressor gene",
-      "A gain-of-function mutation in a proto-oncogene converting it to an oncogene",
-      "A loss-of-function mutation in a gene encoding a structural protein"
+      "A) Protein synthesis",
+      "D) Regulation of cell growth and division",
+      "B) Cell signaling",
+      "C) Lysosome formation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of an abiotic factor in a coral reef ecosystem?",
+    "options": [
+      "B) Algae prey",
+      "A) Coral predator",
+      "D) Water temperature",
+      "C) Fish decomposer"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The sodium-potassium pump maintains the resting membrane potential of neurons. Which of the following correctly describes its stoichiometry and energy requirement?",
+    "question": "Which of the following is an example of an ecosystem in the Caribbean region that is affected by climate change?",
     "options": [
-      "It transports 3 Na+ out and 2 K+ in per ATP hydrolysed, creating a net negative charge inside the cell",
-      "It transports 2 Na+ out and 3 K+ in per ATP hydrolysed, creating a net positive charge inside the cell",
-      "It transports 3 Na+ in and 2 K+ out per ATP hydrolysed, creating a net positive charge inside the cell",
-      "It transports equal numbers of Na+ and K+ in opposite directions, with no net charge movement"
+      "B) Savanna",
+      "D) Coral reef",
+      "A) Mangrove forest",
+      "C) Grassland"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of biotechnology involves the use of genetic engineering to produce genetically modified crops?",
+    "options": [
+      "A) Gene editing",
+      "D) Genetic testing",
+      "C) Genetic engineering",
+      "B) DNA sequencing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of ecological succession occurs after a natural disaster such as a hurricane?",
+    "options": [
+      "A) Secondary succession",
+      "D) Nutrient cycle",
+      "B) Primary succession",
+      "C) Climax community"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the cytoskeleton in eukaryotic cells?",
+    "options": [
+      "D) Cell shape and movement",
+      "B) Cell signaling",
+      "C) Energy production",
+      "A) Protein synthesis"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which immunological concept explains why a secondary immune response produces antibodies more rapidly and in greater quantities than the primary response?",
+    "question": "Which of the following types of ecological interactions involves the use of energy by one organism to capture another?",
     "options": [
-      "The secondary response relies on innate immune cells that replicate faster than lymphocytes",
-      "Memory B cells and memory T cells formed during the primary response rapidly proliferate and differentiate upon re-exposure to the same antigen",
-      "Natural killer cells are more numerous during the secondary response",
-      "The secondary response uses a different class of antibody that is pre-formed in the bloodstream"
+      "D) Decomposition",
+      "A) Herbivory",
+      "B) Predation",
+      "C) Omnivory"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of ecological interactions involves the use of energy by one organism to obtain food from dead organisms?",
+    "options": [
+      "A) Herbivory",
+      "B) Carnivory",
+      "D) Decomposition",
+      "C) Omnivory"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of biotechnology involves the use of genetic engineering to produce genetically modified crops that are resistant to pests?",
+    "options": [
+      "D) Genetic testing",
+      "C) Genetic engineering",
+      "B) DNA sequencing",
+      "A) Gene editing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In C4 plants, carbon dioxide fixation initially occurs in mesophyll cells and is then transferred to bundle sheath cells. What is the primary advantage of this spatial separation?",
+    "question": "Which of the following is an example of an ecosystem in the Caribbean region?",
     "options": [
-      "It allows C4 plants to fix CO2 at night when stomata are open",
-      "It concentrates CO2 around RuBisCO in bundle sheath cells, minimising photorespiration",
-      "It completely eliminates the need for the Calvin cycle in these plants",
-      "It allows C4 plants to use water as the primary electron donor instead of NADPH"
+      "D) Coral reef",
+      "B) Savanna",
+      "A) Mangrove forest",
+      "C) Grassland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following biochemical pathways generates ATP during aerobic respiration?",
+    "options": [
+      "D) Fatty acid synthesis",
+      "C) Glycolysis",
+      "B) Citric acid cycle",
+      "A) Pentose phosphate pathway"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly describes the Hardy-Weinberg equilibrium conditions and its significance in population genetics?",
+    "question": "What is the primary function of the ribosome in eukaryotic cells?",
     "options": [
-      "Hardy-Weinberg equilibrium requires small population size, and deviations indicate natural selection only",
-      "Under conditions of random mating, no mutation, no selection, no migration, and large population size, allele frequencies remain constant across generations, providing a null model to detect evolutionary forces",
-      "Hardy-Weinberg equilibrium requires geographic isolation and applies only to sexually reproducing organisms with two alleles",
-      "Equilibrium is only maintained when heterozygote advantage is present in the population"
+      "B) Lysosome formation",
+      "A) Cell signaling",
+      "D) Protein synthesis",
+      "C) Energy production"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Sickle cell anaemia results from a single point mutation in the beta-globin gene. At the molecular level, which type of mutation is this, and what is its effect on the haemoglobin protein?",
+    "question": "In biological systems, the process of homeostasis is essential for maintaining:",
     "options": [
-      "A frameshift mutation that causes premature termination and a truncated haemoglobin protein",
-      "A missense mutation substituting glutamic acid with valine at position 6, causing haemoglobin to polymerise under low oxygen conditions",
-      "A nonsense mutation that converts a valine codon to a stop codon, preventing beta-globin synthesis",
-      "A silent mutation that alters mRNA stability but does not change the amino acid sequence"
+      "a constant rate of reproduction",
+      "a constant rate of growth",
+      "a constant rate of metabolism",
+      "a stable internal environment"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following correctly explains the mechanism by which steroid hormones differ from peptide hormones in their mode of action?",
-    "options": [
-      "Steroid hormones bind to cell-surface receptors and activate second messenger cascades, whereas peptide hormones diffuse into the nucleus",
-      "Steroid hormones are lipid-soluble and diffuse across the plasma membrane to bind intracellular receptors, which then act as transcription factors, whereas peptide hormones bind membrane receptors",
-      "Both steroid and peptide hormones bind intracellular receptors and directly activate gene transcription",
-      "Peptide hormones are lipid-soluble and enter the cell, while steroid hormones remain bound to the extracellular surface"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During the light-dependent reactions of photosynthesis, non-cyclic photophosphorylation results in the production of which set of products?",
-    "options": [
-      "ATP only, with water being regenerated",
-      "ATP, NADPH, and O2, with water being split as the electron donor",
-      "ATP and NADH, with CO2 being released as a byproduct",
-      "NADPH only, with ATP being produced exclusively in the Calvin cycle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A researcher observes that two species of finches that were previously identical have developed different beak morphologies after 10,000 years of geographic isolation. Which evolutionary mechanism best explains this observation?",
-    "options": [
-      "Convergent evolution driven by identical selective pressures in the same environment",
-      "Allopatric speciation, where geographic separation led to independent adaptation and genetic divergence, eventually resulting in reproductive isolation",
-      "Sympatric speciation caused by polyploidy in one of the original populations",
-      "Genetic drift alone acting uniformly in both isolated populations"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the lac operon of E. coli, which combination of conditions results in maximum transcription of the structural genes lacZ, lacY, and lacA?",
-    "options": [
-      "High glucose and high lactose present",
-      "Low glucose and high lactose present, resulting in both CAP activation and repressor inactivation",
-      "High glucose and low lactose present",
-      "Low glucose and low lactose present, with the repressor bound to the operator"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best explains the molecular basis of enzyme specificity, and how competitive inhibition differs from non-competitive inhibition?",
-    "options": [
-      "Enzyme specificity is determined solely by the inhibitor binding site; competitive inhibitors bind the allosteric site while non-competitive inhibitors bind the active site",
-      "Enzyme specificity arises from the complementary shape and chemical properties of the active site and substrate; competitive inhibitors bind the active site and can be overcome by increasing substrate concentration, whereas non-competitive inhibitors bind an allosteric site, altering active site conformation and reducing Vmax regardless of substrate concentration",
-      "Enzyme specificity depends on temperature only; both types of inhibitor reduce Vmax equally but affect Km differently",
-      "Competitive inhibitors permanently denature the enzyme, while non-competitive inhibitors reversibly bind the active site"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

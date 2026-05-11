@@ -1,152 +1,112 @@
 [
   {
-    "question": "Which accounting concept requires that expenses be matched with the revenues they help to generate in the same accounting period?",
+    "question": "What is the main purpose of a cost accounting system in a service company?",
     "options": [
-      "Accruals concept",
-      "Going concern concept",
-      "Prudence concept",
-      "Consistency concept"
+      "To identify and record the costs of a company's activities and to provide information to management for decision making",
+      "To provide information about the company's assets only",
+      "To control and coordinate activities only",
+      "To report the company's profits only"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A company purchases machinery for $50,000 with a useful life of 10 years and a residual value of $5,000. What is the annual depreciation charge using the straight-line method?",
+    "question": "What is the accounting standard that deals with the accounting treatment for provisions?",
     "options": [
-      "$5,000",
-      "$4,500",
-      "$5,500",
-      "$4,000"
+      "IAS 37 (Provisions, Contingent Liabilities and Contingent Assets) and CARICOM 37",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of the Statement of Comprehensive Income (SCI) in financial accounting?",
+    "options": [
+      "To provide a summary of the company's comprehensive income for the period",
+      "To report the company's revenues and expenses only",
+      "To provide information about the company's assets and liabilities only",
+      "To disclose the company's accounting policies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting treatment for an expense that is incurred but not yet paid?",
+    "options": [
+      "It is ignored",
+      "It is recorded as a liability (accrual) and as an expense in the income statement",
+      "It is recorded as an asset",
+      "It is recorded as an equity"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is classified as a capital expenditure?",
+    "question": "What is the main purpose of a management accounting system?",
     "options": [
-      "Payment of rent for office space",
-      "Purchase of a delivery vehicle",
-      "Repair of office equipment",
-      "Payment of electricity bill"
+      "To provide information to external users only",
+      "To provide information to management for decision making and control",
+      "To control and coordinate activities only",
+      "To report the company's financial performance only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a partnership, the partners' current accounts are used to record which of the following?",
+    "question": "What is the main purpose of a cost accounting system?",
     "options": [
-      "Capital contributed by partners",
-      "Drawings, salaries, interest on capital and share of profit",
-      "Long-term loans from partners",
-      "Revaluation of partnership assets"
+      "To control and coordinate activities only",
+      "To identify and record the costs of a company's products or services",
+      "To report the company's profits only",
+      "To provide information about the company's assets only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When preparing a bank reconciliation statement, outstanding cheques are treated as:",
+    "question": "What is the accounting standard that deals with the accounting treatment for revenue recognition?",
     "options": [
-      "Added to the cash book balance",
-      "Deducted from the bank statement balance",
-      "Added to the bank statement balance",
-      "Deducted from the cash book balance"
+      "IAS 18 (Revenue) and CARICOM 18",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of a management accounting system in a service company?",
+    "options": [
+      "To report the company's profits only",
+      "To identify and record the costs of a company's activities and to provide information to management for decision making",
+      "To provide information about the company's assets only",
+      "To control and coordinate activities only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which financial statement shows a company's financial position at a specific point in time?",
+    "question": "What is the accounting treatment for a company's purchase of a building?",
     "options": [
-      "Income statement",
-      "Statement of cash flows",
-      "Statement of financial position",
-      "Statement of changes in equity"
+      "It is ignored",
+      "It is recorded as a non-current asset and an expense is recognized over its useful life",
+      "It is recorded as an expense only",
+      "It is recorded as a liability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the accounting treatment for a company's purchase of office supplies?",
+    "options": [
+      "It is recorded as an expense and an asset only if there is a long-term benefit",
+      "It is recorded as an expense only",
+      "It is ignored",
+      "It is recorded as a liability"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of a cost-benefit analysis in cost accounting?",
+    "options": [
+      "To control and coordinate activities only",
+      "To report the company's profits only",
+      "To evaluate the costs and benefits of a particular activity or project",
+      "To provide information about the company's assets only"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "A company has current assets of $120,000 and current liabilities of $80,000. What is the current ratio?",
-    "options": [
-      "0.67:1",
-      "1.5:1",
-      "2:1",
-      "1.2:1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the FIFO method of inventory valuation, which units are assumed to be sold first?",
-    "options": [
-      "The most recently purchased units",
-      "The oldest units in stock",
-      "Units with the highest cost",
-      "Units with the lowest cost"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following entries correctly records the receipt of cash from a debtor?",
-    "options": [
-      "Debit Cash, Credit Sales",
-      "Debit Accounts Receivable, Credit Cash",
-      "Debit Cash, Credit Accounts Receivable",
-      "Debit Sales, Credit Cash"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a limited company, retained earnings are also referred to as:",
-    "options": [
-      "Share premium",
-      "Revenue reserves",
-      "Capital reserves",
-      "Debenture redemption reserve"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The acid test ratio is calculated as:",
-    "options": [
-      "Current assets divided by current liabilities",
-      "(Current assets minus inventory) divided by current liabilities",
-      "(Current assets minus prepayments) divided by current liabilities",
-      "Total assets divided by total liabilities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of a partnership according to the Partnership Act?",
-    "options": [
-      "Partners share profits and losses",
-      "Partners have unlimited liability",
-      "A partnership has a separate legal entity from its partners",
-      "Partners can bind the firm by their actions"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A provision for doubtful debts is increased from $2,000 to $3,500. How does this affect the income statement?",
-    "options": [
-      "Income increases by $1,500",
-      "Expense increases by $1,500",
-      "Expense decreases by $1,500",
-      "No effect on the income statement"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which depreciation method charges a higher depreciation expense in the earlier years of an asset's life?",
-    "options": [
-      "Straight-line method",
-      "Revaluation method",
-      "Reducing balance method",
-      "Units of production method"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a manufacturing account, which of the following is included in the calculation of prime cost?",
-    "options": [
-      "Factory overhead expenses",
-      "Direct materials, direct labour and direct expenses",
-      "Administrative salaries",
-      "Depreciation of office equipment"
-    ],
-    "correctIndex": 1
   }
 ]

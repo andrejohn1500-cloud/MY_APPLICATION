@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which financial statement shows a company's financial position at a specific point in time?",
+    "question": "What is the purpose of budgeting in management accounting?",
     "options": [
-      "Income Statement",
-      "Statement of Financial Position",
-      "Cash Flow Statement",
-      "Statement of Changes in Equity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'depreciation' refer to in accounting?",
-    "options": [
-      "An increase in the value of an asset",
-      "The allocation of the cost of a tangible asset over its useful life",
-      "The total cost of purchasing an asset",
-      "The market value of an asset"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is classified as a current liability?",
-    "options": [
-      "Long-term bank loan",
-      "Mortgage payable",
-      "Trade payables",
-      "Plant and equipment"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The accounting equation is best expressed as:",
-    "options": [
-      "Assets = Liabilities + Owner's Equity",
-      "Assets = Liabilities - Owner's Equity",
-      "Assets + Owner's Equity = Liabilities",
-      "Liabilities = Assets + Owner's Equity"
+      "To plan and control business operations",
+      "To evaluate business performance",
+      "To provide financial information to external users",
+      "To prepare management reports"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which costing method assumes that the first items purchased are the first items sold?",
+    "question": "Which standard is a framework for the preparation of financial statements in the Caribbean?",
     "options": [
-      "LIFO",
-      "Weighted Average Cost",
-      "FIFO",
-      "Specific Identification"
+      "IAS 1",
+      "IAS 3",
+      "IAS 4",
+      "IAS 2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of financial analysis in financial accounting?",
+    "options": [
+      "To plan and control business operations",
+      "To provide financial information to external users",
+      "To prepare management reports",
+      "To evaluate business performance and provide insights for decision making"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of auditing?",
+    "options": [
+      "To ensure the accuracy and reliability of financial information",
+      "To plan and control business operations",
+      "To provide financial information to external users",
+      "To prepare management reports"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of internal control in accounting?",
+    "options": [
+      "To prepare management reports",
+      "To provide financial information to external users",
+      "To plan and control business operations",
+      "To ensure the accuracy and reliability of financial information"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the difference between a company and a sole trader?",
+    "options": [
+      "A company is owned by two or more individuals, while a sole trader is owned by one individual",
+      "A company is owned by one individual, while a sole trader is owned by two or more individuals",
+      "A company is a separate legal entity, while a sole trader is not",
+      "A company is not a separate legal entity, while a sole trader is"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a 'subsidiary ledger' used for?",
+    "question": "What is the purpose of cost accounting?",
     "options": [
-      "Recording all transactions of a business",
-      "Providing detailed information supporting a control account",
-      "Preparing the trial balance",
-      "Recording only cash transactions"
+      "To evaluate business performance",
+      "To provide management with cost information for decision making",
+      "To provide financial information to external users",
+      "To prepare management reports"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a partnership, the Capital Account records:",
+    "question": "What is the purpose of budgeting in financial management?",
     "options": [
-      "Only the profits earned by partners",
-      "Permanent investments made by partners",
-      "Day-to-day drawings of partners",
-      "Only loans made to the partnership"
+      "To plan and control business operations",
+      "To evaluate business performance",
+      "To prepare management reports",
+      "To provide financial information to external users"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the difference between a company and a sole proprietorship?",
+    "options": [
+      "A company is a separate legal entity, while a sole proprietorship is not",
+      "A company is owned by one individual, while a sole proprietorship is owned by two or more individuals",
+      "A company is owned by two or more individuals, while a sole proprietorship is owned by one individual",
+      "A company is not a separate legal entity, while a sole proprietorship is"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the three main types of costs in cost accounting?",
+    "options": [
+      "Direct costs, indirect costs, and overhead costs",
+      "Marginal costs, average costs, and opportunity costs",
+      "Sunk costs, opportunity costs, and fixed costs",
+      "Fixed costs, variable costs, and sunk costs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of budgeting in financial accounting?",
+    "options": [
+      "To prepare management reports",
+      "To plan and control business operations",
+      "To provide financial information to external users",
+      "To evaluate business performance"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes 'goodwill' in accounting?",
+    "question": "What is the purpose of financial reporting in management accounting?",
     "options": [
-      "A tangible asset owned by the business",
-      "An intangible asset representing the excess of purchase price over fair value of net assets",
-      "The total value of inventory held",
-      "The market value of shares issued"
+      "To plan and control business operations",
+      "To provide management with financial information for decision making",
+      "To provide financial information to external users",
+      "To prepare management reports"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A debit entry to the bank account indicates:",
+    "question": "Who is responsible for conducting an audit?",
     "options": [
-      "Money owed to the bank",
-      "A decrease in the bank balance",
-      "An increase in the bank balance",
-      "A bank charge applied"
+      "The accountant of the company",
+      "The financial analyst of the company",
+      "The management of the company",
+      "An independent auditor"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following is an example of a capital expenditure?",
+    "question": "What is the main advantage of a partnership over a sole proprietorship?",
     "options": [
-      "Payment of electricity bill",
-      "Purchase of office stationery",
-      "Purchase of a delivery vehicle",
-      "Payment of employee salaries"
+      "A partnership is owned by two or more individuals",
+      "A partnership is owned by an entity, while a sole proprietorship is owned by an individual",
+      "A partnership is owned by a single entity, while a sole proprietorship is owned by two or more entities",
+      "A partnership is owned by one individual, while a sole proprietorship is owned by two or more individuals"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the purpose of a bank reconciliation statement?",
+    "question": "What is the purpose of internal control?",
     "options": [
-      "To record all credit sales",
-      "To reconcile differences between the cash book balance and the bank statement balance",
-      "To prepare the income statement",
-      "To calculate depreciation on assets"
+      "To provide financial information to external users",
+      "To plan and control business operations",
+      "To prepare management reports",
+      "To ensure the accuracy and reliability of financial information"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a company's income statement, gross profit is calculated as:",
-    "options": [
-      "Revenue minus all operating expenses",
-      "Revenue minus cost of goods sold",
-      "Net profit minus taxation",
-      "Revenue minus depreciation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following describes the concept of 'going concern'?",
-    "options": [
-      "A business will be liquidated in the near future",
-      "A business is assumed to continue operating for the foreseeable future",
-      "All assets must be valued at market price",
-      "Only cash transactions are recorded"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A limited company issues shares to raise finance. Which account is credited when shares are issued at par value?",
-    "options": [
-      "Cash Account",
-      "Share Premium Account",
-      "Share Capital Account",
-      "Retained Earnings Account"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which ratio measures a company's ability to meet its short-term obligations using its most liquid assets?",
-    "options": [
-      "Gross Profit Margin",
-      "Current Ratio",
-      "Acid Test Ratio",
-      "Return on Capital Employed"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

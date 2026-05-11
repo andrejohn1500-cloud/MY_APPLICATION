@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which organelle is responsible for the production of ATP through aerobic respiration in eukaryotic cells?",
+    "question": "What is the term for the movement of organisms from one region to another?",
     "options": [
-      "Ribosome",
-      "Mitochondrion",
-      "Golgi apparatus",
-      "Lysosome"
+      "dispersal",
+      "homing",
+      "emigration",
+      "migration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the movement of molecules from an area of high concentration to an area of low concentration?",
+    "options": [
+      "passive transport",
+      "diffusion",
+      "osmosis",
+      "active transport"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the monomer unit of proteins?",
+    "question": "Which type of biological molecule is composed of carbon, hydrogen, and oxygen atoms?",
     "options": [
-      "Fatty acids",
-      "Nucleotides",
-      "Amino acids",
-      "Glucose"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes osmosis?",
-    "options": [
-      "Movement of solute molecules from high to low concentration",
-      "Movement of water molecules from high to low water potential across a selectively permeable membrane",
-      "Active transport of ions against a concentration gradient",
-      "Diffusion of gases across a membrane"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process by which plants manufacture food using sunlight is called:",
-    "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Fermentation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which molecule carries genetic information in most living organisms?",
-    "options": [
-      "RNA",
-      "ATP",
+      "carbohydrate",
       "DNA",
-      "Protein"
+      "lipid",
+      "protein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process by which an organism's cells become specialized to perform specific functions?",
+    "options": [
+      "proliferation",
+      "meiosis",
+      "mitosis",
+      "differentiation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for the study of the structure and function of living organisms?",
+    "options": [
+      "physics",
+      "mathematics",
+      "biology",
+      "chemistry"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of bond holds the two strands of a DNA double helix together?",
+    "question": "Which type of symbiotic relationship is characterized by one organism benefiting and the other being harmed?",
     "options": [
-      "Covalent bonds",
-      "Ionic bonds",
-      "Hydrogen bonds",
-      "Peptide bonds"
+      "commensalism",
+      "mutualism",
+      "parasitism",
+      "symbiosis"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a function of the cell membrane?",
+    "question": "Which type of biological molecule is composed of amino acids and is essential for the structure and function of all living organisms?",
     "options": [
-      "Protein synthesis",
-      "Controlling what enters and exits the cell",
-      "Energy production",
-      "Storage of genetic material"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The basic unit of life is:",
-    "options": [
-      "Tissue",
-      "Organ",
-      "Cell",
-      "Organism"
+      "carbohydrates",
+      "DNA",
+      "protein",
+      "lipids"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which blood cells are primarily responsible for fighting infections?",
+    "question": "Which type of cellular organelle is responsible for synthesizing lipids?",
     "options": [
-      "Red blood cells",
-      "Platelets",
-      "White blood cells",
-      "Plasma cells"
+      "chloroplast",
+      "lysosome",
+      "endoplasmic reticulum",
+      "mitochondria"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In which phase of mitosis do chromosomes line up along the equator of the cell?",
+    "question": "What is the term for the movement of water into a cell through a process called osmosis?",
     "options": [
-      "Prophase",
-      "Anaphase",
-      "Metaphase",
-      "Telophase"
+      "endosmosis",
+      "diffusion",
+      "exosmosis",
+      "osmotic pressure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the process by which plants convert light energy into chemical energy?",
+    "options": [
+      "photosynthesis",
+      "transpiration",
+      "translocation",
+      "respiration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement of molecules from an area of low concentration to an area of high concentration?",
+    "options": [
+      "active transport",
+      "passive transport",
+      "osmosis",
+      "diffusion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the movement of water through a plant, from the roots to the leaves, driven by the energy of light?",
+    "options": [
+      "translocation",
+      "photosynthesis",
+      "transpiration",
+      "respiration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of a disaccharide?",
+    "question": "Which type of cellular organelle is responsible for breaking down and recycling cellular waste and debris?",
     "options": [
-      "Glucose",
-      "Sucrose",
-      "Fructose",
-      "Starch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the role of enzymes in biological reactions?",
-    "options": [
-      "Provide energy for reactions",
-      "Act as biological catalysts to speed up reactions",
-      "Store genetic information",
-      "Transport oxygen in the blood"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process by which water is lost from the leaves of a plant is called:",
-    "options": [
-      "Respiration",
-      "Osmosis",
-      "Transpiration",
-      "Translocation"
+      "mitochondria",
+      "vacuole",
+      "lysosome",
+      "chloroplast"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which domain of life includes organisms whose cells lack a nucleus?",
+    "question": "Which part of a plant cell is responsible for absorbing water and minerals from the soil?",
     "options": [
-      "Eukarya",
-      "Animalia",
-      "Prokaryota",
-      "Fungi"
+      "root hairs",
+      "chloroplasts",
+      "cell wall",
+      "vacuoles"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which of the following correctly describes a food chain?",
+    "question": "Which type of genetic variation occurs when a gene is inherited from both parents and has the same form?",
     "options": [
-      "Sun \u2192 Consumer \u2192 Producer \u2192 Decomposer",
-      "Producer \u2192 Primary consumer \u2192 Secondary consumer \u2192 Tertiary consumer",
-      "Decomposer \u2192 Producer \u2192 Consumer",
-      "Consumer \u2192 Producer \u2192 Sun"
+      "heterozygous",
+      "homozygous",
+      "genotype",
+      "allelic variation"
     ],
     "correctIndex": 1
   }

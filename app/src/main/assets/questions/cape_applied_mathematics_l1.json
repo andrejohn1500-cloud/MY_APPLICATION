@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is a vector?",
+    "question": "What is the unit of measurement for impulse in the SI system?",
     "options": [
-      "A quantity that has both magnitude and direction",
-      "A type of matrix",
-      "A scalar quantity",
-      "A quantity with only magnitude"
+      "N.s",
+      "kg",
+      "s",
+      "m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the complement of a set?",
+    "question": "What is the term for a statement that is false for all values of the variables?",
     "options": [
-      "The universal set itself",
-      "All elements in the universal set that are not in the set",
-      "All elements in the set",
-      "The empty set"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is probability?",
-    "options": [
-      "A measure of how likely an event is to occur expressed as a value between 0 and 1",
-      "The ratio of successful outcomes to total trials only",
-      "A measure of data spread",
-      "The number of times an event occurs"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a prime number?",
-    "options": [
-      "A number greater than 1 that has only two factors: 1 and itself",
-      "Any odd number",
-      "A number with more than two factors",
-      "A number divisible by 2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a factor of a number?",
-    "options": [
-      "A decimal part of a number",
-      "A number greater than the original",
-      "A number that divides exactly into another number",
-      "A number added to another"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the y-intercept of a graph?",
-    "options": [
-      "The gradient of the line",
-      "The point where the graph crosses the y-axis where x = 0",
-      "The point where the graph crosses the x-axis",
-      "The maximum point of the graph"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the range of a data set?",
-    "options": [
-      "The difference between the highest and lowest values",
-      "The middle value",
-      "The average of the data",
-      "The most common value"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the mode?",
-    "options": [
-      "The range of the data",
-      "The average value",
-      "The value that occurs most frequently in a data set",
-      "The middle value"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a quadratic function?",
-    "options": [
-      "A function with no turning point",
-      "A function of the form f(x) = mx + c",
-      "A function involving cube roots",
-      "A function of the form f(x) = ax\u00b2 + bx + c where a \u2260 0"
+      "Universal Statement",
+      "Conditional Statement",
+      "True Statement",
+      "False Statement"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is a subset?",
+    "question": "What is the term for a system with no external forces acting on it?",
     "options": [
-      "A set with no elements",
-      "A set equal to another set",
-      "A set whose elements are all contained in another set",
-      "A set with more elements than another"
+      "Closed System",
+      "Isolated System",
+      "Dynamic System",
+      "Open System"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is a sample space?",
+    "question": "What is the unit of measurement for force in the SI system?",
     "options": [
-      "The set of favourable outcomes only",
-      "The number of trials in an experiment",
-      "The set of all possible outcomes of an experiment",
-      "The probability of an event"
+      "m",
+      "kg",
+      "s",
+      "N"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is the range of a function?",
+    "question": "What is the term for a system with one variable and one objective function?",
     "options": [
-      "The set of all possible output values",
-      "The minimum value of the function",
-      "The set of all input values",
-      "The y-intercept of the function"
+      "Non-Linear Programming Problem",
+      "Dynamic Programming Problem",
+      "Linear Programming Problem",
+      "Optimization Problem"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": [
+      "A = 1/2 * base * height",
+      "A = length * width",
+      "A = 1/3 * base * height",
+      "A = \u03c0r\u00b2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the unit of measurement for energy in the SI system?",
+    "options": [
+      "J",
+      "s",
+      "kg",
+      "m"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is a set?",
+    "question": "What is the formula for the area of a semicircle?",
     "options": [
-      "A type of equation",
-      "A well-defined collection of distinct objects",
-      "A graph of a function",
-      "A list of numbers in order"
+      "A = 1/2 * \u03c0r\u00b2",
+      "A = 1/3 * base * height",
+      "A = 1/2 * base * height",
+      "A = length * width"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for a set of data that is skewed to the right?",
+    "options": [
+      "Normal Distribution",
+      "Skewed Distribution",
+      "Symmetric Distribution",
+      "Uniform Distribution"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a geometric sequence?",
+    "question": "What is the formula for the derivative of the absolute value function?",
     "options": [
-      "A random sequence of numbers",
-      "A sequence with a constant difference between terms",
-      "A sequence where each term is multiplied by a constant ratio",
-      "A sequence of square numbers"
+      "d/dx (|x|) = 1",
+      "d/dx (|x|) = x",
+      "d/dx (|x|) = 1 (for x > 0), -1 (for x < 0)",
+      "d/dx (|x|) = -x"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the gradient of a line?",
+    "question": "In a normal distribution, what is the mean of the data set?",
     "options": [
-      "The y-intercept of the line",
-      "The measure of steepness calculated as rise over run",
-      "The length of the line",
-      "The x-intercept of the line"
+      "\u03c3\u00b2",
+      "\u03bc",
+      "\u03c3",
+      "z-score"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the median?",
+    "question": "What is the term for a statement that is always true, regardless of the values of the variables?",
     "options": [
-      "The middle value when data is arranged in order",
-      "The highest minus the lowest value",
-      "The average of all values",
-      "The most common value"
+      "False Statement",
+      "Universal Statement",
+      "True Statement",
+      "Conditional Statement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the unit of measurement for angular acceleration in the SI system?",
+    "options": [
+      "rad/s\u00b2",
+      "s",
+      "m",
+      "kg"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the intersection of two sets?",
+    "question": "What is the term for a set of data that is symmetric about the mean?",
     "options": [
-      "Elements in neither set",
-      "Elements that are in both set A and set B",
-      "All elements in either set",
-      "Elements in A only"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is an arithmetic sequence?",
-    "options": [
-      "A sequence with no pattern",
-      "A sequence where each term differs from the previous by a constant amount called the common difference",
-      "A sequence where each term is multiplied by a constant",
-      "A sequence of prime numbers"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the mean of a data set?",
-    "options": [
-      "The sum of all values divided by the number of values",
-      "The most frequently occurring value",
-      "The middle value when data is ordered",
-      "The difference between the highest and lowest values"
+      "Symmetric Distribution",
+      "Skewed Distribution",
+      "Normal Distribution",
+      "Uniform Distribution"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is a linear function?",
+    "question": "What is the unit of measurement for acceleration in the SI system?",
     "options": [
-      "A function with no x-intercept",
-      "A function whose graph is a straight line with equation y = mx + c",
-      "A function that only has positive values",
-      "A function whose graph is a curve"
+      "m",
+      "kg",
+      "s",
+      "m/s\u00b2"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,42 @@
 [
   {
-    "question": "Which financial statement shows a company's financial position at a specific point in time?",
+    "question": "What is the primary function of management accounting?",
     "options": [
-      "Income Statement",
-      "Statement of Financial Position",
-      "Cash Flow Statement",
-      "Statement of Changes in Equity"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the acronym FIFO stand for in inventory valuation?",
-    "options": [
-      "First In First Out",
-      "Final Invoice For Orders",
-      "Fixed Interest Financial Operations",
-      "First Invoice Final Output"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which accounting concept states that expenses should be matched with the revenues they help to generate?",
-    "options": [
-      "Prudence concept",
-      "Going concern concept",
-      "Matching concept",
-      "Consistency concept"
+      "To prepare management reports",
+      "To provide financial information to external users",
+      "To provide management with information for decision making",
+      "To plan and control business operations"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the formula for calculating gross profit?",
+    "question": "What is the difference between a sole proprietorship and a partnership?",
     "options": [
-      "Revenue minus total expenses",
-      "Revenue minus cost of sales",
-      "Net profit plus expenses",
-      "Cost of sales minus revenue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A debtor is best described as someone who:",
-    "options": [
-      "Owes money to the business",
-      "Is owed money by the business",
-      "Supplies goods to the business",
-      "Manages the accounts of the business"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a current liability?",
-    "options": [
-      "Long-term loan",
-      "Trade payables",
-      "Motor vehicle",
-      "Mortgage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Depreciation is best described as:",
-    "options": [
-      "The market value of an asset",
-      "The allocation of the cost of a non-current asset over its useful life",
-      "The cash paid for an asset",
-      "The repair cost of an asset"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the accounting equation?",
-    "options": [
-      "Assets = Liabilities + Equity",
-      "Assets = Revenue - Expenses",
-      "Equity = Assets + Liabilities",
-      "Liabilities = Assets + Equity"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is an example of a non-current asset?",
-    "options": [
-      "Cash at bank",
-      "Inventory",
-      "Land and buildings",
-      "Trade receivables"
+      "A sole proprietorship is owned by an entity, while a partnership is owned by an individual",
+      "A sole proprietorship is owned by a single entity, while a partnership is owned by two or more entities",
+      "A sole proprietorship is owned by one individual, while a partnership is owned by two or more individuals",
+      "A sole proprietorship is owned by two or more individuals, while a partnership is owned by one individual"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The straight-line method of depreciation calculates depreciation as:",
+    "question": "What is the difference between a company and a partnership?",
     "options": [
-      "A fixed percentage of the reducing balance",
-      "An equal amount each year over the asset's useful life",
-      "Based on units of production",
-      "A decreasing amount each year"
+      "A company is not a separate legal entity, while a partnership is",
+      "A company is a separate legal entity, while a partnership is not",
+      "A company is owned by one individual, while a partnership is owned by two or more individuals",
+      "A company is owned by two or more individuals, while a partnership is owned by one individual"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which book of prime entry is used to record credit sales?",
+    "question": "What is the difference between a company and a partnership?",
     "options": [
-      "Cash book",
-      "Purchases journal",
-      "Sales journal",
-      "General journal"
+      "A company is owned by two or more individuals, while a partnership is owned by one individual",
+      "A company is owned by one individual, while a partnership is owned by two or more individuals",
+      "A company is not a separate legal entity, while a partnership is",
+      "A company is a separate legal entity, while a partnership is not"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a trial balance used for?",
-    "options": [
-      "To prepare tax returns",
-      "To check that total debits equal total credits in the ledger",
-      "To record daily transactions",
-      "To calculate gross profit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The going concern concept assumes that:",
-    "options": [
-      "The business will be sold in the near future",
-      "The business will continue to operate for the foreseeable future",
-      "All assets are recorded at market value",
-      "Profits will increase each year"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes capital expenditure?",
-    "options": [
-      "Money spent on day-to-day running costs",
-      "Money spent on purchasing or improving non-current assets",
-      "Wages paid to employees",
-      "Utility bills paid by the business"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A credit entry in the ledger will:",
-    "options": [
-      "Increase an asset account",
-      "Decrease a liability account",
-      "Increase a liability or income account",
-      "Decrease an equity account"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

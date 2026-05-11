@@ -1,152 +1,152 @@
 [
   {
-    "question": "During oxidative phosphorylation, which complex in the electron transport chain is responsible for pumping protons across the inner mitochondrial membrane AND directly reducing oxygen to water?",
+    "question": "In the process of protein synthesis, the sequence of amino acids is specified by:",
     "options": [
-      "Complex I only",
-      "Complex IV (cytochrome c oxidase)",
-      "Complex II (succinate dehydrogenase)",
-      "Complex III (cytochrome bc1 complex)"
+      "ribosomal RNA",
+      "ribosome",
+      "transfer RNA",
+      "messenger RNA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process by which cells can become specialized to perform specific functions?",
+    "options": [
+      "A) Mitosis",
+      "B) Meiosis",
+      "C) Differentiation",
+      "D) Apoptosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of the mitochondria in eukaryotic cells?",
+    "options": [
+      "B) Cell signaling",
+      "D) Energy production",
+      "C) Lysosome formation",
+      "A) Protein synthesis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the vacuole in plant cells?",
+    "options": [
+      "C) Transport of sugars",
+      "D) Storage of waste products",
+      "B) Storage of starch",
+      "A) Production of ethylene"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A scientist observes that a particular enzyme follows Michaelis-Menten kinetics with a Km of 2 mM. When a competitive inhibitor is added at constant concentration, the apparent Km increases to 8 mM but Vmax remains unchanged. What is the alpha (\u03b1) value of this inhibition?",
+    "question": "The process by which an organism's genetic information is used to produce a specific function or process is called:",
     "options": [
-      "2",
-      "4",
-      "6",
-      "8"
+      "selection of a gene",
+      "regulation of a gene",
+      "expression of a gene",
+      "mutation of a gene"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following types of ecological interactions involves the use of energy by one organism to obtain food from other organisms?",
+    "options": [
+      "B) Carnivory",
+      "C) Omnivory",
+      "D) Decomposition",
+      "A) Herbivory"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the endoplasmic reticulum in eukaryotic cells?",
+    "options": [
+      "B) Lysosome formation",
+      "D) Protein synthesis and transport",
+      "A) Cell signaling",
+      "C) Energy production"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a trihybrid cross between two organisms heterozygous for all three independently assorting loci (AaBbCc \u00d7 AaBbCc), what proportion of offspring would be expected to show the dominant phenotype for all three traits?",
+    "question": "What is the process by which bacteria such as E. coli can transfer genes between cells?",
     "options": [
-      "1/64",
-      "27/64",
-      "9/64",
-      "3/64"
+      "D) Transformation",
+      "B) Conjugation",
+      "C) Mutation",
+      "A) Transduction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of biotechnology involves the use of genetic engineering to produce genetically modified animals?",
+    "options": [
+      "D) Genetic testing",
+      "B) DNA sequencing",
+      "C) Genetic engineering",
+      "A) Gene editing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which cells can become resistant to antibiotics?",
+    "options": [
+      "D) Transduction",
+      "B) Conjugation",
+      "C) Mutation",
+      "A) Transformation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a prokaryotic cell?",
+    "options": [
+      "B) Plant cell",
+      "D) E. coli",
+      "A) Human cell",
+      "C) Fungal cell"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best explains why the sodium-potassium ATPase pump is described as electrogenic?",
+    "question": "What is the process by which cells can become specialized to perform specific functions in response to environmental cues?",
     "options": [
-      "It uses ATP hydrolysis to move ions against their concentration gradients",
-      "It moves 3 Na\u207a out and 2 K\u207a in per cycle, creating a net outward positive charge movement",
-      "It maintains the resting membrane potential at exactly -70 mV",
-      "It co-transports glucose along with sodium ions into the cell"
+      "C) Differentiation",
+      "A) Mitosis",
+      "B) Meiosis",
+      "D) Apoptosis"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In the Calvin cycle, how many molecules of ATP and NADPH are required to fix 6 molecules of CO\u2082 and produce one molecule of glucose (G3P net output)?",
+    "question": "What is the primary function of the Golgi apparatus in eukaryotic cells?",
     "options": [
-      "12 ATP and 12 NADPH",
-      "18 ATP and 12 NADPH",
-      "18 ATP and 18 NADPH",
-      "12 ATP and 18 NADPH"
+      "C) Cell signaling",
+      "B) Protein synthesis",
+      "A)",
+      "D) Lysosome formation"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A population of butterflies exhibits disruptive selection for wing colour, favouring both very dark and very light individuals over intermediate forms. Over many generations, this is MOST likely to lead to which evolutionary outcome?",
+    "question": "Which of the following types of biotechnology involves the use of genetic engineering to produce therapeutic proteins?",
     "options": [
-      "Stabilizing selection increasing population fitness",
-      "Sympatric speciation if assortative mating accompanies the selection",
-      "Genetic drift reducing allele diversity",
-      "Directional selection shifting the mean phenotype"
+      "A) Gene editing",
+      "B) DNA sequencing",
+      "D) Genetic testing",
+      "C) Recombinant DNA technology"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which statement correctly describes the role of telomerase in cancer cells?",
+    "question": "According to Mendelian genetics, what is the probability of a child inheriting two copies of the dominant allele from a cross between a homozygous dominant parent and a homozygous recessive parent?",
     "options": [
-      "Telomerase shortens telomeres, triggering apoptosis in rapidly dividing cells",
-      "Telomerase adds repetitive nucleotide sequences to telomeres, preventing replicative senescence and enabling indefinite division",
-      "Telomerase repairs DNA double-strand breaks through homologous recombination",
-      "Telomerase methylates promoter regions, silencing tumour suppressor genes"
+      "D) 3/4",
+      "B) 1/4",
+      "C) 1/2",
+      "A) 0"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a neuromuscular junction, after acetylcholine (ACh) binds to its receptors on the motor end plate, which sequence of events correctly describes excitation-contraction coupling?",
-    "options": [
-      "ACh binding \u2192 K\u207a efflux \u2192 hyperpolarization \u2192 Ca\u00b2\u207a release from SR \u2192 cross-bridge formation",
-      "ACh binding \u2192 Na\u207a influx \u2192 depolarization \u2192 action potential propagated along T-tubules \u2192 Ca\u00b2\u207a release from SR \u2192 tropomyosin shift \u2192 myosin-actin cross-bridge formation",
-      "ACh binding \u2192 Cl\u207b influx \u2192 EPSP \u2192 Ca\u00b2\u207a entry through voltage-gated channels \u2192 actomyosin ATPase activation",
-      "ACh binding \u2192 cAMP increase \u2192 PKA activation \u2192 phosphorylation of myosin light chain \u2192 contraction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Hardy-Weinberg equilibrium predicts that allele frequencies remain constant across generations. Which combination of conditions is required for this equilibrium to hold?",
-    "options": [
-      "Small population size, random mating, mutation present, no migration, natural selection acting",
-      "Infinitely large population, random mating, no mutation, no migration, no natural selection",
-      "Large population, assortative mating, no mutation, no migration, no natural selection",
-      "Infinitely large population, random mating, mutation-selection balance, no migration, genetic drift present"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During the light-dependent reactions of photosynthesis, non-cyclic photophosphorylation produces ATP, NADPH, and O\u2082. Which of the following correctly identifies the source of the electrons that ultimately reduce NADP\u207a?",
-    "options": [
-      "Carbon dioxide molecules split by RuBisCO",
-      "Water molecules split during photolysis at Photosystem II",
-      "Plastoquinone donating electrons directly to ferredoxin",
-      "Cytochrome b6f complex oxidising plastocyanin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cell line lacking functional p53 is exposed to ionising radiation. Compared to a normal cell line, which outcome is MOST likely in the p53-deficient cells?",
-    "options": [
-      "Increased G1/S checkpoint arrest allowing DNA repair before replication",
-      "Failure of G1/S checkpoint arrest, continued DNA replication with unrepaired damage, and reduced apoptosis",
-      "Enhanced nucleotide excision repair due to upregulation of PCNA",
-      "Increased expression of Bax leading to greater rates of programmed cell death"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In secondary active transport (co-transport) of glucose across intestinal epithelial cells, which driving force powers glucose uptake into the cell?",
-    "options": [
-      "Direct hydrolysis of ATP by a glucose ATPase on the luminal membrane",
-      "The electrochemical gradient of Na\u207a established by the basolateral Na\u207a/K\u207a ATPase driving SGLT1",
-      "Facilitated diffusion through GLUT2 on the luminal surface down a glucose concentration gradient",
-      "Osmotic pressure differences created by water co-transport with glucose"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following statements most accurately distinguishes type I (fast-twitch glycolytic) from type II (slow-twitch oxidative) muscle fibres?",
-    "options": [
-      "Type I fibres have high myoglobin content, many mitochondria, and are fatigue-resistant; Type II fibres rely on anaerobic glycolysis and fatigue rapidly",
-      "Type I fibres rely primarily on anaerobic glycolysis and fatigue rapidly; Type II fibres have high myoglobin content, many mitochondria, and are fatigue-resistant",
-      "Type I fibres have larger diameter and greater force production; Type II fibres are smaller and produce less force",
-      "Type I fibres lack myoglobin and have few mitochondria; Type II fibres have abundant glycogen and creatine phosphate"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the humoral immune response, which sequence of cellular events correctly describes the activation and differentiation of B lymphocytes upon first antigen exposure?",
-    "options": [
-      "Antigen \u2192 cytotoxic T cell activation \u2192 perforin release \u2192 B cell proliferation \u2192 plasma cells",
-      "Antigen presentation by APC \u2192 T helper cell activation \u2192 cytokine release (IL-4, IL-5) \u2192 B cell activation \u2192 clonal expansion \u2192 plasma cells secreting antibodies and memory B cells",
-      "Antigen \u2192 natural killer cell activation \u2192 interferons \u2192 B cell differentiation \u2192 IgM production only",
-      "Antigen binding to B cell \u2192 immediate plasma cell differentiation without T helper cell involvement \u2192 IgG secretion"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A researcher performs a DNA fingerprinting analysis using RFLP (Restriction Fragment Length Polymorphism). Which of the following best explains why individuals show different banding patterns on a Southern blot?",
-    "options": [
-      "Different individuals transcribe different amounts of mRNA, altering fragment sizes after restriction digestion",
-      "Variations in nucleotide sequences at restriction sites between individuals result in different fragment sizes when DNA is cut by restriction enzymes",
-      "Post-translational modifications of histones alter the accessibility of restriction sites equally in all individuals",
-      "Differences in DNA methylation patterns prevent restriction enzymes from cutting any genomic DNA in heterozygous individuals"
-    ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

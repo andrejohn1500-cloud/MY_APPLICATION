@@ -1,202 +1,72 @@
 [
   {
-    "question": "What is a unit vector?",
+    "question": "A car travels from Point A to Point B at an average speed of 40 km/h. What is the distance traveled by the car if the time taken is 2 hours?",
     "options": [
-      "A vector in the positive x direction only",
-      "A vector with magnitude 1 used to show direction",
-      "Any vector divided by 2",
-      "A vector with magnitude 0"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is a Venn diagram used for?",
-    "options": [
-      "To visually represent sets and their relationships including unions intersections and complements",
-      "To represent a probability tree",
-      "To plot a linear function",
-      "To show the frequency of data values"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is conditional probability?",
-    "options": [
-      "The probability of event A given that event B has already occurred: P(A|B) = P(A\u2229B)/P(B)",
-      "The probability of two independent events",
-      "The probability of either A or B occurring",
-      "The complement of P(A)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is integration used for?",
-    "options": [
-      "To solve linear equations",
-      "To find the maximum of a function only",
-      "To find the area under a curve and to reverse differentiation",
-      "To find the gradient at a point"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the determinant of a 2x2 matrix?",
-    "options": [
-      "ab - cd",
-      "For matrix [[a,b],[c,d]], the determinant is ad - bc",
-      "ac + bd",
-      "a + d"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the inverse of a 2x2 matrix?",
-    "options": [
-      "The matrix with all signs changed",
-      "The transpose of the matrix",
-      "The matrix divided by its determinant only",
-      "(1/det) \u00d7 [[d,-b],[-c,a]] where det = ad-bc"
+      "60 km",
+      "40 km",
+      "20 km",
+      "80 km"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the multiplication rule for independent events?",
+    "question": "A company has a total cost of $200,000 and a total revenue of $250,000. What is the company's break-even point?",
     "options": [
-      "P(A\u2229B) = P(A) + P(B)",
-      "P(A\u2229B) = P(A) - P(B)",
-      "P(A\u2229B) = P(A) \u00d7 P(B)",
-      "P(A\u2229B) = P(A) / P(B)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the magnitude of a vector?",
-    "options": [
-      "The length of the vector calculated as \u221a(x\u00b2 + y\u00b2) for vector (x,y)",
-      "The direction of the vector",
-      "The product of the components",
-      "The sum of the components"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a probability tree diagram?",
-    "options": [
-      "A graph of a cumulative frequency",
-      "A diagram showing set relationships",
-      "A diagram showing all possible outcomes of sequential events and their probabilities",
-      "A bar chart of probability values"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a cumulative frequency curve used for?",
-    "options": [
-      "To show the mode of a data set",
-      "To calculate the mean of grouped data",
-      "To estimate medians, quartiles and percentiles from grouped data",
-      "To compare two data sets directly"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the interquartile range?",
-    "options": [
-      "The difference between the upper quartile Q3 and lower quartile Q1",
-      "Half of the range",
-      "The difference between the maximum and minimum values",
-      "The average of the quartiles"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the nth term of a geometric sequence?",
-    "options": [
-      "a \u00d7 n + r",
-      "r^n only",
-      "a + (n-1)d",
-      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a linear programming problem?",
-    "options": [
-      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
-      "A problem finding the gradient of a line",
-      "A problem involving quadratic functions",
-      "A problem with no constraints"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the quadratic formula?",
-    "options": [
-      "x = -b/2a only",
-      "x = (a+b)/c",
-      "x = b\u00b2 - 4ac",
-      "x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a for ax\u00b2 + bx + c = 0"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a scatter diagram used for?",
-    "options": [
-      "To show the relationship or correlation between two variables",
-      "To show cumulative totals",
-      "To show the frequency of one variable",
-      "To display data in sectors"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is standard deviation?",
-    "options": [
-      "The difference between max and min values",
-      "The middle value of the data",
-      "A measure of how spread out data values are from the mean",
-      "The average of the data set"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the discriminant tell us about a quadratic equation?",
-    "options": [
-      "It gives the value of the roots directly",
-      "It measures the gradient of the quadratic",
-      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots",
-      "It only tells us if the parabola opens up or down"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a position vector?",
-    "options": [
-      "A vector showing only magnitude",
-      "A vector that describes the position of a point relative to the origin",
-      "A unit vector",
-      "A vector with no direction"
+      "150,000",
+      "100,000",
+      "125,000",
+      "75,000"
     ],
     "correctIndex": 1
   },
   {
-    "question": "How do you add two vectors?",
+    "question": "A sample of 100 data points has a mean of 20 and a standard deviation of 5. What is the standard error of the mean?",
     "options": [
-      "Subtract corresponding components",
-      "Multiply the magnitudes",
-      "Add the angles only",
-      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)"
+      "0.25",
+      "2",
+      "0.5",
+      "1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A particle is moving in a circular path with a constant velocity of 8 m/s. What is the acceleration of the particle?",
+    "options": [
+      "4 m/s^2",
+      "3 m/s^2",
+      "2 m/s^2",
+      "0 m/s^2"
     ],
     "correctIndex": 3
   },
   {
-    "question": "How do you find the equation of a line given two points?",
+    "question": "The regression line for a set of data has a slope of 3 and a y-intercept of 2. What is the coefficient of determination (R^2)?",
     "options": [
-      "Add the x and y values of both points",
-      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c",
-      "Multiply the two coordinates together",
-      "Use the quadratic formula"
+      "0.5",
+      "0.7",
+      "0.3",
+      "0.9"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "In a linear programming problem, the objective function is maximized when x = 3 and y = 2. What is the maximum value of the objective function?",
+    "options": [
+      "12",
+      "8",
+      "10",
+      "15"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sample of 100 data points has a mean of 30 and a standard deviation of 5. What is the standard error of the mean?",
+    "options": [
+      "1",
+      "0.25",
+      "0.75",
+      "0.5"
+    ],
+    "correctIndex": 3
   }
 ]

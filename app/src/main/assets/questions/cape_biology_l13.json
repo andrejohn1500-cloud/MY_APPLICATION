@@ -1,152 +1,92 @@
 [
   {
-    "question": "During oxidative phosphorylation, which complex in the electron transport chain pumps protons across the inner mitochondrial membrane using the energy released from the transfer of electrons directly from NADH?",
+    "question": "What is the process by which microorganisms such as bacteria can transfer genes between cells through a viral vector?",
     "options": [
-      "Complex I (NADH dehydrogenase)",
-      "Complex II (succinate dehydrogenase)",
-      "Complex III (cytochrome bc1 complex)",
-      "Complex IV (cytochrome c oxidase)"
+      "B) Conjugation",
+      "D) Mutation",
+      "C) Transduction",
+      "A) Transformation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the process by which microorganisms such as bacteria can transfer genes between cells?",
+    "options": [
+      "C) Transduction",
+      "B) Conjugation",
+      "D) Mutation",
+      "A) Transformation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a symbiotic relationship?",
+    "options": [
+      "C) Mutualism",
+      "A) Predation",
+      "D) Commensalism",
+      "B) Competition"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A researcher discovers a mutation that prevents the assembly of the nuclear pore complex. Which cellular process would be MOST directly and immediately affected?",
+    "question": "What is the process by which microorganisms such as bacteria can become genetically modified?",
     "options": [
-      "DNA replication within the nucleus",
-      "Export of mRNA from the nucleus to the cytoplasm",
-      "Synthesis of ribosomal RNA in the nucleolus",
-      "Packaging of DNA into nucleosomes"
+      "A) Mutation",
+      "C) Gene editing",
+      "B) Transformation",
+      "D) Genetic engineering"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the chloroplast in plant cells?",
+    "options": [
+      "B) Transpiration",
+      "C) Fermentation",
+      "D) Photosynthesis",
+      "A) Respiration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a symbiotic relationship in the Caribbean region?",
+    "options": [
+      "A) Shark-prey relationship",
+      "B) Plant-decomposer relationship",
+      "D) Fungi-microorganism relationship",
+      "C) Coral-algae symbiosis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of the root hair cells in plant roots?",
+    "options": [
+      "A) Production of ethylene",
+      "D) Absorption of water and nutrients",
+      "B) Storage of starch",
+      "C) Transport of sugars"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the Hardy-Weinberg equilibrium model, if the frequency of the homozygous recessive genotype in a population is 0.09, what is the frequency of the dominant allele (p)?",
+    "question": "Which of the following is an example of a prokaryotic cell that is pathogenic to humans?",
     "options": [
-      "0.3",
-      "0.7",
-      "0.09",
-      "0.49"
+      "A) Human cell",
+      "D) E. coli",
+      "B) Plant cell",
+      "C) Fungal cell"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best explains why competitive inhibition of an enzyme can be overcome by increasing substrate concentration, whereas non-competitive inhibition cannot?",
+    "question": "What is the primary function of the lysosome in eukaryotic cells?",
     "options": [
-      "Competitive inhibitors permanently denature the active site, while non-competitive inhibitors do not",
-      "Competitive inhibitors bind reversibly to the active site and are displaced by excess substrate, while non-competitive inhibitors bind to an allosteric site and alter active site conformation regardless of substrate concentration",
-      "Non-competitive inhibitors reduce Km while competitive inhibitors increase Vmax",
-      "Competitive inhibitors increase activation energy while non-competitive inhibitors decrease it"
+      "D) Digestion of waste products",
+      "C) Energy production",
+      "A) Protein synthesis",
+      "B) Cell signaling"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the light-dependent reactions of photosynthesis, what is the primary role of the oxygen-evolving complex (OEC) associated with Photosystem II?",
-    "options": [
-      "To catalyse the reduction of NADP+ to NADPH",
-      "To split water molecules to provide electrons to replace those lost from P680",
-      "To transfer electrons from plastoquinone to the cytochrome b6f complex",
-      "To use the proton gradient to synthesise ATP via chemiosmosis"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cell biologist treats cells with colchicine, a drug that depolymerises microtubules. Which stage of mitosis would be MOST disrupted?",
-    "options": [
-      "Prophase, because chromosome condensation requires intact microtubules",
-      "Metaphase, because spindle fibres cannot attach to kinetochores to align chromosomes",
-      "S phase, because DNA replication depends on microtubule function",
-      "Cytokinesis, because the cleavage furrow is composed of microtubules"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During the replication of a double-stranded DNA molecule, Okazaki fragments are synthesised on the lagging strand. Which enzyme is responsible for replacing the RNA primers in these fragments with DNA nucleotides?",
-    "options": [
-      "DNA Primase",
-      "DNA Ligase",
-      "DNA Polymerase I (or its equivalent)",
-      "Helicase"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following immune cells is responsible for directly killing virus-infected host cells through the release of perforin and granzymes?",
-    "options": [
-      "B lymphocytes",
-      "Helper T lymphocytes (CD4+)",
-      "Cytotoxic T lymphocytes (CD8+)",
-      "Natural killer cells and mast cells exclusively"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In an experiment investigating osmosis, red blood cells placed in a solution experience crenation. What does this indicate about the solution?",
-    "options": [
-      "The solution is hypotonic relative to the cell cytoplasm",
-      "The solution is isotonic relative to the cell cytoplasm",
-      "The solution is hypertonic relative to the cell cytoplasm",
-      "The solution has a higher water potential than the cell cytoplasm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following correctly describes the role of cyclic AMP (cAMP) as a second messenger in hormone signal transduction?",
-    "options": [
-      "cAMP directly activates transcription factors in the nucleus",
-      "cAMP binds to the hormone receptor on the cell surface membrane to initiate the signal",
-      "cAMP activates protein kinase A, which phosphorylates target proteins to produce a cellular response",
-      "cAMP is produced by adenylyl cyclase following inhibition of a G-protein"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A species of plant living in an arid environment has evolved CAM (Crassulacean Acid Metabolism) photosynthesis. What is the primary adaptive advantage of this pathway?",
-    "options": [
-      "It allows carbon fixation at higher temperatures than C3 plants",
-      "It eliminates photorespiration by concentrating CO2 at the site of RuBisCO",
-      "Stomata open only at night to fix CO2 into malate, minimising water loss during hot days",
-      "It uses a four-carbon intermediate to pump CO2 into bundle sheath cells"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a dihybrid cross between two organisms heterozygous for two independently assorting traits (AaBb x AaBb), what is the expected ratio of offspring showing only one dominant phenotype (either A_bb or aaB_)?",
-    "options": [
-      "9:3:3:1 overall; 6/16 show exactly one dominant phenotype",
-      "3/16 show only A_bb and 3/16 show only aaB_, giving 6/16 total",
-      "1/16 show only A_bb and 1/16 show only aaB_, giving 2/16 total",
-      "9/16 show both dominant phenotypes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the mechanism by which a phospholipid bilayer maintains its structural integrity and selective permeability?",
-    "options": [
-      "Covalent bonds between adjacent phospholipid molecules prevent free movement of molecules",
-      "The hydrophilic phosphate heads face inward while hydrophobic fatty acid tails face outward, excluding water",
-      "The hydrophobic fatty acid tails are sequestered from the aqueous environment by the outward-facing hydrophilic phosphate heads, creating a stable bilayer that restricts passage of polar and charged molecules",
-      "Cholesterol molecules form a rigid crystalline lattice that prevents all molecular movement within the membrane"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "During meiosis, crossing over occurs between non-sister chromatids of homologous chromosomes. What is the genetic significance of this event?",
-    "options": [
-      "It ensures that each daughter cell receives exactly one copy of each chromosome",
-      "It increases the number of chromosomes in the resulting gametes",
-      "It produces new combinations of alleles on chromosomes, increasing genetic variation in offspring",
-      "It prevents non-disjunction from occurring during meiosis I"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A patient presents with a genetic disorder caused by a trinucleotide repeat expansion within a gene. Which of the following best explains why such mutations often show anticipation (increasing severity in successive generations)?",
-    "options": [
-      "The repeat expansion silences tumour suppressor genes through hypermethylation",
-      "Trinucleotide repeats cause frameshift mutations that progressively delete exons",
-      "During meiosis, the repeat region is prone to strand slippage, causing further expansion of the repeat number in gametes, which accumulates over generations",
-      "The expanded repeats integrate into proto-oncogenes, converting them to oncogenes"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

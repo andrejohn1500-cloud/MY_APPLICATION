@@ -1,152 +1,151 @@
 [
   {
-    "question": "Which of the following best describes the process of nitrogen fixation in agriculture?",
+    "question": "What is the role of agribusiness in regional agriculture?",
     "options": [
-      "The conversion of atmospheric nitrogen into ammonia by microorganisms",
-      "The absorption of nitrates from soil by plant roots",
-      "The decomposition of organic matter releasing nitrogen",
-      "The leaching of nitrogen compounds into groundwater"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary purpose of crop rotation in sustainable agriculture?",
-    "options": [
-      "To increase the use of chemical fertilizers",
-      "To maintain soil fertility and reduce pest and disease buildup",
-      "To maximize the yield of a single crop species",
-      "To eliminate the need for irrigation"
+      "To conduct research and development",
+      "To provide financing, marketing, and other services to farmers",
+      "To establish trade agreements with other countries",
+      "To regulate agricultural practices"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which soil horizon is primarily composed of weathered parent material with little organic matter?",
+    "question": "Which of the following is an example of a genetically modified crop?",
     "options": [
-      "O horizon",
-      "A horizon",
-      "B horizon",
-      "C horizon"
+      "Conventional wheat",
+      "Non-GM soybean",
+      "Bt cotton",
+      "Organic corn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main impact of soil erosion on agricultural productivity?",
+    "options": [
+      "To increase crop yields and reduce the cost of production",
+      "To have no impact on crop yields or the cost of production",
+      "To decrease biodiversity",
+      "To reduce crop yields and increase the cost of production"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The process by which water moves upward through the soil due to surface tension forces is called:",
+    "question": "What is the role of pesticides in integrated pest management?",
     "options": [
-      "Percolation",
-      "Leaching",
-      "Capillary action",
-      "Transpiration"
+      "To improve crop quality",
+      "To promote biodiversity",
+      "To control pest populations",
+      "To reduce soil erosion"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is a characteristic of sandy loam soil?",
+    "question": "What is the main goal of the Caribbean Agricultural Society (CAS)",
     "options": [
-      "Very high water retention and poor drainage",
-      "Moderate texture with good aeration and drainage",
-      "High clay content with poor aeration",
-      "Very fine particles with very low permeability"
+      "To establish trade agreements with other countries",
+      "To promote agricultural development and improve the lives of farmers",
+      "To provide funding for agricultural projects",
+      "To regulate agricultural practices"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In plant reproduction, which term describes the transfer of pollen from the anther of one flower to the stigma of a flower on a different plant?",
+    "question": "Which of the following crops is an example of a legume?",
     "options": [
-      "Self-pollination",
-      "Cross-pollination",
-      "Fertilization",
-      "Germination"
+      "Yam",
+      "Cowpea",
+      "Sweet potato",
+      "Maize"
     ],
     "correctIndex": 1
   },
   {
-    "property": "question",
-    "question": "What is the main function of auxins in plant growth?",
+    "question": "Which of the following is an example of a genetically modified crop?",
     "options": [
-      "To promote fruit ripening",
-      "To stimulate cell elongation and root initiation",
-      "To trigger flowering in short-day plants",
-      "To accelerate seed germination"
+      "Conventional wheat",
+      "Non-GM soybean",
+      "Organic corn",
+      "Bt cotton"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main impact of soil salinity on agricultural productivity?",
+    "options": [
+      "To have no impact on crop yields or the cost of production",
+      "To reduce crop yields and increase the cost of production",
+      "To decrease biodiversity",
+      "To increase crop yields and reduce the cost of production"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following diseases in poultry is caused by a virus and affects the respiratory system?",
+    "question": "What is the role of clay minerals in soil structure?",
     "options": [
-      "Coccidiosis",
-      "Newcastle disease",
-      "Salmonellosis",
-      "Brucellosis"
+      "To increase the CEC of the soil",
+      "To reduce the water holding capacity of the soil",
+      "To improve drainage and reduce runoff",
+      "To improve water infiltration and aeration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main goal of the Caribbean Agricultural Society (CAS)",
+    "options": [
+      "To regulate agricultural practices",
+      "To promote agricultural development and improve the lives of farmers",
+      "To provide funding for agricultural projects",
+      "To establish trade agreements with other countries"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The body condition score (BCS) of livestock is used primarily to assess:",
+    "question": "What is the primary function of the rumen in a ruminant's digestive system?",
     "options": [
-      "The reproductive efficiency of the animal",
-      "The level of fat and muscle reserves on the animal",
-      "The genetic potential of the animal",
-      "The daily feed intake of the animal"
+      "To break down cellulose in plant cell walls",
+      "To absorb nutrients from the gut",
+      "To produce enzymes for digestion",
+      "To store nutrients for later use"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which nutrient is most likely deficient in a plant showing interveinal chlorosis on young leaves?",
+    "question": "Which of the following is an example of a sustainable agricultural practice?",
     "options": [
-      "Nitrogen",
-      "Potassium",
-      "Iron",
-      "Phosphorus"
+      "Intensive tillage",
+      "Monoculture",
+      "Organic farming",
+      "Synthetic fertilizer application"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of the Food and Agriculture Organization (FAO) in the context of Caribbean agriculture?",
+    "question": "What is the role of the Caribbean Community (CARICOM) in regional agriculture?",
     "options": [
-      "To enforce trade tariffs on agricultural imports",
-      "To provide technical assistance and promote food security",
-      "To regulate pesticide use exclusively in Caribbean nations",
-      "To manage livestock breeding programs in CARICOM countries"
+      "To promote regional cooperation and development in agriculture",
+      "To establish trade agreements with other countries",
+      "To regulate agricultural practices",
+      "To provide funding for agricultural projects"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main impact of soil erosion on agricultural productivity?",
+    "options": [
+      "To increase crop yields and reduce the cost of production",
+      "To reduce crop yields and increase the cost of production",
+      "To decrease biodiversity",
+      "To have no impact on crop yields or the cost of production"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which tillage method involves planting crops without prior soil disturbance to reduce erosion?",
+    "question": "Which of the following is an example of a sustainable agricultural practice?",
     "options": [
-      "Deep ploughing",
-      "Contour ploughing",
-      "No-till farming",
-      "Strip cropping"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The term 'photoperiodism' in plants refers to:",
-    "options": [
-      "The rate of photosynthesis in response to light intensity",
-      "The response of a plant's flowering to the relative length of day and night",
-      "The movement of plants toward a light source",
-      "The production of chlorophyll under varying light conditions"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes Integrated Pest Management (IPM)?",
-    "options": [
-      "The exclusive use of chemical pesticides to eliminate pests",
-      "A combination of biological, cultural, and chemical methods to manage pests sustainably",
-      "The complete elimination of all pest species from an agricultural system",
-      "The use of genetically modified crops to resist all pest attacks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In hydroponics, what is the primary medium through which plants receive their nutrients?",
-    "options": [
-      "Compost-enriched soil",
-      "A nutrient-rich water solution",
-      "Organic mulch",
-      "Sand mixed with fertilizer pellets"
+      "Synthetic fertilizer application",
+      "Crop rotation",
+      "Monoculture",
+      "Intensive tillage"
     ],
     "correctIndex": 1
   }

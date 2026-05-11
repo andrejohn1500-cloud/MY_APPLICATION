@@ -1,151 +1,151 @@
 [
   {
-    "question": "A company has a contribution margin ratio of 40% and fixed costs of $120,000. What is the breakeven point in sales revenue?",
+    "question": "Which of the following is an example of a material cost?",
     "options": [
-      "$48,000",
-      "$300,000",
-      "$200,000",
-      "$480,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under IAS 36, an asset is considered impaired when its carrying amount exceeds its recoverable amount. The recoverable amount is defined as:",
-    "options": [
-      "The higher of fair value less costs of disposal and value in use",
-      "The lower of fair value less costs of disposal and value in use",
-      "The asset's net book value",
-      "The asset's replacement cost"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A manufacturing company uses absorption costing. If fixed overhead absorption rate is $8 per unit and 2,000 more units were produced than sold, the profit under absorption costing compared to marginal costing would be:",
-    "options": [
-      "$16,000 higher",
-      "$16,000 lower",
-      "The same",
-      "$8,000 higher"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following correctly describes the treatment of a finance lease in the books of the lessee under IFRS 16?",
-    "options": [
-      "The asset and liability are recognized at the present value of future lease payments; depreciation and interest are charged separately",
-      "Only lease payments are expensed as incurred",
-      "The asset is recorded at fair value and no liability is recognized",
-      "The full lease payment is capitalized as an intangible asset"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company has the following data: Net profit $80,000; Depreciation $20,000; Increase in receivables $15,000; Decrease in payables $10,000; Increase in inventory $5,000. What is the net cash flow from operating activities using the indirect method?",
-    "options": [
-      "$70,000",
-      "$90,000",
-      "$100,000",
-      "$50,000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Under the weighted average cost method, a company has opening inventory of 200 units at $5 each, purchases of 300 units at $7 each, and sells 400 units. What is the value of closing inventory?",
-    "options": [
-      "$600",
-      "$610",
-      "$620",
-      "$580"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of a limited liability company as opposed to a partnership?",
-    "options": [
-      "Members have unlimited personal liability for company debts",
-      "Legal personality separate from its members",
-      "Shares can be transferred",
-      "Directors manage the company on behalf of shareholders"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A bond with a face value of $100,000 and a coupon rate of 6% is issued when the market rate is 8%. The bond will be issued at:",
-    "options": [
-      "A discount to face value",
-      "A premium to face value",
-      "Face value",
-      "Cannot be determined without maturity date"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following ratios best measures a company's ability to meet short-term obligations using only its most liquid assets?",
-    "options": [
-      "Acid test ratio",
-      "Current ratio",
-      "Inventory turnover ratio",
-      "Debt to equity ratio"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Under IAS 2, which of the following costs should be included in the cost of inventory?",
-    "options": [
-      "Import duties and transport costs to bring inventory to its present location",
-      "Selling and distribution costs",
-      "Administrative overheads unrelated to production",
-      "Abnormal wastage of materials"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A company issues 10,000 ordinary shares of $2 par value at $5 per share. What is the journal entry to record the share premium?",
-    "options": [
-      "Debit Cash $50,000; Credit Share Capital $20,000; Credit Share Premium $30,000",
-      "Debit Cash $50,000; Credit Share Capital $50,000",
-      "Debit Share Premium $30,000; Credit Share Capital $30,000",
-      "Debit Cash $20,000; Credit Share Capital $20,000; Debit Share Premium $30,000"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In process costing, normal loss is defined as:",
-    "options": [
-      "The expected level of loss arising from the production process, which is absorbed into the cost of good output",
-      "Any loss that occurs unexpectedly during production",
-      "Loss that is credited to the process account at full cost",
-      "Loss that creates an abnormal gain account entry"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which statement is TRUE regarding deferred taxation under IAS 12?",
-    "options": [
-      "Deferred tax liabilities arise when the tax base of an asset exceeds its carrying amount",
-      "Deferred tax assets arise when the carrying amount of an asset exceeds its tax base",
-      "Deferred tax liabilities arise when the carrying amount of an asset exceeds its tax base",
-      "Deferred tax is always classified as a current liability"
+      "Indirect materials cost",
+      "Salaries paid to executives",
+      "Direct materials cost",
+      "Rent paid for office space"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A company with an operating cycle of 18 months classifies its assets and liabilities. Which of the following is CORRECTLY classified as a current asset?",
+    "question": "A company's management accountant uses the direct labor hours method to calculate its cost per unit. What is the main advantage of this method?",
     "options": [
-      "Inventory expected to be sold within 18 months as part of the normal operating cycle",
-      "A long-term investment held for more than 12 months",
-      "Plant and equipment depreciated over 5 years",
-      "Goodwill arising from a business combination"
+      "Easy to apply when there is a direct relationship between labor hours and cost per unit",
+      "Accurate results even when there is a complex relationship between labor hours and cost per unit",
+      "Less time-consuming to apply",
+      "Easy to calculate cost variances"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The following information relates to a joint venture: Sales $500,000; Variable costs $300,000; Fixed costs $150,000; Investment $400,000. Using the residual income method with a cost of capital of 10%, what is the residual income?",
+    "question": "Which of the following is an example of a non-current asset?",
     "options": [
-      "$10,000",
-      "$50,000",
-      "$30,000",
-      "$40,000"
+      "Accrued expenses",
+      "Property, plant and equipment",
+      "Bonds payable",
+      "Accounts receivable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's management accountant prepares a budget for the upcoming year. What is the main factor that affects the budget?",
+    "options": [
+      "The company's profit level",
+      "The company's activity level",
+      "The company's production level",
+      "The company's sales level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's Statement of Financial Position shows that its total liabilities is $1 million. What does this mean?",
+    "options": [
+      "The company's retained earnings is $1 million",
+      "The company's current liabilities is $1 million",
+      "The company's total assets is $1 million",
+      "The company's total liabilities is $1 million"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the accounting treatment for a company's purchase of a new asset for cash?",
+    "options": [
+      "It is recorded as an expense only",
+      "It is ignored",
+      "It is recorded as an asset and a cash outflow",
+      "It is recorded as a liability"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A company's management accountant prepares a flexible budget for the upcoming year. What is the main advantage of this flexible budget?",
+    "options": [
+      "Easy to adjust for changes in the company's activity level",
+      "Accurate results even when there are multiple changes in the company's activity level",
+      "Easy to apply when there are multiple changes in the company's activity level",
+      "Less time-consuming to apply"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting standard that deals with the accounting treatment for impairment of assets?",
+    "options": [
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 36 (Impairment of Assets) and CARICOM 36",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an example of a non-current liability?",
+    "options": [
+      "Bonds payable",
+      "Accrued expenses",
+      "Accounts payable",
+      "Share capital"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company's management accountant prepares a budget for the upcoming year. What is the budgeting process?",
+    "options": [
+      "The process of preparing a forecast for a specific period of time",
+      "The process of preparing a budget for a specific period of time",
+      "The process of preparing a budget for an indefinite period of time",
+      "The process of preparing a plan for a specific period of time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's management accountant uses the high-low method to calculate its variable costs. What is the main advantage of this method?",
+    "options": [
+      "Easy to calculate cost variances",
+      "Easy to apply when there is only one high and one low cost period",
+      "Accurate results even when there are multiple high and low cost periods",
+      "Less time-consuming"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is an example of a non-current liability?",
+    "options": [
+      "Accounts payable",
+      "Bonds payable",
+      "Accrued expenses",
+      "Share capital"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company's management accountant uses the high-low method to calculate its cost per unit. What is the main advantage of this method?",
+    "options": [
+      "Less time-consuming",
+      "Easy to calculate cost variances",
+      "Accurate results even when there are multiple high and low cost periods",
+      "Easy to apply when there is only one high and one low cost period"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's management accountant prepares a cash budget for the upcoming year. What is the main purpose of the cash budget?",
+    "options": [
+      "To show the company's expected revenues and expenses during the budget period",
+      "To show the company's expected profit during the budget period",
+      "To show the company's expected assets and liabilities during the budget period",
+      "To show the company's expected cash inflows and outflows during the budget period"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A company's management accountant prepares a budget for the upcoming year. What is the main benefit of the budget?",
+    "options": [
+      "To provide a basis for planning and control",
+      "To provide a basis for evaluation",
+      "To provide a basis for decision-making",
+      "To provide a basis for forecasting"
     ],
     "correctIndex": 0
   }

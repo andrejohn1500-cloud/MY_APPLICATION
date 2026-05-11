@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the determinant of a 2x2 matrix?",
+    "question": "What is the unit of measurement for displacement in the SI system?",
     "options": [
-      "For matrix [[a,b],[c,d]], the determinant is ad - bc",
-      "ab - cd",
-      "ac + bd",
-      "a + d"
+      "m",
+      "kg",
+      "J",
+      "s"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is a cumulative frequency curve used for?",
+    "question": "A particle is moving in a straight line with a constant acceleration of 4 m/s^2. If the initial velocity is 15 m/s, what is the velocity after 2 seconds?",
     "options": [
-      "To compare two data sets directly",
-      "To calculate the mean of grouped data",
-      "To estimate medians, quartiles and percentiles from grouped data",
-      "To show the mode of a data set"
+      "16 m/s",
+      "20 m/s",
+      "18 m/s",
+      "17 m/s"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is matrix addition?",
+    "question": "The probability of an event occurring is 0.8. What is the probability of the event not occurring?",
     "options": [
-      "Finding the determinant",
-      "Adding corresponding elements of two matrices of the same dimensions",
-      "Transposing the matrix",
-      "Multiplying rows by columns"
+      "0.5",
+      "0.2",
+      "0.3",
+      "0.6"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the discriminant tell us about a quadratic equation?",
+    "question": "A company has a profit of $50,000 and a total revenue of $100,000. What is the company's profit margin?",
     "options": [
-      "It measures the gradient of the quadratic",
-      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots",
-      "It gives the value of the roots directly",
-      "It only tells us if the parabola opens up or down"
+      "40%",
+      "50%",
+      "30%",
+      "60%"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the interquartile range?",
+    "question": "A particle moves in a straight line with a constant acceleration of 4 m/s^2. If the initial velocity is 2 m/s, what is the velocity after 5 seconds?",
     "options": [
-      "The average of the quartiles",
-      "The difference between the maximum and minimum values",
-      "Half of the range",
-      "The difference between the upper quartile Q3 and lower quartile Q1"
+      "12 m/s",
+      "20 m/s",
+      "10 m/s",
+      "18 m/s"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is a linear programming problem?",
+    "question": "A sample of 100 data points has a mean of 20 and a standard deviation of 2. What is the standard error of the mean?",
     "options": [
-      "A problem finding the gradient of a line",
-      "A problem with no constraints",
-      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
-      "A problem involving quadratic functions"
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A force of 5 N applied to an object results in an acceleration of 2 m/s^2. What is the mass of the object?",
+    "options": [
+      "5 kg",
+      "2.5 kg",
+      "3.75 kg",
+      "1.25 kg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The regression line for a set of data has a slope of 2 and a y-intercept of 5. What is the equation of the regression line?",
+    "options": [
+      "y = x + 5",
+      "y = 2x - 5",
+      "y = 2x + 5",
+      "y = x - 5"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is differentiation used for?",
+    "question": "A particle is moving in a circular path with a constant velocity of 5 m/s. What is the acceleration of the particle?",
     "options": [
-      "To solve quadratic equations",
-      "To find the inverse of a function",
-      "To find the area under a curve",
-      "To find the rate of change of a function and the gradient at any point"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a scatter diagram used for?",
-    "options": [
-      "To show cumulative totals",
-      "To display data in sectors",
-      "To show the frequency of one variable",
-      "To show the relationship or correlation between two variables"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the inverse of a 2x2 matrix?",
-    "options": [
-      "The transpose of the matrix",
-      "(1/det) \u00d7 [[d,-b],[-c,a]] where det = ad-bc",
-      "The matrix divided by its determinant only",
-      "The matrix with all signs changed"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "How do you add two vectors?",
-    "options": [
-      "Subtract corresponding components",
-      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)",
-      "Add the angles only",
-      "Multiply the magnitudes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is integration used for?",
-    "options": [
-      "To find the area under a curve and to reverse differentiation",
-      "To solve linear equations",
-      "To find the gradient at a point",
-      "To find the maximum of a function only"
+      "0 m/s^2",
+      "3 m/s^2",
+      "2 m/s^2",
+      "4 m/s^2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What defines the feasible region in linear programming?",
+    "question": "A sample of 50 data points has a mean of 50 and a standard deviation of 4. What is the standard error of the mean?",
     "options": [
-      "The region where the objective function is maximised",
-      "The region satisfying all the constraints in the problem",
-      "The region outside all constraints",
-      "The x and y axes only"
+      "0.8",
+      "0.2",
+      "0.4",
+      "0.6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sample of 50 data points has a mean of 30 and a standard deviation of 4. What is the standard error of the mean?",
+    "options": [
+      "1",
+      "0.4",
+      "0.8",
+      "0.2"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is a Venn diagram used for?",
+    "question": "A company has a total cost of $300,000 and a total revenue of $350,000. What is the company's break-even point?",
     "options": [
-      "To represent a probability tree",
-      "To show the frequency of data values",
-      "To visually represent sets and their relationships including unions intersections and complements",
-      "To plot a linear function"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the quadratic formula?",
-    "options": [
-      "x = b\u00b2 - 4ac",
-      "x = -b/2a only",
-      "x = (a+b)/c",
-      "x = (-b \u00b1 \u221a(b\u00b2-4ac)) / 2a for ax\u00b2 + bx + c = 0"
+      "150,000",
+      "175,000",
+      "100,000",
+      "125,000"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is a position vector?",
+    "question": "A company has a profit of $75,000 and a total revenue of $150,000. What is the company's profit margin?",
     "options": [
-      "A unit vector",
-      "A vector showing only magnitude",
-      "A vector that describes the position of a point relative to the origin",
-      "A vector with no direction"
+      "40%",
+      "50%",
+      "60%",
+      "30%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Given that the mean of a set of data is 15 and the sum of the data is 120, what is the total number of data points?",
+    "options": [
+      "10",
+      "6",
+      "8",
+      "12"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is conditional probability?",
+    "question": "A particle is moving in a straight line with a constant acceleration of 2 m/s^2. If the initial velocity is 5 m/s, what is the velocity after 4 seconds?",
     "options": [
-      "The complement of P(A)",
-      "The probability of either A or B occurring",
-      "The probability of event A given that event B has already occurred: P(A|B) = P(A\u2229B)/P(B)",
-      "The probability of two independent events"
+      "8 m/s",
+      "7 m/s",
+      "10 m/s",
+      "12 m/s"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the addition rule of probability?",
-    "options": [
-      "P(A\u222aB) = P(A) + P(B) always",
-      "P(A\u222aB) = P(A) - P(B)",
-      "P(A\u222aB) = P(A) + P(B) - P(A\u2229B)",
-      "P(A\u222aB) = P(A) \u00d7 P(B)"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is a unit vector?",
-    "options": [
-      "A vector with magnitude 1 used to show direction",
-      "A vector with magnitude 0",
-      "Any vector divided by 2",
-      "A vector in the positive x direction only"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "How do you find the equation of a line given two points?",
-    "options": [
-      "Use the quadratic formula",
-      "Multiply the two coordinates together",
-      "Add the x and y values of both points",
-      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the nth term of a geometric sequence?",
-    "options": [
-      "a \u00d7 n + r",
-      "a + (n-1)d",
-      "r^n only",
-      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio"
-    ],
-    "correctIndex": 3
   }
 ]

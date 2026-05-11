@@ -1,151 +1,81 @@
 [
   {
-    "question": "Which organelle is responsible for producing ATP through aerobic respiration in eukaryotic cells?",
+    "question": "What is the term for the ability of an organism to resist or recover from disease?",
     "options": [
-      "Ribosome",
-      "Mitochondrion",
-      "Chloroplast",
-      "Nucleus"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the monomer unit of proteins?",
-    "options": [
-      "Nucleotide",
-      "Fatty acid",
-      "Amino acid",
-      "Glucose"
+      "refractoriness",
+      "susceptibility",
+      "immunity",
+      "vulnerability"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which process describes the movement of water molecules from a region of high water potential to a region of low water potential through a selectively permeable membrane?",
+    "question": "What is the term for the process by which an organism's genetic information is altered by external factors?",
     "options": [
-      "Diffusion",
-      "Active transport",
-      "Osmosis",
-      "Facilitated diffusion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What type of bond holds the two strands of a DNA double helix together?",
-    "options": [
-      "Covalent bonds",
-      "Ionic bonds",
-      "Hydrogen bonds",
-      "Peptide bonds"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which part of the chloroplast is responsible for the light-dependent reactions of photosynthesis?",
-    "options": [
-      "Stroma",
-      "Thylakoid membrane",
-      "Matrix",
-      "Cristae"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In humans, how many chromosomes are found in a typical somatic cell?",
-    "options": [
-      "23",
-      "44",
-      "46",
-      "48"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which blood vessel carries oxygenated blood away from the heart to the body?",
-    "options": [
-      "Pulmonary vein",
-      "Vena cava",
-      "Pulmonary artery",
-      "Aorta"
+      "genetic drift",
+      "inheritance",
+      "evolution",
+      "mutation"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the role of messenger RNA (mRNA) in protein synthesis?",
+    "question": "What is the term for the study of the relationship between organisms and their environment?",
     "options": [
-      "It catalyses peptide bond formation",
-      "It carries amino acids to the ribosome",
-      "It carries genetic information from the nucleus to the ribosome",
-      "It unwinds the DNA double helix"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which enzyme is responsible for breaking down starch into maltose during digestion?",
-    "options": [
-      "Lipase",
-      "Amylase",
-      "Protease",
-      "Pepsin"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for organisms that can produce their own food using light energy?",
-    "options": [
-      "Heterotrophs",
-      "Decomposers",
-      "Autotrophs",
-      "Consumers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which phase of mitosis involves the lining up of chromosomes along the cell's equatorial plate?",
-    "options": [
-      "Prophase",
-      "Anaphase",
-      "Telophase",
-      "Metaphase"
+      "chemistry",
+      "biology",
+      "physics",
+      "ecology"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the name of the functional unit of the kidney?",
+    "question": "Which type of cellular organelle is responsible for synthesizing proteins?",
     "options": [
-      "Nephron",
-      "Alveolus",
-      "Neuron",
-      "Villus"
+      "chloroplast",
+      "mitochondria",
+      "lysosome",
+      "ribosome"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which gas is released as a by-product of the light-dependent reactions of photosynthesis?",
+    "question": "What is the term for the process by which an organism's genetic information is altered by internal factors?",
     "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Hydrogen"
+      "evolution",
+      "genetic drift",
+      "mutation",
+      "inheritance"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of immunity is provided by vaccines?",
+    "question": "Which type of genetic variation occurs when a gene is inherited from both parents but has a different form?",
     "options": [
-      "Passive natural immunity",
-      "Active artificial immunity",
-      "Passive artificial immunity",
-      "Innate immunity"
+      "genotype",
+      "allelic variation",
+      "heterozygous",
+      "homozygous"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which macromolecule forms the primary structural component of cell walls in plants?",
+    "question": "Which type of biological molecule is primarily responsible for storing genetic information?",
     "options": [
-      "Starch",
-      "Glycogen",
-      "Cellulose",
-      "Chitin"
+      "lipids",
+      "carbohydrates",
+      "proteins",
+      "DNA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of genetic variation occurs when a gene is inherited from one parent but not the other and has a different form?",
+    "options": [
+      "genotype",
+      "phenotype",
+      "allele",
+      "homozygous"
     ],
     "correctIndex": 2
   }

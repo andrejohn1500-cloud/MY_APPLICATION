@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which accounting concept requires that expenses are matched with the revenues they help to generate in the same accounting period?",
+    "question": "What is the main purpose of a cost centre?",
     "options": [
-      "Accruals concept",
-      "Prudence concept",
-      "Consistency concept",
-      "Going concern concept"
+      "To identify and record the costs of a particular activity or department",
+      "To report the company's profits only",
+      "To provide information about the company's assets only",
+      "To control and coordinate activities only"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A company purchases machinery for $50,000 with a residual value of $5,000 and a useful life of 9 years. What is the annual depreciation charge using the straight-line method?",
+    "question": "What is the accounting treatment for a company's sale of an asset?",
     "options": [
-      "$5,000",
-      "$4,500",
-      "$5,556",
-      "$5,500"
+      "It is recorded as a gain or loss and the asset is removed from the balance sheet",
+      "It is ignored",
+      "It is recorded as an expense only",
+      "It is recorded as a liability"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is NOT a characteristic of a partnership as opposed to a sole trader?",
+    "question": "What is the accounting treatment for a company's sale of a non-current asset for cash?",
     "options": [
-      "Unlimited liability for partners",
-      "Shared decision making",
-      "Mutual agency among partners",
-      "Separate legal entity from its owners"
+      "It is ignored",
+      "It is recorded as a cash inflow and the asset is removed from the balance sheet",
+      "It is recorded as a liability",
+      "It is recorded as an expense only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of a budgeting system in management accounting?",
+    "options": [
+      "To provide a plan for the company's future activities and to guide management in decision making",
+      "To provide information to external users only",
+      "To report the company's financial performance only",
+      "To control and coordinate activities only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting standard that deals with the accounting treatment for foreign currency transactions?",
+    "options": [
+      "IAS 21 (The Effects of Changes in Foreign Exchange Rates) and CARICOM 21",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting standard that deals with the accounting treatment for leases?",
+    "options": [
+      "IAS 17 (Leases) and CARICOM 17",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting standard that deals with the accounting treatment for intangible assets?",
+    "options": [
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 38 (Intangible Assets) and CARICOM 38"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a manufacturing account, which of the following would be classified as prime cost?",
+    "question": "What is the main purpose of the Statement of Financial Position in management accounting?",
     "options": [
-      "Factory rent and rates",
-      "Direct materials plus direct labour plus direct expenses",
-      "Indirect labour costs",
-      "Factory supervisor's salary"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A company has current assets of $80,000 and current liabilities of $32,000. What is the current ratio?",
-    "options": [
-      "2.5:1",
-      "2.0:1",
-      "1.5:1",
-      "3.0:1"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best describes the purpose of a bank reconciliation statement?",
-    "options": [
-      "To record all cash transactions in the accounting period",
-      "To explain the difference between the cash book balance and the bank statement balance",
-      "To prepare the final accounts of the business",
-      "To record deposits made into the bank account"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Under the IFRS 15 revenue recognition standard, revenue should be recognised when:",
-    "options": [
-      "Cash is received from the customer",
-      "A contract is signed with a customer",
-      "Performance obligations to the customer are satisfied",
-      "An invoice is issued to the customer"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In absorption costing, which of the following costs is included in the cost of inventory that would be excluded under marginal costing?",
-    "options": [
-      "Direct materials",
-      "Direct labour",
-      "Fixed production overhead",
-      "Variable production overhead"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A firm's closing inventory is overstated by $10,000. What is the effect on net profit and assets?",
-    "options": [
-      "Net profit overstated; assets overstated",
-      "Net profit understated; assets understated",
-      "Net profit overstated; assets understated",
-      "Net profit understated; assets overstated"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following best describes a contingent liability?",
-    "options": [
-      "A liability that is certain and has a known amount",
-      "A possible obligation that arises from past events and whose existence will be confirmed by uncertain future events",
-      "A liability that must be provided for in the financial statements",
-      "A long-term loan payable within five years"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a partnership, the interest on drawings is:",
-    "options": [
-      "Debited to the profit and loss account",
-      "Credited to the profit and loss appropriation account",
-      "Debited to the profit and loss appropriation account",
-      "Credited to the partners' capital accounts"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which financial statement shows a company's financial position at a specific point in time?",
-    "options": [
-      "Income statement",
-      "Statement of cash flows",
-      "Statement of changes in equity",
-      "Statement of financial position"
+      "To provide information about the company's cash flows only",
+      "To disclose the company's accounting policies",
+      "To report the company's revenues and expenses only",
+      "To provide a summary of the company's financial position at the end of the period"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A company issues 10,000 ordinary shares at $2 each with a par value of $1 each. How would the share premium be recorded?",
+    "question": "What is the accounting standard that deals with the accounting treatment for inventories?",
     "options": [
-      "Debit bank $20,000; Credit share capital $20,000",
-      "Debit bank $20,000; Credit share capital $10,000 and share premium $10,000",
-      "Debit share premium $10,000; Credit share capital $10,000",
-      "Debit bank $10,000; Credit share premium $10,000"
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1",
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 18 (Revenue) and CARICOM 18"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which of the following ratios measures how efficiently a business collects its receivables?",
+    "question": "What is the primary purpose of a company's statement of changes in equity?",
     "options": [
-      "Current ratio",
-      "Receivables collection period",
-      "Return on capital employed",
-      "Gross profit margin"
+      "To report the company's cash flow during the period",
+      "To disclose the company's accounting policies",
+      "To provide information about the company's revenue and expenses",
+      "To provide a summary of the changes in the company's equity during the period"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "When preparing a cash flow statement using the indirect method, which of the following adjustments is made to net profit to calculate cash from operating activities?",
+    "question": "What is the main objective of the cash budget in management accounting?",
     "options": [
-      "Add back depreciation charged during the period",
-      "Deduct capital expenditure on non-current assets",
-      "Add proceeds from the issue of shares",
-      "Deduct repayment of long-term loans"
+      "To provide a plan for the company's cash inflows and outflows",
+      "To control and coordinate activities only",
+      "To provide a plan for the company's revenue only",
+      "To report the company's financial performance only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of the Statement of Financial Position in financial accounting?",
+    "options": [
+      "To disclose the company's accounting policies",
+      "To report the company's revenues and expenses only",
+      "To provide information about the company's cash flows only",
+      "To provide a summary of the company's financial position at the end of the period"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the accounting treatment for a company's purchase of a new machine?",
+    "options": [
+      "It is recorded as an asset and an expense is recognized over its useful life",
+      "It is recorded as a liability",
+      "It is recorded as an expense only",
+      "It is ignored"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the accounting standard that deals with the accounting treatment for revenue and expenses?",
+    "options": [
+      "IAS 2 (Inventories) and CARICOM 2",
+      "IAS 10 (Events After the Reporting Period) and CARICOM 10",
+      "IAS 18 (Revenue) and CARICOM 18",
+      "IAS 1 (Presentation of Financial Statements) and CARICOM 1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main advantage of a partnership over a company?",
+    "options": [
+      "A partnership is owned by two or more individuals",
+      "A partnership is owned by an entity, while a company is owned by an individual",
+      "A partnership is owned by one individual, while a company is owned by two or more individuals",
+      "A partnership is owned by a single entity, while a company is owned by two or more entities"
     ],
     "correctIndex": 0
   }

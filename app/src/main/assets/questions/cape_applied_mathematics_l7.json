@@ -1,202 +1,152 @@
 [
   {
-    "question": "What is the nth term of an arithmetic sequence?",
+    "question": "The regression line for a set of data has a slope of 2 and a y-intercept of 1. What is the coefficient of determination (R^2)?",
     "options": [
-      "a + nd",
-      "n \u00d7 a + d",
-      "a \u00d7 r^(n-1)",
-      "a + (n-1)d where a is the first term and d is the common difference"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the inverse of a 2x2 matrix?",
-    "options": [
-      "The matrix divided by its determinant only",
-      "The transpose of the matrix",
-      "The matrix with all signs changed",
-      "(1/det) \u00d7 [[d,-b],[-c,a]] where det = ad-bc"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "How do you add two vectors?",
-    "options": [
-      "Add corresponding components: if a=(x1,y1) and b=(x2,y2) then a+b=(x1+x2, y1+y2)",
-      "Subtract corresponding components",
-      "Add the angles only",
-      "Multiply the magnitudes"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the magnitude of a vector?",
-    "options": [
-      "The direction of the vector",
-      "The product of the components",
-      "The length of the vector calculated as \u221a(x\u00b2 + y\u00b2) for vector (x,y)",
-      "The sum of the components"
+      "0.9",
+      "0.5",
+      "0.8",
+      "0.7"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a unit vector?",
+    "question": "A company has a profit of $100,000 and a total revenue of $200,000. What is the company's profit margin?",
     "options": [
-      "A vector in the positive x direction only",
-      "A vector with magnitude 0",
-      "Any vector divided by 2",
-      "A vector with magnitude 1 used to show direction"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is a probability tree diagram?",
-    "options": [
-      "A diagram showing all possible outcomes of sequential events and their probabilities",
-      "A graph of a cumulative frequency",
-      "A bar chart of probability values",
-      "A diagram showing set relationships"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is conditional probability?",
-    "options": [
-      "The probability of either A or B occurring",
-      "The complement of P(A)",
-      "The probability of event A given that event B has already occurred: P(A|B) = P(A\u2229B)/P(B)",
-      "The probability of two independent events"
+      "40%",
+      "60%",
+      "50%",
+      "30%"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a Venn diagram used for?",
+    "question": "A particle moves along a straight line with an initial velocity of 10 m/s and a uniform acceleration of 2 m/s^2. What is its velocity after 5 seconds?",
     "options": [
-      "To visually represent sets and their relationships including unions intersections and complements",
-      "To plot a linear function",
-      "To represent a probability tree",
-      "To show the frequency of data values"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is matrix addition?",
-    "options": [
-      "Multiplying rows by columns",
-      "Finding the determinant",
-      "Transposing the matrix",
-      "Adding corresponding elements of two matrices of the same dimensions"
+      "-10 m/s",
+      "20 m/s",
+      "25 m/s",
+      "30 m/s"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the nth term of a geometric sequence?",
+    "question": "The correlation coefficient between two variables is 0.2. What does this indicate about the relationship between the variables?",
     "options": [
-      "a \u00d7 n + r",
-      "r^n only",
-      "a + (n-1)d",
-      "a \u00d7 r^(n-1) where a is the first term and r is the common ratio"
+      "A weak negative correlation",
+      "No correlation",
+      "A strong positive correlation",
+      "A weak positive correlation"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is differentiation used for?",
+    "question": "The correlation coefficient between two variables is -0.5. What does this indicate about the relationship between the variables?",
     "options": [
-      "To solve quadratic equations",
-      "To find the area under a curve",
-      "To find the rate of change of a function and the gradient at any point",
-      "To find the inverse of a function"
+      "A weak positive correlation",
+      "No correlation",
+      "A strong negative correlation",
+      "A weak negative correlation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is a linear programming problem?",
+    "question": "A sample of 50 data points has a mean of 40 and a standard deviation of 3. What is the standard error of the mean?",
     "options": [
-      "An optimisation problem finding the maximum or minimum of a linear objective function subject to linear constraints",
-      "A problem finding the gradient of a line",
-      "A problem with no constraints",
-      "A problem involving quadratic functions"
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.2"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the addition rule of probability?",
+    "question": "A particle is moving in a straight line with a constant acceleration of 3 m/s^2. If the initial velocity is 10 m/s, what is the velocity after 3 seconds?",
     "options": [
-      "P(A\u222aB) = P(A) \u00d7 P(B)",
-      "P(A\u222aB) = P(A) + P(B) - P(A\u2229B)",
-      "P(A\u222aB) = P(A) - P(B)",
-      "P(A\u222aB) = P(A) + P(B) always"
+      "12 m/s",
+      "14 m/s",
+      "15 m/s",
+      "13 m/s"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What defines the feasible region in linear programming?",
+    "question": "The regression line for a set of data has a slope of 1 and a y-intercept of 3. What is the equation of the regression line?",
     "options": [
-      "The region satisfying all the constraints in the problem",
-      "The x and y axes only",
-      "The region where the objective function is maximised",
-      "The region outside all constraints"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "How do you find the equation of a line given two points?",
-    "options": [
-      "Use the quadratic formula",
-      "Add the x and y values of both points",
-      "Multiply the two coordinates together",
-      "Calculate the gradient using m = (y2-y1)/(x2-x1) then substitute into y = mx + c to find c"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What does the discriminant tell us about a quadratic equation?",
-    "options": [
-      "If b\u00b2-4ac > 0: two real roots; = 0: one repeated root; < 0: no real roots",
-      "It only tells us if the parabola opens up or down",
-      "It gives the value of the roots directly",
-      "It measures the gradient of the quadratic"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the determinant of a 2x2 matrix?",
-    "options": [
-      "For matrix [[a,b],[c,d]], the determinant is ad - bc",
-      "ac + bd",
-      "a + d",
-      "ab - cd"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is a cumulative frequency curve used for?",
-    "options": [
-      "To show the mode of a data set",
-      "To estimate medians, quartiles and percentiles from grouped data",
-      "To compare two data sets directly",
-      "To calculate the mean of grouped data"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is standard deviation?",
-    "options": [
-      "The average of the data set",
-      "The difference between max and min values",
-      "A measure of how spread out data values are from the mean",
-      "The middle value of the data"
+      "y = x - 3",
+      "y = 3x - 1",
+      "y = x + 3",
+      "y = 2x + 3"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the interquartile range?",
+    "question": "The correlation coefficient between two variables is 0.7. What does this indicate about the relationship between the variables?",
     "options": [
-      "The average of the quartiles",
-      "The difference between the maximum and minimum values",
-      "Half of the range",
-      "The difference between the upper quartile Q3 and lower quartile Q1"
+      "A strong positive correlation",
+      "A weak negative correlation",
+      "No correlation",
+      "A weak positive correlation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has a total cost of $150,000 and a total revenue of $200,000. What is the company's break-even point?",
+    "options": [
+      "100,000",
+      "125,000",
+      "50,000",
+      "75,000"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "The regression line for a set of data has a slope of 1 and a y-intercept of 2. What is the equation of the regression line?",
+    "options": [
+      "y = x - 2",
+      "y = x - 1",
+      "y = 2x + 2",
+      "y = x + 2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The correlation coefficient between two variables is -0.8. What does this indicate about the relationship between the variables?",
+    "options": [
+      "A weak positive correlation",
+      "A strong negative correlation",
+      "No correlation",
+      "A weak negative correlation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has a profit of $25,000 and a total revenue of $50,000. What is the company's profit margin?",
+    "options": [
+      "40%",
+      "60%",
+      "50%",
+      "30%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A particle is moving in a circular path with a constant velocity of 10 m/s. What is the acceleration of the particle?",
+    "options": [
+      "0 m/s^2",
+      "4 m/s^2",
+      "3 m/s^2",
+      "2 m/s^2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The mean of a set of data is 25 and the sample standard deviation is 3. What is the margin of error for a 95% confidence interval?",
+    "options": [
+      "1.65",
+      "3.29",
+      "1.96",
+      "2.58"
+    ],
+    "correctIndex": 2
   }
 ]
