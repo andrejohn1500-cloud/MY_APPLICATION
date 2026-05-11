@@ -30,7 +30,8 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = true
-            buildConfigField("String", "ONESIGNAL_REST_API_KEY", """ + (System.getenv("ONESIGNAL_REST_API_KEY") ?: "") + """)
+            val osKey = System.getenv("ONESIGNAL_REST_API_KEY") ?: ""
+            buildConfigField("String", "ONESIGNAL_REST_API_KEY", "\"" + osKey + "\"")
                 isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
