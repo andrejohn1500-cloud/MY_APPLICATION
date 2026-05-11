@@ -245,7 +245,8 @@ class ResultActivity : AppCompatActivity() {
                     "rating"     to rating,
                     "time_taken" to timeTaken,
                     "timestamp"  to System.currentTimeMillis(),
-            "fcm_token"    to (getSharedPreferences("fcm_prefs", MODE_PRIVATE).getString("fcm_token", "") ?: "")
+            "fcm_token"    to (getSharedPreferences("fcm_prefs", MODE_PRIVATE).getString("fcm_token", "") ?: ""),
+            "onesignal_id" to (com.onesignal.OneSignal.User.onesignalId ?: "")
                 )
                 if (existing != null) existing.reference.set(data)
                 else db.collection("leaderboard").add(data)
@@ -253,8 +254,66 @@ class ResultActivity : AppCompatActivity() {
                 binding.btnSubmitScore.isEnabled = false
                 binding.btnSubmitScore.alpha     = 0.5f
             }
+            .addOnSuccessListener {
+                // Check if we beat anyone and notify them via OneSignal
+                checkAndNotifyRivals(name, score, total, category, level, rating)
+            }
             .addOnFailureListener {
                 Toast.makeText(this, "Submission failed. Check connection.", Toast.LENGTH_SHORT).show()
             }
+    }
+
+    private fun checkAndNotifyRivals(name: String, score: Int, total: Int, category: String, level: Int, myRating: Int) {
+        db.collection("leaderboard")
+            .whereEqualTo("category", category)
+            .whereEqualTo("level", level)
+            .get()
+            .addOnSuccessListener { docs ->
+                docs.forEach { doc ->
+                    val theirName   = doc.getString("name") ?: return@forEach
+                    val theirScore  = doc.getLong("score")?.toInt() ?: return@forEach
+                    val theirRating = doc.getLong("rating")?.toInt() ?: 0
+                    val theirOsId   = doc.getString("onesignal_id") ?: return@forEach
+                    if (theirName == name) return@forEach
+                    if (theirRating < myRating && theirOsId.isNotEmpty()) {
+                        val gap = score - theirScore
+                        sendRivalryNotification(
+                            osId        = theirOsId,
+                            rivalName   = name,
+                            score       = score,
+                            total       = total,
+                            category    = category,
+                            level       = level,
+                            gap         = gap,
+                            theirScore  = theirScore
+                        )
+                    }
+                }
+            }
+    }
+
+    private fun sendRivalryNotification(osId: String, rivalName: String, score: Int, total: Int, category: String, level: Int, gap: Int, theirScore: Int) {
+        val needed = if (gap > 0) "Score $gap more to reclaim your rank" else "Answer faster to reclaim #1"
+        Thread {
+            try {
+                val url = java.net.URL("https://onesignal.com/api/v1/notifications")
+                val conn = url.openConnection() as java.net.HttpURLConnection
+                conn.requestMethod = "POST"
+                conn.setRequestProperty("Content-Type", "application/json")
+                conn.setRequestProperty("Authorization", "Basic os_v2_app_c9ec45bd-705f-4fd2-b00f-79ce25085cef")
+                conn.doOutput = true
+                val body = """{
+                    "app_id": "c9ec45bd-705f-4fd2-b00f-79ce25085cef",
+                    "include_subscription_ids": ["$osId"],
+                    "contents": {"en": "$rivalName scored $score/$total in $category Lvl $level. $needed."},
+                    "data": {"category": "$category", "their_score": "$score/$total", "your_score": "$theirScore/$total", "gap": "$gap"}
+                }"""
+                conn.outputStream.write(body.toByteArray())
+                conn.responseCode
+                conn.disconnect()
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }.start()
     }
 }
