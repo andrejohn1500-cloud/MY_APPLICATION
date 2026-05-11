@@ -1,152 +1,122 @@
 [
   {
-    "question": "What is the primary purpose of a skin analysis before a facial treatment?",
+    "question": "What is the term for the process of checking the client's hair and scalp for any signs of damage or disease?",
     "options": [
-      "To determine the client's skin type and condition",
-      "To sell retail products",
-      "To decide the price of the service",
-      "To check the client's age"
+      "Hair and scalp treatment",
+      "Hair and scalp examination",
+      "Hair and scalp diagnosis",
+      "Hair and scalp analysis"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which hair type is characterized by a round cross-section and grows straight?",
+    "question": "What is the correct way to apply a chemical treatment?",
     "options": [
-      "Curly hair",
-      "Wavy hair",
-      "Straight hair",
-      "Coily hair"
+      "By using too much product",
+      "By applying it too frequently",
+      "By using the wrong product",
+      "By following the manufacturer's instructions and using the correct application technique"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a shampoo?",
+    "options": [
+      "To condition the hair",
+      "To style the hair",
+      "To cleanse the hair and scalp",
+      "To moisturize the hair"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the term 'pH' stand for in cosmetology?",
+    "question": "What is the term for the process of creating a treatment plan for the client's hair and scalp?",
     "options": [
-      "Potential of Hydrogen",
-      "Power of Hydration",
-      "Percentage of Hydrogen",
-      "Presence of Hydroxide"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a temporary hair color?",
-    "options": [
-      "Permanent oxidative tint",
-      "Semi-permanent color",
-      "Bleach",
-      "Hair lightener"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct way to sterilize metal nail implements?",
-    "options": [
-      "Wipe with a dry cloth",
-      "Soak in an autoclave or disinfectant solution",
-      "Rinse with cold water",
-      "Leave in sunlight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which vitamin is known to promote healthy hair and nail growth?",
-    "options": [
-      "Vitamin C",
-      "Vitamin D",
-      "Biotin (Vitamin B7)",
-      "Vitamin K"
+      "Treatment evaluation",
+      "Treatment review",
+      "Treatment planning",
+      "Treatment administration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a base coat in nail care?",
+    "question": "What is the correct way to sanitize nail care tools?",
     "options": [
-      "To add color to the nail",
-      "To protect the natural nail and improve polish adhesion",
-      "To remove old nail polish",
-      "To strengthen the cuticle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which muscle is primarily used when smiling?",
-    "options": [
-      "Zygomaticus major",
-      "Frontalis",
-      "Orbicularis oculi",
-      "Masseter"
+      "By sterilizing them in a autoclave or by using a sanitizing solution",
+      "By washing them in hot water",
+      "By storing them in a drawer",
+      "By drying them with a towel"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is effleurage in massage?",
+    "question": "What is the main purpose of a pre-treatment before bleaching?",
     "options": [
-      "Deep kneading movement",
-      "Light gliding or stroking movement",
-      "Tapping movement",
-      "Vibrating movement"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which chemical process permanently straightens curly hair?",
-    "options": [
-      "Highlighting",
-      "Relaxing",
-      "Toning",
-      "Glazing"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the natural oil produced by the sebaceous glands called?",
-    "options": [
-      "Melanin",
-      "Keratin",
-      "Sebum",
-      "Collagen"
+      "To close the cuticle and prevent damage",
+      "To remove product buildup",
+      "To open the cuticle and allow the bleach to penetrate",
+      "To moisturize the hair"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which tool is used to measure the temperature of wax before applying it to the skin?",
+    "question": "What are some common hazards in the nail care area?",
     "options": [
-      "Hygrometer",
-      "Thermometer",
-      "Barometer",
-      "Caliper"
+      "Chemical burns",
+      "Nail nicks, cuts, infections",
+      "Allergic reactions",
+      "Eye strain"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does COSHH stand for in a salon environment?",
+    "question": "What are some common steps involved in treatment evaluation?",
     "options": [
-      "Control of Substances Hazardous to Health",
-      "Care of Staff and Hazardous Hygiene",
-      "Cosmetology Standards for Hazardous Handling",
-      "Control of Safe and Healthy Habits"
+      "Applying the treatment",
+      "Reviewing the treatment",
+      "Assessing the client's hair and scalp, evaluating the effectiveness of the treatment, making recommendations for future treatments or services",
+      "Evaluating the treatment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a hair and scalp analysis?",
+    "options": [
+      "To provide a quote for services",
+      "To record payment",
+      "To book an appointment",
+      "To identify any potential problems and to recommend treatments or services"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are some common tools used for hair cutting?",
+    "options": [
+      "Scissors, clippers, combs",
+      "Tweezers",
+      "Brushes",
+      "Razors"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which layer of the skin contains melanocytes?",
+    "question": "Which of the following chemical treatments involves applying a mixture of ammonia and peroxide to the hair?",
     "options": [
-      "Stratum corneum",
-      "Stratum basale",
-      "Stratum lucidum",
-      "Stratum granulosum"
+      "Straightening",
+      "Coloring",
+      "Bleaching",
+      "Relaxing"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the recommended angle to hold scissors when cutting hair with a blunt cut technique?",
+    "question": "What is the term for the process of creating a relaxing atmosphere in the salon?",
     "options": [
-      "45 degrees",
-      "90 degrees",
-      "180 degrees",
-      "30 degrees"
+      "Ambiance",
+      "Atmosphere",
+      "Mood",
+      "Ambient"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

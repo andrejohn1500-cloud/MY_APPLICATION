@@ -1,153 +1,152 @@
 [
   {
-    "question": "Which layer of the hair shaft contains the pigment granules (melanin) responsible for hair color?",
+    "question": "What is the recommended way to trim and shape a client's nail?",
     "options": [
-      "A. Medulla",
-      "B. Cuticle",
-      "C. Cortex",
-      "D. Dermal papilla"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "During a chemical relaxer service, sodium hydroxide relaxers work by breaking which bond in the hair?",
-    "options": [
-      "A. Hydrogen bonds",
-      "B. Salt bonds",
-      "C. Disulfide bonds",
-      "D. Peptide bonds"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A client presents with a scalp condition characterized by large, greasy, yellowish scales and possible hair loss. This is most likely indicative of:",
-    "options": [
-      "A. Tinea capitis",
-      "B. Pityriasis steatoides",
-      "C. Pityriasis capitis simplex",
-      "D. Alopecia areata"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In hair coloring, the Munsell color theory identifies which three attributes as essential to understanding color?",
-    "options": [
-      "A. Hue, value, and chroma",
-      "B. Primary, secondary, and tertiary",
-      "C. Warm, cool, and neutral",
-      "D. Tint, tone, and shade"
+      "Use a nail clipper or nail scissors to carefully trim the nail, and use a nail file to shape and smooth the edge.",
+      "Use a nail glue to repair a broken nail",
+      "Use a nail buffer to add shine and control frizz",
+      "Use a nail drill to shape and smooth the nail"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following accurately describes the purpose of a strand test before a chemical service?",
+    "question": "What is the recommended way to trim and shape a client's nail?",
     "options": [
-      "A. To determine the client's patch test reaction",
-      "B. To assess processing time, color result, and hair integrity",
-      "C. To check for contraindications to the scalp",
-      "D. To measure the natural pH of the hair"
+      "Use a nail buffer to add shine and control frizz",
+      "Use a nail clipper or nail scissors to carefully trim the nail, and use a nail file to shape and smooth the edge.",
+      "Use a nail glue to repair a broken nail",
+      "Use a nail drill to shape and smooth the nail"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When performing a virgin relaxer application, where should the relaxer be applied first?",
+    "question": "What is the difference between a cosmetology license and a cosmetology certification?",
     "options": [
-      "A. Entire head from scalp to ends simultaneously",
-      "B. Scalp area first, then mid-lengths and ends",
-      "C. Ends first, then mid-lengths, then scalp",
-      "D. Most resistant area first, avoiding scalp and ends initially"
+      "A cosmetology license and certification are interchangeable terms",
+      "A cosmetology license is a government-issued permit that allows the holder to practice cosmetology in their state, while a cosmetology certification is an industry-recognized credential that demonstrates expertise in a specific area of cosmetology.",
+      "A cosmetology certification is a government-issued permit, while a license is an industry-recognized credential",
+      "A cosmetology license is a certification that demonstrates expertise, while a certification is a government-issued permit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended way to care for a client's hair after a chemical treatment?",
+    "options": [
+      "Use a gentle shampoo and conditioner, avoid using heat styling tools for 24-48 hours, and apply a nourishing mask to help repair and restore the hair.",
+      "Use a texturizing spray to add volume and texture",
+      "Use a clarifying shampoo and conditioner to remove product buildup",
+      "Apply a hair serum to add shine and control frizz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended way to handle a client's sensitive skin during a service?",
+    "options": [
+      "Use a rough scrub to remove product buildup",
+      "Use gentle and soothing products, avoid using harsh chemicals or exfoliants, and take regular breaks to allow the skin to rest and recover.",
+      "Apply a strong chemical treatment to address skin concerns",
+      "Use a harsh exfoliant to remove dead skin cells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the importance of using a client consultation form?",
+    "options": [
+      "To promote additional services to the client",
+      "To keep track of the client's service schedule",
+      "To create a record of the client's payment history",
+      "To gather information about the client's preferences, needs, and concerns, and to communicate effectively with the client about their service."
     ],
     "correctIndex": 3
   },
   {
-    "question": "The acid used in acid-balanced permanent waves that requires heat for activation is:",
+    "question": "What is the recommended way to handle a client's hair texture that is prone to dryness and breakage?",
     "options": [
-      "A. Ammonium thioglycolate",
-      "B. Glyceryl monothioglycolate",
-      "C. Sodium bromate",
-      "D. Hydrogen peroxide"
+      "Use a hydrating shampoo and conditioner, and apply a leave-in moisturizer to help lock in moisture and reduce breakage.",
+      "Use a texturizing spray to add volume and texture",
+      "Use a clarifying shampoo and conditioner to remove product buildup",
+      "Apply a hair serum to add shine and control frizz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended way to handle a client's hair texture that is prone to dryness and breakage?",
+    "options": [
+      "Use a hydrating shampoo and conditioner, and apply a leave-in moisturizer to help lock in moisture and reduce breakage.",
+      "Apply a hair serum to add shine and control frizz",
+      "Use a clarifying shampoo and conditioner to remove product buildup",
+      "Use a texturizing spray to add volume and texture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended way to care for a client's hair after a chemical treatment?",
+    "options": [
+      "Apply a hair serum to add shine and control frizz",
+      "Use a clarifying shampoo and conditioner to remove product buildup",
+      "Use a texturizing spray to add volume and texture",
+      "Use a gentle shampoo and conditioner, avoid using heat styling tools for 24-48 hours, and apply a nourishing mask to help repair and restore the hair."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a salon setting, what is the purpose of a HEPA air purifier?",
+    "options": [
+      "To sanitize equipment and tools",
+      "To remove allergens, bacteria, and other airborne pathogens from the air, promoting a healthier environment for clients and staff.",
+      "To cool the air temperature",
+      "To remove odors and fragrances"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which muscle of the scalp is responsible for moving the scalp forward and raising the eyebrows?",
+    "question": "What is the purpose of a patch test when using a new chemical treatment?",
     "options": [
-      "A. Occipitalis",
-      "B. Temporalis",
-      "C. Frontalis",
-      "D. Corrugator"
+      "To test the product's shelf life",
+      "To show the client the expected results",
+      "To determine the client's sensitivity to the product and ensure a safe and effective application.",
+      "To determine the effectiveness of the product"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A level 10 developer (3% hydrogen peroxide) is most appropriate for which of the following services?",
+    "question": "What is the importance of following a sanitation and disinfection protocol in a salon?",
     "options": [
-      "A. Lifting natural hair color by four levels",
-      "B. Depositing color with no lift",
-      "C. Pre-softening resistant gray hair",
-      "D. High-lift blonde tinting"
+      "To prevent the spread of infections and diseases, and to maintain a clean and safe environment for clients and staff.",
+      "To save time and reduce labor costs",
+      "To reduce the amount of cleaning supplies used",
+      "To promote a relaxing and calming atmosphere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct way to store and maintain cosmetology tools and equipment?",
+    "options": [
+      "In a humid or dusty environment",
+      "In a designated area, with frequent cleaning and disinfection, and stored in a dry, well-ventilated area when not in use.",
+      "In the client's bathroom or near the reception area",
+      "In a locked cabinet when not in use"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following nail disorders is characterized by separation of the nail plate from the nail bed beginning at the free edge, often caused by injury or fungal infection?",
+    "question": "What is the recommended way to handle a client's sensitive skin during a service?",
     "options": [
-      "A. Onychomycosis",
-      "B. Leukonychia",
-      "C. Onycholysis",
-      "D. Paronychia"
+      "Use a rough scrub to remove product buildup",
+      "Apply a strong chemical treatment to address skin concerns",
+      "Use gentle and soothing products, avoid using harsh chemicals or exfoliants, and take regular breaks to allow the skin to rest and recover.",
+      "Use a harsh exfoliant to remove dead skin cells"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the context of scalp massage during a shampoo service, which manipulative movement involves a kneading and lifting motion?",
+    "question": "What is the recommended way to clean and sanitize a nail drill?",
     "options": [
-      "A. Effleurage",
-      "B. Petrissage",
-      "C. Tapotement",
-      "D. Friction"
+      "Soak the drill in a solution of warm water and sanitizer, and use a soft-bristled brush to remove any debris and residue.",
+      "Use a paper towel to wipe down the drill",
+      "Use a harsh chemical to clean the drill",
+      "Soak the drill in hot water and avoid sanitizing"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When analyzing a client's face shape to recommend a flattering hairstyle, which design principle suggests using vertical lines to create the illusion of length in a round face?",
-    "options": [
-      "A. Emphasis",
-      "B. Proportion",
-      "C. Balance",
-      "D. Rhythm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "function": "",
-    "question": "Which infection control classification, established by the Spaulding classification system, applies to implements that contact intact skin but not mucous membranes, requiring intermediate-level disinfection?",
-    "options": [
-      "A. Critical items",
-      "B. Semi-critical items",
-      "C. Non-critical items",
-      "D. Sterile items"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A client's hair has been double-processed: first lightened then toned. During retouching, which area should receive the lightener application?",
-    "options": [
-      "A. Full strand from scalp to ends",
-      "B. Previously lightened hair only",
-      "C. New growth only, then toner applied to entire strand",
-      "D. Mid-lengths and ends only"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which cranial nerve is primarily responsible for motor control of the muscles of facial expression and is most relevant to understanding facial anatomy in cosmetology?",
-    "options": [
-      "A. Trigeminal nerve (CN V)",
-      "B. Facial nerve (CN VII)",
-      "C. Hypoglossal nerve (CN XII)",
-      "D. Glossopharyngeal nerve (CN IX)"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

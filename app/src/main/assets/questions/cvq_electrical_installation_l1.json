@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does the abbreviation 'AC' stand for in electrical systems?",
+    "question": "What is the function of a RCD (Residual Current Device) in an electrical circuit?",
     "options": [
-      "Alternating Current",
-      "Alternating Circuit",
-      "Ampere Current",
-      "Active Current"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which unit is used to measure electrical resistance?",
-    "options": [
-      "Ampere",
-      "Volt",
-      "Ohm",
-      "Watt"
+      "To regulate the voltage of the circuit",
+      "To increase the current rating of the circuit",
+      "To detect and interrupt fault currents to earth",
+      "To improve the power factor of the system"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the standard colour of the live wire in a modern UK/Caribbean wiring system?",
+    "question": "What is the recommended method of testing a circuit for faults?",
     "options": [
-      "Blue",
-      "Green and Yellow",
-      "Brown",
-      "Black"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which tool is used to measure electrical current in a circuit?",
-    "options": [
-      "Voltmeter",
-      "Ammeter",
-      "Wattmeter",
-      "Ohmmeter"
+      "Using a current tester only",
+      "Using a multimeter or circuit tester",
+      "Using a voltage tester only",
+      "Not testing the circuit for faults at all"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does a fuse do in an electrical circuit?",
+    "question": "What is the recommended method of supporting a cable in a residential dwelling?",
     "options": [
-      "Increases voltage",
-      "Stores electrical energy",
-      "Protects the circuit from excess current",
-      "Measures resistance"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a good conductor of electricity?",
-    "options": [
-      "Rubber",
-      "Plastic",
-      "Copper",
-      "Wood"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the formula for Ohm's Law?",
-    "options": [
-      "V = I x R",
-      "P = I x V",
-      "I = P x R",
-      "R = V x P"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What colour is the earth wire in standard electrical installations?",
-    "options": [
-      "Brown",
-      "Blue",
-      "Black",
-      "Green and Yellow"
+      "Taping cables to walls and ceiling",
+      "Bundling cables together with wire",
+      "Drilling holes in walls and ceiling for cables",
+      "Using cable clips or cable ties"
     ],
     "correctIndex": 3
   },
   {
-    "question": "How many volts is the standard single-phase domestic supply in most Caribbean countries?",
+    "question": "Which of the following types of electrical equipment is most suitable for use in a residential dwelling?",
     "options": [
-      "110 V",
-      "415 V",
-      "230 V",
-      "12 V"
+      "High-voltage equipment (e.g. refrigerators, air conditioners)",
+      "Electrical generators",
+      "Low-voltage equipment (e.g. lamps, ceiling fans)",
+      "Electrical motors"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the abbreviation 'PPE' stand for?",
+    "question": "What is the recommended method of protecting a building from electrical shock?",
     "options": [
-      "Personal Protective Equipment",
-      "Power Protection Equipment",
-      "Personal Power Electronics",
-      "Protective Power Engineering"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which instrument is used to test if a circuit is live?",
-    "options": [
-      "Multimeter",
-      "Spirit level",
-      "Tape measure",
-      "Hacksaw"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What type of circuit has components connected end to end in a single path?",
-    "options": [
-      "Parallel circuit",
-      "Compound circuit",
-      "Series circuit",
-      "Ring circuit"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following materials is an electrical insulator?",
-    "options": [
-      "Aluminium",
-      "Steel",
-      "PVC plastic",
-      "Silver"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the symbol 'kW' stand for?",
-    "options": [
-      "Kilowatt",
-      "Kilovolt",
-      "Kiloweber",
-      "Kiloamp"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which regulation governs electrical installations to ensure safety in the Caribbean vocational context?",
-    "options": [
-      "Building Regulations",
-      "IEE Wiring Regulations (BS 7671)",
-      "Health and Safety at Work Act only",
-      "Fire Safety Regulations"
+      "By using an isolator switch only",
+      "By installing a RCD (Residual Current Device) on the main supply",
+      "By using a circuit breaker only",
+      "By not using any RCD"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following types of cable is most suitable for use in a high-temperature environment?",
+    "options": [
+      "Flexible cable",
+      "Uninsulated wire",
+      "Multicore cable",
+      "Heat-resistant cable"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a circuit diagram in an electrical installation?",
+    "options": [
+      "To show the voltage rating of a circuit",
+      "To show the layout and connections of a circuit",
+      "To show the power rating of a circuit",
+      "To show the current rating of a circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the purpose of a meter in an electrical installation?",
+    "options": [
+      "To measure the energy consumption of a circuit or equipment",
+      "To increase the current rating of a circuit",
+      "To regulate the voltage of a circuit",
+      "To improve the power factor of a system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a circuit breaker in an electrical installation?",
+    "options": [
+      "To automatically switch off the circuit in case of an overload or short circuit",
+      "To regulate the voltage of a circuit",
+      "To increase the current rating of the circuit",
+      "To improve the power factor of a system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended method of securing a cable in a residential dwelling?",
+    "options": [
+      "Drilling holes in walls and ceiling for cables",
+      "Using wire to bundle cables together",
+      "Taping cables to walls and ceiling",
+      "Using cable clips or cable ties"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of electrical equipment is most suitable for use in a residential dwelling?",
+    "options": [
+      "High-voltage equipment (e.g. refrigerators, air conditioners)",
+      "Electrical motors",
+      "Electrical generators",
+      "Low-voltage equipment (e.g. lamps, ceiling fans)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended method of labelling a circuit in an electrical installation?",
+    "options": [
+      "Using colour-coded wires or labels",
+      "Using numbers only",
+      "Not labelling the circuit at all",
+      "Using letters only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of electrical equipment is most suitable for use in a commercial or industrial setting?",
+    "options": [
+      "High-voltage equipment (e.g. electrical motors, electrical generators)",
+      "Low-voltage equipment (e.g. lamps, ceiling fans)",
+      "Electrical panels and switchgear only",
+      "Electrical wiring and cabling only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following types of cable is most suitable for use in a buried or concealed environment?",
+    "options": [
+      "Multicore cable",
+      "Flexible cable",
+      "Armoured cable",
+      "Uninsulated wire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a voltage regulator in an electrical installation?",
+    "options": [
+      "To increase the current rating of a circuit",
+      "To improve the power factor of a system",
+      "To detect fault currents to earth",
+      "To regulate the voltage of a circuit or equipment"
+    ],
+    "correctIndex": 3
   }
 ]

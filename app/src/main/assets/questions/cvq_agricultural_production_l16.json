@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which soil horizon is primarily composed of weathered parent material and is designated as the C horizon?",
+    "question": "What is the primary benefit of using drip irrigation in crop production?",
     "options": [
-      "Topsoil rich in organic matter",
-      "Subsoil with accumulated minerals",
-      "Partially weathered bedrock material",
-      "Bedrock impenetrable to roots"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In integrated pest management (IPM), what is the primary principle behind establishing an Economic Threshold Level (ETL)?",
-    "options": [
-      "To eliminate all pests from the field immediately",
-      "To determine the pest population density at which control measures become cost-effective",
-      "To measure the maximum pesticide dosage allowed per hectare",
-      "To calculate the minimum crop yield acceptable after pest damage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which plant growth regulator is primarily responsible for apical dominance and suppression of lateral bud growth?",
-    "options": [
-      "Gibberellin",
-      "Cytokinin",
-      "Auxin",
-      "Ethylene"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When calculating the Nitrogen-Phosphorus-Potassium (NPK) content of a 50 kg bag of 12-24-12 fertilizer, how many kilograms of phosphorus pentoxide (P2O5) are present?",
-    "options": [
-      "6 kg",
-      "12 kg",
-      "24 kg",
-      "18 kg"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of irrigation system is most suitable for minimizing water loss through evaporation and delivering water directly to the root zone of crops?",
-    "options": [
-      "Flood irrigation",
-      "Sprinkler irrigation",
-      "Drip or trickle irrigation",
-      "Furrow irrigation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In crop rotation, legumes are typically included in the rotation sequence primarily because they",
-    "options": [
-      "Reduce soil pH significantly",
-      "Fix atmospheric nitrogen through symbiotic bacteria in root nodules",
-      "Increase soil salinity to deter pests",
-      "Produce allelopathic chemicals that suppress weeds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of vegetative propagation produces new plants from specialized underground storage organs called corms, as seen in dasheen and eddoe?",
-    "options": [
-      "Budding",
-      "Layering",
-      "Division of corms",
-      "Grafting"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The cation exchange capacity (CEC) of a soil is a critical measure because it indicates the soil's ability to",
-    "options": [
-      "Retain and supply nutrient cations to plant roots",
-      "Drain excess water after heavy rainfall",
-      "Support microbial decomposition of organic matter",
-      "Resist compaction under heavy machinery"
+      "It reduces water consumption and improves crop yields",
+      "It reduces labor costs",
+      "It improves soil fertility",
+      "It suppresses weed growth"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which disease of citrus, caused by the bacterium Candidatus Liberibacter, is characterized by yellowing of shoots (blotchy mottle) and is considered one of the most devastating citrus diseases worldwide?",
+    "question": "What is the primary benefit of using agroforestry in the Caribbean region?",
     "options": [
-      "Citrus canker",
-      "Citrus greening (Huanglongbing)",
-      "Tristeza",
-      "Phytophthora root rot"
+      "It improves water quality",
+      "It promotes biodiversity and reduces soil erosion",
+      "It reduces labor costs",
+      "It increases crop yields"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In livestock production, the term 'flushing' refers to the practice of",
+    "question": "What is the primary mode of action of Bacillus thuringiensis (Bt) in pest management?",
     "options": [
-      "Rapid deworming of ewes before parturition",
-      "Increasing the nutritional plane of females prior to mating to increase ovulation rate",
-      "Administering hormones to synchronize estrus in a herd",
-      "Rapid weaning of young animals to stimulate re-breeding"
+      "It emits a scent that repels pests",
+      "It produces a toxin that kills the pest by disrupting its digestive system",
+      "It competes with pests for food resources",
+      "It releases pheromones to attract predators"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which tillage practice involves disturbing the soil as little as possible, leaving crop residues on the surface to reduce erosion and maintain soil moisture?",
+    "question": "What is the purpose of farm safety planning in agricultural production?",
     "options": [
-      "Conventional tillage",
-      "Deep ploughing",
-      "Conservation or no-till farming",
-      "Subsoil tillage"
+      "To identify potential hazards, implement controls, and minimize risks",
+      "To reduce crop yields by implementing more complex systems",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To minimize labor costs by reducing crop maintenance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main advantage of using conservation tillage in the Caribbean region?",
+    "options": [
+      "It improves water quality",
+      "It reduces labor costs",
+      "It reduces soil erosion and improves soil health",
+      "It increases crop yields"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The phenomenon of heterosis or hybrid vigor in plant breeding results in offspring that",
+    "question": "What is the recommended method for reducing soil-borne diseases in the Caribbean region?",
     "options": [
-      "Are genetically identical to both parent lines",
-      "Show inferior performance compared to either parent",
-      "Exhibit superior performance compared to the mean of both parent lines",
-      "Express only recessive traits from both parents"
+      "Increasing soil pH",
+      "Crop rotation and sanitation",
+      "Using chemical fungicides",
+      "Reducing soil moisture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "During harvesting, what should be the optimal temperature for storing sweet potatoes to maintain their quality?",
+    "options": [
+      "Between 20-25\u00b0C",
+      "Between 15-20\u00b0C",
+      "Between 5-10\u00b0C",
+      "Between 10-15\u00b0C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following crop planting methods is best suited for small-scale farmers in the Caribbean?",
+    "options": [
+      "Raised bed planting",
+      "Direct sowing",
+      "Crop rotation",
+      "Mulching"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which post-harvest technique involves exposing harvested produce to elevated CO2 and reduced O2 levels to extend shelf life by slowing respiration rate?",
+    "question": "What is the recommended method for controlling pests in the Caribbean region?",
     "options": [
-      "Blanching",
-      "Modified atmosphere storage",
-      "Irradiation",
-      "Freeze drying"
+      "Integrated pest management (IPM)",
+      "Chemical pesticides",
+      "Biological control",
+      "Cultural control"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the recommended method for disposing of agricultural waste in a sustainable manner?",
+    "options": [
+      "Leaving it in the field",
+      "Using it as fertilizer",
+      "Incineration or landfilling",
+      "Composting or anaerobic digestion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main objective of soil testing in agricultural production?",
+    "options": [
+      "To determine the soil moisture content",
+      "To determine the soil temperature",
+      "To determine the soil texture and structure",
+      "To determine the nutrient content and pH of the soil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary benefit of using drip irrigation in the Caribbean region?",
+    "options": [
+      "It suppresses weed growth",
+      "It reduces water consumption and improves crop yields",
+      "It improves soil fertility",
+      "It reduces labor costs"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In poultry production, the feed conversion ratio (FCR) is calculated as",
+    "question": "What is the recommended method for cooling a farm vehicle in hot weather?",
     "options": [
-      "Body weight gained divided by feed consumed",
-      "Feed consumed divided by body weight gained",
-      "Number of eggs produced divided by feed consumed",
-      "Feed cost divided by revenue from sales"
+      "Using a shade cloth or sunshade",
+      "Using a water spray",
+      "Using a fan or air conditioner",
+      "Using a reflective roof"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Soil pH directly affects nutrient availability; at which pH range are most macro and micronutrients optimally available to the majority of crop plants?",
+    "question": "What is the recommended method for controlling weeds in the Caribbean region?",
     "options": [
-      "4.0 to 5.0",
-      "5.5 to 6.5",
-      "7.5 to 8.5",
-      "8.5 to 9.5"
+      "Composting and manuring",
+      "Herbicides and pesticides",
+      "Mulching and shading",
+      "Cultural control and hand-weeding"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the recommended depth for planting sweet potatoes in the Caribbean region?",
+    "options": [
+      "15-20 cm",
+      "5-10 cm",
+      "25-30 cm",
+      "10-15 cm"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "According to BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to BS EN 60898 to ensure disconnection within 0.4 seconds on a TN system?",
+    "question": "A circuit installation requires a circuit breaker with a rating of 100 A in a single-phase 3-wire system, what is the minimum size of the main switch required?",
     "options": [
-      "1.37 \u03a9",
-      "1.09 \u03a9",
-      "0.86 \u03a9",
-      "1.50 \u03a9"
+      "120 A",
+      "80 A",
+      "150 A",
+      "100 A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a circuit monitor in a circuit installation?",
+    "options": [
+      "To monitor the performance of a circuit and indicate any faults or abnormalities",
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit",
+      "To reduce the voltage to a low level"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A three-phase star-connected motor has a line voltage of 400V. What is the phase voltage across each winding?",
+    "question": "A wiring system is to be installed in a residential building in Barbados, which type of wiring system is recommended by the Barbados Electrical Code?",
     "options": [
-      "400V",
-      "231V",
-      "693V",
-      "346V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which regulation in BS 7671 requires that every installation shall be divided into circuits to avoid danger and minimize inconvenience in the event of a fault?",
-    "options": [
-      "Regulation 314.1",
-      "Regulation 411.3",
-      "Regulation 512.1",
-      "Regulation 431.1"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When using the adiabatic equation S = \u221a(I\u00b2t)/k to select a protective conductor, what does the value 'k' represent?",
-    "options": [
-      "The fault current in amperes",
-      "A factor accounting for the material, initial and final temperature of the conductor",
-      "The cross-sectional area of the live conductor",
-      "The disconnection time in seconds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A consumer's installation has a measured external earth fault loop impedance (Ze) of 0.35 \u03a9 and a cable impedance (R1+R2) of 0.52 \u03a9. What is the total Zs?",
-    "options": [
-      "0.52 \u03a9",
-      "0.87 \u03a9",
-      "0.17 \u03a9",
-      "1.04 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a TT earthing system, which protective device is most commonly required to achieve disconnection within the required time due to high earth fault loop impedance?",
-    "options": [
-      "MCB Type B",
-      "Fuse to BS 1361",
-      "Residual Current Device (RCD)",
-      "MCB Type C"
+      "TT",
+      "TN-C-S",
+      "TN-S",
+      "TN-C"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of an equipotential bonding conductor connected to extraneous-conductive-parts in an electrical installation?",
+    "question": "A wiring system is to be installed in a residential building in St. Lucia, which type of wiring system is recommended by the St. Lucia Electrical Code?",
     "options": [
-      "To carry the full load current under normal conditions",
-      "To reduce the risk of electric shock by minimizing potential differences between simultaneously accessible parts",
-      "To increase the fault current to operate the protective device faster",
-      "To provide a neutral return path for single-phase loads"
+      "TT",
+      "TN-C-S",
+      "TN-C",
+      "TN-S"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "According to the IEE On-Site Guide, what correction factor should be applied to the current-carrying capacity of a cable when it is grouped with three other circuits in an enclosed trunking?",
+    "question": "What is the purpose of an earth fault protection device in a circuit installation?",
     "options": [
-      "0.65",
-      "0.70",
-      "0.57",
-      "0.50"
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit",
+      "To reduce the voltage to a low level",
+      "To protect against electrical shock and fires by detecting earth faults"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which instrument is used to verify the insulation resistance of a completed electrical installation, and what minimum test voltage is applied to circuits rated up to 500V?",
+    "question": "What is the purpose of a power quality analyzer as per IEC 61000-4-30:2008?",
     "options": [
-      "Earth fault loop impedance tester at 500V AC",
-      "Insulation resistance tester at 500V DC",
-      "Continuity tester at 250V DC",
-      "Power quality analyser at 500V AC"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A single-phase transformer has a primary winding of 2000 turns connected to 230V. If the secondary voltage required is 11.5V, how many turns are needed on the secondary winding?",
-    "options": [
-      "200 turns",
-      "100 turns",
-      "50 turns",
-      "400 turns"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a surge protective device (SPD) installed in an electrical installation to BS EN 61643-11?",
-    "options": [
-      "To limit transient overvoltages and divert surge currents to earth",
-      "To provide isolation for maintenance purposes",
-      "To monitor power factor and correct it automatically",
-      "To detect earth leakage currents above 30mA"
+      "To measure and analyze the power quality in a circuit, including voltage levels, frequency, and harmonic distortion",
+      "To regulate voltage levels in a distribution network",
+      "To measure current in a low-voltage distribution network",
+      "To monitor and control the power factor in a three-phase system"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When conducting a ring final circuit continuity test, after connecting the line, neutral and CPC conductors in a figure-of-eight configuration, what should the resistance reading be at every socket outlet compared to the end-to-end resistance?",
+    "question": "What is the primary function of an isolation switch in a circuit installation?",
     "options": [
-      "Equal to the end-to-end resistance",
-      "Double the end-to-end resistance",
-      "Approximately one quarter of the end-to-end resistance",
-      "Half the end-to-end resistance"
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit or a part of a circuit for maintenance or testing",
+      "To protect against electrical fires",
+      "To reduce the voltage to a low level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A wiring system is to be installed in a residential building in Jamaica, which type of wiring system is recommended by the Jamaica Electrical Code?",
+    "options": [
+      "TN-C-S",
+      "TN-C",
+      "TT",
+      "TN-S"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of a lightning arrester in a circuit installation?",
+    "options": [
+      "To provide a means of isolating a circuit",
+      "To reduce the voltage to a low level",
+      "To protect against lightning strikes and electrical fires",
+      "To provide a means of earthing a circuit"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 400V three-phase delta-connected load has each branch impedance of 20 \u03a9. What is the line current drawn by the load?",
+    "question": "What is the purpose of a earth fault current limiting device in a circuit installation?",
     "options": [
-      "11.55A",
-      "34.64A",
-      "20A",
-      "23.1A"
+      "To provide a means of earthing a circuit",
+      "To limit the fault current in the event of an earth fault",
+      "To reduce the voltage to a low level",
+      "To provide a means of isolating a circuit"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which BS 7671 regulation specifies the requirements for automatic disconnection of supply as a protective measure against electric shock, and what maximum touch voltage is the system designed to limit under fault conditions?",
+    "question": "What is the purpose of a surge protective device in a circuit installation?",
     "options": [
-      "Regulation 411.1; 50V AC",
-      "Regulation 531.2; 25V AC",
-      "Regulation 314.1; 50V DC",
-      "Regulation 422.1; 25V AC"
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit",
+      "To protect against voltage surges and electrical fires",
+      "To reduce the voltage to a low level"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In a photovoltaic (PV) installation, why must DC isolators used on the PV array side be rated specifically for DC operation rather than standard AC isolators?",
+    "question": "What is the purpose of a neutral earthing resistor in a circuit installation?",
     "options": [
-      "DC arcs do not have natural current zero crossings, making them harder to extinguish than AC arcs",
-      "DC current is lower in magnitude and requires a lower rated device",
-      "AC isolators are not weatherproof enough for outdoor PV installations",
-      "DC isolators have a higher IP rating as standard"
+      "To provide a means of earthing a circuit",
+      "To reduce the voltage to a low level",
+      "To limit the fault current in the event of an earth fault",
+      "To provide a means of isolating a circuit"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a voltage regulator in a circuit installation?",
+    "options": [
+      "To provide a means of earthing a circuit",
+      "To regulate the voltage in a circuit to a predetermined level",
+      "To reduce the voltage to a low level",
+      "To provide a means of isolating a circuit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A circuit installation requires a circuit breaker with a rating of 150 A in a 3-phase 4-wire system, what is the minimum size of the main switch required?",
+    "options": [
+      "120 A",
+      "180 A",
+      "200 A",
+      "150 A"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of an arc fault detection and interruption device in a circuit installation?",
+    "options": [
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit",
+      "To reduce the voltage to a low level",
+      "To detect and interrupt arc faults in a circuit"
+    ],
+    "correctIndex": 3
   }
 ]

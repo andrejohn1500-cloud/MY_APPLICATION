@@ -1,152 +1,72 @@
 [
   {
-    "question": "What is the primary purpose of crop rotation in agriculture?",
+    "question": "What is the importance of maintaining soil health in sustainable agriculture?",
     "options": [
-      "To increase the use of chemical fertilizers",
-      "To maintain soil fertility and reduce pest buildup",
-      "To eliminate the need for irrigation",
-      "To speed up crop harvesting"
+      "To decrease water usage only",
+      "To ensure long-term fertility and productivity",
+      "To increase yield only",
+      "To reduce labor costs only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a macronutrient essential for plant growth?",
+    "question": "What is the main cause of post-harvest loss in crops?",
     "options": [
-      "Iron",
-      "Zinc",
-      "Nitrogen",
-      "Copper"
+      "Weather conditions only",
+      "Aging of crops only",
+      "Poor handling and storage",
+      "Diseases and pests only"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does pH measure in soil?",
+    "question": "What is the importance of maintaining accurate records in agriculture?",
     "options": [
-      "The amount of organic matter",
-      "The level of acidity or alkalinity",
-      "The moisture content",
-      "The texture of the soil"
+      "To track yields, costs, and weather conditions",
+      "To predict market prices only",
+      "To determine labor needs only",
+      "To plan for equipment maintenance only"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which type of irrigation delivers water directly to the root zone of plants?",
+    "question": "What is the importance of marketing crops in agriculture?",
     "options": [
-      "Flood irrigation",
-      "Sprinkler irrigation",
-      "Drip irrigation",
-      "Furrow irrigation"
+      "To decrease water usage only",
+      "To increase yield only",
+      "To reduce labor costs only",
+      "To determine prices and sell to consumers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of weather-related risk in agriculture?",
+    "options": [
+      "Hurricanes only",
+      "Flooding only",
+      "Landslides only",
+      "Drought"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of post-harvest handling?",
+    "options": [
+      "Sorting and grading",
+      "Packaging and labeling only",
+      "Transportation and storage only",
+      "Processing and preservation only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the importance of providing adequate ventilation in animal shelters?",
+    "options": [
+      "To reduce noise only",
+      "To decrease smell only",
+      "To prevent heat stress and disease",
+      "To increase humidity only"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which plants make their own food using sunlight?",
-    "options": [
-      "Respiration",
-      "Transpiration",
-      "Photosynthesis",
-      "Germination"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a leguminous crop?",
-    "options": [
-      "Maize",
-      "Soybean",
-      "Cassava",
-      "Rice"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main function of nitrogen in plant growth?",
-    "options": [
-      "Root development",
-      "Fruit ripening",
-      "Leaf and stem growth",
-      "Flower production"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which pest control method uses natural predators to manage pest populations?",
-    "options": [
-      "Chemical control",
-      "Biological control",
-      "Mechanical control",
-      "Cultural control"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of mulching in crop production?",
-    "options": [
-      "To increase soil erosion",
-      "To retain soil moisture and suppress weeds",
-      "To compact the soil",
-      "To add pests to the field"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes a monoculture farming system?",
-    "options": [
-      "Growing many different crops together",
-      "Growing a single crop species over a large area",
-      "Mixing crops with livestock",
-      "Planting crops in small garden beds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the recommended action when soil is found to be too acidic for crop production?",
-    "options": [
-      "Add more fertilizer",
-      "Apply lime to raise the pH",
-      "Increase irrigation",
-      "Remove all topsoil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the plant is responsible for absorbing water and nutrients from the soil?",
-    "options": [
-      "Leaves",
-      "Stem",
-      "Roots",
-      "Flowers"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the removal of unwanted plants that compete with crops for nutrients?",
-    "options": [
-      "Pruning",
-      "Weeding",
-      "Thinning",
-      "Grafting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a method of vegetative propagation?",
-    "options": [
-      "Seed sowing",
-      "Cuttings",
-      "Cross-pollination",
-      "Scarification"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'germination' refer to in plant production?",
-    "options": [
-      "The death of a plant",
-      "The process by which a seed begins to sprout and grow",
-      "The flowering stage of a plant",
-      "The harvesting of mature crops"
-    ],
-    "correctIndex": 1
   }
 ]

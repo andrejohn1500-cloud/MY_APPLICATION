@@ -1,152 +1,152 @@
 [
   {
-    "question": "According to IEE Wiring Regulations BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to ensure disconnection within 0.4 seconds in a TN system?",
+    "question": "What is the correct procedure for testing a 3-phase motor starter as per BS7671:2018?",
     "options": [
-      "1.44 \u03a9",
-      "1.09 \u03a9",
-      "0.86 \u03a9",
-      "1.37 \u03a9"
+      "To test the starter using a multimeter to check for correct phase rotation and voltage levels",
+      "To test the starter using a megohmmeter to check for insulation resistance",
+      "To test the starter using a circuit analyzer to check for circuit integrity",
+      "To test the starter using a thermal imaging camera to check for overheating"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A three-phase star-connected motor has a line voltage of 415V and draws a line current of 25A at a power factor of 0.85 lagging. What is the total active power consumed by the motor?",
+    "question": "What is the correct procedure for installing a fire alarm system as per BS5839-1:2017?",
     "options": [
-      "15,256 W",
-      "8,812 W",
-      "26,375 W",
-      "13,187 W"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When performing an insulation resistance test on a ring final circuit, what is the minimum acceptable insulation resistance value as specified by BS 7671 Amendment 3?",
-    "options": [
-      "1 M\u03a9",
-      "0.5 M\u03a9",
-      "2 M\u03a9",
-      "0.25 M\u03a9"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a TT earthing system, which protective device is most commonly used as the primary means of fault protection due to the typically high earth fault loop impedance?",
-    "options": [
-      "Residual Current Device (RCD)",
-      "Type D circuit breaker",
-      "Double-pole fuse",
-      "Surge protective device"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A single-phase transformer has a primary winding of 2400 turns connected to a 240V supply. If the secondary voltage required is 12V, how many turns must the secondary winding have?",
-    "options": [
-      "600 turns",
-      "120 turns",
-      "48 turns",
-      "240 turns"
+      "To install the system without testing for voltage and earth continuity",
+      "To install the system in accordance with the manufacturer's instructions and the relevant safety standards, ensuring compliance with the local electrical regulations",
+      "To install the system without ensuring compliance with the relevant safety standards",
+      "To install the system without considering the local building regulations"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the term 'prospective short circuit current' (PSCC) refer to in electrical installation testing?",
+    "question": "What is the correct procedure for testing a 3-phase motor starter as per BS7671:2018?",
     "options": [
-      "The maximum current that would flow in the event of a short circuit between live conductors at the point of test",
-      "The current flowing through the protective conductor during a ground fault",
-      "The rated breaking capacity of the main fuse",
-      "The operating current threshold of the RCD"
+      "To test the starter using a circuit analyzer to check for circuit integrity",
+      "To test the starter using a multimeter to check for correct phase rotation and voltage levels",
+      "To test the starter using a megohmmeter to check for insulation resistance",
+      "To test the starter using a thermal imaging camera to check for overheating"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which of the following cable installation methods requires the greatest derating factor when cables are bunched together and buried in thermally insulating material?",
+    "question": "What is the purpose of the Neutral wire in a TN-S earthing system?",
     "options": [
-      "Method B \u2013 enclosed in conduit in thermally insulating wall",
-      "Method C \u2013 clipped direct to a non-metallic surface",
-      "Method A \u2013 enclosed in conduit in a thermally insulating wall",
-      "Method F \u2013 single cables on a perforated cable tray"
+      "To carry the earth fault current to the earth",
+      "To carry the unbalanced current from the load back to the source",
+      "To connect the phases together",
+      "To supply power to the load"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary function of a differential protection relay in a MV/LV substation?",
+    "options": [
+      "To regulate voltage levels in a distribution network",
+      "To monitor and control power factor correction",
+      "To detect and interrupt fault currents in high-voltage circuits",
+      "To measure current and voltage levels in a substation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 415V three-phase supply feeds a balanced delta-connected load. Each branch impedance is 20 \u03a9 resistive. What is the total power dissipated in the load?",
+    "question": "What is the correct procedure for testing a 3-phase motor starter as per BS7671:2018?",
     "options": [
-      "25,762 W",
-      "12,881 W",
-      "8,620 W",
-      "43,218 W"
+      "To test the starter using a megohmmeter to check for insulation resistance",
+      "To test the starter using a circuit analyzer to check for circuit integrity",
+      "To test the starter using a thermal imaging camera to check for overheating",
+      "To test the starter using a multimeter to check for correct phase rotation and voltage levels"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Under BS 7671, which regulation governs the requirement for automatic disconnection of supply as a protective measure against electric shock?",
+    "question": "Identify the correct sequence of colours for a 3-phase 4-wire system as per BS7671:2018",
     "options": [
-      "Regulation 411",
-      "Regulation 522",
-      "Regulation 314",
-      "Regulation 712"
+      "Brown, green, yellow, blue and brown",
+      "Green, yellow, blue, brown and green",
+      "Brown, black, blue, green and yellow",
+      "Blue, green, brown, yellow and blue"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In a conduit installation, what is the primary purpose of installing inspection bends and draw boxes at specified intervals?",
+    "question": "What is the correct procedure for testing a 3-phase motor as per BS7671:2018?",
     "options": [
-      "To facilitate the drawing in and replacement of cables without damage",
-      "To provide earthing continuity points along the conduit run",
-      "To reduce electromagnetic interference between conductors",
-      "To comply with fire compartmentation requirements"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A PVC-insulated copper conductor with a cross-sectional area of 10 mm\u00b2 has a resistance of 1.83 m\u03a9/m at 20\u00b0C. If the cable run is 45 metres (single core, one-way length), what is the total resistance of the loop (phase and neutral)?",
-    "options": [
-      "164.7 m\u03a9",
-      "82.35 m\u03a9",
-      "329.4 m\u03a9",
-      "41.18 m\u03a9"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When sizing a protective conductor using the adiabatic equation S = \u221a(I\u00b2t)/k, what value of k is used for a copper conductor with PVC insulation as a protective conductor not incorporated in a cable?",
-    "options": [
-      "143",
-      "115",
-      "134",
-      "176"
+      "To test the motor using a circuit analyzer to check for circuit integrity",
+      "To test the motor using a multimeter to check for correct phase rotation and voltage levels",
+      "To test the motor using a thermal imaging camera to check for overheating",
+      "To test the motor using a megohmmeter to check for insulation resistance"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of earthing arrangement provides the earth connection via the supply neutral conductor back to the transformer star point, and has the neutral and protective conductors separate throughout the installation?",
+    "question": "What is the correct procedure for replacing a faulty Circuit Breaker in a TT earthing system?",
     "options": [
-      "TN-S",
-      "TN-C-S",
-      "TT",
-      "IT"
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of the same rating",
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a different rating",
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a lower rating",
+      "Switch on the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a higher rating"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A fluorescent lighting circuit experiences power factor correction using capacitors. If the uncorrected current is 15A at 0.6 power factor lagging and correction improves the power factor to unity, what is the corrected line current?",
+    "question": "What is the purpose of a busbar system in a distribution board as per BS7671:2018?",
     "options": [
-      "9A",
-      "12A",
-      "15A",
-      "6A"
+      "To regulate voltage levels in a distribution network",
+      "To monitor and control the power factor in a three-phase system",
+      "To measure current in a low-voltage distribution network",
+      "To provide a common connection point for multiple circuits, reducing the number of connections and improving safety"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "In accordance with the CVQ Electrical Installation competency requirements, which test must be performed FIRST during the initial verification sequence of a new electrical installation?",
+    "question": "What is the correct procedure for testing a 3-phase motor as per BS7671:2018?",
     "options": [
-      "Continuity of protective conductors",
-      "Insulation resistance",
-      "Polarity",
-      "Earth fault loop impedance"
+      "To test the motor using a thermal imaging camera to check for overheating",
+      "To test the motor using a megohmmeter to check for insulation resistance",
+      "To test the motor using a multimeter to check for correct phase rotation and voltage levels",
+      "To test the motor using a circuit analyzer to check for circuit integrity"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a power quality analyzer as per IEC 61000-4-30:2008?",
+    "options": [
+      "To monitor and control the power factor in a three-phase system",
+      "To measure and analyze the power quality in a circuit, including voltage levels, frequency, and harmonic distortion",
+      "To regulate voltage levels in a distribution network",
+      "To measure current in a low-voltage distribution network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a Class I and a Class II electrical appliance in terms of insulation?",
+    "options": [
+      "Class I appliances are more expensive, while Class II appliances are cheaper",
+      "Class I appliances are safer, while Class II appliances are more reliable",
+      "Class I appliances are more reliable, while Class II appliances are safer",
+      "Class I appliances have a metal casing that provides a path to earth, while Class II appliances have double insulation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a residual current device (RCD) as per the IET Wiring Regulations?",
+    "options": [
+      "To measure current in a low-voltage distribution network",
+      "To regulate voltage levels in a single-phase circuit",
+      "To monitor and control the power factor in a three-phase system",
+      "To prevent electric shock in the event of a fault to earth or between live conductors"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct procedure for installing a fire alarm system as per BS5839-1:2017?",
+    "options": [
+      "To install the system without ensuring compliance with the relevant safety standards",
+      "To install the system without considering the local building regulations",
+      "To install the system without testing for voltage and earth continuity",
+      "To install the system in accordance with the manufacturer's instructions and the relevant safety standards, ensuring compliance with the local electrical regulations"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,153 +1,92 @@
 [
   {
-    "question": "When setting out a complex roof with an irregular plan, which geometric principle is used to determine the true length of a hip rafter?",
+    "question": "What is the purpose of a 'ventilation mask' when working with power tools?",
     "options": [
-      "Pythagorean theorem applied to the plan length and total rise",
-      "Simple ratio of span to pitch angle",
-      "Trigonometric sine rule applied to the roof slope angle",
-      "Direct measurement from the ridge board to the wall plate"
+      "To protect against dust and debris inhalation",
+      "To improve hand grip and dexterity",
+      "To provide a source of compressed air",
+      "To enhance visibility in low light conditions"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In advanced joinery, what is the primary purpose of a 'diminished stile' in a panelled door?",
+    "question": "What is the name of the finishing technique that involves applying a thin layer of polyurethane to protect the wood?",
     "options": [
-      "To reduce the visual mass of the door stile at the bottom rail level while maintaining structural integrity",
-      "To increase the width of the stile to accommodate additional hardware",
-      "To provide a decorative rebate for glazing beads",
-      "To allow for differential timber movement across the door width"
+      "Polyurethane coating",
+      "Painting",
+      "Polishing",
+      "Varnishing"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When calculating the cutting list for a geometrical staircase with a wreathed string, which component requires the most complex development drawing?",
+    "question": "What is the purpose of a 'ventilation system' when working with power tools?",
     "options": [
-      "The wreathed string itself, developed using the falling line method",
-      "The newel post, calculated from floor-to-floor height",
-      "The going rod, derived from the pitch angle",
-      "The nosing line, taken from the storey rod"
+      "To improve hand grip and dexterity",
+      "To enhance visibility in low light conditions",
+      "To provide a source of compressed air",
+      "To remove dust and debris from the air"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the name of the power tool that uses a rotating drum to sand and shape wood?",
+    "options": [
+      "Belt sander",
+      "Drill press",
+      "Jigsaw",
+      "Disc sander"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of adhesive is most appropriate for exterior structural laminated timber components subject to full weather exposure, according to BS EN 301?",
+    "question": "What is the name of the power tool that uses a rotating disc to sand and shape wood?",
     "options": [
-      "Type I phenol-resorcinol formaldehyde (PRF) adhesive",
-      "Type II urea formaldehyde (UF) adhesive",
-      "Polyvinyl acetate (PVA) adhesive",
-      "Contact neoprene adhesive"
+      "Jigsaw",
+      "Drill press",
+      "Disc sander",
+      "Belt sander"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In the production of a handrail with a ramp and wreath over a quarter-turn stair, what is the correct geometric method used to develop the wreath face mould?",
+    "question": "What is the name of the hand tool used to remove small amounts of wood from a surface to create a smooth finish?",
     "options": [
-      "The oblique section method, projecting from the plan and elevation to determine the true shape",
-      "The orthographic projection method using only plan views",
-      "The direct template method taken from the physical stair string",
-      "The polar coordinate method using the radius of the centreline"
+      "Hand saw",
+      "Hand plane",
+      "Hand chisel",
+      "Hand scraper"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "When installing a concealed door closer on a heavy hardwood fire door, what is the critical factor in determining the correct power size of the closer?",
+    "question": "What is the name of the type of joint that involves the use of a pre-cut slot in one piece of wood to receive the end of another piece, and is typically used in cabinetry and furniture making?",
     "options": [
-      "The combined consideration of door width, door mass, and the frequency of use classification",
-      "The door height only, as specified in the manufacturer's catalogue",
-      "The type of hinge selected for the door installation",
-      "The fire rating of the door leaf expressed in minutes"
+      "Butt joint",
+      "Dado joint",
+      "Mortise and tenon",
+      "Dovetail joint"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Which British Standard governs the classification and performance requirements for timber windows, including air permeability, watertightness, and wind resistance?",
+    "question": "What is the name of the type of joint that involves the use of a pre-cut slot in one piece of wood to receive the end of another piece?",
     "options": [
-      "BS 644",
-      "BS 4787",
-      "BS 8213",
-      "BS 5750"
+      "Mortise and tenon",
+      "Butt joint",
+      "Dado joint",
+      "Dovetail joint"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In the context of advanced carpentry, what is meant by the term 'birdsmouthing' a rafter, and what is the maximum recommended depth of the birdsmouth cut?",
+    "question": "Which hand tool is used to remove small amounts of wood from a surface to create a smooth finish?",
     "options": [
-      "A notch cut in the rafter foot to seat over the wall plate, with a maximum depth of one-third of the rafter depth",
-      "A decorative cut at the ridge end of the rafter, limited to 25mm depth",
-      "A longitudinal groove cut along the rafter for insulation placement, no deeper than 15mm",
-      "A cross-cut at the apex of the rafter to form the ridge connection, limited to half the rafter width"
+      "Hand saw",
+      "Hand chisel",
+      "Hand plane",
+      "Hand scraper"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When constructing a traditional mortice and tenon joint for a heavy structural frame, what is the recommended ratio of tenon thickness to the total thickness of the morticed member?",
-    "options": [
-      "One-third of the morticed member's thickness",
-      "One-quarter of the morticed member's thickness",
-      "One-half of the morticed member's thickness",
-      "Two-thirds of the morticed member's thickness"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In setting out for a purpose-made sash window with a boxed frame, what is the primary function of the 'pulley stile' and how does its rebate depth relate to the sash thickness?",
-    "options": [
-      "The pulley stile forms the outer vertical member housing the weight pocket; its rebate depth equals the sash thickness plus clearance to allow free movement",
-      "The pulley stile is the inner bead that retains the sash; its depth is half the sash thickness",
-      "The pulley stile is the horizontal meeting rail; its rebate accommodates the draught seal only",
-      "The pulley stile is the staff bead; its rebate depth is determined by the glass thickness"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "According to CDM Regulations 2015, at what threshold of construction phase duration does a project require notification to the HSE using the F10 form?",
-    "options": [
-      "More than 30 working days with more than 20 workers simultaneously, or exceeding 500 person-days",
-      "More than 14 working days with any number of workers on site",
-      "More than 50 working days regardless of worker numbers",
-      "Any project involving structural carpentry or roofing works"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "function": "When manufacturing a shaped hardwood handrail section on a spindle moulder, which safety device is considered most critical for controlling the workpiece against the rotation forces of the cutterblock?",
-    "question": "When manufacturing a shaped hardwood handrail section on a spindle moulder, which safety device is considered most critical for controlling the workpiece against the rotation forces of the cutterblock?",
-    "options": [
-      "Shaw guard combined with a shaw guide fence and back pressure jig",
-      "Standard riving knife and crown guard assembly",
-      "Push stick and featherboard combination only",
-      "Fixed bridge guard positioned above the cutterblock"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In timber frame construction, what is the structural purpose of a 'lintol' (lintel) over an opening, and which load path must the carpenter ensure is maintained?",
-    "options": [
-      "To transfer loads from above the opening to the jamb studs and sole plate, ensuring a continuous load path to the foundation",
-      "To act as a decorative feature bridging the opening with no structural function",
-      "To support the wall plate only, transferring loads horizontally to the ridge",
-      "To carry the window or door frame weight only, independent of wall loads above"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When applying a finish grade to hardwood flooring using a belt sander, what is the correct sequential progression of abrasive grit used in professional finishing?",
-    "options": [
-      "Coarse (40\u201360 grit) for initial levelling, medium (80\u2013100 grit) for intermediate passes, fine (120 grit) for final passes before sealing",
-      "Fine (120 grit) first to avoid over-removal, then medium (80 grit) to correct any defects",
-      "Medium (80 grit) throughout all passes to maintain uniform removal rate",
-      "Extra-coarse (24 grit) only, followed immediately by hand sanding with 180 grit"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In the context of value engineering on a joinery contract, what does the term 'buildability' refer to when reviewing a complex staircase specification?",
-    "options": [
-      "The degree to which the design can be efficiently constructed with available skills, plant, and materials while meeting the required performance standards",
-      "The load-bearing capacity of the staircase calculated per unit of cost",
-      "The aesthetic quality of the finished staircase relative to its specification grade",
-      "The compliance of the design with current Building Regulations Part K only"
-    ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

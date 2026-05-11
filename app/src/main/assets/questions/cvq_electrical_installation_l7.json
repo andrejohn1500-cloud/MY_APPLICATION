@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the standard voltage for a single-phase domestic supply in the Caribbean?",
+    "question": "What is the correct procedure for testing a circuit for continuity using a multimeter?",
     "options": [
-      "110V",
-      "120V",
-      "230V",
-      "240V"
+      "Set the multimeter to the volts function and test between the live and neutral wires",
+      "Set the multimeter to the ohms function and test between the neutral and earth wires",
+      "Set the multimeter to the ohms function and test between the live and earth wires",
+      "Set the multimeter to the amps function and test between the live and earth wires"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which wiring system uses steel conduit to protect cables in industrial installations?",
+    "question": "What is the difference between a Class I and a Class II electrical appliance?",
     "options": [
-      "Trunking system",
-      "Conduit system",
-      "Tray system",
-      "Duct system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the abbreviation 'RCD' stand for in electrical installations?",
-    "options": [
-      "Residual Current Device",
-      "Resistance Control Device",
-      "Regulated Circuit Disconnector",
-      "Reactive Current Detector"
+      "Class I appliances have a metal casing that provides a path to earth, while Class II appliances have double insulation",
+      "Class I appliances are more reliable, while Class II appliances are safer",
+      "Class I appliances are more expensive, while Class II appliances are cheaper",
+      "Class I appliances are safer, while Class II appliances are more reliable"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In a three-phase system, what is the phase-to-phase voltage if the phase-to-neutral voltage is 230V?",
+    "question": "What is the correct procedure for replacing a faulty Circuit Breaker in an electrical installation?",
     "options": [
-      "330V",
-      "380V",
-      "398V",
-      "415V"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which instrument is used to measure the insulation resistance of a cable?",
-    "options": [
-      "Ammeter",
-      "Voltmeter",
-      "Megohmmeter",
-      "Wattmeter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary purpose of an earth leakage circuit breaker (ELCB) in an installation?",
-    "options": [
-      "To prevent overload currents",
-      "To protect against earth fault currents",
-      "To regulate voltage fluctuations",
-      "To measure power consumption"
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a different rating",
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of the same rating",
+      "Switch on the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a higher rating",
+      "Switch off the circuit at the main switch, remove the faulty Circuit Breaker and replace it with a new one of a lower rating"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of cable is most suitable for underground direct burial installations?",
+    "question": "What is the correct procedure for installing a new lighting circuit in an existing installation?",
     "options": [
-      "PVC twin and earth",
-      "Armoured cable (SWA)",
-      "Flexible cord",
-      "Mineral insulated cable"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to wiring regulations, the minimum cross-sectional area of a protective conductor (earth) for a 2.5mm\u00b2 live conductor is typically:",
-    "options": [
-      "1.0mm\u00b2",
-      "1.5mm\u00b2",
-      "2.5mm\u00b2",
-      "4.0mm\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does power factor represent in an AC electrical circuit?",
-    "options": [
-      "The ratio of real power to apparent power",
-      "The ratio of voltage to current",
-      "The efficiency of power transmission",
-      "The phase difference between voltage and current in degrees"
+      "Switch off the main switch, identify the correct cable size and rating, and follow the manufacturer's instructions",
+      "Switch off the main switch, identify the correct cable size and rating, but do not follow the manufacturer's instructions",
+      "Switch on the main switch, identify the correct cable size and rating, and follow the manufacturer's instructions",
+      "Switch off the main switch, identify the incorrect cable size and rating, and follow the manufacturer's instructions"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In conduit installation, what is the purpose of a draw wire left inside an empty conduit?",
+    "question": "What is the minimum number of RCDs required for a single-phase installation with a total current rating of 30A?",
     "options": [
-      "To improve cable insulation",
-      "To facilitate future cable pulling",
-      "To provide earthing continuity",
-      "To support the conduit mechanically"
+      "1",
+      "2",
+      "3",
+      "0"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which protective device combines overload and short-circuit protection in one unit?",
+    "question": "What is the correct procedure for testing a circuit for short circuit using a multimeter?",
     "options": [
-      "Fuse",
-      "Miniature Circuit Breaker (MCB)",
-      "Isolator",
-      "Contactor"
+      "Set the multimeter to the volts function and test between the live and earth wires",
+      "Set the multimeter to the amps function and test between the live and earth wires",
+      "Set the multimeter to the ohms function and test between the live and neutral wires",
+      "Set the multimeter to the ohms function and test between the neutral and earth wires"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the formula used to calculate electrical power in a DC circuit?",
+    "question": "What is the purpose of the RCD in an electrical installation?",
     "options": [
-      "P = V/I",
-      "P = V \u00d7 I",
-      "P = I/V",
-      "P = V + I"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When installing a socket outlet in a bathroom, what is the minimum safe zone distance from a shower or bath where a standard socket can be installed?",
-    "options": [
-      "1.0 metre",
-      "1.5 metres",
-      "2.0 metres",
-      "3.0 metres"
+      "To supply power to the system",
+      "To provide a means of earthing",
+      "To protect against overcurrent and short circuits",
+      "To protect against shock and electrocution"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What colour is used to identify the neutral conductor in a Caribbean single-phase wiring installation?",
+    "question": "What is the purpose of the Earth Electrode in a PME earthing system?",
     "options": [
-      "Red",
-      "Black",
-      "Green",
-      "Blue"
+      "To provide a path for fault currents to the earth",
+      "To supply power to the system",
+      "To improve the mechanical strength of the system",
+      "To connect the phases together"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct procedure for testing a circuit for continuity using a multimeter?",
+    "options": [
+      "Set the multimeter to the volts function and test between the live and neutral wires",
+      "Set the multimeter to the ohms function and test between the neutral and earth wires",
+      "Set the multimeter to the amps function and test between the live and earth wires",
+      "Set the multimeter to the ohms function and test between the live and earth wires"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of the Earth Electrode in a TT earthing system?",
+    "options": [
+      "To supply power to the system",
+      "To improve the mechanical strength of the system",
+      "To connect the phases together",
+      "To provide a path for fault currents to the earth"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a voltage regulator in an electrical installation?",
+    "options": [
+      "To regulate the voltage of a circuit or equipment",
+      "To improve the power factor of a system",
+      "To increase the current rating of a circuit",
+      "To detect fault currents to earth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main purpose of a 2-pole switch in an electrical installation?",
+    "options": [
+      "To supply power to the system",
+      "To provide a means of earthing",
+      "To control two circuits simultaneously",
+      "To control three circuits simultaneously"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main advantage of using a PME earthing system in an electrical installation?",
+    "options": [
+      "It improves the mechanical strength of the system",
+      "It provides protection against overcurrent and short circuits",
+      "It reduces electromagnetic interference",
+      "It provides a safe and reliable means of earthing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct procedure for replacing a faulty fuse in a circuit?",
+    "options": [
+      "Switch off the circuit at the main switch, remove the faulty fuse and replace it with a new one of a lower rating",
+      "Switch off the circuit at the main switch, remove the faulty fuse and replace it with a new one of the same rating",
+      "Switch on the circuit at the main switch, remove the faulty fuse and replace it with a new one of a higher rating",
+      "Switch off the circuit at the main switch, remove the faulty fuse and replace it with a new one of a different rating"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which test is performed to verify that all protective conductors are correctly connected and have continuity throughout an installation?",
+    "question": "What is the purpose of the Fuse in a circuit?",
     "options": [
-      "Insulation resistance test",
-      "Earth fault loop impedance test",
-      "Continuity of protective conductors test",
-      "Polarity test"
+      "To protect against overcurrent and short circuits",
+      "To connect the phases together",
+      "To supply power to the system",
+      "To provide a means of earthing"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

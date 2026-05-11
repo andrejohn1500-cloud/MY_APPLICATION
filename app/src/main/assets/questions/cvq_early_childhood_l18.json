@@ -1,152 +1,22 @@
 [
   {
-    "question": "According to Bronfenbrenner's ecological systems theory, which system refers to the connections between the different microsystems in a child's life?",
+    "question": "According to the Caribbean Early Childhood Association (CECA), what is the recommended way to assess children's learning and development?",
     "options": [
-      "A. Exosystem",
-      "B. Mesosystem",
-      "C. Macrosystem",
-      "D. Chronosystem"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A child consistently avoids eye contact, has difficulty with social reciprocity, and demonstrates repetitive behaviors. Which condition does this most likely indicate?",
-    "options": [
-      "A. Attention Deficit Hyperactivity Disorder",
-      "B. Oppositional Defiant Disorder",
-      "C. Autism Spectrum Disorder",
-      "D. Sensory Processing Disorder"
+      "Through Formal Report Cards",
+      "Through Standardized Testing",
+      "Through Observation and Documentation",
+      "Through Parental Feedback"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When conducting a portfolio assessment for a preschool child, which practice best demonstrates authentic assessment principles?",
+    "question": "What is the primary objective of the inclusive education approach in the Caribbean region?",
     "options": [
-      "A. Administering standardized tests at the end of each term",
-      "B. Collecting work samples and observational records over time in natural contexts",
-      "C. Using norm-referenced instruments to compare children to peers",
-      "D. Having parents grade their child's drawings and activities"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to Vygotsky's sociocultural theory, the Zone of Proximal Development (ZPD) is best described as:",
-    "options": [
-      "A. The range of tasks a child can perform independently without any assistance",
-      "B. The difference between what a child can do alone and what they can do with guidance",
-      "C. The cognitive stage at which abstract thinking first emerges",
-      "D. The social environment that influences language acquisition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which nutritional deficiency is most commonly associated with stunted growth and impaired immune function in young children in the Caribbean?",
-    "options": [
-      "A. Vitamin C deficiency",
-      "B. Vitamin B12 deficiency",
-      "C. Protein-energy malnutrition",
-      "D. Calcium deficiency"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Under the OSHA framework applicable to early childhood settings, which of the following is the PRIMARY responsibility of an early childhood practitioner regarding health and safety?",
-    "options": [
-      "A. Conducting annual fire drills only when directed by the Ministry of Education",
-      "B. Identifying and reporting hazards and maintaining a safe environment for children",
-      "C. Purchasing all safety equipment from approved government suppliers",
-      "D. Delegating all safety responsibilities to the centre administrator"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which theoretical perspective underpins the High/Scope curriculum model used in early childhood education?",
-    "options": [
-      "A. Behaviorism and operant conditioning",
-      "B. Maturationism and child-led learning",
-      "C. Constructivism based on Piagetian principles",
-      "D. Social learning theory based on Bandura's observations"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A four-year-old child is observed using a banana as a telephone during dramatic play. According to Piaget, this behavior demonstrates:",
-    "options": [
-      "A. Concrete operational thinking",
-      "B. Symbolic or representational thought",
-      "C. Object permanence",
-      "D. Conservation of volume"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When an early childhood practitioner suspects a child is experiencing abuse or neglect, the MOST appropriate immediate action is to:",
-    "options": [
-      "A. Confront the parents or guardians about the suspected abuse",
-      "B. Conduct a detailed interview with the child to gather evidence",
-      "C. Report the concern to the relevant child protection authority as mandated",
-      "D. Discuss the matter only with colleagues to confirm the suspicion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following BEST describes the principle of 'inclusive education' as applied in an early childhood setting?",
-    "options": [
-      "A. Providing separate specialized classes for children with disabilities",
-      "B. Ensuring all children, including those with special needs, participate fully in the same learning environment",
-      "C. Admitting only children who meet developmental benchmarks for their age",
-      "D. Adapting the curriculum exclusively for gifted and talented children"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The Reggio Emilia approach to early childhood education views the environment as:",
-    "options": [
-      "A. A controlled space designed to minimize distractions and maximize academic learning",
-      "B. The third teacher that stimulates curiosity, exploration, and communication",
-      "C. A behaviorally managed setting that reinforces desired outcomes",
-      "D. An adult-directed space that ensures structured skill acquisition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which attachment pattern, identified by Ainsworth, is characterized by a child who shows little distress when separated from the caregiver and avoids the caregiver upon reunion?",
-    "options": [
-      "A. Secure attachment",
-      "B. Anxious-ambivalent attachment",
-      "C. Disorganized attachment",
-      "D. Avoidant attachment"
+      "To provide special privileges to children with disabilities",
+      "To differentiate instruction based on ability",
+      "To mainstream children with disabilities",
+      "To promote social justice and equity for all children"
     ],
     "correctIndex": 3
-  },
-  {
-    "question": "In the context of curriculum planning for early childhood settings, which approach is MOST consistent with a play-based, child-centered philosophy?",
-    "options": [
-      "A. Planning rigid daily schedules with teacher-directed instruction dominating all sessions",
-      "B. Following exclusively commercially produced workbooks and assessment kits",
-      "C. Designing flexible learning environments and activities based on children's interests and developmental needs",
-      "D. Focusing curriculum solely on literacy and numeracy outcomes for school readiness"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which legal instrument provides the international framework for the rights of children that directly informs early childhood policy in CARICOM member states?",
-    "options": [
-      "A. The Universal Declaration of Human Rights (1948)",
-      "B. The United Nations Convention on the Rights of the Child (1989)",
-      "C. The International Labour Organization Minimum Age Convention",
-      "D. The UNESCO Salamanca Statement (1994)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A practitioner notices that a three-year-old child who was previously toilet trained has begun wetting themselves again after the arrival of a new sibling. This behavior is BEST explained by which psychological concept?",
-    "options": [
-      "A. Egocentrism",
-      "B. Regression",
-      "C. Projection",
-      "D. Assimilation"
-    ],
-    "correctIndex": 1
   }
 ]

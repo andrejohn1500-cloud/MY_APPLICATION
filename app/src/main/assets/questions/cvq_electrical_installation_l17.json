@@ -1,152 +1,152 @@
 [
   {
-    "question": "According to BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to ensure disconnection within 0.4 seconds in a TN system?",
-    "options": [
-      "1.37 \u03a9",
-      "1.09 \u03a9",
-      "0.86 \u03a9",
-      "1.74 \u03a9"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A three-phase delta-connected motor has a line voltage of 400V and a phase impedance of 20\u03a9. What is the line current drawn by the motor?",
-    "options": [
-      "11.55A",
-      "20A",
-      "34.64A",
-      "6.67A"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "When conducting an insulation resistance test on a three-phase installation, what is the minimum acceptable insulation resistance value specified in BS 7671 for circuits up to 500V?",
-    "options": [
-      "0.5 M\u03a9",
-      "1 M\u03a9",
-      "2 M\u03a9",
-      "0.25 M\u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which protection method is defined as 'automatic disconnection of supply' (ADS) and relies on a protective conductor connecting exposed conductive parts to the main earthing terminal?",
-    "options": [
-      "Class II equipment protection",
-      "Electrical separation",
-      "Earthed equipotential bonding and ADS",
-      "Non-conducting location"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A single-phase 230V circuit supplies a load of 9.2kW at a power factor of 0.8 lagging. What is the true current drawn?",
-    "options": [
-      "40A",
-      "50A",
-      "32A",
-      "45A"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a TT earthing system, residual current devices are typically required because the earth fault loop impedance is too high to operate which protective device within the required disconnection time?",
-    "options": [
-      "Residual current device",
-      "Overcurrent protective device",
-      "Surge protective device",
-      "Isolation switch"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of applying a 'diversity factor' when calculating the maximum demand of an electrical installation?",
-    "options": [
-      "To increase the total connected load by a safety margin",
-      "To account for the likelihood that not all connected loads will operate simultaneously at full load",
-      "To reduce cable sizes below their current-carrying capacity",
-      "To calculate the exact fault current at any point in the circuit"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to IEE Wiring Regulations BS 7671, Regulation 543.1.3, what is the minimum cross-sectional area of a copper protective conductor where the phase conductor CSA exceeds 35mm\u00b2?",
-    "options": [
-      "Half the CSA of the phase conductor",
-      "Equal to the CSA of the phase conductor",
-      "16mm\u00b2",
-      "25mm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A contactor coil rated at 230V AC, 50Hz has an inductance of 0.5H and a resistance of 100\u03a9. What is the approximate impedance of the coil?",
-    "options": [
-      "157.3 \u03a9",
-      "188.5 \u03a9",
-      "100 \u03a9",
-      "214.6 \u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which BS 7671 regulation requires that every installation shall have a means of isolation from all live supply conductors, including the neutral in a TN-S or TT system under certain conditions?",
-    "options": [
-      "Regulation 537.1.2",
-      "Regulation 514.9.1",
-      "Regulation 530.3.3",
-      "Regulation 411.3.4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When sizing a cable using the voltage drop method, a 230V single-phase circuit with a design current of 25A, a cable length of 40m, and an allowable voltage drop of 5% is required. The cable has a voltage drop of 9.5 mV/A/m. What is the actual voltage drop?",
-    "options": [
-      "9.5V",
-      "11.5V",
-      "7.5V",
-      "8.5V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a star-connected three-phase balanced system with a line voltage of 415V, what is the phase voltage?",
-    "options": [
-      "415V",
-      "239.6V",
-      "240V",
-      "208V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What type of earthing arrangement is characterised by the source earth and the installation earth being provided by separate electrodes, with no metallic connection between the neutral and earth at the source?",
+    "question": "A wiring system is to be installed in a commercial building in Guyana, which type of wiring system is recommended by the Guyana Electrical Code?",
     "options": [
       "TN-C-S",
-      "TN-S",
+      "TN-C",
       "TT",
-      "IT"
+      "TN-S"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A wiring system is to be installed in a commercial building in St. Kitts and Nevis, which type of wiring system is recommended by the St. Kitts and Nevis Electrical Code?",
+    "options": [
+      "TN-C",
+      "TN-C-S",
+      "TT",
+      "TN-S"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of an earth fault indicator in a circuit installation?",
+    "options": [
+      "To indicate the presence of an earth fault in a circuit",
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit",
+      "To reduce the voltage to a low level"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary function of a 3-phase delta connected motor starter?",
+    "options": [
+      "To provide a safe means of starting and stopping a 3-phase motor",
+      "To provide a means of isolating a 3-phase circuit",
+      "To provide a means of earthing a 3-phase system",
+      "To reduce the voltage to a single-phase circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of an earth fault alarm in a circuit installation?",
+    "options": [
+      "To reduce the voltage to a low level",
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit",
+      "To indicate the presence of an earth fault in a circuit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a residual current device (RCD) in a circuit installation?",
+    "options": [
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit",
+      "To protect against shock and electrical fires by detecting earth faults",
+      "To reduce the voltage to a low level"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The adiabatic equation S\u00b2 = I\u00b2t/k\u00b2 is used in electrical installation design primarily to verify which of the following?",
+    "question": "What is the primary function of a circuit protector in a circuit installation?",
     "options": [
-      "That the circuit breaker rating matches the load current",
-      "That the protective conductor can withstand fault current without damage",
-      "That the cable voltage drop is within acceptable limits",
-      "That the earth electrode resistance is adequate"
+      "To protect against overcurrent and electrical fires",
+      "To provide a means of isolating a circuit",
+      "To reduce the voltage to a low level",
+      "To provide a means of earthing a circuit"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A photovoltaic (PV) solar installation connected to the grid must incorporate which device to prevent the inverter from continuing to energise the local network during a mains power failure, as required by G98/G99 engineering recommendations?",
+    "question": "What is the correct procedure for testing a 3-phase motor as per BS7671:2018?",
     "options": [
-      "Surge protective device (SPD)",
-      "Anti-islanding protection",
-      "Residual current device (RCD) Type B",
-      "Earth leakage circuit breaker (ELCB)"
+      "To test the motor using a circuit analyzer to check for circuit integrity",
+      "To test the motor using a megohmmeter to check for insulation resistance",
+      "To test the motor using a multimeter to check for correct phase rotation and voltage levels",
+      "To test the motor using a thermal imaging camera to check for overheating"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a voltage transformer in a circuit installation?",
+    "options": [
+      "To provide a means of measuring voltage in a circuit",
+      "To provide a means of isolating a circuit",
+      "To reduce the voltage to a low level",
+      "To provide a means of earthing a circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the maximum earth fault current permitted for a Type B earth fault protection system?",
+    "options": [
+      "50 mA",
+      "100 mA",
+      "30 mA",
+      "25 mA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wiring system is to be installed in a commercial building in Trinidad and Tobago, which type of wiring system is recommended by the Trinidad and Tobago Electrical Code?",
+    "options": [
+      "TN-S",
+      "TT",
+      "TN-C-S",
+      "TN-C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circuit installation requires a circuit breaker with a rating of 63 A in a 3-phase 4-wire system, what is the minimum size of the main switch required?",
+    "options": [
+      "63 A",
+      "100 A",
+      "80 A",
+      "50 A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a voltage monitoring device in a circuit installation?",
+    "options": [
+      "To monitor the voltage in a circuit and indicate any deviations from the normal range",
+      "To reduce the voltage to a low level",
+      "To provide a means of isolating a circuit",
+      "To provide a means of earthing a circuit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A wiring system is to be installed in a commercial building in St. Vincent and the Grenadines, which type of wiring system is recommended by the St. Vincent and the Grenadines Electrical Code?",
+    "options": [
+      "TT",
+      "TN-C-S",
+      "TN-C",
+      "TN-S"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A wiring system is to be installed in a residential building in Grenada, which type of wiring system is recommended by the Grenada Electrical Code?",
+    "options": [
+      "TT",
+      "TN-C",
+      "TN-S",
+      "TN-C-S"
+    ],
+    "correctIndex": 2
   }
 ]

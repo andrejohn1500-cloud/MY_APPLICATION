@@ -1,152 +1,52 @@
 [
   {
-    "question": "Which soil pH range is considered optimal for most field crops and why is it significant for nutrient availability?",
+    "question": "What is the primary benefit of using mulch in a sustainable agriculture system?",
     "options": [
-      "4.0\u20135.0, because iron and manganese are most soluble",
-      "5.5\u20136.5, because macronutrients and micronutrients are most available",
-      "7.5\u20138.5, because calcium dominates the exchange sites",
-      "3.0\u20134.0, because organic matter decomposition is fastest"
+      "It increases crop yields",
+      "It suppresses weed growth",
+      "It improves soil fertility",
+      "It reduces soil erosion and retains moisture"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of crop monitoring in agricultural production?",
+    "options": [
+      "To identify potential issues, optimize crop management, and improve yields",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To minimize labor costs by reducing crop maintenance",
+      "To reduce crop yields by introducing new pests and diseases"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary benefit of using permaculture in the Caribbean region?",
+    "options": [
+      "It increases crop yields",
+      "It promotes biodiversity and reduces soil erosion",
+      "It improves water quality",
+      "It reduces labor costs"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In integrated pest management (IPM), what is the primary purpose of establishing an economic threshold (ET)?",
+    "question": "What is the main advantage of using conservation agriculture in the Caribbean region?",
     "options": [
-      "To determine the maximum pesticide dose permitted by law",
-      "To identify the pest population density at which control action must be taken to prevent economic loss",
-      "To calculate the total cost of pesticide application per hectare",
-      "To measure the biodiversity index of beneficial insects in a field"
+      "It reduces labor costs",
+      "It improves water quality",
+      "It reduces soil erosion and improves soil health",
+      "It increases crop yields"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A farmer notices interveinal chlorosis on young leaves while older leaves remain green. Which nutrient deficiency is most likely responsible?",
+    "question": "What is the main advantage of using permaculture in the Caribbean region?",
     "options": [
-      "Nitrogen, because it is immobile in the phloem",
-      "Iron, because it is immobile in the phloem and preferentially supplied to older leaves",
-      "Potassium, because it regulates stomatal opening",
-      "Phosphorus, because it is essential for ATP synthesis"
+      "It reduces labor costs",
+      "It improves water quality",
+      "It promotes biodiversity and reduces soil erosion",
+      "It increases crop yields"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best describes the cation exchange capacity (CEC) of a soil and its agricultural importance?",
-    "options": [
-      "The ability of soil to retain anions such as nitrate and sulfate against leaching",
-      "The measure of the soil's ability to hold positively charged nutrient ions available to plants",
-      "The rate at which water infiltrates through the soil profile",
-      "The capacity of soil microbes to fix atmospheric nitrogen"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "During which stage of crop growth is it most critical to ensure adequate phosphorus supply, and why?",
-    "options": [
-      "Maturation stage, because phosphorus is needed for grain filling",
-      "Early seedling and root establishment stage, because phosphorus promotes root development and energy transfer",
-      "Vegetative elongation stage, because phosphorus drives rapid cell division in stems",
-      "Flowering stage, because phosphorus controls pollination efficiency"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary mechanism by which contour farming reduces soil erosion on sloping land?",
-    "options": [
-      "It increases runoff velocity so sediment is deposited at the slope base",
-      "It creates ridges that reduce the velocity of surface water flow and promote infiltration",
-      "It eliminates surface cover, exposing soil to rainfall impact",
-      "It channels water directly into drainage ditches to prevent pooling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In livestock production, which breeding strategy involves crossing two unrelated purebred lines to exploit heterosis (hybrid vigour)?",
-    "options": [
-      "Inbreeding",
-      "Crossbreeding",
-      "Line breeding",
-      "Back-crossing to the parental generation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A field crop shows stunted growth, dark-green to purple coloration on leaves, and poor root development. Which nutrient deficiency best explains these symptoms?",
-    "options": [
-      "Calcium deficiency causing poor cell wall integrity",
-      "Phosphorus deficiency reducing ATP production and root growth",
-      "Magnesium deficiency disrupting chlorophyll synthesis",
-      "Zinc deficiency inhibiting auxin production"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which irrigation method delivers water directly to the root zone of individual plants, minimizing evaporation losses and is most suitable for row crops in water-scarce environments?",
-    "options": [
-      "Flood irrigation",
-      "Drip (trickle) irrigation",
-      "Sprinkler irrigation",
-      "Basin irrigation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In crop rotation planning, why is a leguminous crop typically included in the rotation sequence?",
-    "options": [
-      "Because legumes produce allelopathic chemicals that suppress all weeds",
-      "Because legumes fix atmospheric nitrogen through symbiosis with Rhizobium bacteria, improving soil fertility",
-      "Because legumes have deep taproots that mine subsoil phosphorus for subsequent crops",
-      "Because legumes reduce soil pH, making micronutrients more available"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which post-harvest process involves reducing the moisture content of harvested grains to safe storage levels (typically 13\u201314% for cereals) to prevent mould growth and mycotoxin contamination?",
-    "options": [
-      "Curing",
-      "Drying",
-      "Blanching",
-      "Fumigation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When calculating the fertiliser application rate, a soil test recommends 60 kg N/ha. If the farmer uses urea (46% N), how many kg of urea per hectare are required?",
-    "options": [
-      "27.6 kg/ha",
-      "130.4 kg/ha",
-      "60.0 kg/ha",
-      "276.0 kg/ha"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which disease management strategy relies on planting crop varieties that have been genetically selected or bred to resist pathogen attack, and is considered the most sustainable and cost-effective control method?",
-    "options": [
-      "Chemical fungicide application on a calendar schedule",
-      "Use of resistant varieties",
-      "Soil solarisation",
-      "Roguing infected plants"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In greenhouse production, which environmental factor most directly controls the rate of photosynthesis and therefore crop productivity when temperature, water, and CO2 are non-limiting?",
-    "options": [
-      "Relative humidity inside the greenhouse",
-      "Light intensity (photosynthetically active radiation, PAR)",
-      "Wind speed generated by ventilation fans",
-      "Substrate electrical conductivity (EC)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which soil conservation practice involves establishing permanent strips of grass or other vegetation across slopes, alternating with cultivated crop strips, to reduce erosion and trap sediment?",
-    "options": [
-      "Subsoiling",
-      "Strip cropping",
-      "Mulching with crop residues",
-      "Deep ploughing"
-    ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

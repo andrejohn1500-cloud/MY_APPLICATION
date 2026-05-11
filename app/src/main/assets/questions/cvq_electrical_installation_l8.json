@@ -1,152 +1,82 @@
 [
   {
-    "question": "What is the standard colour coding for the live (line) conductor in a single-phase fixed wiring installation in accordance with current IET Wiring Regulations?",
+    "question": "What is the recommended method of protecting a building from electrical shock?",
     "options": [
+      "By using a circuit breaker only",
+      "By using an isolator switch only",
+      "By installing a RCD (Residual Current Device) on the main supply",
+      "By not using any RCD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of the Neutral wire in a 3-phase electrical circuit?",
+    "options": [
+      "To supply power to the load",
+      "To connect the phases together",
+      "To carry the earth fault current to the earth",
+      "To carry the unbalanced current from the load back to the source"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main advantage of using a TT earthing system in an electrical installation?",
+    "options": [
+      "It improves the mechanical strength of the system",
+      "It provides protection against overcurrent and short circuits",
+      "It provides a simple and cost-effective means of earthing",
+      "It reduces electromagnetic interference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the recommended method of securing a cable in a residential dwelling?",
+    "options": [
+      "Using wire to bundle cables together",
+      "Using cable clips or cable ties",
+      "Taping cables to walls and ceiling",
+      "Drilling holes in walls and ceiling for cables"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the difference between a Class I and a Class II electrical appliance in terms of safety?",
+    "options": [
+      "Class I appliances are more expensive, while Class II appliances are cheaper",
+      "Class I appliances have a metal casing that provides a path to earth, while Class II appliances have double insulation",
+      "Class I appliances are more reliable, while Class II appliances are safer",
+      "Class I appliances are safer, while Class II appliances are more reliable"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of a Circuit Breaker in an electrical installation?",
+    "options": [
+      "To provide a means of earthing",
+      "To protect against overcurrent and short circuits",
+      "To supply power to the system",
+      "To connect the phases together"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the correct colour code for the Live wire in a 2-core and earth cable?",
+    "options": [
+      "Grey",
       "Red",
-      "Brown",
-      "Blue",
-      "Green and Yellow"
+      "Black",
+      "Brown"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which document provides the rules and regulations for electrical installations in the United Kingdom and the Caribbean region adopting British Standards?",
+    "question": "What is the correct procedure for installing a new circuit in an existing installation?",
     "options": [
-      "IEEE Standard 70",
-      "IET Wiring Regulations (BS 7671)",
-      "NFPA 70 National Electrical Code",
-      "ISO 9001"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A circuit breaker rated at 20A is protecting a cable with a current-carrying capacity of 18A. What problem does this represent?",
-    "options": [
-      "Under-voltage protection",
-      "Overload protection failure",
-      "Short circuit condition",
-      "Earth fault loop impedance issue"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of an Residual Current Device (RCD) in an electrical installation?",
-    "options": [
-      "To protect against overloads only",
-      "To protect against earth leakage currents and reduce shock risk",
-      "To regulate voltage supply",
-      "To measure power factor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a three-phase supply system, what is the standard phase-to-phase voltage where the phase-to-neutral voltage is 230V?",
-    "options": [
-      "230V",
-      "400V",
-      "415V",
-      "480V"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of earthing system has the supply neutral conductor connected to earth at the source and the consumer's exposed conductive parts connected to a separate earth electrode?",
-    "options": [
-      "TN-S",
-      "TN-C-S",
-      "TT",
-      "IT"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What instrument is used to measure the insulation resistance of a cable?",
-    "options": [
-      "Ammeter",
-      "Voltmeter",
-      "Megohmmeter (Megger)",
-      "Wattmeter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The impedance of an earth fault loop is measured to ensure that sufficient fault current will flow to operate which protective device?",
-    "options": [
-      "Isolator",
-      "Overcurrent protective device",
-      "Voltage regulator",
-      "Power factor correction capacitor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When installing conduit in an exposed outdoor location, which type of conduit is most appropriate to resist corrosion?",
-    "options": [
-      "Heavy gauge steel conduit",
-      "PVC conduit or galvanised steel conduit",
-      "Thin wall steel conduit",
-      "Aluminium rigid conduit without treatment"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "According to BS 7671, what is the maximum disconnection time for a 230V TN system final circuit not exceeding 32A under a fault condition?",
-    "options": [
-      "5 seconds",
-      "0.4 seconds",
-      "1 second",
-      "2 seconds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'diversity factor' mean when applied to electrical installation design?",
-    "options": [
-      "The ratio of maximum demand to installed load capacity",
-      "The variation in voltage across different phases",
-      "The ratio of harmonics to fundamental frequency",
-      "The efficiency rating of a transformer"
+      "Switch off the main switch, identify the correct cable size and rating, and follow the manufacturer's instructions",
+      "Switch off the main switch, identify the incorrect cable size and rating, and follow the manufacturer's instructions",
+      "Switch off the main switch, identify the correct cable size and rating, but do not follow the manufacturer's instructions",
+      "Switch on the main switch, identify the correct cable size and rating, and follow the manufacturer's instructions"
     ],
     "correctIndex": 0
-  },
-  {
-    "question": "A lighting circuit in a domestic installation typically uses which cable size as a minimum?",
-    "options": [
-      "1.0 mm\u00b2 twin and earth",
-      "1.5 mm\u00b2 twin and earth",
-      "2.5 mm\u00b2 twin and earth",
-      "4.0 mm\u00b2 twin and earth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which test is carried out first during the inspection and testing of a completed electrical installation?",
-    "options": [
-      "Earth fault loop impedance test",
-      "Insulation resistance test",
-      "Visual inspection",
-      "Prospective short circuit current test"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the function of a busbar chamber in a distribution board?",
-    "options": [
-      "To store excess cable",
-      "To provide a common connection point for distributing electrical supply to multiple circuits",
-      "To measure total energy consumption",
-      "To provide surge protection for the installation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Power factor is defined as the ratio of which two quantities?",
-    "options": [
-      "Apparent power to reactive power",
-      "Active (real) power to apparent power",
-      "Reactive power to active power",
-      "Voltage to current"
-    ],
-    "correctIndex": 1
   }
 ]

@@ -1,153 +1,122 @@
 [
   {
-    "question": "According to BS 7671, what is the maximum earth fault loop impedance (Zs) permitted for a 32A Type B circuit breaker to ensure disconnection within 0.4 seconds in a TN system?",
+    "question": "A circuit installation requires a circuit breaker with a rating of 80 A in a single-phase 3-wire system, what is the minimum size of the main switch required?",
     "options": [
-      "1.44 \u03a9",
-      "1.09 \u03a9",
-      "0.86 \u03a9",
-      "1.37 \u03a9"
+      "80 A",
+      "120 A",
+      "60 A",
+      "100 A"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A three-phase delta-connected motor has a line voltage of 415V and a power factor of 0.85. If the line current is 28A, what is the approximate total active power consumed?",
+    "question": "Identify the correct type of electrical installation as per BS7671:2018",
     "options": [
-      "17.1 kW",
-      "9.87 kW",
-      "29.6 kW",
-      "14.8 kW"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which regulation in BS 7671 specifically requires that every installation shall have a main protective bonding conductor connecting extraneous-conductive-parts to the main earthing terminal?",
-    "options": [
-      "Regulation 411.3.1.2",
-      "Regulation 544.1.1",
-      "Regulation 413.1.1",
-      "Regulation 531.2.1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of an Residual Current Device (RCD) with a rated residual operating current (I\u0394n) of 10mA used in a bathroom circuit?",
-    "options": [
-      "To provide overload protection only",
-      "To provide additional protection against electric shock where the prospective touch voltage may exceed 50V",
-      "To disconnect the supply under short-circuit conditions faster than a fuse",
-      "To limit inrush current during motor starting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When calculating voltage drop in a single-phase circuit using BS 7671 methodology, a 2.5mm\u00b2 two-core copper cable of 25 metres carries 20A. Using a mV/A/m value of 18, what is the voltage drop?",
-    "options": [
-      "9.0 V",
-      "4.5 V",
-      "18.0 V",
-      "7.2 V"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a TT earthing system, the maximum disconnection time for a final circuit not exceeding 32A supplying socket outlets is:",
-    "options": [
-      "5 seconds",
-      "1 second",
-      "0.2 seconds",
-      "0.4 seconds"
+      "IT earthing system",
+      "TT earthing system",
+      "TN-S earthing system",
+      "TN-C-S earthing system"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A protective conductor carries fault current during an earth fault. According to BS 7671 Regulation 543.1.3, what is the minimum cross-sectional area of a copper protective conductor where the line conductor is 50mm\u00b2?",
+    "question": "A circuit installation requires a circuit breaker with a rating of 50 A in a single-phase 2-wire system, what is the minimum size of the main switch required?",
     "options": [
-      "16mm\u00b2",
-      "25mm\u00b2",
-      "35mm\u00b2",
-      "50mm\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which test is used to verify the effectiveness of earth electrode resistance in a TT system, and what instrument is specifically required?",
-    "options": [
-      "Insulation resistance tester (Megger)",
-      "Earth fault loop impedance tester",
-      "Earth electrode resistance tester using a separate current and potential electrode method",
-      "Continuity tester with a low-resistance ohmmeter"
+      "60 A",
+      "40 A",
+      "50 A",
+      "70 A"
     ],
     "correctIndex": 2
   },
   {
-    "property": "advanced",
-    "question": "When applying the adiabatic equation S = \u221a(I\u00b2t)/k to select a protective conductor, for a fault current of 1500A, disconnection time of 0.1s, and k factor of 115 for copper PVC, what minimum conductor size is required?",
+    "question": "What is the primary function of a surge arrester in a circuit installation?",
     "options": [
-      "4.12 mm\u00b2",
-      "6 mm\u00b2",
-      "2.5 mm\u00b2",
-      "10 mm\u00b2"
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit",
+      "To protect against voltage surges and electrical fires",
+      "To reduce the voltage to a low level"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of an arc fault detection device in a circuit installation?",
+    "options": [
+      "To reduce the voltage to a low level",
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit",
+      "To detect and interrupt arc faults in a circuit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A circuit installation requires a circuit breaker with a rating of 50 A in a 3-phase 4-wire system, what is the minimum size of the main switch required?",
+    "options": [
+      "50 A",
+      "60 A",
+      "40 A",
+      "70 A"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A 415V three-phase induction motor draws a starting current of 6 times full-load current. Which starting method reduces the starting current to approximately 33% of the direct-on-line starting current?",
+    "question": "A wiring system is to be installed in a commercial building in Dominica, which type of wiring system is recommended by the Dominica Electrical Code?",
     "options": [
-      "Autotransformer starting at 50% tapping",
-      "Star-delta starting",
-      "Soft starter at 80% voltage",
-      "Rotor resistance starting"
+      "TT",
+      "TN-S",
+      "TN-C",
+      "TN-C-S"
     ],
     "correctIndex": 1
   },
   {
-    "question": "According to BS 7671, what is the minimum insulation resistance value acceptable for a single circuit operating at up to 500V when tested with a 500V DC test voltage?",
+    "question": "What is the primary function of a fault current limiter in a circuit installation?",
     "options": [
-      "0.5 M\u03a9",
-      "1.0 M\u03a9",
-      "2.0 M\u03a9",
-      "0.25 M\u03a9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a busbar trunking system, the diversity factor is applied to determine the design current. If three loads of 60A, 45A, and 30A are connected with diversity factors of 1.0, 0.8, and 0.6 respectively, what is the design current of the trunking?",
-    "options": [
-      "135A",
-      "114A",
-      "99A",
-      "108A"
+      "To provide a means of earthing a circuit",
+      "To provide a means of isolating a circuit",
+      "To limit the fault current in the event of a fault",
+      "To reduce the voltage to a low level"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which IP code designation indicates that an enclosure is dust-tight and protected against powerful water jets from any direction?",
+    "question": "A wiring system is to be installed in a residential building in Antigua and Barbuda, which type of wiring system is recommended by the Antigua and Barbuda Electrical Code?",
     "options": [
-      "IP54",
-      "IP65",
-      "IP66",
-      "IP67"
+      "TT",
+      "TN-C",
+      "TN-S",
+      "TN-C-S"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A power factor correction capacitor bank is to be installed to improve the power factor of a 415V three-phase factory load from 0.72 lagging to 0.95 lagging. The active power is 80 kW. What is the approximate reactive power (kVAr) of the capacitor bank required?",
+    "question": "What is the primary function of a fuse in a circuit installation?",
     "options": [
-      "45.7 kVAr",
-      "26.3 kVAr",
-      "36.8 kVAr",
-      "52.1 kVAr"
+      "To protect against overcurrent and electrical fires",
+      "To provide a means of isolating a circuit",
+      "To reduce the voltage to a low level",
+      "To provide a means of earthing a circuit"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Under BS 7671 Regulation 612.9, a polarity test must be carried out to verify which of the following?",
+    "question": "A circuit installation requires a circuit breaker with a rating of 120 A in a 3-phase 4-wire system, what is the minimum size of the main switch required?",
     "options": [
-      "That all fuses and single-pole protective devices are connected in the neutral conductor only",
-      "That all fuses and single-pole protective devices are connected in the line conductor only, and that centre-contact lampholders are connected to the line conductor",
-      "That the RCD disconnects within the required time when tested",
-      "That all socket outlets are wired with correct phase rotation"
+      "140 A",
+      "100 A",
+      "120 A",
+      "160 A"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "A circuit installation requires a circuit breaker with a rating of 40 A in a single-phase 2-wire system, what is the minimum size of the main switch required?",
+    "options": [
+      "60 A",
+      "30 A",
+      "40 A",
+      "50 A"
+    ],
+    "correctIndex": 2
   }
 ]

@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which type of joint is most commonly used to connect the rails to the legs of a wooden chair frame?",
+    "question": "What is the purpose of a marking knife in carpentry?",
     "options": [
-      "Butt joint",
-      "Mortise and tenon joint",
-      "Dovetail joint",
-      "Lap joint"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary purpose of a moisture meter in carpentry?",
-    "options": [
-      "To measure the thickness of timber",
-      "To determine the moisture content of wood before use",
-      "To check the straightness of a planed surface",
-      "To measure the hardness of timber species"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When setting out a staircase, what term describes the horizontal measurement of each step?",
-    "options": [
-      "Rise",
-      "Pitch",
-      "Going",
-      "Nosing"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which wood defect is caused by the abnormal growth of branches within the grain of timber?",
-    "options": [
-      "Shake",
-      "Knot",
-      "Bow",
-      "Case hardening"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct sequence when installing a door frame in a masonry opening?",
-    "options": [
-      "Fix head first, then jambs, then threshold",
-      "Plumb and level the jambs, fix the head, then secure with frame fixings",
-      "Fix threshold first, then jambs, then head",
-      "Set the head, then plumb jambs, then pack and fix threshold"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of saw is best suited for cutting curves and irregular shapes in timber?",
-    "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Jig saw",
-      "Panel saw"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In joinery, what does the term 'rebate' refer to?",
-    "options": [
-      "A rectangular recess cut along the edge or face of a piece of timber",
-      "A decorative groove cut in the centre of a panel",
-      "A wedge-shaped piece used to tighten a joint",
-      "A method of joining two pieces at 45 degrees"
+      "To mark precise and consistent measurements on wood",
+      "To measure the dimensions of a piece of wood",
+      "To check the tightness of joints",
+      "To mark straight lines on wood"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the standard rise measurement recommended for domestic staircases according to building regulations?",
+    "question": "What is the purpose of using a 'Mitre saw' power tool in carpentry?",
     "options": [
-      "100mm to 150mm",
-      "155mm to 220mm",
-      "220mm to 270mm",
-      "270mm to 300mm"
+      "Cutting curved joints in wood",
+      "Cutting mitre joints in wood",
+      "Cutting straight joints in wood",
+      "Drilling holes in wood"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which adhesive is most suitable for exterior joinery applications due to its water resistance?",
+    "question": "Which of the following types of joints is used for connecting two pieces of wood with a lap joint?",
     "options": [
-      "PVA adhesive",
-      "Urea formaldehyde adhesive",
-      "Resorcinol formaldehyde adhesive",
-      "Animal hide glue"
+      "Dado joint",
+      "Mitre joint",
+      "Butt joint",
+      "Dovetail joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the purpose of a 'story rod' in carpentry and joinery?",
+    "question": "Which of the following types of wood is known for its high resistance to knots?",
     "options": [
-      "To measure the strength of structural members",
-      "To record the setting-out measurements for repetitive work",
-      "To calculate the load-bearing capacity of a floor",
-      "To determine the correct wood species for a project"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which component of a panelled door connects the two stiles horizontally across the centre of the door?",
-    "options": [
-      "Top rail",
-      "Muntin",
-      "Middle or lock rail",
-      "Frieze rail"
+      "Walnut",
+      "Oak",
+      "Maple",
+      "Pine"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of plane is used to produce a concave surface on curved timber work?",
+    "question": "Which of the following types of wood is known for its high strength?",
     "options": [
-      "Jack plane",
-      "Hollow plane",
-      "Rebate plane",
-      "Shoulder plane"
+      "Walnut",
+      "Pine",
+      "Maple",
+      "Oak"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the function of the 'Impact driver' power tool in carpentry?",
+    "options": [
+      "Cutting wood to size",
+      "Drilling holes at an angle",
+      "Sanding wood surfaces",
+      "Drilling and driving screws"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of wood is known for its high resistance to scratches?",
+    "options": [
+      "Maple",
+      "Walnut",
+      "Oak",
+      "Pine"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When constructing a timber stud partition wall, what is the typical spacing of the studs in residential construction?",
+    "question": "What is the purpose of using a 'Mitre saw' power tool in carpentry?",
     "options": [
-      "300mm centres",
-      "400mm or 600mm centres",
-      "900mm centres",
-      "1200mm centres"
+      "Drilling holes in wood",
+      "Cutting curved joints in wood",
+      "Cutting straight joints in wood",
+      "Cutting mitre joints in wood"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the function of the 'Belt sander' power tool in carpentry?",
+    "options": [
+      "Sanding wood surfaces at an angle",
+      "Smoothing out wood surfaces",
+      "Drilling holes in wood",
+      "Cutting wood to size"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of wood joint is specifically designed to resist pulling apart forces and is commonly used in drawer construction?",
+    "question": "Which of the following types of joints is used for connecting two pieces of wood with interlocking teeth?",
     "options": [
-      "Finger joint",
-      "Through housing joint",
+      "Butt joint",
+      "Dado joint",
       "Dovetail joint",
       "Mitre joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the function of the 'camber' applied to a large beam or floor joist during installation?",
+    "question": "Which of the following types of joints is used for connecting two pieces of wood with a recessed area?",
     "options": [
-      "To increase the decorative appeal of the structure",
-      "To compensate for anticipated deflection under load",
-      "To allow for thermal expansion of the timber",
-      "To improve the load distribution across supports"
+      "Mitre joint",
+      "Dado joint",
+      "Butt joint",
+      "Dovetail joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the function of the 'Mortise and tenon' joint in carpentry?",
+    "options": [
+      "Connecting two pieces of wood with screws",
+      "Connecting two pieces of wood end-to-end",
+      "Connecting two pieces of wood at an angle",
+      "Connecting two pieces of wood at a right angle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of joints is used for connecting two pieces of wood end-to-end?",
+    "options": [
+      "Dado joint",
+      "Dovetail joint",
+      "Mitre joint",
+      "Butt joint"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following wood properties makes it suitable for outdoor use?",
+    "options": [
+      "Moisture resistance",
+      "Hardness",
+      "Flexibility",
+      "Durability"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following types of wood is known for its high resistance to decay?",
+    "options": [
+      "Teak",
+      "Cedar",
+      "Oak",
+      "Pine"
     ],
     "correctIndex": 1
   }

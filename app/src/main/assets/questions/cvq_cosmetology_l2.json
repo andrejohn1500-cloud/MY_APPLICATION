@@ -1,153 +1,152 @@
 [
   {
-    "question": "What is the primary purpose of a cuticle pusher in manicure services?",
+    "question": "What is the recommended frequency of sanitation for a salon's nail files?",
     "options": [
-      "To cut the nails",
-      "To push back the cuticle from the nail plate",
-      "To buff the nail surface",
-      "To apply nail polish"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which hair type is most commonly associated with a naturally round cross-sectional shape?",
-    "options": [
-      "Wavy hair",
-      "Curly hair",
-      "Straight hair",
-      "Coily hair"
+      "Weekly",
+      "After each client use",
+      "Daily",
+      "Monthly"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does the term 'pH' stand for in cosmetology products?",
+    "question": "What is the term for the process of evaluating the client's hair and scalp after a treatment or service?",
     "options": [
-      "Potential Hydrogen",
-      "Pure Hydration",
-      "Partial Hydroxide",
-      "Physical Hydration"
+      "Treatment planning",
+      "Treatment evaluation",
+      "Treatment administration",
+      "Treatment review"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of exfoliating the skin?",
+    "options": [
+      "To reduce the appearance of fine lines",
+      "To moisturize the skin",
+      "To remove dead skin cells and improve skin texture",
+      "To protect the skin from the sun"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the main purpose of a business plan in a nail care salon?",
+    "options": [
+      "To outline the goals and objectives of the salon and to create a strategy for success",
+      "To create a budget for the salon",
+      "To market the salon",
+      "To hire staff for the salon"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a primary color?",
+    "question": "What is the term for a consultation with a client to discuss their hair and beauty needs?",
     "options": [
-      "Green",
-      "Orange",
-      "Blue",
-      "Violet"
+      "Client analysis",
+      "Client interview",
+      "Client appraisal",
+      "Client consultation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are some common skin conditions?",
+    "options": [
+      "Hair loss",
+      "Acne, eczema, psoriasis",
+      "Warts",
+      "Nail fungus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of a chemical treatment consent form?",
+    "options": [
+      "To book an appointment",
+      "To obtain permission from the client for a chemical treatment",
+      "To provide a quote for services",
+      "To record payment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are some common chemical treatments for hair?",
+    "options": [
+      "Hair dryers, flat irons, curling irons",
+      "Scissors, clippers, combs",
+      "Relaxers, perms, colorants",
+      "Shampoos, conditioners, stylers"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the correct first step when performing a client consultation?",
+    "question": "What is the main purpose of a business plan in a salon?",
     "options": [
-      "Begin the chemical service immediately",
-      "Review the client's record card and discuss desired results",
-      "Apply the chosen product",
-      "Shampoo the client's hair"
+      "To create a budget for the salon",
+      "To outline the goals and objectives of the salon and to create a strategy for success",
+      "To hire staff for the salon",
+      "To market the salon"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which layer of the skin contains blood vessels and nerve endings?",
+    "question": "What is the main purpose of treatment evaluation?",
     "options": [
-      "Epidermis",
-      "Stratum corneum",
-      "Dermis",
-      "Stratum lucidum"
+      "To book an appointment",
+      "To provide a quote for services",
+      "To record payment",
+      "To assess the effectiveness of the treatment or service and to make recommendations for future treatments or services"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the term for a chemical treatment that changes the curl pattern of hair?",
+    "options": [
+      "Relaxer",
+      "Tinting",
+      "Bleaching",
+      "Perming"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the study of the health and safety practices in the salon?",
+    "options": [
+      "Client care",
+      "Health and safety protocol",
+      "Salon policy",
+      "Sanitizing procedure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What are some common signs of hair and scalp damage or disease?",
+    "options": [
+      "Nail fungus",
+      "Split ends, breakage, dandruff",
+      "Hair loss",
+      "Warts"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main purpose of a client feedback form?",
+    "options": [
+      "To provide a quote for services",
+      "To book an appointment",
+      "To record payment",
+      "To gather information about the client's experience and to make improvements"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main purpose of a treatment plan?",
+    "options": [
+      "To book an appointment",
+      "To record payment",
+      "To provide a clear and concise plan for the treatment or service",
+      "To provide a quote for services"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What type of scissors cut is used to remove bulk from thick hair without reducing length?",
-    "options": [
-      "Blunt cut",
-      "Texturizing with thinning scissors",
-      "Razor cutting",
-      "Club cutting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which chemical is the active ingredient in most relaxers used on natural hair?",
-    "options": [
-      "Hydrogen peroxide",
-      "Ammonium thioglycolate",
-      "Sodium hydroxide",
-      "Sodium chloride"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "function": "What is the purpose of a strand test before a chemical service?",
-    "options": [
-      "To check the client's hair color preference",
-      "To determine how the hair will react to the chemical treatment",
-      "To measure the length of the hair",
-      "To assess the client's scalp temperature"
-    ],
-    "correctIndex": 1,
-    "question": "What is the purpose of a strand test before a chemical service?"
-  },
-  {
-    "question": "Which type of infection can be spread from one person to another?",
-    "options": [
-      "Non-contagious infection",
-      "Contagious infection",
-      "Systemic infection",
-      "Localized non-infectious condition"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the recommended method for sanitizing metal implements in a salon?",
-    "options": [
-      "Wiping with a dry cloth",
-      "Immersing in an EPA-registered disinfectant solution",
-      "Rinsing with cold water only",
-      "Placing in direct sunlight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which part of the hair is responsible for hair growth?",
-    "options": [
-      "Hair shaft",
-      "Cortex",
-      "Hair bulb and papilla",
-      "Cuticle"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What color is produced by mixing equal parts of red and yellow?",
-    "options": [
-      "Violet",
-      "Green",
-      "Orange",
-      "Brown"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which nail condition is characterized by a separation of the nail plate from the nail bed?",
-    "options": [
-      "Onychomycosis",
-      "Onycholysis",
-      "Leukonychia",
-      "Paronychia"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a base coat in nail care?",
-    "options": [
-      "To add a glossy finish to the nail",
-      "To protect the nail plate and improve polish adhesion",
-      "To remove old nail polish",
-      "To hydrate the cuticle"
-    ],
-    "correctIndex": 1
   }
 ]

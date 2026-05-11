@@ -1,152 +1,152 @@
 [
   {
-    "question": "What does PPE stand for in the construction industry?",
+    "question": "What is the purpose of a miter saw in carpentry?",
     "options": [
-      "Personal Protective Equipment",
-      "Professional Practice Equipment",
-      "Protective Performance Evaluation",
-      "Personal Practice Evaluation"
+      "To make precise angled cuts in wood",
+      "To mark straight lines on wood",
+      "To measure the dimensions of a piece of wood",
+      "To check the tightness of joints"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which type of saw is best suited for cutting curves in wood?",
+    "question": "Which hand tool is used to remove old finishes from wood?",
     "options": [
-      "Rip saw",
-      "Tenon saw",
-      "Coping saw",
-      "Panel saw"
+      "Router",
+      "Drill",
+      "Scraper",
+      "Sander"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the standard moisture content of timber used for interior joinery?",
+    "question": "What is the purpose of a stud finder in carpentry?",
     "options": [
-      "25-30%",
-      "18-22%",
-      "10-14%",
-      "5-8%"
+      "To locate the position of studs behind a wall",
+      "To mark straight lines on wood",
+      "To check the tightness of joints",
+      "To measure the dimensions of a piece of wood"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the name of the power tool used to shape wood in a circular motion?",
+    "options": [
+      "Drill",
+      "Sander",
+      "Router",
+      "Saw"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which wood joint is commonly used to join two pieces of timber at right angles in frame construction?",
+    "question": "What is the primary function of a drill press in carpentry?",
     "options": [
-      "Dovetail joint",
-      "Butt joint",
-      "Mortise and tenon joint",
-      "Finger joint"
+      "To drive screws into wood",
+      "To smooth and finish wood surfaces",
+      "To drill precise and accurate holes in wood",
+      "To cut wood to a precise length"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What tool is used to measure and mark a 90-degree angle on timber?",
+    "question": "Which type of wood is known for being light in color and having a fine grain?",
     "options": [
-      "Bevel gauge",
-      "Try square",
-      "Spirit level",
-      "Marking gauge"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a marking gauge in carpentry?",
-    "options": [
-      "To measure angles",
-      "To mark parallel lines along the grain of wood",
-      "To check surfaces for levelness",
-      "To measure the depth of a mortise"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a hardwood?",
-    "options": [
-      "Pine",
-      "Spruce",
+      "Cherry",
       "Oak",
-      "Cedar"
+      "Maple",
+      "Pine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a clamping system in carpentry?",
+    "options": [
+      "To measure the dimensions of a piece of wood",
+      "To mark straight lines on wood",
+      "To hold pieces of wood in place while gluing or joining",
+      "To check the tightness of joints"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of nail is commonly used for fixing floorboards?",
+    "question": "Which type of wood is known for being resistant to warping and shrinkage due to its high density?",
     "options": [
-      "Round wire nail",
-      "Oval wire nail",
-      "Clout nail",
-      "Lost head nail"
+      "Maple",
+      "Cherry",
+      "Oak",
+      "Pine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a drill in carpentry?",
+    "options": [
+      "To drive screws into wood",
+      "To cut wood to a precise length",
+      "To drill holes in wood",
+      "To smooth and finish wood surfaces"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of joint is used to connect two pieces of wood at a 90-degree angle with a mortise-and-tenon fit?",
+    "options": [
+      "Mortise and tenon joint",
+      "Dovetail joint",
+      "Lap joint",
+      "Dado joint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which type of wood is known for being dense and resistant to decay?",
+    "options": [
+      "Cherry",
+      "Maple",
+      "Oak",
+      "Pine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a hand saw in carpentry?",
+    "options": [
+      "Measures the dimensions of a piece of wood",
+      "Tightens screws in wood",
+      "Drills holes in wood",
+      "Cuts wood to a precise length"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What does the term 'seasoning' mean when applied to timber?",
+    "question": "Which type of wood is known for being lightweight and resistant to decay?",
     "options": [
-      "Treating timber with chemicals",
-      "Removing moisture from timber",
-      "Cutting timber to size",
-      "Painting timber with preservative"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which adhesive is most suitable for exterior joinery work?",
-    "options": [
-      "PVA adhesive",
-      "Urea formaldehyde adhesive",
-      "Animal hide glue",
-      "Waterproof resorcinol adhesive"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the function of a spirit level?",
-    "options": [
-      "To measure timber thickness",
-      "To check that a surface is horizontal or vertical",
-      "To mark cutting lines on timber",
-      "To measure angles greater than 90 degrees"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of screw head requires a cross-shaped screwdriver?",
-    "options": [
-      "Slotted screw",
-      "Phillips screw",
-      "Hex screw",
-      "Coach screw"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main purpose of a plumb bob in carpentry?",
-    "options": [
-      "To measure horizontal distances",
-      "To establish a true vertical line",
-      "To check the flatness of a surface",
-      "To mark parallel lines on timber"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a softwood timber?",
-    "options": [
-      "Mahogany",
-      "Teak",
       "Pine",
-      "Beech"
+      "Maple",
+      "Cherry",
+      "Oak"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What type of plane is used to smooth and flatten large flat surfaces of timber?",
+    "question": "What is the term for the process of removing old finishes from wood before applying a new one?",
     "options": [
-      "Block plane",
-      "Shoulder plane",
-      "Jack plane",
-      "Rebate plane"
+      "Stripping",
+      "Staining",
+      "Painting",
+      "Sanding"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the term for the process of applying a finish to a door or window frame?",
+    "options": [
+      "Finishing",
+      "Stripping",
+      "Painting",
+      "Sanding"
+    ],
+    "correctIndex": 0
   }
 ]

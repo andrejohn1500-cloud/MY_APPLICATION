@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which soil pH range is considered optimal for most field crops and why is it significant for nutrient availability?",
+    "question": "Which of the following agricultural tools is used for tilling and preparing the soil for planting?",
     "options": [
-      "4.0\u20135.0, because acidic conditions release phosphorus",
-      "6.0\u20137.0, because most macro and micronutrients are maximally available",
-      "7.5\u20138.5, because alkaline conditions promote nitrogen fixation",
-      "5.0\u20135.5, because aluminum toxicity is minimized"
+      "Rake",
+      "Tractor",
+      "Harrows",
+      "Cultivator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of vaccinations in livestock care?",
+    "options": [
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To increase the risk of disease transmission by exposing animals to pathogens",
+      "To prevent the spread of disease and protect animal health",
+      "To minimize labor costs by reducing disease monitoring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of crop monitoring in agricultural production?",
+    "options": [
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To reduce crop yields by introducing new pests and diseases",
+      "To identify potential issues, optimize crop management, and improve yields",
+      "To minimize labor costs by reducing crop maintenance"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a key consideration in livestock nutrition?",
+    "options": [
+      "Providing a varied diet to promote digestive health",
+      "Providing a balanced diet that meets the animal's nutritional needs",
+      "Providing a high-protein diet to promote muscle growth",
+      "Providing a low-cost diet to minimize feed costs"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In integrated pest management (IPM), what is the primary purpose of establishing an Economic Threshold (ET)?",
+    "question": "Which of the following agricultural tools is used for harvesting crops?",
     "options": [
-      "To determine the maximum pesticide dosage allowed per hectare",
-      "To identify the pest population level at which control action must be taken to prevent economic loss",
-      "To calculate the cost of biological control agents",
-      "To measure the toxicity of chemical pesticides to beneficial insects"
+      "Tractor",
+      "Hay baler",
+      "Thresher",
+      "Combine harvester"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a key consideration in agricultural labor management?",
+    "options": [
+      "Ensuring fair labor practices, promoting worker safety, and optimizing labor efficiency",
+      "Reducing crop yields by introducing new pests and diseases",
+      "Increasing labor costs by hiring more workers",
+      "Improving the farm's aesthetic value by planting more flowers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of using a silo in agriculture?",
+    "options": [
+      "To increase soil fertility only",
+      "To store grains and other farm products safely and efficiently",
+      "To reduce soil aeration only",
+      "To increase soil salinity only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following best describes the process of vernalization in crop production?",
+    "question": "Which pest management strategy is considered a holistic approach to controlling pests in agricultural production?",
     "options": [
-      "The application of green manure to improve soil organic matter",
-      "The exposure of seeds or plants to low temperatures to stimulate flowering",
-      "The process of grafting scion onto a compatible rootstock",
-      "The inoculation of legume seeds with Rhizobium bacteria"
+      "Chemical control using a broad-spectrum pesticide",
+      "Integrated Pest Management (IPM)",
+      "Biological control using a single species",
+      "Crop rotation as a standalone method"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A farmer notices chlorosis in young leaves while older leaves remain green. Which nutrient deficiency is most likely responsible?",
+    "question": "What is the purpose of farm financial management in agricultural production?",
     "options": [
-      "Nitrogen, because it is immobile in the plant",
-      "Iron, because it is immobile and not redistributed from old to young leaves",
-      "Magnesium, because it is highly mobile and stays in old leaves",
-      "Potassium, because it accumulates in the roots"
+      "To minimize labor costs by reducing crop maintenance",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To reduce crop yields by implementing more complex systems",
+      "To optimize financial performance, minimize risks, and promote sustainability"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the primary advantage of the System of Rice Intensification (SRI) over conventional paddy cultivation?",
+    "question": "Which of the following is a key consideration in agricultural waste management?",
     "options": [
-      "It requires permanent flooding to maximize yield",
-      "It uses fewer seeds, reduced water, and promotes root development through intermittent irrigation",
-      "It relies exclusively on chemical fertilizers for high yields",
-      "It eliminates the need for transplanting by using direct seeding"
+      "Reducing waste, promoting recycling, and minimizing environmental impact",
+      "Reducing crop yields by introducing new pests and diseases",
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Increasing waste to promote crop growth"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which soil conservation technique involves planting crops across the slope perpendicular to the direction of water flow?",
+    "question": "Which of the following is a key consideration in agricultural water management?",
     "options": [
-      "Strip cropping parallel to slope",
-      "Contour farming",
-      "Windbreak establishment",
-      "Deep tillage"
+      "Increasing water usage to promote crop growth",
+      "Reducing crop yields by implementing water-saving measures",
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Conserving water, reducing waste, and promoting efficient use"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In livestock production, what does the term 'feed conversion ratio' (FCR) measure?",
+    "question": "Which of the following is a characteristic of a well-designed irrigation system?",
     "options": [
-      "The percentage of feed energy converted to heat",
-      "The amount of feed required to produce one unit of animal body weight gain",
-      "The ratio of protein to carbohydrate in animal feed",
-      "The digestibility coefficient of roughage in ruminant diets"
+      "Increasing water usage to promote crop growth",
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Efficient use of water, minimal waste, and optimal crop water use",
+      "Reducing crop yields by implementing water-saving measures"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "Which physiological process is directly inhibited when a plant experiences water stress, leading to stomatal closure?",
+    "question": "What is the purpose of agricultural research in agricultural production?",
     "options": [
-      "Glycolysis in the mitochondria",
-      "Photosynthesis due to reduced CO2 entry and turgor loss",
-      "Protein synthesis in the ribosomes",
-      "Nitrogen fixation in root nodules"
+      "To reduce crop yields by introducing new pests and diseases",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To minimize labor costs by reducing crop maintenance",
+      "To improve crop yields, disease resistance, and adaptability to local conditions"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A grower wants to propagate a true-to-type mango variety with disease-resistant roots. Which propagation method is most appropriate?",
+    "question": "Which of the following is a characteristic of a well-managed farm?",
     "options": [
-      "Seed propagation to maintain genetic diversity",
-      "Budding or grafting onto a compatible disease-resistant rootstock",
-      "Air layering without a rootstock",
-      "Tissue culture using only shoot tip explants"
+      "Conserves natural resources",
+      "Promotes monoculture only",
+      "Increases soil erosion only",
+      "Uses excessive chemical inputs only"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the primary function of auxins (IAA) in plant growth regulation?",
+    "question": "What is the purpose of crop breeding in agricultural production?",
     "options": [
-      "Promote seed dormancy and inhibit cell elongation",
-      "Promote cell elongation, root initiation, and apical dominance",
-      "Stimulate chlorophyll synthesis and delay senescence",
-      "Regulate stomatal opening by controlling guard cell turgor"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In crop rotation planning, which sequence best demonstrates sound agronomic and pest management principles?",
-    "options": [
-      "Maize \u2192 Maize \u2192 Maize \u2192 Soybean (monoculture then legume)",
-      "Maize \u2192 Soybean \u2192 Sorghum \u2192 Cowpea (alternating cereals and legumes)",
-      "Tomato \u2192 Pepper \u2192 Potato \u2192 Eggplant (all solanaceous crops)",
-      "Sugarcane \u2192 Sugarcane \u2192 Rice \u2192 Sugarcane (repeat dominant crop)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of irrigation system is most efficient in minimizing water loss through evaporation and runoff in semi-arid agricultural production?",
-    "options": [
-      "Flood irrigation",
-      "Drip (trickle) irrigation",
-      "Furrow irrigation",
-      "Overhead sprinkler irrigation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In poultry production, which vitamin deficiency causes rickets in chicks, characterized by soft and deformed bones?",
-    "options": [
-      "Vitamin A deficiency causing night blindness",
-      "Vitamin D3 deficiency impairing calcium and phosphorus metabolism",
-      "Vitamin E deficiency causing muscular dystrophy",
-      "Vitamin K deficiency causing blood clotting disorders"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What does the term 'photoperiodism' refer to in agricultural crop production?",
-    "options": [
-      "The rate of photosynthesis in response to light intensity",
-      "The response of a plant to the relative length of day and night, influencing flowering",
-      "The process by which plants store light energy in ATP molecules",
-      "The measurement of solar radiation for greenhouse design"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which component of a farm business plan quantifies projected income, costs, and profitability over a specified period to assess financial viability?",
-    "options": [
-      "The marketing strategy section",
-      "The enterprise budget and cash flow projection",
-      "The organizational chart of farm management",
-      "The soil and land suitability analysis"
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To improve crop yields, disease resistance, and adaptability to local conditions",
+      "To minimize labor costs by reducing crop maintenance",
+      "To reduce crop yields by introducing new pests and diseases"
     ],
     "correctIndex": 1
   }

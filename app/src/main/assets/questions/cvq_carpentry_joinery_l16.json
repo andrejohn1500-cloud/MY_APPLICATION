@@ -1,152 +1,152 @@
 [
   {
-    "question": "When calculating the pitch of a roof, which formula correctly expresses the relationship between rise, run, and pitch?",
+    "question": "Which type of finish is applied to a workpiece using a process that involves applying a single thick coat?",
     "options": [
-      "Pitch = Rise / Span",
-      "Pitch = Run / Rise",
-      "Pitch = Span / Rise",
-      "Pitch = Rise \u00d7 Run"
+      "Lacquer",
+      "Wax",
+      "Polyurethane",
+      "Varnish"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "In setting out a staircase, the Building Regulations generally require that twice the riser plus the going (2R + G) should fall within which range?",
+    "question": "What is the primary characteristic of hardwoods in terms of moisture content?",
     "options": [
-      "550mm to 700mm",
-      "450mm to 550mm",
-      "700mm to 800mm",
-      "400mm to 500mm"
+      "Improved workability",
+      "Increased density",
+      "Lower moisture content",
+      "Higher moisture content"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "Which type of woodworking joint is most appropriate for connecting the top rail to the stile of a traditional panelled door where maximum mechanical strength without glue is required?",
+    "question": "Which type of joint is commonly used in cabinet making and furniture construction?",
     "options": [
-      "Mortise and tenon joint with wedges",
-      "Bridle joint",
-      "Finger joint",
-      "Dowel joint"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A carpenter needs to calculate the number of risers in a staircase where the total floor-to-floor height is 2700mm and each riser is 175mm. How many risers are required?",
-    "options": [
-      "16 risers",
-      "15 risers",
-      "14 risers",
-      "17 risers"
+      "Mortise and Tenon Joint",
+      "Dovetail Joint",
+      "Dado Joint",
+      "Butt Joint"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which method of timber seasoning results in the least amount of degrade and produces timber with the most stable moisture content?",
+    "question": "What is the primary function of a safety ladder in carpentry?",
     "options": [
-      "Kiln drying",
-      "Air drying",
-      "Water seasoning",
-      "Green timber use"
+      "To provide safe access and egress for workers",
+      "To increase productivity",
+      "To enhance comfort",
+      "To improve visibility"
     ],
     "correctIndex": 0
   },
   {
-    "question": "When constructing a traditional cut roof, the 'hip rafter' length is calculated using which geometric principle?",
+    "question": "Which power tool is used to drill precise holes in a workpiece?",
     "options": [
-      "The three-dimensional diagonal using plan length and total rise via Pythagoras in two stages",
-      "Simple plan length multiplied by the common rafter factor",
-      "The plan length divided by the cosine of the pitch angle",
-      "The span multiplied by the secant of the roof pitch"
+      "Router",
+      "Drill Press",
+      "Jigsaw",
+      "Impact Driver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary characteristic of softwoods in terms of moisture content?",
+    "options": [
+      "Higher moisture content",
+      "Improved durability",
+      "Lower density",
+      "Increased workability"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the context of building regulations for fire doors, which minimum fire resistance period is required for a fire door separating a dwelling house from an integral garage?",
+    "question": "What is the purpose of a 'ventilation system' when working with power tools in an enclosed space?",
     "options": [
-      "FD30S",
-      "FD60",
-      "FD20",
-      "FD90"
+      "To improve hand grip and dexterity",
+      "To remove dust and debris from the air",
+      "To provide a source of compressed air",
+      "To enhance visibility in low light conditions"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the primary purpose of a 'setting out rod' in joinery production?",
+    "question": "Which type of joint is commonly used in case making and drawer construction?",
     "options": [
-      "To provide a full-size drawing from which all dimensions and components can be directly marked and verified",
-      "To calculate timber quantities for ordering",
-      "To determine the moisture content of prepared timber",
-      "To record the sequence of machining operations"
+      "Mortise and Tenon Joint",
+      "Dovetail Joint",
+      "Butt Joint",
+      "Dado Joint"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "When using a sliding bevel to mark dovetail joints in hardwood, the most commonly used ratio for the angle of the dovetail pin is?",
+    "question": "What is the primary purpose of a door frame in a building?",
     "options": [
-      "1:8",
-      "1:6",
-      "1:4",
-      "1:10"
+      "To increase security",
+      "To improve insulation",
+      "To enhance aesthetics",
+      "To provide support and structure for the door"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which standard governs the grading of structural softwood timber used in the UK and Caribbean construction industry under machine stress grading?",
+    "question": "What is the primary function of a safety harness in carpentry?",
     "options": [
-      "BS EN 14081",
-      "BS EN 338",
-      "BS 4978",
-      "BS EN 1995"
+      "To improve visibility",
+      "To prevent falls from heights",
+      "To enhance comfort",
+      "To increase productivity"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A carpenter is forming a geometrical handrail that changes direction around a quarter-turn landing. Which method is used to develop the wreathed portion of the handrail?",
+    "question": "Which type of finish is applied to a workpiece using a chemical process that hardens the surface?",
     "options": [
-      "Ordinates method using a developed face mould and bevel",
-      "Simple laminating over a straight former",
-      "Kerf bending to the required curvature",
-      "Steam bending green timber to shape"
+      "Polyurethane",
+      "Wax",
+      "Varnish",
+      "Lacquer"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "When installing a prefabricated timber roof truss, what is the maximum recommended lateral restraint strap spacing along the wall plate to resist wind uplift under BS 8103?",
+    "question": "What is the primary function of the fence on a table saw?",
     "options": [
-      "2.0m",
-      "1.5m",
-      "2.5m",
-      "1.0m"
+      "To increase cutting speed",
+      "To enhance visibility",
+      "To improve dust collection",
+      "To guide the workpiece and ensure accuracy"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "Which type of adhesive is classified as Type I (fully waterproof) under BS EN 204 and is most suitable for external joinery exposed to weather?",
+    "question": "What is the primary purpose of a blueprint in construction?",
     "options": [
-      "Resorcinol formaldehyde (RF) adhesive",
-      "PVA (polyvinyl acetate) adhesive",
-      "Urea formaldehyde adhesive",
-      "Hot melt adhesive"
+      "To track progress and timelines",
+      "To provide estimates and quotes",
+      "To schedule and plan a project",
+      "To provide detailed drawings and specifications for a project"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "In door hanging, when fitting a heavy hardwood door, which consideration determines the minimum number and size of hinges required?",
+    "question": "Which type of power tool is used to shape and smooth a workpiece?",
     "options": [
-      "Door mass, height, and the hinge manufacturer's load rating table",
-      "Door width and species only",
-      "The number of lock keep plates installed",
-      "The thickness of the door frame rebate"
+      "Impact Driver",
+      "Router",
+      "Drill Press",
+      "Sander"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "When setting out a bay window with a 45-degree return on each side, a carpenter must cut the window board at the internal angles. What compound angle consideration applies to the scribing of the internal mitre?",
+    "question": "What is the primary purpose of a safety hard hat in carpentry?",
     "options": [
-      "The mitre must account for both the plan angle and the horizontal slope of the window board surface simultaneously",
-      "A simple 45-degree cut on the face is sufficient regardless of board thickness",
-      "The angle is always bisected perpendicular to the wall face",
-      "A straight butt joint reinforced with a loose tongue is the standard method"
+      "To enhance comfort",
+      "To improve visibility",
+      "To increase productivity",
+      "To protect the head from impact and falling objects"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

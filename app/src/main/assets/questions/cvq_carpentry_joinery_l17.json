@@ -1,152 +1,152 @@
 [
   {
-    "question": "When setting out a complex roof with an irregular plan, which geometric principle is used to determine the true length of a hip rafter?",
+    "question": "What is the primary characteristic of hardwoods in terms of durability?",
     "options": [
-      "Pythagorean theorem applied to the plan length and total rise",
-      "Simple trigonometric sine rule applied to the pitch angle",
-      "The roof pitch multiplied by the span divided by two",
-      "The diagonal of the building plan multiplied by the common rafter factor"
+      "Difficulty in working with",
+      "Increased flexibility",
+      "Higher moisture content",
+      "Improved durability"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "In advanced joinery, a 'diminished stile' is most commonly associated with which type of door construction?",
+    "question": "Which type of roofing material is known for its durability and resistance to weathering?",
     "options": [
-      "Ledged and braced doors",
-      "Six-panel Georgian doors with a bottom rail wider than the top rail",
-      "Flush doors with hardboard facing",
-      "Matchboarded doors with tongue and groove boards"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When calculating the roof covering for a hipped roof, which factor must be applied to the plan area to obtain the true surface area?",
-    "options": [
-      "Cosine of the pitch angle",
-      "Secant of the pitch angle",
-      "Tangent of the pitch angle",
-      "Sine of the pitch angle"
+      "Metal Roofing",
+      "Cedar Shingles",
+      "Clay Tiles",
+      "Asphalt Shingles"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which type of mortise and tenon joint is specifically used when joining a rail to a muntin where full depth cannot be achieved on both sides?",
+    "question": "Which type of joint is commonly used in roof construction?",
     "options": [
-      "Stub tenon",
-      "Franked mortise and tenon",
-      "Twin tenon",
-      "Bare-faced tenon"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In staircase construction, the Building Regulations requirement for the relationship between rise and going is best expressed as which formula?",
-    "options": [
-      "2R + G = 550\u2013700 mm",
-      "R + G = 400\u2013450 mm",
-      "R \u00d7 G = 40,000\u201345,000 mm\u00b2",
-      "2R + G = 400\u2013450 mm"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "When using a vernier bevel protractor to set out a compound mitre cut, what two angles must be calculated?",
-    "options": [
-      "The face mitre angle and the bevel (spring) angle",
-      "The pitch angle and the plan angle only",
-      "The rake angle and the elevation angle",
-      "The skew angle and the declination angle"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which grading classification system applies to structural softwood timber used in load-bearing applications in the Caribbean and is referenced in CVQ Carpentry?",
-    "options": [
-      "BS 4978 visual stress grading",
-      "ASTM D245 machine grading",
-      "CARICOM Standard CRS 14",
-      "ISO 3129 timber sampling"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A splayed and wedged through tenon is primarily specified because it provides which structural advantage?",
-    "options": [
-      "It allows for seasonal movement without joint failure",
-      "It creates a mechanical lock that tightens under load and prevents withdrawal",
-      "It increases the gluing surface area by 50%",
-      "It eliminates the need for draw-boring"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "When setting out winding stairs (stairs with tapered treads), the 'pitch line' method requires that the going of each winder is measured at which specific position?",
-    "options": [
-      "At the widest point of the tread",
-      "At a point 270 mm from the centre newel post",
-      "Along the centre line of the staircase flight",
-      "At the quarter point of the tread width"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In advanced roof carpentry, the 'edge bevel' of a jack rafter is derived from which relationship?",
-    "options": [
-      "The tangent of the roof pitch",
-      "The sine of the plan angle between the jack rafter and the hip",
-      "The plan length of the hip rafter divided by the common rafter length",
-      "The tangent of the hip backing angle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which defect in hardwood timber is characterised by fibres that spiral around the longitudinal axis of the tree, causing severe distortion when sawn?",
-    "options": [
-      "Reaction wood",
-      "Interlocked grain",
-      "Spiral grain",
-      "Waney edge"
+      "Butt Joint",
+      "Dovetail Joint",
+      "Dado Joint",
+      "Mortise and Tenon Joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "When constructing a geometrical (open-string) staircase, the wreathed handrail section requires a development called a 'falling line'. What is the primary purpose of this development?",
+    "question": "Which type of joint is commonly used in door and window construction?",
     "options": [
-      "To determine the total length of timber required for the handrail",
-      "To establish the true shape of the face mould used to mark out the wreath",
-      "To calculate the number of balusters needed per winder",
-      "To set out the position of the newel posts"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following adhesives is most appropriate for exterior structural laminated timber (glulam) components in a high-humidity tropical environment?",
-    "options": [
-      "Polyvinyl acetate (PVA) \u2013 Type D2",
-      "Urea formaldehyde (UF) resin",
-      "Resorcinol formaldehyde (RF) or melamine-urea formaldehyde (MUF) resin",
-      "Epoxy resin only when combined with mechanical fasteners"
+      "Butt Joint",
+      "Dovetail Joint",
+      "Mortise and Tenon Joint",
+      "Dado Joint"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the context of advanced setting out, a 'rod' (or story rod) for a window frame must contain which minimum set of information?",
+    "question": "Which type of joint is commonly used in frame construction?",
     "options": [
-      "Height, width, sill profile, and paint specification",
-      "Vertical and horizontal datums, rebate positions, member sections, and joint locations",
-      "Material species, timber grade, and moisture content only",
-      "Opening size, glass thickness, and ironmongery positions only"
+      "Dovetail Joint",
+      "Mortise and Tenon Joint",
+      "Butt Joint",
+      "Dado Joint"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of power tool is used to drill precise holes in a workpiece at an angle?",
+    "options": [
+      "Drill Press",
+      "Router",
+      "Impact Driver",
+      "Miter Saw"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary characteristic of softwoods in terms of workability?",
+    "options": [
+      "Increased flexibility",
+      "Ease of working with",
+      "Difficulty in working with",
+      "Improved durability"
     ],
     "correctIndex": 1
   },
   {
-    "question": "When calculating the backing bevel for a hip rafter, the angle is found using which trigonometric relationship where '\u03b8' is the roof pitch and '\u03b1' is the hip plan angle?",
+    "question": "Which hand tool is used to remove small amounts of material from a workpiece while maintaining control and precision?",
     "options": [
-      "tan(backing bevel) = sin(\u03b1) \u00d7 tan(\u03b8)",
-      "tan(backing bevel) = cos(\u03b1) \u00d7 tan(\u03b8)",
-      "tan(backing bevel) = tan(\u03b1) / sin(\u03b8)",
-      "tan(backing bevel) = cos(\u03b8) / sin(\u03b1)"
+      "Bench Vice",
+      "Chisel Set",
+      "Marking Gauge",
+      "Mallet"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary characteristic of hardwoods in terms of workability?",
+    "options": [
+      "Difficulty in working with",
+      "Ease of working with",
+      "Increased flexibility",
+      "Improved durability"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Which type of finish is applied to a workpiece using a process that involves applying a water-based coating?",
+    "options": [
+      "Varnish",
+      "Wax",
+      "Polyurethane",
+      "Lacquer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What type of joint is commonly used in mortise and tenon joints?",
+    "options": [
+      "Dovetail Joint",
+      "Dado Joint",
+      "Mortise and Tenon Joint",
+      "Butt Joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of finish is applied to a workpiece using a process that involves applying a wax or oil-based coating?",
+    "options": [
+      "Polyurethane",
+      "Lacquer",
+      "Varnish",
+      "Wax"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which type of hand tool is used to remove old finish and prepare a surface for new finish?",
+    "options": [
+      "Bench Vice",
+      "Marking Gauge",
+      "Sandpaper",
+      "Chisel Set"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary characteristic of softwoods in terms of density?",
+    "options": [
+      "Increased workability",
+      "Higher density",
+      "Lower density",
+      "Improved durability"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a safety net in carpentry?",
+    "options": [
+      "To improve visibility",
+      "To prevent falls and injuries",
+      "To enhance comfort",
+      "To increase productivity"
+    ],
+    "correctIndex": 1
   }
 ]

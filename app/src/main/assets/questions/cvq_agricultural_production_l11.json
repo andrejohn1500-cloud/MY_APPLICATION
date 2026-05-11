@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which soil pH range is considered optimal for most tropical food crops to maximize nutrient availability?",
+    "question": "What is the purpose of using green manure in soil?",
     "options": [
-      "4.0 - 5.0",
-      "5.5 - 6.5",
-      "7.0 - 8.0",
-      "8.5 - 9.5"
+      "To improve soil fertility and structure",
+      "To reduce soil aeration only",
+      "To increase soil acidity only",
+      "To increase soil salinity only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-designed farm layout for livestock production?",
+    "options": [
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Efficient use of space, minimal waste, and easy access to resources",
+      "Maximizing crop yields by planting multiple crops at the same time",
+      "Reducing labor costs by minimizing crop maintenance"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In integrated pest management (IPM), which approach represents the FIRST line of defense before chemical control is considered?",
+    "question": "What is the main advantage of using cover crops in agricultural production?",
     "options": [
-      "Biological control using natural predators",
-      "Cultural practices such as crop rotation and sanitation",
-      "Chemical pesticide application at threshold levels",
-      "Mechanical trapping of pest insects"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A farmer observes yellowing of older leaves starting from the leaf margins while younger leaves remain green. This symptom is MOST likely associated with a deficiency of which nutrient?",
-    "options": [
-      "Iron (Fe)",
-      "Calcium (Ca)",
-      "Potassium (K)",
-      "Manganese (Mn)"
+      "To increase crop yields by providing a nutrient-rich soil amendment",
+      "To reduce the risk of pests and diseases by disrupting their life cycle",
+      "To reduce soil erosion and improve soil health",
+      "To improve the farm's biodiversity by attracting beneficial insects"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary purpose of roguing in crop production?",
+    "question": "Which of the following is a sustainable agricultural practice that promotes soil conservation and water management?",
     "options": [
-      "Removing weeds that compete with the main crop",
-      "Removing diseased, off-type, or inferior plants from a crop stand",
-      "Thinning overcrowded seedlings to improve spacing",
-      "Removing lateral shoots to improve fruit size"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which type of plant propagation technique involves joining the vascular tissue of two different plants so they grow as one?",
-    "options": [
-      "Layering",
-      "Budding and grafting",
-      "Tissue culture micropropagation",
-      "Stem cutting with rooting hormone"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The cation exchange capacity (CEC) of a soil is BEST described as the soil's ability to:",
-    "options": [
-      "Allow water to move through its profile by gravity",
-      "Hold and supply positively charged nutrient ions to plants",
-      "Resist changes in pH when acids or bases are added",
-      "Convert organic matter into inorganic mineral nutrients"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which method of irrigation is considered MOST efficient in terms of water use for row crops in semi-arid regions?",
-    "options": [
-      "Flood irrigation",
-      "Furrow irrigation",
-      "Drip (trickle) irrigation",
-      "Overhead sprinkler irrigation"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A soil sample analysis reveals a nitrogen content of 40 kg/ha and a crop requirement of 120 kg/ha. If urea (46% N) is the chosen fertilizer, approximately how many kg/ha of urea must be applied?",
-    "options": [
-      "87 kg/ha",
-      "174 kg/ha",
-      "260 kg/ha",
-      "348 kg/ha"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following pest control chemicals is classified as a systemic insecticide?",
-    "options": [
-      "Malathion",
-      "Imidacloprid",
-      "Pyrethrin",
-      "Copper oxychloride"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In livestock production, the term 'flushing' refers to:",
-    "options": [
-      "Removing internal parasites using anthelmintics before mating",
-      "Increasing the plane of nutrition of females before breeding to improve ovulation rate",
-      "Introducing a new male into a herd to stimulate estrus",
-      "Providing supplemental vitamins to breeding animals post-partum"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which crop rotation sequence would BEST help reduce soil-borne nematode populations while maintaining soil fertility?",
-    "options": [
-      "Tomato \u2192 Pepper \u2192 Eggplant \u2192 Tomato",
-      "Maize \u2192 Soybean \u2192 Marigold \u2192 Groundnut",
-      "Lettuce \u2192 Cabbage \u2192 Kale \u2192 Broccoli",
-      "Cucumber \u2192 Watermelon \u2192 Pumpkin \u2192 Squash"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term 'photoperiodism' in crop production describes how plants respond to:",
-    "options": [
-      "The intensity of light received during the growing season",
-      "The relative lengths of day and night periods to initiate flowering",
-      "The wavelength of light absorbed by chlorophyll during photosynthesis",
-      "The direction of light used to control stem elongation and bending"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which post-harvest technology method is MOST appropriate for long-term preservation of seed viability in a gene bank?",
-    "options": [
-      "Cold storage at 0\u00b0C with ambient humidity",
-      "Storage at -18\u00b0C with low relative humidity in sealed containers",
-      "Chemical fumigation with methyl bromide",
-      "Controlled atmosphere storage with elevated CO2 levels"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a livestock enterprise, what does the term 'feed conversion ratio (FCR)' measure?",
-    "options": [
-      "The percentage of digestible nutrients in a given feedstuff",
-      "The amount of feed required to produce one unit of body weight gain",
-      "The ratio of protein to energy in a balanced livestock ration",
-      "The metabolic efficiency of converting glucose to ATP in ruminants"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which soil conservation practice involves planting crops in alternating strips across a slope to reduce water erosion?",
-    "options": [
+      "Mulching as a standalone method",
       "Contour farming",
-      "Strip cropping",
-      "Terracing",
-      "Windbreak establishment"
+      "Terracing as a standalone method",
+      "Crop rotation as a standalone method"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "What is the primary purpose of farm planning in agricultural production?",
+    "options": [
+      "To minimize labor costs by reducing crop maintenance",
+      "To reduce crop yields by implementing more complex systems",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To identify goals, optimize resources, and promote sustainability"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a benefit of using integrated pest management (IPM) in agriculture?",
+    "options": [
+      "Reduces the use of chemical pesticides",
+      "Increases water usage only",
+      "Reduces soil fertility only",
+      "Increases crop yields only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main advantage of using precision agriculture in crop management?",
+    "options": [
+      "Improving the farm's biodiversity by attracting beneficial insects",
+      "Increasing labor costs by implementing more complex systems",
+      "Improving accuracy and efficiency in crop management, reducing waste and increasing yields",
+      "Reducing crop yields by introducing new technology"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a key consideration in agricultural policy development?",
+    "options": [
+      "Reducing labor costs by minimizing crop maintenance",
+      "Increasing crop yields by implementing more complex systems",
+      "Promoting sustainability, improving food security, and supporting rural development",
+      "Improving the farm's aesthetic value by planting more flowers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-designed farm layout?",
+    "options": [
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Reducing labor costs by minimizing crop maintenance",
+      "Efficient use of space, minimal waste, and easy access to resources",
+      "Maximizing crop yields by planting multiple crops at the same time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of pruning in crop management?",
+    "options": [
+      "To promote healthy growth, increase yields, and improve fruit quality",
+      "To minimize labor costs by reducing maintenance",
+      "To increase the risk of pests and diseases by creating wounds",
+      "To reduce crop yields and promote disease susceptibility"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-managed farm ecosystem?",
+    "options": [
+      "Improving the farm's aesthetic value by planting more flowers",
+      "Maximizing crop yields by planting multiple crops at the same time",
+      "Reducing labor costs by minimizing crop maintenance",
+      "Diversity, resilience, and minimal environmental impact"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary function of liming in soil preparation for agricultural production in the Caribbean?",
+    "options": [
+      "To increase the water-holding capacity of the soil",
+      "To reduce the risk of soil erosion",
+      "To neutralize acidity in the soil and maintain a pH between 6.0 and 7.0",
+      "To improve the soil's fertility by adding nutrients"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary purpose of farm extension services in agricultural production?",
+    "options": [
+      "To provide education, training, and technical support to farmers",
+      "To minimize labor costs by reducing crop maintenance",
+      "To reduce crop yields by implementing more complex systems",
+      "To improve the farm's biodiversity by attracting beneficial insects"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a well-prepared seedbed for planting crops?",
+    "options": [
+      "A surface with standing water",
+      "A surface with weeds and debris",
+      "A surface with high soil compaction",
+      "A smooth, even surface with minimal soil disturbance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the primary purpose of animal nutrition in livestock care?",
+    "options": [
+      "To minimize labor costs by reducing disease monitoring",
+      "To improve the farm's biodiversity by attracting beneficial insects",
+      "To increase the risk of disease transmission by exposing animals to pathogens",
+      "To provide a balanced diet that meets the animal's nutritional needs"
+    ],
+    "correctIndex": 3
   }
 ]

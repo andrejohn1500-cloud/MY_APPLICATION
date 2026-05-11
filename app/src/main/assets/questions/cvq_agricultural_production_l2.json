@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is the correct definition of agriculture?",
+    "question": "Which of the following is a type of agricultural tool?",
     "options": [
-      "The science and art of cultivating plants and rearing animals for human use",
-      "The process of mining minerals from the earth",
-      "The study of weather patterns",
-      "The manufacturing of industrial goods"
+      "Rake only",
+      "Plow only",
+      "Hoe",
+      "Sickle only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of personal protective equipment?",
+    "options": [
+      "Gloves",
+      "Hearing protection only",
+      "Steel-toed boots only",
+      "Safety glasses only"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary purpose of crop rotation?",
+    "question": "Which of the following is a type of soil classification?",
     "options": [
-      "To increase soil erosion",
-      "To maintain soil fertility and reduce pest buildup",
-      "To decrease crop yield",
-      "To remove all nutrients from the soil"
+      "Soil texture classification",
+      "Soil conservation planning",
+      "Crop rotation system",
+      "Irrigation system design"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which type of soil has the best water retention and drainage balance for most crops?",
+    "question": "What is the importance of using agricultural tools and equipment?",
     "options": [
-      "Clay",
-      "Sandy",
-      "Loam",
-      "Silt"
+      "To improve efficiency and reduce labor costs",
+      "To decrease visibility only",
+      "To increase noise only",
+      "To reduce comfort only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main cause of water pollution in agriculture?",
+    "options": [
+      "Excess fertilizer and pesticide use",
+      "Erosion only",
+      "Sedimentation only",
+      "Bacterial contamination only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the most common method of planting rice in the Caribbean?",
+    "options": [
+      "Direct seeding",
+      "Broadcasting",
+      "Drilling",
+      "Transplanting"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the importance of monitoring weather conditions in sustainable agriculture?",
+    "options": [
+      "To determine market prices only",
+      "To predict yield only",
+      "To plan irrigation and pest management strategies",
+      "To schedule harvesting only"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What does pH measure in soil?",
+    "question": "Which of the following is a type of sustainable agriculture tool?",
     "options": [
-      "The amount of nitrogen in the soil",
-      "The acidity or alkalinity of the soil",
-      "The water content of the soil",
-      "The temperature of the soil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a macronutrient essential for plant growth?",
-    "options": [
-      "Iron",
-      "Zinc",
-      "Nitrogen",
-      "Boron"
+      "Irrigation system only",
+      "Fertilizer spreader only",
+      "Compost turner",
+      "Pest control device only"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the process of adding lime to soil used to correct?",
+    "question": "What is the main purpose of soil preparation in agriculture?",
     "options": [
-      "Soil that is too alkaline",
-      "Soil that is too acidic",
-      "Soil that is too wet",
-      "Soil that is too sandy"
+      "To reduce soil erosion only",
+      "To grow crops in water",
+      "To kill pests and diseases only",
+      "To improve soil structure and fertility"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the process of applying fertilizer to the soil called?",
+    "options": [
+      "Fertilization",
+      "Drainage",
+      "Irrigation",
+      "Crop rotation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of business plan component?",
+    "options": [
+      "Management plan only",
+      "Financial plan",
+      "Marketing plan only",
+      "Operations plan only"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following animals is classified as a ruminant?",
+    "question": "Which of the following is a type of livestock feed?",
     "options": [
-      "Pig",
-      "Chicken",
-      "Cattle",
-      "Rabbit"
+      "Water only",
+      "Animal by-products only",
+      "Grains",
+      "Fruits and vegetables only"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the main function of a tractor on a farm?",
+    "question": "What is the main purpose of business planning in agriculture?",
     "options": [
-      "To harvest crops manually",
-      "To provide mechanical power for various farm operations",
-      "To irrigate fields",
-      "To store farm produce"
+      "To decrease water usage only",
+      "To reduce labor costs only",
+      "To increase yield only",
+      "To determine goals, resources, and financial projections"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which pest control method uses natural enemies to control pests?",
+    "question": "Which of the following is a type of sustainable agriculture certification?",
     "options": [
-      "Chemical control",
-      "Mechanical control",
-      "Biological control",
-      "Cultural control"
+      "Organic certification",
+      "Rainforest Alliance certification only",
+      "Non-GMO certification only",
+      "Fair trade certification only"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is composting?",
+    "question": "Which of the following is a type of sustainable agriculture practice in the Caribbean?",
     "options": [
-      "The process of burning farm waste",
-      "The decomposition of organic matter to produce fertilizer",
-      "The removal of weeds from a field",
-      "The irrigation of dry land"
+      "Agroforestry",
+      "Monoculture only",
+      "Integrated pest management only",
+      "Conventional farming only"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a leguminous crop?",
-    "options": [
-      "Maize",
-      "Sugarcane",
-      "Soybean",
-      "Cassava"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the term 'germination' refer to?",
-    "options": [
-      "The growth of roots in mature plants",
-      "The process by which a seed sprouts and begins to grow",
-      "The harvesting of ripe crops",
-      "The process of pollination"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which farming practice involves growing two or more crops on the same piece of land at the same time?",
-    "options": [
-      "Monoculture",
-      "Intercropping",
-      "Crop rotation",
-      "Fallow farming"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of irrigation on a farm?",
-    "options": [
-      "To remove excess water from fields",
-      "To supply water to crops when rainfall is insufficient",
-      "To add fertilizers to the soil",
-      "To control weeds in the field"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a sign of a healthy livestock animal?",
-    "options": [
-      "Dull and sunken eyes",
-      "Rough and patchy coat",
-      "Alert eyes and smooth shiny coat",
-      "Loss of appetite and lethargy"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]
