@@ -36,7 +36,8 @@
             android:textSize="11sp"
             android:textColor="#FFFFFF"
             android:textAllCaps="false"
-            android:background="#252D5C"/>
+            android:background="@drawable/bg_button_accent"
+        android:backgroundTint="@null"/>
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btnTabCountry"
@@ -53,7 +54,8 @@
             android:textSize="11sp"
             android:textColor="#FFFFFF"
             android:textAllCaps="false"
-            android:background="#252D5C"/>
+            android:background="@drawable/bg_button_accent"
+        android:backgroundTint="@null"/>
 
         <TextView
             android:id="@+id/btnTabCategory"
@@ -67,7 +69,8 @@
             android:text="Category"
             android:textSize="11sp"
             android:textColor="#FFFFFF"
-            android:background="#252D5C"
+            android:background="@drawable/bg_button_accent"
+        android:backgroundTint="@null"
             android:padding="8dp"
             android:clickable="true"
             android:focusable="true"/>
@@ -86,7 +89,8 @@
         android:layout_height="52dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="80dp"
-        android:background="#252D5C"
+        android:background="@drawable/bg_button_accent"
+        android:backgroundTint="@null"
         android:text="BACK"
         android:textColor="#FFD700"
         android:textStyle="bold"/>
