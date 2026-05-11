@@ -1,152 +1,152 @@
 [
   {
-    "question": "If 3x - 7 = 2(x + 4), what is the value of x?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have $120, how much will the person with the smallest share get?",
     "options": [
-      "x = 15",
-      "x = 1",
-      "x = -1",
-      "x = 5"
+      "24",
+      "40",
+      "30",
+      "60"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A rectangular prism has a length of 8 cm, width of 5 cm, and height of 3 cm. What is its total surface area?",
+    "question": "A circle with centre (0, 0) and radius 4 units has an arc length of 8\u03c0 units. What is the angle subtended by the arc at the centre of the circle in radians?",
     "options": [
-      "158 cm\u00b2",
-      "120 cm\u00b3",
-      "79 cm\u00b2",
-      "240 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is equivalent to 2\u2075 \u00d7 2\u00b3 \u00f7 2\u2074?",
-    "options": [
-      "2\u2074",
-      "2\u00b2",
-      "2\u2076",
-      "2\u00b9\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A car travels 240 km in 3 hours. At the same speed, how long will it take to travel 400 km?",
-    "options": [
-      "5 hours",
-      "4 hours",
-      "6 hours",
-      "4.5 hours"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The sum of the interior angles of a hexagon is:",
-    "options": [
-      "720\u00b0",
-      "540\u00b0",
-      "900\u00b0",
-      "1080\u00b0"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If the simple interest on $1,500 for 4 years is $300, what is the annual interest rate?",
-    "options": [
-      "5%",
-      "4%",
-      "6%",
-      "8%"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A set of data: 12, 15, 18, 21, 24, 27. What is the mean?",
-    "options": [
-      "19.5",
-      "18",
-      "21",
-      "20"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which expression represents the nth term of the sequence 5, 8, 11, 14, \u2026?",
-    "options": [
-      "3n + 2",
-      "2n + 3",
-      "n + 4",
-      "4n + 1"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A circle has a diameter of 14 cm. What is its area? (Use \u03c0 = 22/7)",
-    "options": [
-      "154 cm\u00b2",
-      "44 cm\u00b2",
-      "308 cm\u00b2",
-      "616 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If 40% of a number is 56, what is 75% of the same number?",
-    "options": [
-      "105",
-      "112",
-      "98",
-      "140"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Solve: 4(2x - 3) - 2(x + 1) = 18. What is the value of x?",
-    "options": [
-      "x = 5",
-      "x = 4",
-      "x = 6",
-      "x = 3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Triangle ABC is similar to triangle DEF. If AB = 6 cm, BC = 9 cm, and DE = 10 cm, what is the length of EF?",
-    "options": [
-      "15 cm",
-      "12 cm",
-      "18 cm",
-      "6.7 cm"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A bag contains 5 red, 3 blue, and 2 green marbles. If one marble is drawn at random, what is the probability that it is NOT red?",
-    "options": [
-      "1/2",
-      "1/5",
-      "3/10",
-      "2/5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of \u221a(144 + 25)?",
-    "options": [
-      "13",
-      "17",
-      "\u221a169",
-      "Both A and C"
+      "\u03c0/4",
+      "\u03c0",
+      "\u03c0/2",
+      "2\u03c0"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A shopkeeper bought goods for $840 and sold them at a 25% profit. What was the selling price?",
+    "question": "Find the area of the triangle with vertices (0, 0), (4, 0), and (0, 3).",
     "options": [
-      "$1,050",
-      "$1,260",
-      "$210",
-      "$960"
+      "6",
+      "4",
+      "9",
+      "12"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "If sin(\u03b8) = 3/5, what is cos(\u03b8)?",
+    "options": [
+      "1/5",
+      "-1",
+      "4/5",
+      "2/5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A right triangle has a hypotenuse of length 10 cm and one leg of length 6 cm. What is the length of the other leg?",
+    "options": [
+      "4",
+      "9",
+      "6",
+      "8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A right pyramid has a square base with side length 4 cm. If the height of the pyramid is 5 cm, what is the volume of the pyramid in cubic centimeters?",
+    "options": [
+      "40",
+      "50",
+      "20",
+      "30"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A line with slope -2 passes through the point (3, 2). What is the equation of the line?",
+    "options": [
+      "y = -2x + 6",
+      "y = -2x + 10",
+      "y = -2x + 8",
+      "y = -2x + 5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A line with slope 1 passes through the point (2, 3). What is the equation of the line?",
+    "options": [
+      "y = x - 1",
+      "y = x + 2",
+      "y = x - 2",
+      "y = x + 1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A bakery sells a loaf of bread for $8. If a 15% discount is applied, how much will you pay?",
+    "options": [
+      "6.8",
+      "6.8",
+      "7",
+      "6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A box of pencils weighs 1.6 kg. If a 25% discount is applied, how much will you pay?",
+    "options": [
+      "1.2",
+      "1.8",
+      "1.6",
+      "1.5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the value of x in the equation: x^2 + 4x - 5 = 0?",
+    "options": [
+      "x = -5",
+      "x = 5",
+      "x = -1",
+      "x = 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A circle has a diameter of 9 cm. What is its circumference?",
+    "options": [
+      "30",
+      "27",
+      "28.27",
+      "24"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from A to B with an average speed of 60 km/h. On the return trip, the average speed is 40 km/h. What is the ratio of the distance from A to B to the distance from B to A?",
+    "options": [
+      "1:2",
+      "2:1",
+      "3:2",
+      "2:3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from A to B with an average speed of 50 km/h. On the return trip, the average speed is 60 km/h. What is the ratio of the distance from A to B to the distance from B to A?",
+    "options": [
+      "3:5",
+      "3:4",
+      "2:3",
+      "5:6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Simplify: (x - 2) / (x + 1) * (3x + 2) / (x - 1)",
+    "options": [
+      "2",
+      "3",
+      "-3",
+      "1"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a vowel?",
+    "question": "Which of the following sentences is in the past tense",
     "options": [
-      "B",
-      "C",
-      "A",
-      "D"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many letters are in the English alphabet?",
-    "options": [
-      "24",
-      "25",
-      "27",
-      "26"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which word rhymes with 'cat'?",
-    "options": [
-      "dog",
-      "hat",
-      "pig",
-      "cup"
+      "I am going to the store now",
+      "I went to the store yesterday",
+      "I am going to the store today",
+      "I will go to the store tomorrow"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a sentence?",
+    "question": "What is the purpose of a title in a text?",
     "options": [
-      "ran fast",
-      "The boy ran fast.",
-      "boy fast",
-      "fast the"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What punctuation mark goes at the end of a question?",
-    "options": [
-      "Period",
-      "Exclamation mark",
-      "Question mark",
-      "Comma"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is a noun?",
-    "options": [
-      "run",
-      "happy",
-      "apple",
-      "quickly"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which letter comes after 'M' in the alphabet?",
-    "options": [
-      "L",
-      "O",
-      "K",
-      "N"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which word has the short 'a' sound?",
-    "options": [
-      "cake",
-      "rain",
-      "mat",
-      "play"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following words is a verb?",
-    "options": [
-      "jump",
-      "flower",
-      "red",
-      "table"
+      "To give the reader an idea of what the text is about",
+      "To tell the reader what to read next",
+      "To explain a concept",
+      "To describe a character"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word is spelled correctly?",
+    "question": "Which of the following words is a noun in the sentence 'The teacher gave the student a book'",
     "options": [
-      "frend",
-      "freind",
-      "friend",
-      "frind"
+      "Teacher",
+      "Student",
+      "Gave",
+      "Book"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "A proper noun is the name of a specific person, place, or thing. Which of the following is a proper noun?",
+    "question": "What is the difference between a fiction and a nonfiction text?",
     "options": [
-      "city",
-      "river",
-      "Jamaica",
-      "school"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence begins correctly?",
-    "options": [
-      "the dog is big.",
-      "The dog is big.",
-      "the Dog is big.",
-      "THE dog is big."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the plural of 'cat'?",
-    "options": [
-      "cates",
-      "caties",
-      "catss",
-      "cats"
+      "A fiction text is a true story, while a nonfiction text is a made-up story",
+      "A fiction text is a comparison, while a nonfiction text is an explanation",
+      "A fiction text is a poem, while a nonfiction text is an essay",
+      "A fiction text is a made-up story, while a nonfiction text is a true story or a factual account"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which word is the opposite of 'hot'?",
+    "question": "What is the main idea of a text?",
     "options": [
-      "warm",
-      "cold",
-      "big",
-      "fast"
+      "The author's opinion",
+      "The overall message or meaning of the text",
+      "The most difficult vocabulary word",
+      "The first sentence of the text"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a complete sentence?",
+    "question": "Which of the following sentences is in the future tense",
     "options": [
-      "The little bird.",
-      "Flies high.",
-      "The little bird flies high.",
-      "In the sky."
+      "I ate breakfast yesterday",
+      "I have eaten breakfast",
+      "I will eat breakfast tomorrow",
+      "I eat breakfast every morning"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a conclusion in a text?",
+    "options": [
+      "To describe a character",
+      "To explain a concept",
+      "To summarize the main points and leave the reader with something to think about",
+      "To tell the reader what to read next"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the difference between a simile and a metaphor?",
+    "options": [
+      "A simile is a poem, while a metaphor is an essay",
+      "A simile is a comparison between two things that are alike, while a metaphor is a comparison between two things that are not alike",
+      "A simile is a comparison between two things that are not alike, while a metaphor is a comparison between two things that are alike",
+      "A simile uses 'like' or 'as' to make a comparison, while a metaphor states that one thing is another thing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a summary?",
+    "options": [
+      "To give a brief overview of the main points in a text",
+      "To tell a joke",
+      "To express the author's opinion",
+      "To write a poem"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following punctuation marks is used to separate items in a list?",
+    "options": [
+      "Comma",
+      "Exclamation mark",
+      "Question mark",
+      "Period"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following sentences is in the imperative mood",
+    "options": [
+      "I closed the door yesterday",
+      "Close the door",
+      "I am closing the door now",
+      "I will close the door"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a metaphor?",
+    "options": [
+      "An essay",
+      "A poem",
+      "A simile",
+      "A comparison between two things that are not alike"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of dialogue in a text?",
+    "options": [
+      "To tell the reader what to do",
+      "To show how characters interact with each other",
+      "To describe a place",
+      "To explain a concept"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sentences is in the present perfect tense",
+    "options": [
+      "I have eaten breakfast",
+      "I ate breakfast yesterday",
+      "I eat breakfast every morning",
+      "I will eat breakfast tomorrow"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following words is a descriptive word in the sentence 'The beautiful sunset was amazing'",
+    "options": [
+      "Sunset",
+      "The",
+      "Amazing",
+      "Beautiful"
+    ],
+    "correctIndex": 3
   }
 ]

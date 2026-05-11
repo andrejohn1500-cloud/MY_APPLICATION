@@ -1,152 +1,52 @@
 [
   {
-    "question": "What is 345 + 218?",
+    "question": "A bakery sells 300 loaves of bread per day. If they make a profit of 20% on each loaf, how much profit do they make per day?",
     "options": [
-      "553",
-      "563",
-      "543",
-      "573"
+      "80",
+      "60",
+      "50",
+      "70"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 700 - 256?",
+    "question": "A group of friends want to share some money equally. If they have $180 and there are 6 friends, how much money will each friend get?",
     "options": [
-      "444",
-      "454",
-      "434",
-      "464"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which number comes next in the pattern: 5, 10, 15, 20, ___?",
-    "options": [
-      "24",
       "25",
-      "30",
-      "22"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 6 \u00d7 7?",
-    "options": [
-      "36",
-      "48",
-      "42",
-      "54"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 48 \u00f7 6?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fraction is equal to one half?",
-    "options": [
-      "2/6",
-      "3/8",
-      "4/8",
-      "3/4"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the perimeter of a square with sides of 5 cm?",
-    "options": [
-      "10 cm",
-      "15 cm",
-      "20 cm",
-      "25 cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many centimetres are in 1 metre?",
-    "options": [
-      "10",
-      "100",
-      "1000",
-      "50"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the value of the digit 4 in the number 3,4 57?",
-    "options": [
-      "4",
+      "35",
       "40",
-      "400",
-      "4000"
+      "30"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What shape has 3 sides and 3 angles?",
+    "question": "Find the surface area of a rectangular prism with a length of 6 cm, a width of 4 cm, and a height of 2 cm",
     "options": [
-      "Square",
-      "Rectangle",
-      "Triangle",
-      "Circle"
+      "60",
+      "90",
+      "80",
+      "72"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "What is 25% of 100?",
+    "question": "Find the volume of a rectangular prism with a length of 5 cm, a width of 3 cm, and a height of 2 cm",
     "options": [
-      "5",
-      "10",
+      "20",
+      "40",
       "25",
+      "30"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If a car travels 250 km in 5 hours, what is its speed?",
+    "options": [
+      "70",
+      "40",
+      "60",
       "50"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A bag has 3 red balls, 2 blue balls, and 5 green balls. How many balls are there altogether?",
-    "options": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the area of a rectangle that is 4 cm long and 3 cm wide?",
-    "options": [
-      "7 sq cm",
-      "10 sq cm",
-      "12 sq cm",
-      "14 sq cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of these numbers is an even number?",
-    "options": [
-      "13",
-      "27",
-      "34",
-      "45"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 1/4 + 1/4?",
-    "options": [
-      "1/8",
-      "2/8",
-      "1/2",
-      "2/4"
-    ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

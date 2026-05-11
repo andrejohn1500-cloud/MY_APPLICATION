@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the value of 3\u00b2 + 4\u00b2?",
+    "question": "A water bottle can hold 500 ml of water. If 250 ml are already in the bottle, what percentage of the bottle is full?",
     "options": [
-      "20",
-      "25",
-      "18",
-      "30"
+      "70%",
+      "50%",
+      "60%",
+      "40%"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A train travels 240 km in 3 hours. What is its speed in km/h?",
+    "question": "A car travels from City A to City B at an average speed of 60 km/h. On the return journey, the average speed is 40 km/h. What is the average speed for the entire trip?",
     "options": [
       "60",
-      "70",
-      "80",
-      "90"
+      "52",
+      "48",
+      "64"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which word is the odd one out?",
+    "question": "A rectangular room measures 8 meters by 12 meters. What is its perimeter?",
     "options": [
-      "Robin",
-      "Eagle",
-      "Sparrow",
-      "Salmon"
+      "50 meters",
+      "40 meters",
+      "60 meters",
+      "30 meters"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A water tank can hold 800 liters of water. If 400 liters are already in the tank, what percentage of the tank is full?",
+    "options": [
+      "70%",
+      "50%",
+      "60%",
+      "40%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A company has 25 employees. If 75% are male, how many employees are male?",
+    "options": [
+      "20",
+      "19",
+      "18",
+      "22"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A water tank can hold 1000 liters of water. If 300 liters are already in the tank, what percentage of the tank is full?",
+    "options": [
+      "20%",
+      "50%",
+      "40%",
+      "30%"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If a rectangle has a length of 9 cm and a width of 5 cm, what is its area?",
+    "question": "In a certain code, 3 means 27, 5 means 125, and 8 means 512. What does 2 mean in this code?",
     "options": [
-      "40 cm\u00b2",
-      "45 cm\u00b2",
-      "50 cm\u00b2",
-      "35 cm\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Complete the sequence: 2, 6, 18, 54, ___",
-    "options": [
-      "108",
-      "162",
-      "216",
-      "180"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a prime number?",
-    "options": [
-      "21",
-      "27",
-      "29",
-      "33"
+      "16",
+      "32",
+      "8",
+      "4"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A shop reduces a price of $80 by 15%. What is the new price?",
+    "question": "If a box of crayons weighs 2 kg and contains 12 crayons, how much does each crayon weigh?",
     "options": [
+      "0.167 kg",
+      "0.3 kg",
+      "0.25 kg",
+      "0.2 kg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bakery sells 300 loaves of bread in a day. If they make a profit of $0.20 on each loaf, how much profit do they make in a day?",
+    "options": [
+      "$50",
       "$65",
-      "$68",
-      "$72",
-      "$75"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word best completes the analogy? Book is to Library as Painting is to ___",
-    "options": [
-      "Artist",
-      "Canvas",
-      "Gallery",
-      "Museum"
+      "$60",
+      "$55"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 3/4 of 200?",
+    "question": "In a certain sequence, the first term is 2, the second term is 6, and the third term is 12. What is the fifth term in this sequence?",
     "options": [
-      "100",
-      "125",
-      "150",
-      "175"
+      "24",
+      "28",
+      "30",
+      "36"
     ],
     "correctIndex": 2
   },
   {
-    "question": "If all Blips are Blops, and some Blops are Blaps, which statement must be true?",
+    "question": "A bakery sells a total of 240 loaves of bread in a day. The ratio of whole wheat bread to white bread is 3:5. How many loaves of white bread were sold?",
     "options": [
-      "All Blips are Blaps",
-      "Some Blips may be Blaps",
-      "No Blips are Blaps",
-      "All Blaps are Blips"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A square has a perimeter of 36 cm. What is its area?",
-    "options": [
-      "72 cm\u00b2",
-      "81 cm\u00b2",
-      "64 cm\u00b2",
-      "49 cm\u00b2"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which number replaces the question mark? 5, 10, 20, 40, ?",
-    "options": [
-      "60",
-      "70",
       "80",
-      "90"
+      "120",
+      "90",
+      "100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels from May Pen to Mandeville at an average speed of 40 km/h. How long will it take to cover a distance of 100 km?",
+    "options": [
+      "3 hours",
+      "2 hours",
+      "4 hours",
+      "2.5 hours"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels from Linstead to Ocho Rios at an average speed of 40 km/h. How long will it take to cover a distance of 120 km?",
+    "options": [
+      "4 hours",
+      "2 hours",
+      "5 hours",
+      "3 hours"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a certain code, the word 'CAT' is written as 'TAB'. How is the word 'DOG' written in this code?",
+    "options": [
+      "OGS",
+      "OGT",
+      "OGD",
+      "GOD"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A pencil is 18 cm long and is divided into 4 parts. How long is each part?",
+    "options": [
+      "6 cm",
+      "5 cm",
+      "4.5 cm",
+      "3 cm"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the mean of 12, 15, 18, 21, and 24?",
-    "options": [
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the word most similar in meaning to DILIGENT.",
-    "options": [
-      "Lazy",
-      "Hardworking",
-      "Careless",
-      "Talented"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A jar contains 5 red, 3 blue, and 2 green marbles. If one marble is picked at random, what is the probability it is blue?",
-    "options": [
-      "1/5",
-      "3/10",
-      "1/3",
-      "2/5"
-    ],
-    "correctIndex": 1
   }
 ]

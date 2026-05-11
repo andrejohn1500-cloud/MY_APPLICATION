@@ -1,151 +1,151 @@
 [
   {
-    "question": "If the pattern continues: 2, 6, 18, 54, ___, what is the next number?",
+    "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 2 feet, but at night, it slips back 1 foot. How many days will it take for the snail to reach the top of the well?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "324"
+      "17",
+      "23",
+      "19",
+      "21"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A train travels 360 km in 4 hours. How long will it take to travel 540 km at the same speed?",
+    "question": "A rectangular garden measures 28 meters by 22 meters. A path that is 5 meters wide is built around it. What is the area of the path?",
     "options": [
-      "5 hours",
-      "6 hours",
-      "6.5 hours",
-      "7 hours"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is the odd one out: Simile, Metaphor, Alliteration, Paragraph?",
-    "options": [
-      "Simile",
-      "Metaphor",
-      "Alliteration",
-      "Paragraph"
+      "380",
+      "360",
+      "320",
+      "340"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If 5x - 3 = 22, what is the value of x?",
+    "question": "A bakery sells a total of 360 loaves of bread in a day. The ratio of whole wheat bread to white bread is 2:5. How many loaves of whole wheat bread were sold?",
     "options": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "90",
+      "80",
+      "60",
+      "72"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A rectangular garden has a length of 18 m and a width of 12 m. A path 2 m wide runs around the outside. What is the area of the path?",
+    "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 4 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
     "options": [
-      "120 sq m",
-      "128 sq m",
-      "136 sq m",
-      "144 sq m"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the word that best completes the analogy: Symphony is to Composer as Novel is to ___",
-    "options": [
-      "Publisher",
-      "Editor",
-      "Author",
-      "Reader"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the value of 3\u2074 \u00f7 3\u00b2 + 2\u00b3?",
-    "options": [
-      "14",
-      "17",
+      "21",
+      "15",
       "19",
-      "21"
+      "17"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which figure comes next in the sequence if each shape gains one extra side: triangle, square, pentagon, ___?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If the total amount of money is $150, how much will the person with the largest share get?",
     "options": [
-      "Hexagon",
-      "Heptagon",
-      "Octagon",
-      "Circle"
+      "75",
+      "60",
+      "90",
+      "120"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A shopkeeper buys an item for $240 and sells it at a 25% profit. What is the selling price?",
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Ben is at one end and Emily is at the other, who is at the right end of the row?",
     "options": [
-      "$280",
-      "$290",
-      "$300",
-      "$310"
+      "Charlie",
+      "David",
+      "Alex",
+      "Ben"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a certain sequence, the first term is 8, the second term is 16, and the third term is 32. What is the tenth term in this sequence?",
+    "options": [
+      "512",
+      "576",
+      "448",
+      "640"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A water tank can hold 1200 liters of water. If 400 liters of water are already in the tank, how many more liters can be added?",
+    "options": [
+      "800",
+      "700",
+      "600",
+      "900"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Charlie is at one end and Ben is at the other, who is at the left end of the row?",
+    "options": [
+      "David",
+      "Emily",
+      "Alex",
+      "Charlie"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Identify the sentence with correct subject-verb agreement: ",
+    "question": "In a certain sequence, the first term is 5, the second term is 15, and the third term is 45. What is the seventh term in this sequence?",
     "options": [
-      "The team of players are winning.",
-      "Neither the teachers nor the principal were present.",
-      "Each of the students have submitted their work.",
-      "The committee has reached its decision."
+      "225",
+      "270",
+      "255",
+      "240"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a certain sequence, the first term is 1, the second term is 2, and the third term is 4. What is the seventh term in this sequence?",
+    "options": [
+      "48",
+      "32",
+      "28",
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a certain sequence, the first term is 2, the second term is 6, and the third term is 12. What is the ninth term in this sequence?",
+    "options": [
+      "90",
+      "72",
+      "60",
+      "84"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a certain code, the word 'CAT' is written as 'TAC'. How is the word 'DOG' written in this code?",
+    "options": [
+      "DOG",
+      "ODG",
+      "OGD",
+      "GOD"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If a map has a scale of 1:50,000, and two cities are 8 cm apart on the map, what is the actual distance in km?",
+    "question": "In a certain sequence, the first term is 9, the second term is 27, and the third term is 81. What is the sixth term in this sequence?",
     "options": [
-      "4 km",
-      "40 km",
-      "400 km",
-      "4000 km"
+      "189",
+      "270",
+      "216",
+      "243"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "What is the highest common factor (HCF) of 84 and 126?",
+    "question": "A rectangular prism measures 15 meters by 10 meters by 6 meters. What is its volume?",
     "options": [
-      "14",
-      "21",
-      "42",
-      "63"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which literary device is used in: 'The wind whispered secrets through the trees'?",
-    "options": [
-      "Hyperbole",
-      "Personification",
-      "Oxymoron",
-      "Onomatopoeia"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A tank is 3/4 full. After removing 45 litres it is 1/2 full. What is the total capacity of the tank?",
-    "options": [
-      "120 litres",
-      "150 litres",
-      "180 litres",
-      "200 litres"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If all Blips are Blops, and some Blops are Blunks, which conclusion must be true?",
-    "options": [
-      "All Blips are Blunks",
-      "Some Blips may be Blunks",
-      "No Blips are Blunks",
-      "All Blunks are Blips"
+      "1100",
+      "900",
+      "800",
+      "1000"
     ],
     "correctIndex": 1
   }

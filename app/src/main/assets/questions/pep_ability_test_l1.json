@@ -1,152 +1,152 @@
 [
   {
-    "question": "What comes next in the pattern: 2, 4, 6, 8, ?",
+    "question": "Which of the following is a type of problem?",
     "options": [
-      "9",
-      "10",
-      "11",
-      "12"
+      "Mathematical",
+      "Geometric",
+      "Logarithmic",
+      "Algebraic"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which shape has exactly 3 sides?",
+    "question": "What is the next number in the sequence: 5, 10, 15, 20, 25, ?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from point A to point B at an average speed of 80 km/h and returns at an average speed of 60 km/h. What is the average speed for the round trip?",
+    "options": [
+      "68",
+      "70",
+      "64",
+      "66"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a type of shape?",
     "options": [
       "Square",
       "Circle",
+      "Rhombus",
+      "Triangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from Kingston to Mandeville at an average speed of 60 km/h. How long will it take to cover a distance of 120 km?",
+    "options": [
+      "1.5 hours",
+      "2 hours",
+      "1 hour",
+      "3 hours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangular garden measures 10 meters by 5 meters. What is its area?",
+    "options": [
+      "70 square meters",
+      "40 square meters",
+      "60 square meters",
+      "50 square meters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 6, 8, 10, ?",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a type of quadrilateral?",
+    "options": [
       "Triangle",
+      "Square",
+      "Circle",
       "Rectangle"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "If there are 5 apples and you eat 2, how many apples are left?",
+    "question": "What is the next number in the sequence: 4, 8, 12, 16, 20, ?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "7"
+      "25",
+      "23",
+      "22",
+      "24"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which word means the opposite of 'big'?",
+    "question": "What is the next number in the sequence: 1, 2, 4, 8, 16, ?",
     "options": [
-      "Large",
-      "Tall",
-      "Small",
-      "Heavy"
+      "32",
+      "31",
+      "33",
+      "30"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is 3 + 7?",
+    "question": "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
     "options": [
-      "9",
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+    "options": [
       "10",
-      "11",
-      "8"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of these animals can fly?",
-    "options": [
-      "Dog",
-      "Fish",
-      "Bird",
-      "Cat"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What comes next in the sequence: Monday, Tuesday, Wednesday, ?",
-    "options": [
-      "Friday",
-      "Sunday",
-      "Thursday",
-      "Saturday"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which number is the largest?",
-    "options": [
       "15",
-      "9",
-      "21",
-      "18"
+      "20",
+      "5"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "If a pencil costs 4 cents and a pen costs 6 cents, how much do they cost together?",
+    "question": "Which shape has four right angles and four sides of equal length?",
     "options": [
-      "8 cents",
-      "9 cents",
-      "10 cents",
-      "11 cents"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which picture would complete the pattern: circle, square, circle, square, ?",
-    "options": [
-      "Triangle",
       "Circle",
+      "Triangle",
       "Rectangle",
       "Square"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the missing number: 10, 8, 6, ?, 2",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have a total of $120, how much will the person with the largest share get?",
     "options": [
-      "5",
-      "3",
-      "4",
-      "7"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of these is a fruit?",
-    "options": [
-      "Carrot",
-      "Potato",
-      "Mango",
-      "Onion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many sides does a rectangle have?",
-    "options": [
-      "3",
-      "5",
-      "6",
-      "4"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "If today is Thursday, what day was it yesterday?",
-    "options": [
-      "Friday",
-      "Wednesday",
-      "Tuesday",
-      "Monday"
+      "$45",
+      "$60",
+      "$55",
+      "$50"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word does NOT belong with the others?",
+    "question": "A person has 12 pencils in a bag. If they give 2 to their friend, how many pencils will they have left?",
     "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Tall"
+      "11",
+      "9",
+      "10",
+      "8"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   }
 ]

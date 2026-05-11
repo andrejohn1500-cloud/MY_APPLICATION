@@ -1,151 +1,41 @@
 [
   {
-    "question": "Which of the following is a compound sentence?",
+    "question": "What is the purpose of a list in a text?",
     "options": [
-      "The dog barked loudly.",
-      "She sang and danced at the party.",
-      "I wanted to go to the beach, but it started to rain.",
-      "Running through the park, he felt free."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the main purpose of a topic sentence in a paragraph?",
-    "options": [
-      "To provide supporting details for the paragraph",
-      "To introduce the main idea of the paragraph",
-      "To conclude the paragraph with a summary",
-      "To give examples that support the conclusion"
+      "To tell the reader what to read next",
+      "To organize and make it easier to read",
+      "To explain a concept",
+      "To describe a character"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is an example of an abstract noun?",
+    "question": "Which of the following words is a descriptive word in the sentence 'The beautiful house was amazing'",
     "options": [
-      "Mountain",
-      "Freedom",
+      "Amazing",
+      "Beautiful",
+      "House",
+      "The"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sentences is in the present continuous tense",
+    "options": [
+      "I will eat breakfast tomorrow",
+      "I ate breakfast yesterday",
+      "I am eating breakfast now",
+      "I eat breakfast every morning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following words is a noun in the sentence 'The teacher and the student are friends'",
+    "options": [
+      "Student",
+      "Are",
       "Teacher",
-      "Pencil"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the sentence 'The cake was eaten by the children,' what is the voice of the verb?",
-    "options": [
-      "Active voice",
-      "Imperative voice",
-      "Passive voice",
-      "Interrogative voice"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which literary device is used in the phrase 'The wind whispered through the trees'?",
-    "options": [
-      "Simile",
-      "Hyperbole",
-      "Personification",
-      "Alliteration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Choose the correctly punctuated sentence.",
-    "options": [
-      "Maria said, I will be there soon.",
-      "Maria said \"I will be there soon.\"",
-      "Maria said, \"I will be there soon.\"",
-      "Maria said I will, be there soon."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the prefix 'mis-' mean in the word 'misunderstand'?",
-    "options": [
-      "Again",
-      "Before",
-      "Wrongly",
-      "Against"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence contains a dangling modifier?",
-    "options": [
-      "Walking to school, Maria saw a rainbow.",
-      "Having finished the test, the students left the room.",
-      "Running quickly, the finish line was crossed.",
-      "Excited about the trip, the children packed their bags."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a metaphor?",
-    "options": [
-      "Her smile was like the sun.",
-      "Life is a rollercoaster.",
-      "He ran as fast as a cheetah.",
-      "The leaves rustled in the breeze."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the plural form of the word 'criterion'?",
-    "options": [
-      "Criterions",
-      "Criterias",
-      "Criteria",
-      "Criterium"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a persuasive essay, what is the purpose of a counterargument?",
-    "options": [
-      "To confuse the reader with opposing ideas",
-      "To acknowledge the opposing view and then refute it",
-      "To change the writer's position on the topic",
-      "To provide statistical evidence for the main argument"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sentence uses the semicolon correctly?",
-    "options": [
-      "She loves reading; and writing poems.",
-      "He was tired; however, he finished his homework.",
-      "They went to the store; to buy milk.",
-      "I enjoy soccer; but prefer basketball."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the meaning of the word 'ambiguous'?",
-    "options": [
-      "Clearly defined and easy to understand",
-      "Having only one possible interpretation",
-      "Open to more than one interpretation",
-      "Relating to both plants and animals"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of conflict is shown when a character struggles with making a difficult personal decision?",
-    "options": [
-      "Character vs. Nature",
-      "Character vs. Society",
-      "Character vs. Character",
-      "Character vs. Self"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which sentence is written in the future perfect tense?",
-    "options": [
-      "She will go to the concert tomorrow.",
-      "She is going to the concert.",
-      "She will have finished her project by Friday.",
-      "She had gone to the concert last week."
+      "Friends"
     ],
     "correctIndex": 2
   }

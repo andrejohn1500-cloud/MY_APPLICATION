@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following sentences contains a correctly used semicolon?",
+    "question": "Which punctuation mark is used to indicate a pause in a sentence?",
     "options": [
-      "I love reading; because it improves my vocabulary.",
-      "She finished her homework; then she went outside to play.",
-      "He ate breakfast; and lunch together.",
-      "We went to the market; but forgot to buy bread."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the main purpose of a persuasive text?",
-    "options": [
-      "To entertain the reader with a fictional story",
-      "To inform the reader about a historical event",
-      "To convince the reader to agree with a point of view",
-      "To describe a person, place, or thing in detail"
+      "'",
+      "-",
+      ",",
+      ";"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Choose the sentence that uses the correct form of the verb.",
+    "question": "Which punctuation mark is used to separate a quotation from the rest of the text?",
     "options": [
-      "The children was playing in the yard.",
-      "The children were playing in the yard.",
-      "The children is playing in the yard.",
-      "The children be playing in the yard."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which literary device is used in the phrase 'The wind whispered through the trees'?",
-    "options": [
-      "Simile",
-      "Metaphor",
-      "Personification",
-      "Alliteration"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a compound sentence?",
-    "options": [
-      "Although it was raining, she went for a walk.",
-      "The dog barked loudly at the stranger.",
-      "Maria studied hard, and she passed her exam.",
-      "Running through the park on a sunny day."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the prefix 'mis-' mean in the word 'misunderstand'?",
-    "options": [
-      "Again",
-      "Wrongly",
-      "Before",
-      "Against"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Read the sentence: 'After the storm, the streets were flooded and several trees had fallen.' What is the relationship between the two clauses?",
-    "options": [
-      "Cause and effect",
-      "Comparison and contrast",
-      "Problem and solution",
-      "Sequence of events"
+      "Comma",
+      "Question Mark",
+      "Exclamation Mark",
+      "Full Stop"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which sentence uses an apostrophe correctly?",
+    "question": "Read the following passage and identify the main idea. 'The author of the novel was inspired by the events of World War II. The novel is a reflection of the author's experiences during the war. The novel explores the themes of love, loss, and survival.'",
     "options": [
-      "The dog wagged it's tail happily.",
-      "The girls' bicycles were parked outside.",
-      "The book's were on the shelf.",
-      "Those apple's are very sweet."
+      "The author was inspired by the events of World War II",
+      "The novel is a reflection of the author's experiences during World War II",
+      "The novel is a reflection of the events of World War II",
+      "The novel explores the themes of love, loss, and survival"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following words is a synonym for 'enormous'?",
+    "question": "Which of the following is an example of a simile in the following sentence: 'He ran like a cheetah.'?",
     "options": [
-      "Tiny",
-      "Gigantic",
-      "Average",
-      "Narrow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In a piece of writing, the 'conclusion' serves to:",
-    "options": [
-      "Introduce new arguments and ideas",
-      "Summarize the main points and bring the piece to a close",
-      "Provide background information on the topic",
-      "Present the first main idea of the essay"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sentence is written in the passive voice?",
-    "options": [
-      "The chef prepared a delicious meal.",
-      "The students completed their projects.",
-      "The trophy was won by our school team.",
-      "She painted a beautiful landscape."
+      "He was fast",
+      "He was a cheetah",
+      "He ran like a cheetah",
+      "He had cheetah-like speed"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the meaning of the idiom 'to bite the bullet'?",
+    "question": "Read the following poem and identify the rhyme scheme. 'The sun sets slow and paints the sky, / A fiery hue that makes me sigh. / The stars come out and twinkle bright, / A night of rest, a peaceful sight.'",
     "options": [
-      "To eat something very hard",
-      "To endure a painful situation with courage",
-      "To argue with someone",
-      "To make a quick decision"
+      "ABAB",
+      " AABB",
+      "ABBA",
+      "AAAA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following words is a synonym for the word 'happy' in the following sentence: 'I'm feeling very happy today.'?",
+    "options": [
+      "bored",
+      "joyful",
+      "sad",
+      "angry"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following correctly identifies the underlined part of this sentence: 'Running quickly, James caught the bus.'",
+    "question": "Which of the following words is an example of personification in the following sentence: 'The wind whispered secrets in my ear.'?",
     "options": [
-      "Noun phrase",
-      "Verb phrase",
-      "Participial phrase",
-      "Prepositional phrase"
+      "The wind was still",
+      "The wind was calm",
+      "The wind was loud",
+      "The wind whispered secrets"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following words is a synonym for the word 'large' in the following sentence: 'The hotel has a large lobby.'?",
+    "options": [
+      "small",
+      "little",
+      "tiny",
+      "huge"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of a formal letter of complaint?",
+    "options": [
+      "to share news",
+      "to ask for advice",
+      "to express dissatisfaction and request a resolution to a problem",
+      "to express gratitude"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which type of figurative language is used in the sentence: 'Her smile was as bright as the sun'?",
+    "question": "What is the correct form of a closing in a poem?",
     "options": [
-      "Hyperbole",
-      "Metaphor",
-      "Simile",
-      "Onomatopoeia"
+      "Thanks, [Name]",
+      "Best, [Name]",
+      "Sincerely, [Name]",
+      "Goodbye [Name]"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "A student writes a letter to the editor of a newspaper about a problem in her community. Which writing style is most appropriate?",
+    "question": "Which of the following words is a synonym for the word 'hurry' in the following sentence: 'I need to hurry and finish my work.'?",
     "options": [
-      "Informal and conversational",
-      "Formal and persuasive",
-      "Imaginative and descriptive",
-      "Humorous and entertaining"
+      "wait",
+      "rush",
+      "pause",
+      "slow"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which punctuation mark is used to set off a nonessential clause?",
+    "options": [
+      "{ }",
+      "< >",
+      "[ ]",
+      "( )"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the main difference between a story and a poem?",
+    "options": [
+      "Poems tell a more detailed narrative than stories",
+      "Stories are often longer and tell a more detailed narrative",
+      "Stories are shorter than poems",
+      "Both stories and poems tell a more detailed narrative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which punctuation mark is used to separate two independent clauses joined by a conjunction?",
+    "options": [
+      ",",
+      "-",
+      "'",
+      ";"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following words is an example of alliteration in the following sentence: 'The snake slithered silently through the sand.'?",
+    "options": [
+      "snake moved quickly",
+      "snake slithered slowly",
+      "snake was loud",
+      "snake slithered silently"
+    ],
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,122 @@
 [
   {
-    "question": "If the pattern continues: 2, 6, 18, 54, ___, what is the next number?",
+    "question": "A car travels from Portmore to Falmouth at an average speed of 60 km/h. How long will it take to cover a distance of 180 km?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "270"
+      "5 hours",
+      "3 hours",
+      "2 hours",
+      "4 hours"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A shop sells apples at $3 for every 5 apples. How much will 20 apples cost?",
+    "question": "A rectangular garden measures 10 meters by 8 meters. What is its area?",
     "options": [
-      "$10",
-      "$12",
-      "$15",
-      "$18"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is the odd one out: Robin, Eagle, Sparrow, Salmon, Parrot?",
-    "options": [
-      "Eagle",
-      "Sparrow",
-      "Salmon",
-      "Parrot"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If PENCIL is coded as QFODJM, how would PAPER be coded?",
-    "options": [
-      "QBQFS",
-      "RCRG\u0422",
-      "PAPFR",
-      "QAQES"
+      "80 square meters",
+      "90 square meters",
+      "100 square meters",
+      "60 square meters"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its area?",
+    "question": "If a car travels 280 miles in 7 hours, how many miles does it travel per hour?",
     "options": [
-      "38 cm\u00b2",
-      "76 cm\u00b2",
-      "84 cm\u00b2",
-      "96 cm\u00b2"
+      "60 miles/hour",
+      "50 miles/hour",
+      "30 miles/hour",
+      "40 miles/hour"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Choose the word that best completes the analogy: Book is to Library as Painting is to ___",
+    "question": "A box of toys weighs 4 kg. If 16 toys are packed in a box, how much does each toy weigh?",
     "options": [
-      "Artist",
-      "Canvas",
-      "Gallery",
-      "Frame"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What fraction of 60 is 15?",
-    "options": [
-      "1/3",
-      "1/4",
-      "1/5",
-      "1/6"
+      "0.5 kg",
+      "0.25 kg",
+      "0.4 kg",
+      "0.3 kg"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Three friends share a pizza. John eats 1/3, Mary eats 1/4, and Tom eats the rest. What fraction did Tom eat?",
+    "question": "A company has 30 employees. If 75% are male, how many employees are male?",
     "options": [
-      "5/12",
-      "7/12",
-      "1/2",
-      "5/6"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which number does NOT belong in this group: 16, 25, 36, 42, 49?",
-    "options": [
+      "20",
+      "22.5",
       "25",
-      "36",
-      "42",
-      "49"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A train travels 240 km in 3 hours. At the same speed, how far will it travel in 5 hours?",
-    "options": [
-      "360 km",
-      "400 km",
-      "420 km",
-      "480 km"
+      "30"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Choose the pair that shows the same relationship as: Glove : Hand",
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Charlie is at one end and Emily is at the other, who is at the left end of the row?",
     "options": [
-      "Hat : Head",
-      "Coat : Warm",
-      "Shoe : Leather",
-      "Sock : Cotton"
+      "Charlie",
+      "Alex",
+      "Ben",
+      "David"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bakery sells 200 loaves of bread in a day. If they make a profit of $0.25 on each loaf, how much profit do they make in a day?",
+    "options": [
+      "$45",
+      "$40",
+      "$55",
+      "$50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "If a car travels 300 miles in 6 hours, how many miles does it travel per hour?",
+    "options": [
+      "40 miles/hour",
+      "70 miles/hour",
+      "50 miles/hour",
+      "60 miles/hour"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Alex is at one end and Charlie is at the other, who is at the left end of the row?",
+    "options": [
+      "Emily",
+      "Ben",
+      "David",
+      "Alex"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from Half-Way Tree to Montego Bay at an average speed of 50 km/h. How long will it take to cover a distance of 250 km?",
+    "options": [
+      "5 hours",
+      "6 hours",
+      "7 hours",
+      "4 hours"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If today is Wednesday, what day will it be 100 days from now?",
+    "question": "A bus has 40 seats. If 20 people are already seated, what is the number of seats left?",
     "options": [
-      "Monday",
-      "Tuesday",
-      "Friday",
-      "Saturday"
+      "20",
+      "25",
+      "15",
+      "30"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Find the missing number: 5, 11, 23, 47, ___",
+    "question": "A water bottle can hold 300 ml of water. If 150 ml are already in the bottle, what percentage of the bottle is full?",
     "options": [
-      "89",
-      "93",
-      "95",
-      "99"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A rectangular tank is 50 cm long, 30 cm wide, and 20 cm deep. What is its volume in litres? (1 litre = 1000 cm\u00b3)",
-    "options": [
-      "25 litres",
-      "30 litres",
-      "35 litres",
-      "40 litres"
+      "60%",
+      "50%",
+      "70%",
+      "40%"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "Which statement best describes a characteristic shared by Mercury, Venus, Earth and Mars?",
-    "options": [
-      "They all have rings",
-      "They are all gas giants",
-      "They are all inner rocky planets",
-      "They all have more than one moon"
-    ],
-    "correctIndex": 2
   }
 ]

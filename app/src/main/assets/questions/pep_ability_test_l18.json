@@ -1,152 +1,132 @@
 [
   {
-    "question": "If the pattern follows: 2, 6, 18, 54, ___, what is the next number?",
+    "question": "A circle has a radius of 9 cm. What is the area of the circle?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "324"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A train travels 360 km in 4 hours. How long will it take to travel 540 km at the same speed?",
-    "options": [
-      "5 hours",
-      "6 hours",
-      "6.5 hours",
-      "7 hours"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is most opposite in meaning to TRANSIENT?",
-    "options": [
-      "Fleeting",
-      "Permanent",
-      "Temporary",
-      "Elusive"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If A = 1, B = 2, C = 3 ... Z = 26, what is the value of the word MIND?",
-    "options": [
-      "41",
-      "42",
-      "43",
-      "44"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A square has a perimeter of 64 cm. What is its area?",
-    "options": [
-      "196 sq cm",
-      "225 sq cm",
-      "256 sq cm",
-      "289 sq cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which figure completes the analogy? Circle is to Sphere as Square is to ___",
-    "options": [
-      "Cone",
-      "Cylinder",
-      "Cube",
-      "Pyramid"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Find the odd one out: Sonata, Symphony, Concerto, Fresco",
-    "options": [
-      "Sonata",
-      "Symphony",
-      "Concerto",
-      "Fresco"
+      "260",
+      "200",
+      "220",
+      "254.47"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If 5x - 3 = 2x + 12, what is the value of x?",
+    "question": "A car travels 250 km in 5 hours. What is the average speed of the car?",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A map has a scale of 1:50000. If two towns are 8 cm apart on the map, what is the actual distance in km?",
-    "options": [
-      "2 km",
-      "4 km",
-      "6 km",
-      "8 km"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which number should replace the question mark? 7, 13, 21, 31, 43, ?",
-    "options": [
-      "53",
-      "55",
-      "57",
-      "59"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "METICULOUS most nearly means:",
-    "options": [
-      "Careless",
-      "Precise",
-      "Hasty",
-      "Vague"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
-    "options": [
-      "1540 cu cm",
-      "1440 cu cm",
-      "1640 cu cm",
-      "1340 cu cm"
+      "50",
+      "45",
+      "40",
+      "55"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If all Bolds are Strongs, and some Strongs are Fasts, which conclusion is definitely true?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If the total amount of money is $300, how much will the person with the largest share get?",
     "options": [
-      "All Bolds are Fasts",
-      "Some Bolds are Fasts",
-      "No Bolds are Fasts",
-      "All Fasts are Bolds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which pair of words has the same relationship as AUTHOR : NOVEL?",
-    "options": [
-      "Teacher : School",
-      "Composer : Symphony",
-      "Singer : Stage",
-      "Doctor : Hospital"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A shopkeeper buys an item for \u20a6800 and sells it at a 35% profit. What is the selling price?",
-    "options": [
-      "\u20a61,000",
-      "\u20a61,050",
-      "\u20a61,080",
-      "\u20a61,100"
+      "120",
+      "180",
+      "150",
+      "200"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Five people - John, Mary, David, Michael, and Sarah - are standing in a line. If John is standing next to Mary and David is standing next to Michael, who is standing next to Sarah?",
+    "options": [
+      "David",
+      "John",
+      "Michael",
+      "Mary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a certain sequence, the pattern is: 2, 4, 6, 8, 10. What is the next number in the sequence?",
+    "options": [
+      "12",
+      "16",
+      "14",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a certain sequence, the first term is 1, the second term is 3, and the third term is 9. What is the fifth term in this sequence?",
+    "options": [
+      "72",
+      "63",
+      "81",
+      "99"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels 300 km in 6 hours. What is the average speed of the car?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangle has a length of 14 cm and a width of 9 cm. What is the perimeter of the rectangle?",
+    "options": [
+      "46",
+      "48",
+      "40",
+      "42"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In a certain code, 2 represents A, 5 represents B, and 8 represents C. What does the code 1 represent?",
+    "options": [
+      "F",
+      "D",
+      "G",
+      "E"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bakery sells a total of 180 loaves of bread in a day. The ratio of whole wheat bread to white bread is 1:3. How many loaves of white bread were sold?",
+    "options": [
+      "80",
+      "90",
+      "120",
+      "100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangular garden measures 30 meters by 25 meters. A path that is 6 meters wide is built around it. What is the area of the path?",
+    "options": [
+      "360",
+      "480",
+      "420",
+      "400"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a certain sequence, the first term is 3, the second term is 9, and the third term is 27. What is the fourth term in this sequence?",
+    "options": [
+      "90",
+      "63",
+      "72",
+      "81"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A surveyor measures the distance between two points as 12 km. If the distance is increased by 20%, what is the new distance?",
+    "options": [
+      "14.4",
+      "12.5",
+      "15",
+      "13"
+    ],
+    "correctIndex": 0
   }
 ]

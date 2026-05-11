@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which sentence is written correctly?",
+    "question": "What is the main purpose of a table of contents?",
     "options": [
-      "She don't like apples.",
-      "She doesn't likes apples.",
-      "She doesn't like apples.",
-      "She don't likes apples."
+      "To draw a picture of the text",
+      "To give a list of sections and pages in a text",
+      "To explain a complex idea",
+      "To give a list of characters"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is the plural form of the word 'child'?",
+    "question": "What is the main difference between a question and an exclamation?",
     "options": [
-      "Childs",
-      "Childes",
-      "Children",
-      "Childrens"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is a noun?",
-    "options": [
-      "Run",
-      "Happy",
-      "Quickly",
-      "Teacher"
+      "Questions are used to express strong emotion",
+      "Both questions and exclamations are used to ask for information",
+      "Exclamations are used to ask for information",
+      "Questions are used to ask for information while exclamations are used to express strong emotion"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Choose the correct punctuation to end this sentence: 'What time is it'",
+    "question": "Which punctuation mark is used to separate a title from the rest of the text?",
     "options": [
-      "Full stop",
       "Comma",
-      "Question mark",
-      "Exclamation mark"
+      "Full Stop",
+      "Exclamation Mark",
+      "Quotation Marks"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which word is the opposite of 'hot'?",
+    "question": "What is the main purpose of a title in a story?",
     "options": [
-      "Warm",
-      "Bright",
-      "Cold",
-      "Dry"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence uses the word 'their' correctly?",
-    "options": [
-      "They left their bags at home.",
-      "They left there bags at home.",
-      "They left they're bags at home.",
-      "They left thier bags at home."
+      "To give a clue about the story",
+      "To draw a picture of the story",
+      "To give a list of characters",
+      "To tell the ending of the story"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What type of word is 'quickly'?",
+    "question": "What is the correct spelling of the word 'seas' instead of 'seas' which is a plural form of 'sea'",
     "options": [
-      "Noun",
-      "Verb",
-      "Adjective",
-      "Adverb"
+      "sea",
+      "seas",
+      "sea's",
+      "sea'ss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct form of a greeting in a letter?",
+    "options": [
+      "Hi [Name]",
+      "What's up [Name]",
+      "Hello [Name]",
+      "Dear [Name]"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which word rhymes with 'cake'?",
+    "question": "What is the main purpose of a summary?",
     "options": [
-      "Back",
-      "Lake",
-      "Talk",
-      "Cap"
+      "To explain a complex idea",
+      "To give a brief account of the main points of a text",
+      "To tell a personal story",
+      "To give a list of characters"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Choose the sentence that uses a capital letter correctly.",
+    "question": "What is the correct spelling of the word 'accomodate'",
     "options": [
-      "My friend lives in trinidad.",
-      "My friend lives in Trinidad.",
-      "my friend lives in Trinidad.",
-      "My Friend lives in trinidad."
+      "accomodation",
+      "accommodate",
+      "accomodate",
+      "accomodatey"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word means almost the same as 'happy'?",
+    "question": "What is the main purpose of a heading in a text?",
     "options": [
-      "Sad",
-      "Angry",
-      "Joyful",
-      "Tired"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the correct past tense of the verb 'go'?",
-    "options": [
-      "Goed",
-      "Goes",
-      "Going",
-      "Went"
+      "To draw a picture of the text",
+      "To explain a complex idea",
+      "To give a list of characters",
+      "To give a title to a section of the text"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which sentence is an example of a command?",
+    "question": "Which of the following is a type of sentence?",
     "options": [
-      "Is the door open?",
-      "The door is open.",
-      "Close the door!",
-      "The door was closed."
+      "Declarative",
+      "Interrogative",
+      "Exclamatory",
+      "Imperative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between a poem and a song?",
+    "options": [
+      "Poems are often written while songs are often sung",
+      "Both poems and songs are only for children",
+      "Poems are sung while songs are written",
+      "Poems are only for children while songs are for adults"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the author's tone in a story?",
+    "options": [
+      "The main character's feelings",
+      "The plot of the story",
+      "The manner in which the author feels about the subject",
+      "The setting of the story"
     ],
     "correctIndex": 2
   },
   {
-    "question": "How many syllables are in the word 'butterfly'?",
+    "question": "Which punctuation mark is used to indicate a pause in speech?",
     "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
+      "Exclamation Mark",
+      "Question Mark",
+      "Comma",
+      "Full Stop"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which word correctly completes this sentence: 'She ate ___ orange for lunch.'",
+    "question": "What is the correct form of a closing in a letter?",
     "options": [
-      "a",
-      "an",
-      "the",
-      "and"
+      "Best, [Your Name]",
+      "Thanks, [Your Name]",
+      "Sincerely, [Your Name]",
+      "Goodbye, [Your Name]"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the main purpose of a dictionary?",
+    "question": "What is the main purpose of a caption in a story?",
     "options": [
-      "To tell exciting stories",
-      "To find the meaning and spelling of words",
-      "To list names of people",
-      "To give directions to places"
+      "To give a title to a section of the story",
+      "To explain a complex idea",
+      "To give a list of characters",
+      "To draw a picture of the story"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

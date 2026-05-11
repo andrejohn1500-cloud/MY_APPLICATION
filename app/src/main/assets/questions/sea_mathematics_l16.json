@@ -1,152 +1,152 @@
 [
   {
-    "question": "A rectangular swimming pool is 25 m long and 12 m wide. A path of uniform width surrounds the pool. If the total area including the path is 630 m\u00b2, what is the width of the path?",
+    "question": "A water tank can hold 1200 litres of water. If 1/2 of the tank is already filled, how many litres of water are left to fill?",
     "options": [
-      "1.5 m",
-      "2 m",
-      "3 m",
-      "2.5 m"
+      "1000",
+      "400",
+      "800",
+      "600"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A group of friends want to share some money in the ratio 1:2:3. If they have a total of $120, how much money will the person with the largest share get?",
+    "options": [
+      "30",
+      "90",
+      "60",
+      "40"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A train travels from Town A to Town B at 80 km/h and returns at 60 km/h. What is the average speed for the entire journey?",
+    "question": "A car travels from city A to city B at an average speed of 80 km/h. If the distance between the two cities is 160 km, how long does the trip take?",
     "options": [
-      "70 km/h",
-      "68.57 km/h",
-      "72 km/h",
-      "65 km/h"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The simple interest on $4,500 for 3 years is $810. What is the annual rate of interest?",
-    "options": [
-      "5%",
-      "6%",
-      "7%",
-      "8%"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is the total surface area of the cylinder? (Use \u03c0 = 22/7)",
-    "options": [
-      "748 cm\u00b2",
-      "754 cm\u00b2",
-      "770 cm\u00b2",
-      "792 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If 3x \u2212 2(x \u2212 4) = 14, what is the value of x?",
-    "options": [
+      "2",
       "4",
       "6",
-      "2",
-      "8"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A map has a scale of 1 : 50,000. Two towns are 8.4 cm apart on the map. What is the actual distance in kilometres?",
-    "options": [
-      "4.2 km",
-      "42 km",
-      "420 km",
-      "4.8 km"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The perimeter of an equilateral triangle is 54 cm. What is the area of the triangle?",
-    "options": [
-      "81\u221a3 cm\u00b2",
-      "108 cm\u00b2",
-      "162 cm\u00b2",
-      "243 cm\u00b2"
+      "3"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A shopkeeper buys an article for $360 and sells it at a profit of 25%. A customer gets a 10% discount on the marked price. What is the actual selling price?",
+    "question": "A car travels from city A to city B at an average speed of 40 km/h. If the distance between the two cities is 160 km, how long does the trip take?",
     "options": [
-      "$405",
-      "$432",
-      "$450",
-      "$396"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a class of 40 students, the ratio of boys to girls is 3 : 5. How many more girls than boys are in the class?",
-    "options": [
+      "6",
       "8",
-      "10",
-      "12",
+      "4",
       "5"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the value of 2\u00b3 \u00d7 3\u00b2 \u2212 4\u00b2 \u00f7 2?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have a total of $120, how much money will the person with the largest share get?",
     "options": [
-      "64",
       "60",
-      "64",
-      "56"
+      "40",
+      "50",
+      "30"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A water tank can hold 1200 litres of water. If 3/4 of the tank is already filled, how many litres of water are left to fill?",
+    "options": [
+      "200",
+      "300",
+      "600",
+      "400"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A cone has a base radius of 6 cm and a slant height of 10 cm. What is the total surface area of the cone? (Use \u03c0 = 3.14)",
+    "question": "A car travels from city A to city B at an average speed of 60 km/h. If the distance between the two cities is 240 km, how long does the trip take?",
     "options": [
-      "301.44 cm\u00b2",
-      "226.08 cm\u00b2",
-      "263.76 cm\u00b2",
-      "339.12 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The mean of five numbers is 18. When a sixth number is added, the mean becomes 20. What is the sixth number?",
-    "options": [
-      "28",
-      "30",
-      "32",
-      "22"
+      "5",
+      "4",
+      "8",
+      "6"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A rectangle has a length that is 4 cm more than twice its width. If the perimeter is 86 cm, what is the area of the rectangle?",
+    "question": "In a right-angled triangle, the length of the hypotenuse is 13 cm and one of the legs is 5 cm. What is the length of the other leg?",
     "options": [
-      "420 cm\u00b2",
-      "390 cm\u00b2",
-      "408 cm\u00b2",
-      "442 cm\u00b2"
+      "8",
+      "15",
+      "10",
+      "12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Solve for x in the equation: 2x^2 - 5x - 3 = 0",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels from city A to city B at an average speed of 40 km/h. If the distance between the two cities is 160 km, how long does the trip take?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A car depreciates in value by 15% each year. If the car is currently worth $24,000, what will its value be after 2 years?",
+    "question": "A rectangular prism has a length of 7 cm, a width of 4 cm, and a height of 3 cm. What is its volume?",
     "options": [
-      "$17,340",
-      "$16,800",
-      "$17,680",
-      "$18,000"
+      "70",
+      "90",
+      "84",
+      "60"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The angles of a quadrilateral are in the ratio 2 : 3 : 4 : 6. What is the size of the largest angle?",
+    "question": "A water tank can hold 1500 litres of water. If 1/3 of the tank is already filled, how many litres of water are left to fill?",
     "options": [
-      "120\u00b0",
-      "144\u00b0",
-      "108\u00b0",
-      "160\u00b0"
+      "800",
+      "400",
+      "500",
+      "600"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve for x in the equation: x^2 - 7x + 12 = 0",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Solve for x in the equation: 2x^2 - 7x + 3 = 0",
+    "options": [
+      "5",
+      "3",
+      "1",
+      "2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve for x in the equation: x^2 + 2x - 6 = 0",
+    "options": [
+      "-3",
+      "2",
+      "4",
+      "-2"
+    ],
+    "correctIndex": 0
   }
 ]

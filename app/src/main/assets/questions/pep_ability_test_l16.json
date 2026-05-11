@@ -1,152 +1,152 @@
 [
   {
-    "question": "If the pattern follows: 2, 6, 18, 54, ___, what is the next number?",
+    "question": "Five cards - 3, 5, 7, 9, and 11 - are placed in a bag. If the 3 is removed, what is the probability of drawing an odd number?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "324"
+      "4/4",
+      "1/2",
+      "3/4",
+      "1/3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangle has a length of 8 cm and a width of 5 cm. What is the area of the rectangle?",
+    "options": [
+      "40",
+      "35",
+      "45",
+      "30"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has 15 employees, with 5 employees on vacation. If 2 more employees are on vacation, what is the probability of selecting an employee who is on vacation?",
+    "options": [
+      "2/3",
+      "7/15",
+      "5/8",
+      "4/5"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A train travels 360 km in 4 hours. How long will it take to travel 540 km at the same speed?",
+    "question": "A company has 10 employees, with 3 employees on vacation. If 2 more employees are on vacation, what is the probability of selecting an employee who is on vacation?",
     "options": [
-      "5 hours",
-      "6 hours",
-      "6.5 hours",
-      "7 hours"
+      "5/10",
+      "2/3",
+      "3/5",
+      "1/2"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Which word is the odd one out: Sonata, Symphony, Concerto, Anthology?",
+    "question": "In a certain sequence, the pattern is: 1, 2, 4, 8, 16. What is the next number in the sequence?",
     "options": [
-      "Sonata",
-      "Symphony",
-      "Concerto",
-      "Anthology"
+      "28",
+      "24",
+      "32",
+      "30"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Five cards - 2, 4, 6, 8, and 10 - are placed in a bag. If the 2 is removed, what is the probability of drawing an even number?",
+    "options": [
+      "1/2",
+      "3/4",
+      "1/3",
+      "4/4"
     ],
     "correctIndex": 3
   },
   {
-    "question": "If all Bloops are Razzies and all Razzies are Lazzies, which statement must be true?",
+    "question": "A company has 20 employees, with 5 employees on vacation. If 2 more employees are on vacation, what is the probability of selecting an employee who is on vacation?",
     "options": [
-      "All Lazzies are Bloops",
-      "All Bloops are Lazzies",
-      "All Razzies are Bloops",
-      "Some Lazzies are not Razzies"
+      "1/2",
+      "5/8",
+      "3/5",
+      "7/20"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A rectangle has a perimeter of 54 cm. If the length is twice the width, what is the area of the rectangle?",
+    "question": "A water tank can hold 800 liters of water. If 400 liters of water are already in the tank, how many more liters can be added?",
     "options": [
-      "162 cm\u00b2",
-      "108 cm\u00b2",
-      "81 cm\u00b2",
-      "243 cm\u00b2"
+      "400",
+      "500",
+      "700",
+      "600"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which number should replace the question mark? 7, 13, 25, 49, 97, ?",
+    "question": "A bakery sells 250 loaves of bread per day. If they increase their sales by 30%, how many loaves will they sell in a day?",
     "options": [
-      "145",
-      "193",
-      "181",
-      "169"
+      "275",
+      "225",
+      "325",
+      "300"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "DEPARTURE is to ARRIVAL as EXPORT is to:",
+    "question": "In a certain sequence, the pattern is: 3, 6, 9, 12, 15. What is the next number in the sequence?",
     "options": [
-      "Shipment",
-      "Import",
-      "Trade",
-      "Freight"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A shopkeeper buys goods for $480 and sells them at a 35% profit. What is the selling price?",
-    "options": [
-      "$628",
-      "$648",
-      "$636",
-      "$618"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which figure completes the sequence if the pattern alternates between rotating 90\u00b0 clockwise and adding one side to a shape: Triangle, Square, Triangle rotated, Pentagon, ?",
-    "options": [
-      "Square rotated",
-      "Pentagon rotated",
-      "Hexagon",
-      "Triangle"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If 5x - 3y = 22 and x + y = 10, what is the value of x?",
-    "options": [
-      "7",
-      "8",
-      "6",
-      "9"
+      "18",
+      "20",
+      "22",
+      "16"
     ],
     "correctIndex": 0
   },
   {
-    "question": "OPAQUE is to TRANSPARENT as CACOPHONY is to:",
+    "question": "A group of friends - Alex, Ben, Charlie, David, and Emily - are planning a trip. If 2/3 of the group are going, how many friends are going?",
     "options": [
-      "Silence",
-      "Harmony",
-      "Noise",
-      "Melody"
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has 10 employees, with 2 employees on vacation. If 3 more employees are on vacation, what is the probability of selecting an employee who is on vacation?",
+    "options": [
+      "2/3",
+      "5/8",
+      "1/2",
+      "3/5"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Three workers can complete a job in 12 days. How many days would it take 9 workers to complete the same job?",
+    "question": "A rectangle has a length of 12 cm and a width of 8 cm. What is the area of the rectangle?",
     "options": [
-      "3 days",
-      "4 days",
-      "6 days",
-      "2 days"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word cannot be made from the letters of DEMONSTRATE?",
-    "options": [
-      "MONSTER",
-      "REMOTE",
-      "STATED",
-      "MODERN"
+      "100",
+      "90",
+      "96",
+      "80"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A cube has a surface area of 294 cm\u00b2. What is the volume of the cube?",
+    "question": "In a certain sequence, the pattern is: 2, 5, 8, 11, 14. What is the next number in the sequence?",
     "options": [
-      "216 cm\u00b3",
-      "343 cm\u00b3",
-      "512 cm\u00b3",
-      "729 cm\u00b3"
+      "17",
+      "15",
+      "18",
+      "16"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In a class of 40 students, 55% are girls. If 4 girls leave and 6 boys join, what percentage of the new class are boys?",
+    "question": "In a certain sequence, the pattern is: 1, 3, 5, 7, 9. What is the next number in the sequence?",
     "options": [
-      "45%",
-      "48%",
-      "50%",
-      "52%"
+      "15",
+      "10",
+      "13",
+      "11"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   }
 ]

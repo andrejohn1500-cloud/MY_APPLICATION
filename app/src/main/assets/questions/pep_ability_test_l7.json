@@ -1,152 +1,152 @@
 [
   {
-    "question": "If the pattern is 2, 6, 18, 54, what is the next number?",
+    "question": "A rectangular garden measures 20 meters by 15 meters. A path that is 2 meters wide is built around it. What is the area of the path?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "270"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A train travels 240 km in 3 hours. How long will it take to travel 400 km at the same speed?",
-    "options": [
-      "4 hours",
-      "5 hours",
-      "6 hours",
-      "4.5 hours"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is the odd one out: Robin, Eagle, Sparrow, Salmon, Hawk?",
-    "options": [
-      "Eagle",
-      "Robin",
-      "Salmon",
-      "Hawk"
+      "80",
+      "68",
+      "92",
+      "76"
     ],
     "correctIndex": 2
   },
   {
-    "question": "If ALL squares are rectangles and SOME rectangles are rhombuses, which statement must be true?",
+    "question": "If a box of crayons weighs 1.5 kg and contains 12 crayons, how much does each crayon weigh?",
     "options": [
-      "All rectangles are squares",
-      "Some squares may be rhombuses",
-      "All rhombuses are squares",
-      "No square is a rhombus"
+      "0.3 kg",
+      "0.125 kg",
+      "0.2 kg",
+      "0.15 kg"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 35% of 280?",
+    "question": "A group of friends want to share some money in the ratio 3:5. If they have a total of $80, how much will the person with the larger share get?",
     "options": [
-      "84",
-      "96",
-      "98",
-      "105"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Complete the analogy: Book is to Library as Painting is to ___?",
-    "options": [
-      "Artist",
-      "Canvas",
-      "Gallery",
-      "Museum"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In a class of 40 students, 60% are girls. How many boys are in the class?",
-    "options": [
-      "14",
-      "16",
-      "18",
-      "24"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which number comes next in the sequence: 1, 4, 9, 16, 25, ___?",
-    "options": [
-      "30",
-      "36",
-      "49",
-      "35"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If COLD is coded as DPME, how is WARM coded?",
-    "options": [
-      "XBSO",
-      "XBSN",
-      "WBSN",
-      "VBQM"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A rectangle has a perimeter of 36 cm. If its length is 11 cm, what is its width?",
-    "options": [
-      "5 cm",
-      "6 cm",
-      "7 cm",
-      "8 cm"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Three workers can complete a job in 12 days. How many days would it take 4 workers to complete the same job?",
-    "options": [
-      "8 days",
-      "9 days",
-      "10 days",
-      "16 days"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which shape has exactly 5 faces, 9 edges, and 6 vertices?",
-    "options": [
-      "Cube",
-      "Triangular prism",
-      "Square pyramid",
-      "Triangular pyramid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If today is Wednesday, what day will it be 100 days from now?",
-    "options": [
-      "Monday",
-      "Tuesday",
-      "Friday",
-      "Saturday"
+      "$40",
+      "$35",
+      "$45",
+      "$30"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Find the missing value: 7 : 49 :: 9 : ___?",
+    "question": "A store sells a total of 300 shirts in a week. The ratio of red shirts to blue shirts is 5:4. How many blue shirts were sold?",
     "options": [
-      "63",
-      "81",
-      "72",
-      "54"
+      "50",
+      "125",
+      "75",
+      "150"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A bus travels from Spanish Town to Savanna-la-Mar at an average speed of 40 km/h. How long will it take to cover a distance of 160 km?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "3 hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A company has 300 employees. If 20% are absent, how many employees are absent?",
+    "options": [
+      "40",
+      "30",
+      "60",
+      "50"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A water tank can hold 1200 liters of water. If 300 liters of water are already in the tank, how many more liters can be added?",
+    "options": [
+      "600",
+      "800",
+      "400",
+      "900"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a certain code, the word 'DATA' is written as 'TBAD'. How is the word 'DATE' written in this code?",
+    "options": [
+      "TBDT",
+      "TEBD",
+      "TBDE",
+      "TBED"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A shopkeeper buys an item for $80 and sells it for $100. What is the percentage profit?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If the total amount of money is $120, how much will the person with the largest share get?",
     "options": [
-      "20%",
-      "25%",
-      "15%",
-      "30%"
+      "70",
+      "80",
+      "50",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A box of eggs weighs 2 kg. If 12 eggs are packed in a box, how much does each egg weigh?",
+    "options": [
+      "0.167 kg",
+      "0.25 kg",
+      "0.2 kg",
+      "0.5 kg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A rectangular garden measures 25 meters by 18 meters. A path that is 3 meters wide is built around it. What is the area of the path?",
+    "options": [
+      "108",
+      "100",
+      "120",
+      "110"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If a pencil is 15 cm long and is divided into 5 parts, how long is each part?",
+    "options": [
+      "1 cm",
+      "3 cm",
+      "2 cm",
+      "4 cm"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have a total of $120, how much will the person with the smallest share get?",
+    "options": [
+      "$15",
+      "$18",
+      "$20",
+      "$25"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 80 km/h. On the return journey, the average speed is 60 km/h. What is the average speed for the entire trip?",
+    "options": [
+      "68",
+      "70",
+      "72",
+      "66"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A rectangular prism measures 8 meters by 5 meters by 3 meters. What is its volume?",
+    "options": [
+      "120",
+      "110",
+      "100",
+      "130"
+    ],
+    "correctIndex": 0
   }
 ]

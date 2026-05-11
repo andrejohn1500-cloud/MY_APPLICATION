@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the value of 3\u00b2 + 4\u00b2?",
+    "question": "A water tank can hold 1200 litres of water. If 3/5 of the tank is filled, how many litres of water are in the tank?",
     "options": [
-      "A. 14",
-      "B. 25",
-      "C. 49",
-      "D. 7"
+      "600",
+      "720",
+      "900",
+      "800"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its perimeter?",
+    "question": "What is the value of x in the equation x - 2 = 7?",
     "options": [
-      "A. 84 cm",
-      "B. 38 cm",
-      "C. 19 cm",
-      "D. 42 cm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following fractions is equivalent to 3/4?",
-    "options": [
-      "A. 6/10",
-      "B. 9/16",
-      "C. 12/16",
-      "D. 6/8"
+      "8",
+      "11",
+      "9",
+      "10"
     ],
     "correctIndex": 2
   },
   {
-    "question": "If a shirt costs $45.00 and is discounted by 20%, what is the sale price?",
+    "question": "What is the value of x in the equation 2(x + 3) = 16?",
     "options": [
-      "A. $9.00",
-      "B. $36.00",
-      "C. $25.00",
-      "D. $40.00"
+      "7",
+      "8",
+      "5",
+      "6"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the Lowest Common Multiple (LCM) of 6 and 8?",
+    "question": "A set of numbers has a mean of 25 and a median of 20. What is the mode if the sum of the numbers is 100?",
     "options": [
-      "A. 48",
-      "B. 14",
-      "C. 2",
-      "D. 24"
+      "25",
+      "15",
+      "30",
+      "20"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A triangular prism has how many faces?",
+    "question": "A set of numbers has a mode of 10 and a range of 20. What is the mean if the sum of the numbers is 80?",
     "options": [
-      "A. 4",
-      "B. 6",
-      "C. 5",
-      "D. 8"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Solve for x: 3x - 7 = 14",
-    "options": [
-      "A. x = 7",
-      "B. x = 9",
-      "C. x = 21",
-      "D. x = 3"
+      "12",
+      "14",
+      "10",
+      "16"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is 2/5 expressed as a percentage?",
+    "question": "What is 4.5 + 2.8?",
     "options": [
-      "A. 25%",
-      "B. 40%",
-      "C. 45%",
-      "D. 52%"
+      "6.3",
+      "7.1",
+      "7.3",
+      "8.2"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "The mean of the numbers 8, 12, 6, 10, and 14 is:",
+    "question": "A bakery sells 480 cakes in a day. If they make a profit of $0.50 on each cake, how much profit do they make in a day?",
     "options": [
-      "A. 10",
-      "B. 12",
-      "C. 8",
-      "D. 50"
+      "240",
+      "200",
+      "150",
+      "100"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A car travels at 60 km/h. How far will it travel in 2 hours and 30 minutes?",
+    "question": "A shop sells a pair of shoes for $45. If a 10% discount is given, how much will the customer pay?",
     "options": [
-      "A. 120 km",
-      "B. 130 km",
-      "C. 150 km",
-      "D. 180 km"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which shape has exactly one pair of parallel sides?",
-    "options": [
-      "A. Rectangle",
-      "B. Rhombus",
-      "C. Trapezium",
-      "D. Parallelogram"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the value of the digit 7 in the number 3,726,041?",
-    "options": [
-      "A. 7,000",
-      "B. 700,000",
-      "C. 70,000",
-      "D. 7,000,000"
+      "41",
+      "40.5",
+      "38",
+      "39"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A bag contains 4 red balls, 3 blue balls, and 5 green balls. What is the probability of randomly picking a blue ball?",
+    "question": "A rectangular garden measures 8m by 5m. What is its perimeter?",
     "options": [
-      "A. 1/4",
-      "B. 3/11",
-      "C. 1/3",
-      "D. 3/4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the area of a circle with a radius of 7 cm? (Use \u03c0 = 22/7)",
-    "options": [
-      "A. 44 cm\u00b2",
-      "B. 154 cm\u00b2",
-      "C. 49 cm\u00b2",
-      "D. 22 cm\u00b2"
+      "28",
+      "26",
+      "30",
+      "24"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following numbers is a prime number?",
+    "question": "A circle has a diameter of 14cm. What is its circumference?",
     "options": [
-      "A. 27",
-      "B. 51",
-      "C. 43",
-      "D. 91"
+      "44",
+      "42",
+      "43.98",
+      "40"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A company is selling a product at a 20% discount. If the original price is $80, what is the sale price?",
+    "options": [
+      "65",
+      "60",
+      "70",
+      "64"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A rectangular prism has a length of 6cm, a width of 4cm, and a height of 2cm. What is its surface area?",
+    "options": [
+      "52",
+      "60",
+      "48",
+      "56"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Simplify the fraction 12/16.",
+    "options": [
+      "2/3",
+      "1/2",
+      "3/4",
+      "1/3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular prism has a length of 10cm, a width of 5cm, and a height of 3cm. What is its volume?",
+    "options": [
+      "160",
+      "150",
+      "140",
+      "120"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the decimal equivalent of 3/8?",
+    "options": [
+      "0.25",
+      "0.375",
+      "0.3",
+      "0.5"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "If f(x) = 3x\u00b2 - 2x + 5, what is f(-3)?",
+    "question": "A box contains 15 red marbles, 20 blue marbles, and 8 green marbles. What is the probability of drawing a blue marble at random?",
     "options": [
-      "A) 38",
-      "B) 44",
-      "C) 32",
-      "D) 20"
+      "10/43",
+      "5/43",
+      "15/43",
+      "20/43"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "A bag contains 4 red, 6 blue, and 5 green marbles. Two marbles are drawn without replacement. What is the probability that both marbles are blue?",
+    "question": "Solve for x: x^2 - 4x + 4 = 0",
     "options": [
-      "A) 1/7",
-      "B) 2/7",
-      "C) 36/225",
-      "D) 1/5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Solve for x: 2x\u00b2 - 7x - 15 = 0",
-    "options": [
-      "A) x = 5 or x = -3/2",
-      "B) x = -5 or x = 3/2",
-      "C) x = 5 or x = 3",
-      "D) x = -5 or x = -3/2"
+      "2",
+      "-1",
+      "-2",
+      "1"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The sum of the interior angles of a polygon is 1440\u00b0. How many sides does the polygon have?",
+    "question": "A bakery sells a total of 480 loaves of bread per day. The ratio of whole wheat to white bread is 3:5. How many loaves of white bread are sold?",
     "options": [
-      "A) 8",
-      "B) 9",
-      "C) 10",
-      "D) 12"
+      "80",
+      "120",
+      "240",
+      "160"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A car travels 240 km in 3 hours, then 180 km in 2 hours. What is the average speed for the entire journey?",
+    "question": "Solve for x: x^2 + 4x - 5 = 0",
     "options": [
-      "A) 84 km/h",
-      "B) 82 km/h",
-      "C) 80 km/h",
-      "D) 78 km/h"
+      "1",
+      "-5",
+      "5",
+      "3"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "Simplify: (2x\u00b3y\u00b2)\u00b3 \u00f7 (4x\u00b2y)\u00b2",
+    "question": "Simplify: 3(2x + 1) - 2(3x - 2)",
     "options": [
-      "A) 2x\u2075y\u2074",
-      "B) x\u2075y\u2074/2",
-      "C) 2x\u2075y\u2074/4",
-      "D) 4x\u2075y\u2074"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is the total surface area? (Use \u03c0 = 22/7)",
-    "options": [
-      "A) 748 cm\u00b2",
-      "B) 704 cm\u00b2",
-      "C) 528 cm\u00b2",
-      "D) 770 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If log\u2082(x) + log\u2082(x - 6) = 4, what is the value of x?",
-    "options": [
-      "A) 8",
-      "B) 2",
-      "C) 10",
-      "D) 6"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The mean of 8 numbers is 15. When a 9th number is added, the mean becomes 16. What is the 9th number?",
-    "options": [
-      "A) 20",
-      "B) 22",
-      "C) 24",
-      "D) 26"
+      "x - 5",
+      "x - 10",
+      "x + 10",
+      "x + 5"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Triangle ABC is similar to triangle DEF. If AB = 6 cm, BC = 8 cm, and DE = 9 cm, what is the length of EF?",
+    "question": "A box of apples weighs 3.5 kg. If a 25% discount is applied, how much will you pay?",
     "options": [
-      "A) 10 cm",
-      "B) 11 cm",
-      "C) 12 cm",
-      "D) 14 cm"
+      "2.625",
+      "3.5",
+      "3",
+      "2.5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cylinder has a height of 10cm and a radius of 4cm. What is its volume?",
+    "options": [
+      "500",
+      "600",
+      "402.12",
+      "400"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the value of x if 5^(2x-1) = 125?",
+    "question": "Simplify: 4(2x + 1) - 3(3x - 2)",
     "options": [
-      "A) 1",
-      "B) 2",
-      "C) 3",
-      "D) 4"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A rectangle has a perimeter of 54 cm. If the length is 3 cm more than twice the width, what is the area of the rectangle?",
-    "options": [
-      "A) 162 cm\u00b2",
-      "B) 170 cm\u00b2",
-      "C) 180 cm\u00b2",
-      "D) 192 cm\u00b2"
+      "17x - 10",
+      "7x - 10",
+      "7x + 10",
+      "17x + 10"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In a class of 40 students, 25 play football, 20 play cricket, and 10 play both. How many students play neither sport?",
+    "question": "A group of students scored the following marks: 70, 80, 90, 75, 85. What is the mode of the data?",
     "options": [
-      "A) 3",
-      "B) 5",
-      "C) 7",
-      "D) 10"
+      "85",
+      "70",
+      "90",
+      "80"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A box of fruit weighs 2.8 kg. If a 20% discount is applied, how much will you pay?",
+    "options": [
+      "2.8",
+      "2.6",
+      "2.24",
+      "2.5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Find the area of a circle with radius 4 cm.",
+    "options": [
+      "60",
+      "50.24",
+      "40",
+      "48"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the gradient of a line perpendicular to 3x - 4y + 8 = 0?",
+    "question": "A company made a profit of $120,000 in a year. If they made a profit of $50,000 in the first 6 months and a profit of $30,000 in the second 6 months, what was their profit in the remaining 6 months?",
     "options": [
-      "A) 3/4",
-      "B) -4/3",
-      "C) 4/3",
-      "D) -3/4"
+      "15,000",
+      "20,000",
+      "25,000",
+      "30,000"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A shopkeeper buys an item for $450 and sells it at a profit of 20%. If a customer pays with $600, how much change does the customer receive?",
+    "question": "A shop sells a pair of shoes for $120. If a 10% discount is applied, how much will you pay?",
     "options": [
-      "A) $50",
-      "B) $60",
-      "C) $70",
-      "D) $80"
+      "108",
+      "120",
+      "110",
+      "100"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have $180, how much will the person with the largest share get?",
+    "options": [
+      "60",
+      "40",
+      "70",
+      "90"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Find the volume of a rectangular prism with length 6 cm, width 4 cm, and height 3 cm.",
+    "options": [
+      "72",
+      "90",
+      "80",
+      "60"
+    ],
+    "correctIndex": 0
   }
 ]

@@ -1,152 +1,132 @@
 [
   {
-    "question": "Which literary device is used in the sentence: 'The wind whispered secrets through the ancient trees'?",
+    "question": "What is the correct form of the adjective 'beautiful' in the sentence: 'The city is a beautiful place to visit.'",
     "options": [
-      "Personification",
-      "Simile",
-      "Hyperbole",
-      "Alliteration"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Identify the correct use of a semicolon in the following options:",
-    "options": [
-      "She loves reading; and writing poetry.",
-      "He finished his homework; then he went outside to play.",
-      "They bought apples; oranges and bananas.",
-      "I enjoy swimming; but not in cold water."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sentences contains a misplaced modifier?",
-    "options": [
-      "Running quickly, Maria reached the bus stop in time.",
-      "Covered in mud, the dog ran through the house.",
-      "She almost drove her children to school every day.",
-      "The teacher explained the difficult concept clearly."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the meaning of the prefix 'bene-' in the word 'benefactor'?",
-    "options": [
-      "Against",
-      "Well or good",
-      "Before",
-      "Under"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the sentence 'Had she studied harder, she would have passed the exam,' which grammatical mood is being used?",
-    "options": [
-      "Indicative mood",
-      "Imperative mood",
-      "Subjunctive mood",
-      "Interrogative mood"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of figurative language is used in: 'Life is a journey with no guaranteed destination'?",
-    "options": [
-      "Metaphor",
-      "Onomatopoeia",
-      "Oxymoron",
-      "Allusion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Choose the sentence that demonstrates correct subject-verb agreement:",
-    "options": [
-      "The group of students are studying for their exams.",
-      "Neither the teacher nor the students was prepared.",
-      "Each of the players have their own strategy.",
-      "The committee has reached its final decision."
+      "beauty",
+      "beautifly",
+      "beautifully",
+      "beautiful"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is an 'unreliable narrator' in literature?",
+    "question": "Read the passage and answer the question: 'The sun was setting over the horizon, casting a golden glow over the landscape. The sky was painted with hues of pink and orange, and the air was filled with a sense of peace.' What is the author's use of imagery?",
     "options": [
-      "A narrator who tells the story from a third-person perspective",
-      "A narrator whose credibility is compromised by bias, limited knowledge, or dishonesty",
-      "A narrator who skips important parts of the story",
-      "A narrator who uses overly complex language"
+      "to create a sense of urgency",
+      "to create a peaceful atmosphere",
+      "to tell a story about a person",
+      "to describe a stormy weather"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Identify the sentence that uses the passive voice correctly:",
+    "question": "Read the passage and answer the question: 'The novel 'The Lord of the Flies' by William Golding, explores the idea of human nature and its darkness. What is the author's purpose?",
     "options": [
-      "The championship was won by our school's team last year.",
-      "Our school's team was winning the championship.",
-      "The team won the championship by our school.",
-      "The championship our school's team was won."
+      "to tell a story about a person",
+      "to entertain the reader",
+      "to describe a historical event",
+      "to explore the theme of human nature"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Read the passage and answer the question: 'The novel 'The Grapes of Wrath' by John Steinbeck, explores the idea of the Great Depression and its effects on society. What is the author's purpose?",
+    "options": [
+      "to tell a story about a person",
+      "to raise awareness about the Great Depression",
+      "to entertain the reader",
+      "to describe a historical event"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Identify the type of figurative language used in the sentence: 'The sun was setting over the horizon, casting a golden glow over the landscape.'",
+    "options": [
+      "simile",
+      "alliteration",
+      "metaphor",
+      "personification"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word is an antonym for 'verbose'?",
+    "question": "What is the correct form of the verb 'to have' in the sentence: 'I have been studying English for three years.'",
     "options": [
-      "Talkative",
-      "Eloquent",
-      "Concise",
-      "Elaborate"
+      "has",
+      "had",
+      "have been",
+      "have"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A story that teaches a moral lesson using animals as characters is best described as:",
+    "question": "What is the correct form of the adjective 'beautiful' in the sentence: 'The city is a beautiful place to visit.'",
     "options": [
-      "A myth",
-      "A fable",
-      "A legend",
-      "An allegory"
+      "beauty",
+      "beautiful",
+      "beautifly",
+      "beautifully"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which sentence contains a correctly used appositive phrase?",
+    "question": "What is the correct punctuation to use when listing items that are already mentioned in the text?",
     "options": [
-      "My brother, who is tall runs track.",
-      "Shakespeare, the famous English playwright, wrote Hamlet.",
-      "The dog that is black and white, barks loudly.",
-      "My teacher she explains everything clearly."
+      "comma",
+      "period",
+      "exclamation mark",
+      "semicolon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct form of the verb 'to have' in the sentence: 'I have been studying English for three years.'",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "have been"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Read the passage and answer the question: 'The novel 'The Great Gatsby' by F. Scott Fitzgerald, explores the idea of the American Dream and its illusion. What is the author's purpose?",
+    "options": [
+      "to critique the American Dream",
+      "to tell a story about a person",
+      "to describe a historical event",
+      "to entertain the reader"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Read the passage and answer the question: 'The novel 'The Picture of Dorian Gray' by Oscar Wilde, explores the idea of vanity and its corrupting influence. What is the author's purpose?",
+    "options": [
+      "to entertain the reader",
+      "to critique the idea of vanity",
+      "to describe a historical event",
+      "to tell a story about a person"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does 'dramatic irony' mean in a literary context?",
+    "question": "What is the correct spelling of the word 'separate' in the sentence: 'The teacher told the students that they would have to separate into groups for the project.'",
     "options": [
-      "When a character says something funny to make others laugh",
-      "When the audience knows something that the characters do not",
-      "When the ending of a story is the opposite of what was expected",
-      "When two characters have an intense argument on stage"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the option that correctly identifies the type of clause underlined: 'She left early [because she had an appointment].'",
-    "options": [
-      "Independent clause",
-      "Noun clause",
-      "Adverbial clause",
-      "Adjective clause"
+      "seperatee",
+      "seperete",
+      "separate",
+      "seperate"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following best describes the term 'connotation'?",
+    "question": "Read the poem and answer the question: 'The poem 'The Road Not Taken' by Robert Frost, explores the idea of choice and its consequences. What is the speaker's attitude towards the choice he has made?",
     "options": [
-      "The dictionary definition of a word",
-      "The emotional or cultural association attached to a word beyond its literal meaning",
-      "The grammatical function of a word in a sentence",
-      "The origin and historical development of a word"
+      "regretful",
+      "excited",
+      "proud",
+      "indifferent"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

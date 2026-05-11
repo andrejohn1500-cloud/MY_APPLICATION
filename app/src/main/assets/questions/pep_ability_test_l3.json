@@ -1,152 +1,122 @@
 [
   {
-    "question": "What is 15 + 27?",
+    "question": "If a car travels 250 miles in 5 hours, how many miles does it travel per hour?",
     "options": [
-      "42",
-      "41",
-      "43",
-      "40"
+      "50 miles/hour",
+      "60 miles/hour",
+      "70 miles/hour",
+      "40 miles/hour"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which shape has exactly 4 equal sides and 4 right angles?",
+    "question": "Which of the following is a type of geometric shape?",
     "options": [
       "Rectangle",
-      "Square",
-      "Rhombus",
-      "Trapezoid"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What comes next in the pattern: 2, 4, 6, 8, ?",
-    "options": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is a synonym for 'happy'?",
-    "options": [
-      "Sad",
-      "Angry",
-      "Joyful",
-      "Tired"
+      "Circle",
+      "Triangle",
+      "Square"
     ],
     "correctIndex": 2
   },
   {
-    "question": "How many days are in a week?",
+    "question": "Which of the following is a type of triangle?",
     "options": [
-      "5",
-      "6",
-      "8",
-      "7"
+      "Square",
+      "Circle",
+      "Rectangle",
+      "Equilateral"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which number is the largest?",
+    "question": "A woman has 3 children. Her first child is a boy, and the other two are girls. What is the probability that her third child is a boy?",
     "options": [
-      "45",
-      "54",
-      "44",
-      "49"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If a bag has 10 apples and you take away 3, how many are left?",
-    "options": [
-      "6",
-      "8",
-      "7",
-      "9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a mammal?",
-    "options": [
-      "Eagle",
-      "Shark",
-      "Dog",
-      "Frog"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the opposite of 'tall'?",
-    "options": [
-      "Big",
-      "Short",
-      "Thin",
-      "Heavy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which fraction is equal to one half?",
-    "options": [
+      "1/2",
       "1/3",
-      "2/5",
-      "3/6",
+      "1/6",
       "1/4"
     ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bus has 30 seats. If 15 people are already seated, what is the number of seats left?",
+    "options": [
+      "10",
+      "20",
+      "15",
+      "25"
+    ],
     "correctIndex": 2
   },
   {
-    "question": "If today is Monday, what day will it be in 3 days?",
+    "question": "A cube has all sides of equal length. If the length of one side is 5 cm, what is the volume of the cube?",
     "options": [
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Tuesday"
+      "125 cubic cm",
+      "150 cubic cm",
+      "100 cubic cm",
+      "200 cubic cm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If a bakery sells 250 loaves of bread per day at $2.50 per loaf, how much money does the bakery make in a day?",
+    "options": [
+      "600",
+      "625",
+      "650",
+      "700"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which planet is closest to the Sun?",
+    "question": "What is the next number in the sequence: 1, 3, 5, 7, 9, ?",
     "options": [
-      "Earth",
-      "Venus",
-      "Mercury",
-      "Mars"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 8 multiplied by 3?",
-    "options": [
-      "21",
-      "24",
-      "18",
-      "27"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Rose",
-      "Tulip",
-      "Oak",
-      "Daisy"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A clock shows 3:00. What angle do the hands form?",
-    "options": [
-      "180 degrees",
-      "45 degrees",
-      "60 degrees",
-      "90 degrees"
+      "12",
+      "10",
+      "13",
+      "11"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "If a bookshelf has 5 shelves, and each shelf can hold 8 books, how many books can the bookshelf hold in total?",
+    "options": [
+      "40",
+      "60",
+      "30",
+      "50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "If 5 pencils cost $15, how much will 7 pencils cost?",
+    "options": [
+      "$17",
+      "$18",
+      "$19",
+      "$21"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels from point A to point B at an average speed of 60 km/h and returns at an average speed of 40 km/h. What is the average speed for the round trip?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "55"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A group of friends want to share some money in the ratio 3:5:7. If they have a total of $300, how much money will the person with the largest share get?",
+    "options": [
+      "105",
+      "70",
+      "90",
+      "60"
+    ],
+    "correctIndex": 0
   }
 ]

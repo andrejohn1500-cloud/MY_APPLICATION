@@ -1,147 +1,102 @@
 [
   {
-    "question": "What is 345 + 278?",
+    "question": "Simplify: 6 \u00d7 3",
     "options": [
-      "613",
-      "623",
-      "633",
-      "643"
+      "15",
+      "18",
+      "20",
+      "24"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 900 - 364?",
+    "question": "What is 1/2 of 16?",
     "options": [
-      "526",
-      "536",
-      "546",
-      "556"
+      "4",
+      "8",
+      "12",
+      "6"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is 24 \u00d7 6?",
+    "question": "A pencil is 15 cm long. If it is divided into 5 parts, how long is each part?",
     "options": [
-      "124",
-      "134",
-      "144",
-      "154"
+      "3",
+      "2",
+      "4",
+      "5"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is 96 \u00f7 8?",
-    "options": "[\"10\",\"11\",\"12\",\"13\"]",
-    "correctIndex": 2
-  },
-  {
-    "question": "Which fraction is equivalent to 1/2?",
+    "question": "What is 75% of 80?",
     "options": [
-      "2/3",
-      "3/4",
-      "4/8",
-      "5/9"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the perimeter of a rectangle with length 10 cm and width 5 cm?",
-    "options": [
-      "15 cm",
-      "25 cm",
-      "30 cm",
-      "50 cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the area of a square with side length 7 cm?",
-    "options": [
-      "14 cm\u00b2",
-      "28 cm\u00b2",
-      "42 cm\u00b2",
-      "49 cm\u00b2"
+      "50",
+      "70",
+      "80",
+      "60"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is 15% of 200?",
+    "question": "50% of 120 is?",
+    "options": [
+      "40",
+      "60",
+      "80",
+      "100"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "5% of 90 is?",
+    "options": [
+      "5",
+      "4.5",
+      "6",
+      "3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 1/8 of 16?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is 1/2 of 24?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 25% of 60?",
     "options": [
       "20",
-      "25",
       "30",
-      "35"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Round 4,768 to the nearest hundred.",
-    "options": [
-      "4,700",
-      "4,800",
-      "4,900",
-      "5,000"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A bag has 3 red balls, 4 blue balls, and 3 green balls. What is the probability of picking a blue ball?",
-    "options": [
-      "1/4",
-      "2/5",
-      "3/10",
-      "4/10"
+      "10",
+      "15"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the value of the digit 6 in the number 3,641?",
+    "question": "Simplify: 4 + 6",
     "options": [
-      "6",
-      "60",
-      "600",
-      "6,000"
+      "10",
+      "11",
+      "12",
+      "8"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "How many minutes are in 3 hours?",
-    "options": [
-      "120",
-      "150",
-      "180",
-      "210"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 3/4 + 1/4?",
-    "options": [
-      "2/4",
-      "3/8",
-      "1",
-      "4/8"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If a pencil costs $2.50 and a ruler costs $1.75, how much do both items cost altogether?",
-    "options": [
-      "$3.75",
-      "$4.00",
-      "$4.25",
-      "$4.50"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following shapes has exactly 4 equal sides and 4 right angles?",
-    "options": [
-      "Rectangle",
-      "Rhombus",
-      "Square",
-      "Parallelogram"
-    ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 ]

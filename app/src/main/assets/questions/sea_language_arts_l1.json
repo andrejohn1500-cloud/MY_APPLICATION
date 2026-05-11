@@ -1,151 +1,151 @@
 [
   {
-    "question": "Which of the following is a noun?",
+    "question": "Which of the following is a type of text?",
     "options": [
-      "Run",
-      "Happy",
-      "Cat",
-      "Quickly"
+      "Narrative",
+      "Descriptive",
+      "Expository",
+      "Poetry"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which sentence has correct punctuation?",
+    "question": "What is the correct spelling of the word 'seperation'",
     "options": [
-      "where are you going",
-      "Where are you going?",
-      "where are you going?",
-      "Where are you going"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word is a verb?",
-    "options": [
-      "Beautiful",
-      "Jump",
-      "Slowly",
-      "House"
+      "seperations",
+      "separation",
+      "seperated",
+      "seperation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is an example of a proper noun?",
+    "question": "Which of the following is a type of figurative language?",
     "options": [
-      "city",
-      "river",
-      "Trinidad",
-      "school"
+      "Simile",
+      "Alliteration",
+      "Metaphor",
+      "Onomatopoeia"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Choose the correct spelling:",
+    "question": "Which punctuation mark is used to separate items in a list?",
     "options": [
-      "freind",
-      "frend",
-      "friend",
-      "freiend"
+      "Exclamation Mark",
+      "Question Mark",
+      "Full Stop",
+      "Comma"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
-    "question": "Which sentence is a question?",
+    "question": "What is the correct spelling of the word 'indescrishible'",
     "options": [
-      "Close the door.",
-      "The dog is barking.",
-      "What time is it?",
-      "She likes mangoes."
+      "indescribable",
+      "indescrutable",
+      "indescrishible",
+      "indescribably"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "Which word means the opposite of 'hot'?",
+    "question": "What is the main difference between a poem and a story?",
     "options": [
-      "Warm",
-      "Cold",
-      "Dry",
-      "Bright"
+      "Stories use more poetry",
+      "Poems are longer than stories",
+      "Poems are only for children",
+      "Poems are often shorter and use rhyme and rhythm"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of speech?",
+    "options": [
+      "Descriptive",
+      "Dialogue",
+      "Narrative",
+      "Expository"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following words is an adjective?",
+    "question": "What is the correct way to address someone in a letter?",
     "options": [
-      "Sing",
-      "Tall",
-      "Slowly",
-      "Book"
+      "Dear Mr./Ms./Mrs./Dr. Last Name",
+      "What's up [Their Name]",
+      "Hello First Name",
+      "Hi [Your Name]"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the correct way to end a letter?",
+    "options": [
+      "Goodbye, [Your Name]",
+      "Best, [Your Name]",
+      "Thanks, [Your Name]",
+      "Sincerely, [Your Name]"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a type of fiction?",
+    "options": [
+      "Novel",
+      "History Book",
+      "Poem",
+      "Dictionary"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the main difference between a narrative and a descriptive text?",
+    "options": [
+      "Descriptive texts tell a story",
+      "Narrative texts describe a scene",
+      "Narrative texts tell a story while descriptive texts describe a scene",
+      "Both narrative and descriptive texts tell a story"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the correct spelling of the word 'independant'",
+    "options": [
+      "independanty",
+      "independent",
+      "independance",
+      "independant"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A paragraph is made up of:",
+    "question": "Which of the following is a type of poetry?",
     "options": [
-      "One word",
-      "One letter",
-      "A group of related sentences",
-      "A single sentence only"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word rhymes with 'cake'?",
-    "options": [
-      "Back",
-      "Lake",
-      "Call",
-      "Came"
+      "Haiku",
+      "Sonnet",
+      "Free Verse",
+      "Acrostic"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a complete sentence?",
+    "question": "Which punctuation mark is used to indicate a quotation?",
     "options": [
-      "The big dog.",
-      "Running fast.",
-      "She eats rice every day.",
-      "In the morning."
+      "Quotation Marks",
+      "Exclamation Mark",
+      "Full Stop",
+      "Comma"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What punctuation mark is used at the end of a command?",
+    "question": "What is the correct way to address a group of people in a letter?",
     "options": [
-      "Question mark",
-      "Comma",
-      "Full stop",
-      "Exclamation mark"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is a synonym for 'happy'?",
-    "options": [
-      "Sad",
-      "Angry",
-      "Joyful",
-      "Tired"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which article would correctly complete this sentence: '___ elephant is large.'?",
-    "options": [
-      "A",
-      "An",
-      "The",
-      "Some"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following words is a plural noun?",
-    "options": [
-      "Child",
-      "Mango",
-      "Books",
-      "Water"
+      "Hi [Their Name]",
+      "What's up [Their Name]",
+      "Dear [Your Audience]",
+      "Hello [Your Name]"
     ],
     "correctIndex": 2
   }

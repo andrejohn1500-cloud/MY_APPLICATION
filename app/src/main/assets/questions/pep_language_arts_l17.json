@@ -1,152 +1,22 @@
 [
   {
-    "question": "Which literary device is employed in the phrase 'The fog comes on little cat feet'?",
+    "question": "Write a short paragraph about a person who loves to travel.",
     "options": [
-      "Personification",
-      "Metaphor",
-      "Extended metaphor",
-      "Simile"
+      "I love to travel. It is one of my least favourite hobbies. I enjoy visiting new places and meeting new people.",
+      "I hate to travel. It is one of my favourite hobbies. I enjoy visiting new places and meeting new people.",
+      "I love to travel. It is one of my favourite hobbies. I dislike visiting new places and meeting new people.",
+      "I love to travel. It is one of my favourite hobbies. I enjoy visiting new places and meeting new people."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In grammar, which sentence demonstrates correct use of the subjunctive mood?",
+    "question": "Read the passage: 'The teacher asked the student to write a short essay.' What is the imperative verb in the sentence?",
     "options": [
-      "If he was here, he would help.",
-      "If he were here, he would help.",
-      "If he is here, he would help.",
-      "If he will be here, he would help."
+      "asked",
+      "write",
+      "short",
+      "student"
     ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of an appositive phrase in a sentence?",
-    "options": [
-      "To show contrast between two ideas",
-      "To rename or identify a nearby noun",
-      "To indicate the time of an action",
-      "To connect two independent clauses"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best defines 'alliteration'?",
-    "options": [
-      "The repetition of vowel sounds in nearby words",
-      "The repetition of consonant sounds at the beginning of nearby words",
-      "A direct comparison between two unlike things",
-      "The use of words that imitate sounds"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the passage 'Despite his eloquence, the senator's argument was specious,' the word 'specious' most nearly means:",
-    "options": [
-      "Profound and well-reasoned",
-      "Superficially plausible but actually flawed",
-      "Deliberately obscure",
-      "Overly emotional"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sentence contains a misplaced modifier?",
-    "options": [
-      "Running quickly, Maria caught the bus.",
-      "The teacher explained the lesson to the confused students clearly.",
-      "Exhausted from the journey, the traveler fell asleep immediately.",
-      "Having studied all night, James passed the examination."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What narrative perspective is used when the narrator refers to characters as 'he,' 'she,' or 'they' and has access to all characters' thoughts?",
-    "options": [
-      "First person limited",
-      "Second person",
-      "Third person omniscient",
-      "Third person limited"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which rhetorical device involves asking a question not to receive an answer but to make a point?",
-    "options": [
-      "Anaphora",
-      "Rhetorical question",
-      "Chiasmus",
-      "Epistrophe"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In poetry, what is a 'volta'?",
-    "options": [
-      "The final couplet of a Shakespearean sonnet",
-      "A repeated refrain at the end of each stanza",
-      "A turn or shift in thought or argument within a poem",
-      "The opening invocation to the Muse"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence correctly uses a semicolon?",
-    "options": [
-      "I wanted to go to the park; but it was raining.",
-      "She finished her homework; then she watched television.",
-      "He bought apples; oranges, and bananas.",
-      "We left early; because the traffic was heavy."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The term 'denouement' in narrative structure refers to:",
-    "options": [
-      "The moment of highest tension in the plot",
-      "The series of events leading to the climax",
-      "The resolution and unraveling of the plot after the climax",
-      "The initial conflict that sets the story in motion"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of dramatic irony?",
-    "options": [
-      "A character uses exaggerated language to describe a minor inconvenience",
-      "The audience knows the villain is hiding behind the door while the hero enters confidently",
-      "A narrator describes a character in contradictory terms",
-      "Two characters argue about the same topic from opposing viewpoints"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which word correctly completes the sentence? 'The committee has made its decision, and the results will _______ the entire organization.'",
-    "options": [
-      "effect",
-      "affect",
-      "infect",
-      "defect"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In argument analysis, a statement that attacks the person making an argument rather than the argument itself is called:",
-    "options": [
-      "A straw man fallacy",
-      "An ad hominem fallacy",
-      "A false dichotomy",
-      "A hasty generalization"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sentences uses parallel structure correctly?",
-    "options": [
-      "She enjoys swimming, to hike, and rides horses.",
-      "She enjoys swimming, hiking, and riding horses.",
-      "She enjoys to swim, hiking, and to ride horses.",
-      "She enjoys swimming, to hike, and horse riding."
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

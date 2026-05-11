@@ -1,152 +1,152 @@
 [
   {
-    "question": "If the pattern of numbers follows a rule: 3, 7, 15, 31, 63, what is the next number in the sequence?",
+    "question": "A car travels from City A to City B at an average speed of 60 km/h. On the return journey, the average speed is 40 km/h. What is the total distance traveled by the car?",
     "options": [
-      "A) 127",
-      "B) 121",
-      "C) 125",
-      "D) 129"
+      "240",
+      "160",
+      "360",
+      "480"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Charlie is at one end and David is at the other, who is at the right end of the row?",
+    "options": [
+      "Emily",
+      "Charlie",
+      "Ben",
+      "Alex"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A rectangular garden has a length that is 3 times its width. If the perimeter of the garden is 96 metres, what is the area of the garden?",
+    "question": "A group of friends want to share some money in the ratio 3:4:5. If the total amount of money is $240, how much will the person with the largest share get?",
     "options": [
-      "A) 432 square metres",
-      "B) 864 square metres",
-      "C) 216 square metres",
-      "D) 576 square metres"
+      "120",
+      "180",
+      "160",
+      "100"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which word is the odd one out? Simile, Metaphor, Alliteration, Conjunction, Personification",
+    "question": "In a certain code, the word 'PEN' is written as 'NEP'. How is the word 'CAT' written in this code?",
     "options": [
-      "A) Conjunction",
-      "B) Simile",
-      "C) Metaphor",
-      "D) Personification"
+      "TCA",
+      "ACT",
+      "TAC",
+      "CAT"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A snail is at the bottom of a 15-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2 feet. How many days will it take for the snail to reach the top of the well?",
+    "options": [
+      "14",
+      "20",
+      "18",
+      "16"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A water tank can hold 800 liters of water. If 150 liters of water are already in the tank, how many more liters can be added?",
+    "options": [
+      "700",
+      "650",
+      "600",
+      "750"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 70 km/h. On the return journey, the average speed is 50 km/h. What is the average speed for the entire trip?",
+    "options": [
+      "62",
+      "66",
+      "58",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A water tank can hold 1000 liters of water. If 200 liters of water are already in the tank, how many more liters can be added?",
+    "options": [
+      "600",
+      "800",
+      "700",
+      "900"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a certain sequence, the first term is 4, the second term is 8, and the third term is 16. What is the sixth term in this sequence?",
+    "options": [
+      "160",
+      "144",
+      "112",
+      "128"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels from City A to City B at an average speed of 50 km/h. On the return journey, the average speed is 60 km/h. What is the total distance traveled by the car?",
+    "options": [
+      "360",
+      "360",
+      "540",
+      "480"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a certain sequence, the first term is 6, the second term is 12, and the third term is 24. What is the eighth term in this sequence?",
+    "options": [
+      "288",
+      "192",
+      "160",
+      "240"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bakery sells a total of 200 loaves of bread in a day. The ratio of whole wheat bread to white bread is 1:2. How many loaves of white bread were sold?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "80"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A rectangular prism measures 12 meters by 9 meters by 3 meters. What is its surface area?",
+    "options": [
+      "378",
+      "360",
+      "396",
+      "420"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A train travels 240 km in 2 hours 30 minutes. What is its average speed in km/h?",
+    "question": "A rectangular garden measures 24 meters by 20 meters. A path that is 3 meters wide is built around it. What is the area of the path?",
     "options": [
-      "A) 96 km/h",
-      "B) 100 km/h",
-      "C) 108 km/h",
-      "D) 90 km/h"
+      "156",
+      "168",
+      "120",
+      "180"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If PENCIL is coded as RGPEKN, what does PAPER become in the same code?",
+    "question": "A rectangular prism measures 18 meters by 12 meters by 6 meters. What is its volume?",
     "options": [
-      "A) RCRGT",
-      "B) RCRGV",
-      "C) RDRGV",
-      "D) RBSGT"
+      "1456",
+      "1296",
+      "1200",
+      "1400"
     ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a prime number greater than 50 but less than 60?",
-    "options": [
-      "A) 53",
-      "B) 51",
-      "C) 55",
-      "D) 57"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A jar contains red, blue and green marbles in the ratio 4:3:2. If there are 72 marbles in total, how many blue marbles are there?",
-    "options": [
-      "A) 24",
-      "B) 32",
-      "C) 16",
-      "D) 18"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Choose the word that best completes the analogy: Composer is to Symphony as Architect is to ___",
-    "options": [
-      "A) Blueprint",
-      "B) Building",
-      "C) Construction",
-      "D) Sculpture"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of 3/4 of 2/3 of 120?",
-    "options": [
-      "A) 60",
-      "B) 90",
-      "C) 45",
-      "D) 80"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A shop reduces a price by 20%, then reduces the new price by a further 15%. What is the overall percentage reduction?",
-    "options": [
-      "A) 32%",
-      "B) 35%",
-      "C) 30%",
-      "D) 33%"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which figure completes the pattern? In each row, shapes rotate 90\u00b0 clockwise and gain one additional side. The third row starts with a triangle and a square. What is the missing third shape?",
-    "options": [
-      "A) Pentagon",
-      "B) Hexagon",
-      "C) Circle",
-      "D) Octagon"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If all Flurbs are Blips, and some Blips are Zorts, which statement MUST be true?",
-    "options": [
-      "A) Some Flurbs may be Zorts",
-      "B) All Blips are Flurbs",
-      "C) All Zorts are Flurbs",
-      "D) No Flurbs are Zorts"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A water tank is 3/5 full. After adding 90 litres, it becomes 4/5 full. What is the total capacity of the tank?",
-    "options": [
-      "A) 450 litres",
-      "B) 400 litres",
-      "C) 500 litres",
-      "D) 350 litres"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Select the pair of words that are most similar in meaning: Taciturn : Reticent",
-    "options": [
-      "A) Garrulous : Verbose",
-      "B) Benevolent : Malicious",
-      "C) Lethargic : Energetic",
-      "D) Courageous : Timid"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A square has a diagonal of length 10 cm. What is the area of the square?",
-    "options": [
-      "A) 50 sq cm",
-      "B) 100 sq cm",
-      "C) 25 sq cm",
-      "D) 70.7 sq cm"
-    ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

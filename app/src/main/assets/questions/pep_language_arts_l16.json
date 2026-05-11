@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which literary device is used in the phrase 'The wind whispered secrets through the trees'?",
+    "question": "Write a short paragraph about a place that you have visited.",
     "options": [
-      "Simile",
-      "Personification",
-      "Hyperbole",
-      "Alliteration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the sentence 'Neither the students nor the teacher was prepared for the test,' which grammatical rule is being applied?",
-    "options": [
-      "Pronoun-antecedent agreement",
-      "Subject-verb agreement with correlative conjunctions",
-      "Parallel structure",
-      "Dangling modifier correction"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sentences contains a misplaced modifier?",
-    "options": [
-      "Running quickly, the race was won by Maria.",
-      "The athlete trained hard every day.",
-      "She read the book that her teacher recommended.",
-      "He carefully examined the ancient artifact."
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary purpose of a thesis statement in an argumentative essay?",
-    "options": [
-      "To provide background information on the topic",
-      "To summarize the opposing viewpoint",
-      "To present the writer's central claim and direction of argument",
-      "To list the evidence that will be used"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence correctly uses a semicolon?",
-    "options": [
-      "She loves hiking; but prefers cycling.",
-      "The concert was sold out; we decided to watch a movie instead.",
-      "He studied all night; and passed the exam.",
-      "They arrived early; to get good seats."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Identify the type of clause in the underlined portion: 'The novel, which was written in 1851, is considered a masterpiece.'",
-    "options": [
-      "Adverbial clause",
-      "Noun clause",
-      "Restrictive relative clause",
-      "Non-restrictive relative clause"
+      "I visited the beach last summer. It was a beautiful place with white sand and clear blue water. I disliked swimming and sunbathing.",
+      "I visited the beach last summer. It was a beautiful place with brown sand and green water. I disliked swimming and sunbathing.",
+      "I visited the beach last summer. It was a terrible place with black sand and murky water. I enjoyed swimming and sunbathing.",
+      "I visited the beach last summer. It was a beautiful place with white sand and clear blue water. I enjoyed swimming and sunbathing."
     ],
     "correctIndex": 3
   },
   {
-    "question": "In poetry, what term describes the repetition of consonant sounds at the beginning of closely connected words?",
+    "question": "Write a short paragraph about a person who loves to dance.",
     "options": [
-      "Assonance",
-      "Consonance",
-      "Alliteration",
-      "Onomatopoeia"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best defines 'dramatic irony'?",
-    "options": [
-      "When a character says the opposite of what they mean",
-      "When the audience knows something that the characters do not",
-      "When events turn out contrary to what was expected",
-      "When two contradictory ideas are placed side by side"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Choose the sentence that demonstrates correct use of the subjunctive mood.",
-    "options": [
-      "If she was taller, she could reach the shelf.",
-      "I wish he was more careful with his words.",
-      "The teacher insisted that every student submit the assignment on time.",
-      "He acted as if he was the only one who understood the problem."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the effect of an author using short, fragmented sentences in a suspenseful passage?",
-    "options": [
-      "To slow the pacing and allow readers to reflect",
-      "To create a sense of urgency and tension",
-      "To demonstrate the character's intelligence",
-      "To provide detailed descriptions of the setting"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which rhetorical appeal relies on the credibility and authority of the speaker or writer?",
-    "options": [
-      "Pathos",
-      "Logos",
-      "Ethos",
-      "Kairos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the word 'incongruity,' the prefix 'in-' means:",
-    "options": [
-      "Within",
-      "Relating to",
-      "Not or without",
-      "Before"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of situational irony?",
-    "options": [
-      "A character mutters sarcastically, 'Oh, great, another rainy day.'",
-      "A fire station burns down.",
-      "The narrator knows the murderer's identity but the detective does not.",
-      "A poet compares love to a rose."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sentence uses an em dash correctly?",
-    "options": [
-      "She had one goal\u2014to finish the marathon\u2014before her birthday.",
-      "She had one goal\u2014to finish the marathon, before her birthday.",
-      "She had one goal to finish the marathon\u2014before her birthday.",
-      "She had\u2014one goal to finish the marathon before her birthday."
+      "I love to dance. It is one of my favourite hobbies. I enjoy dancing to different types of music.",
+      "I hate to dance. It is one of my favourite hobbies. I enjoy dancing to different types of music.",
+      "I love to dance. It is one of my least favourite hobbies. I enjoy dancing to different types of music.",
+      "I love to dance. It is one of my favourite hobbies. I dislike dancing to different types of music."
     ],
     "correctIndex": 0
   },
   {
-    "question": "When analyzing a text's tone, which element should a reader primarily examine?",
+    "question": "Identify the type of poem: 'The sun shines bright in the morning sky.'",
     "options": [
-      "The length and structure of each paragraph",
-      "The author's word choice and attitude toward the subject",
-      "The number of characters introduced in the narrative",
-      "The historical period in which the text was written"
+      "Sonnet",
+      "Narrative",
+      "Free Verse",
+      "Haiku"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the passage: 'The students were happy when they heard the news.' What is the subject of the sentence?",
+    "options": [
+      "Heard",
+      "Students",
+      "News",
+      "Teacher"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Read the passage: 'The students were happy when they heard the news.' What is the verb in the sentence?",
+    "options": [
+      "happy",
+      "were",
+      "news",
+      "heard"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Identify the type of sentence: 'I love to read books.'",
+    "options": [
+      "Exclamatory",
+      "Imperative",
+      "Interrogative",
+      "Declarative"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Read the passage: 'The teacher gave the student a book to read.' Who is the subject of the sentence?",
+    "options": [
+      "Book",
+      "Teacher",
+      "Read",
+      "Student"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Write a short paragraph about a person who loves to cook.",
+    "options": [
+      "I love to cook. It is one of my favourite hobbies. I enjoy cooking different types of food.",
+      "I love to cook. It is one of my favourite hobbies. I dislike cooking different types of food.",
+      "I love to cook. It is one of my least favourite hobbies. I enjoy cooking different types of food.",
+      "I hate to cook. It is one of my favourite hobbies. I enjoy cooking different types of food."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Identify the type of sentence: 'What is your name?'",
+    "options": [
+      "Exclamatory",
+      "Imperative",
+      "Interrogative",
+      "Declarative"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the passage: 'The students were happy when they heard the news.' What is the adverb in the sentence?",
+    "options": [
+      "heard",
+      "when",
+      "happy",
+      "news"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Read the passage: 'The new school building is located near the old one.' Which of the following is correct?",
+    "options": [
+      "The old school building is a new building",
+      "The new school building is far from the old one",
+      "The new school building is located near the old school building.",
+      "The new school building and the old school building are located far from each other"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Identify the type of poem: 'The sun shines bright in the morning sky.'",
+    "options": [
+      "Sonnet",
+      "Narrative",
+      "Free Verse",
+      "Haiku"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Read the passage: 'The new school building is located near the old one.' Which of the following is correct?",
+    "options": [
+      "The new school building is located far from the old one",
+      "The new school building and the old school building are located near each other.",
+      "The old school building is a new building",
+      "The new school building is located in the old school building"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Read the passage: 'The teacher asked the student to write a short essay.' Who is the object of the sentence?",
+    "options": [
+      "Short",
+      "Student",
+      "Essay",
+      "Teacher"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Identify the type of sentence: 'I love to read books.'",
+    "options": [
+      "Declarative",
+      "Interrogative",
+      "Exclamatory",
+      "Imperative"
+    ],
+    "correctIndex": 0
   }
 ]

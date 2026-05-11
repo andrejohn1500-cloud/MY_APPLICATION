@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following sentences contains a compound subject?",
+    "question": "What is the purpose of a thesis statement in a text?",
     "options": [
-      "The dog barked loudly at the stranger.",
-      "Maria and her brother walked to school together.",
-      "He finished his homework before dinner.",
-      "The teacher wrote on the board carefully."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the correct plural form of the word 'leaf'?",
-    "options": [
-      "leafs",
-      "leaves",
-      "leafes",
-      "leeves"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which sentence uses the correct form of the verb 'to be' in the past tense?",
-    "options": [
-      "They was happy to see us.",
-      "She were late for class.",
-      "We were excited about the trip.",
-      "He were playing outside."
+      "To describe a character",
+      "To explain a concept",
+      "To state the main idea or argument of the text",
+      "To tell the reader what to read next"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A paragraph that tells what a piece of writing is going to be about is called a:",
+    "question": "What is the purpose of a transition word in a text?",
     "options": [
-      "concluding paragraph",
-      "body paragraph",
-      "introductory paragraph",
-      "supporting paragraph"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word is a synonym for 'enormous'?",
-    "options": [
-      "tiny",
-      "gigantic",
-      "average",
-      "narrow"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is an example of a simile?",
-    "options": [
-      "The wind whispered through the trees.",
-      "Her smile was a ray of sunshine.",
-      "He ran as fast as a cheetah.",
-      "The angry clouds gathered overhead."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What punctuation mark is used to show possession?",
-    "options": [
-      "comma",
-      "semicolon",
-      "apostrophe",
-      "hyphen"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence is written in the future tense?",
-    "options": [
-      "She cooked dinner last night.",
-      "They are playing in the park.",
-      "We will travel to the mountains next week.",
-      "He reads a book every evening."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What does the prefix 'un-' mean in the word 'unhappy'?",
-    "options": [
-      "very",
-      "again",
-      "not",
-      "before"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which type of writing would you use to persuade someone to agree with your opinion?",
-    "options": [
-      "narrative writing",
-      "descriptive writing",
-      "expository writing",
-      "persuasive writing"
+      "To tell the reader what to read next",
+      "To explain a concept",
+      "To describe a character",
+      "To connect ideas and show the relationship between them"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Identify the adjective in the following sentence: 'The clever student solved the difficult problem.'",
+    "question": "Which of the following sentences is in the passive voice",
     "options": [
-      "student",
-      "solved",
-      "clever",
-      "problem"
+      "I threw the ball",
+      "The ball was thrown",
+      "John threw the ball",
+      "The ball was thrown by John"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following sentences is in the present perfect continuous tense",
+    "options": [
+      "I have been eating breakfast for an hour",
+      "I will eat breakfast tomorrow",
+      "I eat breakfast every morning",
+      "I ate breakfast yesterday"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of a preface in a text?",
+    "options": [
+      "To introduce the reader to the topic and provide background information",
+      "To tell the reader what to read next",
+      "To describe a character",
+      "To explain a concept"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following words is a verb in the sentence 'The dog is running quickly'",
+    "options": [
+      "Quickly",
+      "Dog",
+      "Is running",
+      "The"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which sentence correctly uses a comma in a series?",
+    "question": "Which of the following sentences is in the past continuous tense",
     "options": [
-      "I bought apples, oranges and, bananas.",
-      "I bought apples oranges, and bananas.",
-      "I bought apples, oranges, and bananas.",
-      "I bought, apples, oranges and bananas."
+      "I eat breakfast every morning",
+      "I will eat breakfast tomorrow",
+      "I was eating breakfast when the phone rang",
+      "I ate breakfast yesterday"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the main purpose of a conclusion in an essay?",
+    "question": "What is the purpose of a heading in a text?",
     "options": [
-      "To introduce new arguments and ideas",
-      "To summarize the main points and restate the thesis",
-      "To provide detailed evidence and examples",
-      "To describe the setting of the story"
+      "To tell the reader what to read next",
+      "To describe a character",
+      "To explain a concept",
+      "To break up the text and make it easier to read"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following words is a pronoun in the sentence 'They gave me the book'",
+    "options": [
+      "Me",
+      "They",
+      "Gave",
+      "Book"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following words is an antonym for 'ancient'?",
+    "question": "Which of the following sentences is in the conditional mood",
     "options": [
-      "old",
-      "historical",
-      "modern",
-      "traditional"
+      "I won the lottery yesterday",
+      "If I won the lottery, I would buy a house",
+      "I won the lottery",
+      "I will win the lottery tomorrow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following sentences is in the past perfect tense",
+    "options": [
+      "I eat breakfast every morning",
+      "I ate breakfast yesterday",
+      "I had eaten breakfast before I went to school",
+      "I will eat breakfast tomorrow"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the sentence 'The book was read by Maria,' which voice is being used?",
+    "question": "What is the purpose of a glossary in a text?",
     "options": [
-      "active voice",
-      "future voice",
-      "passive voice",
-      "imperative voice"
+      "To tell the reader what to read next",
+      "To describe a character",
+      "To explain a concept",
+      "To provide definitions for unfamiliar words"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following sentences is in the future perfect tense",
+    "options": [
+      "I eat breakfast every morning",
+      "I will have eaten breakfast by next morning",
+      "I ate breakfast yesterday",
+      "I have eaten breakfast"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following words is a descriptive word in the sentence 'The delicious cake was amazing'",
+    "options": [
+      "Amazing",
+      "The",
+      "Delicious",
+      "Cake"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Which of the following words is a verb in the sentence 'The dog will run quickly'",
+    "options": [
+      "The",
+      "Dog",
+      "Quickly",
+      "Will run"
+    ],
+    "correctIndex": 3
   }
 ]

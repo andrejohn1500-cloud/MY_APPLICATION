@@ -1,151 +1,151 @@
 [
   {
-    "question": "A shopkeeper bought an article for $840 and sold it at a profit of 35%. What was the selling price?",
+    "question": "A group of friends want to share some candy in the ratio 2:3:5. If they have a total of 30 pieces of candy, how many pieces will the person with the smallest share get?",
     "options": [
-      "$1,050",
-      "$1,134",
-      "$1,176",
-      "$1,260"
+      "8",
+      "6",
+      "5",
+      "10"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Simplify: 3x\u00b2 \u2212 5x + 2 when x = \u22122",
+    "question": "A bakery sells 480 loaves of bread in a day. If they sell 3/5 of the loaves at $3 each, how much money do they make from these sales?",
     "options": [
-      "24",
-      "20",
-      "16",
-      "12"
+      "432",
+      "540",
+      "360",
+      "400"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A rectangular tank measures 80 cm \u00d7 50 cm \u00d7 40 cm. Water fills 3/4 of its volume. How many litres of water are in the tank?",
+    "question": "A group of friends want to share some money in the ratio 2:3:5. If they have a total of $240, how much will the person with the middle share get?",
     "options": [
-      "120 litres",
-      "80 litres",
-      "60 litres",
-      "48 litres"
+      "60",
+      "100",
+      "80",
+      "120"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "If the simple interest on $2,500 for 3 years is $450, what is the rate of interest per annum?",
+    "question": "A group of friends want to share some candy in the ratio 2:3:5. If they have a total of 30 pieces of candy, how many pieces will the person with the largest share get?",
     "options": [
-      "5%",
-      "6%",
-      "7%",
-      "8%"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A map has a scale of 1:50,000. Two towns are 14 cm apart on the map. What is the actual distance in kilometres?",
-    "options": [
-      "5 km",
-      "7 km",
-      "10 km",
-      "14 km"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The mean of five numbers is 18. Four of the numbers are 12, 15, 22, and 25. What is the fifth number?",
-    "options": [
-      "14",
-      "16",
       "18",
+      "12",
+      "15",
       "20"
     ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car travels from city A to city B at an average speed of 60 km/h. On the return trip, it travels at an average speed of 80 km/h. What is the average speed for the round trip?",
+    "options": [
+      "66.67",
+      "70",
+      "75",
+      "60"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solve for x in the equation: 2x + 2 = 10",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "3"
+    ],
     "correctIndex": 1
   },
   {
-    "question": "Factorise completely: 6x\u00b2 + x \u2212 12",
+    "question": "A rectangular prism has a length of 8cm, a width of 5cm, and a height of 3cm. What is the volume of the prism?",
     "options": [
-      "(2x + 3)(3x \u2212 4)",
-      "(3x \u2212 4)(2x + 3)",
-      "(6x \u2212 1)(x + 12)",
-      "(2x \u2212 3)(3x + 4)"
+      "130",
+      "100",
+      "140",
+      "120"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A triangle has vertices at A(1,2), B(5,2) and C(3,7). What is the area of the triangle?",
+    "question": "A circle has a diameter of 14cm. What is the area of the circle?",
     "options": [
-      "10 sq units",
-      "15 sq units",
-      "20 sq units",
-      "25 sq units"
+      "153.94",
+      "155",
+      "160",
+      "150"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If 2^(x+1) = 32, what is the value of x?",
+    "question": "A rectangular prism has a length of 3cm, a width of 2cm, and a height of 4cm. What is the surface area of the prism?",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6"
+      "30",
+      "38",
+      "40",
+      "42"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A car travels 180 km in 2.5 hours. At the same speed, how long will it take to travel 288 km?",
+    "question": "A circle has a diameter of 14cm. What is the circumference of the circle?",
     "options": [
-      "3 hours",
-      "3.5 hours",
-      "4 hours",
-      "4.5 hours"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The pie chart shows the budget of a family. If $1,440 is spent on food and this represents 30% of the total budget, how much is spent on rent if rent is 40% of the total budget?",
-    "options": [
-      "$1,440",
-      "$1,680",
-      "$1,920",
-      "$2,160"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the size of each interior angle of a regular octagon?",
-    "options": [
-      "120\u00b0",
-      "135\u00b0",
-      "140\u00b0",
-      "150\u00b0"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Solve the simultaneous equations: 3x + 2y = 16 and x \u2212 y = 2",
-    "options": [
-      "x = 2, y = 4",
-      "x = 4, y = 2",
-      "x = 5, y = 0.5",
-      "x = 3, y = 3.5"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cylindrical container has a radius of 7 cm and a height of 15 cm. What is its volume? (Use \u03c0 = 22/7)",
-    "options": [
-      "2,310 cm\u00b3",
-      "3,465 cm\u00b3",
-      "4,620 cm\u00b3",
-      "1,155 cm\u00b3"
+      "43.98",
+      "45",
+      "44",
+      "42"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The price of an item was reduced by 20% to $640. What was the original price?",
+    "question": "A bakery sells a total of 250 loaves of bread per day. They sell a mix of whole wheat and white bread in the ratio 3:7. How many loaves of bread do they sell in total?",
     "options": [
-      "$760",
-      "$768",
-      "$800",
-      "$820"
+      "250",
+      "200",
+      "250",
+      "220"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A car travels from point A to point B at an average speed of 60km/h. If the distance between the two points is 180km, what is the average speed of the car?",
+    "options": [
+      "50",
+      "65",
+      "55",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Solve for x in the equation: x/2 + 3 = 7",
+    "options": [
+      "6",
+      "10",
+      "8",
+      "12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bakery sells a total of 250 loaves of bread per day. They sell a mix of whole wheat and white bread in the ratio 3:7. How many loaves of whole wheat bread do they sell in total?",
+    "options": [
+      "100",
+      "50",
+      "75",
+      "125"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A car's gas tank can hold 60 liters of gasoline. If the car uses 8 liters of gasoline per 100 kilometers, how many kilometers can it travel on a 20% full tank?",
+    "options": [
+      "450",
+      "500",
+      "375",
+      "300"
     ],
     "correctIndex": 2
   }

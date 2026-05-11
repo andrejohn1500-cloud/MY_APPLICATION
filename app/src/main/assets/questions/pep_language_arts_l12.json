@@ -1,152 +1,42 @@
 [
   {
-    "question": "Which literary device is employed when an author deliberately addresses an absent person, abstract idea, or inanimate object as if it were present and capable of responding?",
+    "question": "Which of the following words is a noun in the sentence 'The book is on the table'",
     "options": [
-      "A. Synecdoche",
-      "B. Apostrophe",
-      "C. Anaphora",
-      "D. Metonymy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the sentence 'The committee has reached its decision,' which grammatical phenomenon is illustrated by the singular verb 'has' used with 'committee'?",
-    "options": [
-      "A. Collective noun treated as singular",
-      "B. Indefinite pronoun agreement",
-      "C. Compound subject agreement",
-      "D. Inverted subject-verb structure"
+      "Book",
+      "Is",
+      "Table",
+      "On"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following best defines 'dramatic irony' in literature?",
+    "question": "Identify the type of sentence: 'What is your name?'",
     "options": [
-      "A. When a character says the opposite of what they mean",
-      "B. When the audience knows something that a character does not",
-      "C. When the outcome of events is the opposite of what was expected",
-      "D. When an author intrudes to comment on the action"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Identify the type of clause in the underlined portion: 'She succeeded because she worked tirelessly.'",
-    "options": [
-      "A. Noun clause",
-      "B. Adjective clause",
-      "C. Adverbial clause",
-      "D. Independent clause"
+      "Declarative",
+      "Imperative",
+      "Interrogative",
+      "Exclamatory"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which rhetorical appeal relies primarily on the credibility and trustworthiness of the speaker?",
+    "question": "Read the passage: 'The sun was shining brightly in the clear blue sky.' What does the word 'brightly' mean in the passage?",
     "options": [
-      "A. Pathos",
-      "B. Logos",
-      "C. Ethos",
-      "D. Kairos"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In poetry, a 'volta' most accurately refers to which of the following?",
-    "options": [
-      "A. The concluding couplet of a Shakespearean sonnet",
-      "B. A rhythmic pause within a line of verse",
-      "C. A shift in thought, tone, or argument within a poem",
-      "D. The repetition of consonant sounds at the end of lines"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence contains a dangling modifier?",
-    "options": [
-      "A. Running through the park, Maria found her lost dog.",
-      "B. Having finished the exam, the results were reviewed by the teacher.",
-      "C. After studying all night, James passed his test with ease.",
-      "D. While she was cooking dinner, the phone rang."
+      "With great difficulty",
+      "With great intensity",
+      "With great calmness",
+      "With great speed"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The narrative technique in which a story is told through the perceptions of multiple characters in succession is known as which of the following?",
+    "question": "Read the passage: 'The teacher asked the student to write a short essay.' Who is the subject of the sentence?",
     "options": [
-      "A. Stream of consciousness",
-      "B. Omniscient narration",
-      "C. Shifting point of view",
-      "D. Frame narrative"
+      "Teacher",
+      "Essay",
+      "Student",
+      "Short"
     ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an example of a zeugma?",
-    "options": [
-      "A. 'To err is human; to forgive, divine.'",
-      "B. 'She broke his heart and his favourite mug.'",
-      "C. 'The wind whispered through the trees.'",
-      "D. 'Life is a journey with no map.'"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In persuasive writing, which organisational pattern presents the opposing argument before systematically refuting it?",
-    "options": [
-      "A. Problem-solution",
-      "B. Cause and effect",
-      "C. Concession-refutation",
-      "D. Compare and contrast"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which term describes the repetition of a word or phrase at the end of successive clauses?",
-    "options": [
-      "A. Anaphora",
-      "B. Epistrophe",
-      "C. Chiasmus",
-      "D. Asyndeton"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A text that uses one concrete story or narrative to convey a broader moral or political meaning is best described as which of the following?",
-    "options": [
-      "A. A parable",
-      "B. An allegory",
-      "C. A fable",
-      "D. A myth"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sentences is punctuated correctly?",
-    "options": [
-      "A. The teacher said, 'Study hard, and you will succeed'.",
-      "B. The teacher said, 'Study hard, and you will succeed.'",
-      "C. The teacher said 'Study hard, and you will succeed.'",
-      "D. The teacher said: 'Study hard and you will succeed'."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In grammar, which of the following sentences demonstrates the correct use of the subjunctive mood?",
-    "options": [
-      "A. If she was taller, she could reach the shelf.",
-      "B. I wish he was here with us today.",
-      "C. The doctor recommended that he take the medication daily.",
-      "D. It is necessary that everyone attends the meeting."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following best describes the term 'intertextuality' in literary studies?",
-    "options": [
-      "A. The way in which a text reflects the biography of its author",
-      "B. The relationship between a text and other texts through references, allusions, or quotations",
-      "C. The study of symbols and their meanings within a single text",
-      "D. The process by which a reader brings personal experience to a text"
-    ],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

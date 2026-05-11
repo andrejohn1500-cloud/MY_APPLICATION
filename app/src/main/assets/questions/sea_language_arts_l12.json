@@ -1,152 +1,142 @@
 [
   {
-    "question": "Which literary device is employed in the phrase 'The wind whispered secrets through the ancient trees'?",
+    "question": "Read the following poem and identify the imagery. 'The sun sets slow and paints the sky, / A fiery hue that makes me sigh. / The stars come out and twinkle bright, / A night of rest, a peaceful sight.'",
     "options": [
-      "Personification",
-      "Hyperbole",
-      "Oxymoron",
-      "Synecdoche"
+      "auditory imagery",
+      "olfactory imagery",
+      "tactile imagery",
+      "visual imagery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the correct punctuation to use when listing items that already have commas in them?",
+    "options": [
+      "semicolon",
+      "period",
+      "exclamation mark",
+      "comma"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the sentence 'Neither the captain nor the sailors were prepared for the storm,' what is the grammatical subject?",
+    "question": "Read the poem and answer the question: 'The world is too much with us; late and soon, getting and spending, we lay waste our powers; little we see in nature that is ours; we have given our hearts away, a sordid boon!' What is the author's tone?",
     "options": [
-      "The captain",
-      "The sailors",
-      "Neither the captain nor the sailors",
-      "The storm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best defines 'dramatic irony' in literature?",
-    "options": [
-      "When the audience knows something that the characters do not",
-      "When a character says the opposite of what they mean",
-      "When two contradictory ideas are placed side by side",
-      "When the ending of a story surprises the reader"
+      "critical",
+      "sarcastic",
+      "optimistic",
+      "neutral"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Identify the type of clause in the underlined portion: 'She succeeded because she worked tirelessly.'",
+    "question": "Read the poem and answer the question: 'The road not taken by Robert Frost, explores the idea of choice and its consequences. What is the speaker's attitude towards the choice he has made?",
     "options": [
-      "Adverbial clause",
-      "Adjectival clause",
-      "Noun clause",
-      "Independent clause"
+      "proud",
+      "regretful",
+      "excited",
+      "indifferent"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following words is an example of hyperbole in the following sentence: 'I'm so hungry I could eat a whole elephant.'?",
+    "options": [
+      "I'm so hungry I could eat a whole elephant",
+      "I'm starving",
+      "I'm hungry",
+      "I'm a little peckish"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which punctuation mark is correctly used in the sentence: 'The students books were left in the classroom'?",
+    "question": "Write a summary of the novel 'Jane Eyre' by Charlotte Bronte in 50 words or less.",
     "options": [
-      "Students' books",
-      "Student's books",
-      "Students books'",
-      "Students books"
+      "The novel tells the story of Jane Eyre, a strong-willed governess who falls in love with the brooding Mr. Rochester, but discovers a dark secret that threatens to destroy their love.",
+      "Jane Eyre is a romance novel about a girl who falls in love with a prince.",
+      "Jane Eyre is a science fiction novel about a girl who travels to space.",
+      "The novel is about a man who falls in love with a mysterious woman."
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the primary purpose of a thesis statement in an expository essay?",
+    "question": "Identify the part of speech of the word 'suddenly' in the sentence: 'The news of the storm came suddenly and shook the entire town.'",
     "options": [
-      "To entertain the reader with an anecdote",
-      "To present the central argument or main idea of the essay",
-      "To provide background information on the topic",
-      "To summarize the conclusion of the essay"
+      "adverb",
+      "adjective",
+      "noun",
+      "verb"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In poetry, what term describes the repetition of consonant sounds at the beginning of closely connected words?",
+    "question": "Which of the following words is a synonym for the word 'happy' in the following sentence: 'I'm feeling very happy today.'?",
     "options": [
-      "Assonance",
-      "Alliteration",
-      "Consonance",
-      "Onomatopoeia"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following sentences contains a misplaced modifier?",
-    "options": [
-      "Running quickly, the dog chased the ball.",
-      "She almost drove her children to school every day.",
-      "The broken vase was swept off the floor carefully.",
-      "He carefully read the letter sent by his mother."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What narrative perspective is used when the narrator refers to themselves as 'I' and is a character within the story?",
-    "options": [
-      "Third-person omniscient",
-      "Second-person",
-      "First-person",
-      "Third-person limited"
+      "sad",
+      "bored",
+      "joyful",
+      "angry"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of a compound-complex sentence?",
+    "question": "Which of the following words is a synonym for the word 'interesting' in the following sentence: 'The book was very interesting.'?",
     "options": [
-      "She ran, and he followed her.",
-      "Although it was raining, she went outside, and she got completely soaked.",
-      "The tall man walked slowly down the street.",
-      "She loves reading books about history."
+      "dull",
+      "uninteresting",
+      "boring",
+      "fascinating"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "The word 'ambiguous' most nearly means which of the following?",
+    "question": "Which of the following words is a synonym for the word 'short' in the following sentence: 'The story was too short.'?",
     "options": [
-      "Clear and precise",
-      "Open to more than one interpretation",
-      "Strongly opinionated",
-      "Completely false"
+      "long",
+      "verbose",
+      "lengthy",
+      "brief"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "In argumentative writing, what is the term for acknowledging and responding to an opposing viewpoint?",
+    "question": "Which of the following words is a synonym for the word 'fast' in the following sentence: 'The car ran very fast.'?",
     "options": [
-      "Rebuttal and concession",
-      "Anecdotal evidence",
-      "Circular reasoning",
-      "Hasty generalization"
+      "swift",
+      "slow",
+      "sluggish",
+      "tardy"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which figurative device is used in the expression 'Life is a journey with no map'?",
+    "question": "Which of the following words is not a type of sentence?",
     "options": [
-      "Simile",
-      "Metaphor",
-      "Personification",
-      "Irony"
+      "statement",
+      "exclamation",
+      "question",
+      "interrogative"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What does the prefix 'circum-' mean in words such as 'circumnavigate' and 'circumference'?",
+    "question": "Read the passage and answer the question: 'The rain poured down relentlessly, drumming against the roof and creating a soothing melody. The smell of wet earth filled the air, and the sound of the raindrops created a symphony of sound.' What is the author's use of sensory details?",
     "options": [
-      "Against",
-      "Around",
-      "Before",
-      "Between"
+      "to create fear and anxiety",
+      "to tell a story about a person",
+      "to describe a stormy weather",
+      "to create a peaceful atmosphere"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
-    "question": "Which of the following best describes the 'tone' of a literary passage?",
+    "question": "Which of the following words is an example of an allusion in the following sentence: 'Their love was like a fairy tale.'?",
     "options": [
-      "The central message or lesson the author conveys",
-      "The author's attitude toward the subject or audience as reflected in the writing",
-      "The sequence of events that make up the plot",
-      "The background information provided at the beginning of the story"
+      "storybook",
+      "legend",
+      "romance",
+      "fairy tale"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   }
 ]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the value of 345 + 278?",
+    "question": "Simplify: 9 + 2",
     "options": [
-      "613",
-      "623",
-      "603",
-      "633"
+      "12",
+      "13",
+      "11",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Simplify: 9 + 1",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "12"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following numbers is the largest?",
+    "question": "What is 1/10 of 30?",
     "options": [
-      "4521",
-      "4251",
-      "4512",
-      "4215"
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 1/4 of 24?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is 700 - 356?",
+    "question": "What is 3/4 of 32?",
     "options": [
-      "354",
-      "344",
-      "364",
-      "346"
+      "20",
+      "28",
+      "24",
+      "22"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Simplify 3/4 + 1/4",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
     ],
     "correctIndex": 1
   },
   {
-    "question": "How many centimetres are in 3 metres?",
+    "question": "Simplify: 12 \u00f7 4",
     "options": [
-      "30 cm",
-      "300 cm",
-      "3000 cm",
-      "3 cm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 6 \u00d7 8?",
-    "options": [
-      "42",
-      "46",
-      "48",
-      "54"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A bag of rice costs $15.50. How much do 4 bags cost?",
-    "options": [
-      "$60.00",
-      "$62.00",
-      "$61.50",
-      "$62.50"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What fraction of the shape is shaded if 3 out of 8 equal parts are shaded?",
-    "options": [
-      "3/5",
-      "5/8",
-      "3/8",
-      "8/3"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the perimeter of a square with a side length of 7 cm?",
-    "options": [
-      "14 cm",
-      "21 cm",
-      "28 cm",
-      "49 cm"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is an even number?",
-    "options": [
-      "37",
-      "53",
-      "84",
-      "91"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is 54 \u00f7 9?",
-    "options": [
-      "5",
       "6",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 1/4 of 48?",
+    "options": [
+      "12",
+      "8",
+      "15",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is 1/5 of 25?",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 3/4 of 24?",
+    "options": [
+      "20",
+      "16",
+      "15",
+      "18"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is 3/5 of 15?",
+    "options": [
       "7",
+      "9",
+      "10",
       "8"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A clock shows 3:45. What time will it be 30 minutes later?",
+    "question": "What is 3/5 of 20?",
     "options": [
-      "4:05",
-      "4:15",
-      "4:10",
-      "4:20"
+      "10",
+      "14",
+      "12",
+      "11"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 1/6 of 36?",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Simplify: 8 - 5",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is 1/2 of 20?",
+    "options": [
+      "15",
+      "10",
+      "8",
+      "12"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "What is the place value of the digit 6 in the number 4,612?",
-    "options": [
-      "Ones",
-      "Tens",
-      "Hundreds",
-      "Thousands"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which shape has exactly 4 equal sides and 4 right angles?",
-    "options": [
-      "Rectangle",
-      "Triangle",
-      "Square",
-      "Rhombus"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A bottle holds 2 litres of juice. How many millilitres is that?",
-    "options": [
-      "200 ml",
-      "20 ml",
-      "2000 ml",
-      "200 ml"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the value of 1/2 + 1/4?",
-    "options": [
-      "2/6",
-      "1/6",
-      "3/4",
-      "2/4"
-    ],
-    "correctIndex": 2
   }
 ]

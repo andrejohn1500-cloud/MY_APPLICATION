@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is 15 + 27?",
+    "question": "A woman has two coins that total 30 cents. One coin is not a nickel. What are the two coins?",
     "options": [
-      "A) 40",
-      "B) 42",
-      "C) 43",
-      "D) 41"
+      "15 and 15",
+      "25 and 5",
+      "20 and 10",
+      "10 and 20"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a synonym for 'happy'?",
+    "question": "What comes next in the sequence: Boy, Girl, Baby, ?",
     "options": [
-      "A) Sad",
-      "B) Angry",
-      "C) Joyful",
-      "D) Tired"
+      "Toddler",
+      "Infant",
+      "Adult",
+      "Elderly"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "If a pencil costs $3 and a ruler costs $5, how much do they cost together?",
+    "question": "A car travels from point A to point B at an average speed of 60 km/h. If it travels for 2 hours, how many kilometers will it have traveled?",
     "options": [
-      "A) $7",
-      "B) $8",
-      "C) $9",
-      "D) $10"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which shape has four equal sides?",
-    "options": [
-      "A) Rectangle",
-      "B) Triangle",
-      "C) Circle",
-      "D) Square"
+      "110",
+      "140",
+      "130",
+      "120"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What comes next in the sequence: 2, 4, 6, 8, ?",
+    "question": "A man is looking at a photograph of someone. His friend asks him, 'Who is in the picture?' The man replies, 'Brothers and sisters I have none, but that man's father is my father's son.' Who is in the picture?",
     "options": [
-      "A) 9",
-      "B) 10",
-      "C) 11",
-      "D) 12"
+      "The man's brother",
+      "The man's son",
+      "The man's wife",
+      "The man's mother"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is spelled correctly?",
+    "question": "In a class of 20 students, 5 are absent. What is the percentage of students present?",
     "options": [
-      "A) Freind",
-      "B) Friend",
-      "C) Frend",
-      "D) Friand"
+      "80%",
+      "60%",
+      "75%",
+      "50%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the next number in the sequence: 3, 6, 9, 12, 15, ?",
+    "options": [
+      "19",
+      "17",
+      "16",
+      "18"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A person has 24 marbles in a bag. If they take out 4, how many marbles will they have left?",
+    "options": [
+      "21",
+      "19",
+      "20",
+      "22"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 6, 12, 20, 30, ?",
+    "options": [
+      "41",
+      "42",
+      "40",
+      "43"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A farmer has 24 eggs and puts them equally into 4 baskets. How many eggs are in each basket?",
+    "question": "Which of the following is a type of angle?",
     "options": [
-      "A) 4",
-      "B) 5",
-      "C) 6",
-      "D) 8"
+      "Right",
+      "Straight",
+      "Obtuse",
+      "Acute"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A bat and a ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?",
+    "options": [
+      "$0.10",
+      "$0.30",
+      "$0.05",
+      "$0.20"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which of the following is an example of a living thing?",
+    "question": "A man is 40 years old. His son is x years old. In 5 years, the man will be twice as old as his son. How old is the son now?",
     "options": [
-      "A) Rock",
-      "B) Water",
-      "C) Tree",
-      "D) Cloud"
+      "15",
+      "20",
+      "5",
+      "10"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the opposite of 'cold'?",
+    "question": "A snail is at the bottom of a 15-foot well. Each day, it climbs up 2 feet, but at night, it slips back 1 foot. How many days will it take for the snail to reach the top of the well?",
     "options": [
-      "A) Warm",
-      "B) Wet",
-      "C) Dry",
-      "D) Dark"
+      "14",
+      "13",
+      "15",
+      "16"
     ],
     "correctIndex": 0
   },
   {
-    "question": "If today is Monday, what day will it be in 3 days?",
+    "question": "A man is looking at a photograph of someone. His friend asks him, 'Who is in the picture?' The man replies, 'My son is the son of my father's son.' Who is in the picture?",
     "options": [
-      "A) Wednesday",
-      "B) Thursday",
-      "C) Friday",
-      "D) Tuesday"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which number is the largest?",
-    "options": [
-      "A) 45",
-      "B) 54",
-      "C) 44",
-      "D) 40"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is 9 x 3?",
-    "options": [
-      "A) 21",
-      "B) 24",
-      "C) 27",
-      "D) 30"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which sentence is grammatically correct?",
-    "options": [
-      "A) She go to school every day.",
-      "B) She goes to school every day.",
-      "C) She going to school every day.",
-      "D) She gone to school every day."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A rectangle has a length of 8 cm and a width of 3 cm. What is its perimeter?",
-    "options": [
-      "A) 11 cm",
-      "B) 22 cm",
-      "C) 24 cm",
-      "D) 18 cm"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following best completes the analogy? Dog is to puppy as cat is to ?",
-    "options": [
-      "A) Kitten",
-      "B) Cub",
-      "C) Foal",
-      "D) Lamb"
+      "The man's son",
+      "The man's mother",
+      "The man's brother",
+      "The man's wife"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What comes next in the sequence: Dog, Cat, Mouse, ?",
+    "options": [
+      "Fish",
+      "Cow",
+      "Bird",
+      "Horse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A bakery sells 240 loaves of bread in a day. If they make a profit of $0.50 on each loaf, how much profit do they make in a day?",
+    "options": [
+      "$110",
+      "$100",
+      "$90",
+      "$120"
+    ],
+    "correctIndex": 3
   }
 ]

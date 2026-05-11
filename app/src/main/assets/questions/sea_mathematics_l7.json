@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the value of 3\u00b2 + 4\u00b2?",
+    "question": "A car travels 200 km in 4 hours. How many kilometers does it travel per hour?",
     "options": [
-      "25",
-      "14",
+      "50",
+      "40",
+      "70",
+      "60"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Find the missing number in the pattern: 3, 6, 9, 12, 15, ?",
+    "options": [
       "20",
-      "49"
+      "19",
+      "16",
+      "18"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
-    "question": "A rectangle has a length of 12 cm and a width of 7 cm. What is its perimeter?",
+    "question": "A group of students scored the following marks: 70, 80, 90, 60, 85. What is the mean of their scores?",
     "options": [
-      "38 cm",
-      "84 cm",
-      "19 cm",
-      "42 cm"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which of the following is a prime number?",
-    "options": [
-      "51",
-      "57",
-      "53",
-      "55"
+      "82",
+      "75",
+      "78",
+      "80"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is 15% of 240?",
+    "question": "Find the missing number in the pattern: 1, 4, 9, 16, 25, ?",
     "options": [
+      "30",
       "36",
-      "24",
-      "48",
-      "30"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Simplify the fraction 36/48.",
-    "options": [
-      "3/4",
-      "2/3",
-      "4/5",
-      "5/6"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A bag contains 5 red balls, 3 blue balls, and 2 green balls. What is the probability of picking a blue ball at random?",
-    "options": [
-      "3/10",
-      "1/3",
-      "3/8",
-      "1/5"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of x in the equation 4x - 7 = 21?",
-    "options": [
-      "7",
-      "8",
-      "5",
-      "6"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Convert 2.75 km to metres.",
-    "options": [
-      "2750 m",
-      "275 m",
-      "27500 m",
-      "27.5 m"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the area of a triangle with a base of 10 cm and a height of 6 cm?",
-    "options": [
-      "30 cm\u00b2",
-      "60 cm\u00b2",
-      "20 cm\u00b2",
-      "15 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If a car travels at 60 km/h, how far will it travel in 2 hours and 30 minutes?",
-    "options": [
-      "150 km",
-      "120 km",
-      "180 km",
-      "140 km"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the Lowest Common Multiple (LCM) of 8 and 12?",
-    "options": [
-      "24",
-      "48",
-      "16",
-      "96"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A shopkeeper bought an item for $80 and sold it for $100. What is the percentage profit?",
-    "options": [
-      "25%",
-      "20%",
-      "15%",
-      "30%"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of the expression 5(3 + 2) - 4 \u00d7 3?",
-    "options": [
-      "13",
-      "7",
-      "19",
-      "10"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The ratio of boys to girls in a class is 3:5. If there are 24 boys, how many girls are there?",
-    "options": [
-      "40",
       "32",
-      "35",
-      "45"
+      "40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a ratio of 3:5, what fraction of the total is 3?",
+    "options": [
+      "3/5",
+      "1/2",
+      "2/3",
+      "3/8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A cube has a volume of 64 cubic cm. What is the length of its side?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the perimeter of a triangle with sides 5 cm, 6 cm, and 7 cm?",
+    "options": [
+      "18",
+      "25",
+      "20",
+      "22"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the volume of a rectangular box with length 5 cm, width 4 cm, and height 3 cm?",
+    "question": "A group of friends want to share some candy equally. If they have 48 pieces of candy and there are 8 friends, how many pieces will each friend get?",
     "options": [
-      "60 cm\u00b3",
-      "47 cm\u00b3",
-      "120 cm\u00b3",
-      "24 cm\u00b3"
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A group of friends want to share some money equally. If they have $120 and there are 8 friends, how much will each friend get?",
+    "options": [
+      "12",
+      "15",
+      "10",
+      "20"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Find the missing number in the pattern: 2, 5, 8, 11, 14, ?",
+    "options": [
+      "17",
+      "18",
+      "15",
+      "16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A pencil costs $0.50. If it is increased by 25%, how much will it cost?",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.625",
+      "0.7"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the volume of a rectangular prism with a length of 6 cm, width of 4 cm, and height of 5 cm?",
+    "options": [
+      "150",
+      "120",
+      "100",
+      "160"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A group of students scored the following marks: 70, 80, 90, 60, 85. What is the median of their scores?",
+    "options": [
+      "80",
+      "90",
+      "70",
+      "85"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A book costs $80. If it is on sale for 15% off, how much will you pay?",
+    "options": [
+      "60",
+      "70",
+      "68",
+      "72"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve the quadratic equation: x^2 + 7x + 10 = 0",
+    "options": [
+      "-2",
+      "-1",
+      "5",
+      "8"
     ],
     "correctIndex": 0
   }

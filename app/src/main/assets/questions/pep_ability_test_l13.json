@@ -1,152 +1,112 @@
 [
   {
-    "question": "If the pattern continues: 2, 6, 18, 54, __, what is the missing number?",
+    "question": "A bakery sells a total of 180 loaves of bread in a day. The ratio of whole wheat bread to white bread is 2:3. How many loaves of whole wheat bread were sold?",
     "options": [
-      "108",
-      "162",
-      "216",
-      "324"
+      "50",
+      "80",
+      "70",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A bakery sells a total of 240 loaves of bread in a day. The ratio of whole wheat bread to white bread is 3:4. How many loaves of whole wheat bread were sold?",
+    "options": [
+      "120",
+      "90",
+      "100",
+      "80"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A train travels 360 km in 3 hours. How long will it take to travel 540 km at the same speed?",
+    "question": "A water tank can hold 1000 liters of water. If 300 liters of water are already in the tank, how many more liters can be added?",
     "options": [
-      "4 hours",
-      "4.5 hours",
-      "5 hours",
-      "5.5 hours"
+      "800",
+      "700",
+      "600",
+      "900"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which word is the odd one out: Sonnet, Haiku, Limerick, Prose, Ballad?",
+    "question": "A rectangular garden measures 22 meters by 18 meters. A path that is 4 meters wide is built around it. What is the area of the path?",
     "options": [
-      "Sonnet",
-      "Haiku",
-      "Prose",
-      "Ballad"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If all Blips are Blops, and some Blops are Blaps, which statement must be true?",
-    "options": [
-      "All Blips are Blaps",
-      "Some Blips may be Blaps",
-      "No Blips are Blaps",
-      "All Blaps are Blips"
+      "200",
+      "224",
+      "240",
+      "180"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the next term in the sequence: 1, 4, 9, 16, 25, __?",
+    "question": "A group of friends want to share some money in the ratio 4:3:5. If the total amount of money is $200, how much will the person with the largest share get?",
     "options": [
-      "30",
-      "36",
-      "42",
-      "49"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A rectangle has a perimeter of 56 cm and a length of 18 cm. What is its area?",
-    "options": [
-      "160 cm\u00b2",
-      "180 cm\u00b2",
-      "200 cm\u00b2",
-      "220 cm\u00b2"
+      "100",
+      "80",
+      "150",
+      "120"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is the best antonym for LOQUACIOUS?",
+    "question": "In a certain code, the word 'DOG' is written as 'GOD'. How is the word 'CAT' written in this code?",
     "options": [
-      "Garrulous",
-      "Verbose",
-      "Taciturn",
-      "Eloquent"
+      "TCA",
+      "TAC",
+      "ACT",
+      "CAT"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "If FRIEND is coded as GSJFOE, how is HAPPY coded?",
+    "question": "Five friends - Alex, Ben, Charlie, David, and Emily - are standing in a row. If Emily is at one end and David is at the other, who is at the right end of the row?",
     "options": [
-      "IBQQZ",
-      "GZOON",
-      "HCRRX",
-      "IAQPZ"
+      "Charlie",
+      "Alex",
+      "Emily",
+      "Ben"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A bag contains 4 red, 5 blue and 3 green marbles. What is the probability of picking a blue marble?",
+    "question": "In a certain code, the word 'PEN' is written as 'NPE'. How is the word 'DOG' written in this code?",
     "options": [
-      "1/4",
-      "5/12",
-      "5/11",
-      "1/3"
+      "OGD",
+      "GOD",
+      "ODG",
+      "DOG"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which shape has exactly 8 edges, 5 faces and 5 vertices?",
+    "question": "A group of friends want to share some money in the ratio 1:2:3. If the total amount of money is $120, how much will the person with the largest share get?",
     "options": [
-      "Triangular prism",
-      "Square pyramid",
-      "Cube",
-      "Rectangular prism"
+      "40",
+      "80",
+      "100",
+      "60"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A rectangular prism measures 12 meters by 9 meters by 4 meters. What is its surface area?",
+    "options": [
+      "440",
+      "408",
+      "420",
+      "360"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Find the missing number: 7 : 49 :: 11 : __",
+    "question": "In a certain sequence, the first term is 3, the second term is 9, and the third term is 27. What is the fifth term in this sequence?",
     "options": [
-      "99",
-      "121",
-      "132",
-      "144"
+      "72",
+      "81",
+      "90",
+      "63"
     ],
     "correctIndex": 1
-  },
-  {
-    "question": "A shopkeeper buys an item for \u00a3240 and sells it at a 35% profit. What is the selling price?",
-    "options": [
-      "\u00a3296",
-      "\u00a3312",
-      "\u00a3324",
-      "\u00a3336"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which word correctly completes the analogy? Symphony : Composer :: Sculpture : __",
-    "options": [
-      "Museum",
-      "Canvas",
-      "Sculptor",
-      "Gallery"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "If x\u00b2 - 7x + 12 = 0, what are the values of x?",
-    "options": [
-      "x = 3 and x = 4",
-      "x = 2 and x = 6",
-      "x = 1 and x = 12",
-      "x = -3 and x = -4"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Three workers can complete a task in 12 days. How many days will it take 9 workers to complete the same task?",
-    "options": [
-      "2 days",
-      "3 days",
-      "4 days",
-      "6 days"
-    ],
-    "correctIndex": 2
   }
 ]

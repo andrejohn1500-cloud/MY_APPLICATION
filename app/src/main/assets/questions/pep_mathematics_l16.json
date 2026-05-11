@@ -1,152 +1,152 @@
 [
   {
-    "question": "A rectangular swimming pool is 25 m long and 10 m wide. A path of uniform width surrounds the pool. If the total area of the pool and path is 336 m\u00b2, what is the width of the path?",
+    "question": "A shop sells 1200 kg of rice per week. If they make a 25% profit on each sale, what is their weekly profit in dollars if rice costs $1.5 kg^-1?",
     "options": [
-      "A. 1 m",
-      "B. 2 m",
-      "C. 3 m",
-      "D. 4 m"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If 3x - 7 = 2(x + 4), what is the value of x?",
-    "options": [
-      "A. 11",
-      "B. 15",
-      "C. 3",
-      "D. -1"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A shopkeeper bought an article for $480 and sold it at a profit of 35%. What was the selling price?",
-    "options": [
-      "A. $528",
-      "B. $648",
-      "C. $612",
-      "D. $516"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The sum of the interior angles of a polygon is 1440\u00b0. How many sides does the polygon have?",
-    "options": [
-      "A. 8",
-      "B. 9",
-      "C. 10",
-      "D. 12"
+      "$420",
+      "$480",
+      "$450",
+      "$400"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A cylinder has a radius of 7 cm and a height of 10 cm. What is its volume? (Use \u03c0 = 22/7)",
+    "question": "Find the equation of the line that passes through the points (3, 7) and (5, 11).",
     "options": [
-      "A. 1540 cm\u00b3",
-      "B. 1440 cm\u00b3",
-      "C. 1320 cm\u00b3",
-      "D. 1760 cm\u00b3"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the value of 2\u00b3 \u00d7 3\u00b2 \u00f7 6 + 4\u00b2?",
-    "options": [
-      "A. 24",
-      "B. 28",
-      "C. 20",
-      "D. 28"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Train A travels at 60 km/h and Train B travels at 90 km/h in the same direction. If Train A has a 30-minute head start, how long will it take Train B to catch Train A after Train B departs?",
-    "options": [
-      "A. 45 minutes",
-      "B. 60 minutes",
-      "C. 90 minutes",
-      "D. 120 minutes"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The simple interest on $2500 at 8% per annum for 3 years is:",
-    "options": [
-      "A. $500",
-      "B. $600",
-      "C. $650",
-      "D. $800"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A triangle has vertices at coordinates A(1, 2), B(5, 2), and C(3, 6). What is the area of the triangle?",
-    "options": [
-      "A. 6 square units",
-      "B. 8 square units",
-      "C. 10 square units",
-      "D. 12 square units"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "If the ratio of boys to girls in a class is 3:5 and there are 40 students in total, how many more girls than boys are there?",
-    "options": [
-      "A. 8",
-      "B. 10",
-      "C. 12",
-      "D. 16"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Simplify: (x\u00b2 - 9) \u00f7 (x - 3)",
-    "options": [
-      "A. x - 3",
-      "B. x + 3",
-      "C. x\u00b2 + 3",
-      "D. x + 9"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A map has a scale of 1:50000. A road on the map measures 6 cm. What is the actual length of the road in kilometres?",
-    "options": [
-      "A. 2 km",
-      "B. 3 km",
-      "C. 4 km",
-      "D. 5 km"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the median of the following data set? 14, 7, 21, 9, 15, 11, 18",
-    "options": [
-      "A. 11",
-      "B. 14",
-      "C. 15",
-      "D. 13"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A cone has a base radius of 6 cm and a slant height of 10 cm. What is the curved surface area of the cone? (Use \u03c0 = 3.14)",
-    "options": [
-      "A. 188.4 cm\u00b2",
-      "B. 226.08 cm\u00b2",
-      "C. 376.8 cm\u00b2",
-      "D. 113.04 cm\u00b2"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "If 15% of a number is 45, what is 40% of the same number?",
-    "options": [
-      "A. 100",
-      "B. 110",
-      "C. 120",
-      "D. 130"
+      "y = x + 1",
+      "y = 3x + 2",
+      "y = 4x - 5",
+      "y = 2x - 3"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "A bakery sells 250 loaves of bread per day. If they make a 20% profit on each loaf, what is their daily profit?",
+    "options": [
+      "$45",
+      "$40",
+      "$55",
+      "$50"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A population of 10000 has a mean height of 170 cm. What is the total height of the population in centimeters?",
+    "options": [
+      "1710000",
+      "1700000",
+      "1705000",
+      "1690000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A line with slope 2 passes through the point (3, 4). What is the equation of the line?",
+    "options": [
+      "y = 2x + 2",
+      "y = 2x + 1",
+      "y = 2x - 1",
+      "y = 2x - 2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A set of 5 numbers has a mean of 20. What is the sum of the numbers?",
+    "options": [
+      "95",
+      "100",
+      "90",
+      "105"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A set of 8 numbers has a mean of 20. What is the sum of the numbers?",
+    "options": [
+      "120",
+      "160",
+      "180",
+      "140"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Solve for x in the equation: x - 4 = 1 + 3(x - 2)",
+    "options": [
+      "x = 5",
+      "x = 3",
+      "x = 6",
+      "x = 7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A line with slope -1 passes through the point (2, 3). What is the equation of the line?",
+    "options": [
+      "y = -x + 6",
+      "y = -x + 5",
+      "y = -x + 3",
+      "y = -x + 4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A population of 10000 has a mean height of 170 cm. If 10% of the population is taller than 180 cm, how many people are taller than 180 cm?",
+    "options": [
+      "900",
+      "1100",
+      "800",
+      "1000"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "In a right-angled triangle, the length of the hypotenuse is 10 cm and one of the other sides is 6 cm. What is the length of the third side?",
+    "options": [
+      "9",
+      "6",
+      "8",
+      "4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Solve for x: 2x^2 + 5x = 3",
+    "options": [
+      "x = -15/2",
+      "x = -3/2",
+      "x = 2",
+      "x = 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A set of 7 numbers has a median of 15. What is the sum of the numbers?",
+    "options": [
+      "100",
+      "110",
+      "90",
+      "105"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A car travels 250 miles in 5 hours. What is its average speed in miles per hour?",
+    "options": [
+      "70",
+      "50",
+      "40",
+      "60"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A car travels from A to B at an average speed of 50 km/h and returns from B to A at an average speed of 60 km/h. What is the average speed for the round trip?",
+    "options": [
+      "55",
+      "65",
+      "50",
+      "60"
+    ],
+    "correctIndex": 0
   }
 ]
