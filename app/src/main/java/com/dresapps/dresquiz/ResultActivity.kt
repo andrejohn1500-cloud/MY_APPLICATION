@@ -307,13 +307,9 @@ class ResultActivity : AppCompatActivity() {
                 val responseCode = conn.responseCode
                 val responseBody = conn.inputStream.bufferedReader().readText()
                 conn.disconnect()
-                android.os.Handler(android.os.Looper.getMainLooper()).post {
-                    android.widget.Toast.makeText(applicationContext, "OS: $responseCode $responseBody", android.widget.Toast.LENGTH_LONG).show()
                 }
             } catch (e: Exception) {
                 e.printStackTrace()
-                android.os.Handler(android.os.Looper.getMainLooper()).post {
-                    android.widget.Toast.makeText(applicationContext, "OS Error: ${e.message}", android.widget.Toast.LENGTH_LONG).show()
                 }
             }
         }.start()
