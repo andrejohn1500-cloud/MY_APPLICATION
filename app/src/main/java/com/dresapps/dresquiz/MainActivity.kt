@@ -20,6 +20,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         // OneSignal initialization
         com.onesignal.OneSignal.initWithContext(this, "c9ec45bd-705f-4fd2-b00f-79ce25085cef")
+        // Save OneSignal ID to SharedPreferences once available
+        com.onesignal.OneSignal.User.addObserver { state ->
+            val osId = state.onesignalId
+            if (!osId.isNullOrEmpty()) {
+                getSharedPreferences("onesignal_prefs", MODE_PRIVATE)
+                    .edit().putString("onesignal_id", osId).apply()
+            }
+        }
         kotlinx.coroutines.CoroutineScope(kotlinx.coroutines.Dispatchers.Main).launch {
             com.onesignal.OneSignal.Notifications.requestPermission(true)
         }

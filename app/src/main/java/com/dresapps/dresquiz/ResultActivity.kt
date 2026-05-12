@@ -246,7 +246,7 @@ class ResultActivity : AppCompatActivity() {
                     "time_taken" to timeTaken,
                     "timestamp"  to System.currentTimeMillis(),
             "fcm_token"    to (getSharedPreferences("fcm_prefs", MODE_PRIVATE).getString("fcm_token", "") ?: ""),
-            "onesignal_id" to (com.onesignal.OneSignal.User.onesignalId ?: "")
+            "onesignal_id" to (getSharedPreferences("onesignal_prefs", MODE_PRIVATE).getString("onesignal_id", "") ?: "")
                 )
                 if (existing != null) existing.reference.set(data)
                 else db.collection("leaderboard").add(data)
