@@ -22,8 +22,9 @@ class MainActivity : AppCompatActivity() {
         com.onesignal.OneSignal.initWithContext(this, "c9ec45bd-705f-4fd2-b00f-79ce25085cef")
         // Save OneSignal ID to SharedPreferences once SDK is ready
         android.os.Handler(android.os.Looper.getMainLooper()).postDelayed({
-            val osId = com.onesignal.OneSignal.User.onesignalId
-            if (!osId.isNullOrEmpty()) {
+            val osId = com.onesignal.OneSignal.User.pushSubscription.id ?: ""
+            android.widget.Toast.makeText(applicationContext, "SubID: $osId", android.widget.Toast.LENGTH_LONG).show()
+            if (osId.isNotEmpty()) {
                 getSharedPreferences("onesignal_prefs", MODE_PRIVATE)
                     .edit().putString("onesignal_id", osId).apply()
             }
