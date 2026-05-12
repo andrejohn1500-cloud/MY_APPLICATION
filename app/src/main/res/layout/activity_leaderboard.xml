@@ -90,7 +90,7 @@
         android:layout_height="60dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="80dp"
+        
         android:text="← BACK"
         android:textColor="@color/gold"
         android:textSize="16sp"
