@@ -275,7 +275,7 @@ class ResultActivity : AppCompatActivity() {
                     val theirRating = doc.getLong("rating")?.toInt() ?: 0
                     val theirOsId   = doc.getString("onesignal_id") ?: return@forEach
                     if (theirName == name) return@forEach
-                    if (theirRating < myRating && theirOsId.isNotEmpty()) {
+                    if (theirScore < score && theirName != name && theirOsId.isNotEmpty()) {
                         val gap = score - theirScore
                         sendRivalryNotification(
                             osId        = theirOsId,
