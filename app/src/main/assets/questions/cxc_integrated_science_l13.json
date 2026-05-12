@@ -1,82 +1,152 @@
 [
   {
-    "question": "In the human body, what is the term for the process by which the body gets rid of waste products?",
+    "question": "What is the unit of electrical current?",
     "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Digestion",
-      "Excretion"
+      "volt",
+      "watt",
+      "ohm",
+      "ampere"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A 50 Hz AC voltage is applied to a coil of wire. What is the frequency of the AC current flowing through the coil?",
+    "question": "When connected to a supply of 110 V and turned on, the resistance of an electric lamp is 220 ohms and a current of 0.5 A passes through it. The power of the lamp in watts is",
     "options": [
-      "60 Hz",
-      "20 Hz",
-      "50 Hz",
-      "100 Hz"
+      "55",
+      "110",
+      "220",
+      "440"
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
-    "question": "What is the term for the movement of Earth's plates and the resulting geological activity?",
+    "question": "Which of the following is correct about the way lights and electrical sockets are normally connected in a house?",
     "options": [
-      "Earth's interior",
-      "Plate tectonics",
-      "Continental drift",
-      "Geological processes"
+      "lights series, sockets series",
+      "lights series, sockets parallel",
+      "lights parallel, sockets series",
+      "lights parallel, sockets parallel"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Electric current is the free movement of electrons through a circuit or material. An electric circuit is",
+    "options": [
+      "a broken path through which current flows",
+      "the complete path through which an electric current flows",
+      "a path with no resistance",
+      "a path with only one component"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the movement of water molecules from an area of high concentration to an area of low concentration?",
+    "question": "A voltmeter measures the voltage or potential difference between two points in a circuit. It is connected",
     "options": [
-      "Osmosis",
-      "Passive Transport",
-      "Diffusion",
-      "Active Transport"
+      "in series with the component",
+      "in parallel with the component",
+      "before the battery",
+      "after the switch"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "In the human eye, what is the term for the light-sensitive tissue that lines the inner surface of the eyeball?",
+    "question": "An ammeter measures the current passing through a circuit. It is connected",
     "options": [
-      "Lens",
-      "Cornea",
-      "Iris",
-      "Retina"
+      "in parallel with the component",
+      "in series in the circuit",
+      "across the battery",
+      "outside the circuit"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for the movement of molecules from an area of low concentration to an area of high concentration?",
+    "question": "Ohm's law states that current is equal to voltage divided by",
     "options": [
-      "Passive Transport",
-      "Active Transport",
-      "Osmosis",
-      "Diffusion"
+      "power",
+      "resistance",
+      "energy",
+      "charge"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "A battery is connected to a circuit with a resistance of 5 ohms. What is the voltage drop across the circuit?",
+    "question": "The power of an electrical appliance is the rate at which it does work. Power equals voltage multiplied by",
     "options": [
-      "0.5 V",
-      "10 V",
-      "5 V",
-      "20 V"
+      "resistance",
+      "time",
+      "current",
+      "charge"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A 10 ohm resistor is connected to a 5 V battery. What is the current flowing through the resistor?",
+    "question": "Electrical energy used in kilowatt-hours equals power in kilowatts multiplied by",
     "options": [
-      "0.5 A",
-      "0.1 A",
-      "1 A",
-      "2 A"
+      "voltage",
+      "current",
+      "resistance",
+      "time in hours"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
+  },
+  {
+    "question": "Fuses and circuit breakers protect wiring from fires in case of",
+    "options": [
+      "low voltage",
+      "excess current",
+      "no current",
+      "high resistance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The wiring in plugs is colour coded where brown is live, blue is neutral and the green/yellow wire represents the",
+    "options": [
+      "fuse",
+      "switch",
+      "earth wire",
+      "ammeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Turbines generate electricity by rotating a coil of wire at high speed in a",
+    "options": [
+      "vacuum",
+      "magnetic field",
+      "chemical solution",
+      "high temperature environment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The three conditions required for fire are heat, fuel and",
+    "options": [
+      "water",
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Carbon monoxide is poisonous because it bonds with haemoglobin and prevents it from",
+    "options": [
+      "fighting infection",
+      "clotting blood",
+      "carrying oxygen to the cells",
+      "producing hormones"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A fire is extinguished if any one of the three conditions for fire is",
+    "options": [
+      "increased",
+      "doubled",
+      "removed",
+      "replaced"
+    ],
+    "correctIndex": 2
   }
 ]

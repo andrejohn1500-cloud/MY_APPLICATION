@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "oxygen",
+      "nitrogen",
+      "carbon dioxide",
+      "hydrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What are the products of photosynthesis?",
+    "options": [
+      "carbon dioxide and water",
+      "glucose and carbon dioxide",
+      "glucose and oxygen",
+      "water and oxygen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which part of the plant cell does photosynthesis take place?",
+    "options": [
+      "mitochondria",
+      "nucleus",
+      "chloroplast",
+      "vacuole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is needed for photosynthesis?",
+    "options": [
+      "oxygen, water and glucose",
+      "carbon dioxide, water and sunlight",
+      "glucose, oxygen and sunlight",
+      "nitrogen, water and sunlight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The food test for starch uses iodine solution which turns",
+    "options": [
+      "red",
+      "purple",
+      "blue-black",
+      "orange"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which food test uses Benedict's solution warmed to give a red precipitate?",
+    "options": [
+      "test for protein",
+      "test for reducing sugars",
+      "test for starch",
+      "test for fat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Proteins give a purple colour with which food test?",
+    "options": [
+      "Benedict's test",
+      "iodine test",
+      "Biuret test",
+      "paper test"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "To which Caribbean group of foods do black-eyed peas belong?",
+    "options": [
+      "fruits",
+      "food from animals",
+      "legumes",
+      "staples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which nutrient is the body's main source of energy?",
+    "options": [
+      "protein",
+      "fat",
+      "carbohydrate",
+      "vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Excess carbohydrates in the body are converted to glycogen and stored in the",
+    "options": [
+      "kidney",
+      "pancreas",
+      "liver and muscles",
+      "stomach"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "vitamin C",
+      "vitamin D",
+      "vitamin E",
+      "vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "options": [
+      "vitamin A",
+      "vitamin B",
+      "vitamin C",
+      "vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which condition results from a lack of protein in the diet of young children?",
+    "options": [
+      "anaemia",
+      "rickets",
+      "kwashiorkor",
+      "scurvy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Fibre is important in the diet because it",
+    "options": [
+      "provides energy",
+      "builds muscles",
+      "cleans the gut and prevents constipation",
+      "fights infection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Crop rotation involves",
+    "options": [
+      "growing the same crop every year",
+      "planting a different crop each season",
+      "growing crops under glass",
+      "growing crops in water"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,82 +1,152 @@
 [
   {
-    "question": "The study of the structure, behavior, and evolution of the universe is known as what?",
+    "question": "Which of the following is NOT involved in moving water through a plant?",
     "options": [
-      "meteorology",
-      "geology",
-      "seismology",
-      "cosmology"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The force that attracts a magnet to a ferromagnetic material is known as what?",
-    "options": [
-      "magnetic attraction",
-      "friction",
-      "electromagnetic force",
-      "gravitational force"
+      "agglutination",
+      "capillarity",
+      "root pressure",
+      "transpiration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The study of the structure and behavior of the Sun and other stars is known as what?",
+    "question": "Under which of the following conditions would the rate of transpiration from the leaves of a plant be greatest?",
     "options": [
-      "oceanography",
-      "astrophysics",
-      "geology",
-      "meteorology"
+      "warm, still, humid",
+      "warm, windy, dry",
+      "cold, still, dry",
+      "cold, windy, humid"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The study of the structure and behavior of the Earth's interior is known as what?",
+    "question": "Water provides a habitat for many organisms. Eutrophication occurs when nutrients are added to water causing algal blooming and damaging the organisms living there and those which live in terrestrial environments around",
     "options": [
-      "geophysics",
-      "geology",
-      "meteorology",
-      "oceanography"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "In a human cell, the process by which the cell uses energy from the food it consumes to produce ATP is known as what?",
-    "options": [
-      "fermentation",
-      "photosynthesis",
-      "cellular respiration",
-      "mitosis"
+      "the land",
+      "the atmosphere",
+      "the water body",
+      "the soil"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The law that states that the total charge of a closed system remains constant is known as what?",
+    "question": "Desalination is the process of obtaining fresh water from",
     "options": [
-      "law of conservation of charge",
-      "law of conservation of momentum",
-      "Newton's third law",
-      "law of conservation of mass number"
+      "rivers",
+      "rainfall",
+      "salty water",
+      "underground springs"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "The law that states that the total energy of a closed system remains constant is known as what?",
+    "question": "To purify water it needs to be pumped to the purification plant, sieved to remove large debris, settled to remove small insoluble debris, filtered through sand and gravel, chlorinated and aerated. Sometimes fluoride may be",
     "options": [
-      "law of conservation of energy",
-      "Newton's third law",
-      "law of conservation of mass number",
-      "law of conservation of momentum"
+      "removed",
+      "doubled",
+      "added",
+      "tested"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "A 1000 J of energy is expended in a system. What is the change in its internal energy?",
+    "question": "Archimedes' principle states that when a body is immersed in a fluid it experiences an upthrust equal to the weight of the fluid",
     "options": [
-      "500 J",
-      "1000 J",
-      "2000 J",
-      "-500 J"
+      "above it",
+      "around it",
+      "it displaces",
+      "beneath it"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A lift is an upward force. Air and water flow freely around streamlined objects, therefore streamlining reduces resistance to",
+    "options": [
+      "gravity",
+      "motion",
+      "pressure",
+      "weight"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Density equals mass divided by",
+    "options": [
+      "weight",
+      "force",
+      "volume",
+      "area"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Modern fishing techniques include the echo sounder which uses sound to find fish. This technique is called",
+    "options": [
+      "sonar",
+      "radar",
+      "GPS",
+      "ultrasound"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Pollution in aquatic environments can damage the organisms living there. One cause of water pollution is",
+    "options": [
+      "photosynthesis",
+      "transpiration",
+      "eutrophication from excess nutrients",
+      "evaporation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Scuba divers use tanks containing compressed air. If the diving technique is not correctly done this may lead to many health complications including burst eardrums and",
+    "options": [
+      "sunburn",
+      "dehydration",
+      "hypertension and heart problems",
+      "broken bones"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Methods of fishing include by hand, using fishing lines, spears, nets, trawling, dredging and pots or",
+    "options": [
+      "sonar only",
+      "traps",
+      "explosives",
+      "chemicals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Plimsoll line on a ship indicates",
+    "options": [
+      "the direction of travel",
+      "the maximum safe loading level",
+      "the speed of the vessel",
+      "the age of the ship"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hazards associated with scuba diving include the possibility of being carried away by undercurrents, drowning and",
+    "options": [
+      "sunstroke",
+      "long-term effects such as hypertension and heart problems",
+      "broken bones",
+      "food poisoning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The water cycle provides a continuous supply of fresh water to the Earth's surface. Water evaporates, condenses to form clouds and returns to Earth as",
+    "options": [
+      "dew",
+      "fog",
+      "precipitation",
+      "transpiration"
+    ],
+    "correctIndex": 2
   }
 ]

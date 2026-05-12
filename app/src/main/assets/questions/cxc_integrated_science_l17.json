@@ -1,152 +1,152 @@
 [
   {
-    "question": "The study of the movement of the Earth's oceans is known as what?",
+    "question": "When carbon dioxide dissolves in rain water, the rain water becomes",
     "options": [
-      "oceanography",
-      "meteorology",
-      "seismology",
-      "geology"
+      "strongly acidic",
+      "strongly alkaline",
+      "weakly alkaline",
+      "weakly acidic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an example of chemical weathering?",
+    "options": [
+      "acidic rain water dissolving minerals in rocks",
+      "rocks being heated up and cooled down",
+      "water freezing in rocks and turning to ice",
+      "wind blowing tiny rock particles against rocks"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The law that states that the total momentum of a closed system remains constant is known as what?",
+    "question": "Which of the following correctly gives rock fragments in order of decreasing size?",
     "options": [
-      "law of conservation of mass",
-      "law of conservation of energy",
-      "law of conservation of momentum",
-      "Newton's third law"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The study of the structure and behavior of the Earth's crust is known as what?",
-    "options": [
-      "geophysics",
-      "seismology",
-      "geology",
-      "meteorology"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "The type of rock that is formed from the alteration of existing rocks is known as what?",
-    "options": [
-      "metamorphic rock",
-      "foliated rock",
-      "sedimentary rock",
-      "igneous rock"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The process by which a cell becomes specialized to perform a specific function through the movement of molecules from one area to another is known as what?",
-    "options": [
-      "tropotaxis",
-      "chemotaxis",
-      "phototaxis",
-      "kinesin"
+      "clay, silt, sand, gravel",
+      "gravel, sand, silt, clay",
+      "silt, gravel, sand, clay",
+      "sand, clay, silt, gravel"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The study of the structure and behavior of the Earth's atmosphere is known as what?",
+    "question": "Which of the following is true of spring tides?",
     "options": [
-      "atmospheric science",
-      "oceanography",
-      "meteorology",
-      "geology"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "The type of wave that requires a medium to travel is known as what?",
-    "options": [
-      "transverse wave",
-      "electromagnetic wave",
-      "longitudinal wave",
-      "mechanical wave"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The process by which a solution changes its composition through the movement of molecules from one area to another is known as what?",
-    "options": [
-      "filtration",
-      "osmosis",
-      "distillation",
-      "diffusion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The process by which a cell becomes specialized to perform a specific function is known as what?",
-    "options": [
-      "mitosis",
-      "meiosis",
-      "differentiation",
-      "cell division"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A wave that can travel through a vacuum is known as what type of wave?",
-    "options": [
-      "longitudinal wave",
-      "mechanical wave",
-      "transverse wave",
-      "electromagnetic wave"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The study of the movement of the Earth's plates is known as what?",
-    "options": [
-      "geological time scale",
-      "plate tectonics",
-      "continental drift",
-      "seismic activity"
+      "they occur when the Moon and Sun are at right angles to each other",
+      "they occur when the Moon, Earth and Sun are in line",
+      "they result in the lowest tides",
+      "they occur only during winter"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The type of rock that is formed from the cooling and solidification of magma is known as what?",
+    "question": "The Earth's crust is divided into large plates. The sudden trembling or movement of these plates along faults is called",
     "options": [
-      "foliated rock",
-      "metamorphic rock",
-      "sedimentary rock",
-      "igneous rock"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The process by which a solid changes its shape without changing its volume is known as what?",
-    "options": [
-      "ductile deformation",
-      "viscoelastic deformation",
-      "plastic deformation",
-      "elastic deformation"
+      "a tsunami",
+      "a volcano",
+      "an earthquake",
+      "a hurricane"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The process by which a solution separates into its individual components is known as what?",
+    "question": "A seismograph measures the intensity of the vibrations of an earthquake. The magnitude can be measured on the",
     "options": [
-      "filtration",
-      "distillation",
-      "separation of mixtures",
-      "mixing of solutions"
+      "Beaufort scale",
+      "Celsius scale",
+      "Richter scale",
+      "Kelvin scale"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The process by which a cell takes in substances from the environment is known as what?",
+    "question": "The three main layers of the Earth are the core, mantle and",
     "options": [
-      "exocytosis",
-      "mitosis",
-      "meiosis",
-      "endocytosis"
+      "ocean",
+      "atmosphere",
+      "crust",
+      "magma"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "question": "Volcanoes are classified as active, dormant or extinct depending on their eruption history. Molten magma is called lava when it",
+    "options": [
+      "is inside the Earth",
+      "reaches the Earth's surface",
+      "cools underground",
+      "mixes with water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The three basic types of volcanoes are cinder cone, shield and",
+    "options": [
+      "plateau",
+      "dome",
+      "composite",
+      "rift"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A cyclone is a region of low pressure accompanied by wind and rain. A cyclone is classified as a hurricane when the wind speeds exceed",
+    "options": [
+      "80 km/h",
+      "100 km/h",
+      "120 km/h",
+      "150 km/h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The eye of a hurricane is a region of",
+    "options": [
+      "high wind speed",
+      "heavy rainfall",
+      "calm",
+      "lightning"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Humus improves the crumb structure of soil, allowing for proper aeration and water retention without becoming",
+    "options": [
+      "fertile",
+      "acidic",
+      "waterlogged",
+      "sandy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Soil erosion is a process in which topsoil is removed either by wind or",
+    "options": [
+      "animals",
+      "plants",
+      "water",
+      "sunlight"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following cycles involves photosynthesis, respiration, decomposition and combustion?",
+    "options": [
+      "nitrogen cycle",
+      "water cycle",
+      "carbon cycle",
+      "oxygen cycle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nitrogen-fixing bacteria convert nitrogen from the atmosphere directly to nitrates by the process of nitrogen fixation. These bacteria are found in",
+    "options": [
+      "the atmosphere",
+      "river water",
+      "root nodules of leguminous plants",
+      "the ocean"
+    ],
+    "correctIndex": 2
   }
 ]

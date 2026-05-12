@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for the movement of charged particles through a conductor?",
+    "question": "Which of the following correctly describes the conditions under which a sea breeze is created during the day?",
     "options": [
-      "Electric current",
-      "Electric charge",
-      "Electric field",
-      "Electric potential"
+      "the land heats up more quickly than the sea and air passes from the sea to the land",
+      "the sea heats up more quickly than the land and air passes from the land to the sea",
+      "the land heats up more quickly than the sea and air passes from the land to the sea",
+      "the sea heats up more quickly than the land and air passes from the sea to the land"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for the process by which plants convert light energy into chemical energy?",
+    "question": "When a kettle is boiled, the heat energy is transferred through the water mainly by",
     "options": [
-      "Fermentation",
-      "Photosynthesis",
-      "Decomposition",
-      "Respiration"
+      "conduction",
+      "convection",
+      "evaporation",
+      "radiation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The human body's ability to move its limbs and maintain posture is known as voluntary movement.",
+    "question": "Which of the following helps to keep the body warm on a cold day?",
     "options": [
-      "Muscle tone",
-      "False",
-      "Involuntary movement",
-      "True"
+      "blood vessels dilate and move nearer the surface of the skin",
+      "food is metabolised in the liver",
+      "hair erector muscles relax so hair lies flat on the skin",
+      "large amounts of sweat are lost from the surface of the skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Humidity is a measure of",
+    "options": [
+      "the temperature of the air",
+      "the speed and direction of the wind",
+      "the amount of pollution in the air",
+      "the amount of water vapour in the air"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the ability of an object to resist changes in its temperature?",
+    "question": "Conduction, convection and radiation are methods by which heat is",
     "options": [
-      "Thermal capacity",
-      "Thermal conductivity",
-      "Specific heat capacity",
-      "Latent heat"
+      "created",
+      "stored",
+      "transferred",
+      "destroyed"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A mixture of different substances that are mixed together in any proportion is known as a solution.",
+    "question": "Radiation does not require a material medium for transfer. Which of these transfers heat by radiation?",
     "options": [
-      "True",
-      "Mixture",
-      "Compound",
-      "False"
+      "boiling water in a pot",
+      "a metal spoon in hot soup",
+      "the Sun warming the Earth",
+      "wind carrying warm air"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the type of rock that forms when magma cools and solidifies beneath the Earth's surface?",
+    "question": "A thermostat has three main parts: a temperature-setting knob, a bimetallic strip and a",
     "options": [
-      "Igneous rock",
-      "Foliated rock",
-      "Sedimentary rock",
-      "Metamorphic rock"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the ability of a material to conduct electricity?",
-    "options": [
-      "Latent heat",
-      "Specific heat capacity",
-      "Thermal conductivity",
-      "Electrical conductivity"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A block of metal has a mass of 2 kg and a volume of 0.1 m^3. What is its density?",
-    "options": [
-      "5 g/cm^3",
-      "20 g/cm^3",
-      "10 g/cm^3",
-      "More than 20 g/cm^3"
+      "thermometer",
+      "switch",
+      "fuse",
+      "resistor"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In a circuit with a voltage of 12 V and a current of 2 A, what is the power consumed?",
+    "question": "A bimetallic strip is made of two different strips of metal in which one expands more when heated and contracts more when cooled. This causes the strip to",
     "options": [
-      "48 W",
-      "24 W",
-      "12 W",
-      "6 W"
+      "melt",
+      "bend",
+      "break",
+      "stretch"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A wire is carrying a current of 2 A. What is its resistance?",
+    "question": "Insulators reduce heat transfer. Which of the following is the best thermal insulator?",
     "options": [
-      "2 ohms",
-      "5 ohms",
-      "1 ohm",
-      "0.5 ohms"
+      "aluminium",
+      "copper",
+      "silver",
+      "styrofoam"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the term for the type of rock that forms from the accumulation of sediments?",
+    "question": "The rate of evaporation is most likely to increase with",
     "options": [
-      "Foliated rock",
-      "Metamorphic rock",
-      "Igneous rock",
-      "Sedimentary rock"
+      "high temperature, low wind speed, high humidity",
+      "low temperature, low wind speed, high humidity",
+      "high temperature, low wind speed, low humidity",
+      "high temperature, high wind speed, low humidity"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A wire is carrying a current of 5 A. What is its power consumption?",
+    "question": "Temperature is determined by the speed at which particles",
     "options": [
-      "50 W",
-      "75 W",
-      "250 W",
-      "150 W"
+      "stay still",
+      "move or vibrate",
+      "dissolve",
+      "react"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "In the human body, what is the term for the process by which the heart pumps blood throughout the body?",
+    "question": "Sea breezes and land breezes are both caused by",
     "options": [
-      "Circulation",
-      "Digestion",
-      "Excretion",
-      "Respiration"
+      "the rotation of the Earth",
+      "differences in temperature between land and sea creating convection currents",
+      "solar radiation heating the ocean",
+      "wind patterns from high pressure areas"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A car is traveling at a constant speed of 40 km/h. What is its acceleration?",
+    "question": "Humidity is measured with a",
     "options": [
-      "10 m/s^2",
-      "20 m/s^2",
-      "50 m/s^2",
-      "0 m/s^2"
+      "barometer",
+      "thermometer",
+      "hygrometer",
+      "anemometer"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "What is the term for the ability of a material to withstand external forces without deforming?",
+    "question": "Fresh air contains approximately 21% oxygen. Stale air has an increased temperature, dust, odours and bacteria and a higher content of",
     "options": [
-      "Rigidity",
-      "Plasticity",
-      "Elasticity",
-      "Stiffness"
+      "nitrogen",
+      "oxygen",
+      "carbon dioxide",
+      "water vapour"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
+  },
+  {
+    "question": "Back-to-back housing reduces ventilation because",
+    "options": [
+      "the houses are too tall",
+      "there is no through-flow of fresh air",
+      "they are made of brick",
+      "they have no windows"
+    ],
+    "correctIndex": 1
   }
 ]

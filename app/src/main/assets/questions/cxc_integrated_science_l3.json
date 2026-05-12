@@ -1,61 +1,151 @@
 [
   {
-    "question": "What is the process by which the Earth's atmosphere protects living organisms from harmful radiation?",
+    "question": "Which type of reproduction involves only one parent?",
     "options": [
-      "ozone layer",
-      "ionosphere",
-      "magnetosphere",
-      "atmosphere"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Which part of the cell is responsible for providing structure and support?",
-    "options": [
-      "mitochondria",
-      "cytoplasm",
-      "cell wall",
-      "nucleus"
+      "sexual reproduction",
+      "asexual reproduction",
+      "pollination",
+      "fertilisation"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the process by which the Earth's atmosphere protects living organisms from harmful radiation by absorbing ultraviolet light?",
+    "question": "Offspring produced by asexual reproduction are genetically",
     "options": [
-      "magnetosphere",
-      "ionosphere",
-      "ozone layer",
-      "atmosphere"
+      "different from the parent",
+      "identical to the parent",
+      "identical to each other but different from the parent",
+      "completely new organisms"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is the process by which plants release excess water and minerals from their roots?",
+    "question": "Which of the following is a feature of a wind-pollinated flower?",
     "options": [
-      "exudation",
-      "photosynthesis",
-      "respiration",
-      "transpiration"
+      "anthers and stigma inside the flower",
+      "feathery stigma protruding out of the flower",
+      "large brightly coloured petals",
+      "pollen grains large and have sticky surface"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the type of rock that is formed from the compression and cementation of sediments?",
+    "question": "Which part of a flower is the male reproductive structure?",
     "options": [
-      "foliated",
-      "metamorphic",
-      "igneous",
-      "sedimentary"
+      "ovary",
+      "pistil",
+      "stigma",
+      "anthers"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the scientific term for the 'study of the Earth's climate and weather'?",
+    "question": "Which hormone is responsible for contractions of the uterus during childbirth?",
     "options": [
-      "hydrology",
-      "astronomy",
-      "meteorology",
-      "geology"
+      "adrenaline",
+      "oxytocin",
+      "progesterone",
+      "testosterone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Approximately how many days after the start of menstruation does ovulation occur?",
+    "options": [
+      "5",
+      "9",
+      "14",
+      "21"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The transfer of pollen from the anther to the stigma is called",
+    "options": [
+      "fertilisation",
+      "germination",
+      "pollination",
+      "reproduction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an advantage of asexual reproduction?",
+    "options": [
+      "it produces variation in offspring",
+      "reproduction is faster and no need to find a mate",
+      "offspring can adapt to changing conditions",
+      "it always produces the strongest offspring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The joining of a male gamete and a female gamete is called",
+    "options": [
+      "pollination",
+      "germination",
+      "fertilisation",
+      "budding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The HIV virus attacks cells of the",
+    "options": [
+      "digestive system",
+      "immune system",
+      "nervous system",
+      "respiratory system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a sexually transmitted infection?",
+    "options": [
+      "malaria",
+      "leptospirosis",
+      "HIV/AIDS",
+      "dengue fever"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A sexually transmitted infection is one that is passed from person to person",
+    "options": [
+      "through contaminated water",
+      "through insect bites",
+      "during sexual contact",
+      "through the air"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The main function of the testes is to",
+    "options": [
+      "produce eggs",
+      "produce sperm",
+      "produce oxytocin",
+      "store urine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a disadvantage of asexual reproduction?",
+    "options": [
+      "it is slow",
+      "it requires two parents",
+      "there is no variation in offspring",
+      "offspring cannot survive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a method of asexual reproduction in plants?",
+    "options": [
+      "pollination",
+      "fertilisation",
+      "runners",
+      "germination"
     ],
     "correctIndex": 2
   }

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the scientific term for the 'study of the Earth's magnetic field'?",
+    "question": "What is the basic unit of life?",
     "options": [
-      "geochemistry",
-      "geophysics",
-      "geomagnetism",
-      "geomorphology"
+      "atom",
+      "cell",
+      "tissue",
+      "organ"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "What is the type of ecosystem where organisms live in close association with each other, such as in a forest?",
+    "question": "Which of the following organelles controls all the activities of a cell?",
     "options": [
-      "population",
-      "community",
-      "ecosystem",
-      "competition"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the type of energy that is produced by the movement of charged particles, such as electrons?",
-    "options": [
-      "thermal",
-      "mechanical",
-      "chemical",
-      "electrical"
+      "cell membrane",
+      "chloroplast",
+      "mitochondria",
+      "nucleus"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the scientific term for the 'study of the Earth's geology and the processes that shape the planet'?",
+    "question": "Which of the following is found in plant cells but NOT in animal cells?",
     "options": [
-      "geochemistry",
-      "geomorphology",
-      "geophysics",
-      "geology"
+      "cell membrane",
+      "cell wall",
+      "cytoplasm",
+      "nucleus"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the movement of molecules from an area of high concentration to an area of low concentration?",
+    "question": "In which part of a plant cell is sunlight trapped during photosynthesis?",
     "options": [
-      "passive transport",
+      "cell wall",
+      "chloroplasts",
+      "large vacuole",
+      "mitochondria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The smell of food cooking in a kitchen spreads out through a home by",
+    "options": [
       "diffusion",
-      "active transport",
-      "osmosis"
+      "dilution",
+      "osmosis",
+      "active transport"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the scientific term for the 'building blocks of life'?",
+    "question": "When iodine solid is heated, it will",
     "options": [
-      "tissues",
-      "molecules",
-      "organs",
-      "cells"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of rock that is formed from the erosion of existing rocks?",
-    "options": [
-      "igneous",
-      "foliated",
-      "metamorphic",
-      "sedimentary"
+      "melt",
+      "evaporate",
+      "condense",
+      "sublime"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the process by which water moves through a plant, from the roots to the leaves, and is then released into the air as water vapour?",
+    "question": "Which of the following is a state of matter?",
     "options": [
-      "photosynthesis",
-      "transpiration",
-      "translocation",
-      "respiration"
+      "element",
+      "compound",
+      "liquid",
+      "mixture"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "What is the type of matter that has a variable shape and volume?",
+    "question": "Which organelle is responsible for producing energy during cellular respiration?",
     "options": [
-      "plasma",
+      "nucleus",
+      "ribosome",
+      "mitochondria",
+      "chloroplast"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The green pigment found in chloroplasts is called",
+    "options": [
+      "melanin",
+      "haemoglobin",
+      "chlorophyll",
+      "carotene"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following organelles is common to BOTH plant and animal cells?",
+    "options": [
+      "cell wall",
+      "chloroplast",
+      "large vacuole",
+      "cell membrane"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is matter?",
+    "options": [
+      "anything that takes up space only",
+      "anything that has mass only",
+      "anything that has mass and takes up space",
+      "anything that can be seen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which state of matter are particles far apart and able to move freely?",
+    "options": [
+      "solid",
       "liquid",
       "gas",
-      "solid"
+      "plasma"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the process by which plants use energy from the sun to produce glucose and oxygen?",
+    "question": "Which of the following is a microbe?",
     "options": [
-      "translocation",
-      "fermentation",
-      "respiration",
-      "photosynthesis"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the process by which plants absorb water and nutrients from the soil?",
-    "options": [
-      "diffusion",
-      "absorption",
-      "active transport",
-      "osmosis"
+      "fern",
+      "virus",
+      "earthworm",
+      "mushroom"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the process by which living organisms make their own food using sunlight, water and carbon dioxide?",
+    "question": "All viruses are",
     "options": [
-      "osmosis",
-      "photosynthesis",
-      "fermentation",
-      "respiration"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the process by which the Earth's plates move and change?",
-    "options": [
-      "continental drift",
-      "plate tectonics",
-      "sea floor spreading",
-      "glaciation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the type of energy that is produced by the movement of charged particles, such as protons and neutrons?",
-    "options": [
-      "mechanical",
-      "thermal",
-      "electrical",
-      "nuclear"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of ecosystem where plants and animals are dependent on each other for survival?",
-    "options": [
-      "community",
-      "ecosystem",
-      "symbiotic",
-      "population"
+      "decomposers",
+      "producers",
+      "pathogens",
+      "saprophytes"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The nucleus of a cell contains the",
+    "options": [
+      "genetic material",
+      "site of photosynthesis",
+      "site of respiration",
+      "cell sap"
+    ],
+    "correctIndex": 0
   }
 ]

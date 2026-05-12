@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "After which famous scientist is the unit of force named?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "James Joule",
+      "Alessandro Volta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The direction of a centripetal force is always",
+    "options": [
+      "away from the centre of the circle",
+      "towards the centre of the circle",
+      "vertically downwards",
+      "vertically upwards"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following has the same turning effect as a force of 20 N applied 8 cm from a pivot?",
+    "options": [
+      "a force of 25 N applied 6 cm from a pivot",
+      "a force of 40 N applied 4 cm from a pivot",
+      "a force of 15 N applied 11 cm from a pivot",
+      "a force of 35 N applied 5 cm from a pivot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A force is a push, pull or twist. Newton's third law of motion states that for every action there is",
+    "options": [
+      "a greater reaction",
+      "a smaller reaction",
+      "an equal and opposite reaction",
+      "no reaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Friction is the force that opposes motion. Which of the following is a situation where friction is helpful?",
+    "options": [
+      "a car engine using fuel",
+      "the brakes on a bicycle slowing it down",
+      "a ball rolling slowly to a stop",
+      "heat generated in a machine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The centre of gravity of an object is the point through which its weight falls within its base. An object remains stable when a line through its centre of gravity falls within its",
+    "options": [
+      "top surface",
+      "base",
+      "middle",
+      "side"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An object moving in a circular path requires a centripetal force which is directed towards the",
+    "options": [
+      "outside of the circle",
+      "centre of the circle",
+      "top of the circle",
+      "bottom of the circle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Geostationary orbits occur when a satellite is made to orbit at the same speed at which the Earth turns, so that it appears to be",
+    "options": [
+      "moving very fast",
+      "falling toward Earth",
+      "stationary",
+      "orbiting the Moon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The moment of a force equals the force multiplied by the perpendicular distance from the",
+    "options": [
+      "ground",
+      "top of the object",
+      "pivot",
+      "centre of the object"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The law of moments states that when an object is in equilibrium, the sum of the clockwise moments equals the sum of the",
+    "options": [
+      "upward forces",
+      "downward forces",
+      "anti-clockwise moments",
+      "frictional forces"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The gravitational force on an object is its",
+    "options": [
+      "mass",
+      "density",
+      "weight",
+      "momentum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gravitational force and the movement of satellites: a satellite must be launched at the right height and speed to remain in orbit. If the satellite speed is too fast it will",
+    "options": [
+      "crash into the Earth",
+      "remain stationary",
+      "move to a higher orbit or escape into space",
+      "slow down and stop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a simple machine?",
+    "options": [
+      "thermometer",
+      "voltmeter",
+      "lever",
+      "barometer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Efficiency of a machine equals useful work output divided by work input multiplied by",
+    "options": [
+      "50%",
+      "10%",
+      "100%",
+      "200%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mechanical advantage is the ratio of",
+    "options": [
+      "effort to load",
+      "load to effort",
+      "work input to work output",
+      "speed to distance"
+    ],
+    "correctIndex": 1
+  }
+]

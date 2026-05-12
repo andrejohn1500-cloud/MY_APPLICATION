@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Which of the following is NOT spread by a species of mosquito?",
+    "options": [
+      "dengue fever",
+      "leptospirosis",
+      "malaria",
+      "yellow fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following materials is non-biodegradable?",
+    "options": [
+      "glass",
+      "paper",
+      "stale bread",
+      "vegetable peelings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which animal is the vector for leptospirosis?",
+    "options": [
+      "fish",
+      "cats",
+      "rats",
+      "snakes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Biogas is made by the decay of",
+    "options": [
+      "animal dung",
+      "biodegradable waste",
+      "composted plant material",
+      "sewage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hygiene involves the conditions or practices which maintain good health and prevent",
+    "options": [
+      "rainfall",
+      "sunshine",
+      "the spread of diseases",
+      "soil erosion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Malaria is caused by a parasite called",
+    "options": [
+      "Leptospira",
+      "Plasmodium",
+      "Penicillium",
+      "Salmonella"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pathogens are microorganisms which",
+    "options": [
+      "help plants grow",
+      "cause disease",
+      "produce oxygen",
+      "fix nitrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a method of biological pest control?",
+    "options": [
+      "using pesticides",
+      "introducing a natural predator of the pest",
+      "using herbicides",
+      "burning crops"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pesticides are chemicals that kill pests while insecticides kill",
+    "options": [
+      "weeds",
+      "plants",
+      "insects",
+      "rodents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Refuse can be classified as biodegradable which decays or",
+    "options": [
+      "non-biodegradable which does not decay",
+      "recyclable which is burned",
+      "toxic which is buried",
+      "hazardous which floats"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "To keep back clean water in the toilet after flushing and to prevent bacteria from entering the sewers, the toilet should be",
+    "options": [
+      "left open",
+      "flushed twice",
+      "connected to a septic tank only",
+      "fitted with a U-bend or water trap"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is a way to prevent the spread of dengue fever?",
+    "options": [
+      "boiling drinking water",
+      "removing standing water where mosquitoes breed",
+      "washing hands before meals",
+      "storing food in sealed containers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The concentration of pollutants increases along a food chain. This is called",
+    "options": [
+      "eutrophication",
+      "biomagnification",
+      "decomposition",
+      "bioaccumulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Human biological waste such as sewage needs to be treated and disposed of properly so that it does not",
+    "options": [
+      "block pipes",
+      "smell bad only",
+      "spread disease or contaminate drinking water",
+      "take up space"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is an alternative method of waste disposal that converts waste into energy?",
+    "options": [
+      "landfill",
+      "reusing",
+      "biogas production",
+      "recycling plastics"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,81 +1,151 @@
 [
   {
-    "question": "The process by which an object can be heated or cooled by a change in pressure is known as the Joule-Thomson effect.",
+    "question": "Which of the following is NOT an excretory organ of the human body?",
     "options": [
-      "Convection",
-      "Conduction",
-      "False",
-      "True"
+      "heart",
+      "kidney",
+      "lung",
+      "skin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The amine group removed from unwanted amino acids during deamination is excreted as",
+    "options": [
+      "glycogen",
+      "nitrate",
+      "nitrogen gas",
+      "urea"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The human body's ability to maintain a stable internal environment despite changes in the external environment is known as homeostasis.",
+    "question": "When the level of anti-diuretic hormone (ADH) in the blood is increased, more",
     "options": [
-      "Body temperature",
-      "True",
-      "False",
-      "Thermoregulation"
+      "water is stored in the bladder as urine",
+      "water is reabsorbed after ultrafiltration",
+      "water is removed from the blood during ultrafiltration",
+      "water is lost from the body as sweat"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for the movement of an object from one position to another without any external force acting on it?",
+    "question": "The main excretory organ in plants is the",
     "options": [
-      "Circular motion",
-      "Free fall",
-      "Projectile motion",
-      "Forced motion"
+      "flower",
+      "leaf",
+      "root",
+      "stem"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The human body's ability to regulate its internal temperature is known as homeostasis.",
+    "question": "The process of artificially cleaning the blood is called",
     "options": [
-      "Body temperature",
-      "Thermoregulation",
-      "True",
-      "False"
+      "dialysis",
+      "egestion",
+      "osmoregulation",
+      "ultrafiltration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Excretion is the process by which waste is eliminated from the",
+    "options": [
+      "digestive system only",
+      "blood only",
+      "body",
+      "kidneys only"
     ],
     "correctIndex": 2
   },
   {
-    "question": "Which part of the human brain controls voluntary movements?",
+    "question": "Which of the following is a waste product of respiration excreted by the lungs?",
     "options": [
-      "Brainstem",
-      "Cerebrum",
-      "Cerebellum",
-      "Spinal cord"
+      "urea",
+      "carbon dioxide",
+      "bile",
+      "salt"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The movement of plants towards light is known as phototropism.",
+    "question": "Deamination of amino acids takes place in the",
     "options": [
-      "Thigmotropism",
-      "Nastic movement",
-      "False",
-      "True"
+      "kidney",
+      "pancreas",
+      "liver",
+      "skin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The kidneys filter out waste from the blood to form",
+    "options": [
+      "bile",
+      "sweat",
+      "urine",
+      "tears"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The body excretes waste via the lungs, skin and",
+    "options": [
+      "liver",
+      "heart",
+      "kidneys",
+      "stomach"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Egestion is",
+    "options": [
+      "an excretory process",
+      "the removal of undigested food from the body",
+      "the same as excretion",
+      "the filtration of blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "ADH from the pituitary gland controls the amount of water reabsorbed by the",
+    "options": [
+      "liver",
+      "skin",
+      "kidney tubules",
+      "lungs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a waste product excreted through the skin?",
+    "options": [
+      "urea only",
+      "carbon dioxide only",
+      "water only",
+      "water, salts and urea"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In an ecosystem, what is the term for the interaction between two different species?",
+    "question": "People with kidney failure can have their blood filtered artificially by a process called",
     "options": [
-      "Competition",
-      "Symbiosis",
-      "Mutualism",
-      "Predation"
+      "ultrafiltration",
+      "dialysis",
+      "osmoregulation",
+      "deamination"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The process by which an organism's genetic information is passed from one generation to the next is known as inheritance.",
+    "question": "Carbon dioxide is excreted via the",
     "options": [
-      "Genetic drift",
-      "False",
-      "True",
-      "Mutation"
+      "kidney",
+      "liver",
+      "lungs",
+      "skin"
     ],
     "correctIndex": 2
   }

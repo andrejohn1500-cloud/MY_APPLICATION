@@ -1,152 +1,152 @@
 [
   {
-    "question": "In the human body, which of the following systems is responsible for breaking down and eliminating waste?",
+    "question": "From which chamber of the heart is blood pumped out to the body?",
     "options": [
-      "Excretory system",
-      "Respiratory system",
-      "Nervous system",
-      "Circulatory system"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy associated with the motion of an object?",
-    "options": [
-      "Thermal energy",
-      "Kinetic energy",
-      "Elastic potential energy",
-      "Potential energy"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for the force that opposes the motion of an object?",
-    "options": [
-      "Tension",
-      "Normal force",
-      "Gravity",
-      "Friction"
+      "right atrium",
+      "left atrium",
+      "right ventricle",
+      "left ventricle"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The process by which an object can be magnetized is known as magnetization.",
+    "question": "Which of the following is NOT involved in moving water through a plant?",
     "options": [
-      "Demagnetization",
-      "False",
-      "True",
-      "Electromagnetism"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the process by which plants convert sunlight into chemical energy?",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Transpiration",
-      "Fermentation"
+      "agglutination",
+      "capillarity",
+      "root pressure",
+      "transpiration"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The force of attraction between two objects is known as gravity.",
+    "question": "A person has no antigens on their red blood cells and anti-A and anti-B antibodies in their plasma. Their blood group is",
     "options": [
-      "Friction",
-      "Electromagnetism",
-      "False",
-      "True"
+      "type O",
+      "type AB",
+      "type B",
+      "type A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Angina is caused by",
+    "options": [
+      "giving someone the incorrect blood type during a transfusion",
+      "taking anabolic steroid drugs to enhance athletic performance",
+      "hardening of the coronary arteries that supply the heart with blood",
+      "a shortage of red blood cells"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "People with blood group O are",
+    "options": [
+      "universal recipients",
+      "universal donors",
+      "unable to give blood",
+      "only able to receive group O blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "People with blood group AB are",
+    "options": [
+      "universal donors",
+      "universal recipients",
+      "unable to receive any blood",
+      "only able to donate to group AB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The three main types of blood vessel are arteries, veins and",
+    "options": [
+      "lymph vessels",
+      "capillaries",
+      "chambers",
+      "valves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Red blood cells are produced in the",
+    "options": [
+      "liver",
+      "spleen",
+      "bone marrow",
+      "kidney"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Platelets assist with",
+    "options": [
+      "carrying oxygen",
+      "fighting infection",
+      "clotting blood",
+      "producing hormones"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The heart has two sides separated by a",
+    "options": [
+      "valve",
+      "septum",
+      "ventricle",
+      "capillary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hypertension is the medical term for",
+    "options": [
+      "low blood pressure",
+      "high blood pressure",
+      "a blocked artery",
+      "a rapid heart rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of white blood cell produces antibodies?",
+    "options": [
+      "phagocytes",
+      "neutrophils",
+      "platelets",
+      "lymphocytes"
     ],
     "correctIndex": 3
   },
   {
-    "question": "In a simple circuit, what is the current flowing through the circuit called?",
+    "question": "A vaccine contains small amounts of",
     "options": [
-      "Alternating current (AC)",
-      "Direct current (DC)",
-      "Resistance",
-      "Electromotive force (EMF)"
+      "antibodies only",
+      "dead or weakened microorganisms or their toxins",
+      "living harmful microorganisms",
+      "white blood cells"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the water cycle, what is the process called when water from the atmosphere freezes and falls to the ground?",
+    "question": "The skeletal system is made up of how many bones?",
     "options": [
-      "Condensation",
-      "Precipitation",
-      "Runoff",
-      "Evaporation"
+      "106",
+      "206",
+      "306",
+      "406"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following types of cells is responsible for movement in multicellular organisms?",
+    "question": "Which type of joint allows movement in all directions, like the shoulder?",
     "options": [
-      "Epithelial cells",
-      "Connective tissue cells",
-      "Muscle cells",
-      "Nerve cells"
+      "hinge joint",
+      "pivot joint",
+      "ball and socket joint",
+      "plane joint"
     ],
     "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the movement of an object in a circular path?",
-    "options": [
-      "Circular motion",
-      "Rotational motion",
-      "Oscillatory motion",
-      "Linear motion"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for the energy associated with the position of an object?",
-    "options": [
-      "Kinetic energy",
-      "Thermal energy",
-      "Elastic potential energy",
-      "Potential energy"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A substance that cannot be separated into simpler substances by chemical means is known as an element.",
-    "options": [
-      "Mixture",
-      "Compound",
-      "True",
-      "False"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for the amount of space occupied by an object?",
-    "options": [
-      "Density",
-      "Volume",
-      "Mass",
-      "Surface area"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the human body, which of the following systems is responsible for transporting gases throughout the body?",
-    "options": [
-      "Respiratory system",
-      "Digestive system",
-      "Nervous system",
-      "Circulatory system"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A substance that can be broken down into simpler substances by chemical means is known as a compound.",
-    "options": [
-      "True",
-      "Elementary substance",
-      "False",
-      "Mixture"
-    ],
-    "correctIndex": 0
   }
 ]

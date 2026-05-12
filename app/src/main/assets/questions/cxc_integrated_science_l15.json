@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "A solution which has a pH of 12 is best described as",
+    "options": [
+      "neutral",
+      "strongly alkaline",
+      "weakly acidic",
+      "weakly alkaline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following pairs of chemicals react together to produce a gas that turns limewater milky?",
+    "options": [
+      "copper oxide and sulfuric acid",
+      "hydrochloric acid and sodium hydroxide",
+      "magnesium and sulfuric acid",
+      "sodium carbonate and hydrochloric acid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following substances releases hydrogen ions in aqueous solution?",
+    "options": [
+      "ethanoic acid",
+      "magnesium sulfate",
+      "potassium hydroxide",
+      "sodium carbonate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Milk is best described as a",
+    "options": [
+      "colloid",
+      "mixture",
+      "solution",
+      "suspension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following cannot be used to soften hard water?",
+    "options": [
+      "adding washing soda",
+      "boiling",
+      "freezing",
+      "passing through ion-exchange resins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Acids are substances that release hydrogen ions in solution. Acids turn litmus paper",
+    "options": [
+      "blue",
+      "green",
+      "purple",
+      "red"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A neutralisation reaction occurs when an acid reacts with a base to form a salt and",
+    "options": [
+      "carbon dioxide",
+      "hydrogen",
+      "oxygen",
+      "water"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Indicators are substances that change colour depending on the pH of the solution. On the pH scale, pH 7 is",
+    "options": [
+      "acidic",
+      "alkaline",
+      "neutral",
+      "strongly acidic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A mixture is a combination of substances that are not chemically combined. Solutions are",
+    "options": [
+      "heterogeneous mixtures",
+      "homogeneous mixtures",
+      "suspensions",
+      "colloids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The components of a suspension can be separated by",
+    "options": [
+      "distillation",
+      "chromatography",
+      "filtration",
+      "evaporation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A colloid is an intermediate between a true solution and a",
+    "options": [
+      "gas",
+      "metal",
+      "suspension",
+      "acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Simple distillation can be used to",
+    "options": [
+      "separate a mixture of two liquids with different boiling points",
+      "desalinate salt water",
+      "test for acids",
+      "remove colour from a solution"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Paper chromatography is used to",
+    "options": [
+      "filter a suspension",
+      "separate the solutes in a dye",
+      "test the pH of a solution",
+      "measure the hardness of water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Temporary hardness of water is due to dissolved calcium or magnesium bicarbonate and can be removed by",
+    "options": [
+      "adding salt",
+      "filtering",
+      "boiling",
+      "adding acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Soaps lather more easily in soft water than in hard water because hard water contains dissolved calcium or magnesium salts that react with soap to form",
+    "options": [
+      "a lather",
+      "scum",
+      "bubbles",
+      "foam"
+    ],
+    "correctIndex": 1
+  }
+]

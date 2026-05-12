@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Which metal is used to coat iron when galvanising?",
+    "options": [
+      "chromium",
+      "lead",
+      "tin",
+      "zinc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following words best describes the shiny appearance of some metals?",
+    "options": [
+      "ductile",
+      "lustrous",
+      "malleable",
+      "sonorous"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following shows four metals arranged in order of decreasing reactivity?",
+    "options": [
+      "aluminium, zinc, iron, copper",
+      "copper, zinc, aluminium, iron",
+      "iron, aluminium, copper, zinc",
+      "zinc, aluminium, iron, copper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An example of a thermosetting plastic is",
+    "options": [
+      "bakelite",
+      "nylon",
+      "polyethene",
+      "PVC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following statements best describes a special use of the plastic Teflon?",
+    "options": [
+      "clear sheets can be used in place of glass",
+      "drawn into fibres and used to make fabrics",
+      "non-stick coating on the bottom of saucepans",
+      "sets hard and used to make electrical fittings"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Plastics are man-made products made by the process of",
+    "options": [
+      "fermentation",
+      "polymerisation",
+      "distillation",
+      "oxidation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Plastics are classified as either thermoplastics or",
+    "options": [
+      "biodegradable plastics",
+      "thermosetting plastics",
+      "recyclable plastics",
+      "organic plastics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Metals are useful because they are lustrous, strong, excellent conductors of heat and electricity, malleable and",
+    "options": [
+      "transparent",
+      "non-reactive",
+      "ductile and sonorous",
+      "lightweight"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "An alloy is a mixture of two or more metals that have been melted together. Brass is an alloy of copper and",
+    "options": [
+      "iron",
+      "tin",
+      "zinc",
+      "aluminium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The general chemical reaction of a metal with oxygen produces a",
+    "options": [
+      "metal hydroxide",
+      "metal carbonate",
+      "metal oxide",
+      "metal salt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Corrosion is the process by which metals react with substances in the environment to form the metal oxide, sulfide or",
+    "options": [
+      "carbonate",
+      "hydroxide",
+      "nitrate",
+      "chloride"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The two main conditions required for iron to rust are water and",
+    "options": [
+      "nitrogen",
+      "carbon dioxide",
+      "oxygen",
+      "sunlight"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Aluminium on exposure to air produces a protective oxide coat of",
+    "options": [
+      "iron oxide",
+      "aluminium hydroxide",
+      "aluminium oxide",
+      "aluminium carbonate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Most metals corrode in moist air. The corroded product of iron is called",
+    "options": [
+      "tarnish",
+      "patina",
+      "rust",
+      "scale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Galvanising iron involves coating it with zinc. The zinc protects the iron because",
+    "options": [
+      "zinc is more reactive and corrodes first protecting the iron beneath",
+      "zinc is less reactive than iron",
+      "zinc makes the iron stronger",
+      "zinc prevents water from touching the iron only"
+    ],
+    "correctIndex": 0
+  }
+]

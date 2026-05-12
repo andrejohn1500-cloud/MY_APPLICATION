@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the process by which the Earth's climate and weather are affected by the movement of the Earth's plates?",
+    "question": "Diffusion involves the movement of particles from a region of",
     "options": [
-      "plate tectonics",
-      "sea floor spreading",
-      "glaciation",
-      "continental drift"
+      "low concentration to high concentration",
+      "high concentration to low concentration",
+      "equal concentration on both sides",
+      "no concentration to high concentration"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the scientific term for the 'study of the structure and function of the human body'?",
+    "question": "Which process involves the movement of water molecules across a partially permeable membrane?",
     "options": [
-      "pathology",
-      "surgery",
-      "anatomy",
-      "physiology"
+      "diffusion",
+      "osmosis",
+      "active transport",
+      "absorption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Active transport moves substances",
+    "options": [
+      "along the concentration gradient",
+      "against the concentration gradient",
+      "through a permeable membrane only",
+      "without using any energy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which process requires energy from the cell to move substances?",
+    "options": [
+      "diffusion",
+      "osmosis",
+      "active transport",
+      "evaporation"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the scientific term for the 'study of the weather and climate'?",
+    "question": "In osmosis, water moves from a region where its concentration is",
     "options": [
-      "meteorology",
-      "geology",
-      "astronomy",
-      "hydrology"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of ecosystem where organisms compete with each other for resources, such as food and water?",
-    "options": [
-      "ecosystem",
-      "symbiotic",
-      "community",
-      "competition"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the type of rock that is formed when existing rocks are subjected to heat and pressure?",
-    "options": [
-      "foliated",
-      "igneous",
-      "sedimentary",
-      "metamorphic"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the scientific term for the 'study of the structure of the Earth'?",
-    "options": [
-      "geophysics",
-      "geology",
-      "geochemistry",
-      "geomorphology"
+      "low to high",
+      "high to low",
+      "equal on both sides",
+      "zero to high"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of rock that is formed from the cooling and solidification of molten lava?",
+    "question": "Which of the following is a unicellular fungus used in bread-making and fermentation?",
     "options": [
-      "igneous",
-      "sedimentary",
-      "metamorphic",
-      "foliated"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of matter that has a fixed shape and volume?",
-    "options": [
-      "solid",
-      "liquid",
-      "gas",
-      "plasma"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the scientific term for the 'study of the Earth's magnetic field and its effects on the environment'?",
-    "options": [
-      "geomagnetism",
-      "geochemistry",
-      "geomorphology",
-      "geophysics"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the type of energy that is produced by the movement of molecules, such as those in a gas?",
-    "options": [
-      "potential",
-      "thermal",
-      "kinetic",
-      "chemical"
+      "Plasmodium",
+      "yeast",
+      "Penicillium",
+      "Leptospira"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the type of energy that is produced by the movement of molecules, such as those in a solution?",
+    "question": "The genetic material in viruses and bacteria is",
     "options": [
-      "chemical",
-      "thermal",
-      "potential",
-      "kinetic"
+      "contained in a nucleus",
+      "not contained in a nucleus",
+      "found in the mitochondria",
+      "found in the chloroplast"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the type of rock that is formed from the melting of existing rocks?",
+    "question": "Yeast is used in the fermentation of sugar to produce",
     "options": [
-      "sedimentary",
-      "foliated",
-      "metamorphic",
-      "igneous"
+      "lactic acid and water",
+      "ethanol and carbon dioxide",
+      "glucose and oxygen",
+      "urea and water"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "What is the process by which plants release water vapour into the air?",
+    "question": "Which organelle controls what enters and leaves the cell?",
     "options": [
-      "evaporation",
-      "respiration",
+      "nucleus",
+      "cell wall",
+      "cell membrane",
+      "cytoplasm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Substances are transported in and out of cells by diffusion, osmosis or",
+    "options": [
       "transpiration",
-      "photosynthesis"
+      "active transport",
+      "photosynthesis",
+      "respiration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Carbon dioxide produced during respiration leaves the cell by",
+    "options": [
+      "active transport",
+      "osmosis",
+      "diffusion",
+      "transpiration"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the type of matter that has a fixed shape but a variable volume?",
+    "question": "The fungus Penicillium is used to make",
     "options": [
-      "solid",
-      "gas",
-      "plasma",
-      "liquid"
+      "antibiotics",
+      "alcohol",
+      "bread",
+      "vaccines"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
-    "question": "What is the type of energy that is produced by the movement of living organisms, such as animals?",
+    "question": "Which of the following best describes a virus?",
     "options": [
-      "chemical",
-      "kinetic",
-      "potential",
-      "thermal"
+      "a unicellular organism with a nucleus",
+      "a multicellular organism",
+      "a microbe whose genetic material is not in a nucleus",
+      "a type of fungus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A concentration gradient exists when there is",
+    "options": [
+      "an equal concentration on both sides of a membrane",
+      "a significant difference in concentration on either side of a membrane",
+      "no particles on one side of a membrane",
+      "too many particles on both sides"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Which of the following processes does NOT require a concentration gradient?",
+    "options": [
+      "diffusion",
+      "osmosis",
+      "active transport",
+      "evaporation"
+    ],
+    "correctIndex": 2
   }
 ]
