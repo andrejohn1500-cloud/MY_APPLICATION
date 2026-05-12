@@ -302,17 +302,19 @@ class ResultActivity : AppCompatActivity() {
                 conn.setRequestProperty("Content-Type", "application/json")
                 conn.setRequestProperty("Authorization", "Key ${BuildConfig.ONESIGNAL_REST_API_KEY}")
                 conn.doOutput = true
-                val body = """{
-                    "app_id": "c9ec45bd-705f-4fd2-b00f-79ce25085cef",
-                    "include_subscription_ids": ["$osId"],
-                    "contents": {"en": "$rivalName scored $score/$total in $category Lvl $level. $needed."},
-                    "data": {"category": "$category", "their_score": "$score/$total", "your_score": "$theirScore/$total", "gap": "$gap"}
-                }"""
+                val body = """{"app_id": "c9ec45bd-705f-4fd2-b00f-79ce25085cef", "include_subscription_ids": ["$osId"], "contents": {"en": "$rivalName scored $score/$total in $category Lvl $level. $needed."}, "data": {"category": "$category", "their_score": "$score/$total", "your_score": "$theirScore/$total", "gap": "$gap"}}"""
                 conn.outputStream.write(body.toByteArray())
-                conn.responseCode
+                val responseCode = conn.responseCode
+                val responseBody = conn.inputStream.bufferedReader().readText()
                 conn.disconnect()
+                android.os.Handler(android.os.Looper.getMainLooper()).post {
+                    android.widget.Toast.makeText(applicationContext, "OS: $responseCode $responseBody", android.widget.Toast.LENGTH_LONG).show()
+                }
             } catch (e: Exception) {
                 e.printStackTrace()
+                android.os.Handler(android.os.Looper.getMainLooper()).post {
+                    android.widget.Toast.makeText(applicationContext, "OS Error: ${e.message}", android.widget.Toast.LENGTH_LONG).show()
+                }
             }
         }.start()
     }
