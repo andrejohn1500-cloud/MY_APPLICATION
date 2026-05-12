@@ -91,7 +91,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="80dp"
-            app:backgroundTint="#2D3561"
+            app:backgroundTint="#1A1F3D"
             app:strokeColor="#FFD700"
             app:strokeWidth="1.5dp"
             app:cornerRadius="12dp"
