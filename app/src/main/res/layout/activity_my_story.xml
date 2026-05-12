@@ -40,7 +40,7 @@
             android:layout_marginBottom="16dp"
             app:backgroundTint="#1A1F3D"
             app:strokeColor="#FFD700"
-            app:strokeWidth="1.5dp"
+            
             app:cornerRadius="12dp"
             app:rippleColor="#66FFD700"
             android:stateListAnimator="@null"
@@ -62,7 +62,7 @@
             android:layout_marginBottom="24dp"
             app:backgroundTint="#1A1F3D"
             app:strokeColor="#FFD700"
-            app:strokeWidth="1.5dp"
+            
             app:cornerRadius="12dp"
             app:rippleColor="#66FFD700"
             android:stateListAnimator="@null"

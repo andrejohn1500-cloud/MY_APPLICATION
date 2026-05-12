@@ -86,6 +86,7 @@
 
     <com.google.android.material.button.MaterialButton
             android:id="@+id/btnBack"
+        android:textColor="@color/gold"
             android:layout_width="260dp"
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
@@ -93,7 +94,7 @@
             android:layout_marginBottom="80dp"
             app:backgroundTint="#1A1F3D"
             app:strokeColor="#FFD700"
-            app:strokeWidth="1.5dp"
+            
             app:cornerRadius="12dp"
             app:rippleColor="#66FFD700"
             android:stateListAnimator="@null"
