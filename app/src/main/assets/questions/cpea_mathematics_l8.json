@@ -2,32 +2,32 @@
   {
     "question": "What is the area of a triangle with a base of 6 cm and a height of 8 cm?",
     "options": [
-      "18",
+      "24",
       "22",
       "20",
-      "24"
+      "18"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "A person has $180 to spend on electronics. If they buy 2 items at $40 each and 1 item at $20, how much money will they have left?",
     "options": [
-      "90.00",
+      "80.00",
       "70.00",
       "100.00",
-      "80.00"
+      "90.00"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the area of a rectangle with a length of 12 cm and a width of 6 cm?",
     "options": [
-      "60",
+      "72",
       "80",
       "70",
-      "72"
+      "60"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "A car travels 250 km in 5 hours. What is its average speed in km/h?",
@@ -42,11 +42,11 @@
   {
     "question": "A bakery sells 200 muffins per day. If each muffin costs $2, how much money does the bakery make in a day?",
     "options": [
-      "600.00",
+      "400.00",
       "500.00",
       "300.00",
-      "400.00"
+      "600.00"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

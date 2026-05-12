@@ -22,22 +22,22 @@
   {
     "question": "A group of friends want to share some money in the ratio 2:3:5. If they have $120 to share, how much will each person get?",
     "options": [
-      "60",
+      "40",
       "80",
       "30",
-      "40"
+      "60"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "If Sally has 15 pencils and she gives 1/3 of them to her friend, how many does she have left?",
     "options": [
-      "12",
+      "10",
       "8",
       "15",
-      "10"
+      "12"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the mean of 15, 18, 20, and 22?",
@@ -62,42 +62,42 @@
   {
     "question": "What is the probability of getting an even number when rolling a die?",
     "options": [
-      "1/3",
+      "1/2",
       "2/3",
       "3/4",
-      "1/2"
+      "1/3"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the value of 6 \u00d7 9?",
     "options": [
-      "70",
+      "54",
       "60",
       "45",
-      "54"
+      "70"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Solve the equation 2x = 6:",
     "options": [
-      "4",
+      "3",
       "1",
       "6",
-      "3"
+      "4"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the probability of getting a head when flipping a coin?",
     "options": [
-      "3/4",
+      "1/2",
       "1/3",
       "2/3",
-      "1/2"
+      "3/4"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "50% of 120 is equal to what number?",
@@ -112,12 +112,12 @@
   {
     "question": "What is the area of a circle with radius 5 cm?",
     "options": [
-      "50",
+      "78.5",
       "25",
       "100",
-      "78.5"
+      "50"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the perimeter of a triangle with sides 3 cm, 4 cm, and 5 cm?",

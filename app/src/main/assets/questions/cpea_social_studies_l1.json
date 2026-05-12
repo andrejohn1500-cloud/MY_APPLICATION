@@ -2,12 +2,12 @@
   {
     "question": "Who is the head of state in a parliamentary system of government?",
     "options": [
-      "The Governor-General",
+      "The Prime Minister",
       "None of the above",
       "The President",
-      "The Prime Minister"
+      "The Governor-General"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the largest island in the Caribbean?",
@@ -22,12 +22,12 @@
   {
     "question": "Which of the following is a type of government where power is exercised by a single ruler?",
     "options": [
-      "Parliamentary regime",
+      "Authoritarian regime",
       "Democratic regime",
       "Federal regime",
-      "Authoritarian regime"
+      "Parliamentary regime"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the main source of income for a majority of people in the Caribbean?",
@@ -102,12 +102,12 @@
   {
     "question": "What is the name of the historical period of colonial rule in the Caribbean?",
     "options": [
-      "Indigenous Era",
+      "Colonial Era",
       "Slavery Era",
       "Modern Era",
-      "Colonial Era"
+      "Indigenous Era"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is a type of economic system where the state controls the means of production?",

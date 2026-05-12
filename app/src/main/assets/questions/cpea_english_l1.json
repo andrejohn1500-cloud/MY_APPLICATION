@@ -62,12 +62,12 @@
   {
     "question": "Which punctuation mark is used to indicate a direct quote?",
     "options": [
-      "Semi-colon",
+      "Quotation marks",
       "Comma",
       "Colon",
-      "Quotation marks"
+      "Semi-colon"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which punctuation mark is used to indicate a pause that is longer than a comma?",
@@ -92,12 +92,12 @@
   {
     "question": "Which literary device involves using words that imitate the sounds they describe?",
     "options": [
-      "Alliteration",
+      "Onomatopoeia",
       "Consonance",
       "Assonance",
-      "Onomatopoeia"
+      "Alliteration"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which punctuation mark is used to indicate a pause that is shorter than a comma?",
@@ -122,31 +122,31 @@
   {
     "question": "What is the function of a comma in a sentence?",
     "options": [
-      "To join two clauses together",
+      "To separate items in a list or to indicate a pause",
       "To show emphasis",
       "To indicate a question",
-      "To separate items in a list or to indicate a pause"
+      "To join two clauses together"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for a sentence that contains a subject and a predicate?",
     "options": [
-      "Complex sentence",
+      "Simple sentence",
       "Compound sentence",
       "Compound-complex sentence",
-      "Simple sentence"
+      "Complex sentence"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the purpose of a title page in a text?",
     "options": [
-      "To conclude the text",
+      "To provide information about the text and its author",
       "To provide evidence",
       "To introduce the main idea",
-      "To provide information about the text and its author"
+      "To conclude the text"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

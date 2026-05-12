@@ -2,22 +2,22 @@
   {
     "question": "Which of the following is an example of a technology used in the Caribbean for monitoring and predicting weather patterns?",
     "options": [
-      "Weather satellite",
+      "Weather radar",
       "Weather forecasting model",
       "Weather balloon",
-      "Weather radar"
+      "Weather satellite"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "The process of cellular respiration is an example of what type of energy transformation?",
     "options": [
-      "mechanical",
+      "chemical",
       "electrical",
       "thermal",
-      "chemical"
+      "mechanical"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the process by which an organism's genetic information is altered by external factors, such as radiation or chemicals?",
@@ -52,22 +52,22 @@
   {
     "question": "Which of the following is an example of a human health issue related to poor nutrition in the Caribbean?",
     "options": [
-      "Hypertension",
+      "Malnutrition",
       "Overweight and obesity",
       "Diabetes mellitus",
-      "Malnutrition"
+      "Hypertension"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which part of the human body is responsible for regulating blood sugar levels?",
     "options": [
-      "Kidneys",
+      "Pancreas",
       "Liver",
       "Spleen",
-      "Pancreas"
+      "Kidneys"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which part of the human body is responsible for filtering the blood and removing waste products, but is also responsible for producing bile?",
@@ -102,42 +102,42 @@
   {
     "question": "Which part of the human body is responsible for regulating blood pressure?",
     "options": [
-      "Spleen",
+      "Kidneys",
       "Liver",
       "Pancreas",
-      "Kidneys"
+      "Spleen"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the process by which an organism's genetic information is expressed in the form of proteins, but is influenced by external factors?",
     "options": [
-      "Gene expression",
+      "Epigenetics",
       "Gene regulation",
       "Mutation",
-      "Epigenetics"
+      "Gene expression"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the type of energy that an object has due to its motion, but is also affected by its mass and velocity?",
     "options": [
-      "Potential energy",
+      "Kinetic energy",
       "Electromagnetic energy",
       "Thermal energy",
-      "Kinetic energy"
+      "Potential energy"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the force that opposes motion between two surfaces that are in contact?",
     "options": [
-      "Normal force",
+      "Friction",
       "Gravity",
       "Tension",
-      "Friction"
+      "Normal force"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "The human body requires a constant supply of water in order to maintain what?",

@@ -2,12 +2,12 @@
   {
     "question": "Which of the following is a major challenge facing the Caribbean region in terms of environmental degradation?",
     "options": [
-      "Climate change only",
+      "Deforestation",
       "Overfishing",
       "Pollution from factories",
-      "Deforestation"
+      "Climate change only"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is a key principle of the Universal Declaration of Human Rights?",
@@ -22,12 +22,12 @@
   {
     "question": "What is the main purpose of the United Nations Development Programme (UNDP) in the Caribbean?",
     "options": [
-      "To promote economic growth and increase inequality",
+      "To promote sustainable development and reduce poverty",
       "To promote tourism and entertainment",
       "To reduce the standard of living and increase poverty",
-      "To promote sustainable development and reduce poverty"
+      "To promote economic growth and increase inequality"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the significance of the Organization of American States (OAS) in the Caribbean?",
@@ -62,22 +62,22 @@
   {
     "question": "Which of the following is a key aspect of Caribbean culture?",
     "options": [
-      "Language only",
+      "Music and dance",
       "Architecture only",
       "Cuisine only",
-      "Music and dance"
+      "Language only"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following was a significant event in the history of the Caribbean that led to the abolition of slavery?",
     "options": [
-      "The Cuban Revolution",
+      "The Haitian Revolution",
       "The Barbados Slave Rebellion",
       "The Grenada Revolution",
-      "The Haitian Revolution"
+      "The Cuban Revolution"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is a type of economic system where the means of production are owned and controlled by the community?",
@@ -102,11 +102,11 @@
   {
     "question": "Which of the following is a type of economic system where the means of production are owned and controlled by the state?",
     "options": [
-      "Market economy",
+      "Command economy",
       "Laissez-faire economy",
       "Mixed economy",
-      "Command economy"
+      "Market economy"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

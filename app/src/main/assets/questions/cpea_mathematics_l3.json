@@ -2,12 +2,12 @@
   {
     "question": "What is the area of a rectangle with length 6 cm and width 4 cm?",
     "options": [
-      "16",
+      "24",
       "20",
       "12",
-      "24"
+      "16"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "If a book costs $15 and there is a 10% discount, how much will you pay for the book?",
@@ -42,11 +42,11 @@
   {
     "question": "What is the mode of the numbers 2, 2, 3, 4, 4?",
     "options": [
-      "4",
+      "2 or 4",
       "2",
       "3",
-      "2 or 4"
+      "4"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

@@ -22,12 +22,12 @@
   {
     "question": "Which literary device involves using sensory details to create a vivid image in the reader's mind?",
     "options": [
-      "Alliteration",
+      "Imagery",
       "Consonance",
       "Assonance",
-      "Imagery"
+      "Alliteration"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which literary device involves using repetition to create a musical or rhythmic effect?",
@@ -42,11 +42,11 @@
   {
     "question": "What is the main difference between a simile and a metaphor?",
     "options": [
-      "A simile is a figure of speech that uses hyperbole",
+      "A simile compares two things using 'like' or 'as', while a metaphor compares two things directly without using 'like' or 'as'",
       "A metaphor is a figure of speech that uses alliteration",
       "A simile is a figure of speech that uses personification",
-      "A simile compares two things using 'like' or 'as', while a metaphor compares two things directly without using 'like' or 'as'"
+      "A simile is a figure of speech that uses hyperbole"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

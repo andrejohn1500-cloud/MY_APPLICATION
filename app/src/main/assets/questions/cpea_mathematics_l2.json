@@ -32,12 +32,12 @@
   {
     "question": "In a set of numbers {1, 2, 3, 4, 5}, what is the range?",
     "options": [
-      "1",
+      "4",
       "2",
       "3",
-      "4"
+      "1"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "A bakery sells 250 loaves of bread per day. If they make a profit of 10% on each loaf, how much profit do they make in a day?",
@@ -82,12 +82,12 @@
   {
     "question": "What is 1/5 of 75?",
     "options": [
-      "20",
+      "15",
       "10",
       "30",
-      "15"
+      "20"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the sum of the interior angles of a triangle?",
@@ -102,12 +102,12 @@
   {
     "question": "What is the mode of the numbers 2, 4, 6, 4, 8?",
     "options": [
-      "8",
+      "4",
       "6",
       "2",
-      "4"
+      "8"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the mean of 8, 10, 12, and 14?",
@@ -122,12 +122,12 @@
   {
     "question": "A basket contains 5 apples and 3 oranges. What fraction of the fruits are apples?",
     "options": [
-      "2/3",
+      "5/8",
       "3/4",
       "1/2",
-      "5/8"
+      "2/3"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is 1/4 of 48?",
@@ -142,11 +142,11 @@
   {
     "question": "What is the fraction of 1/2 as a decimal?",
     "options": [
-      "0.9",
+      "0.5",
       "0.1",
       "0.8",
-      "0.5"
+      "0.9"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

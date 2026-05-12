@@ -2,12 +2,12 @@
   {
     "question": "Which of the following is a significant feature of the Caribbean economy?",
     "options": [
-      "Agricultural sector only",
+      "Dependence on tourism and remittances",
       "Manufacturing sector only",
       "Service sector only",
-      "Dependence on tourism and remittances"
+      "Agricultural sector only"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the significance of the Racial Equality Act in the Caribbean?",
@@ -62,12 +62,12 @@
   {
     "question": "What is the term for a group of people who are brought together by a common goal or interest?",
     "options": [
-      "Organization",
+      "Association",
       "Society",
       "Union",
-      "Association"
+      "Organization"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the main purpose of the Caribbean Development Bank (CDB) in the Caribbean?",
@@ -112,12 +112,12 @@
   {
     "question": "Which of the following is a major cause of poverty in the Caribbean?",
     "options": [
-      "Corruption only",
+      "Limited economic opportunities",
       "Lack of education only",
       "Climate change only",
-      "Limited economic opportunities"
+      "Corruption only"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the main purpose of the Association of Caribbean States (ACS)?",
@@ -132,21 +132,21 @@
   {
     "question": "What is the name of the treaty that established the Caribbean Court of Justice (CCJ) in 2001?",
     "options": [
-      "Treaty of Basseterre amendment",
+      "Treaty of Chaguaramas amendment",
       "Treaty of Georgetown amendment",
       "Treaty of Castries amendment",
-      "Treaty of Chaguaramas amendment"
+      "Treaty of Basseterre amendment"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is a type of economic system where the state plays a significant role in the economy and the means of production are owned and controlled by the community?",
     "options": [
-      "Command economy",
+      "Mixed economy",
       "Market economy",
       "Cooperative economy",
-      "Mixed economy"
+      "Command economy"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

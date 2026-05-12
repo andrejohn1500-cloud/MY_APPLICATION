@@ -22,12 +22,12 @@
   {
     "question": "A set of 15 numbers has a range of 10. What is the largest number?",
     "options": [
-      "17",
+      "15",
       "14",
       "16",
-      "15"
+      "17"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "A rectangular garden measures 10m by 5m. What is its area?",
@@ -142,11 +142,11 @@
   {
     "question": "Solve for x in the equation x/4 + 3 = 10.",
     "options": [
-      "31",
+      "29",
       "25",
       "33",
-      "29"
+      "31"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

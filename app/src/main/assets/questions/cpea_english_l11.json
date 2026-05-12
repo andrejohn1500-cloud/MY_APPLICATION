@@ -2,12 +2,12 @@
   {
     "question": "What is the purpose of using a summary in a written text?",
     "options": [
-      "To provide a detailed explanation of a complex topic",
+      "To provide a brief overview of the main points or ideas.",
       "To entertain the reader with a story",
       "To persuade the reader of a particular point of view",
-      "To provide a brief overview of the main points or ideas."
+      "To provide a detailed explanation of a complex topic"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a figure of speech used in poetry to create a sense of emotion?",
@@ -32,12 +32,12 @@
   {
     "question": "What is the purpose of using a comma splice in a sentence?",
     "options": [
-      "To set off a nonessential clause",
+      "To join two independent clauses without using a conjunction.",
       "To create a sense of suspense or tension",
       "To join two related clauses with a conjunction",
-      "To join two independent clauses without using a conjunction."
+      "To set off a nonessential clause"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the purpose of using a transition word or phrase in a written text?",
@@ -72,12 +72,12 @@
   {
     "question": "What is the purpose of using a table of contents in a written text?",
     "options": [
-      "To entertain the reader with a story",
+      "To provide a quick guide to the main sections or chapters of the text.",
       "To provide a detailed explanation of a complex topic",
       "To persuade the reader of a particular point of view",
-      "To provide a quick guide to the main sections or chapters of the text."
+      "To entertain the reader with a story"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a formal letter?",
@@ -142,11 +142,11 @@
   {
     "question": "Which of the following is an example of a rhetorical question?",
     "options": [
-      "How many books do you have?",
+      "What is the point of living if we are all going to die?",
       "Why did the teacher assign so much homework?",
       "What is the meaning of life?",
-      "What is the point of living if we are all going to die?"
+      "How many books do you have?"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

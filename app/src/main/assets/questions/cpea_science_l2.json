@@ -12,12 +12,12 @@
   {
     "question": "What is the process by which plants make their own food?",
     "options": [
-      "transpiration",
+      "photosynthesis",
       "evaporation",
       "respiration",
-      "photosynthesis"
+      "transpiration"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the largest planet in our solar system?",
@@ -32,12 +32,12 @@
   {
     "question": "What type of force is needed to keep an object moving in a circle?",
     "options": [
-      "frictional force",
+      "centripetal force",
       "tensile force",
       "normal force",
-      "centripetal force"
+      "frictional force"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the process by which the body gets rid of excess heat?",

@@ -32,12 +32,12 @@
   {
     "question": "The process of cellular respiration is an example of what type of chemical reaction?",
     "options": [
-      "decomposition",
+      "oxidation",
       "reduction",
       "synthesis",
-      "oxidation"
+      "decomposition"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "The human heart pumps blood throughout the body in order to supply what?",
@@ -142,11 +142,11 @@
   {
     "question": "The human body requires a balanced diet of carbohydrates, proteins and what?",
     "options": [
-      "vitamins",
+      "fats",
       "minerals",
       "water",
-      "fats"
+      "vitamins"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

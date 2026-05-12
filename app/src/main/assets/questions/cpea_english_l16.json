@@ -32,12 +32,12 @@
   {
     "question": "What is the main difference between a monologue and a dialogue (in terms of its role in a conversation)?",
     "options": [
-      "A monologue is a speech delivered by one person, while a dialogue is a narrative",
+      "A monologue is a speech delivered by one person, while a dialogue is a conversation between two or more people.",
       "A monologue is a conversation between two or more people, while a dialogue is a speech delivered by one person",
       "A monologue is a narrative, while a dialogue is a conversation between two or more people",
-      "A monologue is a speech delivered by one person, while a dialogue is a conversation between two or more people."
+      "A monologue is a speech delivered by one person, while a dialogue is a narrative"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a figure of speech used in poetry to create a sense of mood?",
@@ -112,41 +112,41 @@
   {
     "question": "Which of the following is an example of a creative writing piece that uses a non-linear narrative structure and symbolism?",
     "options": [
-      "A poem that follows a strict rhyme and meter pattern and uses imagery to create a sense of atmosphere",
+      "A short story that jumps back and forth between different time periods or perspectives and uses a particular object or color to represent a particular idea or theme.",
       "A script that follows a traditional three-act structure and uses dialogue to reveal character",
       "A short story that follows a linear narrative structure and does not use symbolism",
-      "A short story that jumps back and forth between different time periods or perspectives and uses a particular object or color to represent a particular idea or theme."
+      "A poem that follows a strict rhyme and meter pattern and uses imagery to create a sense of atmosphere"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a formal letter of application that uses a formal tone and language?",
     "options": [
-      "A letter to a friend or family member",
+      "A job application letter or a letter requesting a meeting.",
       "A letter to a colleague or acquaintance",
       "A letter of resignation or a letter of apology",
-      "A job application letter or a letter requesting a meeting."
+      "A letter to a friend or family member"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the main difference between a monologue and a dialogue (in terms of its function in a play)?",
     "options": [
-      "A monologue is used to reveal the relationships between characters and to advance the plot, while a dialogue is used to reveal the inner thoughts or feelings of a character",
+      "A monologue is used to reveal the inner thoughts or feelings of a character, while a dialogue is used to reveal the relationships between characters and to advance the plot.",
       "A monologue is used to provide exposition or background information, while a dialogue is used to reveal the relationships between characters and to advance the plot",
       "A monologue is used to reveal the inner thoughts or feelings of a character, while a dialogue is used to provide exposition or background information",
-      "A monologue is used to reveal the inner thoughts or feelings of a character, while a dialogue is used to reveal the relationships between characters and to advance the plot."
+      "A monologue is used to reveal the relationships between characters and to advance the plot, while a dialogue is used to reveal the inner thoughts or feelings of a character"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a creative writing piece that uses a stream-of-consciousness narrative structure?",
     "options": [
-      "A poem that follows a strict rhyme and meter pattern",
+      "A short story that follows the thoughts and feelings of a character in a fluid and unstructured way.",
       "A short story that follows a linear narrative structure",
       "A script that follows a traditional three-act structure",
-      "A short story that follows the thoughts and feelings of a character in a fluid and unstructured way."
+      "A poem that follows a strict rhyme and meter pattern"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

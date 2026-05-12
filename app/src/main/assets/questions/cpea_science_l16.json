@@ -2,12 +2,12 @@
   {
     "question": "Which type of rock is formed from the cooling and solidification of magma or lava?",
     "options": [
-      "Metamorphic rock",
+      "Igneous rock",
       "Sedimentary rock",
       "Foliated rock",
-      "Igneous rock"
+      "Metamorphic rock"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which part of the human body is responsible for filtering waste and excess fluids from the blood?",
@@ -82,12 +82,12 @@
   {
     "question": "What is the term for the process by which the body breaks down fat for energy?",
     "options": [
-      "Glucogenesis",
+      "Ketosis",
       "Aerogenesis",
       "Ketogenesis",
-      "Ketosis"
+      "Glucogenesis"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the primary function of the mitochondria in a cell?",
@@ -132,12 +132,12 @@
   {
     "question": "What is the term for the process by which an organism's genetic information is expressed in the form of proteins?",
     "options": [
-      "Mutation",
+      "Gene expression",
       "Gene regulation",
       "Epigenetics",
-      "Gene expression"
+      "Mutation"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the process by which an organism's genetic information is passed from one generation to the next?",

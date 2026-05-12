@@ -32,12 +32,12 @@
   {
     "question": "The concept of diffusion states that particles move from an area of high concentration to an area of what?",
     "options": [
-      "low pressure",
+      "low concentration",
       "equal concentration",
       "high pressure",
-      "low concentration"
+      "low pressure"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "The human body is composed of several systems, including the skeletal, muscular and what?",
@@ -142,11 +142,11 @@
   {
     "question": "The process of decomposition is an example of what type of chemical reaction?",
     "options": [
-      "respiration",
+      "catabolism",
       "photosynthesis",
       "anabolism",
-      "catabolism"
+      "respiration"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

@@ -1,132 +1,152 @@
 [
   {
-    "question": "The term 'maiden over' in cricket means",
+    "question": "What does a maiden over in cricket mean?",
     "options": [
-      "Losing one match eliminates a team from the competition",
-      "A serve that clips the net and must be replayed",
       "An over in which no runs are scored",
-      "2 players per side\\n8. The FA Cup is the world's oldest national → Football knockout cup competition\\n9. SVG's most celebrated athlete internationally is → Kineke Alexander, world-class sprinter"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Arthur Wint won Jamaica's first Olympic gold at",
-    "options": [
-      "A serve that clips the net and must be replayed",
-      "The 1948 London Olympics in the 400m",
-      "Brian Lara with 34",
-      "4 years"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A 'knock-out' tournament means",
-    "options": [
-      "Losing one match eliminates a team from the competition",
-      "4 years",
-      "The 1948 London Olympics in the 400m",
-      "A serve that clips the net and must be replayed"
+      "An over with a wicket on the first ball",
+      "An over bowled by a female cricketer",
+      "An over with six wides"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Windies' best ever bowling figures in a Test innings",
+    "question": "Arthur Wint won Jamaica first Olympic gold medal in which event?",
     "options": [
-      "10/53 by Jim Laker — but for West Indies, Colin Croft took 8/29",
-      "3 points",
-      "A match that ends without a result due to time running out",
-      "Losing one match eliminates a team from the competition"
+      "400 metres",
+      "100 metres",
+      "200 metres",
+      "800 metres"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The term 'let' in tennis refers to",
+    "question": "In a knock-out tournament, what happens when a team loses?",
     "options": [
-      "10/53 by Jim Laker — but for West Indies, Colin Croft took 8/29",
+      "They are eliminated from the competition",
+      "They get a second chance match",
+      "They are placed in a lower division",
+      "They play a penalty shootout"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The West Indies best bowling figures in a Test innings were taken by which bowler?",
+    "options": [
+      "Colin Croft with 8/29",
+      "Michael Holding with 8/92",
+      "Curtly Ambrose with 8/45",
+      "Joel Garner with 8/53"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In tennis, what does the term let refer to?",
+    "options": [
       "A serve that clips the net and must be replayed",
-      "1930 in Hamilton, Canada (then called the British Empire Games)",
-      "The 1948 London Olympics in the 400m"
+      "A point won without the opponent touching the ball",
+      "A fault on the second serve",
+      "A ball that lands on the line"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "A 'draw' in cricket means",
+    "question": "In cricket, a draw occurs when?",
     "options": [
-      "2 players per side\\n8. The FA Cup is the world's oldest national → Football knockout cup competition\\n9. SVG's most celebrated athlete internationally is → Kineke Alexander, world-class sprinter",
-      "A match that ends without a result due to time running out",
-      "4 years",
-      "An over in which no runs are scored"
+      "A match ends without a result due to time running out",
+      "Both teams score the same runs",
+      "Rain stops play permanently",
+      "The last wicket falls on the final ball"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "Beach volleyball teams consist of",
+    "question": "How many players are on each side in beach volleyball?",
     "options": [
-      "A match that ends without a result due to time running out",
-      "2 players per side\\n8. The FA Cup is the world's oldest national → Football knockout cup competition\\n9. SVG's most celebrated athlete internationally is → Kineke Alexander, world-class sprinter",
-      "Barriers and a water jump over 3,000 metres",
-      "An over in which no runs are scored"
+      "2 players per side",
+      "3 players per side",
+      "4 players per side",
+      "6 players per side"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "The term 'googly' in cricket is bowled by a",
+    "question": "In cricket, a googly is bowled by a?",
     "options": [
       "Leg-spin bowler to turn the opposite way to the standard leg-break",
-      "Losing one match eliminates a team from the competition",
-      "Brian Lara with 34",
-      "1930 in Hamilton, Canada (then called the British Empire Games)"
+      "Fast bowler using the seam",
+      "Left-arm spinner",
+      "Off-spin bowler going with the arm"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Commonwealth Games was first held in",
+    "question": "The Commonwealth Games was first held in?",
     "options": [
-      "3 points",
-      "The 1948 London Olympics in the 400m",
-      "1930 in Hamilton, Canada (then called the British Empire Games)",
-      "Brian Lara with 34"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A 'drop goal' in rugby union is worth",
-    "options": [
-      "3 points",
-      "2 players per side\\n8. The FA Cup is the world's oldest national → Football knockout cup competition\\n9. SVG's most celebrated athlete internationally is → Kineke Alexander, world-class sprinter",
-      "Brian Lara with 34",
-      "4 years"
+      "1930 in Hamilton, Canada",
+      "1924 in Paris, France",
+      "1936 in Berlin, Germany",
+      "1948 in London, England"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Windies cricketer with the most Test centuries is",
+    "question": "A drop goal in rugby union is worth how many points?",
     "options": [
-      "The 1948 London Olympics in the 400m",
-      "Brian Lara with 34",
-      "1930 in Hamilton, Canada (then called the British Empire Games)",
-      "An over in which no runs are scored"
+      "3 points",
+      "2 points",
+      "4 points",
+      "1 point"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "In athletics, the steeplechase event includes",
+    "question": "Brian Lara set the world record for the highest individual Test score with how many runs?",
+    "options": [
+      "400 not out",
+      "375 not out",
+      "380 not out",
+      "365 not out"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The steeplechase in athletics involves which obstacles?",
     "options": [
       "Barriers and a water jump over 3,000 metres",
-      "Losing one match eliminates a team from the competition",
-      "3 points",
-      "Leg-spin bowler to turn the opposite way to the standard leg-break"
+      "Hurdles over 110 metres",
+      "Sand pits and barriers over 5,000 metres",
+      "Water jumps over 1,500 metres"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The Rugby World Cup is held every",
+    "question": "The Rugby World Cup is held every how many years?",
     "options": [
-      "An over in which no runs are scored",
       "4 years",
-      "A serve that clips the net and must be replayed",
-      "3 points"
+      "2 years",
+      "3 years",
+      "5 years"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
+  },
+  {
+    "question": "The FA Cup is described as the world oldest what?",
+    "options": [
+      "National football knockout cup competition",
+      "International football league",
+      "Professional football tournament",
+      "Club football championship"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Kineke Alexander of SVG is internationally celebrated as a?",
+    "options": [
+      "World-class sprinter",
+      "World-class swimmer",
+      "World-class cyclist",
+      "World-class long jumper"
+    ],
+    "correctIndex": 0
   }
 ]

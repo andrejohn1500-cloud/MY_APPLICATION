@@ -22,22 +22,22 @@
   {
     "question": "A shop sells a pair of shoes for $120. If a 10% discount is applied, how much will you pay for the shoes?",
     "options": [
-      "115.00",
+      "108.00",
       "100.00",
       "110.00",
-      "108.00"
+      "115.00"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "A group of friends want to go to the movies. If the ticket price is $10 and there are 5 friends, how much will they pay in total?",
     "options": [
-      "40.00",
+      "50.00",
       "60.00",
       "45.00",
-      "50.00"
+      "40.00"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the missing number in the pattern 2, 5, 8, 11, 14, ...",
@@ -82,12 +82,12 @@
   {
     "question": "A group of friends want to share some candy equally. If they have 48 pieces of candy and there are 8 friends, how many pieces will each friend get?",
     "options": [
-      "4",
+      "6",
       "7",
       "5",
-      "6"
+      "4"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the area of a circle with a radius of 4 cm?",
@@ -142,11 +142,11 @@
   {
     "question": "A person has $150 to spend on clothes. If they buy 2 items at $30 each and 1 item at $20, how much money will they have left?",
     "options": [
-      "50.00",
+      "60.00",
       "80.00",
       "70.00",
-      "60.00"
+      "50.00"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   }
 ]

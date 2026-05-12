@@ -2,22 +2,22 @@
   {
     "question": "What is the purpose of a letter of application?",
     "options": [
-      "To conclude the letter",
+      "To apply for a job or a place at a school",
       "To introduce oneself",
       "To provide information",
-      "To apply for a job or a place at a school"
+      "To conclude the letter"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the purpose of a report?",
     "options": [
-      "To introduce a new idea",
+      "To provide information on a specific topic or issue",
       "To conclude the report",
       "To provide evidence",
-      "To provide information on a specific topic or issue"
+      "To introduce a new idea"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which literary device involves comparing two things without using 'like' or 'as'?",
@@ -32,12 +32,12 @@
   {
     "question": "Which grammatical term refers to a group of words that cannot stand alone as a complete thought?",
     "options": [
-      "Sentence",
+      "Phrase",
       "Paragraph",
       "Clause",
-      "Phrase"
+      "Sentence"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is an example of a literary device used in poetry to create a sense of rhythm and rhyme?",
@@ -82,12 +82,12 @@
   {
     "question": "What is the term for a word that is used to modify a verb, an adjective, or another adverb?",
     "options": [
-      "Noun",
+      "Adverb",
       "Verb",
       "Adjective",
-      "Adverb"
+      "Noun"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for a sentence that contains two or more independent clauses?",
@@ -132,12 +132,12 @@
   {
     "question": "Which grammatical term refers to a word that is used to indicate a relationship between words or phrases?",
     "options": [
-      "Interjection",
+      "Preposition",
       "Conjunction",
       "Article",
-      "Preposition"
+      "Interjection"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which punctuation mark is used to indicate a break in thought or to set off a nonessential clause?",

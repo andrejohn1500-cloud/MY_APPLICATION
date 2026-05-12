@@ -2,22 +2,22 @@
   {
     "question": "What is the process by which the body makes energy from food?",
     "options": [
-      "excretion",
+      "respiration",
       "photosynthesis",
       "transpiration",
-      "respiration"
+      "excretion"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the process by which plants release excess water into the air?",
     "options": [
-      "respiration",
+      "transpiration",
       "photosynthesis",
       "evaporation",
-      "transpiration"
+      "respiration"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the 'study of the Earth's oceans and sea life'?",
@@ -62,12 +62,12 @@
   {
     "question": "What is the term for the 'study of the body's systems and organs'?",
     "options": [
-      "physiology",
+      "anatomy",
       "pathology",
       "pharmacology",
-      "anatomy"
+      "physiology"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "Which of the following is a type of energy?",
@@ -112,12 +112,12 @@
   {
     "question": "What is the term for the 'study of the structure of the human body'?",
     "options": [
-      "pharmacology",
+      "anatomy",
       "physiology",
       "pathology",
-      "anatomy"
+      "pharmacology"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the term for the 'study of the body's systems and organs'?",

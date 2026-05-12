@@ -12,12 +12,12 @@
   {
     "question": "What is the largest mountain range in the world?",
     "options": [
-      "Rocky Mountains",
+      "Himalayan mountain range",
       "Mount Everest",
       "Andes mountain range",
-      "Himalayan mountain range"
+      "Rocky Mountains"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the process called when plants make their own food from sunlight?",
@@ -62,12 +62,12 @@
   {
     "question": "What is the term for the study of the movement of the Earth and its rotation?",
     "options": [
-      "Meteorology",
+      "Geophysics",
       "Ecology",
       "Oceanography",
-      "Geophysics"
+      "Meteorology"
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "question": "What is the scientific term for the study of the Earth's physical structure, composition, and processes?",
