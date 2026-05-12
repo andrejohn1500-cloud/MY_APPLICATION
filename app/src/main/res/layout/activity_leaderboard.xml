@@ -84,28 +84,22 @@
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
-    <com.google.android.material.button.MaterialButton
-            android:id="@+id/btnBack"
+        <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnBack"
+        android:layout_width="260dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="80dp"
+        android:text="← BACK"
         android:textColor="@color/gold"
-            android:layout_width="260dp"
-            android:layout_height="60dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="16dp"
-            android:layout_marginBottom="80dp"
-            app:backgroundTint="#1A1F3D"
-            app:strokeColor="#FFD700"
-            
-            app:cornerRadius="12dp"
-            app:rippleColor="#66FFD700"
-            android:stateListAnimator="@null"
-            android:elevation="0dp"
-            android:text="← BACK"
-            android:textColor="@color/gold"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            android:textAllCaps="false"
-            android:letterSpacing="0.06"
-            android:insetTop="0dp"
-            android:insetBottom="0dp"/>
+        android:textSize="16sp"
+        android:letterSpacing="0.06"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        app:backgroundTint="#1A1F3D"
+        app:strokeWidth="0dp"
+        app:cornerRadius="12dp"
+        app:rippleColor="#66FFD700" />
 
 </LinearLayout>
