@@ -40,7 +40,7 @@
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="16dp"
-            app:backgroundTint="#1A1F3D"
+            app:backgroundTint="@android:color/transparent"
             app:strokeColor="#FFD700"
             
             app:cornerRadius="12dp"
@@ -62,7 +62,7 @@
             android:layout_height="60dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="24dp"
-            app:backgroundTint="#1A1F3D"
+            app:backgroundTint="@android:color/transparent"
             app:strokeColor="#FFD700"
             
             app:cornerRadius="12dp"

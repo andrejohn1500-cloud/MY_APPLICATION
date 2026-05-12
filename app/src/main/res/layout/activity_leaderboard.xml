@@ -97,7 +97,7 @@
         android:letterSpacing="0.06"
         android:insetTop="0dp"
         android:insetBottom="0dp"
-        app:backgroundTint="#1A1F3D"
+        app:backgroundTint="@android:color/transparent"
         app:strokeWidth="0dp"
         app:cornerRadius="12dp"
         app:rippleColor="#66FFD700" />
