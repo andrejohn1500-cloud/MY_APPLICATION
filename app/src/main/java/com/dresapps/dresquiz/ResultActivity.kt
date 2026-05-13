@@ -310,7 +310,5 @@ class ResultActivity : AppCompatActivity() {
                 } catch (e: Exception) {
                 e.printStackTrace()
                 }
-            }
         }.start()
-    }
 }
