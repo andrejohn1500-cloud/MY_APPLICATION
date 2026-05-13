@@ -122,7 +122,7 @@ class QuizActivity : AppCompatActivity() {
         level = intent.getIntExtra("level", 1)
         questions = QuestionLoader.loadQuestions(this, category, level).map { q ->
     val shuffled = q.options.shuffled()
-    q.copy(options = shuffled, correctIndex = shuffled.indexOf(q.options[q.correctIndex]))
+    q.copy(options = shuffled, correctIndex = shuffled.indexOf(q.options[q.correctIndex]).takeIf { it >= 0 } ?: q.correctIndex)
 }.shuffled()
         binding.tvCategory.text = category
 
