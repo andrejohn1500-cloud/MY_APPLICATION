@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "VBA stands for:",
+    "options": [
+      "Variable Based Application",
+      "Visual Basic for Applications",
+      "Virtual Binary Algorithm",
+      "Visual Boolean Analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "To access the VBA editor in Excel, you must first add the:",
+    "options": [
+      "Insert tab",
+      "View tab",
+      "Developer tab",
+      "Formula tab"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In VBA, variables are declared using the keyword:",
+    "options": [
+      "Var",
+      "Variable",
+      "Dim",
+      "Declare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Before running VBA code, what must be done to the Command Button?",
+    "options": [
+      "Rename it",
+      "Delete it",
+      "Deselect/exit Design Mode",
+      "Copy it to another sheet"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The Command Button icon in VBA is found in the:",
+    "options": [
+      "Insert tab, Charts group",
+      "Developer tab, Controls group",
+      "Home tab, Font group",
+      "View tab, Windows group"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Excel sheets with VBA code must be saved as:",
+    "options": [
+      "Regular .xlsx files",
+      "PDF files",
+      "Macro-enabled workbooks",
+      "Text files"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In VBA, the MsgBox statement is used to:",
+    "options": [
+      "Declare a variable",
+      "Display a message in a dialogue box",
+      "Loop through cells",
+      "Delete a record"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "To retrieve the value from cell D5 in VBA, you would use:",
+    "options": [
+      "Cell(D5).Value",
+      "Range(D5).Value",
+      "Sheet(D5).Data",
+      "Value(D5).Cell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In VBA, the IF-THEN-ELSE statement ends with:",
+    "options": [
+      "End Loop",
+      "End If",
+      "End Sub",
+      "End Select"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The VBA Select Case statement is used for:",
+    "options": [
+      "Simple one-condition checks",
+      "Loop structures",
+      "Nested IF-THEN-ELSE conditions",
+      "Variable declarations"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The last line of a VBA procedure (Sub) is:",
+    "options": [
+      "End If",
+      "End Select",
+      "End Sub",
+      "End Loop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Private Sub in VBA runs when:",
+    "options": [
+      "The workbook opens",
+      "A specific event occurs such as a button being clicked",
+      "The file is saved",
+      "A cell is selected"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In VBA, a For...Next loop requires specifying:",
+    "options": [
+      "A condition to check",
+      "Start and end values",
+      "A string variable",
+      "A Boolean expression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A Do While loop in VBA continues executing as long as the condition is:",
+    "options": [
+      "FALSE",
+      "Empty",
+      "TRUE",
+      "Zero"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The VBA InputBox function is used to:",
+    "options": [
+      "Display a message",
+      "Get input from the user",
+      "Loop through cells",
+      "Calculate a formula"
+    ],
+    "correctIndex": 1
+  }
+]

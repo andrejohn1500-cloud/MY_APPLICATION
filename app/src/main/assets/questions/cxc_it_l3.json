@@ -1,122 +1,152 @@
 [
   {
-    "question": "What is the primary function of a hub in a computer network?",
+    "question": "One megabyte (MB) is equal to:",
     "options": [
-      "Providing antivirus protection",
-      "Connecting devices within a network",
-      "Directing traffic between networks",
-      "Providing encryption"
+      "1000 kilobytes",
+      "1024 kilobytes",
+      "1000 bytes",
+      "1024 bytes"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of malware that is disguised as a legitimate program?",
+    "question": "One gigabyte (GB) is equal to how many megabytes?",
     "options": [
-      "Spyware",
-      "Adware",
-      "Trojan Horse",
-      "Ransomware"
+      "100",
+      "1000",
+      "1024",
+      "2048"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What type of software is Microsoft Word?",
+    "question": "One terabyte (TB) is equal to how many gigabytes?",
     "options": [
-      "Database Software",
-      "Word Processing Software",
-      "Spreadsheet Software",
-      "Operating System"
+      "100",
+      "1000",
+      "1024",
+      "2000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Data in a computer is represented using:",
+    "options": [
+      "Decimal numbers",
+      "Binary (zeros and ones)",
+      "Letters only",
+      "Roman numerals"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of programming language that is used for building applications?",
+    "question": "A CD-ROM has a storage capacity of:",
     "options": [
-      "Application Programming Language",
-      "Declarative Language",
-      "Functional Language",
-      "Object-Oriented Language"
+      "4.7 GB",
+      "1 GB",
+      "650 MB",
+      "25 GB"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a firewall in cybersecurity?",
+    "question": "A DVD has a storage capacity ranging from:",
     "options": [
-      "Blocking unauthorized access to a computer system",
-      "Providing antivirus protection",
-      "Providing encryption",
-      "Allowing unauthorized access"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a computer's storage devices?",
-    "options": [
-      "Providing power",
-      "Storing data",
-      "Printing documents",
-      "Processing information"
+      "650 MB to 1 GB",
+      "4.7 GB to 17 GB",
+      "25 GB to 100 GB",
+      "1 GB to 4 GB"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a computer's monitor?",
+    "question": "Blu-ray disc storage capacity ranges from:",
     "options": [
-      "Processing information",
-      "Storing data",
-      "Printing documents",
-      "Displaying information"
+      "650 MB to 4 GB",
+      "4.7 GB to 17 GB",
+      "25 GB to 100 GB",
+      "1 TB to 4 TB"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which optical storage medium was designed to replace the DVD?",
+    "options": [
+      "CD-RW",
+      "CD-R",
+      "DVD-R",
+      "Blu-ray"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a browser in a computer system?",
+    "question": "A CD-R (Compact Disk Recordable) allows you to:",
     "options": [
-      "Providing spreadsheet analysis",
-      "Providing email services",
-      "Allowing access to the internet",
-      "Providing word processing"
+      "Only read data",
+      "Write data in more than one session",
+      "Erase and reuse many times",
+      "Store 4.7 GB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which optical storage device can be erased and reused as many times as required?",
+    "options": [
+      "CD-ROM",
+      "CD-R",
+      "CD-RW",
+      "DVD-ROM"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a spreadsheet in a computer system?",
+    "question": "The three main categories of local storage are:",
     "options": [
-      "Storing and managing data",
-      "Providing word processing",
-      "Analyzing and presenting numerical data",
-      "Processing information"
+      "Online, cloud, remote",
+      "Magnetic, optical, flash",
+      "RAM, ROM, cache",
+      "Input, output, processing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the main use of magnetic tape?",
+    "options": [
+      "Playing music",
+      "Storing programs for daily use",
+      "Backup storage",
+      "Internet access"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a search engine in a computer system?",
+    "question": "Which type of secondary storage is most suitable for digital cameras and mobile phones?",
     "options": [
-      "Providing email services",
-      "Providing spreadsheet analysis",
-      "Locating specific information on the internet",
-      "Providing word processing"
+      "Hard disk drive",
+      "DVD",
+      "Flash memory cards",
+      "Magnetic tape"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a type of malware that secretly monitors and collects user data?",
+    "question": "What is the general name for the type of storage that saves programs and data permanently?",
     "options": [
-      "Spyware",
-      "Ransomware",
-      "Adware",
-      "Trojan Horse"
+      "Primary storage",
+      "Secondary storage",
+      "Cache storage",
+      "Virtual memory"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of database that is easily accessible and modifiable?",
+    "question": "The MPEG file format compresses which type of data?",
     "options": [
-      "Flat File Database",
-      "Hierarchical Database",
-      "Network Database",
-      "Relational Database"
+      "Graphics",
+      "Music",
+      "Text",
+      "Video"
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   }
 ]

@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "The two main phases of problem solving comprise definition and:",
+    "options": [
+      "Algorithm",
+      "Execution",
+      "Implementation",
+      "Documentation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In an IPO chart, the letters I, P and O refer to:",
+    "options": [
+      "Integrate, Process, Output",
+      "Input, Process, Output",
+      "Input, Print, Output",
+      "Index, Process, Output"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The purpose of an IPO chart is to identify the data needed to:",
+    "options": [
+      "Show the structure of a program",
+      "Convert input into desired output",
+      "List all variables in a program",
+      "Document errors in a program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An example of a relational operator is:",
+    "options": [
+      "/",
+      ">",
+      "NOT",
+      "AND"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "All flowcharts must have a:",
+    "options": [
+      "Truth table",
+      "Start symbol",
+      "WHILE loop",
+      "Conditional statement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A FOR loop must have:",
+    "options": [
+      "Only a start value",
+      "Only an end value",
+      "Both start and end values must be known",
+      "No values specified"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The loop that executes a process before checking a decision is:",
+    "options": [
+      "DO/REPEAT",
+      "IF",
+      "WHILE",
+      "FOR"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The process of reviewing an algorithm for correct processing and output is known as:",
+    "options": [
+      "Compiling",
+      "Debugging",
+      "Pseudocode",
+      "Desk checking"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Freezing an algorithm at any point to view a snapshot of variable values uses a:",
+    "options": [
+      "Program listing",
+      "Trace table",
+      "Flowchart",
+      "Truth table"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A variable in programming:",
+    "options": [
+      "Stores a fixed value that never changes",
+      "Stores data that can change while the program runs",
+      "Defines the structure of a loop",
+      "Identifies the start of a program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The key difference between a variable and a constant is:",
+    "options": [
+      "Variables store text, constants store numbers",
+      "Variable values can change while constant values do not",
+      "Constants are larger than variables",
+      "Variables are only used in loops"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which data type would store True/False values?",
+    "options": [
+      "Integer",
+      "Real",
+      "Boolean",
+      "String"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pseudocode uses:",
+    "options": [
+      "Specific flowchart symbols",
+      "English-type sentences",
+      "Mathematical formulas only",
+      "HTML tags"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Flowcharts differ from pseudocode in that they use:",
+    "options": [
+      "English-type sentences",
+      "Mathematical equations",
+      "Specific symbols",
+      "HTML code"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which data type would be most suitable for storing someone's height?",
+    "options": [
+      "Integer",
+      "Real",
+      "Boolean",
+      "Character"
+    ],
+    "correctIndex": 1
+  }
+]

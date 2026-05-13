@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Which of the following is NOT a valid Pascal program name?",
+    "options": [
+      "Program Sample",
+      "Program AddNumbers",
+      "Program 3Results",
+      "Program Calculate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Pascal variable types include integer, real, char and:",
+    "options": [
+      "Number",
+      "Text",
+      "String/Literal",
+      "Decimal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In a Pascal IF statement, the keyword used for the alternative action is:",
+    "options": [
+      "OTHERWISE",
+      "ELSE",
+      "THEN",
+      "OR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In VBA, which data type stores whole numbers?",
+    "options": [
+      "String",
+      "Double",
+      "Integer",
+      "Boolean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The VBA data type used for storing decimal numbers is:",
+    "options": [
+      "Integer",
+      "String",
+      "Boolean",
+      "Double"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which phase of problem solving involves writing and executing the actual program code?",
+    "options": [
+      "Definition phase",
+      "Algorithm phase",
+      "Implementation phase",
+      "Documentation phase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "System documentation is written for:",
+    "options": [
+      "End users",
+      "Technical persons",
+      "Students",
+      "Managers only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "User documentation explains:",
+    "options": [
+      "How the program's internal code works",
+      "What the program does and how the end user makes it work",
+      "How to compile the code",
+      "The algorithm structure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Syntax in programming refers to:",
+    "options": [
+      "The meaning associated with words and symbols",
+      "A set of rules for writing a programming language",
+      "The logical flow of a program",
+      "The output of a program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Semantics in programming refers to:",
+    "options": [
+      "The rules for writing code",
+      "The meaning associated with words, symbols and punctuation",
+      "The structure of loops",
+      "The format of output"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Declaring a variable in a program means:",
+    "options": [
+      "Deleting it from memory",
+      "Giving it a name and a data type",
+      "Assigning it a permanent value",
+      "Printing its value"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "For thorough program testing, test data should include:",
+    "options": [
+      "Only valid values",
+      "Only invalid values",
+      "Normal, boundary and invalid values",
+      "Only random values"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A runtime error caused by dividing by zero in a program is a:",
+    "options": [
+      "Syntax error",
+      "Logic error",
+      "Runtime error",
+      "Compilation error"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In Pascal, which of the following is NOT a valid variable name?",
+    "options": [
+      "AddNumbers",
+      "CalculateAge",
+      "10Lines",
+      "TotalCost"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Program documentation includes all of the following EXCEPT:",
+    "options": [
+      "Overview of process and tasks",
+      "System specification",
+      "Test plans",
+      "Instructions on how the end user operates the program"
+    ],
+    "correctIndex": 3
+  }
+]

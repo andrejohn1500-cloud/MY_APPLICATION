@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for a type of programming language that is used for web development?",
+    "question": "What is the term for the physical components of a computer system?",
     "options": [
-      "Scripting Language",
-      "Object-Oriented Language",
-      "Declarative Language",
-      "Functional Language"
+      "Software",
+      "Hardware",
+      "Firmware",
+      "Data"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The IPOS cycle stands for Input, Processing, Output and:",
+    "options": [
+      "Storage",
+      "System",
+      "Software",
+      "Security"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of malware that demands payment in exchange for restoring access to a computer system?",
+    "question": "Which component of the CPU performs arithmetic calculations and logical operations?",
     "options": [
-      "Ransomware",
-      "Adware",
-      "Spyware",
-      "Trojan Horse"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a computer's keyboard?",
-    "options": [
-      "Processing information",
-      "Entering data",
-      "Storing data",
-      "Printing documents"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a computer's graphics processing unit (GPU)?",
-    "options": [
-      "Printing documents",
-      "Rendering graphics",
-      "Storing data",
-      "Processing information"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a network interface card (NIC) in a computer system?",
-    "options": [
-      "Providing encryption",
-      "Providing firewall protection",
-      "Allowing communication over a network",
-      "Providing antivirus protection"
+      "Control Unit",
+      "RAM",
+      "ALU",
+      "ROM"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a database in a computer system?",
+    "question": "What is the smallest unit of data that a computer can work with?",
     "options": [
-      "Processing information",
-      "Printing documents",
-      "Storing and managing data",
-      "Providing encryption"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of malware that displays unwanted advertisements?",
-    "options": [
-      "Spyware",
-      "Adware",
-      "Trojan Horse",
-      "Ransomware"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a computer's graphics card?",
-    "options": [
-      "Storing data",
-      "Printing documents",
-      "Processing information",
-      "Rendering graphics"
+      "Byte",
+      "Kilobyte",
+      "Nibble",
+      "Bit"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a computer's Central Processing Unit (CPU)?",
+    "question": "How many bits make up one byte?",
     "options": [
-      "Storing data",
-      "Executing instructions",
-      "Transferring data",
-      "Printing documents"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a computer's keyboard interface?",
-    "options": [
-      "Providing firewall protection",
-      "Allowing user input",
-      "Providing encryption",
-      "Providing antivirus protection"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the primary function of a router in a computer network?",
-    "options": [
-      "Directing traffic between networks",
-      "Providing firewall protection",
-      "Providing encryption",
-      "Providing antivirus protection"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a computer's network interface card (NIC)?",
-    "options": [
-      "Allowing communication over a network",
-      "Providing antivirus protection",
-      "Providing encryption",
-      "Providing firewall protection"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the primary function of a modem in a computer system?",
-    "options": [
-      "Storing data",
-      "Processing information",
-      "Allowing communication over a telephone line",
-      "Printing documents"
+      "4",
+      "6",
+      "8",
+      "16"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a computer's mouse?",
+    "question": "Which type of memory temporarily stores operating instructions and data for the computer?",
     "options": [
-      "Printing documents",
-      "Processing information",
-      "Controlling the cursor",
-      "Storing data"
+      "ROM",
+      "RAM",
+      "Hard disk",
+      "USB drive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of memory holds permanent instructions used when the computer first starts?",
+    "options": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Flash"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a computer's power supply unit (PSU)?",
+    "question": "Which of the following is an example of application software?",
     "options": [
-      "Providing power to components",
-      "Processing information",
-      "Storing data",
-      "Printing documents"
+      "Windows OS",
+      "Anti-virus utility",
+      "Word processor",
+      "BIOS"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
+  },
+  {
+    "question": "System software is also known as:",
+    "options": [
+      "Utility software",
+      "Application software",
+      "Operating system",
+      "Custom software"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does the acronym IT stand for?",
+    "options": [
+      "Internet Technology",
+      "Information Technology",
+      "Integrated Tools",
+      "Input Terminal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Communications Technology (CT) refers to:",
+    "options": [
+      "Computer programs",
+      "Telecommunications equipment",
+      "Storage devices",
+      "Processing units"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a function of utility software?",
+    "options": [
+      "Create spreadsheets",
+      "Protect against computer viruses",
+      "Control hardware",
+      "Browse the Internet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which process involves starting up a computer?",
+    "options": [
+      "Logging",
+      "Formatting",
+      "Booting",
+      "Compiling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "One kilobyte (kB) is equal to how many bytes?",
+    "options": [
+      "100",
+      "512",
+      "1000",
+      "1024"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctIndex": 2
   }
 ]

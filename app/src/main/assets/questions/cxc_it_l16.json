@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the purpose of a hash function in a database?",
+    "question": "The flowchart symbol used to identify the start and end of a flowchart is called a:",
     "options": [
-      "D",
-      "B. To compress data",
-      "C. To verify data integrity",
-      "A. To encrypt data"
+      "Process box",
+      "Terminator",
+      "Decision",
+      "Connector"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals using a technique called oversampling?",
+    "question": "The parallelogram symbol in a flowchart is used to:",
     "options": [
-      "sampling",
-      "A/D conversion",
-      "undersampling",
-      "oversampling"
+      "Perform calculations",
+      "Accept data or output information",
+      "Ask a question",
+      "Link to an external element"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "A ____ network is a type of network that uses a combination of wired and wireless technologies to manage and control access to resources on the network, making it ideal for applications such as online gaming and video streaming.",
+    "question": "The rectangle symbol in a flowchart contains statements that:",
     "options": [
-      "wireless wide area network (WWAN)",
-      "wireless local area network (WLAN)",
-      "wireless metropolitan area network (WMAN)",
-      "wireless personal area network (WPAN)"
+      "Ask a decision question",
+      "Mark the start of the flowchart",
+      "Perform calculations or processing",
+      "Link to external elements"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The ____ protocol is used for secure communication between two devices over a network.",
+    "question": "The diamond symbol in a flowchart is called a:",
     "options": [
-      "SCP",
-      "SSL",
-      "SSH",
-      "TLS"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A database management system that uses a hierarchical structure to store and manage data is classified as a type of ____ database.",
-    "options": [
-      "object-oriented",
-      "hierarchical",
-      "relational",
-      "network"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of test cases to ensure it is working correctly?",
-    "options": [
-      "performance testing",
-      "beta testing",
-      "load testing",
-      "stress testing"
+      "Process",
+      "Input/Output",
+      "Connector",
+      "Decision"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A ____ database stores data in a format that is optimized for fast insertion and deletion of data, making it ideal for applications such as online banking and e-commerce.",
+    "question": "Flow lines in a flowchart with arrow heads:",
     "options": [
-      "graph",
-      "document-oriented",
-      "column-family",
-      "key-value"
+      "Contain variable names",
+      "Determine the flow of data from one symbol to another",
+      "Store calculation results",
+      "Mark the end of a program"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A ____ network is a type of network that uses a decentralized approach to manage and control access to resources on the network.",
+    "question": "A WHILE loop is correctly described as:",
     "options": [
-      "wide area network",
-      "peer-to-peer",
-      "local area network",
-      "client-server"
+      "Statements are always executed regardless of condition",
+      "Condition is checked before statements are executed",
+      "Statements are performed until condition is TRUE",
+      "Statements are executed exactly once"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the context of data modeling, what is the term for the process of creating a conceptual representation of data and its relationships?",
+    "question": "A REPEAT loop differs from a WHILE loop in that:",
     "options": [
-      "structured modeling",
-      "entity-relationship modeling",
-      "relational modeling",
-      "object-oriented modeling"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The ____ protocol is used for secure communication between a web browser and a web server.",
-    "options": [
-      "SCP",
-      "SFTP",
-      "HTTPS",
-      "FTP"
+      "REPEAT has no condition",
+      "REPEAT checks condition before executing",
+      "Statements in REPEAT are executed at least once",
+      "REPEAT can only work with numbers"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A ____ network is a type of network that uses a central server to manage and control access to resources on the network.",
+    "question": "Which logical operator requires both conditions to be true?",
     "options": [
-      "local area network",
-      "peer-to-peer",
-      "wide area network",
-      "client-server"
+      "OR",
+      "NOT",
+      "AND",
+      "IF"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "The ____ protocol is used for secure communication between two devices over a network using a technique called encryption?",
+    "question": "An expression using a relational operator produces a result that is:",
     "options": [
-      "SCP",
-      "SSH",
-      "SFTP",
-      "FTP"
+      "A number",
+      "A string",
+      "TRUE or FALSE",
+      "An integer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which data type stores whole numbers without decimal places?",
+    "options": [
+      "Real",
+      "Integer",
+      "String",
+      "Boolean"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The ____ protocol is used for secure communication between two devices over a network using a technique called encryption?",
+    "question": "Which data type stores numbers with decimal places?",
     "options": [
-      "SCP",
-      "SFTP",
-      "FTP",
-      "SSH"
+      "Integer",
+      "Boolean",
+      "Real",
+      "Character"
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
-    "question": "The ____ unit is responsible for controlling the flow of data between different components of a computer system.",
+    "question": "The step where inputs and outputs are clearly identified is called:",
     "options": [
-      "power supply unit",
-      "hard drive",
-      "motherboard",
-      "central processing unit (CPU)"
+      "Algorithm design",
+      "Problem definition",
+      "Implementation",
+      "Testing"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
-    "question": "In the context of computer hardware, what is the term for the process of converting digital signals to analog signals using a technique called undersampling?",
+    "question": "An algorithm can be represented as:",
     "options": [
-      "A/D conversion",
-      "oversampling",
-      "sampling",
-      "undersampling"
+      "Only a flowchart",
+      "Only pseudocode",
+      "Both pseudocode and a flowchart",
+      "Only a program"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A connector symbol in a flowchart links to:",
+    "options": [
+      "The start of the flowchart",
+      "An external element or detail not visible in the current flowchart",
+      "A calculation result",
+      "A decision point"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which arithmetic operator represents multiplication in pseudocode and programming?",
+    "options": [
+      "+",
+      "/",
+      "-",
+      "*"
     ],
     "correctIndex": 3
   }

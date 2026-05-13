@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "The manipulation of data to obtain information is called:",
+    "options": [
+      "Input",
+      "Output",
+      "Processing",
+      "Storage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Information that represents a complete picture of a problem or solution is:",
+    "options": [
+      "Accurate",
+      "Complete",
+      "Relevant",
+      "Timely"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which check compares the contents of two or more fields to make sure they make sense?",
+    "options": [
+      "Consistency",
+      "Range",
+      "Data type",
+      "Format"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A data type check ensures that data entered is of the correct:",
+    "options": [
+      "Length",
+      "Range",
+      "Type",
+      "Format"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which validation check ensures a value falls within acceptable limits?",
+    "options": [
+      "Format check",
+      "Range check",
+      "Length check",
+      "Data type check"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Data verification is used to:",
+    "options": [
+      "Prevent errors",
+      "Detect when errors occur",
+      "Format data",
+      "Calculate results"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A transaction file is a temporary file used to update data in the:",
+    "options": [
+      "Master file",
+      "Backup file",
+      "Index file",
+      "Archive file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "To find a record using a sequential search, you repeatedly ___ a record until it is found:",
+    "options": [
+      "Read",
+      "Save",
+      "Write",
+      "Update"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A fully indexed file contains the record key and the:",
+    "options": [
+      "Average key value",
+      "Exact key value (storage address)",
+      "Highest key value",
+      "Lowest key value"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The access method that calculates the exact address of a record is most suitable for:",
+    "options": [
+      "Serial files",
+      "Sequential files",
+      "Fully indexed files",
+      "Direct access files"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An automated data capture method that reads bar codes at checkout is:",
+    "options": [
+      "OMR",
+      "EPOS",
+      "Manual data entry",
+      "Remote control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Hardware errors can be caused by any of the following EXCEPT:",
+    "options": [
+      "Bad sectors on a hard disk",
+      "Corrupt RAM",
+      "Power surge",
+      "Program malfunction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following checks is used to detect doubtful data?",
+    "options": [
+      "Length",
+      "Range",
+      "Data type",
+      "Reasonableness"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An area code that must contain exactly three digits only would need which check?",
+    "options": [
+      "Data type",
+      "Format",
+      "Length",
+      "Range"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following makes information truly useful?",
+    "options": [
+      "Expensive to produce",
+      "Accurate, timely and relevant",
+      "Difficult to access",
+      "Stored in many formats"
+    ],
+    "correctIndex": 1
+  }
+]

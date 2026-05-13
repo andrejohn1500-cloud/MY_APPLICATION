@@ -1,151 +1,151 @@
 [
   {
-    "question": "What is the purpose of a router in a network?",
+    "question": "Which device provides access to the Internet by converting analogue signals to digital?",
     "options": [
-      "Providing power to devices",
-      "Directing data packets",
-      "Enhancing security",
-      "Increasing network speed"
+      "Router",
+      "Switch",
+      "Modem",
+      "Hub"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
-    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
+    "question": "A network that allows mobile and wireless devices to connect to it is called a:",
     "options": [
-      "System program",
-      "Application program",
-      "Library program",
-      "Utility program"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the purpose of a database management system?",
-    "options": [
-      "Analyzing data",
-      "Storing data",
-      "Interpreting data",
-      "Managing and organizing data"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "A database that stores data in a structured and organized manner is called a _______ database.",
-    "options": [
-      "Object-oriented",
-      "Hierarchical",
-      "Network",
-      "Relational"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following software applications is primarily used for creating presentations?",
-    "options": [
-      "Spreadsheet software",
-      "Presentation software",
-      "Web browser",
-      "Database management system"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A network that connects multiple LANs is called a _______.",
-    "options": [
-      "Cloud",
-      "WAN",
-      "Internet",
-      "MAN"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a characteristic of a 64-bit operating system?",
-    "options": [
-      "D. It can handle larger memory addresses",
-      "C",
-      "B. It requires a 32-bit processor to run",
-      "A. It can only run 32-bit applications"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A network that connects devices across different buildings or locations is called a _______.",
-    "options": [
-      "WAN",
       "LAN",
       "MAN",
-      "Internet"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a database management system?",
-    "options": [
-      "Managing and organizing data",
-      "Interpreting data",
-      "Storing data",
-      "Analyzing data"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A network that connects multiple computers and devices across different locations is called the _______.",
-    "options": [
       "WAN",
-      "MAN",
-      "Internet",
-      "LAN"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
-    "options": [
-      "Library program",
-      "Application program",
-      "System program",
-      "Utility program"
+      "WLAN"
     ],
     "correctIndex": 3
   },
   {
-    "question": "A computer program that is designed to perform a specific task and then delete itself is called a _______.",
+    "question": "Bluetooth allows data exchange across each of the following EXCEPT:",
     "options": [
-      "System program",
-      "Utility program",
-      "Library program",
-      "Application program"
+      "Long distances",
+      "Short distances",
+      "Wired devices",
+      "Wireless devices"
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
-    "question": "What is the primary function of the CPU in a computer system?",
+    "question": "Which connection type has the fastest speed for sending and receiving large amounts of data?",
     "options": [
-      "B. To store data permanently",
-      "C. To transmit data between devices",
-      "A",
-      "D. To generate output for the user"
+      "Dial-up",
+      "Satellite",
+      "Wireless",
+      "Leased line"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A type of network where no one outside the organisation is allowed access is called a(n):",
+    "options": [
+      "Telnet",
+      "Extranet",
+      "Intranet",
+      "Internet"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A computer program that is designed to perform a specific task is called an _______.",
+    "question": "Each of the following are typical of 2G mobile phone systems EXCEPT:",
     "options": [
-      "Library program",
-      "Application program",
-      "Utility program",
-      "System program"
+      "Caller ID",
+      "Internet access",
+      "Multimedia messaging",
+      "Video streaming"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A double slash (//) in an Internet address shows the path to where:",
+    "options": [
+      "The file is stored",
+      "The web page is on the computer",
+      "The resources are stored on the server",
+      "The computer (server) is located"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "To send an email, you need each of the following EXCEPT:",
+    "options": [
+      "A file to attach",
+      "Your own email address",
+      "Information to type",
+      "Email address of each intended recipient"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is NOT an issue with using email?",
+    "options": [
+      "Emails are not private",
+      "Emails can be sent immediately",
+      "Not everyone has access to a computer",
+      "You do not know if the recipient has read the email"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A database that is stored on multiple computers is called a _______ database.",
+    "question": "What is the name of a text-based language used to create web pages for display by a browser?",
     "options": [
-      "Single user",
-      "Cloud",
-      "Client-server",
-      "Multi-user"
+      "Java",
+      "HTML",
+      "Python",
+      "CSS"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "WAN stands for:",
+    "options": [
+      "Wireless Area Network",
+      "Wide Area Network",
+      "Web Access Network",
+      "Wired Area Network"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "LAN stands for:",
+    "options": [
+      "Large Area Network",
+      "Local Application Network",
+      "Local Area Network",
+      "Linked Area Network"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which term describes an area that offers Internet access over a WLAN?",
+    "options": [
+      "Intranet",
+      "Extranet",
+      "Hotspot",
+      "Broadband"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A network that does not have a file server is called:",
+    "options": [
+      "Client-server network",
+      "Peer-to-peer network",
+      "WAN",
+      "MAN"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The process of sending data from your computer to another computer on a network is:",
+    "options": [
+      "Create",
+      "Download",
+      "Modify",
+      "Upload"
     ],
     "correctIndex": 3
   }

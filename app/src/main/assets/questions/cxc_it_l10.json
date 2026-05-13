@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Each of the following are methods of editing text in a document EXCEPT:",
+    "options": [
+      "Importing and exporting",
+      "Moving and copying",
+      "Find and Replace",
+      "Spelling and grammar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Text lowered just below the line and printed at a smaller size is called:",
+    "options": [
+      "Alignment",
+      "Indent",
+      "Subscript",
+      "Superscript"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The feature that searches through a document to find words and automatically replaces them is:",
+    "options": [
+      "Copy and paste",
+      "Drag and drop",
+      "Find and Replace",
+      "Spelling and grammar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Text which appears at the top of each page inside the top margin is called a(n):",
+    "options": [
+      "Endnote",
+      "Footer",
+      "Footnote",
+      "Header"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The feature that highlights any editing made to a document is called:",
+    "options": [
+      "Comments",
+      "Spellcheck",
+      "Track Changes",
+      "Word Count"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A document can be protected by each of the following features EXCEPT:",
+    "options": [
+      "Password",
+      "Read-only",
+      "Mark as Final",
+      "Save As"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A list of short headings describing sections with their page numbers is called a:",
+    "options": [
+      "Column",
+      "Mail merge",
+      "Primary document",
+      "Table of contents"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Sending a document to only some of the people in a data list is a feature of:",
+    "options": [
+      "Selective Mail Merge",
+      "Find and Replace",
+      "Moving and copying",
+      "Password protection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The content control where users type only a limited amount of data is called a(n):",
+    "options": [
+      "Rich text",
+      "Plain text",
+      "Check box",
+      "Drop-down list"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Two content controls used in fillable electronic forms are:",
+    "options": [
+      "Drop-down list and command button",
+      "Command button and rich text",
+      "Plain text and command button",
+      "Rich text and drop-down list"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mail merge requires two main documents: a primary document and a:",
+    "options": [
+      "Report",
+      "Data source",
+      "Template",
+      "Query"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which keyboard shortcut creates double line spacing?",
+    "options": [
+      "CTRL+1",
+      "CTRL+2",
+      "CTRL+3",
+      "CTRL+5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A spellchecker will NOT detect:",
+    "options": [
+      "Incorrectly spelt words",
+      "Whether the, their or there is used correctly",
+      "Words not found in the dictionary",
+      "Repeated words"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The feature that quickly applies formatting from one section of text to another is:",
+    "options": [
+      "Track Changes",
+      "Format Painter",
+      "Spellcheck",
+      "Find and Replace"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When inserting a copy of Excel data into a Word document, the data is:",
+    "options": [
+      "Moved",
+      "Pasted",
+      "Typed",
+      "Written"
+    ],
+    "correctIndex": 1
+  }
+]

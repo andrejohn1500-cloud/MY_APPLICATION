@@ -1,152 +1,152 @@
 [
   {
-    "question": "A network that connects devices within a single building is called a _______.",
+    "question": "Which of the following is a disadvantage of the Internet?",
     "options": [
-      "Internet",
-      "LAN",
-      "WAN",
-      "MAN"
+      "Access to information on any topic",
+      "Security risks from hackers",
+      "Ability to shop online",
+      "Educational resources available"
     ],
     "correctIndex": 1
   },
   {
-    "question": "A network that connects devices within a single building is called a _______.",
+    "question": "HTTP in an Internet address represents:",
     "options": [
-      "MAN",
-      "WAN",
-      "Internet",
-      "LAN"
+      "File transfer protocol",
+      "Hypertext transfer protocol",
+      "Host transfer protocol",
+      "High-tech transfer program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "FTP in an Internet address means the site allows you to:",
+    "options": [
+      "Format text pages",
+      "Transfer files across the Internet",
+      "Find text programs",
+      "Forward the page to others"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The .bb extension in a web address indicates:",
+    "options": [
+      "A commercial organisation",
+      "A government site",
+      "Barbados country extension",
+      "A non-profit organisation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which mobile generation introduced web browsing, email, video downloading and picture sharing?",
+    "options": [
+      "2G",
+      "3G",
+      "4G",
+      "5G"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Internet protocol used to convert voice into digital form and transmit it is:",
+    "options": [
+      "HTTP",
+      "FTP",
+      "VoIP",
+      "HTML"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "DSL stands for:",
+    "options": [
+      "Data Subscriber Line",
+      "Digital Subscriber Line",
+      "Direct System Link",
+      "Dedicated Server Link"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A type of Internet post that consists of video entries is called a:",
+    "options": [
+      "Blog",
+      "Forum",
+      "Tweet",
+      "Vlog"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The process of moving data from a local storage device to a cloud storage device is called _______.",
+    "question": "MAN stands for:",
     "options": [
-      "Cloud migration",
-      "Cloud synchronization",
-      "Data compression",
-      "Cloud backup"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A database that is stored on a single computer is called a _______ database.",
-    "options": [
-      "Client-server",
-      "Single user",
-      "Multi-user",
-      "Cloud"
+      "Mobile Area Network",
+      "Metropolitan Area Network",
+      "Multiple Access Network",
+      "Managed Area Network"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The process of protecting a computer system from unauthorized access is called _______.",
+    "question": "Data can be transmitted in only one direction in which type of transmission?",
     "options": [
-      "Encryption",
-      "Authorization",
-      "Authentication",
-      "Decryption"
+      "Full-duplex",
+      "Half-duplex",
+      "Simplex",
+      "Parallel"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The process of converting a program written in one language to another language is called _______.",
+    "question": "Data can be sent and received at the same time in:",
     "options": [
-      "Compilation",
-      "Translation",
-      "Emulation",
-      "Interpretation"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a firewall in a network?",
-    "options": [
-      "Providing power to devices",
-      "Blocking unauthorized access",
-      "Increasing network speed",
-      "Enhancing security"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a spreadsheet?",
-    "options": [
-      "Creating presentations",
-      "Analyzing text data",
-      "Organizing and analyzing numerical data",
-      "Storing data"
+      "Simplex",
+      "Half-duplex",
+      "Full-duplex",
+      "Serial"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A computer that is designed to perform a specific task, such as a calculator, is called a _______.",
+    "question": "Dial-up internet connection is described as the ___ way to connect to the Internet:",
     "options": [
-      "Personal computer",
-      "Embedded system",
-      "Supercomputer",
-      "Mainframe computer"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the purpose of a spreadsheet?",
-    "options": [
-      "Creating presentations",
-      "Organizing and analyzing numerical data",
-      "Analyzing text data",
-      "Storing data"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The process of protecting a computer system from damage or theft is called _______.",
-    "options": [
-      "Restore",
-      "Reinstall",
-      "Backup",
-      "Recover"
+      "Fastest",
+      "Most reliable",
+      "Slowest",
+      "Most secure"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a CPU in a computer system?",
+    "question": "A leased line Internet connection charges:",
     "options": [
-      "Executing instructions",
-      "Providing power",
-      "Transferring data",
-      "Storing data"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A network that connects devices within a single building is called a _______.",
-    "options": [
-      "WAN",
-      "LAN",
-      "Internet",
-      "MAN"
+      "Per amount of data used",
+      "A fixed fee per month",
+      "Per hour of use",
+      "Nothing"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a program that is designed to perform a specific task and then delete itself?",
+    "question": "Wireless Internet connection using a satellite, antenna and coaxial cable is called:",
     "options": [
-      "Malware",
-      "Application program",
-      "System program",
-      "Utility program"
+      "DSL",
+      "ISDN",
+      "Cable TV connection",
+      "Satellite connection"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a type of virus?",
+    "question": "The .edu extension in a web address indicates:",
     "options": [
-      "Adware",
-      "Trojan horse",
-      "Worm",
-      "Spyware"
+      "A commercial organisation",
+      "A government site",
+      "A university or educational institution",
+      "A non-profit organisation"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   }
 ]

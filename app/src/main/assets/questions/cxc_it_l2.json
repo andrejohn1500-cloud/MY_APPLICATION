@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the primary function of a server in a computer network?",
+    "question": "Which of the following is an output device?",
     "options": [
-      "Providing antivirus protection",
-      "Providing resources to clients",
-      "Providing firewall protection",
-      "Providing encryption"
+      "Scanner",
+      "Keyboard",
+      "Mouse",
+      "Monitor"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Magnetic Ink Character Recognition (MICR) is mainly used by:",
+    "options": [
+      "Schools",
+      "Banks",
+      "Hospitals",
+      "Post offices"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the primary function of a computer's sound card?",
+    "question": "Which input system relies on the presence or absence of precisely positioned marks on a form?",
     "options": [
-      "Printing documents",
-      "Processing information",
-      "Storing data",
-      "Providing audio output"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of malware that is designed to take control of a computer system?",
-    "options": [
-      "Virus",
-      "Ransomware",
-      "Trojan Horse",
-      "Spyware"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of malware that is designed to steal sensitive information?",
-    "options": [
-      "Trojan Horse",
-      "Spyware",
-      "Ransomware",
-      "Keylogger"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the term for a type of software that is designed to help prevent unauthorized access to a computer system?",
-    "options": [
-      "Malware Software",
-      "Firewall Software",
-      "Antivirus Software",
-      "Spam Software"
+      "MICR",
+      "OCR",
+      "OMR",
+      "EPOS"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the primary function of a virus in cybersecurity?",
+    "question": "Which printer type is considered an impact printer because it uses pins?",
     "options": [
-      "Protecting a computer system",
-      "Improving computer performance",
-      "Providing entertainment",
-      "Causing harm to a computer system"
+      "Laser",
+      "Inkjet",
+      "Thermal",
+      "Dot-matrix"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a proxy server in a computer network?",
+    "question": "Which printer uses ink that can fade over time?",
     "options": [
-      "Providing encryption",
-      "Providing antivirus protection",
-      "Providing a secure connection to the internet",
-      "Directing traffic between networks"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a protocol in a computer network?",
-    "options": [
-      "Providing antivirus protection",
-      "Providing firewall protection",
-      "Providing encryption",
-      "Establishing rules for communication"
+      "Laser",
+      "Inkjet",
+      "Dot-matrix",
+      "Thermal"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the primary function of a computer's operating system?",
+    "question": "Which of the following printers are non-impact printers?",
     "options": [
-      "Printing documents",
-      "Processing information",
-      "Managing hardware resources",
-      "Storing data"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of malware that is designed to slow down a computer system?",
-    "options": [
-      "Ransomware",
-      "Trojan Horse",
-      "Brute Force Malware",
-      "Spyware"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of malware that is designed to spread quickly through a network?",
-    "options": [
-      "Spyware",
-      "Ransomware",
-      "Trojan Horse",
-      "Worm"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "What is the primary function of a computer's cooling system?",
-    "options": [
-      "Processing information",
-      "Printing documents",
-      "Regulating temperature",
-      "Storing data"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the primary function of a switch in a computer network?",
-    "options": [
-      "Providing encryption",
-      "Connecting devices within a network",
-      "Directing traffic between networks",
-      "Providing antivirus protection"
+      "Dot-matrix and laser",
+      "Laser and thermal",
+      "Dot-matrix and thermal",
+      "Inkjet and dot-matrix"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a device that connects multiple computers together?",
+    "question": "A device that uses heat on chemically treated paper to form characters is a:",
     "options": [
-      "Network Hub",
-      "Network Bridge",
-      "Network Switch",
-      "Network Router"
+      "Laser printer",
+      "Inkjet printer",
+      "Thermal printer",
+      "Dot-matrix printer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A smart card stores encoded data using:",
+    "options": [
+      "Optical technology",
+      "A magnetic strip",
+      "Wireless signals",
+      "Sound waves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which input device is used by musicians to create and store sounds in a computer?",
+    "options": [
+      "OMR",
+      "MICR",
+      "MIDI",
+      "Smart card"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A flat rectangular surface that also senses movement of a finger on its surface is a:",
+    "options": [
+      "Joystick",
+      "Touchpad",
+      "Trackball",
+      "Mouse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A system that uses part of a person's body to uniquely identify them is called:",
+    "options": [
+      "MICR",
+      "Smart card",
+      "Biometrics",
+      "OMR"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Each of the following has its screen integrated with the system unit and keyboard EXCEPT:",
+    "options": [
+      "Laptop computer",
+      "Mobile phone",
+      "Notebook",
+      "Personal computer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An output device used to produce large technical drawings is a:",
+    "options": [
+      "Scanner",
+      "Plotter",
+      "3D printer",
+      "Projector"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does OCR stand for?",
+    "options": [
+      "Optical Character Recognition",
+      "Optical Code Reader",
+      "Output Character Reader",
+      "Online Content Recognition"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of programming language that is used for building operating systems?",
+    "question": "Which of the following enables a computer to temporarily store instructions and data?",
     "options": [
-      "System Programming Language",
-      "Declarative Language",
-      "Functional Language",
-      "Object-Oriented Language"
+      "Hardware",
+      "Input devices",
+      "Memory",
+      "Peripheral devices"
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]

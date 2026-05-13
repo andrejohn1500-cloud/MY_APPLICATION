@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "When a customer makes an online hotel booking, the database is updated by using a:",
+    "options": [
+      "Table",
+      "Form",
+      "Query",
+      "Report"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When making a payment online, the database is updated in:",
+    "options": [
+      "Batch mode",
+      "Real-time",
+      "HTML",
+      "E-commerce mode"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The database view that presents data in a format similar to a spreadsheet is:",
+    "options": [
+      "Datasheet",
+      "Design",
+      "Print",
+      "Report"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following defines what kind of data is used in a database field?",
+    "options": [
+      "Type",
+      "Length",
+      "Name",
+      "Description"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In databases and tables, rows refer to ___ and columns refer to ___:",
+    "options": [
+      "Data types, records",
+      "Field names, records",
+      "Records, data types",
+      "Records, field names"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A database form can do all of the following EXCEPT:",
+    "options": [
+      "Add",
+      "Modify",
+      "Merge",
+      "Delete"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Datasheet view allows you to enter ___ into your database table:",
+    "options": [
+      "Fields",
+      "Raw data",
+      "Data types",
+      "Descriptions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The correct database syntax for a calculated field Price showing 10% of Cost is:",
+    "options": [
+      "Price: [Cost] x 10%",
+      "Price: [Cost]*.10",
+      "Price: [Cost] x [10%]",
+      "Price: Cost*.10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Data can be imported into a database using any of the following EXCEPT:",
+    "options": [
+      "Text delimited",
+      "Tab-separated text",
+      "Comma-separated values (CSV)",
+      "Portable Document Format (PDF)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A primary key field that appears in one table but is also found in another is called a(n):",
+    "options": [
+      "Foreign key",
+      "Alternate key",
+      "Candidate key",
+      "Secondary key"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A primary key made up of two or more fields is called a:",
+    "options": [
+      "Candidate key",
+      "Composite key",
+      "Foreign key",
+      "Secondary key"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The terms database, table, record and field are arranged in order from:",
+    "options": [
+      "Smallest to largest",
+      "Largest to smallest",
+      "Alphabetical order",
+      "Random order"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A query in a database is used to:",
+    "options": [
+      "Print data",
+      "Enter data",
+      "Search and retrieve specific records",
+      "Format the database layout"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The database view that allows entering field names, data types and descriptions is:",
+    "options": [
+      "Datasheet view",
+      "Report view",
+      "Design view",
+      "Form view"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "To find records where cost is less than $3.00, the query criterion is:",
+    "options": [
+      "Cost > 3",
+      "Cost < 3",
+      "Cost = 3",
+      "Cost <> 3"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,152 +1,152 @@
 [
   {
-    "question": "What is the term for a type of attack where an attacker intercepts and alters data in transit?",
+    "question": "Spreadsheets are most useful for working with:",
     "options": [
-      "C",
-      "B. Distributed Denial of Service (DDoS) attack",
-      "D. Man-in-the-middle (MitM) attack",
-      "A. Denial of Service (DoS) attack"
+      "Videos",
+      "Payroll",
+      "Networks",
+      "Brochures"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A spreadsheet is a grid of:",
+    "options": [
+      "Cells",
+      "Rows",
+      "Columns",
+      "Addresses"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Which of the following is a benefit of using a database management system?",
+    "question": "Spreadsheets allow you to perform ___ calculations:",
     "options": [
-      "B. It reduces data storage costs",
-      "C",
-      "D. It reduces data processing time",
-      "A. It increases data redundancy"
+      "How to",
+      "What if",
+      "When is",
+      "Why not"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of attack where an attacker intercepts and alters data in transit?",
+    "question": "Which function involves calculating loan payments?",
     "options": [
-      "B. Denial of Service (DoS) attack",
-      "D. Man-in-the-middle (MitM) attack",
-      "A",
-      "C. Distributed Denial of Service (DDoS) attack"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of malware that uses social engineering to trick users into installing it?",
-    "options": [
-      "C. Worm",
-      "D. Trojan",
-      "B. Virus",
-      "A"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a benefit of using a database management system?",
-    "options": [
-      "B. It increases data storage costs",
-      "A. It reduces data redundancy",
-      "C",
-      "D. It increases data processing time"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of network that is used to connect devices in a wide area?",
-    "options": [
-      "D. Local Area Network (LAN)",
-      "A",
-      "B. Metropolitan Area Network (MAN)",
-      "C. Wireless Network (WLAN)"
+      "COUNTA",
+      "PMT",
+      "RANK",
+      "VLOOKUP"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a benefit of using a spreadsheet?",
+    "question": "A pivot table that uses the same field in the row and values area is called a:",
     "options": [
-      "B. It increases data storage costs",
-      "D. It reduces data analysis time",
-      "C. It increases data processing time",
-      "A"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a benefit of using a cloud-based service?",
-    "options": [
-      "B. It reduces data security risks",
-      "A",
-      "C. It increases data storage costs",
-      "D. It reduces network bandwidth"
+      "Pivot chart",
+      "Frequency distribution",
+      "One-dimensional table",
+      "Two-dimensional table"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a benefit of using a database management system?",
+    "question": "Which chart type shows data displayed horizontally?",
     "options": [
-      "D. It reduces data processing time",
-      "B",
-      "A. It increases data redundancy",
-      "C. It reduces data storage costs"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a benefit of using a spreadsheet?",
-    "options": [
-      "A. It reduces data analysis time",
-      "D. It reduces data storage costs",
-      "C. It increases data processing time",
-      "B"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "Which of the following is a benefit of using a cloud-based service?",
-    "options": [
-      "B. It increases data storage costs",
-      "A. It reduces data security risks",
-      "C",
-      "D. It reduces network bandwidth"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a benefit of using a cloud-based service?",
-    "options": [
-      "D. It reduces network bandwidth",
-      "B",
-      "C. It increases data storage costs",
-      "A. It reduces data security risks"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "What is the term for a network that spans a large geographic area, such as a city or country?",
-    "options": [
-      "B. Metropolitan Area Network (MAN)",
-      "A",
-      "C. Wide Area Network (WAN)",
-      "D. Local Area Network (LAN)"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a benefit of using a spreadsheet?",
-    "options": [
-      "B. It increases data storage costs",
-      "C",
-      "D. It increases data processing time",
-      "A. It reduces data analysis time"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of database that is designed to handle large amounts of unstructured data?",
-    "options": [
-      "B",
-      "C. Object-oriented database",
-      "D. NoSQL database",
-      "A. Relational database"
+      "Bar",
+      "Column",
+      "Line",
+      "Pie"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "Each of the following functions automatically produces True or False as a result EXCEPT:",
+    "options": [
+      "AND",
+      "IF",
+      "NOT",
+      "OR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The purpose of the VLOOKUP function is to ___ related records:",
+    "options": [
+      "Delete",
+      "Find",
+      "Replace",
+      "Summarise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a spreadsheet, columns are given:",
+    "options": [
+      "Numbers",
+      "Letters",
+      "Symbols",
+      "Colours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a spreadsheet, rows are given:",
+    "options": [
+      "Letters",
+      "Symbols",
+      "Numbers",
+      "Colours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The function =MAX(E4:E6) would return:",
+    "options": [
+      "The sum of cells E4 to E6",
+      "The highest value in cells E4 to E6",
+      "The average of cells E4 to E6",
+      "The count of cells E4 to E6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A chart that exists on the same page as the spreadsheet data is called:",
+    "options": [
+      "A chart sheet",
+      "An embedded chart",
+      "A pivot chart",
+      "A data chart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The feature that selects specified records meeting certain criteria in a spreadsheet is:",
+    "options": [
+      "Sort",
+      "AutoFilter",
+      "Pivot table",
+      "VLOOKUP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sorting data A to Z is described as:",
+    "options": [
+      "Descending order",
+      "Ascending order",
+      "Random order",
+      "Reverse order"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The function =AVERAGE(B1:C9) would:",
+    "options": [
+      "Count all values in B1 to C9",
+      "Find the maximum value in B1 to C9",
+      "Calculate the average of values in B1 to C9",
+      "Sum all values in B1 to C9"
+    ],
+    "correctIndex": 2
   }
 ]

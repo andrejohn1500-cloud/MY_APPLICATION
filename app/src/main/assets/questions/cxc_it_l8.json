@@ -1,22 +1,152 @@
 [
   {
-    "question": "A computer virus that replicates itself from system to system without user intervention is called a _______.",
+    "question": "The exposure of a computer system to the possibility of theft or damage is called a(n):",
     "options": [
-      "Spyware",
-      "Worm",
-      "Trojan horse",
-      "Adware"
+      "Attack",
+      "Threat",
+      "Vulnerability",
+      "Countermeasure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The correct order of stages in cybersecurity is:",
+    "options": [
+      "Attack, countermeasure, vulnerability, threat",
+      "Countermeasure, vulnerability, threat, attack",
+      "Threat, attack, countermeasure, vulnerability",
+      "Vulnerability, threat, attack, countermeasure"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Using websites or emails to trick users into entering personal information is known as:",
+    "options": [
+      "Propaganda",
+      "Identity theft",
+      "Financial abuse",
+      "Phishing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The use of technology to observe a user's actions without their knowledge is:",
+    "options": [
+      "Unauthorised access",
+      "Industrial espionage",
+      "Computer surveillance",
+      "Denial-of-service attack"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Using devices to monitor users' communications without their permission is called:",
+    "options": [
+      "Cyberbullying",
+      "Computer surveillance",
+      "Denial-of-service attack",
+      "Electronic eavesdropping"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The professional who posts messages using Twitter/Facebook and sends mass emails to clients is a:",
+    "options": [
+      "Computer support specialist",
+      "Social media specialist",
+      "Systems administrator",
+      "Web developer"
     ],
     "correctIndex": 1
   },
   {
-    "question": "The process of protecting a program from being accessed or modified by an unauthorized user is called _______.",
+    "question": "Preventing rightful owners of music from receiving payment for their creative work is known as:",
     "options": [
-      "Compression",
-      "Decryption",
-      "Encryption",
-      "Backup"
+      "Piracy",
+      "Propaganda",
+      "Cyberbullying",
+      "Eavesdropping"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The best way to protect a computer against viruses is to NEVER:",
+    "options": [
+      "Scan for viruses",
+      "Open email attachments from unknown senders",
+      "Turn on virus protection",
+      "Install anti-virus software"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The use of computer systems to distribute potentially harmful information is called:",
+    "options": [
+      "Propaganda",
+      "Cyber security",
+      "Computer fraud",
+      "Industrial espionage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The protection of data against damage is called:",
+    "options": [
+      "Computer security",
+      "Data security",
+      "Cyber security",
+      "Security threat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The protection of hardware and software resources against damage is called:",
+    "options": [
+      "Data security",
+      "Cyber security",
+      "Computer security",
+      "Security threat"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "An attempt to take advantage of a weakness in a computer system is called a(n):",
+    "options": [
+      "Vulnerability",
+      "Threat",
+      "Attack",
+      "Countermeasure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is NOT a source of computer vulnerability from outside?",
+    "options": [
+      "Natural disasters",
+      "Floods and earthquakes",
+      "Employee error",
+      "Terrorist activities"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Deliberately damaging a computer system through hacking is an example of:",
+    "options": [
+      "Accidental damage",
+      "Deliberate damage",
+      "Natural damage",
+      "Environmental damage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The three main types of computer viruses infect all of the following EXCEPT:",
+    "options": [
+      "Database files",
+      "Program files",
+      "Boot files",
+      "System files"
+    ],
+    "correctIndex": 0
   }
 ]

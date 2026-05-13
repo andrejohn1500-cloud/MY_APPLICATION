@@ -1,122 +1,152 @@
 [
   {
-    "question": "Which of the following is a benefit of using a cloud-based service?",
+    "question": "A program listing is the printout or soft copy of the:",
     "options": [
-      "D",
-      "A. It reduces data security risks",
-      "B. It increases data storage costs",
-      "C. It reduces network bandwidth"
+      "Test results",
+      "Source program",
+      "Object code",
+      "User documentation"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
-    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of graph-structured data, making it ideal for applications such as social media and recommendation systems.",
+    "question": "Three examples of translators are compilers, interpreters and:",
     "options": [
-      "key-value",
-      "document-oriented",
-      "column-family",
-      "graph"
+      "Editors",
+      "Debuggers",
+      "Assemblers",
+      "Linkers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Black box testing checks that:",
+    "options": [
+      "The source code is correct",
+      "The correct output is produced from the input",
+      "All loops are tested",
+      "The program documentation is complete"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "White box testing checks:",
+    "options": [
+      "Correct output from input only",
+      "Accuracy of processing through every possible path",
+      "The user interface design",
+      "Performance speed of the software"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Good test data should be reliable, stable, easy to maintain and:",
+    "options": [
+      "Expensive to create",
+      "Portable",
+      "Limited in scope",
+      "Only use valid values"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Pascal, the keyword used to declare a variable is:",
+    "options": [
+      "Const",
+      "Var",
+      "Begin",
+      "Program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Pascal, the keyword Const is used to:",
+    "options": [
+      "Declare a variable",
+      "Assign a value to a constant when it is created",
+      "Output text to the screen",
+      "Mark the end of the program"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Pascal statement that outputs text and moves the cursor to the next line is:",
+    "options": [
+      "Write",
+      "Writeln",
+      "Read",
+      "Readln"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In Pascal, the assignment operator is:",
+    "options": [
+      "=",
+      "==",
+      ":=",
+      "->"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The very last line of a Pascal main program ends with:",
+    "options": [
+      "End",
+      "END",
+      "End;",
+      "End."
     ],
     "correctIndex": 3
   },
   {
-    "question": "A ____ network is a type of network that uses a combination of wired and wireless technologies to manage and control access to resources on the network.",
+    "question": "A compound statement in Pascal consists of:",
     "options": [
-      "wireless local area network (WLAN)",
-      "wireless metropolitan area network (WMAN)",
-      "wireless wide area network (WWAN)",
-      "wireless personal area network (WPAN)"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "A device that uses the principles of fiber optic communication to transmit data over long distances is classified as a type of:",
-    "options": [
-      "switch",
-      "repeater",
-      "router",
-      "bridge"
+      "A single instruction",
+      "Two or more statements within Begin and End",
+      "Only a loop structure",
+      "Only an IF statement"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a type of database that is designed to handle large amounts of structured data?",
+    "question": "In Pascal, the WHILE loop checks its condition:",
     "options": [
-      "B. NoSQL database",
-      "A. Object-oriented database",
-      "D",
-      "C. Relational database"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of computer networking, what is the term for the process of dividing a large file into smaller chunks for transmission over a network?",
-    "options": [
-      "concatenation",
-      "segmentation",
-      "fragmentation",
-      "packetization"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of users in a real-world environment using a technique called A/B testing?",
-    "options": [
-      "integration testing",
-      "A/B testing",
-      "system testing",
-      "acceptance testing"
+      "After each iteration",
+      "Before executing statements",
+      "Only once",
+      "At the end of the loop"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the context of computer hardware, what is the term for the process of converting digital signals to analog signals?",
+    "question": "The REPEAT...UNTIL loop in Pascal continues until the condition becomes:",
     "options": [
-      "A/D conversion",
-      "I/O conversion",
-      "sampling",
-      "D/A conversion"
-    ],
-    "correctIndex": 3
-  },
-  {
-    "question": "The ____ protocol is used for secure communication between a web browser and a web server over a network using a technique called encryption?",
-    "options": [
-      "FTP",
-      "HTTPS",
-      "SFTP",
-      "SCP"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A ____ network is a type of network that uses a combination of client-server and peer-to-peer approaches to manage and control access to resources on the network.",
-    "options": [
-      "peer-to-peer",
-      "client-server",
-      "hybrid",
-      "local area network"
+      "FALSE",
+      "EMPTY",
+      "TRUE",
+      "ZERO"
     ],
     "correctIndex": 2
   },
   {
-    "question": "A ____ database stores data in a format that is optimized for fast search and retrieval, making it ideal for applications such as online shopping and social media.",
+    "question": "Comments in a Pascal program are enclosed in:",
     "options": [
-      "object-oriented",
-      "NoSQL",
-      "hierarchical",
-      "relational"
+      "Square brackets []",
+      "Curly brackets {}",
+      "Parentheses ()",
+      "Angle brackets <>"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals?",
+    "question": "In Pascal, the Readln statement:",
     "options": [
-      "D/A conversion",
-      "I/O conversion",
-      "A/D conversion",
-      "sampling"
+      "Outputs text to the screen",
+      "Reads data from the keyboard and waits for Enter to be pressed",
+      "Assigns a value to a variable",
+      "Marks the end of the program"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   }
 ]

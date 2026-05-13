@@ -1,152 +1,152 @@
 [
   {
-    "question": "Which of the following is a type of programming language that is used for mobile app development?",
+    "question": "An example of a web browser is:",
     "options": [
-      "D. Functional language",
-      "A",
-      "B. Procedural language",
-      "C. Object-oriented language"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Which of the following is a type of programming language that is used for mobile app development?",
-    "options": [
-      "B. Object-oriented language",
-      "A. Procedural language",
-      "D. Functional language",
-      "C"
+      "Docs",
+      "Forms",
+      "Sheets",
+      "Chrome"
     ],
     "correctIndex": 3
   },
   {
-    "question": "What is the purpose of a word processor?",
+    "question": "An e-commerce website:",
     "options": [
-      "C. To create a spreadsheet",
-      "D. To create a presentation",
-      "B",
-      "A. To create a database"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Which of the following is a type of database that is designed to handle large amounts of structured data?",
-    "options": [
-      "A. Object-oriented database",
-      "D. Relational database",
-      "B",
-      "C. NoSQL database"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the term for a type of encryption that uses a key to scramble data?",
-    "options": [
-      "A",
-      "D. Compression",
-      "B. Hash encryption",
-      "C. Digital signature"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of attack where an attacker sends a large amount of traffic to a network in an attempt to overwhelm it?",
-    "options": [
-      "C",
-      "B. Distributed Denial of Service (DDoS) attack",
-      "D. Man-in-the-middle (MitM) attack",
-      "A. Denial of Service (DoS) attack"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a word processor?",
-    "options": [
-      "A",
-      "C. To create a spreadsheet",
-      "D. To create a presentation",
-      "B. To create a database"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a firewall in a computer network?",
-    "options": [
-      "B",
-      "C. To disconnect from the internet",
-      "D. To provide network access to guests",
-      "A. To connect to the internet"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the purpose of a pivot table in a spreadsheet?",
-    "options": [
-      "B. To filter data",
-      "D. To sort data",
-      "A",
-      "C. To create a chart"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "What is the purpose of a hash function in a database?",
-    "options": [
-      "D. To verify data integrity",
-      "C",
-      "B. To compress data",
-      "A. To encrypt data"
+      "Is a standalone web page",
+      "Receives online payments",
+      "Stores resumes and portfolios for users",
+      "Stores only articles and blog posts"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Which of the following is a type of programming language that is used for web development?",
+    "question": "Browsers let you ___ HTML files:",
     "options": [
-      "D. Imperative language",
-      "A",
-      "B. Object-oriented language",
-      "C. Functional language"
+      "Edit",
+      "View",
+      "Create",
+      "Delete"
     ],
     "correctIndex": 1
   },
   {
-    "question": "What is the term for a type of encryption that uses a key to scramble data?",
+    "question": "The path a visitor would take to access a web page is called a:",
     "options": [
-      "B",
-      "C. Digital signature",
-      "D. Compression",
-      "A. Hash encryption"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "What is the term for a type of encryption that uses a key to scramble data?",
-    "options": [
-      "D. Compression",
-      "C. Digital signature",
-      "A. Hash encryption",
-      "B"
+      "List",
+      "Web page",
+      "Hyperlink",
+      "Breadcrumb"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Which of the following is a type of network that is used to connect devices in a local area?",
+    "question": "The header of a web page usually contains:",
     "options": [
-      "B",
-      "A. Wide Area Network (WAN)",
-      "D. Wireless Network (WLAN)",
-      "C. Metropolitan Area Network (MAN)"
+      "Summary information",
+      "A logo or company name",
+      "Major sections of the web page",
+      "Copyright, legal or privacy notices"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A bookmark can connect to any of the following EXCEPT:",
+    "options": [
+      "HTML code",
+      "An email message",
+      "Another web page, file or document",
+      "Another position within the web page"
     ],
     "correctIndex": 0
   },
   {
-    "question": "What is the term for a type of attack where an attacker sends a large amount of traffic to a network in an attempt to overwhelm it?",
+    "question": "Usually, an orphan web page means there are no:",
     "options": [
-      "A. Denial of Service (DoS) attack",
-      "D. Man-in-the-middle (MitM) attack",
-      "B",
-      "C. Distributed Denial of Service (DDoS) attack"
+      "Email addresses",
+      "Titles on the web page",
+      "Links connecting to other web pages",
+      "Major sections on the web page"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "The following are all free online web services for creating websites EXCEPT:",
+    "options": [
+      "Wix",
+      "Word",
+      "Weebly",
+      "Webnote"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the breadcrumb path Home / Water / Bottled / Reusable, the current page is:",
+    "options": [
+      "Home",
+      "Water",
+      "Bottled",
+      "Reusable"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The universal language used to produce web pages is:",
+    "options": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which category of website requires users to login to edit its content?",
+    "options": [
+      "E-commerce",
+      "Dynamic",
+      "Static",
+      "Mobile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The category of web page most suitable for online purchases is:",
+    "options": [
+      "Social networking",
+      "Mobile",
+      "Shopping or e-commerce",
+      "Community building"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Three common web browsers include Google Chrome, Mozilla Firefox and:",
+    "options": [
+      "Google Docs",
+      "Microsoft Office",
+      "Microsoft Edge",
+      "Adobe Reader"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A web page designed specifically for viewing on a small device uses:",
+    "options": [
+      "E-commerce design",
+      "Mobile design",
+      "Static design",
+      "Blog design"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A website consists of:",
+    "options": [
+      "One web page only",
+      "One or more web pages",
+      "Only downloadable files",
+      "Only HTML code"
+    ],
+    "correctIndex": 1
   }
 ]

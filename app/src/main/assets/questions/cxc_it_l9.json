@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Which of the following is a social impact of IT in the workplace?",
+    "options": [
+      "Faster processing speeds",
+      "Reduced social contact among employees",
+      "Better graphics on monitors",
+      "Larger storage capacity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Workers being automatically paid by electronic funds transfer is an example of:",
+    "options": [
+      "Work patterns",
+      "A cashless society",
+      "Health and safety",
+      "Employment change"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "RSI stands for:",
+    "options": [
+      "Remote System Interface",
+      "Repetitive Strain Injury",
+      "Random Storage Index",
+      "Real-time System Input"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A health risk from using computers for long periods includes:",
+    "options": [
+      "Improved posture",
+      "Better eyesight",
+      "Radiation hazards from monitors",
+      "Increased social interaction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "New jobs created in IT-related fields include all of the following EXCEPT:",
+    "options": [
+      "Programmers",
+      "Systems analysts",
+      "Robot maintenance",
+      "Manual factory workers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which computer personnel provides direct assistance to computer users?",
+    "options": [
+      "Network administrator",
+      "Computer support specialist",
+      "Systems administrator",
+      "Web developer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An advantage to a company of employees working from home includes:",
+    "options": [
+      "No need to provide office space, heating or refreshments",
+      "Better team communication face to face",
+      "More direct supervision of staff",
+      "Faster internet connections for staff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Point-of-sale (POS) terminals with barcode readers are used in which commercial application?",
+    "options": [
+      "Banking",
+      "Research",
+      "Sales/retail",
+      "Medical"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The impact of IT on employment includes all of the following EXCEPT:",
+    "options": [
+      "Practical skilled jobs on the decline",
+      "Possible redundancies",
+      "New IT-related jobs created",
+      "No need to retrain workers"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The copyright of software means the files are:",
+    "options": [
+      "Free to copy",
+      "Legally owned by individuals or organisations",
+      "Too large to share",
+      "Difficult to install"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Software created specifically for one organisation is called:",
+    "options": [
+      "Custom-written or customised software",
+      "Integrated software",
+      "General-purpose software",
+      "Freeware"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Musicians use MIDI hardware to:",
+    "options": [
+      "Print sheet music",
+      "Produce music and interface with computer systems",
+      "Create databases",
+      "Broadcast radio signals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "External sources that can make computer systems vulnerable include:",
+    "options": [
+      "Employee error",
+      "Natural disasters and floods",
+      "Lack of backup procedures",
+      "Viruses already installed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Integrated software refers to:",
+    "options": [
+      "Software downloaded from the Internet",
+      "Software that combines several applications into one package",
+      "Free open-source software",
+      "Software written for a specific user"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of computerised information system hardware is used by banks?",
+    "options": [
+      "Scanners and cameras",
+      "Point-of-sale terminals and ATMs",
+      "Robots and sensors",
+      "Plotters and 3D printers"
+    ],
+    "correctIndex": 1
+  }
+]

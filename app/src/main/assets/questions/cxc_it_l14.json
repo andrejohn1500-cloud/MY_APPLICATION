@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "A report in a database is used to:",
+    "options": [
+      "Enter new records",
+      "Search for records",
+      "Present data in a formatted, printable layout",
+      "Create new tables"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of database key uniquely identifies each record in a table?",
+    "options": [
+      "Composite key",
+      "Foreign key",
+      "Candidate key",
+      "Primary key"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A field that could potentially serve as a primary key is called a:",
+    "options": [
+      "Foreign key",
+      "Composite key",
+      "Candidate key",
+      "Secondary key"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Good database design avoids storing all information about a subject in one table to prevent:",
+    "options": [
+      "Fast searching",
+      "Data duplication",
+      "Easy sorting",
+      "Quick updating"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a database, which field would typically be given a text data type?",
+    "options": [
+      "Age",
+      "Price",
+      "Student ID number",
+      "Exam score"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Boolean (Y/N) field in a database stores:",
+    "options": [
+      "Numbers only",
+      "Text only",
+      "True/False or Yes/No values",
+      "Dates only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Exporting data from a database application means:",
+    "options": [
+      "Deleting the records",
+      "Saving a copy that can be opened in another application",
+      "Creating a new table",
+      "Printing the report"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When joining two tables in a database query, they are connected using:",
+    "options": [
+      "Common field names",
+      "Different field types",
+      "Similar record counts",
+      "Matching report formats"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An AutoNumber field in a database is:",
+    "options": [
+      "Entered manually by the user",
+      "Automatically assigned by the database",
+      "Always a text field",
+      "Not suitable as a primary key"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which database object presents output formatted and grouped by certain fields?",
+    "options": [
+      "Form",
+      "Query",
+      "Table",
+      "Report"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "To find records where a product is on discount, the query criterion for a Yes/No field is:",
+    "options": [
+      "Discount = Yes",
+      "Discount = Y",
+      "Discount IS NOT NULL",
+      "Discount = No"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When designing a database, entering sample data initially helps to:",
+    "options": [
+      "Delete unwanted records",
+      "Make sure the design stores and retrieves data correctly",
+      "Speed up real-time queries",
+      "Create automatic backups"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A database structure where a field in one table links to records in another creates a:",
+    "options": [
+      "Simple file",
+      "Relational database",
+      "Serial file",
+      "Flat file database"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Numeric data types in a database are mainly used where:",
+    "options": [
+      "Only names are stored",
+      "Calculations need to be performed",
+      "Text formatting is needed",
+      "Images are stored"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Importing data into a database application means:",
+    "options": [
+      "Saving data to a file",
+      "Creating a copy of data from another application in the existing database",
+      "Deleting duplicate records",
+      "Printing records"
+    ],
+    "correctIndex": 1
+  }
+]

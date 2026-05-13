@@ -1,152 +1,152 @@
 [
   {
-    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system using a technique called power factor correction?",
+    "question": "The part of the computer that interprets programming code to carry out instructions is the:",
     "options": [
-      "hard drive",
-      "power supply unit (PSU)",
-      "motherboard",
-      "CPU"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system.",
-    "options": [
+      "CU",
       "CPU",
-      "power supply unit (PSU)",
-      "motherboard",
-      "hard drive"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a dedicated circuit?",
-    "options": [
-      "packet switching",
-      "circuit switching",
-      "cut-through switching",
-      "store-and-forward switching"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer programming, what is the term for the process of testing a program with a large number of users in a real-world environment?",
-    "options": [
-      "acceptance testing",
-      "beta testing",
-      "system testing",
-      "integration testing"
+      "ALU",
+      "ROM"
     ],
     "correctIndex": 0
   },
   {
-    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a series of packets?",
+    "question": "Errors resulting from incorrect use of programming language rules are called:",
     "options": [
-      "circuit switching",
-      "packet switching",
-      "store-and-forward switching",
-      "cut-through switching"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer programming, what is the term for the process of testing a program with a small number of users in a controlled environment?",
-    "options": [
-      "beta testing",
-      "integration testing",
-      "alpha testing",
-      "system testing"
+      "Data errors",
+      "Logic errors",
+      "Syntax errors",
+      "Runtime errors"
     ],
     "correctIndex": 2
   },
   {
-    "question": "What is the term for a type of attack where an attacker sends a large amount of traffic to a network in an attempt to overwhelm it?",
+    "question": "Using ___ data ensures that the program is working as expected:",
     "options": [
-      "B. Distributed Denial of Service (DDoS) attack",
-      "C. Man-in-the-middle (MitM) attack",
-      "D",
-      "A. Denial of Service (DoS) attack"
+      "Correct",
+      "Output",
+      "Sample/test",
+      "Source"
     ],
     "correctIndex": 2
   },
   {
-    "question": "The ____ unit is responsible for converting electrical power from the mains supply to a form that is usable by a computer.",
+    "question": "An example of a programming language that uses a graphical user interface is:",
     "options": [
-      "power supply unit (PSU)",
-      "CPU",
-      "motherboard",
-      "hard drive"
+      "VBA",
+      "BASIC",
+      "COBOL",
+      "PROLOG"
     ],
     "correctIndex": 0
   },
   {
-    "question": "The ____ unit is responsible for controlling the flow of electrical power to different components of a computer system using a technique called voltage regulation?",
+    "question": "A variable that stores a collection of characters such as a word or sentence is a(n):",
     "options": [
-      "CPU",
-      "power supply unit (PSU)",
-      "hard drive",
-      "motherboard"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of time-series data, making it ideal for applications such as IoT and industrial automation.",
-    "options": [
-      "key-value",
-      "time-series",
-      "document-oriented",
-      "column-family"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer networking, what is the term for the process of transmitting data over a network using a technique called store-and-forward switching?",
-    "options": [
-      "circuit switching",
-      "store-and-forward switching",
-      "packet switching",
-      "cut-through switching"
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "In the context of computer hardware, what is the term for the process of converting analog signals to digital signals using a technique called sampling?",
-    "options": [
-      "sampling",
-      "A/D conversion",
-      "undersampling",
-      "oversampling"
+      "String",
+      "Integer",
+      "Number",
+      "Character"
     ],
     "correctIndex": 0
   },
   {
-    "question": "A ____ database stores data in a format that is optimized for fast querying and analysis of large data sets, making it ideal for applications such as business intelligence and data warehousing.",
+    "question": "For a FOR loop, which statement is TRUE?",
     "options": [
-      "graph",
-      "key-value",
-      "document-oriented",
-      "column-family"
+      "Only the start value must be known",
+      "Only the end value must be known",
+      "Both start and end values are optional",
+      "Both start and end values must be known"
     ],
     "correctIndex": 3
   },
   {
-    "question": "The ____ protocol is used for secure communication between a web browser and a web server over a wireless network.",
+    "question": "Logic errors in a program produce:",
     "options": [
-      "SCP",
-      "HTTPS",
-      "SSL/TLS",
-      "FTP"
+      "Test data",
+      "Syntax errors",
+      "Wrong results",
+      "Error messages"
     ],
     "correctIndex": 2
   },
   {
-    "question": "In the context of computer programming, what is the term for the process of testing a program with a small number of test cases to ensure it is working correctly?",
+    "question": "Debugging is the process of finding errors in the:",
     "options": [
-      "integration testing",
-      "system testing",
-      "acceptance testing",
-      "unit testing"
+      "Test data",
+      "Error messages",
+      "Source code",
+      "Object code"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A test case documents values to compare with actual results when a program is:",
+    "options": [
+      "Input, compiled",
+      "Input, executed",
+      "Output, compiled",
+      "Output, executed"
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Adding comments to a program is best achieved:",
+    "options": [
+      "When a user has tested it",
+      "While writing the program",
+      "After the program is written",
+      "When it is maintained in future"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The keyword REM in BASIC refers to a(n):",
+    "options": [
+      "Error message",
+      "Comment",
+      "Data type",
+      "Loop"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Testing a program involves each of the following EXCEPT:",
+    "options": [
+      "Creating a set of test cases",
+      "Fixing errors in the program",
+      "Running the program with each test case",
+      "Checking the performance of the software"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Low-level programming languages are:",
+    "options": [
+      "Easy to understand by humans",
+      "Machine-dependent and not easy to understand by humans",
+      "Automatically converted to pseudocode",
+      "Always used in modern applications"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "High-level programming languages must be converted to:",
+    "options": [
+      "Assembly language",
+      "Pseudocode",
+      "Machine language",
+      "Flowchart code"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A translator converts:",
+    "options": [
+      "Data to information",
+      "Program code to machine code",
+      "Source files to text",
+      "Algorithms to flowcharts"
+    ],
+    "correctIndex": 1
   }
 ]

@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "question": "Records arranged one after another in the order they were added describes a:",
+    "options": [
+      "Sequential file",
+      "Serial file",
+      "Fully indexed file",
+      "Direct access file"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Records stored in sorted order describes a:",
+    "options": [
+      "Serial file",
+      "Direct access file",
+      "Sequential file",
+      "Fully indexed file"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The special name given to the field that normally and uniquely identifies a record is:",
+    "options": [
+      "Foreign key",
+      "Composite key",
+      "Candidate key",
+      "Primary key"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A field that is a primary key in one table and also appears in another table is called a:",
+    "options": [
+      "Composite key",
+      "Candidate key",
+      "Foreign key",
+      "Secondary key"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In most businesses, which two files are needed together to update records?",
+    "options": [
+      "Master and index files",
+      "Master and transaction files",
+      "Serial and sequential files",
+      "Direct and indexed files"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which type of processing records transactions and updates files at specific scheduled times?",
+    "options": [
+      "Real-time",
+      "Online",
+      "Batch",
+      "Immediate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which type of processing updates records immediately, such as when a payment is made online?",
+    "options": [
+      "Batch",
+      "Real-time",
+      "Sequential",
+      "Archived"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "EPOS stands for:",
+    "options": [
+      "Electronic Point Of Sale",
+      "Electronic Processing Of Systems",
+      "Estimated Point Of Service",
+      "Electronic Print Output System"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Data logging involves recording data:",
+    "options": [
+      "Manually by users",
+      "Automatically at specific intervals",
+      "Once a day only",
+      "Using a keyboard"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of good information?",
+    "options": [
+      "Accurate",
+      "Complete",
+      "Expensive",
+      "Timely"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The automated method of data capture that reads printed or handwritten characters is:",
+    "options": [
+      "MICR",
+      "OCR",
+      "OMR",
+      "Smart card reader"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The correct order from largest to smallest is:",
+    "options": [
+      "Field, record, file",
+      "File, field, record",
+      "File, record, field",
+      "Record, file, field"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which file organisation allows data to be accessed immediately without reading from the beginning?",
+    "options": [
+      "Serial",
+      "Sequential",
+      "Fully indexed",
+      "Direct access"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "When data is retrieved from a sequential access storage device, it starts from:",
+    "options": [
+      "A random location",
+      "The last location",
+      "The beginning",
+      "Any position"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A format check on a National Insurance number would verify:",
+    "options": [
+      "The number is within a valid range",
+      "The data is the correct type",
+      "The entry matches a required pattern",
+      "The field is not empty"
+    ],
+    "correctIndex": 2
+  }
+]
