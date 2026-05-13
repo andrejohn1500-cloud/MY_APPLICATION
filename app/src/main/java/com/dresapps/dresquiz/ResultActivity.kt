@@ -307,8 +307,7 @@ class ResultActivity : AppCompatActivity() {
                 val responseCode = conn.responseCode
                 val responseBody = conn.inputStream.bufferedReader().readText()
                 conn.disconnect()
-                }
-            } catch (e: Exception) {
+                } catch (e: Exception) {
                 e.printStackTrace()
                 }
             }
