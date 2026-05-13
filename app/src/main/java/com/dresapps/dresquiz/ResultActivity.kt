@@ -311,4 +311,5 @@ class ResultActivity : AppCompatActivity() {
                 e.printStackTrace()
                 }
         }.start()
+    }
 }
